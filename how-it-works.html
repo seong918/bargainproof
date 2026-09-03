@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>How it works · DealCheck</title>
+<meta name="description" content="How DealCheck checks community deals against Amazon's live price, what we can and can't verify, and where the deals come from.">
+<link rel="canonical" href="https://seong918.github.io/bargainproof/how-it-works.html">
+<link rel="alternate" type="application/rss+xml" title="DealCheck deals" href="https://seong918.github.io/bargainproof/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@400;600&display=swap">
+<link rel="stylesheet" href="https://seong918.github.io/bargainproof/style.css">
+<meta property="og:site_name" content="DealCheck">
+<meta property="og:title" content="How it works">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://seong918.github.io/bargainproof/how-it-works.html">
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <a class="brand" href="https://seong918.github.io/bargainproof/"><span class="mark">✓</span>DealCheck</a>
+    <nav>
+      <a href="https://seong918.github.io/bargainproof/" >Deals</a>
+      <a href="https://seong918.github.io/bargainproof/rejected.html" >Filtered out</a>
+      <a href="https://seong918.github.io/bargainproof/how-it-works.html" class="on">How it works</a>
+      <a href="https://seong918.github.io/bargainproof/subscribe.html" >Get the email</a>
+    </nav>
+  </div>
+</header>
+
+<main class="prose wrap narrow">
+  <h1>How it works</h1>
+  <p class="lede">A deal is only as good as the price it's compared to. Here's exactly what we check, and what we don't.</p>
+
+  <h2>Where deals come from</h2>
+  <p>We read the public feeds of the biggest US deal communities and sites — currently <strong>Slickdeals, DealCatcher, TechBargains, Hip2Save, DealNews</strong>, and <strong>CheapShark</strong> for PC games. Roughly a thousand new posts a day. We don't scrape anyone's pages; feeds only.</p>
+
+  <h2>The check</h2>
+  <p>Every deal goes through one of two paths, and the badge tells you which.</p>
+  <table>
+    <tr><th>Badge</th><th>What happened</th></tr>
+    <tr>
+      <td><span class="badge verified">Beats Amazon</span></td>
+      <td>A deal at Walmart, Target, Best Buy, etc. We looked up the same item on Amazon <em>right then</em> and the deal was cheaper by at least $5 and 5%. We show you Amazon's price and the timestamp.</td>
+    </tr>
+    <tr>
+      <td><span class="badge verified">Price confirmed</span></td>
+      <td>An Amazon deal. We fetched the product page ourselves and reproduced the posted price — including clip coupons (list price − coupon = posted price). If it didn't match, it went to the <a href="https://seong918.github.io/bargainproof/rejected.html">filtered-out list</a>.</td>
+    </tr>
+    <tr>
+      <td><span class="badge community">Community pick</span></td>
+      <td>We <em>couldn't</em> reproduce the price automatically — usually a promo code, Subscribe &amp; Save, or a Prime-only price. We pass these through only when the community score is strong, and we never call them verified.</td>
+    </tr>
+  </table>
+
+  <h2>What we don't do</h2>
+  <ul>
+    <li><strong>No price history.</strong> We check the price <em>now</em>, not whether it's an all-time low. If you want history, Keepa and CamelCamelCamel do that well.</li>
+    <li><strong>No "lowest across all stores" claims.</strong> We compare against Amazon only. If Costco has it cheaper, we won't know.</li>
+    <li><strong>No MSRP math.</strong> "70% off list price" tells you nothing when the list price is fiction. We compare against a real, current price.</li>
+  </ul>
+
+  <h2>Why we publish what we rejected</h2>
+  <p>It's the only proof that money isn't deciding what you see. Every deal we looked at and didn't post is on the <a href="https://seong918.github.io/bargainproof/rejected.html">filtered-out page</a> with its reason — "Amazon already cheaper", "posted price didn't match", "duplicate", "expired". If a paid placement ever slipped through, you'd catch it there.</p>
+
+  <h2>Freshness</h2>
+  <p>Feeds are polled about every five minutes. Amazon prices are fetched when a deal first appears; the timestamp on each deal is when <em>we</em> looked, not when the community posted. Deals drop off the front page after 7 days but the pages stay up for reference.</p>
+
+  <h2>Money</h2>
+  <p>We don't earn from any link today. If we add affiliate links later, every affected deal will say so, and the filtered-out list will keep working exactly as it does now.</p>
+</main>
+
+<footer>
+  <div class="wrap">
+    <span>© 2026 DealCheck</span>
+    <span>
+      <a href="https://seong918.github.io/bargainproof/feed.xml">RSS</a> ·
+      <a href="https://seong918.github.io/bargainproof/how-it-works.html">Methodology</a> ·
+      <a href="https://seong918.github.io/bargainproof/privacy.html">Privacy</a>
+    </span>
+    <p class="disc">Prices are checked at the time shown on each deal and can change at any moment — confirm on the store page before you buy. We currently earn nothing from these links. If that changes, we'll say so here and on every deal.</p>
+  </div>
+</footer>
+</body>
+</html>
