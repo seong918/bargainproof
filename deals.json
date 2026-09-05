@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "5728bfb22fdf",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19974948-hoto-25-piece-upgraded-electric-screwdriver-kit-cordless-screwdriver-29-99",
+  "title": "HOTO 25-Piece Upgraded Electric Screwdriver Kit, Cordless Screwdriver",
+  "raw_title": "HOTO 25-Piece Upgraded Electric Screwdriver Kit, Cordless Screwdriver $29.99",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0BLMQ8BXB",
+  "deal_total_cents": 2999,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 2998,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 2998,
+  "amazon_url": "https://www.amazon.com/dp/B0BLMQ8BXB",
+  "amazon_checked_at": "2026-09-05T12:50:15.360597Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 0,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0BLMQ8BXB",
+  "image_url": null,
+  "published_at": "2026-09-05T12:49:56.261383Z"
+ },
+ {
   "deal_id": "e7720503da87",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19974933-73-81-carhartt-men-s-c003-arctic-traditional-coat-quilt-lined-medium-at-amazon",
