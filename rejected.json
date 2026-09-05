@@ -1,5 +1,109 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "adidas Originals Crescent Crossbody Bag (Cream White) $11.65 + Free S&H on $49+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T08:01:04.055029Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ocalpur 130 PCS Griddle Accessories Kit $19.99 + Free S&H w/ Walmart+ or $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T07:55:39.530233Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Breaking Bad: The Complete Series (Digital HD TV Show) $20",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T07:55:39.530233Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "The Secret Life of Pets (4K UHD + Blu-ray) $12.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically",
+  "rejected_at": "2026-09-05T07:50:22.347686Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Garden Winds Reinforced RipLock 350 Replacement Canopy Top Cover Compatible with Ozark Trail 4' x 6' Outdoor Pop Up Canopy Model FGA64S1, various colors $31.49",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it",
+  "rejected_at": "2026-09-05T07:50:22.347686Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Shark ZU102 Rotator Pet Upright Vacuum with PowerFins HairPro & Odor Neutralizer Technology, Charcoal, 2.9 L Dust Cup $219.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it",
+  "rejected_at": "2026-09-05T07:50:22.347686Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Best Price Mattress 10 inch Queen Mattress Bed-In-A-Box, Green Tea Memory Foam , White $189.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it",
+  "rejected_at": "2026-09-05T07:45:02.381776Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS] $4.26* | 4-Ct Sharpie Mini Permanent Markers (Fine Point, Assorted Colors) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically",
+  "rejected_at": "2026-09-05T07:45:02.381776Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Set of 4 Greendale Home Fashions Outdoor 18 inch Square Patio Dining Chair Pads – Comfortable Fiber-Filled Seat Cushions with Ties, various colors $64.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it",
+  "rejected_at": "2026-09-05T07:45:02.381776Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Certified Refurb Anker Solix F2600 Portable Power Station for $880 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T07:39:25.218239Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Greaton, 9-Inch Medium Firm High Density Foam Mattress, Comfortable Mattress for Cooler Sleep, Supportive & Pressure Relief, Twin XL, White $260.6",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it",
+  "rejected_at": "2026-09-05T07:39:25.218239Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Dyson - OnTrac Customizable Active Noise-Cancelling Headphones - Aluminum for $250",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T07:39:25.218239Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CUCKOO Twin Pressure Induction Rice Cooker, 12-Cup Cooked, CRP-PHTR0609FS $449.98",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it",
+  "rejected_at": "2026-09-05T07:39:25.218239Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
   "source": "dealnews",
   "raw_title": "18V Replacement Battery 2-Pack for Ryobi Tools for $37 + free shipping",
   "reason": "Not evaluated",
