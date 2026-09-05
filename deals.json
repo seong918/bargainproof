@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "288a0e312b5a",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19972401-s-s-17-04-12-pack-atkins-chocolate-banana-high-protein-shake",
+  "title": ": 12-Pack Atkins Chocolate Banana High Protein Shake",
+  "raw_title": "[S&S] $17.04: 12-Pack Atkins Chocolate Banana High Protein Shake",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1704,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-05T15:52:14.203358Z"
+ },
+ {
   "deal_id": "3b649f06553e",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19967640-99-99-msi-pro-850w-a850pl-pcie5-80-platinum-fully-modular-gaming-power-supply-at-amazon",
