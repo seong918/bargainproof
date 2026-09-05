@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "4415973b8d47",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19974063-sns-ac-11-21-12-pack-19-2-oz-king-size-liquid-death-still-mountain-water-at-amazon",
+  "title": "12-Pack 19.2-Oz King Size Liquid Death Still Mountain Water",
+  "raw_title": "[SnS, AC] $11.21 | 12-Pack 19.2-Oz King Size Liquid Death Still Mountain Water at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1121,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-05T12:38:42.163448Z"
+ },
+ {
   "deal_id": "11f769d8a239",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19974807-21-49-carhartt-men-s-106573-force-sun-defender-relaxed-1-2-zip-at-amazon",
