@@ -1,6 +1,126 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon - Smart Watch for Kids No APP No Phone Needed, 1.83\" Fitness Tracker Watch with Heart Rate/Sleep Monitor - $19.79",
+  "reason": "Posted at $19.79, but Amazon showed $35.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-05T08:09:05.035550Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Round Trip Baltimore MD to Tokyo Japan $864 Airfares on United Airlines/ANA BE with 1 Free Checked Bag (Travel December - March 2027)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T08:09:05.035550Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Coleman Folding Polyester X-large Cot ( 600-lb Capacity ) $190.36 + Free S&H at Lowe's",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T08:09:05.035550Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Galanz 4.6 cu ft Stainless Steel Mini Fridge with Freezer - $168",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T08:09:05.035550Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Skilsaw TS6307-00-FS 120V 15A 10\" Corded Jobsite Table Saw Certified Refurbished - $217 $216.55",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T08:09:05.035550Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Kung Fu Panda 2 (Blu-ray + Digital) $7.86 Walmart.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T08:09:05.035550Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Greenworks 60V 660 CFM Cordless Battery Brushless Leaf Blower 2.5 ah battery and charger + Free S/H $127.5",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T08:09:05.035550Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SpaceHacks 5-Tier Over the Door Organizer with Mesh Pockets, Dark Grey $8.44 AC + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T08:09:05.035550Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Dying Light 2 Stay Human: Reloaded Edition (PC Game) $10.80",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T08:09:05.035550Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "12-Month Infimobile Unlimited Talk & Text + 20GB Data / Mo. Plan - $120",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T08:09:05.035550Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nike Men's Vomero 18 Shoes (White/Black Spruce/Volt Tint/Sapphire) $84 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T08:09:05.035550Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Spacewalk EB013 1200W (Peak) Electric Bike 48V 13Ah 28mph 60Mile Range 20in x 3.0in Fat Tires $299 + Free S/H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T08:09:05.035550Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ace Hardware: 1-Gal Benjamin Moore Regal Select Interior Paint $54.39–$59.19 (20% Off)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T08:06:41.185000Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$70.98: (2 Pack)DEWALT DCB205 20V Max XR 5.0Ah Lithium-Ion Battery New In Pack Batteries at ebay",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T08:06:41.185000Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Asus ROG Ally X AMD Ryzen Z1 Extreme 7\" 1080p 120Hz VRR Windows Gaming Heldheld (24GB/1TB) $799.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T08:06:41.185000Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "adidas Originals Crescent Crossbody Bag (Cream White) $11.65 + Free S&H on $49+",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T08:01:04.055029Z",
