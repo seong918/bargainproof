@@ -1,5 +1,85 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "SYINTAO Slushie & Soft Serve Ice Cream Machine for Home, 61 Fl Oz Max Fill, No Ice Needed $125.99",
+  "reason": "Posted at $125.99, but Amazon showed $209.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-05T16:48:20.605688Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "DJI Mini SE 249-Gram GPS Quadcopter Drone w/ 2.7K Camera + 3-Axis Gimbal $299 | Fly More Bundle $449",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T16:48:20.605688Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Amazon Fire HD 10 1080p 10.1\" 32GB Tablet (12th Gen, 2023 Release) $139.99 | Save 20% with Trade-in",
+  "reason": "Posted at $139.99, but Amazon showed $154.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-05T16:48:20.605688Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Pebble Beach Golf Travel Cover $99.99 free shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T16:48:20.605688Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Walmart Holiday Toy Deals And Gift Ideas Under $25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T16:48:20.605688Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Apple Cyber Monday Sale: Airpods Pro 2nd Gen $190 | iPads from $399 | MacBooks from $750 | Apple Watch Series 9 from $330",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T16:48:20.605688Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Apple Certified Refurbished Mac Desktops: Mac Mini from $509 | Mac Studio from $1529 | Mac Pro from $4499",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T16:48:20.605688Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Disney Legacy Animated Film Collection (Blu-ray + Digital Code, Walmart Exclusive) $1499.96",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T16:48:20.605688Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Google Cloud 90-Day Free Trial Offer: $350 in Free Trial Credits and Free Usage of 20+ Products",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T16:48:20.605688Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Sour Patch Kids Soft & Chewy Gummy Halloween Candy, 22 Trick or Treat Bags $3.20",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T16:42:42.374165Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "hip2save",
   "raw_title": "Sourdough Bread Baking Kit Just $17.49 Shipped for Prime Members (Reg. $40)",
   "reason": "Not evaluated",
