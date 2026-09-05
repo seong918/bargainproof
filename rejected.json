@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Deyeek Men's Sweatpants Open Bottom Baggy Sweat Pants for Men with Pockets $11.99",
+  "reason": "Posted at $11.99, but Amazon showed $25.96 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-05T13:05:57.493224Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Bluvol Nest 10 Ultra Cordless Heated Neck Massager w/ 360° Spatial Audio for $80 w/ Prime + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T13:05:57.493224Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Smart Display Phone Case for iPhone 16 Pro Max for $18 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T13:05:57.493224Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Tech Drive Bathroom Fan with Light for $30 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T13:05:57.493224Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$78.19: Costway 2 Rocking Bistro Chairs and Glass-Top Table(Brown) at Costway",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T13:05:57.493224Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Stanley Rolling Workshop Tower, $79.97, free shipping, Home Depot",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T13:05:57.493224Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Kobalt 5250 Starting / 4250 Running Watt Gas and Propane Dual fuel Portable Generator, $329, Lowe's",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T13:00:41.810871Z",
