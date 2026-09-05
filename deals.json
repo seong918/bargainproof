@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "bcd2fd44dbc8",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19975917-151-99-23-qt-bougerv-portable-12v-car-refrigerator-at-amazon",
+  "title": "23-Qt BougeRV Portable 12V Car Refrigerator",
+  "raw_title": "$151.99* | 23-Qt BougeRV Portable 12V Car Refrigerator at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B08G1BBBQW",
+  "deal_total_cents": 15199,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 15199,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 15199,
+  "amazon_url": "https://www.amazon.com/dp/B08G1BBBQW",
+  "amazon_checked_at": "2026-09-05T21:01:18.038253Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B08G1BBBQW",
+  "image_url": null,
+  "published_at": "2026-09-05T21:01:13.217484Z"
+ },
+ {
   "deal_id": "361889a8e93b",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19975350-amazon-santiny-women-s-high-waisted-jogger-pants-w-pockets-16-19-w-code",
