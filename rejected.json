@@ -1,6 +1,22 @@
 [
  {
   "source": "hip2save",
+  "raw_title": "Women’s Perfect-for-Fall Tops UNDER $10 on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T14:46:12.298550Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Apple MacBook Air 13.6\" M5 Chip Laptop (16GB/512GB) $1299 | 15.3\" Laptop from $1499",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T14:40:40.742916Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "hip2save",
   "raw_title": "Echelon Indoor Exercise Bike Only $156.80 Shipped on Walmart.com (Reg. $448)",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T14:35:04.983178Z",
