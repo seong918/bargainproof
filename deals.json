@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "0e8a325e803c",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19975371-amazon-sunrox-all-weather-lounge-chair-cushion-navy-19-99-w-code",
+  "title": "Amazon – SUNROX All-Weather Lounge Chair Cushion, Navy - w/ Code",
+  "raw_title": "Amazon – SUNROX All-Weather Lounge Chair Cushion, Navy - $19.99 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0CGZRX6R9",
+  "deal_total_cents": 1999,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 3999,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 3999,
+  "amazon_url": "https://www.amazon.com/dp/B0CGZRX6R9",
+  "amazon_checked_at": "2026-09-05T20:27:30.837434Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0CGZRX6R9",
+  "image_url": null,
+  "published_at": "2026-09-05T20:27:26.117123Z"
+ },
+ {
   "deal_id": "80590bac23cb",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19976127-lg-s80tr-5-1-3-ch-oled-evo-tv-matching-home-theater-soundbar-with-rear-surround-speakers-and-wireless-subwoofer-wow-orchestra-dolby-atmos-wowcast-built-in-2024-model-381-96",
