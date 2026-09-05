@@ -1,5 +1,37 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Amazon - Women's Lace Henley Long Sleeve Ribbed Top $7.50 w/ 50% Off Code",
+  "reason": "Posted at $7.50, but Amazon showed $14.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-05T14:07:01.217632Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Hershey’s Full-Size Candy Bars 30-Pack Only $26.78 on SamsClub.com (Just 89¢ Each)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T14:07:01.217632Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Charbroil® Classic Series 2-burner Compact Gas Grill, $118.91, FS, Wayfair",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T14:07:01.217632Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Portable Butane Stove with Wind Guard and Carrying Case(Black/Red) $12.98 + Free S&H at Walmart",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T14:07:01.217632Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "7-Night Morocco Flight, Hotel, and Tour Vacation for From $3,996 for 2",
   "reason": "Not evaluated",

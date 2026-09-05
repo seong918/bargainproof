@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "c83ee71204e4",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19975206-24-617-piece-lego-harry-potter-deathly-hallows-hagrid-harry-s-motorcycle-ride-76443-2025-at-amazon",
+  "title": "617-Piece LEGO Harry Potter: Deathly Hallows - Hagrid & Harry's Motorcycle Ride (76443, 2025)",
+  "raw_title": "$24 | 617-Piece LEGO Harry Potter: Deathly Hallows - Hagrid & Harry's Motorcycle Ride (76443, 2025) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0DJ18XKWX",
+  "deal_total_cents": 2400,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 2400,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 2400,
+  "amazon_url": "https://www.amazon.com/dp/B0DJ18XKWX",
+  "amazon_checked_at": "2026-09-05T14:07:04.864997Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0DJ18XKWX",
+  "image_url": null,
+  "published_at": "2026-09-05T14:07:01.217632Z"
+ },
+ {
   "deal_id": "a0416eed7bab",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19972947-17-99-skil-rechargeable-4v-cordless-screwdriver-w-9-pcs-bit-set-bit-holder-at-amazon",
