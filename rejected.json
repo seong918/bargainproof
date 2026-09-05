@@ -1,5 +1,21 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Wegear 100W 3-Port USB-C Foldable Wall Charger $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T13:17:07.901759Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Apple M4 Pro Mac mini Z1JV00027 (Late 2024) 12-Core CPU; 48GB Unified Memory; 512GB Solid State Drive; 16-Core GPU/16-Core Neural Engine $1899.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T13:17:07.901759Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Deyeek Men's Sweatpants Open Bottom Baggy Sweat Pants for Men with Pockets $11.99",
   "reason": "Posted at $11.99, but Amazon showed $25.96 when we checked — the deal is probably over",
