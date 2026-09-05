@@ -1,5 +1,45 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$101.15: Hyper Tough 5 Ton Log Splitter, 15-Amp Induction Motor with Hydraulic Ram at Walmart.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T06:32:19.605921Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS] $1.33 | 1.25-Oz Weber Sweet Heat Chili Seasoning Mix (Fireball) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically",
+  "rejected_at": "2026-09-05T06:26:43.324654Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Beautiful Drew Barrymore Kids Accent Chair, Charcoal Bouclé Fabric $48.30 + Free S&H at Walmart",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T06:26:43.324654Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[NEW] $19.99 | 2-Pack 32-Oz Rust-Oleum Stops Rust Brush On Protective Enamel Paint (Gloss Sail Blue) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it",
+  "rejected_at": "2026-09-05T06:26:43.324654Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$20.65* | Apple Nylon Crossbody Strap for Select iPhone 17 & Air Cases (Light Gray) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it",
+  "rejected_at": "2026-09-05T06:26:43.324654Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
   "source": "dealnews",
   "raw_title": "Lenovo Chromebook Plus MediaTek 14\" OLED 2K Touch Laptop for $649 + free shipping",
   "reason": "Not evaluated",
