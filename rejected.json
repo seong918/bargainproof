@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "TCL 85\" Class $599.97 Q77K Series - 4K UHD QLED Costco *IN STORE*",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T23:22:06.774274Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "WeGofly 13\" 4 in 1 Cordless Electric Weed Wacker with Steel Gears, 2×21V 6.0Ah Batteries & Charger, 5.2 $64.99",
+  "reason": "Posted at $64.99, but Amazon showed $89.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-05T23:16:29.400114Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Wolverine Men's Overpass CarbonMAX 6\" Boot $94.47 and More + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T23:10:51.764954Z",
