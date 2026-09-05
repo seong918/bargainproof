@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "39mm Tissot Chemin des Tourelles Blue Dial Men's Automatic Watch $322 + Free S&H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T21:52:01.850737Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DEWALT 20V MAX Cordless 4-1/2\" Paddle-Switch Grinder (Bare Tool) $84 + Free S&H w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T21:52:01.850737Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "The Outlaw Josey Wales (4K UHD + Digital) $14.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-05T21:46:23.299035Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "VEVOR Gas Grill, 3 Burner Propane Gas Grill with Spacious 338 SQ.In Grilling Area, Carbon Steel Enamel Grates, Outdoor 36,000 BTU Patio Garden BBQ Grills $179.90",
   "reason": "Same deal was already posted from another source",
   "rejected_at": "2026-09-05T21:40:44.753263Z",
