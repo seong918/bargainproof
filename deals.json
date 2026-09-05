@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "6c14dd5b716c",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19974954-amazon-zity-5-pack-men-s-flannel-hooded-button-down-shirts-29-99-w-code",
+  "title": "Amazon – ZITY 5-Pack Men's Flannel Hooded Button-Down Shirts - w/ Code",
+  "raw_title": "Amazon – ZITY 5-Pack Men's Flannel Hooded Button-Down Shirts - $29.99 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 2999,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0FXL29S6W",
+  "image_url": null,
+  "published_at": "2026-09-05T14:29:27.917983Z"
+ },
+ {
   "deal_id": "3cfcf69d262e",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19974903-pinspark-long-sleeve-shirts-for-women-ultra-soft-v-neck-workout-tops-upf-50-sun-shirt-athletic-running-hiking-top-4-99",
