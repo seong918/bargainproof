@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "e7720503da87",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19974933-73-81-carhartt-men-s-c003-arctic-traditional-coat-quilt-lined-medium-at-amazon",
+  "title": "Carhartt Men's C003 Arctic Traditional Coat - Quilt Lined (Medium)",
+  "raw_title": "$73.81 | Carhartt Men's C003 Arctic Traditional Coat - Quilt Lined (Medium) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B002I7K152",
+  "deal_total_cents": 7381,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 7381,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 7381,
+  "amazon_url": "https://www.amazon.com/dp/B002I7K152",
+  "amazon_checked_at": "2026-09-05T12:44:39.332876Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B002I7K152",
+  "image_url": null,
+  "published_at": "2026-09-05T12:44:20.808362Z"
+ },
+ {
   "deal_id": "4415973b8d47",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19974063-sns-ac-11-21-12-pack-19-2-oz-king-size-liquid-death-still-mountain-water-at-amazon",
