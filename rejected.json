@@ -1,5 +1,29 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "(Refurbished) HP Elitebook 830 G8 Laptop Intel i7-1185G7 32GB RAM 256GB SSD 13.3\" Touch W11P $363.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T20:05:06.769524Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Dell Latitude 7420 Laptop Intel Core i5-1145G7 16GB RAM 256GB SSD 14\" FHD W11P (Refurbished) $239.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T20:05:06.769524Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Avidlove Women Lingeries Deep V Teddy Lingerie Sexy Bodysuit Cut Out One Piece Mini Babydoll Red Small $3.99",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-05T20:05:06.769524Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "techbargains",
   "raw_title": "Thule 100D Nylon Lightweight Garment Folder Bags $24.95",
   "reason": "Not evaluated",
