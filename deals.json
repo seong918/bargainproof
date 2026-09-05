@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "1afa71be3228",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19972404-sns-10-25-6-pack-11-3-ounce-nature-s-path-organic-variety-pack-oatmeal-at-amazon",
+  "title": "6-Pack 11.3-Ounce Nature's Path Organic Variety Pack Oatmeal",
+  "raw_title": "[SnS] $10.25* | 6-Pack 11.3-Ounce Nature's Path Organic Variety Pack Oatmeal at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1025,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-05T17:33:23.277514Z"
+ },
+ {
   "deal_id": "8b769c853d72",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19972248-new-11-12-usa-pan-bakeware-seamless-nonstick-rectangular-cake-pan-9-x-13-inch-at-amazon",

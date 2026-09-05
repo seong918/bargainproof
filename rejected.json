@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "GRUSIGN Queen Size Platform Bed Frame with Velvet Headboard, Adjustable Height Wooden Slats Support, Upholstered Mattress Foundation $113.99",
+  "reason": "Posted at $113.99, but Amazon showed $113.39 when we checked — the post is stale",
+  "rejected_at": "2026-09-05T17:33:23.277514Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "LEGO Harry Potter Sorting Hat Building Set Only $11.89 on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T17:33:23.277514Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Levoit PlasmaPro 400S Smart Air Purifier for Large Rooms $179.99 Free Shipping Costco.com",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T17:27:45.101584Z",
