@@ -1,5 +1,21 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Monmee Wrapping Paper Holder with 2 Adjustable Clamps $14.99",
+  "reason": "Posted at $14.99, but Amazon showed $24.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-05T10:06:24.465578Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Squishmallows 8\" Zootopia 2 Plush Toys for $3 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T10:06:24.465578Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "38-Pc RYOBI Precision Screwdriver Set $10 + Free S&H",
   "reason": "Not evaluated",
