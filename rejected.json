@@ -1,5 +1,61 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Ember 14-oz. Temperature Control Smart Mug 2 for $80 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T06:43:32.420459Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "No Boundaries Ribbed Cami Top, Women's XXS-XXL Grey $3.98 +Free S&H w/ Walmart+ or $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T06:43:32.420459Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HART 20-Volt Cordless Random Orbit Sander and Dust Bag (Battery Not Included) $20.99 + Free S&H at Walmart",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T06:37:56.153193Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Pack Moultrie Edge 3 Cellular Trail Camera w/ 40MP & 0.5s Trigger $99.00 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it",
+  "rejected_at": "2026-09-05T06:37:56.153193Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HP OmniBook 3 AI laptop: 16\" FHD+ 400-nits IPS, Ryzen AI 5 430, 16GB DDR5, 256GB Gen4 SSD, Win11H @ $560 + F/S",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T06:37:56.153193Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Better Homes & Gardens Juliet Modern Arch Swivel Accent Chair(Gray) $78.40 + Free S&H at Walmart",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T06:37:56.153193Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Pokémon Classic Chapter Book Collection $19.76 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically",
+  "rejected_at": "2026-09-05T06:37:56.153193Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$101.15: Hyper Tough 5 Ton Log Splitter, 15-Amp Induction Motor with Hydraulic Ram at Walmart.com",
   "reason": "Not evaluated",
