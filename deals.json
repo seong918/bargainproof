@@ -1,5 +1,33 @@
 [
  {
+  "deal_id": "735e69054aef",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19974744-sns-ac-0-65-revlon-photoready-eye-contour-kit-purple-palette-at-amazon",
+  "title": "REVLON PhotoReady Eye Contour Kit Purple Palette",
+  "raw_title": "[SnS, AC] $0.65 | REVLON PhotoReady Eye Contour Kit Purple Palette at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 65,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-05T10:56:55.104217Z"
+ },
+ {
   "deal_id": "f2246fa69f9c",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19973043-23-09-limp-bizkit-significant-other-2-lp-w-autorip-mp3-at-amazon",

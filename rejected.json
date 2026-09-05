@@ -1,6 +1,110 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Forza Horizon 6 Limited Edition Xbox Controller $65",
+  "reason": "Posted at $65.00, but Amazon showed $74.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-05T10:56:55.104217Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "NFL Sunday Ticket $234 or with Red Zone $276 Verizon Customers",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T10:56:55.104217Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $0.65 | REVLON PhotoReady Eye Contour Kit Purple Palette at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-05T10:56:55.104217Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Queen 3\" Firm Memory Foam Mattress Topper for $52 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T10:51:20.879157Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "YMMV Pony 2-in-1 Work Bench Portable with 4pc Clamp 4pc Bench Dog, 2pc Safety Strap $99.69",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T10:51:20.879157Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Giro Caden II Adult Urban Bike Helmet (Trail Green, Medium) $25.30",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T10:51:20.879157Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Finish Ultimate Infinity Shine Dishwasher Detergent (62-Count) $13.46",
+  "reason": "Posted at $13.46, but Amazon showed $14.96 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-05T10:45:43.846410Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "MLB Labor Day Jersey Deals at Fanatics for From $17",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T10:45:43.846410Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "NBA Labor Day Hat Deals at Fanatics for Up to 60% off, deals from $9 + shipping varies",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T10:40:07.831844Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Grusign Queen Velvet Platform Bed Frame for $113 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T10:40:07.831844Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Jomashop TISSOT Carson Automatic Black Dial Men's Watch $329",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T10:40:07.831844Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "lululemon We Made Too Much Specials for Everything under $50 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T10:34:30.804645Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "14 oz Stanley Classic Legendary Insulated Food Jar + Spork (Spring Green) $13.44 + Free Shipping on Orders $75+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T10:34:30.804645Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Teenage Mutant Ninja Turtles: The Last Ronin -- The Covers (Hardcover) $8 + $6 S/H",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T10:28:53.670582Z",
