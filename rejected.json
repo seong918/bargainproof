@@ -1,5 +1,53 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Lenovo Chromebook Plus MediaTek 14\" OLED 2K Touch Laptop for $649 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T06:21:07.748931Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Orajel Mouth Sore Medicated Rinse for Oral Pain Relief, Mint, 16 Oz, 3-Pack $19.13",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T06:21:07.748931Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "seaistar 50000mAh Portable Charger Power Bank(Gray) $14.99 + Free S&H w/ Prime at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T06:15:29.090958Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS] $12.08* | 4-Pk 80-Ct Lysol All-Purpose Disinfecting Wipes (Mango + Linen + 2x Lemon) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Subscribe & Save, which we can't reproduce automatically",
+  "rejected_at": "2026-09-05T06:15:29.090958Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "0.35-Oz Burt's Bees Rescue Lip Relief Lip Balm (Honey Vanilla) $3.22 + Free Shipping w/ Prime or on orders over $35",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically",
+  "rejected_at": "2026-09-05T06:09:52.865290Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "42-Count FLOW SMILE Travel Wipes for Sensitive Skin w/ 99.5% Water (Unscented) $4.89 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically",
+  "rejected_at": "2026-09-05T06:04:17.085253Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
   "source": "slickdeals",
   "raw_title": "YINEYA Slow Feeder Dog Bowl (Black, Medium) $3.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically",
