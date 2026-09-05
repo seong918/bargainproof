@@ -1,5 +1,29 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Airseekers Tron .59 Acre Robotic Lawn Mower for $899 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T12:33:05.003622Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Rolex Datejust Boiler Dial Gold & Steel 36mm Automatic Men’s Watch $6495",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T12:33:05.003622Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$21.49 | Carhartt Men's 106573 Force Sun Defender Relaxed 1/2-Zip at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-05T12:33:05.003622Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "techbargains",
   "raw_title": "Zylo 180W 100-240V Mini Compact Portable Clothes Dryer $29.99",
   "reason": "Posted at $29.99, but Amazon showed $53.99 when we checked — the deal is probably over",
