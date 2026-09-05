@@ -1,5 +1,37 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "18V Replacement Battery 2-Pack for Ryobi Tools for $37 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T07:33:49.725401Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Chase High School Checking℠ for $125 bonus w/ new account",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T07:33:49.725401Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Yamaha FSC-TA Concert Cutaway Transacoustic Guitar w/ Chorus and Reverb, Vintage Tint $579.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it",
+  "rejected_at": "2026-09-05T07:33:49.725401Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Serta Perfect Sleeper Port Huntington 14.5\" Firm Hybrid Mattress, various sizes, from $943.89",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it",
+  "rejected_at": "2026-09-05T07:33:49.725401Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Windone RM7 Electric Dirt Bike for Teens & Adults, 48V 22.5Ah, 37MPH & 45-Mile Electric Motorcycle, 2200W Ebike, 14\"/12\" Off-Road Tire E-Bike, various colors $949.99",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it",
