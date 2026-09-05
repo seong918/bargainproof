@@ -1,6 +1,30 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "Dick's Sporting Goods Epic End of Summer Sale: Up to 50% off, extra 25% off clearance + free shipping w/ $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T09:04:40.181471Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Fiskars X13 Ultralight Hiking Axe 13\" Camping Hatchet for $28 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T08:59:03.655608Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "26-Pc Ryobi 1/4\" Drive Ratchet & Socket Set $19.97 + Free S&H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T08:59:03.655608Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
   "raw_title": "Amazon Haul Labor Day Sale: Up to 65% off + free shipping w/ $25",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T08:53:27.981880Z",
