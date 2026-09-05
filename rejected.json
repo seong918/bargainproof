@@ -1,5 +1,149 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Nvidia Jetson Orin Nano Super Developer Kit (8GB RAM) $249",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T07:05:54.009728Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Hersheys Milk Chocolate with Almonds XL 4.25oz Candy Bars (12-Count) $17.71",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T07:05:54.009728Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "SkyTech Legacy AMD Ryzen 7 7800XD Gaming Desktop (32GB/2TB) with GeForce RTX 5090 Graphics $4799.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T07:05:54.009728Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Amazon Astro Household Home Monitoring Smart Robot $1599.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T07:05:54.009728Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "PlayStation The Last of US 6” Joel & Ellie Action Figure Set with 19 Accessories $49.99",
+  "reason": "Posted at $49.99, but Amazon showed $45.49 when we checked — the post is stale",
+  "rejected_at": "2026-09-05T07:05:54.009728Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "PlayStation VR2 PC Adapter $59.99",
+  "reason": "Posted at $59.99, but Amazon showed $45.59 when we checked — the post is stale",
+  "rejected_at": "2026-09-05T07:05:54.009728Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS] $6.21* | 24-Pack Voniko Premium Grade AAA Alkaline Batteries at Amazon (25.9￠ each)",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Subscribe & Save, which we can't reproduce automatically",
+  "rejected_at": "2026-09-05T07:05:54.009728Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Greenworks Pole 80-volt 20-in Battery Hedge Trimmer 2 Ah Battery Included , Charger Included one_size | PH80L211 $179",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T07:05:54.009728Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon Made for Amazon Active Noise Cancelling Bluetooth Headphones w/ Built-in Microphone (Blue) $19.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically",
+  "rejected_at": "2026-09-05T07:05:54.009728Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Frigidaire 30-in 4 burners 5.3-cu ft Freestanding Electric Range ( Stainless Steel ) | FCRC3022BS $599",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T07:05:54.009728Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC] $54.98* | 5-Gal Seesii Battery Powered Backpack Sprayer w/ Dual Battery w/ 7 Nozzles at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it",
+  "rejected_at": "2026-09-05T07:05:54.009728Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M18 Fuel Packout 2.5-Gal Wet/Dry Vacuum & M18 Fuel 1/4\" Hex Impact Driver $189.00 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T07:05:54.009728Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$189: Milwaukee M18 FUEL PACKOUT 2.5-Gal. Wet/Dry Vacuum w/ M18 5.0Ah XC Battery at HomeDepot",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T07:05:54.009728Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "The 2025 CCNA Certification Prep Bundle (4-Courses) $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T07:05:54.009728Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Samsung Fall Sale: Up to $1000 Trade-in on select Galaxy Phones | Up to 30% off EDU / Work Discounts",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T07:05:54.009728Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Samsung Galaxy A36 5G 128GB 6.7\" FHD+ AMOLED Unlocked Smartphone $399.99 | Trade-in Offer",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T07:05:54.009728Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Sony PlayStation Slim Digital NBA 2K25 Console Bundle $499",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T07:05:54.009728Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Samsung Galaxy FE 40mm Bluetooth Smartwatch $199.99 | $100 Trade-in Offer",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T07:05:54.009728Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Refurb Apple iPhone & Apple Watch Deals at Woot for Watches from $95, iPhones from $105 + free shipping w/ Prime",
   "reason": "Not evaluated",
