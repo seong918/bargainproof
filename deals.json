@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "5d714aa3d694",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19971819-deepwater-horizon-blu-ray-dvd-digital-hd-5-amazon-com",
+  "title": "Deepwater Horizon [Blu-ray + DVD + Digital HD] Amazon.com",
+  "raw_title": "Deepwater Horizon [Blu-ray + DVD + Digital HD] $5 Amazon.com",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 500,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-05T23:27:44.825952Z"
+ },
+ {
   "deal_id": "e3a0e681b135",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19976385-16-49-gearwrench-3916d-ball-joint-separator-30mm-to-56mm-at-amazon",
