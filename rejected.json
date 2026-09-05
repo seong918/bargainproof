@@ -1,5 +1,45 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "38-Pc RYOBI Precision Screwdriver Set $10 + Free S&H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T09:55:13.164753Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "WorkPro 9-Piece Impact Socket Driver Extension Bar Set for $12 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T09:49:35.311423Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Adecorty 192-LED Meteor Shower Halloween Outdoor Lights (Purple) $6.49",
+  "reason": "Posted at $6.49, but Amazon showed $12.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-05T09:43:57.085614Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Eco-Worthy 2,048Wh LiFePO4 Solar Generator for $453 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T09:43:57.085614Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Rugged Shark Men's Comfort EVA Sandals for $6 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T09:38:19.255102Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Jackery Explorer 300 290Wh Portable Power Station for $129 + free shipping",
   "reason": "Not evaluated",
