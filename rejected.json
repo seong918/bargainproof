@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "AERLANG Massage Gun with Heat and Cold,Massage Gun Massage Gun Deep Tissue $35.98",
+  "reason": "Posted at $35.98, but Amazon showed $59.97 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-05T22:42:41.965062Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Dying Light 1: Essentials Edition (Xbox One/Series X|S Digital Download) $2.50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T22:42:41.965062Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Pack ECO-WORTHY 10W Solar Battery Charger Maintainer $32 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T22:42:41.965062Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Jackery HomePower 1000 V2 Portable Power Station + SolarSaga 200W Solar Panel $599 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T22:37:04.713158Z",
