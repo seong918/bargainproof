@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "21045a1fe717",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19974804-27-49-carhartt-men-s-relaxed-11-ripstop-cargo-short-at-amazon",
+  "title": "Carhartt Men's Relaxed 11\" Ripstop Cargo Short",
+  "raw_title": "$27.49 | Carhartt Men's Relaxed 11\" Ripstop Cargo Short at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 2749,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-05T12:01:14.489767Z"
+ },
+ {
   "deal_id": "bca77f0a6e66",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19973298-2-99-fashion-new-edition-the-definitive-visual-guide-dk-definitive-cultural-histories-ebook-by-dk",
