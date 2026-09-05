@@ -1,5 +1,29 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Even Embers 6-Burner Propane Gas Grill, Silver, With Side and Sear Burners, $399.99, Tractor Supply",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T22:31:28.285724Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "COCOMARTS Jelly Bras for Women No Underwire Wireless Push Up Bra Nude,M $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $19.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-05T22:25:49.933730Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CITIZEN Promaster Professional Diver 200 Meters Eco-Drive Men's Watch $219",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T22:25:49.933730Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Under Armour Men's 5X-Large 3-Pack Performance Tech 6\" Boxer Briefs $9.40",
   "reason": "Not evaluated",
