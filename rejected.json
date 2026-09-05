@@ -1,5 +1,29 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$11.99 | 2-Pk OtterBox 30W Premium Pro GaN USB-C Wall Charger (Silver) at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T16:20:14.647606Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – GobiDex Princess Castle Magnetic Tiles w/ 2 Dolls & Stairs - $12.99 w/ Code",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-05T16:20:14.647606Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Zinus 13 Inch Queen Cool Support Hybrid Mattress, Medium Firm Feel Cooling Gel Memory Foam, Heavy Duty Individually Wrapped Coils~$279 @ Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-05T16:20:14.647606Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "techbargains",
   "raw_title": "Dbfit H13 4-Speed HEPA Air Purifier (Up to 1500sq.ft) with Aromatherapy $29.99",
   "reason": "Not evaluated",
