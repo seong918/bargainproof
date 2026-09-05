@@ -1,5 +1,37 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "VEVOR Gas Grill, 3 Burner Propane Gas Grill with Spacious 338 SQ.In Grilling Area, Carbon Steel Enamel Grates, Outdoor 36,000 BTU Patio Garden BBQ Grills $179.90",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-05T21:40:44.753263Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Swiss Miss Hot Chocolate 50-Count Just $6.51 Shipped on Amazon (Cheaper Than Sam’s Club!)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T21:35:06.025896Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Eucos 62\" Magnetic Phone Tripod for $11 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T21:29:26.671456Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee 15-pc Metric or ASE Flex Ratcheting Wrench Set at Home Depot for $219",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T21:29:26.671456Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Hoperan 21\" Heated Stadium Seat for $56 + free shipping",
   "reason": "Not evaluated",
