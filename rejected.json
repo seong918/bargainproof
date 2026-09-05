@@ -1,5 +1,37 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Teenage Mutant Ninja Turtles: The Last Ronin -- The Covers (Hardcover) $8 + $6 S/H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T10:28:53.670582Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Lisen 6.6' 240W USB-C to USB-C Cable (2-Pack) $5.60",
+  "reason": "Posted at $5.60, but Amazon showed $9.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-05T10:17:38.828311Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Firebat F1 AMD Ryzen 7 Mini Desktop PC w/ 16GB RAM & 512GB SSD for $329 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T10:17:38.828311Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Kingroon 1.75mm 3D Printer Filament 10-Pack for $58 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T10:12:01.107105Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Monmee Wrapping Paper Holder with 2 Adjustable Clamps $14.99",
   "reason": "Posted at $14.99, but Amazon showed $24.99 when we checked — the deal is probably over",
