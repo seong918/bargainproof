@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "792bf3ff5c8e",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19947960-sns-6-17-3-pack-bauducco-wafer-rolls-variety-pack-at-amazon",
+  "title": "3-Pack Bauducco Wafer Rolls (Variety Pack)",
+  "raw_title": "[SnS] $6.17 | 3-Pack Bauducco Wafer Rolls (Variety Pack) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 617,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-05T14:12:38.967705Z"
+ },
+ {
   "deal_id": "c83ee71204e4",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19975206-24-617-piece-lego-harry-potter-deathly-hallows-hagrid-harry-s-motorcycle-ride-76443-2025-at-amazon",
