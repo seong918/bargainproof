@@ -1,5 +1,29 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Zylo 180W 100-240V Mini Compact Portable Clothes Dryer $29.99",
+  "reason": "Posted at $29.99, but Amazon showed $53.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-05T12:27:34.346671Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Azzwngy 1500-Yards Rechargeable Golf Rangefinder with Slope and Magnetic Mount $29.99",
+  "reason": "Posted at $29.99, but Amazon showed $59.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-05T12:27:34.346671Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bosch 18-volt Cordless Brushless 2 -Amp Variable speed 6 -Piece Oscillating Multi-Tool with Soft ( Battery Included and Charger Included ) $109",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T12:22:16.736649Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "AOVOPRO TMAX Electric Scooter 500W 42v 10.5AH 22mph 10in Solid Tires Front/Rear Shock Absorption $158 + Free S/H",
   "reason": "Not evaluated",
