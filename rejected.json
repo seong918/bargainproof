@@ -1,5 +1,45 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Amazon Resale - Star Wars The Black Series Clone Commander Cody, Revenge of the Sith Premium Electronic Roleplay Helmet $55",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T19:08:57.542259Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Athletic Works Women's ButterCore Compression Midi Dress, Sizes XS-XXXL $9.84",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T19:08:57.542259Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CERTINA DS Podium Chronograph Chronometer Men's Watch $290",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T19:08:57.542259Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "MSR PocketRocket 2 Camping and Backpacking Stove $36.90 + 10% Back w/ Prime Visa + Free S&H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T19:08:57.542259Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SYINTAO Slushie Machine for Home, No Ice Needed, Soft Serve Ice Cream Maker $119.77",
+  "reason": "Posted at $119.77, but Amazon showed $225.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-05T19:03:19.558932Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
   "source": "hip2save",
   "raw_title": "Plush Throw Blanket Only $7.50 Shipped for Prime Members",
   "reason": "Not evaluated",
