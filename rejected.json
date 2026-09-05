@@ -1,6 +1,38 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "Anker 633 10,000mAh Magnetic Power Bank for $35 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T07:17:02.721209Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $5.99* | 220-Count Nature Made Vitamin D3 2000 IU (50mcg) Tablets at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs clip coupon, Subscribe & Save, which we can't reproduce automatically",
+  "rejected_at": "2026-09-05T07:17:02.721209Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$8* | Hanes Men's EcoSmart Fleece Pullover Hooded Sweatshirt (Heather Navy) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it",
+  "rejected_at": "2026-09-05T07:17:02.721209Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $12.44 | 36-Count TROJAN ENZ Lubricated Condoms at Amazon (34.6￠ each)",
+  "reason": "Community score too low (+1) to pass without a price check — needs clip coupon, Subscribe & Save, which we can't reproduce automatically",
+  "rejected_at": "2026-09-05T07:17:02.721209Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
   "raw_title": "Walmart Resold Flash Deals: Up to 65% off + free shipping w/ $35",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T07:11:27.297764Z",
