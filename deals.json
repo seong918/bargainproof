@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "176194bdbad0",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19962111-wegear-4k-30fps-usb-a-webcam-25-99-free-shipping-w-prime-or-on-35",
+  "title": "wegear 4K 30FPS USB-A Webcam + or on",
+  "raw_title": "wegear 4K 30FPS USB-A Webcam $25.99 + Free Shipping w/ Prime or on $35+",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 2599,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "prime"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-05T22:37:04.713158Z"
+ },
+ {
   "deal_id": "6b176a017837",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19976286-49-50-powerblock-small-compact-stand-dumbbell-rack-weight-rack-at-amazon",
