@@ -1,5 +1,53 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Windone RM7 Electric Dirt Bike for Teens & Adults, 48V 22.5Ah, 37MPH & 45-Mile Electric Motorcycle, 2200W Ebike, 14\"/12\" Off-Road Tire E-Bike, various colors $949.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it",
+  "rejected_at": "2026-09-05T07:28:14.783900Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Renewed Premium Unlocked Apple iPhone 17 Pro Max, US Version, 512GB, eSIM, Deep Blue $1480",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it",
+  "rejected_at": "2026-09-05T07:28:14.783900Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "1/2\" Impact Socket Set, 29PC Deep impact socket set, CR-MO SAE and Metric $28.48",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T07:28:14.783900Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "OtterBox 20W Fast Charging USB-C Wall Charger for $6 or 3 for $12 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-05T07:22:37.821417Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $12.22* | 12-Oz Astroglide Water Based Personal Lubricant at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs clip coupon, Subscribe & Save, which we can't reproduce automatically",
+  "rejected_at": "2026-09-05T07:22:37.821417Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Keurig K-4500 Large Business Single Serve Coffee and Specialty Beverage Café System, Plumbed, Silver/Black $1999",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it",
+  "rejected_at": "2026-09-05T07:22:37.821417Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
   "source": "dealnews",
   "raw_title": "Anker 633 10,000mAh Magnetic Power Bank for $35 + free shipping w/ Prime",
   "reason": "Not evaluated",
