@@ -1,5 +1,29 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Yineya Slow Feeder Dog Bowl $3.99",
+  "reason": "Posted at $3.99, but Amazon showed $7.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-06T13:51:10.414757Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Denon AVR-X2800H 7.2 95w/channel A/v Receiver $999",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T13:51:10.414757Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$249: EGO POWER+ 56V Cordless String Trimmer & Leaf Blower Combo Kit, 2.5Ah Battery & Charger(ST6151LB) at Lowe's",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T13:51:10.414757Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "65\" TCL QM9K Series - $999 (75\" $1499)",
   "reason": "Not evaluated",
