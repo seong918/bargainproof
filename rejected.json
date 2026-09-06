@@ -1,5 +1,29 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "12\" 3,200lm LED Flush Mount Ceiling Light 4-Pack for $29.80 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T09:05:32.076007Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Segmart 12\" Wood Pellet Pizza Oven $89.99 + Free S&H at Walmart",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T09:05:32.076007Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$27.99 | BalanceFrom Bike Trainer Stand at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T09:05:32.076007Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$13.71 AMAZON Franklin Sports Adult 1000 Junior Youth Football",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
