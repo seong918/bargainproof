@@ -1,5 +1,53 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Diapers & Wipes Deals at Amazon for $25 Amazon Credit w/ $100 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T20:32:33.072669Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DJI OSMO 5 ACTION PRO STANDARD (Refurbished) $231.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T20:32:33.072669Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ReadyWise 2 Day Adventure Kit With Dry Bag, 2-pack (24 Servings Each) $59.99 Free Shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T20:32:33.072669Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ReadyWise 94 Serving Emergency Protein Bucket (94Total Servings) $99.99 free shipping Costco.xom",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T20:32:33.072669Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$69.99* | 4-Qt Instant Pot VORTEX 6-in-1 Mini Air Fryer at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-06T20:26:54.750810Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ebern Designs Dorrough Velvet Tufted Storage Platform Bed (Queen) $153.89 Beige, $155.79 Gray + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T20:26:54.750810Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$1.99 | Free To Choose: A Personal Statement (eBook) by Milton Friedman, Rose Friedman",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
