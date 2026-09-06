@@ -1,5 +1,45 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Dewalt 3-Mode 360-Rotation Cordless LED Work Light $17.99",
+  "reason": "Posted at $17.99, but Amazon showed $35.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-06T17:39:29.714033Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HART 20-Volt Brushless Reciprocating Saw (Battery Not Included) $37.83",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:39:29.714033Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Bodyarmor Fruit Punch Electrolyte Sports Drink (12oz, 8-Pack) $3.88",
+  "reason": "Posted at $3.88, but Amazon showed $0.06 when we checked — the post is stale",
+  "rejected_at": "2026-09-06T17:33:58.474762Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Cascade Dishwasher Pods 55-Count from $2.99 Shipped for Prime Members (Reg. $16)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:33:58.474762Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "(Open Box) ASUS ROG Strix G16: 16” FHD+ 165Hz IPS, Ryzen 9 9955HX, RTX 5060, 16GB DDR5, 1TB SSD $1226",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:33:58.474762Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Amazon Essentials Men Lightweight Water-resistant Packable Puffer Jacket (Prime Exclusive Deal) $9.99",
   "reason": "Not evaluated",
