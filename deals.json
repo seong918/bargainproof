@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "4cf0230e0429",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19977237-71-99-12-greenworks-24v-gen-2-cordless-string-trimmer-w-2-0ah-battery-charger-at-amazon",
+  "title": "12\" Greenworks 24V Gen 2 Cordless String Trimmer w/ 2.0Ah Battery & Charger",
+  "raw_title": "$71.99* | 12\" Greenworks 24V Gen 2 Cordless String Trimmer w/ 2.0Ah Battery & Charger at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0BF9YFL2X",
+  "deal_total_cents": 7199,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 7199,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 7199,
+  "amazon_url": "https://www.amazon.com/dp/B0BF9YFL2X",
+  "amazon_checked_at": "2026-09-06T06:31:13.609649Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0BF9YFL2X",
+  "image_url": null,
+  "published_at": "2026-09-06T06:31:08.735871Z"
+ },
+ {
   "deal_id": "aae9a88edc83",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19977222-149-98-garmin-varia-rtl515-cycling-rearview-radar-w-tail-light-at-amazon",
