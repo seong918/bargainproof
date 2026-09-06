@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$1.49 Walgreens Clearance Paper Mate Profile Ballpoint Pen 1.0MM Business, 4.0 ea FPU at $10 YMMV",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T12:28:30.823598Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Swissgear 1900 Scansmart TSA-Friendly Backpack (Fits 17\" Laptop, Black) $61.73 + Free Shipping",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-06T12:28:30.823598Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "3-Piece Klein Tools Adjustable Wrench Set (6\", 8\" & 10\") $32.98 + Free Shipping w/ Prime or on $35+",
   "reason": "Same deal was already posted from another source",
   "rejected_at": "2026-09-06T12:23:15.020333Z",
