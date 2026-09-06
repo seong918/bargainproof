@@ -1,6 +1,174 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "24-Oz Owala FreeSip Twist Insulated Stainless Steel Water Bottle (Various) $23.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-06T15:59:13.060876Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Nature Made Turmeric Curcumin Herbal Supplements (120-Capsules) $7.58",
+  "reason": "Posted at $7.58, but Amazon showed $13.79 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-06T15:59:13.060876Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Ninja Swirl Soft-Serve Ice Cream Maker from $227 Shipped ($350 Value)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T15:59:13.060876Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "VIOFO - Dash Cam A119 Mini 2, STARVIS 2 Sensor, 2K 60fps/HDR 30fps Voice Control Car Dash Camera - Black $100.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T15:59:13.060876Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Redragon M656 MAX RGB 10000 DPI 3-Mode Wireless Gaming Mouse $16.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T15:59:13.060876Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "12-Pack 16-Oz BODYARMOR LYTE Sports Drink (Blueberry Pomegranate) $7.20 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-06T15:53:35.504446Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Shark AquaReach Cordless Vacuum + Mop with Extendable Wand WD551 $299.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T15:53:35.504446Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Blink Video Doorbell + Outdoor 4 Wireless Smart Security Cameras 3-Camera System + Video Doorbell $103.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T15:53:35.504446Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "BougeRV Portable 12V Car Refrigerator 23-Qt $151.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T15:53:35.504446Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Th3rd World Studios Charcuterie: The Board Game $28.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T15:53:35.504446Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Rick and Morty: Season 7 Blu-ray $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T15:53:35.504446Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "U2: The Best Of 1980-1990 (2 LP w/ AutoRip MP3) $26.59",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T15:53:35.504446Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "AQUARIUS Teenage Mutant Ninja Turtles Fun Box Metal Storage Tin $15.92",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T15:53:35.504446Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "IRWIN VISE-GRIP Locking Pliers Fast Release Kit 10-Piece $109.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T15:53:35.504446Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "BISSELL Little Green Max Pet Portable Carpet Cleaner 3860 $109.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T15:53:35.504446Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "TaylorMade TP5x Golf Balls White $39.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T15:53:35.504446Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Thermalright HR-09 M.2 2280 PRO Black SSD Heatsink Double-Sided Cooler $6.93",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T15:53:35.504446Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Casio A158WEA Digital Quartz Watch 33.2mm $22.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T15:53:35.504446Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Rust-Oleum Stops Rust Brush On Protective Enamel Paint Semi-Gloss White 2-Pack 32-Oz $19.48",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T15:53:35.504446Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "The North Face Women's Recon 30L 18\" Laptop Backpack $61.83",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T15:53:35.504446Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "32-Oz Liquitex BASICS Acrylic Paint (Mars Black) $23.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T15:53:35.504446Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "OGERY R-Value 9.0 Insulated Inflatable Sleeping Pad for Camping (Green) $59.98 + Free Shipping",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-06T15:47:59.497717Z",
