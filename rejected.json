@@ -1,5 +1,61 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$14 | tarte lights, camera, lashes platinum volumizing mascara at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-06T21:39:16.814871Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $9.51* | 2 × 12-Count Sharpie Ultra Fine Point Permanent Markers (Black) ($4.75 each) at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-06T21:39:16.814871Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Fender FA-235E Concert Acoustic Electric Guitar $179 + Free S/H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T21:39:16.814871Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Tilswall Paint Sprayer, Lightweight HVLP Spray Gun, High Power Electric Spray Paint Gun, 4 Nozzles & 3 Patterns, $22.99, FS Prime, Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T21:39:16.814871Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "lululemon - We made too much under $50 sale! $29",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T21:39:16.814871Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Nespresso 50-Count Pods Only $26.64 Shipped on Amazon (Just 53¢ Per Cup!)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T21:33:40.228046Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M12 2460-20 Cordless Rotary Tool, 12.0V Tool Only $80",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T21:33:40.228046Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Rokr 3D Wooden Typewriter Puzzle Kit for $63 + free shipping",
   "reason": "Not evaluated",
