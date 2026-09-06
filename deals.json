@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "4e92ea48f3db",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19977660-199-99-ninja-foodi-air-fryer-10-qt-dualzone-smart-xl-6-in-1-grey-dz550gy-at-amazon",
+  "title": "Ninja Foodi Air Fryer, 10 Qt DualZone Smart XL, 6-in-1, Grey, DZ550GY",
+  "raw_title": "$199.99* | Ninja Foodi Air Fryer, 10 Qt DualZone Smart XL, 6-in-1, Grey, DZ550GY at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0FB13MRPY",
+  "deal_total_cents": 19999,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 19999,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 19999,
+  "amazon_url": "https://www.amazon.com/dp/B0FB13MRPY",
+  "amazon_checked_at": "2026-09-06T08:00:45.531407Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 2,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0FB13MRPY",
+  "image_url": null,
+  "published_at": "2026-09-06T08:00:41.445654Z"
+ },
+ {
   "deal_id": "0440ec2a39a6",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19977282-sns-ac-7-58-120-count-nature-made-turmeric-curcumin-500mg-capsules-herbal-supplement-at-amazon",
