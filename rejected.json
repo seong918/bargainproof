@@ -1,6 +1,190 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$21.43 | 12-Count WILSON 2025 Duo Soft NFL Golf Balls (Various Teams) at Amazon",
+  "reason": "Community score too low (+4) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-06T21:00:06.951035Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "6-Gal DeWALT Cyclone Dust Separator w/ Poly Tank $80.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T21:00:06.951035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Bissell PowerClean DualBrush 280W Self-Standing Vacuum $259.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T21:00:06.951035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Nordic Ware 6 Cavity Donut Pan $7.91",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T21:00:06.951035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "VEVOR Plastic Folding Bench 6ft $29.09",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T21:00:06.951035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Stoke Wood Fired Outdoor Pizza Oven 13\" Portable Stainless Steel $99.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T21:00:06.951035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Nexgrill Tabletop 1 Burner Gas Grill 10000 BTU $83.57",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T21:00:06.951035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LEGO Creator 3 in 1 Space Shuttle Building Kit 144-pc $7.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T21:00:06.951035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Avanti Mighty Ice Countertop Ice Maker 26 Pounds $49.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T21:00:06.951035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "HGD 20 inch Smokeless Firepit Outdoor $89.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T21:00:06.951035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Paper Mate InkJoy 300RT Retractable Ballpoint Pens 24-Count (Black) $6.38",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T21:00:06.951035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Lorde: Melodrama (LP w/ AutoRip MP3) $20.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T21:00:06.951035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "6-Pack 20-Yard Duck Color Duct Tape (Blue) $21.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T21:00:06.951035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Hanes Men's Cotton Moisture-Wicking V-Neck Tee Undershirts 6-Pack $13.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T21:00:06.951035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "3/8 in. Drive 144T Quick Release Ratchet $24.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T21:00:06.951035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Thermaltake Toughpower PT 1200W ATX 3.1 Power Supply $149.64",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T21:00:06.951035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Blackstone Essential Griddle Toolkit 5-Pc $14.96",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T21:00:06.951035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LEGO Creator 3 in 1 Turtle w/ a Water Lily Flower (31377) $7.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T21:00:06.951035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Crayola Clicks 2.0mm Mechanical Colored Pencil Set, 12 Pastel Colors $6.36",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T21:00:06.951035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Bosch T5002A 10 pc. T-Shank Jig Saw Blade Set for Wood and Metal $9.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T21:00:06.951035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Bosch TI2134 7/64 in. x 2-5/8 in. Titanium Nitride Coated Drill Bit $1.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T21:00:06.951035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Rust-Oleum Stops Rust Spray Paint 2-Pack 12-Oz Satin White $10.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T21:00:06.951035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "72\" Heavy Duty Adjustable Garage Storage Shelf for $26 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T21:00:06.951035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$2.99 | Sapiens [Tenth Anniversary Edition]: A Brief History of Humankind – The #1 New York Times Bestseller Exploring Evolution and Ancient Socieities (eBook) by Yuval Noah Harari",
   "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-06T20:49:02.300076Z",
