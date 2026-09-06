@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "0fcd35640ed6",
+  "source": "techbargains",
+  "source_url": "https://www.amazon.com/gp/product/B01J9LNT8A/ref=ox_sc_act_image_1",
+  "title": "Bosch BL14 Black Oxide Metal Drill Bit Set (14-piece)",
+  "raw_title": "Bosch BL14 Black Oxide Metal Drill Bit Set (14-piece) $12.99",
+  "merchant": "amazon",
+  "buy_url": "https://www.amazon.com/gp/product/B01J9LNT8A/ref=ox_sc_act_image_1",
+  "deal_total_cents": 1299,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 1299,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1299,
+  "amazon_url": "https://www.amazon.com/dp/B01J9LNT8A",
+  "amazon_checked_at": "2026-09-06T16:21:42.645607Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": null,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B01J9LNT8A",
+  "image_url": null,
+  "published_at": "2026-09-06T16:21:38.117395Z"
+ },
+ {
   "deal_id": "ec81ac78a72c",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19977933-bissell-cleanview-compact-powerful-suction-extension-wand-3508-59-91",
