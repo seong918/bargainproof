@@ -1,5 +1,21 @@
 [
  {
+  "source": "hip2save",
+  "raw_title": "OVER $60 Worth of Personal Care Products ONLY $7.57 on CVS.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T19:02:49.238628Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Amazon Basics Cotton Swabs 500-Count Only $2 Shipped",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T19:02:49.238628Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$3.99 | The Rain Wilds Chronicles: A Thrilling Fantasy Series About Dragons in a World That Needs and Fears Them (eBook) by Robin Hobb",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
