@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$23.97 | 32-Oz Liquitex BASICS Acrylic Paint (Mars Black) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-06T06:03:12.040760Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$12* | 1-Gal Microban Outdoor Surface Care Multipurpose Foaming Cleaner at Amazon",
+  "reason": "Posted at $12.00, but Amazon showed $0.09 when we checked — the post is stale",
+  "rejected_at": "2026-09-06T06:03:12.040760Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ainfox 13ft Large Patio Umbrella(Blue) $54 + Free S&H at Walmart",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T06:03:12.040760Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Renogy 2000W Pure Sine Wave Inverter 12V DC to 120V AC $149.8 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T06:03:12.040760Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Lenovo Legion Pro 5i Gen 10 (Cert. Refurb): 16\" QHD+ 165Hz OLED, Intel Ultra 9 275HX, RTX 5070 Ti, 32GB DDR5, 1TB SSD $1908.63",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T05:57:34.488463Z",

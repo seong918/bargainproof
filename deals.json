@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "706b421e8ec2",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19977183-55-99-654-pc-lego-disney-star-wars-a-new-hope-tantive-iv-starship-building-set-at-amazon",
+  "title": "654-Pc LEGO Disney Star Wars: A New Hope Tantive IV Starship Building Set",
+  "raw_title": "$55.99* | 654-Pc LEGO Disney Star Wars: A New Hope Tantive IV Starship Building Set at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0CGYH4VG8",
+  "deal_total_cents": 5599,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 5599,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 5599,
+  "amazon_url": "https://www.amazon.com/dp/B0CGYH4VG8",
+  "amazon_checked_at": "2026-09-06T06:08:46.088616Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0CGYH4VG8",
+  "image_url": null,
+  "published_at": "2026-09-06T06:08:41.280177Z"
+ },
+ {
   "deal_id": "cb6e462b643e",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19977135-79-99-corsair-void-v2-max-wireless-gaming-headset-for-pc-ps5-ps4-switch-mobile-at-amazon",
