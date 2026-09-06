@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon – Women's Cross-Strap Cork Footbed Sandals - $13.59 w/ Code",
+  "reason": "Community score too low (+2) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-06T03:20:01.242169Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Women's Faux-Leather Buckle Slide Sandals - $12.74 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-06T03:20:01.242169Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Dewalt 20-Volt MAX 12 in. Brushless Cordless Battery Powered Chainsaw Kit with 5.0 Ah Battery and Charger $199",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T03:14:22.583305Z",
