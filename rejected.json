@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$13.71 AMAZON Franklin Sports Adult 1000 Junior Youth Football",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-06T08:54:47.231439Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bosch 14 -Piece Assorted Assorted Black oxide coated HSS Jobber length Twist Drill Bit Set one_size | BL14 $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T08:49:29.610643Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$36.48 ac TARGET: Charmin Ultra Soft Toilet Paper - 12 Mega XXL Rolls AND Bounty Select-A-Size Paper Towels - 6 Mega XL Rolls",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T08:49:29.610643Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Air Wick Plug-In Kit Lavender & Chamomile, Warmer + 1 Refill, 1.0 set - $1.34",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T08:44:12.239804Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Febreze Odor-Fighting Fabric Refresher, 14.8 fl oz (4 scents) - $1.34",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T08:33:15.996953Z",
