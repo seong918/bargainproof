@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$139.99: GRILL DEPOTS Propane 3-Burner Gas Grill w/ Folding Side Tables(30,000 BTU) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-06T02:24:15.355604Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Maamgic Men's 5.5\" Quick Dry Swim Trunks w/ Compression Liner (Various) $12",
+  "reason": "Posted at $12.00, but Amazon showed $29.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-06T02:24:15.355604Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Wurkkos WK03 Pocket Flashlight Rechargeable,High Lumens LED Flashlight $17",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T02:07:46.613273Z",
