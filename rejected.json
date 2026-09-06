@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Classic Accessories Veranda Water-Resistant 38 Inch Patio Lounge Chair Cover, Patio Furniture Covers $30.97",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-06T07:21:38.779269Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Trygoal Umbrella Table Tray with 1.5\" Hole, Portable Outdoor Side Table $17.07",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-06T07:21:38.779269Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$648.40* | APC Smart-UPS 1500VA Lithium Ion UPS, SMTL1500RM3UCNC at Amazon",
+  "reason": "Posted at $648.40, but Amazon showed $1,895.00 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-06T07:21:38.779269Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ryobi ONE+ 18V Cordless 3-Tool Storm Combo Kit with Radio, Area Light, Power Inverter, 2.0 Ah Battery, and Charger $119",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T07:21:38.779269Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ryobi ONE+ 18V Cordless High Pressure Inflator with 2.0 Ah Battery, 4.0 Ah Battery, and Charger $109",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T07:21:38.779269Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Lenovo - Idea Tab - 11\" 2.5K Tablet - 8GB RAM - 128GB UFS - with Tab Pen and Folio Case - Luna Grey $189.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T07:21:38.779269Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Meat Thermometer Digital, 1-2 Sec Instant Read, Food, Cooking, Grilling~$9.98 @ Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-06T07:16:01.413090Z",
