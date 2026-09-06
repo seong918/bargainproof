@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Armour Star Vienna Sausage, Original Flavor, 6-pack Canned, S&S $4",
+  "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-06T08:27:57.254597Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Greenworks POWERALL 24V Cordless Brushless 1in 3000 SPM Recip Saw with 2Ah Battery and Charger $83.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T08:27:57.254597Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$49.88 Walmart Tracfone Motorola Moto G Power 2024, 5G, 128GB, Black, Includes 1 Year $125 Service Plan",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T08:11:14.160297Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "adidas men Runfalcon 5 Running Shoes $21 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T08:05:58.310818Z",
