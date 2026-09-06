@@ -1,6 +1,78 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "YITAHOME Portable Round Folding Table $51.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-06T19:25:15.877916Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Shark Clean & Empty Cordless Stick Vacuum & Auto-Empty System, BU3521 $279.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-06T19:25:15.877916Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "UNDER $12 for 10 Personal Care Products at Walgreens",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T19:25:15.877916Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $6.38* | 12-Pack 1.69oz. Luna Whole Nutrition Protein Snack Bars (Lemon Zest) at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-06T19:25:15.877916Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "KANAGAWA 90% Sun Shade Cloth 12'X 20' Outdoor Pergola Shade Cover Canopy with Grommets UV Block Privacy Screen for Patio, Backyards, Outdoor, Carport, Garden, Black $29.31",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-06T19:19:38.948805Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$0.99 | The Treason Of Isengard: A History of the Writing of Middle-earth (History of Middle-earth Book 7) (eBook) by J. R. R. Tolkien",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-06T19:19:38.948805Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Vevor 14\" Shutter Exhaust Fan for $47 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T19:19:38.948805Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "IXS Trigger AM Helmet - MIPS $49.99 + $7.50 shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T19:19:38.948805Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ninja - Prestige Smart XL Air Fryer & Countertop Oven + Pro Cook - Stainless Steel $249.99 Bestbuy.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T19:19:38.948805Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[AC] $76.99* | 2 × Philips HUE Motion-Sensing Battery Powered LED Black Smart-Enabled Security Light ($38.49 each) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-06T19:14:02.638502Z",
