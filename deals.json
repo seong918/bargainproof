@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "c87178195b6c",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19961157-14-99-amazon-fire-tv-alexa-voice-remote-newest-model-at-amazon",
+  "title": "Amazon Fire TV Alexa Voice Remote (newest model)",
+  "raw_title": "$14.99 | Amazon Fire TV Alexa Voice Remote (newest model) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0CJZFM5NB",
+  "deal_total_cents": 1499,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 1499,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1499,
+  "amazon_url": "https://www.amazon.com/dp/B0CJZFM5NB",
+  "amazon_checked_at": "2026-09-06T00:01:37.358845Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0CJZFM5NB",
+  "image_url": null,
+  "published_at": "2026-09-06T00:01:32.993625Z"
+ },
+ {
   "deal_id": "78e785c9089f",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19973640-amazon-asrock-b550m-itx-ac-supports-3rd-gen-amd-am4-ryzen-future-amd-ryzen-processors-motherboard-mini-itx-89-99",
