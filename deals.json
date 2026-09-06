@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "30fc56d76a55",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19979538-6-99-primula-brew-buddy-portable-pour-over-at-amazon",
+  "title": "Primula Brew Buddy Portable Pour Over",
+  "raw_title": "$6.99 | Primula Brew Buddy Portable Pour Over at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0087SPTLC",
+  "deal_total_cents": 699,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 699,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 699,
+  "amazon_url": "https://www.amazon.com/dp/B0087SPTLC",
+  "amazon_checked_at": "2026-09-06T21:17:31.637076Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 2,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0087SPTLC",
+  "image_url": null,
+  "published_at": "2026-09-06T21:16:53.348734Z"
+ },
+ {
   "deal_id": "430f8761aa00",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19979523-sns-ac-6-54-3-pack-20-oz-hellmann-s-real-mayonnaise-at-amazon-2-18-each",
