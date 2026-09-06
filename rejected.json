@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS] $14.23 | simplehuman Odorsorb® Pod Starter Pack, Trash Can Odor Eliminator with Plant-Based Oils at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-06T18:12:43.602567Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$14.99* | Coghlan's Cast Iron Double Camp Cooker at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-06T18:12:43.602567Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Amazon Essentials Men's Water-Resistant Packable Puffer Jacket for $9.99 w/ Prime + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T18:12:43.602567Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HART 8 Gallon Wet/Dry Vacuum, 6 Peak HP Motor, Stainless Steel Tank, Convertible to Blower, On-Board Storage, 17 ft Cleaning Reach $54.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T18:12:43.602567Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GameSir Cyclone 2 TMR Joystick Hall Linear Trigger Wireless Controller Cyclone 2 White only $35.50 / Cyclone 2 White set $40.30 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T18:12:43.602567Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$79.99* | Epson Workforce Pro WF-3823 Wireless All-in-One Printer at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
   "rejected_at": "2026-09-06T18:07:08.975964Z",
