@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "e3a4e5016047",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19970079-new-27-75-molton-brown-eau-de-parfum-fragrance-discovery-set-at-amazon",
+  "title": "Molton Brown Eau de Parfum Fragrance Discovery Set",
+  "raw_title": "[NEW] $27.75 | Molton Brown Eau de Parfum Fragrance Discovery Set at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 2775,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-06T00:35:20.627093Z"
+ },
+ {
   "deal_id": "76eff05f7a97",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19955652-89-99-worx-cordless-pole-hedge-trimmer-20v-20-2-in-1-attachment-capable-wg252-at-amazon",
