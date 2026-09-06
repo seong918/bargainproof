@@ -1,6 +1,342 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS, AC] $7.20 | 12-Pack 16-Oz BODYARMOR Sports Drink (Fruit Punch) at Amazon (60￠ each)",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-06T17:56:01.435188Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Slay the Spire",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:56:01.435188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "A Series of Unfortunate Events Complete Collection: Books 1-13 $8.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:56:01.435188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Swissgear 1900 Scansmart TSA-Friendly Backpack (Fits 17\" Laptop) $61.73",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:56:01.435188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "EASYGO PRODUCTS Pool Chair Chaise Lounge with 2 Legs Support $39.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:56:01.435188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Queen Size Medium Firm 12 Inch Gel Memory Foam Mattress $199.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:56:01.435188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Alpine Corporation GXT986 26\" Tall Outdoor Barrel Fountain with Playful Puppies $151.70",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:56:01.435188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Free To Choose: A Personal Statement eBook $1.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:56:01.435188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Bose SoundLink Plus Portable Bluetooth Speaker Blue Dusk $199.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:56:01.435188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "The Light Eaters: How the Unseen World of Plant Intelligence Offers a New Understanding of Life on Earth (eBook) $1.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:56:01.435188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Sportspower Almansor Metal Swing, Slide and Trampoline Set $199.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:56:01.435188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "40-Oz Hydro Flask All Around Travel Tumbler W/ Handle, Lid & Straw $25.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:56:01.435188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Breville BBL820SHY Q Blender Smoked Hickory $249.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:56:01.435188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Hoover Spotless Mini Portable Spot Cleaner FH12300 $79.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:56:01.435188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "OLIGHT IMINI 2 Rechargeable EDC Keychain Flashlight 2-Pack $26.59",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:56:01.435188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Coleman Montana 8-Person Weatherproof Camping Tent with Rainfly $169.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:56:01.435188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "The Four Loves eBook by C. S. Lewis $1.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:56:01.435188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Die With Zero: Getting All You Can from Your Money and Your Life (eBook) $2.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:56:01.435188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Shark VACMOP Reveal Cordless Vacuum & Spray Mop VM401 $79.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:56:01.435188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Sapiens: A Brief History of Humankind (eBook) $1.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:56:01.435188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "The Intelligent Investor, Rev. Ed: The Definitive Book on Value Investing (eBook) $2.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:56:01.435188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "The Intelligent Investor Third Edition eBook $2.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:56:01.435188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "DEWALT 20V MAX Router Tool and Jig Saw Cordless Woodworking 2-Tool Set with Battery and Charger $284.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:56:01.435188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "WORKPRO 9 PCS Impact Driver Extension Bar Set, 1/4\", 3/8\" and 1/2\" Drive $13.67",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:56:01.435188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "CITIZEN Men's Eco-Drive Avion 43mm Stainless Steel $174.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:56:01.435188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains (eBook) $1.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:56:01.435188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Remarkably Bright Creatures: A Novel (eBook) $2.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:56:01.435188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Gotrax R7 20\" Electric Bike 750W Peak Motor $764.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:56:01.435188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Shark StainStriker Portable Spot & Stain Cleaner PX221BRN $109.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:56:01.435188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "PlumbCraft Garbage Disposal Installation Kit, 1-1/2 in. OD $6.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:56:01.435188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Bissell CleanView Compact with Extension Wand 3508 $59.91",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:56:01.435188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "She Comes First: The Thinking Man's Guide to Pleasuring a Woman (Kerner Book 3) eBook $1.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:56:01.435188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "VEVOR Condiment Prep Rail Station with 3 1/3 4 1/6 Pans $502.94",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:56:01.435188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ninja Foodi Air Fryer 10 Qt DualZone Smart XL 6-in-1 Grey DZ550GY $199.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:56:01.435188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Up to 70% Off Coach Outlet | Bags from $87 Shipped",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:56:01.435188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HART 3-Piece 6-Inch All Purpose Reciprocating Saw Blades $5.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:56:01.435188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Sam's Club Members: Garmin Venu 3S (Gray) or Garmin Venu 3 (Black) $289 + Free S&H Plus Members",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:56:01.435188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Randall Munroe: What If?: Serious Scientific Answers to Absurd Hypothetical Questions (Kindle Edition) $2.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-06T17:50:27.134279Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "PIT BOSS 1 Piece Grill Glove, Black $9.74",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:50:27.134279Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Charvel Pro-Mod DK24 HSS 2PT CM, guitar Caramelized Maple Fingerboard, Satin Shell Pink $566",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:50:27.134279Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HART 8-inch High Leverage Long Nose Pliers $5.76",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:50:27.134279Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HART 19 oz. Hickory Framing Hammer $9.48",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:50:27.134279Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Grand patio Outdoor Bar Cart, Patio Storage Cabinet with Stainless Steel Top & Lockable Wheels, Kitchen Island Table Grill Cart for Outside Backyard Garden, Brown $89.99",
   "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
   "rejected_at": "2026-09-06T17:45:02.790732Z",
