@@ -1,6 +1,150 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Lenovo Legion Pro 5i Gen 10 (Cert. Refurb): 16\" QHD+ 165Hz OLED, Intel Ultra 9 275HX, RTX 5070 Ti, 32GB DDR5, 1TB SSD $1908.63",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T05:57:34.488463Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$224.91: (Grade A Refurbished,Open Box) Nintendo Switch OLED Mario Kart 8 Deluxe Bundle at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T05:51:53.334594Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$389.99 | SAMSUNG Galaxy Watch Ultra (2025) - GENERIC WATCH BAND at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T05:51:53.334594Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Logitech G PRO X 2 LIGHTSPEED Wireless Gaming Headset (Refurbished) $79.20",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T05:51:53.334594Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$47.99: WORKPRO Portable Carpet & Upholstery Spot Cleaner 13KPa with 54oz Water Tank & Tools at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T05:46:14.521236Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$399.99 | SAMSUNG Galaxy Watch Ultra (2025) | OEM WATCH BAND at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T05:46:14.521236Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$289.99 | Google Pixel Watch 4 LTE at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T05:46:14.521236Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$7.99: WORKPRO 6-Piece Magnetic Screwdriver Set, S2 Alloy Steel, 3 Phillips and 3 Slotted Tips at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T05:46:14.521236Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$179.99 | Motorola Moto G Play - 2026 (Unlocked) at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T05:46:14.521236Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$549.99 | 256GB Samsung Galaxy S25 Edge Smartphone (Unlocked) at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T05:46:14.521236Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "WORKPRO 24-in-1 Precision Screwdriver Sets $7.99 + Free S&H w/ Prime at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T05:46:14.521236Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Striped Long Sleeve Shirt Women Oversized Cotton Fall Y2K Tops CoffeeBlue L $6.99",
+  "reason": "Posted at $6.99, but Amazon showed $19.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-06T05:40:37.667971Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$14.99: TILSWALL W104 Rechargeable Cordless Hot Glue Gun w/ 20pcs 7mm Glue Sticks at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T05:40:37.667971Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$7.99: TILSWALL W101 50W Hot Glue Gun Blue w/ 30 Premium Glue Sticks at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T05:40:37.667971Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "5-Pack Bosch 4-5/8\" 12 TPI T-Shank High-Carbon Steel Jigsaw Blade Set $4.98 + Free Store Pickup at Lowe's or Free Shipping on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T05:35:01.294594Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Insignia 100W USB-C GaN Wall Charger (White) $14.99 + Free Store Pickup at Best Buy",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T05:35:01.294594Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Satechi 5' USB-C Magnetic Wireless Charging Cable w/ MagSafe (Space Gray) $5.99 + Free Shipping on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T05:35:01.294594Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Under Armour Kids' Lockdown 7 Grade School Basketball Shoes $29.73 + Free Shipping on $50+ or Free Store Pickup at Under Armour",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T05:35:01.294594Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Utilitech Qi2 2-in-1 Foldable Wireless Charging Station $11.42 + Free Store Pickup at Lowe's or Free Shipping on $35+",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T05:29:23.402360Z",
