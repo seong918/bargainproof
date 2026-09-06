@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Klein Tool Ratcheting Modular Crimper, $26.99, FS Prime, Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T13:35:00.588608Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Samsung 75-Inch Class M70H Series, Mini LED, 4K, Smart TV, 2026 Model $547.99",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-06T13:35:00.588608Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$111.99: Lark Manor™ Hollifield 4 Person Patio Dining Set with Square Table, Chairs & Umbrella at Wayfair",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T13:29:22.855448Z",
