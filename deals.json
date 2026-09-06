@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "8f79c2df8e87",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19978401-7-45-wera-ball-end-hex-screwdriver-352-4-0-x-100-mm-5022810006-at-amazon",
+  "title": ": Wera - Ball-End Hex Screwdriver, 352 4.0 X 100 mm - 5022810006",
+  "raw_title": "$7.45: Wera - Ball-End Hex Screwdriver, 352 4.0 X 100 mm - 5022810006 at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B00155500E",
+  "deal_total_cents": 745,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "qty"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 745,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 745,
+  "amazon_url": "https://www.amazon.com/dp/B00155500E",
+  "amazon_checked_at": "2026-09-06T14:24:02.132235Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 0,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B00155500E",
+  "image_url": null,
+  "published_at": "2026-09-06T14:23:57.117882Z"
+ },
+ {
   "deal_id": "c2e157ee4ff4",
   "source": "techbargains",
   "source_url": "https://www.amazon.com/gp/product/B0FDGLC525/ref=ox_sc_act_title_1",
