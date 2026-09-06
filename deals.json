@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "0bb029c6be3c",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19979622-24-apple-airtag-2nd-generation-at-amazon",
+  "title": "Apple AirTag (2nd Generation)",
+  "raw_title": "$24* | Apple AirTag (2nd Generation) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 2400,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-06T22:41:01.179151Z"
+ },
+ {
   "deal_id": "5d7a4f51d13b",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19979820-11-20-mcdavid-hex-shooter-arm-sleeve-single-padded-compression-sleeve-basketball-football-sports-protection-at-amazon",

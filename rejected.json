@@ -1,5 +1,29 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Diablo 9\" Reciprocating Saw Blade 6-Piece Set for $9 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T22:41:01.179151Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "VEVOR Condiment Prep Rail Station, 140 W Countertop Refrigerated Condiment Station, with 3 1/3 4 1/6 Pans, 304 Stainless Body and PC Lid $502.94",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-06T22:35:24.211658Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Refurb: Sony WH-1000XM6 Wireless Noise-Cancelling Over-the-Ear Headphones (Black, Silver, Blue) $226.79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T22:35:24.211658Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "My Texas House Cambria Rectangular Steel Outdoor Coffee Table, Black, $77, FS, Walmart",
   "reason": "Not evaluated",
