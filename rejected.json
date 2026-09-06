@@ -1,5 +1,61 @@
 [
  {
+  "source": "dealcatcher",
+  "raw_title": "Weber Spirit E-210 Gas Grill $399.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T16:55:10.944421Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "WORX Cordless Pruning Shear 20V $59.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T16:55:10.944421Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Animal Friends 8-Movie Collection [DVD] $6.88",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T16:55:10.944421Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Arrow 10' x 20' x 9' All-Weather Galvanized Steel Carport with 3 Wall Kits $2,730.29",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T16:55:10.944421Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Judas Priest Sad Wings of Destiny (Original 1976 Masters) Half-Speed Vinyl LP $24.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T16:55:10.944421Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Blink 4 Outdoor 3-Camera System with Sync Module and 2K Blink Doorbell Camera $103.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T16:55:10.944421Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "LSA Apparel 75kPa Semi-Automatic Compact Vacuum Sealer Machine with 20 Vacuum Bags $11.99",
+  "reason": "Posted at $11.99, but Amazon showed $24.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-06T16:49:36.035388Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Husky 1/4 in. Drive SAE/Metric Hex Bit Socket Set (16-Piece) $13.97",
   "reason": "Not evaluated",
