@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "26a031cc87fb",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19977573-249-95-breville-bbl820shy-q-blender-for-kitchens-smoked-hickory-at-amazon",
+  "title": "Breville BBL820SHY Q Blender for Kitchens, Smoked Hickory",
+  "raw_title": "$249.95 | Breville BBL820SHY Q Blender for Kitchens, Smoked Hickory at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B07N6J8MQQ",
+  "deal_total_cents": 24995,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 24995,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 24995,
+  "amazon_url": "https://www.amazon.com/dp/B07N6J8MQQ",
+  "amazon_checked_at": "2026-09-06T07:44:07.193262Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B07N6J8MQQ",
+  "image_url": null,
+  "published_at": "2026-09-06T07:44:02.972913Z"
+ },
+ {
   "deal_id": "83e385bc0afd",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19977537-new-ac-139-79-dakine-split-carry-on-roller-bag-42l-black-at-amazon",
