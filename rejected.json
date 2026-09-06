@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$2.99 | Sapiens [Tenth Anniversary Edition]: A Brief History of Humankind – The #1 New York Times Bestseller Exploring Evolution and Ancient Socieities (eBook) by Yuval Noah Harari",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-06T20:49:02.300076Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$0.99 | Johnny Carson: A Taut Portrait of a Complex Man Revealing the True Johnny Carson (eBook) by Henry Bushkin",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-06T20:49:02.300076Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Target Home Improvement Sale: Extra 10% off + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T20:49:02.300076Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Audio-Technica ATH-M40x Closed-Back Professional Studio Monitor Headphones - Black $109 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T20:49:02.300076Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "140W Insignia USB-C GaN Wall Charger (White) $19.99 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T20:43:36.186204Z",
