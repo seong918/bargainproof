@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "470a0fe20fb8",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19958313-132-99-asus-tuf-gaming-b650e-plus-wifi-amd-b650-atx-motherboard-at-amazon",
+  "title": "ASUS TUF Gaming B650E-PLUS WiFi AMD B650 ATX Motherboard",
+  "raw_title": "$132.99* | ASUS TUF Gaming B650E-PLUS WiFi AMD B650 ATX Motherboard at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0F7VZS6FG",
+  "deal_total_cents": 13299,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 13299,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 13299,
+  "amazon_url": "https://www.amazon.com/dp/B0F7VZS6FG",
+  "amazon_checked_at": "2026-09-06T06:14:20.524771Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0F7VZS6FG",
+  "image_url": null,
+  "published_at": "2026-09-06T06:14:16.388116Z"
+ },
+ {
   "deal_id": "706b421e8ec2",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19977183-55-99-654-pc-lego-disney-star-wars-a-new-hope-tantive-iv-starship-building-set-at-amazon",
