@@ -1,5 +1,21 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Amazon Saver, Classic Black Tea, 8 Oz, 100 Ct $1.95",
+  "reason": "Posted at $1.95, but Amazon showed $0.02 when we checked — the post is stale",
+  "rejected_at": "2026-09-06T16:27:15.975014Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Verified Students: Texas Instruments TI-84 Evo Graphing Calculator (White) $68.79 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T16:27:15.975014Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "hip2save",
   "raw_title": "Mini Nilla Wafers 10-Pack Just $4 Shipped on Amazon",
   "reason": "Not evaluated",
