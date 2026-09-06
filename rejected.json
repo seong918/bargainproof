@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Bull Shot BBQ Pro Foaming Grill Cleaner, Pro Strength, As Seen on TV $14.99 [AC]",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-06T00:52:16.601689Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Wera Kraftform Plus 334/6 Screwdriver set $30 at Woot",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T00:52:16.601689Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$1699 Costco Members: Closeout Huge 18\" MSI Crosshair Gaming Laptop Nvidia Gforce RTX 5070 Ultra 9 275HX 1TB SSD",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T00:52:16.601689Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Ohuhu Alcohol Markers - 160-color 74.98 $74.98",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T00:40:59.036869Z",
