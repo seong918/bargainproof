@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "3a26ebbaf852",
+  "source": "techbargains",
+  "source_url": "https://www.amazon.com/gp/product/B08K9CLRQD/ref=ox_sc_act_title_1",
+  "title": "Dewalt DCK201P1 20V Cordless Woodworking Router Tool & Jig Saw Kit",
+  "raw_title": "Dewalt DCK201P1 20V Cordless Woodworking Router Tool & Jig Saw Kit $284.99",
+  "merchant": "amazon",
+  "buy_url": "https://www.amazon.com/gp/product/B08K9CLRQD/ref=ox_sc_act_title_1",
+  "deal_total_cents": 28499,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 28499,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 28499,
+  "amazon_url": "https://www.amazon.com/dp/B08K9CLRQD",
+  "amazon_checked_at": "2026-09-06T15:31:15.448606Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": null,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B08K9CLRQD",
+  "image_url": null,
+  "published_at": "2026-09-06T15:31:09.897396Z"
+ },
+ {
   "deal_id": "c4da6fd2913d",
   "source": "techbargains",
   "source_url": "https://www.amazon.com/gp/product/B0096F5HSK/ref=ox_sc_act_title_1",

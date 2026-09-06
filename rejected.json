@@ -1,5 +1,45 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Coostar Men's Orthopedic Arch Support Non Slip Breathable Walking Shoes $29.99",
+  "reason": "Posted at $29.99, but Amazon showed $51.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-06T15:31:09.897396Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Kobalt 24V 2-Pack 4.0Ah Lithium-Ion Batteries w/ 85W Charger (KBCD) $99.00 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T15:31:09.897396Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Pittman Truck Bed Air Mattress with Portable 12V DC Pump – Fits Ford, Chevy, GMC, RAM & Toyota Trucks 6'-6.5' beds | AirBedz Lite - $119.43 with Shipping",
+  "reason": "Posted at $119.43, but Amazon showed $174.59 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-06T15:25:34.274637Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Energy Speakers: 2x CF-70 Floors + CC-10 Center + CB-20 Bookshelves + C10 Sub $499 + Free S/H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T15:25:34.274637Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "4.2-Oz Clinique Dramatically Different Moisturizing Gel Oil-Free Face Moisturizer $16.15 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-06T15:25:34.274637Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Corsair RMe RM850e 850W 80 Plus Gold Fully Modular Low Noise Certified Refurb $54.99",
   "reason": "Not evaluated",
