@@ -1,5 +1,61 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Grand patio Outdoor Bar Cart, Patio Storage Cabinet with Stainless Steel Top & Lockable Wheels, Kitchen Island Table Grill Cart for Outside Backyard Garden, Brown $89.99",
+  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-06T17:45:02.790732Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Collapsible Stool Just $19.99 Shipped on Amazon (Reg. $40) | Holds Up to 400 Pounds",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:45:02.790732Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HART 20-Volt Cordless Rotary Tool with 33 Accessories (Battery Not Included) $25.44",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:45:02.790732Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HART 5-Piece Flex Head Ratcheting Wrench Set, Metric Wrenches $14.94",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:45:02.790732Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ASUS ROG Flow Z13 Tablet: 13.4” QHD+ IPS 180Hz, Ryzen AI MAX 390, 32GB LPDDR5X 8000MHz, 1TB SSD $1699.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:45:02.790732Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HART 6-Piece Folding Metric Nut Drivers with Durable Housing $4.94",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:45:02.790732Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HART 20-Volt Reciprocating Saw (Battery Not Included) $28.93",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:45:02.790732Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Dewalt 3-Mode 360-Rotation Cordless LED Work Light $17.99",
   "reason": "Posted at $17.99, but Amazon showed $35.99 when we checked — the deal is probably over",
