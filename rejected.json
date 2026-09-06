@@ -1,6 +1,94 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$1.19 S&S AMAZON Amazon Grocery, Paprika, 2.75 Oz (part of buy 4/save another 10% Prime Promo)",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-06T14:40:46.411969Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "TreeLen Angled Bristle Adjustable Size Broom And Dustpan Set $12.49",
+  "reason": "Posted at $12.49, but Amazon showed $24.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-06T14:40:46.411969Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Lysol Disinfecting Wipes 80 ct. (4 Pack) $12.08",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T14:40:46.411969Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Welcome Fall Garden Flag $3.60",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T14:40:46.411969Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Slow Feeder Dog Bowls $4.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T14:40:46.411969Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "KitchenAid 6-Speed Hand Mixer $24.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T14:40:46.411969Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Outdoor LED Solar Pathway Lights 10-Pack Just $24.97 Shipped (Only $2.50 Each!)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T14:40:46.411969Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Greenworks 40V 13-Inch Cordless String Trimmer / Edger and Leaf Blower Combo Kit + 3 Bonus Spools, 2.0Ah Battery and Charger Included $124.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T14:40:46.411969Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Greenworks 24V 10\" Cordless 2800 RPM Buffer & Polisher, 2.0Ah Battery & Charger $70.19",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T14:40:46.411969Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "QUINEAR Leg Massager, 3-in-1 Foot Calf & Thigh Massager with Heat and Compression Therapy $70",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T14:40:46.411969Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Apple iPhone Secure Attachment Air Bumper $12.60",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T14:40:46.411969Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$7.08: Con-Tact Brand Cork Roll, Self-Adhesive, 12\" x 4'",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-06T14:35:09.432501Z",
