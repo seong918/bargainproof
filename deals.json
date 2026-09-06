@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "21d097bc50c1",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19977069-pga-tour-2k25-ps5-10-free-shipping-w-prime-or-on-orders-over-35",
+  "title": "PGA Tour 2K25 (PS5) + or on orders over",
+  "raw_title": "PGA Tour 2K25 (PS5) $10 + Free Shipping w/ Prime or on orders over $35",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1000,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "prime"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-06T10:11:05.313360Z"
+ },
+ {
   "deal_id": "71f673f2cb2d",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19968147-14-89-12-piece-neiko-01377a-magnetic-torx-screwdriver-set-t5-t40-at-amazon",
