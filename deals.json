@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "f139346e9852",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19977735-7-33-peanuts-flying-ace-remote-control-interactive-toy-at-amazon",
+  "title": "Peanuts Flying Ace Remote Control Interactive Toy",
+  "raw_title": "$7.33 | Peanuts Flying Ace Remote Control Interactive Toy at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0167XJSZQ",
+  "deal_total_cents": 733,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 733,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 733,
+  "amazon_url": "https://www.amazon.com/dp/B0167XJSZQ",
+  "amazon_checked_at": "2026-09-06T08:38:41.154801Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0167XJSZQ",
+  "image_url": null,
+  "published_at": "2026-09-06T08:38:37.134238Z"
+ },
+ {
   "deal_id": "fe1f19cfb2fb",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19963608-50-liter-spalding-outdoor-adventure-backpack-w-shoe-compartment-19-99-free-shipping-w-prime-or-on-35",
