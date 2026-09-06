@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS, AC] $7.20 | 12-Pack 16-Oz BODYARMOR Sports Drink (Tropical Punch) at Amazon (60￠ each)",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-06T18:23:53.800864Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$7.99 | Amazon Basics Microfiber Cleaning Cloths, 12\" x 12\", Grey, 48 Pack at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T18:23:53.800864Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Yooka-Laylee and the Impossible Lair",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T18:18:19.539180Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Sams Club Members: earn $5 Sam's Cash on a $15+ curbside pick up order to 9/30 **YMMV** Limit 1 EMAIL INVITE",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T18:18:19.539180Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[SnS] $14.23 | simplehuman Odorsorb® Pod Starter Pack, Trash Can Odor Eliminator with Plant-Based Oils at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-06T18:12:43.602567Z",
