@@ -1,5 +1,29 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$21.98 AMAZON FEATOL Back Brace for Women & Men, Lower Back, Sciatica Pain Relief",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-06T09:16:23.390159Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Wyze Bulb Security Camera for $40 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T09:16:23.390159Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Nike Price-in-Bag Summer Ready Sale: Up to an extra 40% off + free shipping w/ $50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T09:16:23.390159Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Spyder Men's Rain Jacket for $35 + free shipping w/ Prime",
   "reason": "Not evaluated",
