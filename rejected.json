@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "The Boy on the Bridge $1.99",
+  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-06T13:40:36.258389Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Sand & Stable™ Calhoun 4 Piece Sofa Seating Group with Cushions(Gray Frame/Beige Cushion) $237.99 + Free S&H at Wayfair",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T13:40:36.258389Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "9/9 Only - Free Big Mac sandwich with $2 purchase (App deal)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T13:40:36.258389Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Klein Tool Ratcheting Modular Crimper, $26.99, FS Prime, Woot!",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T13:35:00.588608Z",
