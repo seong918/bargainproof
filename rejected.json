@@ -1,5 +1,45 @@
 [
  {
+  "source": "dealcatcher",
+  "raw_title": "Fireball Sweet Heat Chili Seasoning Mix 1.25 oz $1.40",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T23:52:55.599028Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Hisense M7 55M7SG 55\" 4K QLED Smart TV for $284 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T23:52:55.599028Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "USDA Choice Black Angus Filet Mignon 16 Total count, 5 Lbs. $10.62 per filet!! $169.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T23:52:55.599028Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$3.97 get $2 Walmart Cash 5.2 oz Crest Premium w/Scope TP or 5.2 oz Deep Clean Foaming Toothpaste FS Plus or pick up",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T23:52:55.599028Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "USDA Choice Black Angus Filet Mignon, 16 Total count, 5 Lbs. $169.99",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-06T23:52:55.599028Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Select Crest Toothpaste Products + $2 Walmart Cash from $2.65 + Free Pickup",
   "reason": "Not evaluated",
