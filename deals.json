@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "7bb85dfce665",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19949316-amazon-jusgym-10ft-string-light-poles-for-outside-2-pack-14-99-w-code",
+  "title": "Amazon – Jusgym 10ft String Light Poles for Outside, 2-Pack - w/ Code",
+  "raw_title": "Amazon – Jusgym 10ft String Light Poles for Outside, 2-Pack - $14.99 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0GX98V7KV",
+  "deal_total_cents": 1499,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 2999,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 2999,
+  "amazon_url": "https://www.amazon.com/dp/B0GX98V7KV",
+  "amazon_checked_at": "2026-09-06T00:46:43.387080Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0GX98V7KV",
+  "image_url": null,
+  "published_at": "2026-09-06T00:46:38.335730Z"
+ },
+ {
   "deal_id": "e3a4e5016047",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19970079-new-27-75-molton-brown-eau-de-parfum-fragrance-discovery-set-at-amazon",
