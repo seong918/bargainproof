@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "a4dccde4ecd3",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19977600-1-99-the-four-loves-ebook-by-c-s-lewis",
+  "title": "The Four Loves (eBook) by C. S. Lewis",
+  "raw_title": "$1.99 | The Four Loves (eBook) by C. S. Lewis",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 199,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-06T13:29:22.855448Z"
+ },
+ {
   "deal_id": "395036ea9959",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19978029-13-67-workpro-9-pcs-impact-driver-extension-bar-set-1-4-3-8-and-1-2-drive-at-amazon",
