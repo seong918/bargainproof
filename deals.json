@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "3ce3b7151537",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19978977-sns-ac-12-45-20-pack-1-oz-popcorners-popped-corn-snacks-white-cheddar-at-amazon",
+  "title": "20-Pack 1-Oz PopCorners Popped Corn Snacks (White Cheddar)",
+  "raw_title": "[SnS, AC] $12.45* | 20-Pack 1-Oz PopCorners Popped Corn Snacks (White Cheddar) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1245,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-06T19:36:30.007900Z"
+ },
+ {
   "deal_id": "438b2f30e146",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19979160-sns-ac-6-38-12-pack-1-69oz-luna-whole-nutrition-protein-snack-bars-lemon-zest-at-amazon",
