@@ -1,6 +1,78 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "OGERY R-Value 9.0 Insulated Inflatable Sleeping Pad for Camping (Green) $59.98 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-06T15:47:59.497717Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Nature Made 500mg Turmeric Curcumin (120 Capsules) $7.58",
+  "reason": "Posted at $7.58, but Amazon showed $13.79 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-06T15:47:59.497717Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Women’s Lightweight Bathrobe Only $13.99 on Amazon (Reg. $30)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T15:47:59.497717Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "MSI Maestro 500 Wireless Gaming Headset w/ Active Noise Cancellation (Black) $49.99 or less + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T15:47:59.497717Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "12-Pack 16-Oz BODYARMOR LYTE Dragonfruit Berry Sports Drink $7.20 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-06T15:42:22.418114Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Bodyarmor Zero Sugar Fruit Punch Electrolyte Drink (28oz, 15-Pack) $15.75",
+  "reason": "Posted at $15.75, but Amazon showed $26.25 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-06T15:42:22.418114Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Lisen 90W USB-C iPhone Car Charger $7.99",
+  "reason": "Posted at $7.99, but Amazon showed $16.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-06T15:42:22.418114Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "NEW Premier Protein Soda Just $12.49 After Walmart Cash (Reg. $25)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T15:42:22.418114Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Piece Kohler Highline Round Chair 12\" Height Rough-In WaterSense 1.28 GPF Soft Close Toilet $189 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T15:42:22.418114Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Round Trip Nashville - Denver or Vice Versa $177 Nonstop Airfares on Southwest or United Airlines BE (Travel October - March 2027)",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T15:36:45.873434Z",
