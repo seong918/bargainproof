@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "64ce5cc04652",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19979931-39-99-directive-8020-deluxe-edition-playstation-5-at-amazon",
+  "title": "Directive 8020 Deluxe Edition (PlayStation 5)",
+  "raw_title": "$39.99* | Directive 8020 Deluxe Edition (PlayStation 5) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0GMRVTRXT",
+  "deal_total_cents": 3999,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 3999,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 3999,
+  "amazon_url": "https://www.amazon.com/dp/B0GMRVTRXT",
+  "amazon_checked_at": "2026-09-06T23:30:52.841544Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0GMRVTRXT",
+  "image_url": null,
+  "published_at": "2026-09-06T23:30:48.623061Z"
+ },
+ {
   "deal_id": "2f97ab9d8603",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19978878-14-98-31-pc-dewalt-security-screwdriver-bit-set-w-storage-case-at-amazon",
