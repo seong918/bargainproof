@@ -1,5 +1,85 @@
 [
  {
+  "source": "hip2save",
+  "raw_title": "VitaUp Urinary Tract Support 45-Day Supply Only $13 Shipped on Amazon (Reg. $26)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T20:15:42.910305Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Staub Dinnerware 20-piece Set, Service for 4 $199.99 White or Cream Free Shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T20:15:42.910305Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Staub 7-Quart Cast Iron Braise and Grill $199.99 Dark Blue or Green Free Shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T20:15:42.910305Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Labor Day Grocery Deals at Target for $5 off $30, more + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T20:10:05.587099Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Charbroil Stainless Steel Folding Chicken Roaster - $4.99 @ Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-06T20:04:30.209305Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LUNA Berry Bars Mixed Berry, Fiber Granola Bars, Gluten Free, 6ct ( Other Flavors Available )$3.99 or less",
+  "reason": "Posted at $3.99, but Amazon showed $0.56 when we checked — the post is stale",
+  "rejected_at": "2026-09-06T20:04:30.209305Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "NEW Brickcraft Halloween Sets from $9.97 on Walmart.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T20:04:30.209305Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "FoodCycler Eco 3 Countertop Electric Food Recycler 3.5L, 4 Carbon Filter Refills Included $319.99 Free Shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T20:04:30.209305Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Signature Design by Ashley Ramsay Wood Dresser (Cherry) $ $211.19",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T20:04:30.209305Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SodaStream Art Sparkling Water Maker Bundle $69.99 Black, Gold, Red, or White free Shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T20:04:30.209305Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Alpine Corporation GXT986 26\" Tall Outdoor Barrel Fountain with Playful Puppies, Cascading Garden Water Feature for Patio, Lawn, or Yard Decor, Brown $151.7",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
