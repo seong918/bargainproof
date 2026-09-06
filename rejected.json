@@ -1,5 +1,37 @@
 [
  {
+  "source": "dealcatcher",
+  "raw_title": "Williams Sonoma Glassware Set (Low Ball) $24.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T12:33:48.962125Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Flame King Propane Weed Burner 500K BTU $28.79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T12:33:48.962125Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CRAFTSMAN Heavy Duty Reverse Squeeze Stapler $14.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-06T12:33:48.962125Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Hoover Spotless Mini Portable Spot Cleaner FH12300, Carpet and Upholstery Cleaner for Stairs, Furniture, Pet Messes and Cars, Compact Design, Easy Fill Tank, $79.99",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-06T12:33:48.962125Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$1.49 Walgreens Clearance Paper Mate Profile Ballpoint Pen 1.0MM Business, 4.0 ea FPU at $10 YMMV",
   "reason": "Not evaluated",
