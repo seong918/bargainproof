@@ -1,5 +1,21 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$232.66* | Husqvarna 135 Mark II Gas Powered Chainsaw, 38-cc 2.1-HP, 16 inch at Amazon",
+  "reason": "Posted at $232.66, but Amazon showed $205.10 when we checked — the post is stale",
+  "rejected_at": "2026-09-06T20:38:05.820698Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Collapsible Laundry Hamper 2-Pack Only $9.99 on Amazon (Only $5 Each)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T20:38:05.820698Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Diapers & Wipes Deals at Amazon for $25 Amazon Credit w/ $100 + free shipping",
   "reason": "Not evaluated",
