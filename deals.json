@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "0cc7d6e94cae",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19977255-12-99-borderlands-steelbook-4k-uhd-blu-ray-digital-at-amazon",
+  "title": "Borderlands SteelBook (4K UHD + Blu-ray + Digital)",
+  "raw_title": "$12.99* | Borderlands SteelBook (4K UHD + Blu-ray + Digital) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0D8N3B4HC",
+  "deal_total_cents": 1299,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 1299,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1299,
+  "amazon_url": "https://www.amazon.com/dp/B0D8N3B4HC",
+  "amazon_checked_at": "2026-09-06T06:36:50.295429Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0D8N3B4HC",
+  "image_url": null,
+  "published_at": "2026-09-06T06:36:45.371541Z"
+ },
+ {
   "deal_id": "4cf0230e0429",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19977237-71-99-12-greenworks-24v-gen-2-cordless-string-trimmer-w-2-0ah-battery-charger-at-amazon",

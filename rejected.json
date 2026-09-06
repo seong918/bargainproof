@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS] $7.59* | 34-Ct USKICH Coffee Machine Cleaner & Descaler Tablets at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-06T06:36:45.371541Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "10x Jayo PETG 3D Printer Filament, 1.1 KG each, from $84.56 (Black PETG) other materials like PLA, TPU, ASA etc. available",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T06:36:45.371541Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "KINGYES 7-Piece Outdoor Dining Set w/ Table & Umbrella Hole(Various Colors) from $549.99 + Free S&H at Walmart",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T06:31:08.735871Z",
