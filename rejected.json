@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$17.99: [Prime]Shomextol Hose Holder,100ft Capacity Garden Hose holder,Butterfly Style at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-06T02:46:11.471703Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bose Kendra Scott Ultra Open Earbuds $229.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T02:40:32.663580Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$139.99: GRILL DEPOTS Propane 3-Burner Gas Grill w/ Folding Side Tables(30,000 BTU) at Amazon",
   "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-06T02:24:15.355604Z",
