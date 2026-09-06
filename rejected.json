@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "1980s Decade Bundle (DVD) $11.95 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-06T18:46:06.670999Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $3.49* | 40-Pk 0.8-Oz Welch's Fruit Snacks at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-06T18:46:06.670999Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Rust-Oleum Stops Rust Brush On Enamel Paint, Gloss Dark Hunter Green 2-Pack 32-Oz $18.44",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T18:46:06.670999Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Apple - iPhone Air 256GB (Unlocked) - All Colors $849.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T18:46:06.670999Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $8.99* | 70-ct 0.5-oz Welch's Fruit Snacks Halloween Variety Pack at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-06T18:40:34.220438Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SKIL 10 Pc Hex Shank Carbide Hammer Drill Bit Set-MDB5000 $12.62",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T18:40:34.220438Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Prime: Aootek 120-LED Solar Motion Sensor Lights (Daylight White): 2-Pk $6, 8-Pk $16.50 + Free S&H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T18:40:34.220438Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$649.95* | Breville Barista Express Impress Espresso Machine at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-06T18:35:02.209121Z",
