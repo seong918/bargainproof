@@ -1,5 +1,37 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Sophia & William 4 Burner Propane Gas BBQ Grill with Side Burner,Blue 42,000BTU Porcelain-Enameled Cast Iron Grates~$305.99 @ Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-06T10:16:44.688803Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Method Foaming Hand Wash (Sweet Water, 10oz, 6-Pack) $10.02",
+  "reason": "Posted at $10.02, but Amazon showed $16.69 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-06T10:16:44.688803Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Acer 27\" IPS FHD 1920 x 1080 Home Office Monitor SB270 G0bi $99.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T10:16:44.688803Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "New Members: 1-Year BJ's Wholesale Club Membership $9",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T10:16:44.688803Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Under Armour Outlet Labor Day Sale: 30% to 40% off + extra 15% off + free shipping w/ $50",
   "reason": "Not evaluated",
