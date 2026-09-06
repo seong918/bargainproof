@@ -1,5 +1,21 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$29.99 | Mafia: The Old Country (PS5) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-06T19:08:25.034921Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Motorola Moto G Power 5G 128GB for Tracfone w/ 1-Year Service Plan for $50 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T19:08:25.034921Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "hip2save",
   "raw_title": "OVER $60 Worth of Personal Care Products ONLY $7.57 on CVS.com",
   "reason": "Not evaluated",
