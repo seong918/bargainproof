@@ -1,6 +1,158 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Meat Thermometer Digital, 1-2 Sec Instant Read, Food, Cooking, Grilling~$9.98 @ Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-06T07:16:01.413090Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "JET 10-Inch Benchtop Drum Sander, 1 HP, 115V 1Ph (Model JWDS-1020) $1049.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-06T07:16:01.413090Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Oscillating Multi-Tool Blade Kit (20-Piece) $44.88",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T07:16:01.413090Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$8.98 LOWES Weber Griddle Deep Cleaner 16 Fluid ounce(s) Grill grate/grid cleaner",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T07:16:01.413090Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "98cents to $5 LOWES Bosch Bosch Titanium Jobber length Twist Drill Bit (select sizes)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T07:16:01.413090Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$35 LOWES DEWALT TOUGH GRIP Screwdriver Bit Set 110 -Piece",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T07:16:01.413090Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M18 18V Lithium-Ion Cordless Oscillating Multi-Tool (Tool-Only) with 2.0 Ah Compact Battery $139",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T07:16:01.413090Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC] $97.99 | 2 × Hue Flux 10-Feet LED Strip Light ($48.99 each) at Amazon",
+  "reason": "Posted at $97.99, but Amazon showed $69.99 when we checked — the post is stale",
+  "rejected_at": "2026-09-06T07:10:23.452359Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$10 LOWES CRAFTSMAN 14 -Piece Assorted Assorted Gold oxide coated Jobber length Twist Drill Bit Set",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T07:10:23.452359Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ridgid 18V Brushless Cordless 6-1/2 in. Circular Saw Kit with 4.0 Ah MAX Output Battery and Charger $129",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T07:10:23.452359Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$5 LOWES CRAFTSMAN 3 -Pack Socket adapter Set",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T07:10:23.452359Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$129 LOWES Greenworks Green 3-Ton Metal Electric Portable jack",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T07:10:23.452359Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$99 LOWES Kobalt 24-volt 24-in Battery Hedge Trimmer 2 Ah Battery Included , Charger Included",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T07:10:23.452359Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "RYOBI ONE+ HP 18V Brushless Cordless 10 in. Sliding Compound Miter Saw Kit with 4.0 Ah HIGH PERFORMANCE Battery and Charger $299",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T07:10:23.452359Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M18 FUEL 18V Lithium-Ion Brushless Cordless 6-1/2 in. Circular Saw with (1) 5.0 Ah Battery $199",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T07:10:23.452359Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$169 LOWES Metabo HPT MultiVolt 18 -Gauge 1-1/2-in Narrow Crown Finish Cordless Stapler ( Battery and Charger Included )",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T07:10:23.452359Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "The Movie Book: Big Ideas Simply Explained (eBook) $2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T07:10:23.452359Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Greenworks - 60V 13\" String Trimmer, 140 MPH 540 CFM Leaf Blower Combo, with 4Ah Battery and Charger, $199.98, FS, Best Buy",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T07:10:23.452359Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "10-Piece ECO-WORTHY 590W N-Type Bifacial Solar Panel $2200 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T07:10:23.452359Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "MIlwaukee M18 FUEL 18V Lithium-Ion Brushless Cordless HACKZALL Reciprocating Saw W/ M18 5.0 Ah Battery $179",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T07:04:49.326546Z",
@@ -50,14 +202,6 @@
  {
   "source": "slickdeals",
   "raw_title": "18V Brushless Cordless 4-Mode 1/2 in. High-Torque Impact Wrench Kit with (2) 4.0 Ah Lithium-Ion Batteries and Charger $199",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T07:04:49.326546Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Milwaukee M18 FUEL 18V Lithium-Ion Brushless Cordless 6-1/2 in. Circular Saw with (1) 5.0 Ah Battery $199",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T07:04:49.326546Z",
   "code": "not_checked",

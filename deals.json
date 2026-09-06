@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "5da7e6284408",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19977444-139-99-hp-officejet-pro-8135e-wireless-all-in-one-color-inkjet-printer-at-amazon",
+  "title": "HP OfficeJet Pro 8135e Wireless All-in-One Color Inkjet Printer",
+  "raw_title": "$139.99 | HP OfficeJet Pro 8135e Wireless All-in-One Color Inkjet Printer at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0CFM7BTW8",
+  "deal_total_cents": 13999,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 13999,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 13999,
+  "amazon_url": "https://www.amazon.com/dp/B0CFM7BTW8",
+  "amazon_checked_at": "2026-09-06T07:16:05.494946Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0CFM7BTW8",
+  "image_url": null,
+  "published_at": "2026-09-06T07:16:01.413090Z"
+ },
+ {
   "deal_id": "3f9f1e62b3d3",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19977351-199-99-shark-lift-away-upright-vacuum-w-powerfins-no-hair-wrap-eggplant-at-amazon",
