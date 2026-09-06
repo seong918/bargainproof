@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon ~ Modern Gold Pendant Kitchen Island Light w/Seeded Glass $11.38",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-06T11:07:38.195118Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SayTale Medium Firm 8 inch Full Mattress Memory Foam Mattress in a Box $159.99",
+  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-06T11:07:38.195118Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$14.99 | Verizon Slim 65W GaN USB-C Wall Charger at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T11:07:38.195118Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Jocoevol Fire Pit Table 50,000 BTU 42\" Rectangular Propane Fire Pit Outdoor $269.99",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-06T11:01:57.561037Z",
