@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$17.91: Arm & Hammer Clean Burst Moisture Absorber and Odor Eliminator Tubs, 14 oz, 3 Pack",
+  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-06T14:29:33.694523Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$20.03: Beyblade X Clash & Carry Beystadium Battle Arena Spinning-Top Toys (Ages 8+)",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-06T14:29:33.694523Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Superone 42H Playtime IPX5 Sweatproof Open Ear Clip-On Earbuds $14.99",
+  "reason": "Posted at $14.99, but Amazon showed $29.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-06T14:29:33.694523Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Apple Macbook Air M1 8-Core 13.3\" 2560x1600 Laptop with 256GB SSD $449",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T14:29:33.694523Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[S&S] $17.58: Pureology Color Fanatic Leave-In Conditioner Detangler & Heat Protectant Spray, Coconut & Camellia Oils, Vegan $17.57",
   "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-06T14:23:57.117882Z",
