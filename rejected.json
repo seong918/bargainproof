@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$649.95* | Breville Barista Express Impress Espresso Machine at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-06T18:35:02.209121Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "GearIt 10-Foot 360° Rotating Flat Plug Extension Cord for $10 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T18:35:02.209121Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Step2 Package Delivery Box Only $33.86 Shipped on Amazon (Regularly $70)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T18:35:02.209121Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Eureka MaxSwivel Deluxe Upright Vacuum with Swivel Steering and Extended Reach, NEU250 $49.86",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T18:35:02.209121Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "COVERGIRL x Stranger Things Vecna's Curse PH Transforming Blush Stick (001 Shimmer Black to Purple) $2.81 w/ S&S + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-06T18:29:25.166695Z",
