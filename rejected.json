@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$79.99* | Epson Workforce Pro WF-3823 Wireless All-in-One Printer at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-06T18:07:08.975964Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$79.95* | JBL Flip 6 - Portable Waterproof Speaker - Camo at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-06T18:07:08.975964Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Nickelodeon All-Star Brawl 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T18:07:08.975964Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "10′ Lightning Charging Cables 3-Pack Only $3.49 on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T18:07:08.975964Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Apple AirPods Max 2 USB-C New $449 Various Colors From $391.99 Open Box (Good) $399.99 (Excellent) Bestbuy.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T18:07:08.975964Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[SnS, AC] $7.20 | 12-Pack 16-Oz BODYARMOR Sports Drink (Zero Fruit Punch) at Amazon (60￠ each)",
   "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-06T18:01:34.644921Z",
