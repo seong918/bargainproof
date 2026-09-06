@@ -1,5 +1,101 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "SheLucki Men's Printed Palmshadow Hawaiian Shirt $7.49",
+  "reason": "Posted at $7.49, but Amazon showed $14.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-06T14:01:44.879732Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Dove Men+Care 3.75oz 3-in-1 Cleanser Bar (8-Pack) $6.48",
+  "reason": "Posted at $6.48, but Amazon showed $12.97 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-06T14:01:44.879732Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Milwaukee M18 FUEL Gen-2 18V Mid Torque 1/2 in. Impact Wrench $199.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T14:01:44.879732Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ryobi LINK 20-Piece Wall Storage Kit and ONE+ Battery Shelf $139.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T14:01:44.879732Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Gold Rosary Hand Chain Bracelets - 14K Gold Plated Virgin Mary Cross Ring Bracelets $4.96",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T14:01:44.879732Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Plug In Air Purifiers 3-Pack $16.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T14:01:44.879732Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Men’s Wicking 1/4 Zip Full Print Pullover $18.12",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T14:01:44.879732Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Women's Puffer Vest with Hood Short Sleeve Quilted Jackets Funnel Neck Coat $19.90",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T14:01:44.879732Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Boy’s Athletic Casual Pockets Hooded Pullover Sweatshirts $10.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T14:01:44.879732Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "10-Night Italy Flight, Hotel, and Train Vacation for From $4,196 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T14:01:44.879732Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$8.96 get $5 Walmart Cash limit 3: Colgate Optic White Pro Series Express White Toothpaste with 5% Hydrogen Peroxide, 3.0 oz",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T14:01:44.879732Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ryobi ONE+ HP 18V Cordless Whisper Series Stick Vacuum Kit w/ 4.0Ah Battery & Charger $269 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T14:01:44.879732Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "2026 Car Windshield Sun Shade Umbrella Foldable Front Window Sunshade $9.99",
   "reason": "Not evaluated",
@@ -16106,14 +16202,6 @@
  {
   "source": "techbargains",
   "raw_title": "CAP 20lb Anti-Roll Hex Dumbbell Weights with Chrome & Comfort Grip Handles (2-Pack) $28.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-02T11:53:51.905699Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Dove Men+Care 3.75oz 3-in-1 Cleanser Bar (8-Pack) $6.48",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-02T11:53:51.905699Z",
   "code": "not_checked",
