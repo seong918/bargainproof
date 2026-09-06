@@ -1,5 +1,45 @@
 [
  {
+  "source": "hip2save",
+  "raw_title": "Men’s & Women’s House Slippers Just $8.99 on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:06:18.470929Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DJI Osmo Pocket 4 Standard Combo Gimbal Vlog Camera $399 + Free S&H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:06:18.470929Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Canon imageCLASS MF273dw Wireless Monochrome Laser All-in-One Printer $129.99 + Free Shipping",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-06T17:00:41.127627Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Bkayp 10' MFi Certified USB-A to Apple Lightning Cable (3-Pack) $3.49",
+  "reason": "Posted at $3.49, but Amazon showed $6.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-06T17:00:41.127627Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Best Walgreens Weekly Ad Deals | $46 Worth Of Products Only $7 After Rewards",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T17:00:41.127627Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Weber Spirit E-210 Gas Grill $399.00",
   "reason": "Not evaluated",
