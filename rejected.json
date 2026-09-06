@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$9.99* | 14-Pk Hanes Women's Moisture-Wicking Cushioned Athletic Socks (Various) at Amazon (71.4￠ each)",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-06T10:39:22.085793Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Lerat 3-in-1 5-Speed 14550RPM 4000mAh Rechargeable Portable Handheld Turbo Fan $5.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T10:39:22.085793Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Talix 3-Port 140W 20000mAh Smart Display Portable Power Bank $38.99",
+  "reason": "Posted at $38.99, but Amazon showed $69.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-06T10:28:02.163494Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Sophia & William 4 Burner Propane Gas BBQ Grill with Side Burner,Blue 42,000BTU Porcelain-Enameled Cast Iron Grates~$305.99 @ Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-06T10:16:44.688803Z",
