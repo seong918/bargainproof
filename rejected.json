@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS, AC] $7.20 | 12-Pack 16-Oz BODYARMOR Sports Drink (Zero Fruit Punch) at Amazon (60￠ each)",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-06T18:01:34.644921Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS] $13.30 | tarte tartelette XL tubing mascara at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-06T18:01:34.644921Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Woot Spooky Shirts Sale for 3 for $24 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T18:01:34.644921Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ASUS VivoBook S14: 14\" FHD+ OLED, Intel Ultra 7 256V, 16GB LPDDR5, 1TB SSD $799.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T18:01:34.644921Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Efferdent Denture Cleaner Tablets, Minty Fresh & Clean, 90 Count $2.5",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T18:01:34.644921Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Workpro 28\" 2-Shelf Lockable Rolling Garage Storage Cabinet $139.65",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T18:01:34.644921Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[SnS, AC] $7.20 | 12-Pack 16-Oz BODYARMOR Sports Drink (Fruit Punch) at Amazon (60￠ each)",
   "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-06T17:56:01.435188Z",
