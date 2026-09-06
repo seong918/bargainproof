@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$11.88* | 6-Pk 8-Oz Germ-X Advanced Hand Sanitizer Pump Bottle at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-06T06:53:35.322200Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$42.49ac Walgreens Free Ship Oral-B iO 2 Rechargeable Electric Toothbrush, Night Black, 1.0 ea earn $25.50 Wags Cash",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T06:53:35.322200Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Buy a $100+ E-Gift Card, Get 20% OFF",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T06:47:57.172026Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$1.79ac PUREX 40oz Liquid Detergent or 21 ct Pods Free Wags Pick Up at $10",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T06:42:21.678050Z",
