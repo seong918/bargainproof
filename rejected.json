@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$58.07: VEVOR 4-Person 4-Season Hot Tent with Stove Jack, Waterproof M Size at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-06T19:47:44.130319Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Shark ChillPill 3-in-1 Personal Cooling System w/ Cooling Plate for $120 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T19:47:44.130319Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "TRINITY 18\" x 16\" x 13\" Stainless Steel Utility Sink with Pull-out Faucet $259.99 free Shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T19:47:44.130319Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Lark Manor 73.2\" Wide Modern Soft Upholstered Power Reclining Sofa w/ USB Port (Beige) $480 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T19:47:44.130319Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Breville BES881DBL Barista Touch Impress, various colors $1199.95",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-06T19:42:06.997115Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Amazon Essentials Men's Relaxed-Fit Carpenter Utility Pants for $15 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T19:42:06.997115Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Purex Laundry Detergent Only $1.99 at Walgreens (Reg. $9)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T19:42:06.997115Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Shark Rotator Lift-Away Upright Vacuum with HEPA Filter, White/Red, NV501 $199 + Free S&H at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-06T19:36:30.007900Z",
