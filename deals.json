@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "280fbb7b2154",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19976628-harry-potter-the-complete-8-film-collection-dvd-21-99-free-shipping-w-prime-or-on-35",
+  "title": "Harry Potter: The Complete 8-Film Collection (DVD) + or on",
+  "raw_title": "Harry Potter: The Complete 8-Film Collection (DVD) $21.99 + Free Shipping w/ Prime or on $35+",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 2199,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "prime"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-06T03:08:43.815400Z"
+ },
+ {
   "deal_id": "4e514dd8528a",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19976754-spigen-thin-fit-magfit-for-iphone-17-pro-max-case-metal-slate-7-99",

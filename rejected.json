@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon – Women's Slim-Fit Long-Sleeve Crewneck Shirt - $4.89–$9.09 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-06T03:08:43.815400Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "3 boxes Mountain Dew Baja Blast Cans, 12 oz Cans 12 count 36 cans total $6.09 Amazon.com",
+  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-06T03:08:43.815400Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Cheetos & Doritos (Various): 1.99 at Vons. Must by 3. Limit 1 per household. $1.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T03:08:43.815400Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Levi's 514™ Straight Men's Jeans (Select Colors/Sizes) $17.49",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T03:03:06.505187Z",
