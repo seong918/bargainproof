@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Shark StainStriker Portable Spot & Stain Cleaner, 2 Tools, PX221BRN $109.99",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-06T23:03:21.595072Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Craftsman Versastack 71-Piece Mechanics Tool Set for $50 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T23:03:21.595072Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "LEGO Star Wars 2026 Advent Calendar for $35 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T23:03:21.595072Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Queen Size Mattress Medium Firm 12 Inch, Gel Memory Foam Mattress in Box $199.99",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-06T22:52:13.898916Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas Women's Jump Hook Shoes for $32 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-06T22:52:13.898916Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$48 FS WALMART 2 Folding Chairs and Small Patio Glass Bistro Table in Beige or Red",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T22:46:38.491914Z",
