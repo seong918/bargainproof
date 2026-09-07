@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "8b842a8813f5",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19983060-amazon-uislii-women-s-fleece-lined-thermal-tights-9-24-w-code",
+  "title": "Amazon – UISLII Women's Fleece-Lined Thermal Tights - w/ Code",
+  "raw_title": "Amazon – UISLII Women's Fleece-Lined Thermal Tights - $9.24 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0CD9QGXJD",
+  "deal_total_cents": 924,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 1849,
+  "amazon_coupon_cents": 462,
+  "amazon_effective_cents": 1387,
+  "amazon_url": "https://www.amazon.com/dp/B0CD9QGXJD",
+  "amazon_checked_at": "2026-09-07T20:08:17.583871Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0CD9QGXJD",
+  "image_url": null,
+  "published_at": "2026-09-07T20:08:13.108055Z"
+ },
+ {
   "deal_id": "62f7fce704d0",
   "source": "techbargains",
   "source_url": "https://www.amazon.com/gp/product/B0DJQ5VDSD/ref=ox_sc_act_image_1",
