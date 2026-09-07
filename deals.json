@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "4a735e551660",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19980867-138-26-asus-tuf-gaming-1000w-80-gold-atx-3-0-certified-fully-modular-power-supply-at-amazon",
+  "title": "ASUS TUF Gaming 1000W 80+ Gold ATX 3.0 Certified Fully Modular Power Supply",
+  "raw_title": "$138.26 | ASUS TUF Gaming 1000W 80+ Gold ATX 3.0 Certified Fully Modular Power Supply at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0BZWZYTWJ",
+  "deal_total_cents": 13826,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 13826,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 13826,
+  "amazon_url": "https://www.amazon.com/dp/B0BZWZYTWJ",
+  "amazon_checked_at": "2026-09-07T06:37:10.297918Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0BZWZYTWJ",
+  "image_url": null,
+  "published_at": "2026-09-07T06:37:05.769482Z"
+ },
+ {
   "deal_id": "dbbd57a6fe58",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19980207-ciga-design-blue-planet-u-series-46mm-automatic-skeleton-watch-w-titanium-case-sapphire-crystal-719-40-free-shipping",
