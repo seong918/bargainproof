@@ -1,5 +1,69 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Jorest 25-in-1 Small Precision Screwdriver Set $4.99",
+  "reason": "Posted at $4.99, but Amazon showed $8.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T13:16:32.273698Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Pignynt Ultra-Portable 4K Built-in Google TV Projector $89.89",
+  "reason": "Posted at $89.89, but Amazon showed $154.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T13:16:32.273698Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Weemotd 100% Raw Organic Batana Oil for Hair Growth (2 fl oz) $4.99",
+  "reason": "Posted at $4.99, but Amazon showed $11.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T13:16:32.273698Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Gripzon 27\"x14\"x13\" Moving Bags (6-Pack) with Zippers $19.79",
+  "reason": "Posted at $19.79, but Amazon showed $35.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T13:16:32.273698Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "72\" x 10.2\" Outdoor HVAC Copper Pipe Insulation Cover for $17 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T13:16:32.273698Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GTPLAYER Gaming Chair with Speakers ACE-PRO, Footrest, App Support & Bluetooth Control, Ergonomic Reclining Silla, Linkage Armrest $137.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T13:16:32.273698Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$45 FS WALMART by GREAT STAR WORKPRO 12V Cordless Drill, Power Tool Set for Home, 177 Pieces Combo Kit with 14-inch Storage Bag and 1500mAh Lithium-Ion Battery & Charger (Yellow)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T13:16:32.273698Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$3.48 get $2 Walmart Cash Colgate Total Active Prevention Foaming Clean Soft Toothbrush, 1 Pack",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T13:16:32.273698Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "14K Gold Plated Necklaces $12.49",
   "reason": "Not evaluated",
