@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "f92af9b88e0a",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19981131-sns-ac-11-23-3-30-oz-dawn-platinum-dish-soap-fresh-rain-3-74-each-at-amazon",
+  "title": "3 × 30-Oz Dawn Platinum Dish Soap (Fresh Rain)",
+  "raw_title": "[SnS, AC] $11.23 | 3 × 30-Oz Dawn Platinum Dish Soap (Fresh Rain) ($3.74 each) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1123,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-07T10:10:06.877728Z"
+ },
+ {
   "deal_id": "d3707e62d09c",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19980780-12-pack-231-sheets-scott-comfortplus-toilet-paper-triple-rolls-5-68-free-shipping-w-prime-or-on-orders-over-35",
