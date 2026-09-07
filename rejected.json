@@ -1,5 +1,29 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Norwegian 4-Night Bahamas Round-Trip Miami Cruise for From $738 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T12:01:56.556274Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "eBay Live Labor Day Auctions for Deals from $1",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T12:01:56.556274Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "15 Cool & Trendy Gifts for Tween Girls (All Under $40)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T12:01:56.556274Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "ocioc 42 Inch Black Ceiling Fans with Lights and Remote $38.94",
   "reason": "Posted at $38.94, but Amazon showed $62.80 when we checked — the deal is probably over",

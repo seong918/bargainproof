@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "83bb7607b0b7",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19981569-22-99-thunderbirds-the-complete-series-dvd-at-amazon",
+  "title": "Thunderbirds: The Complete Series (DVD)",
+  "raw_title": "$22.99* | Thunderbirds: The Complete Series (DVD) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B00UCFVHC8",
+  "deal_total_cents": 2299,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 2299,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 2299,
+  "amazon_url": "https://www.amazon.com/dp/B00UCFVHC8",
+  "amazon_checked_at": "2026-09-07T12:02:01.019116Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B00UCFVHC8",
+  "image_url": null,
+  "published_at": "2026-09-07T12:01:56.556274Z"
+ },
+ {
   "deal_id": "055dc60bbcd0",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19980996-ac-20-39-6-5-1080p-daxiongmao-ip67-endoscope-camera-w-lights-4-3-screen-at-amazon",
