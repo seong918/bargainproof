@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Salomon Gender Inclusive XT-Whisper Embroidery Sneaker $99.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T08:29:12.348544Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "YMMV Greenworks 24V Angle Grinder Brushless Cordless, 4-1/2-Inch, with 4AH Battery and 2A Charger $63.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-07T08:23:34.210295Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Replica Model 1903 Springfield 1:1 Scale Wild West Prop & Decor for $130 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T08:23:34.210295Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Sabrent 5-in-1 USB-C Hub for $22 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T08:23:34.210295Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "YMMV Greenworks 24V Brushless 1\" Compact Reciprocating Saw (3,000 SPM), Cordless Powered Variable Speed Recip Saw, 2.0Ah Battery and Compact Charger Included,‎ RSG404 $67.19",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-07T08:17:55.772786Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "1068-Pc LEGO Super Mario: Mario Kart Bowser's Castle (72039) $65 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T08:17:55.772786Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Open Box: Samsung Odyssey G6 (G60SD) 27\" 1440p 360Hz OLED [YMMV] $323.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T08:17:55.772786Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Bosch GWX18V-13CB14 PROFACTOR™ 18V X-LOCK Connected-Ready 5 – 6 In. Angle Grinder Kit with (1) CORE18V® 8 Ah High Power Battery $264.99",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-07T08:12:19.460386Z",
