@@ -1,5 +1,101 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Mpatiby 4-in-1 USB-C 5' Charging Cable $4.67",
+  "reason": "Posted at $4.67, but Amazon showed $8.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T14:17:02.821666Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Michael Kors Jet Set Travel Small Signature Logo Wristlet $26.10",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T14:17:02.821666Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "JD Sports Flash Sale: Up to 50% off + extra 25% off + free shipping w/ $75",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T14:17:02.821666Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Sol de Janeiro Perfume Mist Only $12 Shipped on Amazon (Regularly $26)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T14:17:02.821666Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nike Sportswear RPM Backpack $39.57",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T14:17:02.821666Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$1275: HP HyperX Omen 15 (2026) Gaming Laptop: (Wohoo it's AMD Ryzen 7 8745HX Not Intel), NVIDIA RTX 5060, 512GB PCIe SSD",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T14:17:02.821666Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "12-Oz Family Size Goldfish Pretzel Crackers: 3 for $7 w/ S&S ($2.33 each) + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+3) to pass without a price check — needs Prime-only price, Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-07T14:11:30.572867Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ladped LPMAX 500W Folding Electric Scooter for $174 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T14:11:30.572867Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "KitchenAid Hand Mixer from $39.98 Shipped (Reg. $125)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T14:11:30.572867Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Prime: Aegend Swim Goggles 220° Wide View Anti Fog UV Protection Multiple Colors/Sizes Available $7.69 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T14:11:30.572867Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "George Men's Patchwork Shirt with Short Sleeves (Blue Patch, Sizes S-3XL) From $4.18 +Free S&H w/ Walmart+ or $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T14:11:30.572867Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Aegend Diving Mask for Adult Youth Diver Anti-Fog Comfort Snorkel Goggles $7.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T14:11:30.572867Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "6.6-Oz Goldfish Parmesan Cheese Crackers: 3 for $4.59 w/ S&S ($1.53 each) + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+4) to pass without a price check — needs Prime-only price, Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
