@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Silonn Nugget Ice Maker Countertop with 3L Detachable Tank, 44 lbs/Day Self‑Cleaning with Timer, Black or White $229.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-07T07:16:17.142614Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Rolling Knife Sharpener Kit for $17 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T07:16:17.142614Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Travelon Pi Forget Me Not Mini Organizer for $9 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T07:16:17.142614Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Kismile Upright Freezer, 3.0 Cu.ft Small Mini Freezer, Black $209.99",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-07T07:10:42.485848Z",
