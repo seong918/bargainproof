@@ -1,5 +1,93 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "4-Pack 32-Oz RiceSelect Jasmati White Jasmine Rice $10.44 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-07T17:20:22.517114Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – AROEVE 5-in-1 High-Speed Hot Air Styler - $48.99 w/ Deal",
+  "reason": "Posted at $48.99, but Amazon showed $69.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T17:20:22.517114Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Dreame Aero Wet Dry 25KPa Self-Cleaning Vacuum Cleaner Mop $164.99",
+  "reason": "Posted at $164.99, but Amazon showed $199.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T17:20:22.517114Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "110\" U-Shaped Chenille Pillow Top Arm Sofa w/ Chaise (Florid Gray) $317.26",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T17:20:22.517114Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Wide Leg Baggy Sweatpants $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T17:20:22.517114Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Dell Pro Micro Core i5 Desktop PC for $780 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T17:20:22.517114Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas Men's Daily 4.0 Shoes for $28 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T17:20:22.517114Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "J.P. Morgan Self-Directed Investing: Get up to $1,000 w/ new account",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T17:20:22.517114Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$29.99 | 100ft Expandable Garden Hose w/ Nozzle at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T17:20:22.517114Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "G5 Pro Travel Steamer For Clothes, 110-240V, 100ml Tank, 15S Fast Heat Up $23.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T17:20:22.517114Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "BrizLabs Smart Outdoor Halloween Fence Lights, 6 Lamps 32.8 ft Deck Light $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T17:20:22.517114Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Klein Tools MODbox 18 Pocket Tool Pouch $19.99",
   "reason": "Not evaluated",
