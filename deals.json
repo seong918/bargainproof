@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "017e68d6bb30",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19949580-amazon-wevalor-10ft-string-light-poles-for-outside-4-pack-34-99-w-code",
+  "title": "Amazon – WeValor 10ft String Light Poles for Outside, 4-Pack - w/ Code",
+  "raw_title": "Amazon – WeValor 10ft String Light Poles for Outside, 4-Pack - $34.99 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0GYYS4JMX",
+  "deal_total_cents": 3499,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 6999,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 6999,
+  "amazon_url": "https://www.amazon.com/dp/B0GYYS4JMX",
+  "amazon_checked_at": "2026-09-07T03:09:41.508245Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0GYYS4JMX",
+  "image_url": null,
+  "published_at": "2026-09-07T03:09:36.835492Z"
+ },
+ {
   "deal_id": "c03bf52400f8",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19979658-garmin-f-nix-8-43mm-whitestone-premium-multisport-smartwatch-amoled-display-gps-built-in-flashlight-dive-rated-built-in-speakers-mic-749-99",
