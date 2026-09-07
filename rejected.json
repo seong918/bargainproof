@@ -1,5 +1,61 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "BESTEK Pure Sine Wave Power Inverter, 300W DC 12-17V to 110V AC Car Adapter $41.99",
+  "reason": "Posted at $41.99, but Amazon showed $38.93 when we checked — the post is stale",
+  "rejected_at": "2026-09-07T23:32:59.961010Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Melissa & Doug Make & Bake Pies Play Set Just $21.99 on Amazon (Reg. $44)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T23:32:59.961010Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ZUZUAN 17L Foldable Waterproof Cleaning Supply Caddy with 6 Pockets,Black $12.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T23:32:59.961010Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "WALMART FS CAP Rubber Hex Dumbbell Set 150lb $150, 300lb $260, 550lb $480",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T23:32:59.961010Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "kamado joe classic joe 3 $1499.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T23:32:59.961010Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "VEVOR 22-Drawer Storage Organizer, Plastic, Drawer Storage Cabinet for Garage Organization, Stackable Small Parts Organizer, Wall-Mounted Toolbox $19.1",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T23:32:59.961010Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$949 FS WALMART MSI Cyborg 15.6\" 144Hz Gaming Laptop, Intel Core 5 210H, NVIDIA GeForce RTX 5060, 16GB RAM, 512GB SSD (2026) (Software Offer with Purchase)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T23:32:59.961010Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Flatsons FBA-10 10W Mini Electric Guitar Amplifier for $32 + free shipping",
   "reason": "Not evaluated",
