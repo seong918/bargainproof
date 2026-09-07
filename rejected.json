@@ -1,6 +1,14 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[NEW] $269 | All-Clad Copper Core Stainless 4 Qt Sauté Pan with Lid, Made in the USA at Amazon",
+  "reason": "Posted at $269.00, but Amazon showed $264.99 when we checked — the post is stale",
+  "rejected_at": "2026-09-07T06:59:31.546075Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Bissell PowerClean DualBrush 280W Self-Standing Vacuum, 4196K $259.99",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-07T06:48:19.217361Z",
