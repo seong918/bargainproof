@@ -1,5 +1,77 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Ace Hardware Labor Day Savings: Up to $200 off + free shipping w/ $50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T14:33:06.136855Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Marsail Wheeled Armless Vanity Desk Chair for $40 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T14:33:06.136855Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "YMMV Samsung galaxy S11 Ultra tablet starting at $620 no trade-in required on discount stores Edu or EPP or Working advantage stores",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T14:33:06.136855Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "B BEWORTHS Sea Moss Liquid Drops with Black Seed Oil, Ashwagandha, Soursop $6.24 AC & Subscribe and Save + Free Shipping",
+  "reason": "Posted at $6.24, but Amazon showed $24.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T14:27:37.690005Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Kyehd 10ft 60W USB-C Cable (3-Pack) $3.99",
+  "reason": "Posted at $3.99, but Amazon showed $9.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T14:27:37.690005Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "China Airlines Labor Day Fares From $750 Round Trip Flights From North America to Asia - Book by September 18, 2026",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T14:27:37.690005Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "3-Pack Thermaltake Riing Quad 12 120mm RGB Radiator Case Fan (Black) $29.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T14:27:37.690005Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Mooka B-D02L True HEPA Air Purifier for $40 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T14:22:19.411741Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ORICO 10Gbps Magnetic M.2 NVMe Enclosure with Card Reader for iPhone $32.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T14:22:19.411741Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Mpatiby 4-in-1 USB-C 5' Charging Cable $4.67",
   "reason": "Posted at $4.67, but Amazon showed $8.99 when we checked — the deal is probably over",
