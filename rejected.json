@@ -1,5 +1,37 @@
 [
  {
+  "source": "dealcatcher",
+  "raw_title": "Giantex Bamboo Tilt Out Laundry Hamper with Removable & Foldable Fabric Bin $56.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T23:55:09.927812Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "HP DeskJet 2942 Wireless All-in-One Color Inkjet Printer for $39 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T23:55:09.927812Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ASICS Women's GT-2160 Shoes in White/Cream $45.87",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T23:55:09.927812Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "MISFAY Women's Sleeveless Casual Boho Maxi Dress w/ Pockets (Various) $7.48 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-07T23:55:09.927812Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Arcane: League of Legends - Season Two [Blu-ray] $16.99 + Free S&H w/ Prime or $35+",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
