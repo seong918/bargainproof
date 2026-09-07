@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS, AC] $1.05* | 14-Oz Heinz Yellow Mustard at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-07T00:20:57.994218Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Pc Arenarug Scalloped Anti Fatigue Kitchen Mats (Various) $18",
+  "reason": "Posted at $18.00, but Amazon showed $29.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T00:15:21.478327Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Amazon Essentials Men's Hooded Packable Jacket for $8.99 w/ Prime + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T00:15:21.478327Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DEWALT 20V AC/DC Drum Fan, DXF1850B, 18 IN $127.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T00:09:44.526135Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "(pair) Energy CF-30 Floorstanding Speakers $149 + Free S/H",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T23:58:31.452037Z",
