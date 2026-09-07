@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "BEVIGOR AA Rechargeable Batteries 16 Pack, 2800 mAh High Capacity AA Rechargeable Batteries $10.99",
+  "reason": "Posted at $10.99, but Amazon showed $19.94 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T15:28:56.386709Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Househerb Tens Unit 3-in-1 28-Mode Dual Channel Muscle Stimulator with 8 Pads $14.84",
+  "reason": "Posted at $14.84, but Amazon showed $26.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T15:28:56.386709Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Merach 53\"-62\" Height Adjustable Punching Bag Stand (No Boxing Gloves) $59.99",
+  "reason": "Posted at $59.99, but Amazon showed $79.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T15:28:56.386709Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Uskeyvision MPT-03 360-Degree Rotation Magnetic Phone Mount Holder $12.49",
+  "reason": "Posted at $12.49, but Amazon showed $17.49 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T15:28:56.386709Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Refurb Unlocked Samsung Galaxy S25 Ultra 512GB Phone for $672 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T15:28:56.386709Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "8\" x 4\" Holland Stone Rectangle Concrete Paver (Gray, Red or Tan) $0.39 + Free Store Pickup at Lowe's",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T15:28:56.386709Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CAP 2-Piece Olympic Curl Bar with Collars, Black $39.94 + Free S&H at Walmart",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T15:28:56.386709Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Pavestone 8\" x 4\" x 1\" Rectangle Concrete Paver (Sierra/Smooth) $0.34 + Free Store Pickup at Lowe's",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T15:28:56.386709Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Snapple Zero Sugar Raspberry Tea, 16 fl oz recycled plastic bottle, Pack of 12~$9.99 With S&S @ Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-07T15:23:23.756059Z",
@@ -25226,14 +25290,6 @@
  {
   "source": "techbargains",
   "raw_title": "Jcmnete 2K Pan/Tilt/Zoom WiFi Smart Detection Light Bulb Security Camera $24.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-02T11:53:51.905699Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Househerb Tens Unit 3-in-1 28-Mode Dual Channel Muscle Stimulator with 8 Pads $14.84",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-02T11:53:51.905699Z",
   "code": "not_checked",
