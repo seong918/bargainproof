@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "8efdd646d3ec",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19981134-sns-ac-3-69-41-oz-mr-clean-all-purpose-cleaner-watermelon-at-amazon",
+  "title": "41-Oz Mr. Clean All Purpose Cleaner (Watermelon)",
+  "raw_title": "[SnS, AC] $3.69* | 41-Oz Mr. Clean All Purpose Cleaner (Watermelon) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 369,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-07T12:12:33.128174Z"
+ },
+ {
   "deal_id": "4d930785bea0",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19980924-1-99-emotional-intelligence-why-it-can-matter-more-than-iq-ebook-by-daniel-goleman",
