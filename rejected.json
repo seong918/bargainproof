@@ -1,5 +1,77 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Pudolla Men's 7\" Casual Hybrid Golf Shorts with 3-Pockets $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $19.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T15:17:50.126113Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Windex Fast Shine Foam Glass Cleaner (19oz, 6-Pack) $11.73",
+  "reason": "Posted at $11.73, but Amazon showed $12.35 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T15:17:50.126113Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Zity Men's Flannel Warm Fleece Lined Winter Hoodie $19.79",
+  "reason": "Posted at $19.79, but Amazon showed $29.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T15:17:50.126113Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "AtlanTec 2,300W Portable Inverter Generator for $223 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T15:17:50.126113Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Klke Z3 Open-Ear Bone Conduction Headphones for $18 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T15:17:50.126113Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Open-box Apple AirPods Pro 3 (2025) for $170 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T15:17:50.126113Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Babyeap Baby Swing for Infants, Bluetooth Control 5-point Harness Newborn Swing, 5 Sway Speed, 10 Lullabies, Gray $82.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T15:17:50.126113Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Walmart – NULAS 14-Pc Knife Block Set w/ Built-in Sharpener, Cream - $28.99 w/ Coupon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T15:17:50.126113Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Takeya 24-Oz Tritan Protein Shaker (Cloud White) $12.99 + Free Store Pickup at Best Buy",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T15:17:50.126113Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Stamp Puncher, 1 x 0.8 inch $4.18",
   "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
@@ -19674,14 +19746,6 @@
  {
   "source": "techbargains",
   "raw_title": "Momofuku 16.3oz Sweet & Savory Korean BBQ Sauce $4.63",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-04T00:24:26.832056Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Pudolla Men's 7\" Casual Hybrid Golf Shorts with 3-Pockets $9.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-04T00:24:26.832056Z",
   "code": "not_checked",
