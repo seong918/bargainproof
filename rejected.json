@@ -1,6 +1,78 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Fit & Fresh Connor Insulated Kids Lunch Box (Boulder Gray) $9.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-07T21:15:25.157149Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Monster Energy Supercross - The Official Videogame 5",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T21:15:25.157149Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "LEGO Harry Potter Hogwarts Castle and Grounds for $137 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T21:15:25.157149Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "EIGHT Outfits for Your Desk Goose Just $21.49 Shipped on Amazon (Reg. $44)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T21:15:25.157149Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Halloween Glass Sippers Just $3.97 on Walmart.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T21:15:25.157149Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bad Girl Samara Weaving HD appletv $1.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T21:15:25.157149Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Youth Hockey Jerseys on clearance - Dick's Sporting Goods $32",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T21:15:25.157149Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Frigidaire 26 lbs. Retro Bullet Ice Maker, Countertop Ice Machine, Silver or Black $68.32",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T21:15:25.157149Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Today Online Only 09/07 Landry's Multi-Brand Restaurants & More Two $50 eGift Cards ($100 Value) $74.99 Email Delivery Costco.xom",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T21:15:25.157149Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$7.97 | Flip 7: Liquid Death Edition at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
   "rejected_at": "2026-09-07T21:09:49.519061Z",

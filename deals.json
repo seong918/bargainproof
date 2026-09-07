@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "f4459d28aad7",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19954536-amazon-pudolla-men-s-stretch-quick-dry-golf-pants-17-99-w-code",
+  "title": "Amazon – Pudolla Men's Stretch Quick-Dry Golf Pants - w/ Code",
+  "raw_title": "Amazon – Pudolla Men's Stretch Quick-Dry Golf Pants - $17.99 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0DKXH6L9T",
+  "deal_total_cents": 1799,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 2999,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 2999,
+  "amazon_url": "https://www.amazon.com/dp/B0DKXH6L9T",
+  "amazon_checked_at": "2026-09-07T21:15:30.123320Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0DKXH6L9T",
+  "image_url": null,
+  "published_at": "2026-09-07T21:15:25.157149Z"
+ },
+ {
   "deal_id": "7fd983c4b9f7",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19972089-amazon-montvoo-non-slip-washable-kitchen-rugs-9-99-24-99-w-code",
