@@ -1,5 +1,69 @@
 [
  {
+  "source": "cheapshark",
+  "raw_title": "Joe Danger 2: The Movie",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T21:04:12.812537Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "In Sound Mind",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T21:04:12.812537Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Move or Die",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T21:04:12.812537Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Dino D-Day",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T21:04:12.812537Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "7-Night Portugal & Spain Hotel and Tour Vacation for From $2,798 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T21:04:12.812537Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "GE 30\" 4 Burner Element Free-Standing Electric Range for $649 + $39 delivery",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T21:04:12.812537Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Better Homes & Gardens Juliet Modern Arch Swivel Accent Chair for $78 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T21:04:12.812537Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Today Only 09/07 TrueWellness All Mesh Office Chair $99.99 Free Shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T21:04:12.812537Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Abeden IPX8 Waterproof Rechargeable Wireless Floating Pool Thermometer $17.49",
   "reason": "Posted at $17.49, but Amazon showed $34.99 when we checked — the deal is probably over",
