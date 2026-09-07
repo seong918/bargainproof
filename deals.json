@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "7ebebdcecdda",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19961802-resale-ac-59-50-kodak-pixpro-fz55-16mp-compact-digital-camera-5x-optical-zoom-black-used-like-new-at-amazon",
+  "title": "KODAK PIXPRO FZ55 16MP Compact Digital Camera, 5X Optical Zoom, Black (Used - Like New)",
+  "raw_title": "[Resale, AC] $59.50 | KODAK PIXPRO FZ55 16MP Compact Digital Camera, 5X Optical Zoom, Black (Used - Like New) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 5950,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-07T06:25:51.405946Z"
+ },
+ {
   "deal_id": "b289e4369bbc",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19980792-9-98-3-speed-woweibyke-usb-rotary-tool-deburring-tool-finishing-bits-at-amazon",
