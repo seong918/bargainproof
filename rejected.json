@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$73.09: Tangkula Acacia Wood Chaise Lounge Chair & Ottoman Set, 1200 lbs Capacity(Beige) at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-07T02:41:31.048943Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "PLEPAN Hoodies for Men Cotton Essentials Sweatshirts $13.79",
+  "reason": "Posted at $13.79, but Amazon showed $19.54 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T02:41:31.048943Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Fender American Ultra Telecaster Electric Guitar $1499 + Free S/H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T02:41:31.048943Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ender LE Player II Series Stratocaster Electric Guitar $549 + Free S/H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T02:41:31.048943Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Fender CD-60SCE Dreadnought Acoustic / Electric Guitar $199 + Free S/H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T02:41:31.048943Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Battlefield 6 $34.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T02:35:53.807993Z",
