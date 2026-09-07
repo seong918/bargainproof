@@ -1,6 +1,14 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$64.99: Joseph Joseph Extend Steel Plus Extendable Dish Rack Steel, Dish Drainer with Wine Glass Holder & Drain Spout, Black",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-07T07:44:13.180977Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[AC] $9.79 | INIU Magnetic Wireless Charger, Qi2 15W Fast Charging Pad Travel Charger at Amazon",
   "reason": "Posted at $9.79, but Amazon showed $19.19 when we checked — the deal is probably over",
   "rejected_at": "2026-09-07T07:38:37.330966Z",
