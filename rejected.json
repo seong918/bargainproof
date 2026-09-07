@@ -1,5 +1,21 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Snapple Zero Sugar Raspberry Tea, 16 fl oz recycled plastic bottle, Pack of 12~$9.99 With S&S @ Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-07T15:23:23.756059Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Wine Insiders Labor Day Wine Sale for $10 + free shipping w/ 6+ bottles",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T15:23:23.756059Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Pudolla Men's 7\" Casual Hybrid Golf Shorts with 3-Pockets $9.99",
   "reason": "Posted at $9.99, but Amazon showed $19.99 when we checked — the deal is probably over",
