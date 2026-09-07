@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "72ff383301a0",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19970091-new-19-58-danzig-vinyl-at-amazon",
+  "title": "Danzig (Vinyl LP)",
+  "raw_title": "Danzig (Vinyl LP) $19.60",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0G7NJPNBG",
+  "deal_total_cents": 1960,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 1958,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1958,
+  "amazon_url": "https://www.amazon.com/dp/B0G7NJPNBG",
+  "amazon_checked_at": "2026-09-07T02:35:58.129779Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 17,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0G7NJPNBG",
+  "image_url": null,
+  "published_at": "2026-09-07T02:35:53.807993Z"
+ },
+ {
   "deal_id": "981c314ac1b2",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19954275-amazon-jishane-71-inch-camera-phone-tripod-w-remote-14-39-w-code",
