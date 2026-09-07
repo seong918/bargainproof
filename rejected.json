@@ -1,5 +1,29 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Kate Spade Labor Day Sale: Up to 70% off + an extra 20% off + free shipping w/ $50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T16:24:44.920734Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Sour Patch Kids 40-Count Variety Pack Just $4 Shipped on Amazon (Great for Halloween!)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T16:24:44.920734Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Travelzoo Members] San Diego Mission Bay Resort From $199 Weeknights; $219 Weekends; Waived Daily Resort Fee; Daily $40 Breakfast Credit - Travel Thru Dec 23, 2026",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T16:24:44.920734Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "8-Pack 2.39-Oz Velveeta Original Shells & Cheese Cups $5.59 w/ S&S + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
