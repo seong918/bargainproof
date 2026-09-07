@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS, AC] $4.59* | 3 × 6.6-Oz Goldfish Baked Snack Crackers (Cheddar) ($1.53 each) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-07T16:52:36.120558Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Balivsa Women's Waffle-Knit V-Neck Long-Sleeve Tunic $7",
+  "reason": "Posted at $7.00, but Amazon showed $13.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T16:52:36.120558Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Coleman Folding Polyester X-large Cot 600-lb Capacity $190.36",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T16:52:36.120558Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Peet's Coffee Major Dickason's Blend Keurig K-Cup Pods Dark Roast 88-Count $40.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T16:52:36.120558Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Kids Light-Up Electric Scooter Only $65.99 Shipped on Amazon (Reg. $167)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T16:52:36.120558Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Metabo HPT 18 Gauge Brushless Cordless Brad Nailer Kit, NT1850DFT $177.3",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-07T16:47:05.181518Z",
