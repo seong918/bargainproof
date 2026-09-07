@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "0f835a8f84dc",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19981113-20-49-transformers-armada-the-complete-series-2002-dvd-at-amazon",
+  "title": "Transformers: Armada: The Complete Series (2002) (DVD)",
+  "raw_title": "$20.49* | Transformers: Armada: The Complete Series (2002) (DVD) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B00GSTHDCU",
+  "deal_total_cents": 2049,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 2049,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 2049,
+  "amazon_url": "https://www.amazon.com/dp/B00GSTHDCU",
+  "amazon_checked_at": "2026-09-07T07:38:41.455316Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B00GSTHDCU",
+  "image_url": null,
+  "published_at": "2026-09-07T07:38:37.330966Z"
+ },
+ {
   "deal_id": "1ee1c535bdeb",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19981095-23-99-bojack-horseman-seasons-one-two-collector-s-edition-blu-ray-at-amazon",

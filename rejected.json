@@ -1,5 +1,61 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "[AC] $9.79 | INIU Magnetic Wireless Charger, Qi2 15W Fast Charging Pad Travel Charger at Amazon",
+  "reason": "Posted at $9.79, but Amazon showed $19.19 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T07:38:37.330966Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "iLiving 12\" Wall Mounted Shutter Exhaust Vent Fan for $59 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T07:38:37.330966Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Barbie Signature Miley Cyrus Posable Collectible Doll for $48 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T07:38:37.330966Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Men's Mountain Winter Coat for $20 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T07:38:37.330966Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "850W VEVOR 2-Tier Commercial Food Warmer Display w/ Tempered Glass and Steam Heating $174.99 + Free Shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T07:38:37.330966Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Labor Day (9/7/26) Only - Pampers Swaddlers Ultra Diapers Sizes 1 or 2 - $32.99 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T07:38:37.330966Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Labor Day (9/7/26) Only - Pampers Swaddlers Ultra Diapers Sizes 3-7, $36.79 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T07:38:37.330966Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "LEGO Harry Potter Hogwarts Express Book Nook Building Set for $77 + free shipping",
   "reason": "Not evaluated",
