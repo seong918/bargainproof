@@ -1,6 +1,46 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "Krispy Kreme Glazed Dozen for $2 w/ purchase + shipping varies",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T09:53:21.159304Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Tamoria for iPhone 16/16 Plus/iPhone 17 Camera Lens Protector Clear 3-Pack $3.49 AC + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-07T09:47:45.463362Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Merrell Women's Moab 3 Low Hiking Shoes $104.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T09:47:45.463362Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "YMMV: Osprey Women's Kyte 68 Liter Backpacking Pack - Black, Medium/Large $156.92",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T09:42:11.263156Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CyberPowerPC Gaming Desktop (Customized): Ryzen 5 9500F, RX 9070 (16GB), 16GB DDR5, 1TB SSD, 850W $1303.4",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T09:42:11.263156Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
   "raw_title": "Pursuit R55 5-in-1 Jump Starter for $50 + free shipping w/ Prime",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T09:36:34.638440Z",
