@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "c3e35c13235d",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19980912-ac-21-31-adidas-excel-school-backpack-34l-10-back-w-prime-visa-card-at-amazon",
+  "title": "adidas Excel School Backpack 34L + 10% Back Visa Card",
+  "raw_title": "[AC] $21.31 | adidas Excel School Backpack 34L + 10% Back w/ Prime Visa Card at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 2131,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "coupon",
+   "prime"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-07T12:38:58.795950Z"
+ },
+ {
   "deal_id": "943be587bc23",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19981641-696-95-nikon-d7500-dx-format-digital-slr-body-at-amazon",
