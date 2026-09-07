@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$42.49* | 40\" Honeywell Quiet Set 5-Speed Oscillating Tower Fan w/ Remote (White) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-07T05:46:41.807185Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "basketball shoes - Amazon - men 10.5 and 11 $53",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-07T05:46:41.807185Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "7-Eleven 7NOW App: $20 Off $30+ (9/7/26 only) with code SLURPEE",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T05:46:41.807185Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC] $102.44 | Greenworks 60V 4.0AH High Current (HC) Battery at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-07T05:41:03.658260Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$29.99ac FS AMAZON AC AOC Ergonomic Mouse, 2.4GHz Wireless Bluetooth Vertical Mouse, 4800 DPI, Rechargeable",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-07T05:35:28.437943Z",
