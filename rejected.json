@@ -1,5 +1,37 @@
 [
  {
+  "source": "dealcatcher",
+  "raw_title": "14K Gold Plated Necklaces $12.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T13:11:12.393368Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Lacoste 30\"x54\" 100% Supima Cotton Bath Towel for $15 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T13:11:12.393368Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$5.96 get $3 Walmart Cash Limit 3 Colgate Optic White Charcoal Soft Toothbrush for Adults, 1 Pack",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T13:11:12.393368Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon - Outerman 275 x 155 cm Camping Hammock $18.14",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T13:11:12.393368Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "[AC] $8.90 | 2-Pk INIU 30W GaN Mini USB-C/A Wall Charger w/ 2x 5' USB-C Cable (Black) at Amazon",
   "reason": "Posted at $8.90, but Amazon showed $16.19 when we checked — the deal is probably over",
