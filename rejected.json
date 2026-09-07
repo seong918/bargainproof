@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Shark ZU561 Navigator Lift-Away Speed Self Cleaning Brushroll Lightweight Upright Vacuum with HEPA Filter, Red Peony $199.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-07T01:17:11.781260Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[NEW] $200.38 | Husqvarna 130 Gas Powered Chainsaw, 16 Inch at Amazon",
+  "reason": "Posted at $200.38, but Amazon showed $193.55 when we checked — the post is stale",
+  "rejected_at": "2026-09-07T01:17:11.781260Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Shark Navigator Lift-Away ADV Upright Vacuum, HEPA Filter, Blue Jean, LA301 $179.99",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-07T01:11:34.640635Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Lacoo 110\" U-Shaped Chenille Sofa with Chaise for $317 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T01:11:34.640635Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "FDW | 12 Inch King Mattress | Medium Firm | Gel Memory Foam | White $217.86",
   "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-07T01:05:57.567846Z",
