@@ -1,5 +1,37 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Cosbarn Luggage Sets, Lightweight Durable Hardshell, 5 piece Suitcase Sets Black $116.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-07T22:32:52.933628Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Mr. Pen Sticky Notes Pack w/ 410 Notes Only $6 on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T22:32:52.933628Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Woot! App: $16.99 | Coowisty 10000mAh Slim Power Bank USB-C at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T22:32:52.933628Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Panasonic W85 Series TN-75W85CPS 75\" 4K UHD Smart TV for $800 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T22:27:17.106563Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Alba Leather Power Reclining Sofa w/ Power Headrests for $1,000 + free shipping",
   "reason": "Not evaluated",
