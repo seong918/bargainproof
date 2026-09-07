@@ -1,5 +1,13 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "LEGO Harry Potter Hogwarts Express Book Nook Building Set for $77 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T07:27:29.457150Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$30 Off RayNeo GT Max AR/XR Glasses, 267\" 59° FOV Native 3DoF, Audio by B&O $299",
   "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
