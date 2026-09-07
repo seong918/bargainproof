@@ -1,6 +1,86 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[Prime] 12-Count Ahaorigin Solar Halloween Pumpkin Pathway Stake Lights w/ 8 Modes & 84 Multicolor LEDs (2 x 6-Light Strings) $17.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-07T13:32:58.673462Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "WARMTUYO 4K Night Vision Goggles for Adults, Digital Binoculars with Camera $44.99",
+  "reason": "Posted at $44.99, but Amazon showed $89.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T13:32:58.673462Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Avidlove Women's Sheer Lace Mini Dress - Long Sleeve Flare Cuff Ruffle Hem Deep V Neck Bodycon Floral Lace Dress $7.49",
+  "reason": "Posted at $7.49, but Amazon showed $22.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T13:32:58.673462Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "5-Tier Heavy-Duty Folding Storage Cabinet for $20 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T13:32:58.673462Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Hopepeak D10 1,500W 16\" Fat Tire Electric Mountain Bike for $342 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T13:32:58.673462Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Vtoman Jump 1500X Portable Power Station w/ 110W Solar Panel for $380 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T13:32:58.673462Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Newegg Labor Day Deals at AliExpress: Up to 90% off + extra $2 to $70 off + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T13:32:58.673462Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Magnetic Portable Fan Only $19.99 Shipped on Amazon (Reg. $40) | Great for Cruises",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T13:32:58.673462Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$11.30 FS EZONETECH on Ebay 3Pack Reusable Garden Waste Bags 72 Gallon Yard Leaf Lawn Trash Waste Bags US",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T13:32:58.673462Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "New Balance Men's 1080v15 Running Shoes $120",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T13:32:58.673462Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Avidlove Sexy Floral Applique Lingerie 2 Piece Sheer Mesh Cami Thong Set $4.99",
   "reason": "Posted at $4.99, but Amazon showed $9.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-07T13:27:24.061994Z",
