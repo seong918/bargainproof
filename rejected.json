@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[AC] $356.99* | GL.iNet GL-E5800 NA 2.8\" Mudi 7 5G Tri-Band WiFi 7 Travel Router w/ eSIM at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-07T19:06:37.139795Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Loloi Amber Lewis Georgie Red/Navy 8'-4\" x 11'-6\" Area Rug $154.62",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-07T19:06:37.139795Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ProKloud Bras for Women No Underwire Wireless Full Coverage Jelly Bras Skin $8.24",
+  "reason": "Posted at $8.24, but Amazon showed $14.18 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T19:06:37.139795Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "L'Oreal Paris Hydra-Renewal Continuous Facial Moisturizer 1.7 oz + $4 Walmart Cash $6.42",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T19:06:37.139795Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Air Wick Plug-In Scented Oil Air Freshener Starter Kit Apple Cinnamon Medley 0.67 fl oz $0.89",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T19:06:37.139795Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Triple Bag Air Jack Pneumatic Jack For Car SUV Repair Lifting 3 Ton 6600lbs $56.66",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T19:06:37.139795Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "InSpirit Designs Naruto Kakashi Headband w/ Hair for $12 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T19:06:37.139795Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Holland America 7-Night Mexican Riviera Cruise for From $1,498 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T19:06:37.139795Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Loloi Rifle Paper Co Maison Tuileries Black 7'-6\" x 9'-6\" Area Rug $111.62",
   "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-07T19:01:01.236891Z",
