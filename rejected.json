@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$20.99 | Lorde: Melodrama (LP w/ AutoRip MP3) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-07T05:18:37.269456Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$10 | 2-Pack 12-Oz Rust-Oleum Stops Rust Spray Paint (Satin White) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-07T05:18:37.269456Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Whirlpool - 24 inch Top Control Built-in Stainless Steel Tub Dishwasher with 3rd Rack, Water Repellent Silverware Basket, 41 dBA - Stainless Steel $629.99 Bestbuy.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T05:18:37.269456Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$65.99* | 516-Pc LEGO Polaroid OneStep SX-70 Camera Building Set (21345) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-07T05:13:01.310741Z",
