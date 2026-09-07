@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$1.99 ac AMAZON Vitamin D3 K2 5000IU, All-Trans MK-7 100mcg, 120 Softgels",
+  "reason": "Posted at $1.99, but Amazon showed $9.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T15:34:27.321903Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$7.78 ac AMAZON Vabogu Cat 8 Ethernet Cable 15FT, 40Gbps 2000MHz High Speed Network Cable",
+  "reason": "Posted at $7.78, but Amazon showed $15.97 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T15:34:27.321903Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "BillConch Biometric Safe for $40 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T15:34:27.321903Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Costco Members: First Alert Rechargeable Heavy Duty Fire Extinguisher (3-A:40-BC) $29.99 + Free S&H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T15:34:27.321903Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "#1 Rated Gaming Laptop Brand/Line: $1,399 Lenovo Legion 5a (2026) AMD Ryzen 7 250 NVIDIA RTX 5060 16GB DDR5-5600 512GB SSD 15.3\" OLED Screen $1399",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T15:34:27.321903Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "BEVIGOR AA Rechargeable Batteries 16 Pack, 2800 mAh High Capacity AA Rechargeable Batteries $10.99",
   "reason": "Posted at $10.99, but Amazon showed $19.94 when we checked — the deal is probably over",
   "rejected_at": "2026-09-07T15:28:56.386709Z",
