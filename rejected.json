@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$48* | Giro Caden MIPS II LED Adult Urban Bike Helmet (Medium) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-07T08:46:00.794976Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$30.21 S&S Q or less Nutrish Dry Dog Food, Beef, Pea & Brown Rice, 40 lb. Bag (Rachael Ray) |",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-07T08:46:00.794976Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Salomon Women's XA PRO 3D V9 Low Trail Running Shoes - Turbulence $111.77",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T08:46:00.794976Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Yexmas 4FT Halloween Inflatable Pumpkin Ghost $20.96 – Indoor/Outdoor Decoration",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T08:46:00.794976Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Irish Setter Women's Setter Fifty Pull-On Casual Boots $83.77",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T08:40:22.831754Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Merrell Women's Alpine 83 Sneaker Recraft Casual Shoes $61.77",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T08:40:22.831754Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$44.99* | 8\" Cuisinart FusionElite+ Nonstick Tri-Ply Stainless Steel Skillet at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-07T08:34:48.794615Z",
