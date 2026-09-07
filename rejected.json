@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon – YoungsTex Floral Linen-Blend Curtain Panels - $12.93–$24.50 at Checkout",
+  "reason": "Posted at $12.93, but Amazon showed $21.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T17:09:17.527283Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Madison Park Twin XL Cotton Flannel 4-Piece Sheet Set $24.50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T17:09:17.527283Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Round Trip Baltimore MD to Tokyo Japan Airfares on United Airlines/ANA BE with 1 Free Checked Bag $864.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T17:09:17.527283Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas Men's Workout Essentials FeelReady T-Shirt for $8.00 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T17:09:17.527283Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$59.99* | Zero Gravity Chairs Set of 2 at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-07T17:03:44.571015Z",
