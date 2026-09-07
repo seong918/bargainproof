@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Ice Age Collection (5 Movies) (Blu-ray + Digital) $18.53 Walmart.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T21:43:25.789244Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Thermaltake Toughpower GT 1000W ATX 3.1 Native PCIe 5.1 12V-2x6 Full Modular PSU $99.99 + Free Shipping",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-07T21:37:49.467283Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Gorilla Mounting Tape Squares 24-Pack for $5 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T21:37:49.467283Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "50% Off Bluey Toys at Target | Games from $4.99 & Playsets from $24.99!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T21:37:49.467283Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Certified Refurbished Garmin epix Gen 2 Sapphire 47mm Smartwatch (White Titanium) $255.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T21:32:13.894894Z",
