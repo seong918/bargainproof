@@ -1,5 +1,69 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "6.6-Oz Goldfish Parmesan Cheese Crackers: 3 for $4.59 w/ S&S ($1.53 each) + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+4) to pass without a price check — needs Prime-only price, Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-07T14:05:55.399091Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Seabourn 14-Night Sea of Japan & Plum Blossoms Cruise for From $14,482 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T14:05:55.399091Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Blnan 52\" 5-Blade Ceiling Fan with Light and Remote for $40 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T14:05:55.399091Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Prime: Rocoren 12 Pack Magnetic Cable Clips 360° Rotating Cord Organizer No-Residue Adhesive $6.5 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T14:05:55.399091Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Prime: COLOER Brass Landscape Spotlights Outdoor 5W MR16 Low Voltage Waterproof $17.49 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T14:05:55.399091Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Hogwarts Legacy (PC Digital Download) Steam - $4.80",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T14:05:55.399091Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Dell Slim Intel Core Ultra 7 265 SFF 20-Core Desktop (16GB RAM, 512GB SSD) $999.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T14:05:55.399091Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Dell Tower Intel Core Ultra 5 225 Desktop (8GB RAM, 512GB SSD) $849.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T14:05:55.399091Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "SKG FSA G7 Pro 5-Mode 4-Level 2400mAh Rechargeable Cordless Foldable Neck Massager $97.49",
   "reason": "Posted at $97.49, but Amazon showed $139.99 when we checked — the deal is probably over",
