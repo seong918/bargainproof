@@ -1,5 +1,61 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$7.97 | Flip 7: Liquid Death Edition at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-07T21:09:49.519061Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "LEGO Classic Creative Suitcase for $10 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T21:09:49.519061Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "BODYARMOR Sports Drinks 8-Pack Only $3 Shipped on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T21:09:49.519061Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Fender Guitars - 9 Models - From $799 + Free S/H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T21:09:49.519061Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Reolink All-in-One Solar Floodlight-Level Security Camera $96",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T21:09:49.519061Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Shark PowerDetect 2-in-1 Robot Vacuum & Mop with NeverTouch Pro Self-Cleaning Base $399.99 free shipping Costco.com Today Only 09/07",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T21:09:49.519061Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Today Only 09/07 All-Clad D3 13-piece Stainless Steel Cookware Set $649.99 Free Shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T21:09:49.519061Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "cheapshark",
   "raw_title": "Joe Danger 2: The Movie",
   "reason": "Not evaluated",
