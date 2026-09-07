@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "89e619f6035a",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19980948-chapin-63924-4-gallon-24v-battery-backpack-sprayer-2-hour-runtime-120-47",
+  "title": "CHAPIN 63924 4-Gallon 24V Battery Backpack Sprayer, 2-Hour Runtime",
+  "raw_title": "CHAPIN 63924 4-Gallon 24V Battery Backpack Sprayer, 2-Hour Runtime $120.47",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 12047,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-07T11:00:32.099329Z"
+ },
+ {
   "deal_id": "9aed15ae555b",
   "source": "techbargains",
   "source_url": "https://www.amazon.com/gp/product/B079Z1NJRW/ref=ox_sc_act_title_1",
