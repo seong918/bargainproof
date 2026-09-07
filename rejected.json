@@ -1,5 +1,53 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Boost 20g High Protein with 3g Fiber Balanced Nutritional Shake (Strawberry, 4-Pack) $30.10",
+  "reason": "Posted at $30.10, but Amazon showed $31.68 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T11:45:22.186975Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Gooloo AP150 Pro 150PSI Auto Shut-Off Portable Air Compressor Tire Inflator $19.99",
+  "reason": "Posted at $19.99, but Amazon showed $24.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T11:45:22.186975Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "SmallRig Foldable V-Mount Battery Plate for $45 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T11:45:22.186975Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Reolink 2K Solar Floodlight Camera for $96 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T11:45:22.186975Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Zdeer Natural Saline Nasal Spray 3-Pack for $6 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T11:45:22.186975Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "18-in-1 Snowflake Multitool ONLY $2.99 on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T11:45:22.186975Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Step2 Express Parcel Delivery Box for $34 + free shipping",
   "reason": "Not evaluated",
