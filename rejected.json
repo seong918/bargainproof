@@ -1,5 +1,21 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Stamp Puncher, 1 x 0.8 inch $4.18",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-07T15:12:16.179472Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CALIA Women's Golf Performance Waist Pack (Black) $8.97 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T15:12:16.179472Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Refurb Apple MacBook Pro i5 13\" Laptop w/ 256GB SSD (2020) for $315 + free shipping",
   "reason": "Not evaluated",
