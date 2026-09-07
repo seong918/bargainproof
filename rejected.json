@@ -1,5 +1,53 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "[NEW, AC] $98.58 | Wrangler Tahoe 3 Piece Spinner Luggage Set, Black + 10% Back w/ Prime Visa Card at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-07T10:54:55.965694Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "TGI Fridays Labor Day Specials for $20 full rack of ribs, 25% off platters, and more + shipping varies",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T10:54:55.965694Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Fabuloso Lavender 128oz Concentrated All Purpose Cleaner & Floor Cleaner (2-Pack) $9.58",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T10:54:55.965694Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Geek Lighting Men's Long Sleeve Button Down Flannel Shirt $9.95",
+  "reason": "Posted at $9.95, but Amazon showed $16.59 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T10:49:19.510584Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Zity Men's Flee Sherpa Lined Crewneck Pullover Sweatshirt (Various Sizes) $19.45",
+  "reason": "Posted at $19.45, but Amazon showed $47.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T10:49:19.510584Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HULISEN Stainless Steel Burger Press, 6.2-Inch Round Burger Smasher Flat Edge, Even Pressure for Thin Patties, Dishwasher Safe~$8.99 @ Amazon",
+  "reason": "Community score too low (+-2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-07T10:43:42.577663Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
   "source": "dealnews",
   "raw_title": "Popeyes Labor Day Wings or Tenders Deal for $12",
   "reason": "Not evaluated",
