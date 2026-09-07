@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$149.64 | Thermaltake Toughpower PT 1200W; ATX 3.1; x2 Native PCIe 5.1 12V-2x6 at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-07T06:31:28.754674Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Stoke Wood Fired Outdoor Pizza Oven 13\"inches - Portable Stainless Steel Pizza Grill, Wood Pellet Outdoor Cooking Pizza Maker $99.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-07T06:31:28.754674Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Beurer Deluxe 600 Upper Arm Blood Pressure Monitor Bluetooth $19.67 w/ W+ s/h",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T06:25:51.405946Z",
