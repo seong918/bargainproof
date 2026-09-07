@@ -1,6 +1,126 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "BEVA Desk Clamp Power Strip, Edge Mount, 10 AC Outlets 4 USB Ports $17.99",
+  "reason": "Posted at $17.99, but Amazon showed $25.64 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T13:49:13.346436Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Niphean 10' Inflatable Paddle Board, Ultra-Light SUP for Beginners $99.99",
+  "reason": "Posted at $99.99, but Amazon showed $159.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T13:49:13.346436Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GREPRO 100W Laptop Power Bank, 20000mAh 130W Total Aluminum Alloy USB C $34.99",
+  "reason": "Posted at $34.99, but Amazon showed $49.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T13:49:13.346436Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Boompal 450-CFM Copper Motor Cordless Leaf Blower with 2x 20v Batteries $29.63",
+  "reason": "Posted at $29.63, but Amazon showed $56.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T13:49:13.346436Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "SKG W9 Pro Adjustable Cordless Strain Relief Lower Back Massager $97.49",
+  "reason": "Posted at $97.49, but Amazon showed $139.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T13:49:13.346436Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Funsora 60W 24000mAh Smart Timer 1.5L Electric Lunch Box $79.99",
+  "reason": "Posted at $79.99, but Amazon showed $159.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T13:49:13.346436Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Hojasana 12-in-1 320mg Milk Thistle Capsules (60-Count) with Turmeric 300mg $5.99",
+  "reason": "Posted at $5.99, but Amazon showed $9.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T13:49:13.346436Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Koios 14-in-1 900W 23000RPM Smoothie Blender with 3x 23oz BPA-Free Portable Cups $24.99",
+  "reason": "Posted at $24.99, but Amazon showed $28.47 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T13:49:13.346436Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Old Navy Labor Day Sale: 50% off everything + extra 10% off + free shipping w/ $50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T13:49:13.346436Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Academy Sports + Outdoors Labor Day Hot Deals: Up to 65% off + free shipping w/ $25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T13:49:13.346436Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Finish Line Labor Day Sale: Up to 50% off + 25% off + free shipping w/ $75",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T13:49:13.346436Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "JonterKing Lymphatic Drainage Massager for $25 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T13:49:13.346436Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Tonies Foldable Wired Headphones for Kids - Comfortably Designed to fit On-Ear - Works with Toniebox 1 and All 3.5mm Devices - Green $13.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T13:49:13.346436Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$4 WM CASH + L'Oreal Paris Hydra-Renewal Continuous Facial Moisturizer 1.7 oz $6.42",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T13:49:13.346436Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Starship Troopers: Extermination Xbox Galactic Victory Digital Edition $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T13:49:13.346436Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "DESLOC C110 Fingerprint Keyless Entry Door Lock, Visual Display, Auto Lock $29.99",
   "reason": "Posted at $29.99, but Amazon showed $49.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-07T13:43:49.631311Z",
