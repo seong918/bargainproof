@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[AC] $3.99* | 41-Oz Mr. Clean All Purpose Cleaner (Ocean) at Amazon",
+  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-07T19:45:47.387565Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Defender Sentinel AI 16-Camera 4K Security Camera System for $1,720 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T19:45:47.387565Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Keter Store-It-Out MIDI Outdoor Resin Storage Shed – Weather-Resistant Horizontal Cabinet for Trash Cans, Easy-Lift Lid, 30 Cu. Ft. Capacity, Beige $179",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-07T19:40:10.637428Z",
