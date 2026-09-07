@@ -1,5 +1,77 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$25 | Nioh 3 (PlayStation 5) at Amazon",
+  "reason": "Posted at $25.00, but Amazon showed $41.45 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T17:48:15.816850Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "TOGUARDGO Wireless Carplay Adapter 3-1 Magic AI Box with YouTube TikTok $59.99",
+  "reason": "Posted at $59.99, but Amazon showed $79.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T17:48:15.816850Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "CITIZEN Men's Eco-Drive Duel 42mm Stainless Steel AW0160-09W $196.60",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T17:48:15.816850Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "JBL Tour One M2 Wireless Over-Ear Noise Cancelling Headphones $97.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T17:48:15.816850Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Mainstays Dashwood Sling Chaise Lounge 2-Pack $97.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T17:48:15.816850Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "WorkPro 18\" Bolt Cutter for $12 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T17:48:15.816850Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Nike Men's Everyday Plus Cushioned 6-Pack Quarter Training Socks for $11 + free shipping w/ $75",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T17:48:15.816850Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Abercrombie the grinch holiday graphic popover hoodie - teen sizes $15.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T17:48:15.816850Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "The Prestige [ULTRA HD] 4K + Blu Ray + Digital $18.99 Walmart.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T17:48:15.816850Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "cheapshark",
   "raw_title": "Filament",
   "reason": "Not evaluated",
