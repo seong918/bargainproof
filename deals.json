@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "7f61fce5aa83",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19981035-19-99-hp-430-multi-device-wireless-bluetooth-mouse-black-at-amazon",
+  "title": "HP 430 Multi-Device Wireless & Bluetooth Mouse (Black)",
+  "raw_title": "$19.99* | HP 430 Multi-Device Wireless & Bluetooth Mouse (Black) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B09KBN4LNW",
+  "deal_total_cents": 1999,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 1999,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1999,
+  "amazon_url": "https://www.amazon.com/dp/B09KBN4LNW",
+  "amazon_checked_at": "2026-09-07T07:21:57.021121Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B09KBN4LNW",
+  "image_url": null,
+  "published_at": "2026-09-07T07:21:52.854866Z"
+ },
+ {
   "deal_id": "0a7555bd9c38",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19981029-9-46-rain-mate-windproof-compact-folding-lightweight-travel-umbrella-at-amazon",
