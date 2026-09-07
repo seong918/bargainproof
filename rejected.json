@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$29.99ac FS AMAZON AC AOC Ergonomic Mouse, 2.4GHz Wireless Bluetooth Vertical Mouse, 4800 DPI, Rechargeable",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-07T05:35:28.437943Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Frigidaire - 36 in. Wide 22.3 Cu. Ft. Side-by-Side Counter-Depth Refrigerator - Stainless Steel $1399.99 Bestbuy.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T05:35:28.437943Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Klipsch The One Plus Premium Bluetooth Speaker (Matte Black) $149.99 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T05:29:52.093008Z",
