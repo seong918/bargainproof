@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "e9630fd7c16c",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19952085-s-s-castrol-gtx-full-synthetic-5w-30-motor-oil-1-quart-pack-of-6-36-09",
+  "title": "Castrol GTX Full Synthetic 5W-30 Motor Oil, 1 Quart, Pack of 6",
+  "raw_title": "[S&S] Castrol GTX Full Synthetic 5W-30 Motor Oil, 1 Quart, Pack of 6 $36.09",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B09M95VXMS",
+  "deal_total_cents": 3609,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "sns"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 3799,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 3799,
+  "amazon_url": "https://www.amazon.com/dp/B09M95VXMS",
+  "amazon_checked_at": "2026-09-07T06:03:31.226929Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B09M95VXMS",
+  "image_url": null,
+  "published_at": "2026-09-07T06:03:25.783533Z"
+ },
+ {
   "deal_id": "12ce5c6b875c",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19980735-109-99-netgear-8-port-2-5g-multi-gigabit-ethernet-unmanaged-network-switch-at-amazon",
