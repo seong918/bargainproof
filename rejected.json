@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "OVLLAN Office Chair Wheels, Outstanding Replacement Roller Blade Wheels for Office Gaming Desk Chairs $11.99",
+  "reason": "Posted at $11.99, but Amazon showed $16.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T04:11:19.514644Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$40-50 Sam's Cash on Oura Ring 5",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T04:11:19.514644Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Metabo HPT 3-1/2\" Pneumatic Palm Nailer $24.50 + Free Store Pickup at Lowe's or Free Shipping on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T04:11:19.514644Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Potensic ATOM SE 4K GPS Drone Under 249g Gray $135.2 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T04:05:42.235570Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "OREI 3 in 1 Australia/NZ Travel Adapter Plug with USB $2.95",
   "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-07T03:54:29.476840Z",
