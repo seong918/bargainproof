@@ -1,5 +1,69 @@
 [
  {
+  "source": "dealcatcher",
+  "raw_title": "Round Trip New York to Denpasar Bali Indonesia Airfares on Korean Air/Asiana Airlines with 2 Free Checked Bags $818.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T17:25:57.344803Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Round Trip Boston to Paris France Airfares on Icelandair BE $512.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T17:25:57.344803Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas Men's Lite Racer Adapt 7.0 Shoes for $28 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T17:25:57.344803Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Kizik Men's London Hands Free Slip On Sneakers for $80 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T17:25:57.344803Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Viral Anthropologie Advent Calendar Just $88 Shipped ($300 Value) | Will Sell Out Again",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T17:25:57.344803Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "3 Goldfish Cracker Bags Only $4.59 Shipped on Amazon (Just $1.53 Each)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T17:25:57.344803Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Meifigno Fits 360° Rotating Magsafe Car Mount, Vacuum Magnetic Phone Holder $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T17:25:57.344803Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Tineco FLOOR ONE i6 Stretch Wet/Dry Vacuum - $259 w/ Code",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-07T17:25:57.344803Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "slickdeals",
   "raw_title": "4-Pack 32-Oz RiceSelect Jasmati White Jasmine Rice $10.44 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
