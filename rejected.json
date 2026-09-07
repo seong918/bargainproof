@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "TCL 65 Inch Class QM7L Series | SQD-Mini-LED QLED Smart TV | 65QM7L, 2026 Model | 144Hz | Ultimate Color Ultra Brightness & Contrast | Google AI Bang & Olufsen $897.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-07T00:37:50.878180Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Certified Refurb RedTiger F7N Pro 4K Dash Cam w/ 64GB Card for $60 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T00:32:12.919776Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$7.26 get $2.50 Walmart Cash Palmolive Ultra Oxy Liquid Dish Soap, Grease Cutting, 70 fl oz EZ-Pour Refill Bottle",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T00:32:12.919776Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bona Spray Mop Air Multi-Surface Cleaning Kit with Reusable Pad $19.97 + $10.00 Walmart Cash",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T00:26:34.879697Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[SnS, AC] $1.05* | 14-Oz Heinz Yellow Mustard at Amazon",
   "reason": "Same deal was already posted from another source",
   "rejected_at": "2026-09-07T00:20:57.994218Z",
