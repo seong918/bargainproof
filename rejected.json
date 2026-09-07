@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "This is the Story of a Happy Marriage by Ann Patchett ebook $1.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-07T04:28:10.050402Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Outdoor HVAC Copper Pipe Insulation Cover, 72x10.2 Inch Flexible 600D Oxford AC Pipe Insulation Cover for Outside Wrap $9.5",
+  "reason": "Posted at $9.50, but Amazon showed $16.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T04:28:10.050402Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ray-Ban Meta Gen 1 Glasses for $224 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T04:28:10.050402Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "EGO Power+ 800 Series LM2156SP 21 in. 56 V Battery Self-Propelled Lawn Mower Kit (Battery & Charger) W/ 10.0 AH BATTERY $699",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T04:28:10.050402Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$19.99 Sale for Ugly Betty: The Complete Series",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T04:22:32.812224Z",
@@ -16858,14 +16890,6 @@
  {
   "source": "dealnews",
   "raw_title": "LEGO Editions Ayrton Senna Helmet for $75 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-04T00:24:26.832056Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Ray-Ban Meta Gen 1 Glasses for $224 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-04T00:24:26.832056Z",
   "code": "not_checked",
