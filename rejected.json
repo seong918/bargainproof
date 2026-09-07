@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[Resale] $50 | KODAK PIXPRO FZ45 16MP Compact Digital Camera, 4X Optical Zoom, AA, Black (Used - Like New) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-07T18:44:16.398668Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$124.99: VEVOR Outdoor Kitchen Drawers 13.4\"W x 25.7\"H x 19.6\"D Stainless Steel at Amazon",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-07T18:44:16.398668Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "OtterBox All Day Case for Apple Watch Series 7/8/9 41mm for $3.50 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T18:44:16.398668Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "LG 36\" Wide 27.7 Cu. Ft. French Door Smart Refrigerator w/ External Ice & Water for $1,650 + free delivery",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T18:44:16.398668Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[SnS] $20.93* | 10-lbs Miracle-Gro Water Soluble All Purpose Plant Food at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-07T18:38:42.220653Z",
