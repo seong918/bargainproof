@@ -1,6 +1,150 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$10.45 AC AMAZON Granicell 16-Pack NiMH Rechargeable AA Batteries 1.2V for Blink Cameras, Smart Locks Alarms & Tech Devices |10-Year Life",
+  "reason": "Posted at $10.45, but Amazon showed $17.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T15:45:37.832989Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Raised Garden Bed GRS Certified (L60×W29×H11 in) $16.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T15:45:37.832989Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "TruSkin Daily C Essentials Set: 1-Oz Vitamin C Serum + 1-Oz Vitamin C Super Serum + 1-Oz SPF 30 Sunscreen Serum $35.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T15:45:37.832989Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Instant Pot 4Qt VORTEX 6-in-1 Mini Air Fryer $56.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T15:45:37.832989Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Thermacell Mosquito Repellent Radius Zone Gen 2.0 $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T15:45:37.832989Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Walter Hagen Men's Club House Sweater Vest Dark Green $8.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T15:45:37.832989Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Marathon Sports Labor Day Running Apparel Sale: Up to 40% off + free shipping w/ $75",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T15:45:37.832989Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Over $40 Worth of Snacks Just $23.94 Shipped on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T15:45:37.832989Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Round Trip San Diego to Oahu or Maui Hawaii and Vice Versa $291 Nonstop Airfares on Alaska or Southwest Airlines BE (Travel October - November 2026)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T15:45:37.832989Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Husqvarna 135 Mark II 16\" 38cc Gas Chainsaw $202.03 + Free Shipping",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-07T15:40:01.852473Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Beyamis Bluetooth 4-Pack Air Trackers with 2 Pcs Replaceable Batteries (iOS 14.6 or Above) $8.99",
+  "reason": "Posted at $8.99, but Amazon showed $17.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T15:40:01.852473Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "INIU 15W Qi2 Certified MagSafe Magnetic Wireless Charger $9.79",
+  "reason": "Posted at $9.79, but Amazon showed $19.19 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T15:40:01.852473Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Lightswim 5.5\" 5X USB-C Rechargeable 30-LED Light Neck Wear Magnifying Glass with 10x Magnifier $11.95",
+  "reason": "Posted at $11.95, but Amazon showed $23.90 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T15:40:01.852473Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Dobyns 7'1'' Kaden 1-Piece Fast Action Spinning Rod $69.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T15:40:01.852473Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Michael Kors Jet Set Small Signature Logo Convertible Wristlet $35.10",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T15:40:01.852473Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Mustad Fishing Labor Day Weekend Sale: 25% off sitewide + free shipping w/ $75",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T15:40:01.852473Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "All clad 13 piece stainless steel set $649.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T15:40:01.852473Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $4.59 | 3 × 6.6-Oz Goldfish Cheese Crackers (Original) ($1.53 each) at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-07T15:40:01.852473Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$1.99 ac AMAZON Vitamin D3 K2 5000IU, All-Trans MK-7 100mcg, 120 Softgels",
   "reason": "Posted at $1.99, but Amazon showed $9.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-07T15:34:27.321903Z",
