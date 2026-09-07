@@ -1,5 +1,101 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "[SnS] $20.93* | 10-lbs Miracle-Gro Water Soluble All Purpose Plant Food at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-07T18:38:42.220653Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Teexpert 170oz Viscosity Landscaping Mulch Glue $18",
+  "reason": "Posted at $18.00, but Amazon showed $59.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T18:38:42.220653Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "City of Brass",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T18:38:42.220653Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Energy Connoisseur 4.1 Home Theater Pack with 2x CF-30 Floors + CC-5 Center + CB-5 Bookshelves + ESW-C8 Sub $349.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T18:38:42.220653Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Miele C3 Complete Kona Powerline Vacuum Cleaner $779.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T18:38:42.220653Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Fit & Fresh Connor Insulated Lunch Box for $10 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T18:38:42.220653Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$1.99 | How to make the best coffee at home: Sunday Times bestseller from world-class barista (eBook) by James Hoffmann",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T18:38:42.220653Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Cert. Refurb: eufy S220 SoloCam Solar Security Camera 2K Wi-Fi Wireless Outdoor $37 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T18:38:42.220653Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC] $18.35 | INIU Foldable Magnetic Wireless Charger, Qi2 Certified 3-in-1 Travel Charging Station with 15W Fast Charge at Amazon",
+  "reason": "Posted at $18.35, but Amazon showed $35.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T18:33:05.357602Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Adidas Men's Originals Campus 00s Casual Shoes (Semi Lucid Blue/White/Off White) $37.50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T18:33:05.357602Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "8' x 5.5' DuraMate Double Door Metal Reinforced Plastic Vinyl Storage Shed $449.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T18:33:05.357602Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Vans Women's Authentic Check Casual Shoe (Racing Red/White) $30 + Free Shipping $75+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T18:33:05.357602Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Purina Dentalife 40lbs Allergen-Free Daily Oral Care Dog Chews (18-Chews) $5.69",
   "reason": "Posted at $5.69, but Amazon showed $5.99 when we checked — the deal is probably over",
