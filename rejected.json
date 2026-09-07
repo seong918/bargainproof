@@ -1,6 +1,262 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Ekouaer Womens 3 Pack Long Sleeve Shirts Square Neck Thermal Undershirts $14.99",
+  "reason": "Posted at $14.99, but Amazon showed $29.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T02:19:03.628501Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Breville Touch Impress for $999 at HomeGoods",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T02:19:03.628501Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ekouaer Womens Jumpsuit Sleeveless Casual Summer Overalls Jumpers Rompers $11.99",
+  "reason": "Posted at $11.99, but Amazon showed $22.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T02:13:26.175905Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "RYOBI ONE+ 18V Cordless Telescoping Soap Dispensing Scrubber (Tool Only) $99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T02:13:26.175905Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "RYOBI ONE+ 18V Cordless Telescoping Soap Dispensing Scrubber Kit with 2.0 Ah Battery and Charger $129",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T02:02:10.622761Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Camp Chef Premium Hardwood Chips - Wood Chips for Smoking & Outdoor Grilling - Compatible with Pellet Grills, Smokers & Barbecues, w/S&S $6.89",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-07T01:56:32.948907Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "PHI VILLA Patio Table for 6 with Umbrella Hole $161.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T01:56:32.948907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Shark ZU561 Navigator Lift-Away Speed Self Cleaning Brushroll Lightweight Upright Vacuum with HEPA Filter $199.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T01:56:32.948907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "NEWBULIG Ice Makers Countertop with Handle, Portable Ice Machine $54.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T01:56:32.948907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "NEWBULIG Zero Gravity Folding Patio Recliner with Cup Holder Trays $44.88",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T01:56:32.948907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Smith & Wesson M&P Bodyguard 2.75\" Clip Point Folding Knife $10.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T01:56:32.948907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Samsung 75-Inch Mini LED 4K Smart TV $547.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T01:56:32.948907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Shark Navigator Lift-Away ADV Upright Vacuum, HEPA Filter, Blue Jean $179.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T01:56:32.948907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Shark VACMOP Reveal Cordless Hard Floor Cleaner VM401 $117.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T01:56:32.948907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Cold Steel FM-1 Blackout Folding Knife $215.45",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T01:56:32.948907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "XL Collapsible BBQ Prep Tub with Cutting Board $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T01:56:32.948907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "NEWBULIG Zero Gravity Chairs Set of 2 with Cup Holder Trays $81.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T01:56:32.948907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Shark Stratos Corded Stick Vacuum HZ3002 $199.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T01:56:32.948907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Timber Ridge Oversized Folding Rocking Patio Camping Chair $99.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T01:56:32.948907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "EASYGO Products Reclining Chaise Lounge Chair with Headrest Pillow $39.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T01:56:32.948907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Con-Tact Brand Cork Roll, Self-Adhesive, 12\" x 4' $7.08",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T01:56:32.948907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Anker SOLIX S2000 Portable Power Station 2,010Wh $649.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T01:56:32.948907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "HyperX Cloud Flight Wireless Gaming Headset for PS5 and PS4 $74.94",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T01:56:32.948907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "THP Adapt 2 HP RTH 70 LH True Timber Strata/Black $489.60",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T01:56:32.948907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "To Kill a Mockingbird 60th Anniversary 4K UHD + Blu-ray + Digital $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T01:56:32.948907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Patio Umbrella Mosquito Net 7.5-11 FT $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T01:56:32.948907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Tissot Chemin des Tourelles Swiss Powermatic 80 42mm Silver Dial Men's Watch $568.75",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T01:56:32.948907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Arm & Hammer Clean Burst Moisture Absorber and Odor Eliminator Tubs 14 oz 3-Pack $17.91",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T01:56:32.948907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "The Boy on the Bridge $1.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T01:56:32.948907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "SayTale Medium Firm 8 inch Full Memory Foam Mattress $159.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T01:56:32.948907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Shark VACMOP Reveal New Cordless Hard Floor Cleaner VACMOP Disposable Hard Floor Pad Refills, Compatible with VM252 & VM180, 12oz Pet Multi-Surface Cleaning Solution, VM401 $117.98",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-07T01:50:55.482472Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Beats Studio Pro Wireless Headphones - Matte White $149",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T01:50:55.482472Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "NEWBULIG Ice Makers Countertop with Handle, Portable Ice Machine $54.98",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-07T01:45:18.675951Z",
