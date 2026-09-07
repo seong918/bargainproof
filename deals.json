@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "6293e1b5cd7b",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19979853-81-95-osprey-daylite-expandable-26-6-travel-pack-10-back-w-prime-visa-card-at-amazon",
+  "title": "Osprey Daylite Expandable 26+6 Travel Pack + 10% Back Visa Card",
+  "raw_title": "$81.95* | Osprey Daylite Expandable 26+6 Travel Pack + 10% Back w/ Prime Visa Card at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 8195,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "prime"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-07T01:45:18.675951Z"
+ },
+ {
   "deal_id": "ce2ca560cad2",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19979943-19-98-klein-tools-15-in-1-multi-bit-ratcheting-screwdriver-at-amazon",
