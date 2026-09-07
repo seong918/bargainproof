@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "85ecfb5b36db",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19981353-89-99-amazon-basics-8-person-spacious-camping-tent-with-rainfly-orange-grey-at-amazon",
+  "title": "Amazon Basics 8-Person Spacious Camping Tent with Rainfly, Orange/Grey",
+  "raw_title": "$89.99* | Amazon Basics 8-Person Spacious Camping Tent with Rainfly, Orange/Grey at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0785MRPH6",
+  "deal_total_cents": 8999,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 8999,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 8999,
+  "amazon_url": "https://www.amazon.com/dp/B0785MRPH6",
+  "amazon_checked_at": "2026-09-07T11:17:28.173612Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 2,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0785MRPH6",
+  "image_url": null,
+  "published_at": "2026-09-07T11:17:23.237602Z"
+ },
+ {
   "deal_id": "ede481a3e71c",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19980729-147-43mm-citizen-men-s-eco-drive-weekender-garrison-field-watch-at-amazon",
