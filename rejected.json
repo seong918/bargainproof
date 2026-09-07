@@ -1,5 +1,37 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Rakukiri 5-Foot Raised Garden Bed for $17 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T22:43:28.384842Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Vevor 180° Foldable 2 Tubes Shoe Dryer for $20 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T22:43:28.384842Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "David Gilmour - Live at the Circus Maximus [Blu-ray] $23.55",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-07T22:38:11.794958Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ninja Deluxe Blender & Kitchen System for $135 + $4.99 shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T22:38:11.794958Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Cosbarn Luggage Sets, Lightweight Durable Hardshell, 5 piece Suitcase Sets Black $116.99",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
