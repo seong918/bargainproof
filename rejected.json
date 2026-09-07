@@ -1,5 +1,37 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Arcane: League of Legends - Season Two [Blu-ray] $16.99 + Free S&H w/ Prime or $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-07T23:49:34.224631Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SAMSUNG 25\" Odyssey G4 Series FHD Gaming Monitor, IPS, 240Hz, 1ms $199.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-07T23:49:34.224631Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Persil Liquid 34oz (Various) $4.88 get $2 Walmart cash",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T23:49:34.224631Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "PERSIL 126oz in Deep Clean or OXI, $19.97 get $5 walmart cash",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T23:49:34.224631Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "WorkPro 9-Piece Impact Socket Driver Extension Bar Set for $11 + free shipping",
   "reason": "Not evaluated",
