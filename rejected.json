@@ -1,5 +1,61 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "VTOMAN X7 Jump Starter with Air Compressor, 160PSI Auto-Off Tire Inflator $90.99",
+  "reason": "Posted at $90.99, but Amazon showed $129.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T15:01:06.579987Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "BLNAN 52 Inch Ceiling Fan with Lights and Remote, Caged Ceiling Fans Dual Finish 5 Blades, 6 Speeds + Natural Wind, Quiet <35dB, Flush Mount Ceiling Fan $40",
+  "reason": "Posted at $40.00, but Amazon showed $79.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T15:01:06.579987Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "9-Night Greece Hotel and Tour Vacation for From $3,998 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T15:01:06.579987Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Mini Tabletop Soccer Game Just $13.99 on Amazon (Reg. $28)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T15:01:06.579987Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "(refurb) GE Profile Opal 1.0 Nugget Countertop Ice Maker w/ Side Tank $200 + Free S/H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T15:01:06.579987Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Small dipped cone for $1 at DQ",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T15:01:06.579987Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "YMMV DeWalt 20V XR DCD801QQ2 1/2 in. Drill/Driver Kit with (2) 4.0 Ah Powerpack Batteries and Charger Lithium-Ion Cordless Brushless $134.5",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T15:01:06.579987Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Merrell Labor Day Sale: Up to 40% off + free shipping w/ $75",
   "reason": "Not evaluated",
