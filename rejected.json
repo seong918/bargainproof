@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$99.99 AMZ Timber Ridge Oversized Folding Rocking Patio, Camping Chair, Padded Outdoor Rocker with High Back",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-07T01:28:25.564015Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$162 AMAZON PHI VILLA Patio Table for 6, Black Metal Dining Table w/Umbrella Hole",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-07T01:28:25.564015Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Pack: Aukey MixFlex Sling 30W PD 10,000mAh Power Banks $25 + shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T01:28:25.564015Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$19.98* | Klein Tools 15-in-1 Multi-Bit Ratcheting Screwdriver at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-07T01:28:25.564015Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$19.99 AMAZON 7.5-11 FT Patio Umbrella Mosquito Net, Polyester Mesh Umbrella Screen, Universal Canopy Umbrella Mosquito Netting with Zipper Door",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-07T01:22:48.796098Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Shark ZU561 Navigator Lift-Away Speed Self Cleaning Brushroll Lightweight Upright Vacuum with HEPA Filter, Red Peony $199.99",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-07T01:17:11.781260Z",
