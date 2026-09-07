@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Metabo HPT 18 Gauge Brushless Cordless Brad Nailer Kit, NT1850DFT $177.3",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-07T16:47:05.181518Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Sansui 34\" Curved WQHD 165Hz LED AMD FreeSync Gaming Monitor $180.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T16:47:05.181518Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Tracfone Motorola Moto G Power 2024 5G 128GB $49.88",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T16:47:05.181518Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Accessory Innovations Kids 5-Piece Super Mario Brother Movie Backpack Set $18.29",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T16:47:05.181518Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Kobalt 24V 2-Pack 4.0Ah Lithium-Ion Batteries w/ 85W Charger $99.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T16:47:05.181518Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "SucceBuy 8- x 7-Foot Water-Resistant Manual Retractable Awning for $110 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T16:47:05.181518Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[SnS, AC] $7.20 | 12-Pack 16-Oz BODYARMOR Sports Drink (Zero Lemon Lime) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-07T16:41:29.491593Z",
