@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Ekouaer Women 2 Piece Lounge Sets Ribbed Knit Oversized Shirt Biker Shorts $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $16.14 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T13:38:32.418676Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Hilmon 2-in-1 Plug in Air Ionizers (2-Pack) $19.99",
+  "reason": "Posted at $19.99, but Amazon showed $45.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T13:38:32.418676Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Koios 500W 120V 2 Bi-Level Blades Electric Food Chopper with 2 Bowls $24.99",
+  "reason": "Posted at $24.99, but Amazon showed $30.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T13:38:32.418676Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "SucceBuy 10 x 7-Foot Retractable Vehicle Awning for $68 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T13:38:32.418676Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "KYX 4-Digit Combination Trailer Lock for $100 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T13:38:32.418676Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[Prime] 12-Count Ahaorigin Solar Halloween Pumpkin Pathway Stake Lights w/ 8 Modes & 84 Multicolor LEDs (2 x 6-Light Strings) $17.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-07T13:32:58.673462Z",
