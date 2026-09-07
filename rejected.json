@@ -1,6 +1,14 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "KFC Family Feast Box for $25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T10:15:42.969358Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
   "raw_title": "AlkiVision 2K Solar Wireless Outdoor Security Camera for $20 + free shipping w/ Prime",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T10:10:06.877728Z",
