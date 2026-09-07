@@ -1,5 +1,29 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Flatsons FBA-10 10W Mini Electric Guitar Amplifier for $32 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T23:27:35.157042Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Rakukiri 5ft Oval Raised Garden Bed – Galvanized, Rust-Resistant Metal Planter for Vegetables, Flowers & Herbs 60×29×11 in, 68 gallons (Silver) $16.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T23:27:35.157042Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "36-Colors JR.WHITE Dual Tip Acrylic Paint Markers $7.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-07T23:27:35.157042Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "slickdeals",
   "raw_title": "JBL Live Beam 3 - True wireless noise-cancelling stick-closed earbuds, 48Hrs total playback, Wireless Charging, IP55 waterproof and dustproof (Silver or Black) $129.95",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
