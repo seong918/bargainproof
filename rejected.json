@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$44.99* | 8\" Cuisinart FusionElite+ Nonstick Tri-Ply Stainless Steel Skillet at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-07T08:34:48.794615Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Salomon Women's X Ultra 360 Low Hiking Shoes - Green Milieu $93.77",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T08:34:48.794615Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Salomon Gender Inclusive XT-Whisper Embroidery Sneaker $99.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T08:29:12.348544Z",

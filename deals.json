@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "3c9a34438d7d",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19981032-sns-ac-3-82-3-oz-neutrogena-ultra-sheer-dry-touch-sunscreen-lotion-spf-70-at-amazon",
+  "title": "3-Oz Neutrogena Ultra Sheer Dry-Touch Sunscreen Lotion (SPF 70)",
+  "raw_title": "[SnS, AC] $3.82 | 3-Oz Neutrogena Ultra Sheer Dry-Touch Sunscreen Lotion (SPF 70) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 382,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-07T08:34:48.794615Z"
+ },
+ {
   "deal_id": "c8cf1a60abfd",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19980903-72-t-shirts-gildan-adult-ultra-cotton-long-sleeve-t-shirt-unisex-men-s-or-women-s-style-g2400-multipack-sport-grey-xx-large-145-89",
