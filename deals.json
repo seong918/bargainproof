@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "53c5d05e748d",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19972119-amazon-women-s-20l-lightweight-puffer-tote-bag-14-84-w-code-deal",
+  "title": "Amazon – Women's 20L Lightweight Puffer Tote Bag - w/ Code + Deal",
+  "raw_title": "Amazon – Women's 20L Lightweight Puffer Tote Bag - $14.84 w/ Code + Deal",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0DTKJFSYX",
+  "deal_total_cents": 1484,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 2699,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 2699,
+  "amazon_url": "https://www.amazon.com/dp/B0DTKJFSYX",
+  "amazon_checked_at": "2026-09-07T06:48:23.568075Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0DTKJFSYX",
+  "image_url": null,
+  "published_at": "2026-09-07T06:48:19.217361Z"
+ },
+ {
   "deal_id": "4a735e551660",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19980867-138-26-asus-tuf-gaming-1000w-80-gold-atx-3-0-certified-fully-modular-power-supply-at-amazon",
