@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "43c30fac6c09",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19982274-oxygen-advantage-kindle-ebook-2-amazon-1-99",
+  "title": "Oxygen Advantage (Kindle Ebook) Amazon",
+  "raw_title": "Oxygen Advantage (Kindle Ebook) $2 Amazon $1.99",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 200,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B00RLU286G",
+  "image_url": null,
+  "published_at": "2026-09-07T17:42:40.423948Z"
+ },
+ {
   "deal_id": "20532065fd50",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19980993-27-99-azocek-220w-18v-battery-power-inverter-power-station-w-400lm-led-work-light-red-at-amazon",
