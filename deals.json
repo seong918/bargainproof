@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "af92a6c84fec",
+  "source": "techbargains",
+  "source_url": "https://www.amazon.com/gp/product/B0CJX3PLLQ/ref=ox_sc_act_title_1",
+  "title": "Thule Aion 40L 8-Pocket Water Resistant Backpack",
+  "raw_title": "Thule Aion 40L 8-Pocket Water Resistant Backpack $110.95",
+  "merchant": "amazon",
+  "buy_url": "https://www.amazon.com/gp/product/B0CJX3PLLQ/ref=ox_sc_act_title_1",
+  "deal_total_cents": 11095,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 11095,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 11095,
+  "amazon_url": "https://www.amazon.com/dp/B0CJX3PLLQ",
+  "amazon_checked_at": "2026-09-07T11:06:14.883888Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": null,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0CJX3PLLQ",
+  "image_url": null,
+  "published_at": "2026-09-07T11:06:10.094591Z"
+ },
+ {
   "deal_id": "89e619f6035a",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19980948-chapin-63924-4-gallon-24v-battery-backpack-sprayer-2-hour-runtime-120-47",
