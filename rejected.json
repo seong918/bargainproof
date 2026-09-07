@@ -1,5 +1,133 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Avidlove Sexy Floral Applique Lingerie 2 Piece Sheer Mesh Cami Thong Set $4.99",
+  "reason": "Posted at $4.99, but Amazon showed $9.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T13:27:24.061994Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Drazivon Short Sleeve Casual Beach Shirts (Various Sizes) $4.99",
+  "reason": "Posted at $4.99, but Amazon showed $9.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T13:27:24.061994Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Heavy Duty Garden Shovel with Ergonomic Handle $0.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T13:27:24.061994Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Rust-Oleum Stops Rust Spray Paint 12-oz. Can 2-Pack for $10 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T13:27:24.061994Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Vtoman X7 160-PSI Jump Starter and Air Compressor for $91 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T13:27:24.061994Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Dell 14 Plus Intel Core Ultra 7 258V 14\" 2.5K Display Copilot+ Laptop (32GB RAM, 1TB SSD) $1659.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T13:27:24.061994Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Dell Pro Intel Core Ultra 5 235T 14-Core Micro Desktop (16GB/512GB) $1353.83",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T13:27:24.061994Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Dell 16 (DC16251) Intel Core 7 150U 16\" FHD+ Laptop w/ 16GB RAM, 1TB SSD $1279.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T13:27:24.061994Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Dell 16S AMD Ryzen AI 7 445 16\" FHD+ Laptop (16GB RAM, 1TB SSD) $1449.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T13:27:24.061994Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "ALSO GO 16 Inch 1350W Electric Chainsaw Cordless $76.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T13:21:56.397218Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "CVLIFE 2.5-10x40e Red & Green Illuminated Scope with 20mm Mount $29.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T13:21:56.397218Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Endoscope Snake Borescope Inspection Camera 16.5 FT/5M $10.46",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T13:21:56.397218Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Vevor 12-Piece 20\" x 20\" Artificial Boxwood Panel Plant Wall for $79 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T13:21:56.397218Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Bluvol Nest 10 Ultra Cordless Heated Neck Massager for $80 w/ Prime + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T13:21:56.397218Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$4.44 Walmart Hyper Tough 4 in. Barrel Bolt, Zinc Plated with mounting screws, 1 Pack",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T13:21:56.397218Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$28 FS WALMART+ by GreatStar WORKPRO Mini Metal Tool Box with 2 Drawers and Top Storage, Small Tool Chest with PVC Liners and PP Feet Pads",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T13:21:56.397218Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Jorest 25-in-1 Small Precision Screwdriver Set $4.99",
   "reason": "Posted at $4.99, but Amazon showed $8.99 when we checked — the deal is probably over",
@@ -16973,14 +17101,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T04:23:31.641313Z",
   "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Bluvol Nest 10 Ultra Cordless Heated Neck Massager for $80 w/ Prime + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T04:23:31.641313Z",
-  "code": "no_signal",
   "public": false
  },
  {
