@@ -1,5 +1,125 @@
 [
  {
+  "source": "dealcatcher",
+  "raw_title": "SEALIGHT S2S H7 H7LL Light Bulbs Wireless 10,000LM 6500K Cool White (Pack of 2) $37.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T19:57:00.396157Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Giro Caden MIPS II LED Adult Urban Bike Helmet (Medium) $48.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T19:57:00.396157Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Kismile Upright Freezer 3.0 Cu.ft $209.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T19:57:00.396157Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Joseph Joseph Extend Steel Plus Extendable Dish Rack Steel with Wine Glass Holder & Drain Spout, Black $64.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T19:57:00.396157Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Bosch GWX18V-13CB14 PROFACTOR 18V X-LOCK Connected-Ready 5-6 In. Angle Grinder Kit with (1) CORE18V 8 Ah High Power Battery $264.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T19:57:00.396157Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Orbit Pro Flo 7-Pattern 14\" Watering Wand for $9 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T19:57:00.396157Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ozark Trail 30-oz. Limited Edition Stainless Steel Insulated Tumbler for $6 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T19:57:00.396157Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Glutino Gluten-Free Cookies Only $2.98 Shipped on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T19:57:00.396157Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "7.4\" Schrade Delta Class Divergent Knife (Black) $18.27 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-07T19:51:22.877687Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$69* | CMF by Nothing Watch 3 Pro Smartwatch at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-07T19:51:22.877687Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas Men's Zenboost Running Shoes for $49 + Free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T19:51:22.877687Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Sonos Arc Ultra Soundbar Deal for $899 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T19:51:22.877687Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "VEVOR 47\" Rattan TV Stand for 65\" TVs w/ Built-In Socket, USB Ports & Adjustable Shelf (Oak) $69.99 + Free Shipping w/ Prime or $6 Fee per Order",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T19:51:22.877687Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "KitchenAid Artisan 10-Speed Stand Mixer - Hearth & Hand™ with Magnolia $379.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T19:51:22.877687Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Amazon Essentials Men's Water-resistant Packable Puffer Coat $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T19:51:22.877687Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "[AC] $3.99* | 41-Oz Mr. Clean All Purpose Cleaner (Ocean) at Amazon",
   "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
