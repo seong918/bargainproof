@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Loloi Rifle Paper Co Maison Tuileries Black 7'-6\" x 9'-6\" Area Rug $111.62",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-07T19:01:01.236891Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Nike Men's Shox NZ Shoes (White/Metallic Silver/Green) $62.87",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T19:01:01.236891Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "DEFENDER AI Powered Guard Pro 3K PLUS Dual Lens PTZ Wi-Fi 6-Plug-in Security Camera 2-Pack $99.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T19:01:01.236891Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Valyou Feathers Sectional Sofa for $2,300 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T19:01:01.236891Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas Messi Mini Ball for $8.40 + Free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T19:01:01.236891Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[S&S]2-Ct 17.5-Oz Raid Ant & Roach Killer (Fragrance-Free) $6.21 + Free S&H w/ Prime or $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-07T18:55:26.596572Z",
