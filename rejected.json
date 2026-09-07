@@ -1,6 +1,70 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "Popeyes Labor Day Wings or Tenders Deal for $12",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T10:38:07.913980Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Instant Pot 4Qt VORTEX 6-in-1 Mini Air Fryer(Rosewater) $56.99 + Free S&H w/ Prime at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T10:38:07.913980Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Pack DeWalt Impact Ready 1/16 in. X 2-1/4 in. L Titanium Nitride Drill Bit Hex Shank $4.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-07T10:38:07.913980Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "1.7L Gourmia Electric Glass Kettle w/ Digital Touch Display, Black $26.99 + Free S&H w/ Prime at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T10:26:54.193667Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Pursuit 5-in-1 130000RPM Multi-Function Jump Starter with Air Duster $49.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T10:26:54.193667Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "McDonald's Breakfast Sandwich for $2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T10:21:19.840499Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$44.99: Elite Gourmet EPM-250 Kettle Popcorn Popper, Retro-Style Tabletop, Red at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T10:21:19.840499Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Dobyns 7'1'' Rods Kaden Spinning Rod, 1-Piece, Fast Action $69.99 + Free S&H w/ Prime at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T10:21:19.840499Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
   "raw_title": "KFC Family Feast Box for $25",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T10:15:42.969358Z",
