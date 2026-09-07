@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "71a8553ff613",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19980162-4-8-oz-goldfish-crisps-baked-chip-crackers-various-flavors-3-for-4-60-w-s-s-1-53-ea-free-shipping-w-prime-or-on-35",
+  "title": "4.8-Oz Goldfish Crisps Baked Chip Crackers (Various Flavors): 3 for w/ S&S + or on",
+  "raw_title": "4.8-Oz Goldfish Crisps Baked Chip Crackers (Various Flavors): 3 for $4.60 w/ S&S ($1.53 ea) + Free Shipping w/ Prime or on $35+",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 460,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "sns",
+   "prime",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-07T03:32:04.030159Z"
+ },
+ {
   "deal_id": "4f654afd4d90",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19980252-5-75-united-airlines-die-cast-toy-airplane-model-rt6264-2-6-96-free-shipping-w-prime-or-on-35",
