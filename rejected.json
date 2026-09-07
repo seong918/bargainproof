@@ -1,6 +1,94 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Hercules DJControl Inpulse 200 MK2 - Compact Controller - Serato & DJUCED $106.11",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-07T18:49:52.423877Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Sour Patch Kids Soft & Chewy Gummy Halloween Candy (40-Count) $4.38",
+  "reason": "Posted at $4.38, but Amazon showed $5.84 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T18:49:52.423877Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Dawn Platinum Plus Lemon Scent Dish Spray (16oz) $2.29",
+  "reason": "Posted at $2.29, but Amazon showed $2.49 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T18:49:52.423877Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "MotoGP 14",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T18:49:52.423877Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Hisense 50-Inch 4K UHD HDR Google Smart TV $158.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T18:49:52.423877Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Even Embers 6-Burner Propane Gas Grill with Side and Sear Burners $399.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T18:49:52.423877Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Adidas Men's Anthony Edwards 2 All-Star Basketball Shoes $50.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T18:49:52.423877Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Homedics Ozone Clean 3-in-1 Chemical-Free Disinfectant Spray 2-Pack $10.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T18:49:52.423877Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Bosch Bulldog 7-Piece High-carbon steel Masonry Drill Bit Set $26.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T18:49:52.423877Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Easton 13\" Professional Collection Series Slowpitch Glove $99.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T18:49:52.423877Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$2.99 | The Little Book That Still Beats the Market (Little Books. Big Profits) (Kindle eBook) by Joel Greenblatt",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T18:49:52.423877Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[Resale] $50 | KODAK PIXPRO FZ45 16MP Compact Digital Camera, 4X Optical Zoom, AA, Black (Used - Like New) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-07T18:44:16.398668Z",
