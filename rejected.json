@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$54.49 | Game of Thrones: The Complete Series (DVD) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-07T05:01:49.826164Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS] $4.42 | 4-Pack 12-Oz C4 Performance Energy Drink (Frozen Bomb) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-07T05:01:49.826164Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Package - Whirlpool - 4.3 Cu. Ft. High-Efficiency Top Load Washer with 2-in-1 Removable Agitator and Soft Close Glass Lid and 7.0 Cu. Ft. Electric Dryer $949.98 Bestbuy.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T05:01:49.826164Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$49.99 | Pursuit R55 5-in-1 Jump Starter, Vac, Power Bank, Inflator at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T05:01:49.826164Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Conair Grip & Style Metal Barrel Hot Curling Brush $1.05 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T05:01:49.826164Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "HOOBRO 3-Tier Oval Side Table w/ Storage (Rustic Brown & Black) $14.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-07T04:56:13.339343Z",
