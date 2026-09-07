@@ -1,5 +1,45 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "FDW | 12 Inch King Mattress | Medium Firm | Gel Memory Foam | White $217.86",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-07T01:05:57.567846Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Zep House and Siding Pressure Wash Cleaner Concentrate 1-Gallon 4-Pack for $12 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T01:05:57.567846Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Monoprice Electric Dual Motor 3-Stage Height Adjustable Sit-Stand Desk Frame V2 $133",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T01:05:57.567846Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$199.99 AMAZON Apple AirPods Pro 3 Wireless Earbuds with Active Noise Cancellation",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-07T01:00:20.108077Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "DuraTech 3-Piece Breaker Bar Set for $19 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T01:00:20.108077Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Casio Vintage 39mm Stainless Steel Bracelet Watch w/ LED Illumination & Stopwatch $27.57",
   "reason": "Not evaluated",
