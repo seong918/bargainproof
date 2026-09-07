@@ -1,5 +1,157 @@
 [
  {
+  "source": "cheapshark",
+  "raw_title": "Vector Thrust",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T19:23:24.616521Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Nike Sportswear RPM Backpack $39.57",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T19:23:24.616521Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "COOK WITH COLOR Glass Mini Low Carb Rice Cooker 2 Cups Raw $34.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T19:23:24.616521Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Megadeath Vinyl double album Limited Edition Target Blood Red $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T19:23:24.616521Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Creality Falcon A1 10W Diode Laser Engraver and Cutter $469.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T19:23:24.616521Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "OPEN BOX Creality SpacePi X4L 3D Printer Filament Storage Box $72.39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T19:23:24.616521Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Reolink Argus 4-Advanced B740X Dual-Lens 4K 8MP Panorama Solar-Powered Outdoor Wireless Security Camera with ColorX Optic $160.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T19:23:24.616521Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "CyberPowerPC Gaming Desktop Ryzen 5 9500F, RX 9070 (16GB), 16GB DDR5, 1TB SSD $1,303.40",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T19:23:24.616521Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas Men's Adilette Comfort 2.0 Mexico Slides for $18 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T19:23:24.616521Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$2.99 | Survival Wisdom & Know How: Everything You Need to Know to Thrive in the Wilderness (Wisdom & Know-How) (Kindle eBook) by CC The Editors of Stackpole Books",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T19:23:24.616521Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Lectric XP 1.0 2.0 3.0 ebike 10.4Ah battery w/charger $108 AC Vevor",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T19:23:24.616521Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "24-Piece Silverware Set, Mirror Polish Stainless Steel Flatware Set $13.99 AC",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T19:23:24.616521Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "YMMV Open Box GE Profile - 7.4 Cu. Ft. Smart Electric Dryer with Sanitize Cycle and Sensor Dry - Diamond Gray from $427.99 at Best Buy",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T19:23:24.616521Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SWISSGEAR Signature Hardside Expandable Carry-On Spinner & Mini Weekender Tote Set, 2-Piece Set (19-Inch/Mini Weekender Tote), various colors $138",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-07T19:17:48.317626Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nesugar Portable Clothes Dryer, Global Voltage Travel Dryer, 600W $39.9",
+  "reason": "Posted at $39.90, but Amazon showed $99.00 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T19:17:48.317626Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Wurkkos WK03 1200-Lumens IP68 Waterproof Rechargeable LED Flashlight $16.99",
+  "reason": "Posted at $16.99, but Amazon showed $33.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-07T19:17:48.317626Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "32-Oz HydroJug Traveler Tumbler (Holiday Skate) $14.42",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T19:17:48.317626Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Creality Labor Day Sale: Up to 40% off + free shipping w/ $50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T19:17:48.317626Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Costco Members: Roborock QX Revo PLUS Robot Vacuum & Mop w/ Multifunctional Dock 3.0 (White) $479.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-07T19:17:48.317626Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$34.98* | 3-Port GaN Anker Prime Up to 67W Compact Fast Wall Charger (2x USB-C + 1x USB-A) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
