@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Quest Nutrition Chocolate Protein Shake, 30g Protein, 12 Count 4g Net Carbs, 1g Sugar, Creamy Chocolate Flavor, 11 fl oz, 3 Packs of 4 Count Cartons~$19.86 With S&S @ Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-08T03:05:34.236001Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon Elements Baby Wipes, Unscented, Hypoallergenic, 810 Count, Flip-Top Packs $15.56",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T02:59:58.641742Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "REOLINK RLK8-1200D4 12CH, 12MP, 8-port PoE + WiFi Security Camera DVR System with 4TB HDD - $665",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T02:59:58.641742Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Trent Austin Design Rambo Geometric 7'10\" x 10' Area Rug $119",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T02:59:58.641742Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Nylavee 14W RMS Bluetooth 5.0 & AUX RGB Desktop Computer Speakers $29.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-08T02:54:22.173434Z",
