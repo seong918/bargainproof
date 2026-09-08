@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon – AOUNQ 10-Pack Solar Flickering Flame Torch Lights - $22.99 w/ Code",
+  "reason": "Community score too low (+-1) to pass without a price check — needs multi-pack, promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-08T04:39:55.028245Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Metal Squirrel Baffle for Bird Feeder Pole - $13.19 w/ Code",
+  "reason": "Community score too low (+0) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-08T04:39:55.028245Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon: Revlon ColorStay Flex Wear Full Cover Concealer (070 Nutmeg) $3.74 (Reg $12.99, ~71% Off) + FS w/ Prime",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-08T04:39:55.028245Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "10% Off Select Gift Cards (Various): Nintendo, adidas, Columbia Sportswear, Uber & More (Digital Delivery) $180",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T04:39:55.028245Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "12-Pack 4\"x24\" BOSHCRAFT Aluminum Oxide Sanding Belts (60/80/120/180/240/400 Grit) $7.65 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-08T04:28:45.310490Z",
