@@ -1,5 +1,77 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "ORGSTA Label Maker Machine with Tape, 3 Inch Bluetooth Label Printer T003 $20 AC + Free Shipping",
+  "reason": "Posted at $20.00, but Amazon showed $39.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T14:31:22.569742Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "AstroAI S8 1500A 3-Mode 12V Car Battery Jump Starter (6L Gas, 3L Diesel Engine) $19.34",
+  "reason": "Posted at $19.34, but Amazon showed $44.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T14:31:22.569742Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Monster Wireless Earbuds Bluetooth 5.4 $29.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T14:31:22.569742Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "SONGMICS Clothes Rack with Wheels, Metal Garment Rack, Mesh Storage Shelf $25.47",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T14:31:22.569742Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Go F Yourself! Grown Up Go Fish Card Game for $7 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T14:31:22.569742Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Peanuts Christmas Nativity Deluxe Figure Set Only $25.99 on Amazon (Cute Gift Idea!)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T14:31:22.569742Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Frigidaire 24\" Built-In Top Control Dishwasher w/ MaxDry & DishSense (Fingerprint Resistant Stainless Steel, FDPH431LAF) $399.00 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T14:31:22.569742Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Portable Fan for Bedroom,8\" Foldable Rechargeable Oscillating Standing Fan,Table Desk Folding Fan for Home Office Travel Camping Outdoor Fan 5400mAh $24.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T14:31:22.569742Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Durafly D.H.100 Vampire V3 PNF \"RAF Camo Edition\" 70mm EDF Jet EPO 1100mm $147.19",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T14:31:22.569742Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "SONGMICS Duet Piano Bench with Padded Cushion and Storage Compartment $65.99",
   "reason": "Not evaluated",
@@ -34610,14 +34682,6 @@
  {
   "source": "techbargains",
   "raw_title": "Voleeoa 8MP 1080p Video Recording Bluetooth AI Smart Glasses $61.64",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-02T11:53:51.905699Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "AstroAI S8 1500A 3-Mode 12V Car Battery Jump Starter (6L Gas, 3L Diesel Engine) $19.34",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-02T11:53:51.905699Z",
   "code": "not_checked",
