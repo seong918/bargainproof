@@ -1,5 +1,29 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "adidas Men's Messi Training Jersey for $16 + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T01:35:53.479676Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nike Women's Astrograbber Textile Sneakers (Ocean Cube/Ocean Cube Smo) $59.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T01:35:53.479676Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$8.08 - S&S Amazon Bragg Organic Apple Cider Vinegar with the Mother 64 oz - Raw Unfiltered",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-08T01:35:53.479676Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Windex Fast Shine Foam Glass Cleaner, All-Purpose Cleaning Spray, 19 oz $2.82",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
