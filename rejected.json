@@ -1,6 +1,110 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Incline Treadmill Foldable, Smart Portable Treadmills for Home with Body Fat Measurement $298.99",
+  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-08T16:22:45.565864Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HolyPoint Compressed Air Duster, 110000RPM Ultra-Powerful Electric Air Duster, 3-Speed Cordless Turbo Air Blower $19.99",
+  "reason": "Posted at $19.99, but Amazon showed $39.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T16:22:45.565864Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "FanttikOutdoor Zeta L11 Duo Pro 2-Person Folding Camping Loveseat Chair $59.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:22:45.565864Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Panasonic W85 Series 55 Inch QD-Mini LED 4K UHD Glare Free Ultra Google TV $449.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:22:45.565864Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Richard Pryor: Here and Now (4K UHD + Digital) $16.04",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:22:45.565864Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "2-in-1 1200W Portable Travel Steamer with Iron Option $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:22:45.565864Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "ThermoMaven One-Tap Max Fire Propane Torch Mojave Camo $23.90",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:22:45.565864Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Air Purifiers 2-Pack $38.75",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:22:45.565864Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Jigsaw Puzzle Glue $5.39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:22:45.565864Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Dual USB C Multi Charging Cable $10.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:22:45.565864Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Halloween Squishy 8-Pack $24.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:22:45.565864Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Rose Universal Broadmoore Bed Frame w/ Storage for From $800 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:22:45.565864Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "LED Drawing Board w/ Light Effects Only $9.99 on Amazon (Reg. $20)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:22:45.565864Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[NEW] $399.99 | TP-Link 5G Mobile Hotspot Tri-Band AXE3600 6E Portable Wi-Fi Router at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
   "rejected_at": "2026-09-08T16:17:11.937667Z",
