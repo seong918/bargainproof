@@ -1,5 +1,21 @@
 [
  {
+  "source": "hip2save",
+  "raw_title": "Compact Vacuum Sealer w/ Bags Just $11.99 on Amazon (Reg. $90)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T22:24:40.785412Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] 10000mAh Baseus Picogo MagSafe Slim Magnetic Power Bank w/ 27W Fast Charging (Cosmic Black) $15.99 + Free Shipping",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-08T22:24:40.785412Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "dealnews",
   "raw_title": "Adjustable Height Folding Camping Table for $30 + free shipping",
   "reason": "Not evaluated",
