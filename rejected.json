@@ -1,5 +1,29 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "adidas Finger Crossbody Bag for $20 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T22:46:18.023594Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$198 FS WALMART VIZIO 43 in Mini LED Quantum 4K QLED HDR Smart TV, 2026 Model, VQM43C-10",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T22:46:18.023594Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Granite Gold 32-oz. Stone & Tile Floor Concentrated Cleaner for $6.64 via Sub & Save + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T22:40:42.374312Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$12.83* | 1-Lb Augason Farms Dehydrated Diced Bell Peppers Can at Amazon",
   "reason": "Community score too low (+4) to pass without a price check — we didn't get to price-check it · watched for 12h",
