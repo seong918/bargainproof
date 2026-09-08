@@ -1,6 +1,86 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$12.84 S&S Clip Q: 4 x Mr & Mrs T Original Bloody Mary Mix, 1 Liter Plastic Bottle",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-08T14:48:04.197792Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Zeagoo Fleece Fall Jackets for Women Lightweight Warm Outwear Winter Coat $16.49",
+  "reason": "Posted at $16.49, but Amazon showed $29.69 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T14:48:04.197792Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Ainope 3.3' Right Angle USB-A to USB-C Cable (2-Pack) $3.89",
+  "reason": "Posted at $3.89, but Amazon showed $5.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T14:48:04.197792Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Blackview DCM5 Dual 14\" 1080p IPS Panel Monitor Laptop Screen Extender $185.34",
+  "reason": "Posted at $185.34, but Amazon showed $235.89 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T14:48:04.197792Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "KIWIBIRD Mini Travel Water Flosser Cordless with UVC Light $23.75",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T14:48:04.197792Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "80s & 90s Kids, This One’s for You! Disney VHS Throw Blankets Just $19.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T14:48:04.197792Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Apple iPhone 14 Pro Deep Purple (Refurbished - Scratch & Dent) with 2 Year Warranty $384.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T14:48:04.197792Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Cert. Refurb: Dyson V8 Origin Extra Cordless Vacuum Blue $170 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T14:48:04.197792Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "(NEW) Samsung Galaxy Z Flip7 FE Smartphone - 256GB (Unlocked) $569.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T14:48:04.197792Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "iPhone Charger Fast Charging USB C Charger Block Type C Charging iPad Chargers with 6FT C Chargers Cord Compatible with iPhone 14/14 Pro Max/13/12/12 Pro/11, iPad $6.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T14:48:04.197792Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "COOFANDY Men's Knit Hooded Sweatshirt Long Sleeve Drawstring Waffle Hoodies Pullover with Kanga Pocket $14.99",
   "reason": "Posted at $14.99, but Amazon showed $27.06 when we checked — the deal is probably over",
   "rejected_at": "2026-09-08T14:42:31.153915Z",
