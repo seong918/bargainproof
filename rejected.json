@@ -1,6 +1,102 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "GROWATT 3686Wh Extra Battery for HELIOS 3600 Portable Power Station, LiFePo4 Expansion Battery, 9 DC Outlets for Cell Phone, PC, Tablets or Other Devices, $1098.99",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T09:19:55.296294Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DEWALT ATOMIC 20V MAX Cordless Brushless Compact 1/4 in. Impact Driver, (2) 20V 1.3Ah Batteries, Charger, and Bag, $119, FS, Home Depot",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T09:19:55.296294Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ecozy Nugget Ice Maker Countertop, 40Lbs/Day Chewable Pebble Ice, TDS Meter $179.98",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T09:14:17.948397Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Lenovo ThinkBook 14 Core Ultra 5 225U 14\" 2-in-1 Laptop PC for $1,000 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T09:14:17.948397Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Lenovo IdeaPad 5i Core Ultra 5 225U 16\" 2-in-1 Laptop for $650 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T09:14:17.948397Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M12 12-Volt Lithium-Ion Cordless 10 oz. Adhesive and Caulk Gun w/M12 12V Lithium-Ion CP High Output 2.5 Ah Battery Pack, $149, FS, Home Depot",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T09:14:17.948397Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Count Briignite Dimmable Plug-In Night Lights w/ Dusk-to-Dawn Sensor (30/60/100 Lumens) $5.99 ($3 each) + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-08T09:08:38.830632Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "11.6\" Brightever Motion Sensor Outdoor Lights Fixture (Black) $24.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+4) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-08T09:08:38.830632Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Samsung Galaxy Buds 4 Pro AI Wireless Earbuds (2026) for $155 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T09:08:38.830632Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Kaigerr Intel i3 15.6\" Laptop for $360 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T09:03:02.416550Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Seabourn 10-Night Chilean Fjords Cruise for From $16,828 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T09:03:02.416550Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Vasagle Electric Standing Desk for $88 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T09:03:02.416550Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "SAMSUNG 24\" ViewFinity S6 (S60D) Series QHD High Resolution Computer Monitor, 100Hz, HDR10, Multiple Ports w/ HDMI, DisplayPort, USB-A, Easy Setup, Height Adjustable Stand $199.99",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-08T08:57:27.963340Z",
