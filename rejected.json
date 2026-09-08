@@ -1,5 +1,45 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Vintage Turkish Oushak 4x7-Foot Hand-Knotted Wool Area Rug for $105 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T10:15:31.686355Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "George Men's 100% Cotton Short Sleeve Slub Pocket Tee (Various) from $4.20 + Free S&H w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T10:15:31.686355Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$54.99: American Lawn Mower 1304-14GC 14\" 5-Blade Reel Mower with Grass Catcher at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T10:15:31.686355Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Dragons: Dawn of New Riders (Nintendo Switch) $13 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T10:15:31.686355Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bosch 18V Compact Brushless 1/2\" Drill/Driver Kit + 2Ah Battery, Charger & Bag $79.00 + Free Shipping",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-08T10:15:31.686355Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Borderlands 4 (PS5) $29 + Free S&H w/ Prime or $35+",
   "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
