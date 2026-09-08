@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[AC] $27.74 | Fisher-Price Soothe ‘n Snuggle Otter Plush Baby Toy at Amazon",
+  "reason": "Posted at $27.74, but Amazon showed $35.20 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T15:04:45.690539Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ekouaer 2 Pack Pajama Sets for Women Long Sleeves Lounge Set Jogger Pants $19.99",
+  "reason": "Posted at $19.99, but Amazon showed $33.29 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T15:04:45.690539Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Round Trip San Diego to Oahu or Maui Hawaii Nonstop Airfares on Alaska or Southwest Airlines $291.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T15:04:45.690539Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Qdoba Mexican Eats Catering Order for $30 off $150",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T15:04:45.690539Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "AsperX 20,000mAh 45W Portable Charger for $20 w/ Prime + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T15:04:45.690539Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "9-Night Prague, Vienna & Budapest Flight, Hotel, and Tour Vacation for From $4,996 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T15:04:45.690539Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Light Therapy Lamp Only $19.99 Shipped on Amazon (Great for Changing Seasons)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T15:04:45.690539Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Avidlove Women Lace Crop Top V Neck Long Sleeve Sheer Lace Fringe Hem Tops $6.99",
   "reason": "Posted at $6.99, but Amazon showed $13.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-08T14:59:12.251873Z",
