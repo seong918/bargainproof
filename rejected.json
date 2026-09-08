@@ -1,6 +1,150 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Cuisinart CNTB-422 Simply Grilling Nonstick Grilling Basket $14.99 + Free S&H w/ Prime or $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-08T16:06:02.466857Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS] $0.94* | 10-ct BIC BIC Round Stic Xtra Life Ballpoint Pens (Black, 1.0mm / Medium Point) at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-08T16:06:02.466857Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Bob's Red Mill Organic Thick Rolled Oats 4-Pack $14.74",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:06:02.466857Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "AMNOW Water-resistant 32L 36-Cans Soft Cooler Insulated Backpack $11.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:06:02.466857Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Gold Bond Healing Hydrating Lotion With Aloe 5.5 oz $3.69",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:06:02.466857Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "3-Pack 18-Oz Harry's Solstice Men's Body Wash (Solstice Mandarin & Musk) $12.62",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:06:02.466857Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "2-Pack Wegear 30W USB-C GaN III Wall Charger w/ Cables $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:06:02.466857Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Artificial Hanging Flower Baskets 2-Pack $29.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:06:02.466857Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "2-Pack Wegear 30W Dual-Port GaN USB-C & USB-A Wall Charger $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:06:02.466857Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Cellucor Cor-Performance Creatine Monohydrate 12.69-Oz (72 Servings) $10.44",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:06:02.466857Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Kellogg's Raisin Bran Original Giant Size Breakfast Cereal 27.1 oz $4.28",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:06:02.466857Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Deer Stopper II 32-oz. Bottle for $10 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:06:02.466857Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Suncast Tremont 8x10-Foot Resin Outdoor Storage Shed for $1,103 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:06:02.466857Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "7-Night Italy Flight, Hotel, and Tour Vacation for From $4,196 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:06:02.466857Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Stand Up Weed Puller Tool w/ 46\" Long Handle for $8 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:06:02.466857Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "13.78 in. 120 lbs. / 24H Full Size Cube Commercial Freestanding Ice Maker with 20 lbs. Storage Bin in Stainless Steel $225.64",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:06:02.466857Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "EBYCCO & DAHON 26\" C9 Peak 2000W 48V 20Ah 32MPH Step Through electric bike Ebike $769",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:06:02.466857Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "1.6 cu. ft. GE 1000W Over-the-Range Microwave (Stainless Steel) $229.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:06:02.466857Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon Grocery, Chamomile Herbal Tea Bags, 20 Ct~$1.89 With S&S @ Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-08T16:00:27.319248Z",
