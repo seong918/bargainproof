@@ -1,6 +1,118 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "TP-Link USB to Ethernet Adapter (UE306), 1Gbps Gigabit RJ45 to USB 3.0 Network Adapter $9.93",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T05:13:28.017940Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$25.99* | Anker 622 Portable 5,000mAh MagSafe Foldable Power Bank w/ Stand & Side USB-C at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T05:13:28.017940Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Lotus Biscoff - Cookie Butter Spread - Creamy -non GMO - Vegan- 105.8oz Pail~$28.05 @ Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T05:13:28.017940Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – VRURC 10,000mAh Portable Charger w/ Built-In Cables & Wall Plug - $16.99 w/ Code",
+  "reason": "Community score too low (+2) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-08T05:07:52.087031Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – 12-Pack Foldable Dermaplane Face Razors - $3.99 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-08T05:07:52.087031Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – VANCASTLE Decorative Outdoor Garden Fence - $12 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-08T05:07:52.087031Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Criuage Running Hydration Vest Backpack w/ 2L Bladder - $23.20 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-08T05:07:52.087031Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – NORACORA Women's V-Neck Long-Sleeve Tops - $6.49–$6.99 w/ Code",
+  "reason": "Community score too low (+2) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-08T05:07:52.087031Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Compustar - 1-Way Remote Start System - Installation Included - Black $329.99 Bestbuy.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T05:07:52.087031Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Therabody - SmartGoggles (2nd Generation) - Heated Eye & Temple Massage For Relaxation, Headache Relief & Sleep - Black $179.99 Bestbuy.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T05:07:52.087031Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$29.99 | Echo Show 5 (2nd Gen, 2021) Smart display with Alexa at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T05:07:52.087031Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Insignia™ - 28 in. Wide 14.2 Cu. Ft. Top-Freezer Refrigerator with ENERGY STAR Certification - Stainless Steel $449.99 Bestbuy.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T05:07:52.087031Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Panasonic - Countertop Microwave Oven, 900W, 0.9 Cu. Ft., Sensor Cook and Reheat, 10 Power Levels - NN-SB44QS - Black Stainless Steel $94.99 Bestbuy.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T05:07:52.087031Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "bella PRO - MultiBrew 12-Cup Drip & Single-Serve Coffee Maker - Black Stainless $59.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T05:07:52.087031Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon – DEGLASERS 16.8V Cordless Drill Kit - $22.49 w/ Code",
   "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-08T05:02:16.934181Z",
