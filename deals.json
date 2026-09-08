@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "b6ffa5b35f15",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19984425-2-pack-wegear-30w-usb-c-gan-iii-wall-charger-w-cables-black-or-white-9-99-4-99-each-free-shipping-w-prime-or-on-35",
+  "title": "2-Pack Wegear 30W USB-C GaN III Wall Charger w/ Cables (Black or White) + or on",
+  "raw_title": "2-Pack Wegear 30W USB-C GaN III Wall Charger w/ Cables (Black or White) $9.99 ($4.99 each) + Free Shipping w/ Prime or on $35+",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 999,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "prime",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-08T00:45:28.991231Z"
+ },
+ {
   "deal_id": "30eedb3c0900",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19984599-gorilla-grip-cat-litter-box-mat-coiled-mesh-trapping-mats-24x17-gray-9-99",

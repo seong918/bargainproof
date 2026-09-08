@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$28 FS AMAZON AC Wavytalk Hair Dryer with Diffuser, Blown Away Ionic Hair Dryer for Curly Hair with Comb, 1875W Fast Drying Blow Dryer with Ceramic Technology,",
+  "reason": "Posted at $28.00, but Amazon showed $49.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T00:45:28.991231Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Beistle Glittered Microphone - Silver $3.35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T00:45:28.991231Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Suitmeister Men's Light-Up Christmas Suit for $35 + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T00:45:28.991231Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas Men's or Women's Busenitz Vintage Shoes (Aurora Coffee / Wonder Clay / Gum) $35.70 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T00:45:28.991231Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "AMC $50 Gift Card for $40",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T00:45:28.991231Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Popeyes Louisiana Kitchen Offer: 2-Pc Signature Chicken or 3-Pc Tenders Big Box $6",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T00:39:52.862909Z",
