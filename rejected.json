@@ -1,5 +1,21 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Sportsroyals Adjustable Dip Bar for Home,400lbs Cap Calisthenics Equipment $36.53",
+  "reason": "Posted at $36.53, but Amazon showed $62.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T23:13:43.702560Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Open-Box 2nd-Gen. Polaroid Go Instant Film Camera for $50 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T23:13:43.702560Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "WorkPro 2-in-1 48\" Workbench & Cabinet Combo w/ Light for $98 + free shipping",
   "reason": "Not evaluated",
