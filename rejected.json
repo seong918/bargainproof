@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Borderlands 4 (PS5) $29 + Free S&H w/ Prime or $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-08T10:09:55.249490Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "6-Pack 27-Gallon Sterilite Large Storage Bins w/ Snap-On Lid (Black & Yellow) $48 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T10:09:55.249490Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "124-Pc LEGO Creator 3 in 1 Turtle w/ a Water Lily Flower (31377) $8 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T10:09:55.249490Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Kellogg's Raisin Bran Crunch Giant Size Breakfast Cereal 24.5 oz $4.38 or less",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-08T10:04:21.144841Z",
