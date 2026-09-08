@@ -1,6 +1,126 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Hoikwo 4 Pack Hollow Out Solar Lights Outdoor Waterproof $17.99",
+  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-08T15:27:01.619286Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Talix 100W 10000mAh 3-in-1 Power Bank with Built-in USB-C Cable $17.49",
+  "reason": "Posted at $17.49, but Amazon showed $29.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T15:27:01.619286Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "AsperX 45W 10000mAh Smart Display Power Bank with Retractable USB-C Cable $19.99",
+  "reason": "Posted at $19.99, but Amazon showed $35.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T15:27:01.619286Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Vucchini 9-Oz Oil & Vinegar Dispenser $6.47",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T15:27:01.619286Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Solar Rope Lights Outdoor Waterproof 33FT 100 LED $7.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T15:27:01.619286Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Nesugar G3 Portable Travel Clothes Steamer $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T15:27:01.619286Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "WOSPORTS Golf Rangefinder with Slope 1200-yard $30.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T15:27:01.619286Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Goldfish Disney Pixar Toy Story Cheddar Cheese Crackers 6.6-Oz $4.65",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T15:27:01.619286Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Avont 2-in-1 Inflatable Dog Recovery Cone w/ Clear Shield $16.79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T15:27:01.619286Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Carl's Jr. Build Your Own Bag for $6 + shipping varies",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T15:27:01.619286Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Candle Warmer Lamp w/ Timer & Extra Bulbs Only $9.99 on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T15:27:01.619286Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Sony ECMW2BT Omnidirectional Wireless Bluetooth Microphone (Black) $84.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T15:27:01.619286Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "6-Pack: Steam & Go Laundry Sheets (180 sheets / 360 loads) $24 + FS",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T15:27:01.619286Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "512GB SanDisk GamePLAY microSD Express Card (Works w/ Switch 2) $98 or less + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T15:27:01.619286Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Under Armour Men's Assert 11 Road Running Shoes (Khaki/White, 8.5,10.5,11.5,12,13) $37.99 + Free Shipping $75+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T15:27:01.619286Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$3.32 S&S AMZ mio Unwind Liquid Water Enhancer w Magnesium, Berry Dragonfruit, 1.62 fl oz Bottle",
   "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-08T15:21:27.932290Z",
