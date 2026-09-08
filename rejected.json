@@ -1,6 +1,102 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Kellogg's Raisin Bran Crunch Giant Size Breakfast Cereal 24.5 oz $4.38 or less",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T10:04:21.144841Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "UnCruise 8-Night Baja California Whales & Sealife Adventure for From $14,800 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T10:04:21.144841Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Falkon 9\" Stainless Steel Shoe Horn for $5 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T10:04:21.144841Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "HiiFeuer Medieval Faux Leather Single Pauldron Shoulder Armor w/ Thigh & Leg Armor for $127 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T10:04:21.144841Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Reebok Men's and Big Men's Swiftmotion Hooded Woven Jacket (Sizes S-3XL) Sleet $14.92, Black $14.97 + Free S&H w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T10:04:21.144841Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[S&S] $12.74: Luzianne Decaffeinated Iced Tea Bags 24 Count (Pack of 6)",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-08T09:58:55.855779Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$39.39: Ergodyne GloWear 8384 Orange Large High Visibility Reflective Winter Safety Jacket (Lime or Orange, Various Sizes)",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T09:58:55.855779Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Rosetta 5-in-1 15 White Noise Sounds Dual Lens Galaxy Star Projector (58 Lighting Effects) $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T09:58:55.855779Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "SUNLU Silk Pla+ 3D Printer Filament 1.75mm Bundle (Gold, Silver, Black, Red, 4kg) $41.39",
+  "reason": "Posted at $41.39, but Amazon showed $0.28 when we checked — the post is stale",
+  "rejected_at": "2026-09-08T09:58:55.855779Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Rain-Mate Windproof Compact Portable Folding Travel Umbrella (Various Colors) $9.46",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T09:58:55.855779Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Pixel Panda Men's Lightweight Touchscreen Control Anti-Slip Hiking Gloves $6.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T09:58:55.855779Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Hoffree Gaming Office Message Chair for $120 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T09:58:55.855779Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "luvamia Women's Long Sleeve Distressed Button-Down Denim Jackets (Various) from $14.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-08T09:53:19.644546Z",
