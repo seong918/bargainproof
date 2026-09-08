@@ -1,5 +1,45 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Adidas Excel 34L School Backpack (White) $24.54 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+3) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-08T20:22:06.009101Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Gyroor H40 180W Electric Kids Scooter (10mph Max Speed) $89.99",
+  "reason": "Posted at $89.99, but Amazon showed $199.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T20:22:06.009101Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Fender Custom Shop Electric Guitars $2,905.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T20:22:06.009101Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Cole Haan ZERØGRAND Stitchlite Wingtip Oxford Sneaker for $60 + free shipping w/ $89",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T20:22:06.009101Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Star Trek III: The Search for Spock 40th Anniversary Steelbook (4K UHD + Blu-ray) $16.25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T20:22:06.009101Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Dri Duck Crossroad Shirts 3-Pack $12.50",
   "reason": "Not evaluated",
