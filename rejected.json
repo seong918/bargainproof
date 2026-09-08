@@ -1,5 +1,53 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Dfpdfp 1.9\"x82' Caution Tape Halloween Decoration Adhesive $2.49",
+  "reason": "Posted at $2.49, but Amazon showed $9.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T14:36:57.090769Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Wavlink USB4 130W 4K Display USB-C Docking Station with Cooling Fan $99.99",
+  "reason": "Posted at $99.99, but Amazon showed $139.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T14:36:57.090769Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Marsail Adjustable Armless Vanity Chair with Wheels $39.99",
+  "reason": "Posted at $39.99, but Amazon showed $68.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T14:36:57.090769Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "NFL Jerseys Sale at Fanatics: Up to 70% off + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T14:36:57.090769Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "UK Bonitoys 15.6\" Laptop Screen Extender for $129 w/ Prime + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T14:36:57.090769Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Acer Aspire 16\" Copilot+ Touch Laptop (Core Ultra 9 288V, 32GB RAM, 1TB SSD) $900",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T14:36:57.090769Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "ORGSTA Label Maker Machine with Tape, 3 Inch Bluetooth Label Printer T003 $20 AC + Free Shipping",
   "reason": "Posted at $20.00, but Amazon showed $39.99 when we checked — the deal is probably over",
