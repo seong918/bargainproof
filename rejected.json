@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Physician's CHOICE Probiotics for Women - 50 Billion CFU - 30 CT $11.25",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T02:26:22.751896Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "AUTO-VOX Solar Wireless Backup Camera w/ 7.2\" HD Split-Screen Monitor, Dual Antenna & 1080P Color Night Vision $71.99 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T02:20:46.058966Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "EVH Wolfgang WG Standard or QM Electric Guitars $449 + Free S/H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T02:20:46.058966Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Darn Tough Men's Heavyweight Hunting Socks $24",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T02:20:46.058966Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "12 Pack HW 9 Volt Rechargeable Batteries, USB-C Lithium $32.40 + Free Shipping w/Prime or $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-08T02:15:09.400765Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Code Vein II (PlayStation 5) - $25 @ Walmart",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T02:15:09.400765Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Ibanez GSR205B 5-String Electric Bass Guitar $200, AW54CE Cutaway Dreadnought Acoustic Electric Guitar $220 + Free S/H $199.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T02:09:33.606231Z",
