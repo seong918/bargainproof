@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$13.59 S&S Q: ReaLime 100% Lime Juice, 8 fl oz bottle (Pack of 12),",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-08T14:53:38.412023Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "4 in 1 Dual Type C Multi Charging Cable, Charging Cord for Multiple Devices $7.67",
+  "reason": "Posted at $7.67, but Amazon showed $13.95 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T14:53:38.412023Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Bandai Hobby Pokémon Lugia Model Kit $11.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T14:53:38.412023Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Cole Haan American Classics Hampton Loafers for $100 + free shipping w/ $99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T14:53:38.412023Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Stooder 11\" Folding Step Stool for $14 w/ Prime + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T14:53:38.412023Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Razer DeathAdder Essential Gaming Mouse for $15 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T14:53:38.412023Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Huge 9′ Cedar Garland Only $26.99 on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T14:53:38.412023Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$12.84 S&S Clip Q: 4 x Mr & Mrs T Original Bloody Mary Mix, 1 Liter Plastic Bottle",
   "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-08T14:48:04.197792Z",
