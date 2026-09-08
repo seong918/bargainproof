@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "ece0b4245ec6",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19989147-40-99-fs-amazon-choice-of-3-wood-colors-sauder-beginnings-3-shelf-bookcase-bookshelf",
+  "title": "AMAZON (choice of 3 wood colors) Sauder Beginnings 3-Shelf Bookcase, Bookshelf",
+  "raw_title": "$40.99 FS AMAZON (choice of 3 wood colors) Sauder Beginnings 3-Shelf Bookcase, Bookshelf",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B00NOXX89A",
+  "deal_total_cents": 4099,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 4099,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 4099,
+  "amazon_url": "https://www.amazon.com/dp/B00NOXX89A",
+  "amazon_checked_at": "2026-09-08T22:19:11.268051Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 0,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B00NOXX89A",
+  "image_url": null,
+  "published_at": "2026-09-08T22:19:06.699769Z"
+ },
+ {
   "deal_id": "fd4cd528b06d",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19989135-60-fs-amazon-furologee-kitchen-bakers-rack-with-power-outlet-coffee-stand-with-storage-4-tiers-coffee-bar-station-with-a-31-5-inch-larger-desktop-and-8-s-hooks",
