@@ -1,5 +1,125 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$247: Charbroil Performance Series 4-Burner Gas Grill Cabinet with Side Burner, Black(463253925) at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T18:30:43.322329Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "990-Pc LEGO City: Airplane, Service Truck, & Hovercraft Mix & Match Remix (60505) $56.23 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T18:30:43.322329Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Handheld 2 Pack Rechargeable Video Walkies Talkies, for Age 3–12 Girls & Boys (Blue & Pink) $14.99",
+  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T18:30:43.322329Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Bragg 64.02oz Organic Apple Cider Vinegar with the Mother $8.08",
+  "reason": "Posted at $8.08, but Amazon showed $8.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T18:30:43.322329Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "BAND-AID Brand Pro Heal Hydrocolloid Bandages, Assorted, 14ct $7.84",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T18:30:43.322329Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ticonderoga Pencils 180 Count $18.83",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T18:30:43.322329Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "34'' Square Folding Card Table - 2 Pcs $79.79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T18:30:43.322329Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Lysol All-Purpose Disinfecting Wipes 4-Pack 80-Count (Mango + Linen + 2x Lemon) $12.08",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T18:30:43.322329Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Golf Mat 36mm, 5x4ft/6x4ft Dual-Turf $129.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T18:30:43.322329Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Portable Carpet Upholstery Cleaner $54.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T18:30:43.322329Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "La Tourangelle 8.45-oz. Basil Oil for $5.48 via Sub & Save + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T18:30:43.322329Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Universal Car Jack Kit for $28 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T18:30:43.322329Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Hisense - 65\" Class S7 Canvas Series Smart Google TV 4K QLED Smart Google TV with Hi-Matte Display and UltraSlim Wall Mount (2026) $997.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T18:30:43.322329Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "AppleTV Cowboy Bebop (Complete - English) - $4.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T18:30:43.322329Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Samsung EDU/EPP: 27\" OdysseyG80HF Dual Mode 5K/180Hz or QHD/360Hz IPS Monitor (2026) $420 + Free S&H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T18:30:43.322329Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Telescopic Camping Light $44.09",
   "reason": "Not evaluated",
