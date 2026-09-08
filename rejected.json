@@ -1,5 +1,53 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Amazon - Smart Watch for Women/Men for iPhone & Android, Make Call, 1.85\" AMOLED Screen - $19.19",
+  "reason": "Posted at $19.19, but Amazon showed $41.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T00:28:40.010630Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "LEGO Creator 3-in-1 Retro Gaming Console for $16 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T00:28:40.010630Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nike Women's Air Jordan 1 Mid Shoes (Hibiscus/Hibiscus, 6.5-8) $56.98 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T00:28:40.010630Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Stanley Classic Legendary Vacuum Bottle 1.1 qt (Hammertone Green/Lake) $27 + Free S&H w/ Prime or $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-08T00:23:00.672135Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Target Pet Toys & Accessories Sale: Buy 1 get 1 30% off + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T00:17:24.268275Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas Women's Cloudfoam Cuxxion Sock Shoes (Various) $34.30 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T00:17:24.268275Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Citizen Men's Eco-Drive Boba Fett 44mm Watch for $268 + free shipping",
   "reason": "Not evaluated",
