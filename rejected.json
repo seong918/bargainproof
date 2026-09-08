@@ -1,5 +1,69 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "COOFANDY Men's Knit Hooded Sweatshirt Long Sleeve Drawstring Waffle Hoodies Pullover with Kanga Pocket $14.99",
+  "reason": "Posted at $14.99, but Amazon showed $27.06 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T14:42:31.153915Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "PINSPARK Men's UPF 50+ Quick Dry Sleeveless Athletic Tank Tops (various) $7",
+  "reason": "Posted at $7.00, but Amazon showed $12.34 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T14:42:31.153915Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Our Adventure Awaits Glass Engagement Ornament for $6 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T14:42:31.153915Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Cole Haan Men's 4.ZERØGRAND Penny Loafers for $110 + free shipping w/ $99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T14:42:31.153915Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Fanatics Free Shipping Promo Code: Free Shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T14:42:31.153915Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "UNITE Hair 7SECONDS Detangler Only $20 Shipped on Amazon (Reg. $43)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T14:42:31.153915Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SJK Daybreak 4 3-Season 4-Person Tent (Green) $75 + Free Shipping $89+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T14:42:31.153915Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Round Trip Miami to Grand Cayman Island $287 Nonstop Airfares on American Airlines BE (Travel October 2026 - June 2027)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T14:42:31.153915Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Dfpdfp 1.9\"x82' Caution Tape Halloween Decoration Adhesive $2.49",
   "reason": "Posted at $2.49, but Amazon showed $9.99 when we checked — the deal is probably over",
