@@ -1,5 +1,21 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Men's Colorblock Geometric Waffle Polo Shirt for 2 for $16 + $18 shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T13:52:42.220850Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Anker Prime 26,250mAh 300W Power Bank for $180 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T13:52:42.220850Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Amazon – MONGERY Nintendo Switch 2 Carrying Case, Black - $9.80",
   "reason": "Posted at $9.80, but Amazon showed $18.99 when we checked — the deal is probably over",
