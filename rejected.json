@@ -1,6 +1,78 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[Resale] $93.96 | Google Nest Doorbell (Wired, 3rd Gen) - 2K Video, Live View - 2025 - Hazel (Used - Like New) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T07:44:38.473145Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Richard Pryor: Here and Now (4K UHD + Digital) $16.04 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-08T07:44:38.473145Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Etenwolf L2 Rechargeable USB-C LED Flashlight for $10 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T07:44:38.473145Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] SEESII 21V Cordless Jig Saw w/ 2-Pack 2.0Ah Batteries & Charger $39.89 + Free Shipping",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-08T07:39:01.391268Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "2026-W 1916 Gold Mercury Dime & Silver Medal 2pc Set NGC SP70 ER Blue Label for $970 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T07:39:01.391268Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Frito-Lay Classic Mix Variety 21-Pack for $8.92 via Sub. & Save + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T07:39:01.391268Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Vevor 10\" Wall Mounted Attic Exhaust Fan for $34 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T07:39:01.391268Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ryobi ONE+ 18V Cordless Hybrid 7-1/2 in. Fan with 2.0 Ah Lithium-Ion HIGH PERFORMANCE Battery $59.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T07:39:01.391268Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ridgid 18V Brushless Cordless 4-Mode 1/2 in. High-Torque Impact Wrench Kit with (2) 4.0 Ah Lithium-Ion Batteries and Charger $199",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T07:33:23.546890Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[Prime] 8-Pack LETMY Solar Pathway Lights Outdoor $17.99 + Free Shipping",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-08T07:27:44.172523Z",
