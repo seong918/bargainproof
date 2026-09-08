@@ -1,5 +1,53 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "5-Pack The Children's Place Girls' Toddler Cartwheel Shorts (18-24 Months) $6.88 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-08T21:51:14.218188Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LG 5.0 cu. ft. Mega Capacity Smart Front-Load Washer w/ TurboWash 360° & Built-In Intelligence $1,199.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T21:51:14.218188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Adidas Men's Washed Loose Fit Fleece Hoodie $16.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T21:51:14.218188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "YouTheFan NFL Logo Series Deskpad for From $23 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T21:51:14.218188Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Halloween Treat Bags 24-Pack w/ Stickers Just $4 on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T21:51:14.218188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$29.99 Sale for South Park: Seasons 1-10 Bundle",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T21:51:14.218188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "YouTheFan NFL Dallas Cowboys 3D Stadium Drink Coasters for From $12 + free shipping w/ Prime",
   "reason": "Not evaluated",
