@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "f62672910998",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19986129-11-99-five-nights-at-amazon",
+  "title": "Five Nights",
+  "raw_title": "$11.99* | Five Nights at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0G2MV2ZB2",
+  "deal_total_cents": 1199,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 1199,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1199,
+  "amazon_url": "https://www.amazon.com/dp/B0G2MV2ZB2",
+  "amazon_checked_at": "2026-09-08T07:50:21.125421Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0G2MV2ZB2",
+  "image_url": null,
+  "published_at": "2026-09-08T07:50:12.722174Z"
+ },
+ {
   "deal_id": "16afaf7c6e19",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19986126-19-99-franklin-sports-outdoor-fun-5-combo-set-at-amazon",

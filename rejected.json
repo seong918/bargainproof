@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Ingersoll Rand QCN2P12Q4 Cordless Clutch Tool $484.75",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T07:50:12.722174Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$540* | APC Smart-UPS 1500VA Lithium Ion UPS, SMTL1500RM3UCNC at Amazon",
+  "reason": "Posted at $540.00, but Amazon showed $1,895.00 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T07:50:12.722174Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Cordless Leaf Blower w/ 2 Batteries & Charger for $60 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T07:50:12.722174Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Walmart Precious Metals and Coins Flash Deals for From $9.99 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T07:50:12.722174Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Star Trek Bundle: 13 movies, 4 complete series $54",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T07:50:12.722174Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[Resale] $93.96 | Google Nest Doorbell (Wired, 3rd Gen) - 2K Video, Live View - 2025 - Hazel (Used - Like New) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-08T07:44:38.473145Z",
