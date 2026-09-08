@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Sprinkler Timer for Garden Hose, Water Timer with Rain Delay, Fits Standard 3/4\" $19.25",
+  "reason": "Posted at $19.25, but Amazon showed $33.25 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T17:12:56.584480Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "YoungsTex Floral Linen-Blend Curtain Panels $11.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:12:56.584480Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Kobalt 24V 4 Ah Lithium-ion Battery 2-Pack for $79 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:12:56.584480Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Frito-Lay 21-Count Variety Pack Just $8.92 Shipped on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:12:56.584480Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Spooky, Cute & Just $5! Target’s Halloween Birds Have Landed",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:12:56.584480Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Round Trip Los Angeles to Kaohsiung Taiwan $780 Airfares on United Airlines BE with 1 Free Checked Bag (Travel January - May 2027)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:12:56.584480Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Best Buy: DESLOC B200 Smart Lock Keyless Entry Fingerprint Deadbolt with Handle/Lever Set Black $79.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:12:56.584480Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[SnS] $23.75 | 32-Oz DevaCurl No-Poo Original Non-Lathering Cleanser at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-08T17:07:22.092554Z",
