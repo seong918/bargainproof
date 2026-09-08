@@ -1,6 +1,118 @@
 [
  {
   "source": "dealcatcher",
+  "raw_title": "Adidas Women's Adizero SL2 Running Shoes Core Black/Cloud White/Grey Five $38.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T20:05:22.414336Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Epiphone Les Paul Custom Bats in Flight Electric Guitar for $749 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T20:05:22.414336Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "9-Night Peru Flight, Hotel, and Tour Vacation for From $8,698 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T20:05:22.414336Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Agio Menlo Woven Patio Swing $499.99 Free Shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T20:05:22.414336Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LEGO Disney Moana’s Adventure Canoe Fantasy Toy Boat Building Set 43270 $23.69",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T20:05:22.414336Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "(pair) Energy CF-50 Floorstanding Speakers $199 + Free S/H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T20:05:22.414336Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Reyoll 2-in-1 Men's Ceramic Blade Waterproof Body Hair Trimmer $11.99",
+  "reason": "Posted at $11.99, but Amazon showed $19.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T19:59:47.294976Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Frigidaire 24\" Built-In Top Control Dishwasher w/ MaxDry & DishSense $399.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T19:59:47.294976Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Apple iPhone 14 Pro Deep Purple (Refurbished - Scratch & Dent) $384.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T19:59:47.294976Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Dyson V8 Origin Extra Cordless Vacuum Blue $169.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T19:59:47.294976Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "SJK Daybreak 4 3-Season 4-Person Tent $75.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T19:59:47.294976Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Sterling by Music Man StingRay RAY34 Electric Bass Guitar for $550 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T19:59:47.294976Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Pierson 76” Bookcase $99.99 free shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T19:59:47.294976Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Pk Milwaukee 7\" Rafter Square $19.95 + Free S&H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T19:59:47.294976Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
   "raw_title": "iPhone Charger Fast Charging USB C Charger Block with 6FT C Chargers Cord $6.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T19:54:13.941715Z",
