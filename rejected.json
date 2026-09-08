@@ -1,6 +1,86 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$10.08 Amazon La Moderna Spaghetti Pasta 7 oz, Pack of 20",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T15:15:54.111658Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Blink Outdoor 4 and Battery Doorbell 2K+ (newest model) — Two-year battery 1080p cameras and 2K battery doorbell. Sync Module Core included — 2 Cameras + Doorbell (Black) $71",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T15:15:54.111658Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Lumivoid Electric Toothbrush & Water Flosser 2-in-1 Oral Care Kit $14.46",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T15:15:54.111658Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Uniball 207 Plus+ Gel Pens, Black Ink, 0.7mm Medium Point, 12 Count $11.38",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T15:15:54.111658Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Granicell 16-Pack NiMH Rechargeable AA Batteries 1.2V $10.45",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T15:15:54.111658Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Dillard's Summer Clearance Event: Up to 65% off + free shipping w/ $150",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T15:15:54.111658Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GOOLOO A2 Jump Starter with Air Compressor (2000A & 150 PSI) - 12V Vehicle $37 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T15:15:54.111658Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Round Trip Houston TX - Memphis TN or Vice Versa $117 Nonstop Airfares on United Airlines BE (Travel October 2026 - March 2027)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T15:15:54.111658Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "3-Pack Armor All Dent Pullers (1x 4.5\" 55lb Car Dent Puller + 2x 2.4\" Mini 16.5lb Pullers) $11.22 + Free Shipping w/ Walmart+ or $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T15:15:54.111658Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men Supernova Ease Shoes $40 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T15:15:54.111658Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "4/$6.76 PRIME ONLY S&S Amazon Grocery, Chamomile Herbal Tea Bags, 20 Ct (80 total)",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-08T15:10:19.947280Z",
