@@ -1,5 +1,37 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$6.99* | 65-pc LEGO City Police Motorcycle Chase Building Toy (60455) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T23:29:51.146111Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Vantrue Power T150 Compressed Air Duster for $30 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T23:29:51.146111Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Sunny Health & Fitness Resistance Tube Set for $28 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T23:29:51.146111Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Bella 12-Piece Non-Stick Cookware Set for $25 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T23:29:51.146111Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "East Oak Cordless Electric Lunch Box for $63 + free shipping",
   "reason": "Not evaluated",
