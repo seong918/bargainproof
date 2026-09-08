@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "21592ae4f5ad",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19966611-ac-14-99-snap-circuits-flight-deck-stem-toy-paper-airplane-launcher-ages-8-at-amazon",
+  "title": "SNAP CIRCUITS Flight Deck STEM Toy, Paper Airplane Launcher, Ages 8",
+  "raw_title": "[AC] $14.99 | SNAP CIRCUITS Flight Deck STEM Toy, Paper Airplane Launcher, Ages 8+ at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0CSZD5FCY",
+  "deal_total_cents": 1499,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 2495,
+  "amazon_coupon_cents": 996,
+  "amazon_effective_cents": 1499,
+  "amazon_url": "https://www.amazon.com/dp/B0CSZD5FCY",
+  "amazon_checked_at": "2026-09-08T23:19:03.795881Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0CSZD5FCY",
+  "image_url": null,
+  "published_at": "2026-09-08T23:18:59.650640Z"
+ },
+ {
   "deal_id": "76239b4550d1",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19988400-amazon-jmuq-halloween-scratch-masks-craft-kit-for-kids-4-99-w-code",
