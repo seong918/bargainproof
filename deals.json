@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "8372f5d4eef9",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19987221-sns-4-08-4-pack-12-oz-c4-performance-energy-drink-frozen-bomb-at-amazon",
+  "title": "4-Pack 12-Oz C4 Performance Energy Drink (Frozen Bomb)",
+  "raw_title": "[SnS] $4.08* | 4-Pack 12-Oz C4 Performance Energy Drink (Frozen Bomb) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 408,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-08T16:33:55.929894Z"
+ },
+ {
   "deal_id": "b7a97379534a",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19987788-anker-nano-laptop-docking-station-13in1-dock-with-detachable-6in1-usbc-hub-111-99",

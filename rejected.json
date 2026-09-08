@@ -1,6 +1,166 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS, AC] $4.48* | 5.25-Oz Catalina Crunch Protein Snack Mix (Honey Mustard) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-08T16:33:55.929894Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Seasky Foldable Anti-Tipping Garden Kneeler & Seat w/ Soft Kneeling Pad $16.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:33:55.929894Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "6\" QDAN Dog Soccer Ball w/ Straps (Halloween) $8.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:33:55.929894Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "ARHAIKA 60-Count 4-Color Snap Fastener Tool Kit $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:33:55.929894Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ecozy Nugget Ice Maker Countertop 40Lbs/Day $179.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:33:55.929894Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Borderlands 4 (PS5) $29.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:33:55.929894Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "JR.WHITE Dual Tip Acrylic Paint Markers 36-Colors $7.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:33:55.929894Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Hocus Pocus Character Pillow & Blanket Sets Just $24.96 on SamsClub.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:33:55.929894Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "COZEWARE Visio Series 12000 BTU 230V 20 SEER2 Ductless Mini Split AC w/ Heat Pump $380 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:33:55.929894Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ACEMAGIC M5 Mini PC i7-14650HX up to 5.2GHz 16GB DDR4 1TB NVMe PCIe4.0 SSD $567",
+  "reason": "Posted at $567.00, but Amazon showed $629.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T16:28:20.435811Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Workpro 20-in-1 3.6V Rechargeable Precision Electric Screwdriver Kit $13.99",
+  "reason": "Posted at $13.99, but Amazon showed $27.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T16:28:20.435811Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "PESUTEN 16\" Wireless Battery-Operated Picture Light w/ Remote $13.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:28:20.435811Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "BOOVO 6-Layer Large Jewelry Box (Pearl White) $24.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:28:20.435811Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LETMY Solar Pathway Lights Outdoor 8-Pack $17.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:28:20.435811Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "SpongeBob SquarePants Kids' Onesie Premium Costume Bodysuit (Patrick, Medium) $7.46",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:28:20.435811Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Fanttik F2 Master Cordless Engraving Pen with 20 Bits & LED Work Light $39.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:28:20.435811Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men Lite Racer Adapt 7.0 Shoes (Cloud White / Core Black / Cloud White) $28",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:28:20.435811Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$19.99 Sale for Poker Face: The Complete Series",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:28:20.435811Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "8' Vitalismo Artificial Indoor Olive Tree in Black Basic Pot $93.79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:28:20.435811Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Elongated ADA Smart Toilet Bidet 1.28 GPF in White, Blackout Flush, Off-Seat Auto Flush, Heated Seat, Warm Air Dryer $486",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:28:20.435811Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Incline Treadmill Foldable, Smart Portable Treadmills for Home with Body Fat Measurement $298.99",
   "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
   "rejected_at": "2026-09-08T16:22:45.565864Z",
