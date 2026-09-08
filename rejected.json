@@ -1,6 +1,78 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS] $10.44 | 12.69-Oz Cellucor Cor-Performance Creatine Monohydrate (72 Servings) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-08T08:18:15.923674Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "16-Lb Kibbles 'n Bits Small Breed Mini Bits Savory Beef & Chicken Dry Dog Food $8.23 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-08T08:18:15.923674Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "32-Piece MulWark Precision Hobby Knife Set w/ Interchangeable Blades & Sharpening Stone $11.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-08T08:18:15.923674Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Aqueon Aquarium Silicone Sealant Clear, 3 Ounces $8.54 or less",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T08:18:15.923674Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "3-Pack 18-Oz Harry's Solstice Men's Body Wash (Solstice Mandarin & Musk) $12.62 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-08T08:12:38.898483Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Swingline Cub Compact Metal Desktop Stapler (Red) $6.85 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-08T08:07:01.421158Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "3-in-1 Mini Bag Sealer w/ Cutter & Flashlight for $15 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T08:07:01.421158Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$14.99 | Minions Despicable Me 4 Ultimate Fart Blaster Toy at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T08:07:01.421158Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$7.49 | 48-Piece Tile Town Pet Vet Magnetic Tiles Set w/ Sound and Lights at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T08:07:01.421158Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Sog seal commander / box $288.6",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-08T08:01:24.827676Z",
