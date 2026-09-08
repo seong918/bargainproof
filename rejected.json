@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "luvamia Women's Long Sleeve Distressed Button-Down Denim Jackets (Various) from $14.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-08T09:53:19.644546Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[S&S] $14.74: 4-Pack Bob's Red Mill Organic Thick Rolled Oats, 32oz",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-08T09:53:19.644546Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Pack EDX Zero Gravity Outdoor Lounge Chairs (Black) $54.87 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T09:53:19.644546Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "BOSCH CO21 21-Piece Assorted Set with Included Case Cobalt Metal Drill Bit with Three-Flat Shank for Drilling Applications in Stainless Steel, Cast Iron, Titanium $60.53",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-08T09:47:47.420478Z",
