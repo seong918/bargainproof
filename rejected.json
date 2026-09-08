@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "G5 Pro Travel Steamer For Clothes, 110-240V Portable Handheld Irons $26.69",
+  "reason": "Posted at $26.69, but Amazon showed $53.10 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T17:24:03.277619Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Foldable Dermaplane Face Razors 12-Pack $3.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:24:03.277619Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Canon MegaTank PIXMA G3272 Wireless All-in-One Printer for $159 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:24:03.277619Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$14.99 Sale for Are You Afraid of the Dark? (1992): The Complete Series",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:24:03.277619Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$3.99 | Everything You Need to Ace Geometry in One Big Fat Notebook (Big Fat Notebooks) (Kindle eBook) by Workman Publishing, Christy Needham",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:24:03.277619Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "20L Maelstrom Insulated Lunch Bag w/ Quick Access Lid & Leakproof Lining (Grey/Beige) $11.99 + Free Shipping w/ Prime or $6 Fee per Order",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:24:03.277619Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "COMHOMA Big & Tall Ergonomic Gaming Chair w/ Footrest (Black) $128.80 + Free S&H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:24:03.277619Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$106.29 or less get $45 Amazon Credit 4 x Swaddlers Diapers, Size 2 (10-22 lbs), 84 Count,",
   "reason": "Posted at $106.29, but Amazon showed $27.97 when we checked — the post is stale",
   "rejected_at": "2026-09-08T17:18:30.365559Z",
