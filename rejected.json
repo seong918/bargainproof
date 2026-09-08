@@ -1,6 +1,118 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[AC] $27.68* | 4 × 42-ct Gain Flings Washing Detergent Pods w/ Odor Defense + Color Guard ($6.92 each) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T17:51:55.513472Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Honizer 10-in-1 20W 6-Outlet 4' Wrap Cord Cruise Approved Travel Power Strip $13.19",
+  "reason": "Posted at $13.19, but Amazon showed $21.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T17:51:55.513472Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Lokithor BC2 6V/12V Adjustable Car Battery Charger & Automatic Maintainer $19.94",
+  "reason": "Posted at $19.94, but Amazon showed $26.95 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T17:51:55.513472Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Fanbulous 72 Inch 6-Speed Ceiling Fan with Lights $80.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:51:55.513472Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Gyroor Kids Electric Scooter 150W Motor LED Display H30Max Blue $79.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:51:55.513472Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Airesky Full Size 3 Inch Gel Memory Foam Mattress Topper $49.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:51:55.513472Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "COLOER Brass Landscape Spotlights Outdoor 5W MR16 $17.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:51:55.513472Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Niphean 10' Inflatable Paddle Board $99.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:51:55.513472Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "AIGLUN LED Halloween Mask Gesture Sensing, 50 Patterns $19.19",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:51:55.513472Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Casio Men's World Time Watch w/ Resin Strap for $20 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:51:55.513472Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Persil Laundry Detergent ONLY $2.88 After Walmart Cash",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:51:55.513472Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ASUS ROG G700 Gaming Desktop PC: Intel Ultra 7 265KF, RTX 5060, 32GB DDR5, 1TB SSD $1199",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:51:55.513472Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "‎$16.99 Sale for Brotherhood: The Complete Series",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:51:55.513472Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Levoit Core 400S-P Smart Air Purifier for Large Rooms (White) $171 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:51:55.513472Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[SnS, AC] $17.92 | 8-Pack 10-Count Nuun Daily Hydration Energy Electrolyte Tablets (Berry Blast) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-08T17:46:20.895913Z",
