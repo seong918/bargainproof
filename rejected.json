@@ -1,5 +1,21 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$12.83* | 1-Lb Augason Farms Dehydrated Diced Bell Peppers Can at Amazon",
+  "reason": "Community score too low (+4) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T22:35:26.287028Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "VIZIO VQD65R-10 65\" 4K QLED HDR UHD Smart TV for $328 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T22:35:26.287028Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Nickelodeon Paw Patrol Silicone Watch w/ Flashlight for $2 + free shipping w/ $35",
   "reason": "Not evaluated",
