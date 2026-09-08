@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Snomd Digital Oral Thermometer (DT007) $3.59 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-08T12:04:48.373420Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "7-Night Peru Flight, Hotel, and Tour Vacation for From $3,996 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T12:04:48.373420Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GoFit Massage Polar Exercise Roller, Cold Rolling Ball for Post-Workout Massage Recovery & More $7.49 + Free Shipping on $25+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T12:04:48.373420Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$5.99* | Mattel Games UNO Junior Marvel Spidey & His Amazing Friends Card Game at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-08T12:04:48.373420Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[AC] $10 | Innqoo Candle Warmer Lamp w/ Timer at Amazon",
   "reason": "Posted at $10.00, but Amazon showed $19.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-08T11:59:16.053641Z",
