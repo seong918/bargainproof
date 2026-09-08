@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "S&S -Q YMMV 3-Pk 50-Oz Seventh Generation Hand Dish Wash Refill (Free & Clear) $12",
+  "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-08T12:32:02.819547Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Acemagic M5 i7 14650HX Mini PC for $567 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T12:32:02.819547Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "8x42 HD Binoculars ED Glass, BAK4 Prism, Waterproof & Fogproof for Bird Watching $122.31",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T12:32:02.819547Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "VIKIO 30\" 300 CFM Ductless Under Cabinet Range Hood for $83 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T12:26:45.797673Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "CRA-Z-Slimy Mini Mania Grocery 10-Piece Set Only $11 on Amazon (Reg. $22)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T12:26:45.797673Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "GRACE KARIN Womens Boho Mesh Tops Long Sleeve Dressy Blouse $7.42",
   "reason": "Posted at $7.42, but Amazon showed $13.49 when we checked — the deal is probably over",
   "rejected_at": "2026-09-08T12:21:20.885895Z",
