@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$24.09 AMAZON Fiskars 30-Gallon Kangaroo Collapsible Pop Up Garden Bag for Yard Waste",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T04:17:41.569350Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Undertale (PC Game) $2.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T04:17:41.569350Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Nike Sale Assortment of Shoes Under $50 $49.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T04:06:40.207300Z",
