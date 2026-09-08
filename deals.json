@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "7bf0d9f836af",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19988757-14-49-star-trek-lower-decks-season-3-blu-ray-at-amazon",
+  "title": "Star Trek: Lower Decks - Season 3 (Blu-ray)",
+  "raw_title": "$14.49 | Star Trek: Lower Decks - Season 3 (Blu-ray) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0BSNT1QF3",
+  "deal_total_cents": 1449,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 1449,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1449,
+  "amazon_url": "https://www.amazon.com/dp/B0BSNT1QF3",
+  "amazon_checked_at": "2026-09-08T20:16:35.113094Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0BSNT1QF3",
+  "image_url": null,
+  "published_at": "2026-09-08T20:16:30.724467Z"
+ },
+ {
   "deal_id": "f871b3db873f",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19988727-229-49-citizen-unisex-eco-drive-dress-classic-eco-watch-at-amazon",
