@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "ed78ade0de0d",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19988538-19-58-weezer-blue-album-vinyl-lp-at-amazon",
+  "title": "Weezer: Blue Album (Vinyl LP)",
+  "raw_title": "$19.58* | Weezer: Blue Album (Vinyl LP) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B01L2ZS87S",
+  "deal_total_cents": 1958,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 1958,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1958,
+  "amazon_url": "https://www.amazon.com/dp/B01L2ZS87S",
+  "amazon_checked_at": "2026-09-08T19:26:29.347530Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 4,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B01L2ZS87S",
+  "image_url": null,
+  "published_at": "2026-09-08T19:26:24.205422Z"
+ },
+ {
   "deal_id": "6464953fe523",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19968126-209-99-27-lg-27g64na-b-ultragear-g6-qhd-2560-x-1440-ips-gaming-monitor-at-amazon",
