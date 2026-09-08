@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "fff616a2bf44",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19985871-1349-15-apple-macbook-air-laptop-with-m5-chip-16gb-ram-512gb-ssd-midnight-at-amazon",
+  "title": "15″ Apple MacBook Air Laptop with M5 chip (16GB RAM, 512GB SSD, Midnight)",
+  "raw_title": "$1349 | 15″ Apple MacBook Air Laptop with M5 chip (16GB RAM, 512GB SSD, Midnight) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0GR114BV7",
+  "deal_total_cents": 134900,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 134900,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 134900,
+  "amazon_url": "https://www.amazon.com/dp/B0GR114BV7",
+  "amazon_checked_at": "2026-09-08T06:20:41.757007Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0GR114BV7",
+  "image_url": null,
+  "published_at": "2026-09-08T06:20:37.849641Z"
+ },
+ {
   "deal_id": "7da1cd636e1d",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19985859-1-39-2-pack-5-inch-westcott-hard-handle-kids-scissors-blunt-assorted-colors-at-amazon",
