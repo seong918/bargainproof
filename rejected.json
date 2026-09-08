@@ -1,6 +1,230 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[AC] $10 | Innqoo Candle Warmer Lamp w/ Timer at Amazon",
+  "reason": "Posted at $10.00, but Amazon showed $19.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T11:59:16.053641Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "The Rise and Fall of the Dinosaurs: A New History of a Lost World eBook $0.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T11:59:16.053641Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "The Rise and Fall of D.O.D.O. eBook $1.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T11:59:16.053641Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Plays Well with Others: The Surprising Science Behind Why Everything You Know About Relationships Is (Mostly) Wrong (eBook) $1.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T11:59:16.053641Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Island (eBook) $1.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T11:59:16.053641Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Goodfellas 4K Ultra HD + Blu-ray $13.08",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T11:59:16.053641Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Simple Joys by Carter's Neutral 2-pack Fleece Footed Sleep and Play, Milk and Cookies, 6-9M $16.47",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T11:59:16.053641Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "J-pone Tummy Control Underwear for Women High Waisted Cotton Underwear 5-Pack $9.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T11:59:16.053641Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Yamaha FS-TA Concert Size Transacoustic Guitar w/ Chorus and Reverb, Vintage Tint $479.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T11:59:16.053641Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Dyson Ball Animal Origin Upright Vacuum $199.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T11:59:16.053641Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Augason Farms Cheese Sauce Mix Emergency Food Supply 87 Servings $16.22",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T11:59:16.053641Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "LXZ Ryzen 5 4500 Radeon RX 6500 XT Desktop PC for $608 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T11:59:16.053641Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Brawny Paper Towels 6-Count Double Rolls Just $10 Shipped on Amazon (Reg. $29)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T11:59:16.053641Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Visible Mobile: Samsung Galaxy S22 128GB 6.1\" FHD+ AMOLED Smartphone w/ $200 Gift Card $816",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T11:59:16.053641Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$14.22: Manhattan Toy Snuggle Pod Hunny Bunny Beige First Baby Doll with Cozy Sleep Sack",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T11:53:55.587781Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$125.60: R1 Concepts Front Brake Kit Fits 2017-2020 Hyundai Elantra",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T11:53:55.587781Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Game Day Eagles Inspired Shirts $16.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T11:53:55.587781Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ingersoll Rand QCN2P12Q4 Cordless Clutch Tool $484.75",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T11:53:55.587781Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Fiskars 30-Gallon Kangaroo Collapsible Pop Up Garden Bag $24.09",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T11:53:55.587781Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "The Mother Tongue: English and How it Got that Way eBook $1.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T11:53:55.587781Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Dispossessed, The [50th Anniversary Edition] eBook $1.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T11:53:55.587781Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Blade Runner: Final Cut 4K UHD/BD $14.81",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T11:53:55.587781Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Survival Wisdom & Know How: Everything You Need to Know to Thrive in the Wilderness Kindle eBook $2.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T11:53:55.587781Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Akira 4K UHD $11.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T11:53:55.587781Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "The Illustrated Man: An Essential Classic eBook $1.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T11:53:55.587781Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Seveneves: A Novel eBook $1.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T11:53:55.587781Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "She-Ra and the Princesses of Power: Seasons 1-3 DVD $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T11:53:55.587781Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "$150 Discord Gift Card for $140 + email delivery",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T11:53:55.587781Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Echo PB-580t Backpack Leaf Blower $349",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T11:48:39.677288Z",
