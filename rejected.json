@@ -1,6 +1,46 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "Acer Aspire Go 15 Ryzen 7 5825U 15.6\" Laptop for $700 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T11:38:07.610078Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$151.99* | 1135-Pc LEGO Technic Lamborghini Revuelto Super Sports Car Toy w/ Remote Control at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-08T11:38:07.610078Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "HZG M500 Ryzen 5 5600 Radeon RX 6600 Gaming Desktop PC for $769 w/ $35 Newegg Gift Card + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T11:32:52.940987Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Keychron P6 Ultra - $143.99 (Amazon)",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T11:27:36.383237Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Green Hell",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T11:22:19.739791Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
   "raw_title": "$200 Nintendo eShop Gift Card for $174 + email delivery",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T11:17:04.567843Z",
