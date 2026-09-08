@@ -1,6 +1,358 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS, AC] $17.92 | 8-Pack 10-Count Nuun Daily Hydration Energy Electrolyte Tablets (Berry Blast) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-08T17:46:20.895913Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "DESLOC C110 Fingerprint Keyless Entry Door Lock with Visual Display $29.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:46:20.895913Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Scrubbing Bubbles Toilet Bowl Cleaner Kit Only $5.98 Shipped on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:46:20.895913Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Hurry! Walmart Clearance Dresses from Only $5",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:46:20.895913Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "MERACH Stair Stepper, Black, Compact Foldable Vertical Climber $69.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:46:20.895913Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Sanmadrola Waterproof Anti-Slip Sofa Slipcover (Dark Gray) $22.92 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:46:20.895913Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nesmar G4 Pro Clip Travel Steamer for Clothes, 110-240V Portable Steamer $22.69",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:46:20.895913Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Avatar 3 Movie Bundle $27.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:46:20.895913Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SHINE WELL Leg Recovery Compression System, Professional Foot and Leg Air Compression Boots $119",
+  "reason": "Posted at $119.00, but Amazon showed $259.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T17:40:47.161899Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Pinspark Men's Lightweight Quick Dry Joggers (Various Sizes) $11.99",
+  "reason": "Posted at $11.99, but Amazon showed $26.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T17:40:47.161899Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Dawn Platinum Plus Lemon Scent Dish Spray 16-Oz $2.29",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:40:47.161899Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Kesguar Portable Charger 20000mAh 22.5W PD Fast Charging Power Bank Built-in Cable Metal Case $13.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:40:47.161899Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "J.Crew Factory Short-Sleeve Textured Camp Shirt for Men for $21 + free shipping w/ $75",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:40:47.161899Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon Essentials Sling Bag (White/Black) $20.30 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:40:47.161899Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$97.67 or less get $45 Amazon Credit 1620 ea (3 x 540) WaterWipes Sensitive+ Newborn & Baby Wipes, 3-In-1 Cleans, Cares, Protects, 99.9% Water,",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:40:47.161899Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Mama Bear Baby Wipes Unscented 800 Count $15.64",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:35:12.088085Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Jada Toys Back to The Future Part III 1:32 Time Machine Die-cast Car $11.80",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:35:12.088085Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Total Tea Super Greens Powder Mango Spirulina Chlorella $8.48",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:35:12.088085Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "35.27-Oz Animal Creatine Monohydrate Powder (Unflavored) $25.47",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:35:12.088085Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Silonn Nugget Ice Maker Countertop 44 lbs/Day $229.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:35:12.088085Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Walmart Has The CUTEST Infant Halloween Costumes (Styles from $4.97!)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:35:12.088085Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Loaded / Steam Sale: RoboCop: Rogue City $3.09; Trine 5: A Clockwork Conspiracy $8.39; Cuphead $11.59 & More (PC Games)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:35:12.088085Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$2.99 | Science Year by Year: The Ultimate Visual Guide to the Discoveries that Changed the World (DK Definitive Visual Histories) (Kindle eBook) by DK",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:35:12.088085Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Levoit LVAC-300 Cordless Stick Vacuum Cleaner $206.98 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:35:12.088085Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$2.99 | Classic Car: The Definitive Visual History (DK Definitive Transport Guides) (Kindle eBook) by DK",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:35:12.088085Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Prime: 2-Ct Briignite Dimmable LED Plug-In Night Light w/ Dusk-to-Dawn Sensor from $5.45 & More + Free S&H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:35:12.088085Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$109 or less get $45 Amazon Credit 5 x Pampers Diapers - Cruisers 360° - Size 5, 56 Count",
+  "reason": "Posted at $109.00, but Amazon showed $22.97 when we checked — the post is stale",
+  "rejected_at": "2026-09-08T17:29:38.323784Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Iwela Water Plantar Fasciitis Pain Relief High Arch Support Insoles (Size-XL) $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $29.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T17:29:38.323784Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Bedsure 3-In-1 Travel Blanket Set with Inflatable Neck Pillow & Eye Mask $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $19.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T17:29:38.323784Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "RayNeo GT Max AR/XR Glasses 267\" 59° FOV Native 3DoF Audio by B&O $399.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:29:38.323784Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ninja NeverDull 17-Pc Knife Block Set $299.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:29:38.323784Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Hisense 65\" 4K 144Hz Mini-LED Fire TV $599.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:29:38.323784Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Shure MoveMic 88+ Wireless Stereo Microphone for iPhone & Android with 4 Polar Patterns $132.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:29:38.323784Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "BOOST High Protein with Fiber Complete Nutritional Drink 24-Pack 8-Oz $22.15",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:29:38.323784Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Directive 8020 Deluxe Edition (Xbox Series X) $39.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:29:38.323784Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "KYEHD 3-Pack 10' 60W USB C to USB C Fast Charging Cable $3.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:29:38.323784Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Uineer 2.4GHz Wireless USB Mouse w/ Adjustable DPI $7.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:29:38.323784Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "J.Crew Factory Clearance Sale: Up to 50% off + extra 70% off + free shipping w/ $75",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:29:38.323784Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Dealworthy 175-Count College Ruled Loose Leaf Paper: 89 cents + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:29:38.323784Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Kobalt 24V 1/2\" Keyless Brushless Cordless Drill w/ Battery & Charger for $79 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:29:38.323784Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "J.Crew Berkeley Large Suede Shoulder Bag for $119 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:29:38.323784Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "New Disney Christmas Wrapping Paper Just $6 at Target",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:29:38.323784Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "TRESemmé Shampoo & Conditioner Just $3.97 After Walmart Cash",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:29:38.323784Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Timberland Men's Westmore Casual Suede Boots $22.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:29:38.323784Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "G5 Pro Travel Steamer For Clothes, 110-240V Portable Handheld Irons $26.69",
   "reason": "Posted at $26.69, but Amazon showed $53.10 when we checked — the deal is probably over",
   "rejected_at": "2026-09-08T17:24:03.277619Z",
