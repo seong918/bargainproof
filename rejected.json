@@ -1,6 +1,198 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Makita 9903 3\" x 21\" Belt Sander $209.85 + Free S&H at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-08T21:28:56.065836Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "151-Piece LEGO Star Wars Clone Shock Trooper Mech Building Toy $11.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-08T21:28:56.065836Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LC-dolida Fence Mount w/ Sun & Rain Visor for GoPro, DJI, Insta360 & Smartphones $9.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T21:28:56.065836Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "10000mAh Cruise Approved Magnetic Fan $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T21:28:56.065836Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Kenya Small-Group Safari Tour Package: 8 Nights w/ Flights $4,449.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T21:28:56.065836Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Soundcore Liberty 5 Pro Noise Cancelling Wireless Earbuds $149.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T21:28:56.065836Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Frito-Lay Classic Mix Variety Pack (21-Pack) $7.87",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T21:28:56.065836Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Tiumso 30-Count Microfiber Duster Refills $12.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T21:28:56.065836Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Large Microfiber Hair Towel Wrap 3-Pack $11.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T21:28:56.065836Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "CutteeyFyry Kids' Travel Paint by Number Sticker Activity Book 2-Pack $6.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T21:28:56.065836Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Star Trek Original Series Women's Costume for $19 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T21:28:56.065836Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "USB-C 4 Cable for Thunderbolt 3 Cable with 100W/40Gbp Charging(6.6FT) $4.15",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T21:28:56.065836Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "278-Piece LEGO Super Mario Interactive LEGO Mario & Kart (72043) $41.99 + Free Shipping",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T21:23:21.540271Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Orico 10-in-1 Apple Mac Mini M4 & M6 Desktop Docking Station (M.2 SSD Slot, 4K HDMI, Card Reader, More) $24.99",
+  "reason": "Posted at $24.99, but Amazon showed $49.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T21:23:21.540271Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Wegear Quiet 2.4GHz Wireless Keyboard & Mouse Combo $11.49",
+  "reason": "Posted at $11.49, but Amazon showed $19.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T21:23:21.540271Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "STOODER 11\" Folding Step Stool $14.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T21:23:21.540271Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "URMYWO Kids' Foil Art Craft Kit w/ 10 Princess Scenes $7.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T21:23:21.540271Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Amazon Basics Disappearing Purple Washable School Glue Sticks 480-Count 0.24-Oz $68.04",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T21:23:21.540271Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "NEW Ototo Glass Halloween Tumblers w/ Straws Just $14.99 on Target (Reg. $25)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T21:23:21.540271Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "3 IN 1 Multi Charging Cable, Phone Chargers for Multiple Devices, 2Pack 4FT $4.94 AC + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T21:23:21.540271Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Pre-Order: Nintendo Switch Sports Resort (Nintendo Switch 2 Edition) $49.94 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T21:23:21.540271Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Samsung EDU/EPP Unlocked Galaxy Z fold8 256 GB plus $400 for accessories $1504",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T21:23:21.540271Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$24.99 Sale for Schitt's Creek: The Complete Series",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T21:23:21.540271Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LEGO Disney Moana 2 Kakamora Barge Set 43258 572-piece $39.59 + Free Shipping - eBay",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T21:23:21.540271Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "808-Piece LEGO Speed Champions Formula 1 Vehicle Set w/ Drivers (76924, Mercedes-AMG G 63 & Mercedes-AMG SL 63 F1) $28.49 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-08T21:17:47.223820Z",
