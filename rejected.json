@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "BOSCH CO21 21-Piece Assorted Set with Included Case Cobalt Metal Drill Bit with Three-Flat Shank for Drilling Applications in Stainless Steel, Cast Iron, Titanium $60.53",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T09:47:47.420478Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Suzume Extra Long 180-Degree Flexible Head Ratcheting Wrench Set (6-Piece, 8-19mm) $36.32",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T09:47:47.420478Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Mitclear 2-in-1 Heavy-Duty Curved Weed Puller Tool with 58\" Long Handle $9.89",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T09:47:47.420478Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Draco Lighters Pistol Shape Butane Torch Lighter for $27 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T09:47:47.420478Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[Prime] 3-Port TALIX 12800mAh 125W Laptop Power Bank w/ 240W USB-C Cable $21.99 + Free Shipping",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-08T09:42:11.125289Z",
