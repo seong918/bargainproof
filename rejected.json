@@ -1,5 +1,53 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Nike Women's Pacific Leather Sneakers (Sail/Off Noir-Safety Orange) $35.99 + Free Shipping $60+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T01:47:06.482604Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Care Bears™ by PieceRelax 3D Puzzle Coin Bank - Birthday Bear - Office and Home Decoration Made By 84 Curved Plastic Puzzle Pieces, Unique Gifts for Puzzle Lovers [C1091] $10.99",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T01:41:29.609449Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ORAFLIP Sonic Electric Toothbrush 40,000 VPM, 5 Modes, 6 Brush Heads & Inductive Charging Base (Black) $24 + Free S/H $30",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T01:41:29.609449Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SANSI 120W Dual-Wavelength Red Light Therapy Panel w/ 660nm & 850nm LEDs $113.99 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T01:41:29.609449Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Cimetech Ergonomic Wireless Mouse in Grey $3.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T01:41:29.609449Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Samsung Galaxy Buds4 Pro - First Responder Discount $162.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T01:41:29.609449Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "adidas Men's Messi Training Jersey for $16 + free shipping w/ $39",
   "reason": "Not evaluated",

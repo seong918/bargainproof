@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "41adf91b7189",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19983873-goodfellas-4k-ultra-hd-blu-ray-13-08-amazon-com",
+  "title": "Goodfellas (4K Ultra HD + Blu-ray) Amazon.com",
+  "raw_title": "Goodfellas (4K Ultra HD + Blu-ray) $13.08 Amazon.com",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1308,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-08T01:47:06.482604Z"
+ },
+ {
   "deal_id": "2754b2ca8f96",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19984908-8-08-s-s-amazon-bragg-organic-apple-cider-vinegar-with-the-mother-64-oz-raw-unfiltered",
