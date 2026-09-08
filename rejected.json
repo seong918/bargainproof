@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Victory '45: The End of the War in Eight Surrenders $1.99",
+  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-08T08:35:04.568072Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "238-Pc LEGO Minecraft The Baby Pig House Building Set (21268) $12.79 + Free Shipping w/ Prime or on orders over $35",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-08T08:29:28.680163Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Dog Allergy Relief Soft Chews - Skin & Gut Health, Chicken, 90 Ct $8.94",
+  "reason": "Posted at $8.94, but Amazon showed $15.65 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T08:29:28.680163Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Utron 60pc Clear Plastic Coin Capsules w/ Adjustable Gasket for $7 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T08:29:28.680163Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "12-Pack JOFIOS Solar Powered Fence Lights w/ 9 Colors & 12 Lighting Modes (Black) $36.89 + Free Shipping $36.98",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T08:23:52.060323Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "6-Pack Bounty Mega Paper Towels $18.96 w/ S&S + Free Shipping w/ Prime or on orders over $35",
+  "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-08T08:23:52.060323Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "150 Coin Wrappers & 4 Sorter Tubes for $9 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T08:23:52.060323Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[SnS] $10.44 | 12.69-Oz Cellucor Cor-Performance Creatine Monohydrate (72 Servings) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-08T08:18:15.923674Z",
