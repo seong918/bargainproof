@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Sog seal commander / box $288.6",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T08:01:24.827676Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Plug In Night Light Silicone Animals $19.79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T08:01:24.827676Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Pokemon Card Deals at eBay for Extra 20% off $60+ + shipping varies",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T08:01:24.827676Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "71-in-1 Cordless Electric Screwdriver Repair Tool Set for $24 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T08:01:24.827676Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "As Fairy Seamless Mesh Jelly Support Full Coverage Bra $9.97 + Free Shipping w/ prime or orders $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-08T07:55:48.366567Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Yamaha FS-TA Concert Size Transacoustic Guitar w/ Chorus and Reverb, Vintage Tint $479.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T07:55:48.366567Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "10-Piece T2-T15 Torx Screwdriver Set w/ Case for $10 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T07:55:48.366567Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Ingersoll Rand QCN2P12Q4 Cordless Clutch Tool $484.75",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-08T07:50:12.722174Z",

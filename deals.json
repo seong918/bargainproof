@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "c80785868d4b",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19986147-7-99-violent-night-collector-s-edition-blu-ray-dvd-digital-hd-at-amazon",
+  "title": "Violent Night - Collector's Edition (Blu-ray + DVD + Digital HD)",
+  "raw_title": "$7.99* | Violent Night - Collector's Edition (Blu-ray + DVD + Digital HD) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0BN58XKMM",
+  "deal_total_cents": 799,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 799,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 799,
+  "amazon_url": "https://www.amazon.com/dp/B0BN58XKMM",
+  "amazon_checked_at": "2026-09-08T08:01:29.081833Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0BN58XKMM",
+  "image_url": null,
+  "published_at": "2026-09-08T08:01:24.827676Z"
+ },
+ {
   "deal_id": "f62672910998",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19986129-11-99-five-nights-at-amazon",
