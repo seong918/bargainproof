@@ -1,6 +1,134 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "233-Pc LEGO Minecraft Chicken Farm (21585) $16 + Free Shipping w/ Prime or on orders over $35",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-08T18:41:49.408410Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Origlive 16.9oz Rapid Ceramic Paint Sealant Kit $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $17.79 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T18:41:49.408410Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Samsung Galaxy Z Flip7 FE Smartphone 256GB $569.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T18:41:49.408410Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "2-Qt Paris Hilton Enameled Cast Iron Heart-Shaped Dutch Oven w/ Lid (Cream) $16.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T18:41:49.408410Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "4-Pack 12-Oz C4 Performance Energy Drink (Frozen Bomb) $4.29",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T18:41:49.408410Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Apple AirPods Pro 3 Wireless Earbuds with Active Noise Cancellation $199.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T18:41:49.408410Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Bluey Books Advent Calendar Only $14.99 on Amazon (Reg. $30)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T18:41:49.408410Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "My Texas House Outdoor Rugs from $39.97 Shipped on Walmart.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T18:41:49.408410Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Borderlands 3 Ultimate Edition (Xbox One/Series X|S) Digital Code $18.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T18:41:49.408410Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Round Trip Boston - Tampa FL or Vice Versa $179 Nonstop Airfares on Delta Air Lines BE (Limited Travel October - November 2026)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T18:41:49.408410Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Gel Memory Foam Bed Pillow $8.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T18:36:16.572680Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "AstroAI Portable Tire Inflator 150 PSI Air Compressor for $18 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T18:36:16.572680Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Nike Pro Men's Dri-FIT 3/4-Length Fitness Tights for $21 in cart + free shipping w/ $50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T18:36:16.572680Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Lacoste Men's L-Spin Evo Sneakers for $70 + free shipping over $75",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T18:36:16.572680Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Acer - Certified Refurbished - 15.6\" 60hz IPS FHD FreeSync Portable Monitor PM161Q (DisplayPort, HDMI) - Black - $39.99 + Free Shipping $39.89",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T18:36:16.572680Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Linenspa Standard Ventilated Gel Memory Foam Pillow for $8 + free shipping w/ $35",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-08T18:36:16.572680Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$247: Charbroil Performance Series 4-Burner Gas Grill Cabinet with Side Burner, Black(463253925) at Amazon",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-08T18:30:43.322329Z",
