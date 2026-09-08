@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "797-Piece LEGO Minecraft Mini Biomes Building Set $47.99 + Free Shipping",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T21:06:40.194454Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Weeklong Mediterranean Cruise to Greece $1,254.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T21:06:40.194454Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "YouTube TV NFL Sunday Ticket Student Plan for $119 for Students",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T21:06:40.194454Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Acacia Elara Solid Wood Carved Wood Grain 2-Drawer Nightstand/End Table (Natural Oak) $165.81 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T21:06:40.194454Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "119-Piece LEGO Star Wars: Death/Night Trooper Battle Pack Building Set $18.39 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-08T21:01:06.504778Z",
