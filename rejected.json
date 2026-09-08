@@ -1,5 +1,53 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Kicking Horse Coffee Smart Ass Medium Roast Organic Kosher Coffee (10oz) $9.35",
+  "reason": "Posted at $9.35, but Amazon showed $15.59 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T17:01:47.674829Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Tineco FLOOR ONE i6 Stretch Wet/Dry Vacuum $259.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:01:47.674829Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Wilton Perfect Results Premium Non-Stick Fluted Tube Pan 9.51\" $10.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:01:47.674829Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Domino's Four $25 eGift Cards ($100 Value) for $80 + email delivery",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:01:47.674829Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Extra 30% Off Spanx Sale - AirEssentials Collection from $27.30",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:01:47.674829Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Select Walmart Stores: Disney Baby Boys Winnie the Pooh & Tigger Plush Slippers $1.85 [Limited Availability]",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T17:01:47.674829Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Electric Grill Brush, 4000mAh Rechargeable, Detachable Stainless Steel Head $19.99",
   "reason": "Posted at $19.99, but Amazon showed $29.99 when we checked — the deal is probably over",
