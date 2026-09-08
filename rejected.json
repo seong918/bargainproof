@@ -1,6 +1,22 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "Popeyes Big Box for $6",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T10:37:53.872389Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "AppleTV's Complete Digital TV Series: Suits, Battlestar Galactica $19.99, Daria, Rookie Blue, Leave It to Beaver, Halt and Catch Fire $14.99, Mad Men $12.99 & Many More",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T10:37:53.872389Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
   "raw_title": "LEGO Deals: Up to 70% off + free shipping w/ $35",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T10:21:03.872323Z",

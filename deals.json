@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "e98c9265428f",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19985628-sns-ac-4-59-3-6-6-oz-goldfish-disney-mickey-mouse-baked-cheddar-crackers-1-53-each-at-amazon",
+  "title": "3 × 6.6-Oz Goldfish Disney Mickey Mouse Baked Cheddar Crackers",
+  "raw_title": "[SnS, AC] $4.59* | 3 × 6.6-Oz Goldfish Disney Mickey Mouse Baked Cheddar Crackers ($1.53 each) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 459,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-08T10:37:53.872389Z"
+ },
+ {
   "deal_id": "6ce6cf20abc6",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19986363-19-58-the-offspring-greatest-hits-vinyl-lp-at-amazon",
