@@ -1,6 +1,62 @@
 [
  {
   "source": "dealcatcher",
+  "raw_title": "FunWater Kids' Inflatable Stand-Up Paddle Board 8' x 30\" $79.77",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:50:39.770681Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "AROEVE 5-in-1 High-Speed Hot Air Styler $48.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:50:39.770681Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Casper Cooling Select 12\" Memory Foam Mattress for From $470 + free delivery",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:50:39.770681Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Lowe's Mulch Sale for 4 for $10 + free pickup or $2.99 delivery",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:50:39.770681Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "LED Edison Bulb String Lights Just $29.98 Shipped on Lowes.com (Reg. $50)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:50:39.770681Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$59 ACE REWARDS PICK UP CRAFTSMAN V20 15 in. H X 8 in. D 3 speed Misting Fan TOOL ONLY",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:50:39.770681Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "FunWater Inflatable Stand-Up Paddle Board 11' x 33\" $84.99",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-08T16:50:39.770681Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
   "raw_title": "Gorilla Tough & Clear Double Sided Tape Squares 24-Count $4.97",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T16:45:05.588947Z",
