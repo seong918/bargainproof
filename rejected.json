@@ -1,6 +1,110 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$1.99 | Rework (eBook) by Jason Fried, David Heinemeier Hansson",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T06:43:06.181157Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$1.99 | The Book: On the Taboo Against Knowing Who You Are (eBook) by Alan Watts",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T06:43:06.181157Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "YMMV MaXXXine - BLURAY, Digital, 4K ULTRA HD $14.63 after 30% Off Coupon maybe region Specific",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T06:43:06.181157Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$1.99 | Dreyer's English: An Utterly Correct Guide to Clarity and Style (eBook) by Benjamin Dreyer",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T06:43:06.181157Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "OLIGHT Ostation X Smart 3-in-1 AA Battery Charger w/ 32 NiMH AA Batteries $80 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T06:43:06.181157Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ingersoll Rand W9491-K2E Cordless 1\" High-Torque Impact Wrench Kit, Includes 2 BL2022 5.0Ah Batteries and Dual-Bay Charger $1000.4",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T06:31:52.519588Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Serta Perfect Sleeper Hybrid Standard 12\" Medium Mattress, King or California King $1049.25",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T06:31:52.519588Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Barbie Dreamhouse Adventures (Nintendo Switch) $17 + Free Shipping w/ Circle Card or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T06:31:52.519588Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ASUS ROG Flow Z13 Tablet: 13.4\" 2.5K 180Hz Touch, Ryzen AI Max+ 395, 64GB LPDDR5, 1TB SSD, Radeon 8060S $2099.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T06:31:52.519588Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Shop Fox W1849 Resaw Bandsaw, 14\", White, Silver $1271.27",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T06:26:15.487600Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Shop Fox M1099 10 by 26\" Bench athe, Metal, Large $1615.49",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T06:26:15.487600Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LG gram 14-inch Thin and Lightweight Dual AI Laptop Computer, Win 11 Home, Copilot+ PC, Powered by Intel Ultra 7 355, 32GB RAM, 1TB SSD - Obsidian Black $1649.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T06:26:15.487600Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] AFLYDOG 2-in-1 Apple Watch & iPhone Wall Charger w/ Built-In Retractable Cable $9.40 + Free Shipping",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-08T06:26:15.487600Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "12-Pack 13-Oz Rachael Ray Nutrish Healthy Weight Wet Dog Food (Turkey & Pumpkin) $11.42 w/ S&S + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-08T06:20:37.849641Z",
