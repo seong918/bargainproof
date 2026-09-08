@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "GRACE KARIN Womens Boho Mesh Tops Long Sleeve Dressy Blouse $7.42",
+  "reason": "Posted at $7.42, but Amazon showed $13.49 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T12:21:20.885895Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Rockvale Adjustable Foldable Weight Bench for $50 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T12:15:48.707257Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "MSI Himalaya White 0.5-cu. ft. Bagged Landscape Pebbles for $21 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T12:15:48.707257Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ring Wired Doorbell 2K and Chime Bundle for $60 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T12:15:48.707257Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$1.99 | Creativity, Inc. (The Expanded Edition): Overcoming the Unseen Forces That Stand in the Way of True Inspiration (Kindle eBook) by Ed Catmull, Amy Wallace",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T12:15:48.707257Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Lexar 256GB Professional 1667x UHS-II V60 SDXC 2-Pack $149.99 at B&H after $130 coupon ($75/card)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T12:15:48.707257Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Rawlings Kids' R250 Player's Backpack for Softball Baseball or T-Ball (Red or Blue) $5.99 + Free Shipping on $25+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T12:15:48.707257Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "GRACE KARIN Women's White Cropped Cardigan Sweaters $9.99",
   "reason": "Posted at $9.99, but Amazon showed $19.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-08T12:10:19.722068Z",
