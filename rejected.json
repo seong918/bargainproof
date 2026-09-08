@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "CELOX Dish Brush w/ Built-In Soap Dispenser & 2 Brush Refills (2 colors) $7.81 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-08T09:25:31.151626Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Ninja Slushi Max 150oz 6-Program Frozen Drink Maker (12+ Servings) $329.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T09:25:31.151626Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Rakukiri 5' GRS Certified Galvanized Oval Rot-Resistant Metal Garden Bed $16.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T09:25:31.151626Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Barnes & Noble Vinyl Records Sale for 3 for $50 + free shipping w/ $60",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T09:25:31.151626Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "GROWATT 3686Wh Extra Battery for HELIOS 3600 Portable Power Station, LiFePo4 Expansion Battery, 9 DC Outlets for Cell Phone, PC, Tablets or Other Devices, $1098.99",
   "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-08T09:19:55.296294Z",
