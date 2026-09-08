@@ -1,6 +1,102 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS] $4.38 | 36-Count BIC Round Stic Grip Xtra Comfort Ballpoint Pens (Medium Point, Black & Blue) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-08T16:11:37.438251Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Hoikwo 4 Pack 9.6\" Vivid Metal Butterfly Wall Decor for Garden Fence $9.49",
+  "reason": "Posted at $9.49, but Amazon showed $18.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T16:11:37.438251Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Kellogg's Raisin Bran Crunch Giant Size Breakfast Cereal 24.5 oz $4.38",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:11:37.438251Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "5000LM Solar Flood Light w/ Clip Mount, Motion Sensor & 6 Adjustable Heads $22.79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:11:37.438251Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "MulWark 32-Piece Precision Hobby Knife Set $11.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:11:37.438251Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Bounty Mega Paper Towels 6-Pack $18.96",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:11:37.438251Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Vevor Dreadnought 39\" Acoustic Guitar Bundle for $68 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:11:37.438251Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "lululemon Men's Underwear We Made Too Much Specials for Single pairs from $24, multi-packs from $64 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:11:37.438251Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Pit Boss Heavy Duty BBQ Grilling Gloves for $22 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:11:37.438251Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Premium Mulch Bags Just $2.50 at Lowe’s | 100K Sold Last Week",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:11:37.438251Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Qt Paris Hilton Enameled Cast Iron Heart-Shaped Dutch Oven w/ Lid (Cream) $16.99 + Free Shipping w/ Prime or $6 Fee per Order",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:11:37.438251Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men Daily 4.0 Shoes (Various) from $28",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:11:37.438251Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Cuisinart CNTB-422 Simply Grilling Nonstick Grilling Basket $14.99 + Free S&H w/ Prime or $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-08T16:06:02.466857Z",
