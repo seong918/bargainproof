@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "4/$6.76 PRIME ONLY S&S Amazon Grocery, Chamomile Herbal Tea Bags, 20 Ct (80 total)",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-08T15:10:19.947280Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Bosgame E6 Intel Core 3 304 Mini Desktop (12GB RAM, 512GB M.2 NVMe SSD) $343.99",
+  "reason": "Posted at $343.99, but Amazon showed $429.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T15:10:19.947280Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "JUSTFASHIONNOW Women's 2-Pc Ribbed Knit Lounge Sets $11.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T15:10:19.947280Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Lenovo Legion 5a 15.3\" OLED Gaming Laptop with AMD Ryzen 7 250, NVIDIA RTX 5060, 16GB DDR5-5600, 512GB SSD $1,399.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T15:10:19.947280Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Babyeap Baby Swing with Bluetooth Control, 5 Sway Speed, 10 Lullabies, Gray $82.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T15:10:19.947280Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "AstroAI 27\" Snow Brush and Ice Scraper for $13 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T15:10:19.947280Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "On Men's Cloudboom Max Shoes (Various) $135 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T15:10:19.947280Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Soundcore by Anker Life Q20 Hybrid ANC Headphones (Black) $33.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T15:10:19.947280Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[AC] $27.74 | Fisher-Price Soothe ‘n Snuggle Otter Plush Baby Toy at Amazon",
   "reason": "Posted at $27.74, but Amazon showed $35.20 when we checked — the deal is probably over",
   "rejected_at": "2026-09-08T15:04:45.690539Z",
