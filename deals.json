@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "426f54561cc8",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19985742-sns-ac-3-59-8-pack-12-oz-bodyarmor-sports-drink-blue-raspberry-at-amazon-44-9-each",
+  "title": "8-Pack 12-Oz BODYARMOR Sports Drink (Blue Raspberry) at Amazon (44.9￠ each)",
+  "raw_title": "[SnS, AC] $3.59 | 8-Pack 12-Oz BODYARMOR Sports Drink (Blue Raspberry) at Amazon (44.9￠ each)",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 359,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 6,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-08T07:16:34.324326Z"
+ },
+ {
   "deal_id": "0b73273c4704",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19986030-49-99-2-pack-skil-pwr-core-12v-usb-c-2-0ah-battery-w-charger-at-amazon",

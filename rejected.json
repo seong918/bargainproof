@@ -1,6 +1,78 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Yamaha EAD20 Electronic Acoustic Drum Module Featuring Advanced Sound Engine with Stereo Condenser Microphone and Trigger Pickup $899.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T07:16:34.324326Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Dog Allergy Chews - Paw Licking, Seasonal Allergy & Itch Relief - Probiotics for Dogs Immune & Gut Health with Turkey Tail Mushroom, Pumpkin - Bacon Flavor - 90 Count $7.12",
+  "reason": "Posted at $7.12, but Amazon showed $14.23 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T07:16:34.324326Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Wegear GaN III Tech USB-C 30W Compact Wall Charger with Cables (2-Pack) $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $17.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T07:16:34.324326Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "2026-P American Silver Eagle NGC PF69UCAM FDI Congratulations Coins Set of 5 for $2,380 + shipping varies",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T07:16:34.324326Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Gorilla Grip 2x3-Foot Rectangular Rug Pad Gripper for $7 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T07:16:34.324326Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee BIG HAWG Carbide Hole Saw Kit (9-Piece) with PACKOUT Case $129",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T07:16:34.324326Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M12 FUEL 12V Lithium-Ion Brushless Cordless 1/4 in. Hex 2-Speed Screwdriver Kit W/(2) 2.0h Batteries & Bag $140",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T07:16:34.324326Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$140: Discord $150 Gift Card (Email Delivery) at Newegg.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T07:16:34.324326Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee Wood and Metal Cutting Oscillating Multi-Tool Blade (4-Pack) and Oscillating Multi-Tool Blade Kit (9-Piece) $44.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T07:16:34.324326Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "LEGO Star Wars R2-D2 Building Toy Set - Gift Ideas for Kids & Fans - Includes 25th Anniversary Darth Malak Minifigure - 75379 $79.99",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-08T07:11:01.817574Z",
