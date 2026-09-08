@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "ThermoPro Dual Probe Wireless BBQ & Grilling Meat Thermometer (Red, TP828BW) $29.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T01:13:31.380371Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "8\" 2-in-1 Long Handle Weed Puller Tool w/ 6-Tine Rake & Garden Hoe $9.89 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-08T01:13:31.380371Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$129.99: DUMOS King Bed Frame with Headboard Drawers, RGB Light & Charging Station at Amazon, Free Shipping",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-08T01:07:54.751849Z",
