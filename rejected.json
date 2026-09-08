@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS, AC] $28.84* | 4 × 20-Pack General Mills Classic Mix Snack Variety Pack (28-Oz Total) ($7.21 each) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-08T02:43:13.066264Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "45kHz Nrqyon Ultrasonic Retainer & Denture Cleaner Machine w/ UV Light & 200ML Stainless Steel Tank $11.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-08T02:43:13.066264Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$39.99 FS AMAZON Bonsaii 9-Sheet Crosscut Paper Shredder for Home, P-4 Security Level w 4.2 gallon basket",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T02:43:13.066264Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Waterdrop WHF3T-FG 3-Stage Whole House Water Filter System $267.29 + Free Shipping",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T02:43:13.066264Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Orvis Shotshell Leather Dog Collar $19.77",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T02:43:13.066264Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Orvis Softshell Dog Jacket $49.77",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T02:37:35.636049Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "24-Count 0.7mm Paper Mate Mechanical Pencils $3.50 w/ S&S @Amazon $305",
   "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-08T02:31:59.232875Z",
