@@ -1,6 +1,30 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "$200 Nintendo eShop Gift Card for $174 + email delivery",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T11:17:04.567843Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Oboz Men's Bangtail Mid Insulated Waterproof Hiking Boots (Charcoal, Limited Sizes) $68.83 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T11:17:04.567843Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$549.95* | JBL Bar 700MK2 Soundbar with Subwoofer, Dolby Atmos Surround - Black at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-08T11:17:04.567843Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "dealnews",
   "raw_title": "Hercule Poirot: The Complete Short Stories Kindle eBook for $1.99 w/ Prime + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T11:05:55.068177Z",
