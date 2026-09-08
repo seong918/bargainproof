@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "GRACE KARIN Women's White Cropped Cardigan Sweaters $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $19.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T12:10:19.722068Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[NEW] $6.26 | Clorox Corner Toilet Bowl Brush with Under Rim Scrubber, Includes Corner Storage Caddy, White at Amazon",
+  "reason": "Posted at $6.26, but Amazon showed $8.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T12:10:19.722068Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "John Wayne 35 movie bundle digital $34.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T12:10:19.722068Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Snomd Digital Oral Thermometer (DT007) $3.59 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-08T12:04:48.373420Z",
