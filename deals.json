@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "c86e123f022d",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19989336-swivel-vegetable-peeler-0-99",
+  "title": "Swivel Vegetable Peeler",
+  "raw_title": "Swivel Vegetable Peeler $0.99",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 99,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-08T23:51:49.851653Z"
+ },
+ {
   "deal_id": "e1ae9516c20f",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19988601-deadpool-wolverine-steelbook-4k-blu-ray-digital-42-99-regular-case-31-53-amazon-com",

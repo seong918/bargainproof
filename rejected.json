@@ -1,5 +1,29 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "[NEW] $375 | Citizen Men's Classic Calendrier Eco-Drive Watch, Moonphase Indicator, Month, Day and Date at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-08T23:51:49.851653Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Urbanista Phoenix Hybrid Active Noise Cancelling Earbuds with Solar Charging $24.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T23:51:49.851653Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Swivel Vegetable Peeler $0.99",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-08T23:51:49.851653Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "dealnews",
   "raw_title": "JBL Bar 700 7.1-Channel Soundbar System for $550 + free shipping",
   "reason": "Not evaluated",
