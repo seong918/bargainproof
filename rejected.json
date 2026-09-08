@@ -1,5 +1,29 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "[NEW] $17.99 | Canon CLI-281 XL Genuine Cyan Ink Tank at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T23:03:04.222619Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Target Hair Care & Tools Sale: Up to 40% off + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T23:03:04.222619Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "OVER 50% Off e.l.f. Lip Stain Set (Just $11.40 Shipped on Amazon!)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T23:03:04.222619Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "UGREEN Mac mini M4 Dock & Stand DP Hub for M4 / M4 Pro 2024 w/ NVMe SSD Enclosure $59.99",
   "reason": "Not evaluated",
