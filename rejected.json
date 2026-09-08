@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[NEW] $399.99 | TP-Link 5G Mobile Hotspot Tri-Band AXE3600 6E Portable Wi-Fi Router at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-08T16:17:11.937667Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$34.95* | Renegade Game Studios | Acquire Strategy Board Game at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-08T16:17:11.937667Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "COCOMARTS Jelly Bras for Women No Underwire Push Up Bra Leopard,S $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $19.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T16:17:11.937667Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Vocolinc Apple Find iOS Air Tracker Tags (4-Pack) $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $19.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T16:17:11.937667Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Automatic Litter Box $119.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:17:11.937667Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Women’s Sandals from $17.99 on Amazon (Reg. $30)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:17:11.937667Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Linenspa Standard Size Ventilated Gel Memory Foam Bed Pillow w/ Washable Cover $8.49 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:17:11.937667Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Hoover Spotless Portable Carpet & Upholstery Spot Cleaner Machine, for Carpet, Rugs, and Upholstery, 5 Oz. Pet Solution, Self Cleaning, FH11300 $65",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T16:17:11.937667Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[SnS] $4.38 | 36-Count BIC Round Stic Grip Xtra Comfort Ballpoint Pens (Medium Point, Black & Blue) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-08T16:11:37.438251Z",
