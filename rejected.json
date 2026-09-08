@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Gold Bond Healing Hydrating Lotion With Aloe, 5.5 oz $3.94",
+  "reason": "Posted at $3.94, but Amazon showed $-1.07 when we checked — the post is stale",
+  "rejected_at": "2026-09-08T12:37:17.876593Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Talix Ultra X6 Wireless Bluetooth 5.4 Open Ear Earbuds $12.50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T12:37:17.876593Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "TWO NERDS Juicy Gummy Clusters Bags Only $5.55 Shipped on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T12:37:17.876593Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Luseta Keratin Shampoo & Conditioner Set Just $15.59 Shipped on Amazon | Restores Damaged Hair",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T12:37:17.876593Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$12 FS Walmart+ by ONDOG Multi Plug Outlet - 12-Outlet Extender Surge Protector, 3 USB Ports Wall Mount for Home, Office, White",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T12:37:17.876593Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon - Soursop Graviola Liquid Drops 2 Fl Oz $7.66",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T12:37:17.876593Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "S&S -Q YMMV 3-Pk 50-Oz Seventh Generation Hand Dish Wash Refill (Free & Clear) $12",
   "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-08T12:32:02.819547Z",
