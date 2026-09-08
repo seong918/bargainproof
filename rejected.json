@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$3.32 S&S AMZ mio Unwind Liquid Water Enhancer w Magnesium, Berry Dragonfruit, 1.62 fl oz Bottle",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-08T15:21:27.932290Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Supvan E11 Keyboard & Bluetooth Rechargeable Label Maker Machine with 4 Tapes $17.99",
+  "reason": "Posted at $17.99, but Amazon showed $29.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T15:21:27.932290Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "JUSTFASHIONNOW Women's Short Sleeve Blouse $4.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T15:21:27.932290Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "TOMEEM Electric Salt and Pepper Grinder Set with Storage Base $13.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T15:21:27.932290Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "VTOMAN X7 4250A Jump Starter w/ 160 PSI Air Compressor $90.90",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T15:21:27.932290Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Gyroor H40 180W Kids' Electric Scooter for $90 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T15:21:27.932290Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Physician’s Choice Collagen Peptides Just $11.68 Shipped on Amazon (Reg. $20)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T15:21:27.932290Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$10.08 Amazon La Moderna Spaghetti Pasta 7 oz, Pack of 20",
   "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-08T15:15:54.111658Z",
