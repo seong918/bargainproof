@@ -1,6 +1,86 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Quest Nutrition Coffee Protein Shake, 30g Protein, 12 Count 4g Net Carbs, 1g Sugar, Contains Caffeine, 11 fl oz, 3 Packs of 4 Count Cartons~$19.92 With S&S @ Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-08T15:38:09.423133Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Pesken 54' 600-Lumen 2700K Waterproof Outdoor String Light $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $19.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-08T15:38:09.423133Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "GRACE KARIN Women's Boho Mesh Peplum Blouses $9.50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T15:38:09.423133Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "MERACH Adjustable Thigh Trainer $16.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T15:38:09.423133Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Amazon Echo & Alexa Devices Sale $29.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T15:38:09.423133Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Spider Webs Halloween Decorations Lights, 250 Purple LED, 16.4Ft $17.59",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T15:38:09.423133Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas Men's Adizero Prime SP 4 Shoes for $91 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T15:38:09.423133Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Journaling Pens 8-Pack Just $8 Shipped on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T15:38:09.423133Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Paw Patrol Toddler Boys' EVA Clog Sandals (Sizes 5 or 6 Only) $7.19 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T15:38:09.423133Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Deal] Reno's Full House Kindle eBook – Only $0.99 (Reg. $9.99)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-08T15:38:09.423133Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Quest Nutrition Vanilla Protein Shake, 30g Protein, 12 Count 3g Net Carbs, 1g Sugar, Creamy Vanilla Flavored Shake, 11 fl oz, 3 Packs of 4 Count Carton~$20.49 With S&S @ Amazon",
   "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-08T15:32:35.287734Z",
@@ -36258,14 +36338,6 @@
  {
   "source": "techbargains",
   "raw_title": "Adewalk 3500-Lumen Waterproof Solar Outdoor Flood Light (2-Pack) $13.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-02T11:53:51.905699Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Pesken 54' 600-Lumen 2700K Waterproof Outdoor String Light $9.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-02T11:53:51.905699Z",
   "code": "not_checked",
