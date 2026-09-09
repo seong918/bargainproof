@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "ade1eb270e98",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19991583-amazon-grace-karin-women-s-puff-short-sleeve-knit-top-6-99-w-code",
+  "title": "Amazon – GRACE KARIN Women's Puff Short Sleeve Knit Top - w/ Code",
+  "raw_title": "Amazon – GRACE KARIN Women's Puff Short Sleeve Knit Top - $6.99 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0G7H64Q5S",
+  "deal_total_cents": 699,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 1399,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1399,
+  "amazon_url": "https://www.amazon.com/dp/B0G7H64Q5S",
+  "amazon_checked_at": "2026-09-09T13:35:14.908174Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0G7H64Q5S",
+  "image_url": null,
+  "published_at": "2026-09-09T13:35:00.531832Z"
+ },
+ {
   "deal_id": "e51a49c49ef8",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19991745-139-99-1tb-verbatim-usb-c-3-2-gen-2-pocket-solid-state-drive-at-amazon",
