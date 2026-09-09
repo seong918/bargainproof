@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS, AC] $16.99* | 6-Count 5-Oz Cholula Hot Sauce Gift Set (Variety Pack) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-09T19:17:14.006226Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $16.77* | 16-Oz McCormick All Natural Pure Vanilla Extract at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-09T19:17:14.006226Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Milwaukee M18 FUEL 18V 6-1/2 in. Circular Saw with 5.0 Ah Battery $179.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T19:17:14.006226Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Milwaukee M18 18V Lithium-Ion Cordless Oscillating Multi-Tool with 2.0 Ah Compact Battery $125.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T19:17:14.006226Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Super-Premium All-Star 10-Cigar Sampler #1 for $29 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T19:17:14.006226Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "48\" Merwry Integrated LED Ceiling Fan w/ Light Kit & Remote (Brushed Nickel) $47.97 + Free Store Pickup at Home Depot",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T19:17:14.006226Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "46\" Blaketon Modern Ceiling Fan w/ Tunable LED & Remote (Brushed Nickel) $39.97 + Free Store Pickup at Home Depot",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T19:17:14.006226Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[AC] $26.99* | 2-Pk SpaceHacks Under Bed Storage Containers w/ Wheels (Dark Grey) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-09T19:11:42.612196Z",
