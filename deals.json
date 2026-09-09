@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "11f302d68eb2",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19991820-amazon-kranchungel-women-s-renaissance-lace-up-overbust-corset-7-49-11-99-w-code",
+  "title": "Amazon – Kranchungel Women's Renaissance Lace-Up Overbust Corset - – w/ Code",
+  "raw_title": "Amazon – Kranchungel Women's Renaissance Lace-Up Overbust Corset - $7.49–$11.99 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B00QM822LY",
+  "deal_total_cents": 749,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 1499,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1499,
+  "amazon_url": "https://www.amazon.com/dp/B00QM822LY",
+  "amazon_checked_at": "2026-09-09T15:30:53.725110Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B00QM822LY",
+  "image_url": null,
+  "published_at": "2026-09-09T15:30:35.898617Z"
+ },
+ {
   "deal_id": "0a59ade08757",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19991037-sony-bravia-theater-bar-5-3-1ch-soundbar-w-wireless-subwoofer-dolby-atmos-278-00-free-shipping",
