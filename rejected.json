@@ -1,6 +1,102 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "Enjoywood 60\" Adjustable Workbench for $152 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T08:58:04.659977Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Michaels Halloween Sale: Up to 50% off + free shipping w/ $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T08:58:04.659977Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Compression Arthritis Gloves for $14 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T08:58:04.659977Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Songmics 43\" Folding Storage Ottoman Bench for $36 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T08:58:04.659977Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$23.99 | Forza Horizon 5 Standard Edition (PS5 Digital Download) at Playstation Store",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T08:58:04.659977Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$9.99 | FINAL FANTASY VII REMAKE INTERGRADE (PS5 Digital Download) at Playstation Store",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T08:58:04.659977Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$48.99 | Resident Evil Requiem (PS5 Digital Download) at Playstation Store",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T08:58:04.659977Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Titoe Heavy-Duty Snap Fastener Tool Kit w/ 100 Canvas Snap Sets (4 colors) $20.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-09T08:52:29.543923Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "dreame D30 Ultra Robot Vacuum and Mop, Detangling with TriCut Brush $449.99",
+  "reason": "Community score too low (+-2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-09T08:52:29.543923Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Women's Lightweight Long Sleeve Athletic Workout Shirt for $8 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T08:52:29.543923Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$8.99 | RoboCop: Rogue City - Alex Murphy Edition (PS5 Digital Download) at Playstation Store",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T08:52:29.543923Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$47.99 | PRAGMATA (PS5 Digital Download) at Playstation Store",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T08:52:29.543923Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
   "raw_title": "24\" Mobile Home Ground Anchor 4-Pack for $46 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-09T08:46:56.210560Z",
