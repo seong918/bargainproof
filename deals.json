@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "413a020fd3b8",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19993764-philips-sonicare-1100-rechargeable-electric-toothbrush-white-grey-hx3641-02-15-free-shipping-w-prime-or-on-orders-over-35",
+  "title": "Philips Sonicare 1100 Rechargeable Electric Toothbrush (White Grey, HX3641/02) + or on orders over",
+  "raw_title": "Philips Sonicare 1100 Rechargeable Electric Toothbrush (White Grey, HX3641/02) $15 + Free Shipping w/ Prime or on orders over $35",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1500,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "prime"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 6,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-09T23:15:52.878361Z"
+ },
+ {
   "deal_id": "8af37eed5fac",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19973484-blackstone-pre-seasoned-cast-iron-griddle-press-10-x-5-5-black-19-29",
