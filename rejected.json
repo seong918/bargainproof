@@ -1,5 +1,85 @@
 [
  {
+  "source": "dealcatcher",
+  "raw_title": "24\" Mobile Home Anchors $29.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T18:16:25.739326Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Addlon Outdoor Solar Waterproof/Dimmable 102' String Light w/ Remote $17.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T18:16:25.739326Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Toro Outdoor Power Tool Deals at Lowe's for From $99 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T18:16:25.739326Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas Men's VL Court Base Shoes for $17 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T18:16:25.739326Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Women’s Birthday Gift Box Set Just $11 on Amazon (Includes Tumbler, Clip, Card, & More!)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T18:16:25.739326Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Sony DSX-A415BT Single DIN Bluetooth In-Dash Digital Media Car Stereo Receiver with Front 3.5 & USB Auxiliary Inputs NEW $95.86",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T18:16:25.739326Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "FLYBIRD Twister Arm Trainer, Hydraulic Power Core Twister Chest Workout Equipment, Adjustable 22-440LBS Chest Trainer $31.79",
+  "reason": "Posted at $31.79, but Amazon showed $59.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T18:10:53.219584Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Minions Despicable Me 4 Ultimate Fart Blaster Toy $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T18:10:53.219584Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas Men's Galaxy 7 Running Shoes for $21 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T18:10:53.219584Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Office Depot 2 Cases (20 reams of 500 sheets ea total) of Boise X-9 Copy Paper $80 Shipped, earn $16 in rewards as well! with code",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T18:10:53.219584Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "JBL Tune 730BT Wireless Over-Ear Headphones for $60 + free 2-day shipping",
   "reason": "Not evaluated",
