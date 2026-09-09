@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "e12852839d74",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19990479-14-49-yellowstone-season-1-blu-ray-at-amazon",
+  "title": "Yellowstone: Season 1 (Blu-ray)",
+  "raw_title": "$14.49 | Yellowstone: Season 1 (Blu-ray) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B07HGBVPHK",
+  "deal_total_cents": 1449,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 1449,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1449,
+  "amazon_url": "https://www.amazon.com/dp/B07HGBVPHK",
+  "amazon_checked_at": "2026-09-09T06:22:20.585424Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B07HGBVPHK",
+  "image_url": null,
+  "published_at": "2026-09-09T06:22:15.951690Z"
+ },
+ {
   "deal_id": "a5041b06952a",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19988712-3-99-everything-you-need-to-ace-english-language-arts-in-one-big-fat-notebook-2nd-edition-the-complete-middle-school-study-guide-ebook-by-workman-publishing",
