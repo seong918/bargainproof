@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "30f3a2ba169c",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19991481-ac-74-99-asus-tuf-gaming-k3-gen-ii-hatsune-miku-edition-wired-usb-gaming-keyboard-at-amazon",
+  "title": "ASUS TUF Gaming K3 Gen II Hatsune Miku Edition Wired USB Gaming Keyboard",
+  "raw_title": "[AC] $74.99 | ASUS TUF Gaming K3 Gen II Hatsune Miku Edition Wired USB Gaming Keyboard at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0F8SGX7N2",
+  "deal_total_cents": 7499,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 8499,
+  "amazon_coupon_cents": 1000,
+  "amazon_effective_cents": 7499,
+  "amazon_url": "https://www.amazon.com/dp/B0F8SGX7N2",
+  "amazon_checked_at": "2026-09-09T12:07:02.398612Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0F8SGX7N2",
+  "image_url": null,
+  "published_at": "2026-09-09T12:06:57.038230Z"
+ },
+ {
   "deal_id": "b4da4450840f",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19990575-jbl-tune-730bt-wireless-over-ear-headphones-various-colors-59-95",
