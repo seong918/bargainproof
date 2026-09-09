@@ -1,5 +1,29 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "20-Ct OSULLOC Pure Green Tea & More $8.39 w/ S&S + Free Shipping w/ Prime",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-09T02:05:47.941552Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Prime Members: UGREEN 16-Port 1000Mbps Ethernet Switch $40 & More + Free Shipping",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-09T02:05:47.941552Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Open Box: Samsung Odyssey G6 (G60SD) 27\" 1440p 360Hz OLED [YMMV] $285.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T02:05:47.941552Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Chrome Cat Shaped Ring Holder $4.71",
   "reason": "Not evaluated",
