@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "50-Piece MAGNA-TILES Builder XL Magnetic Construction $55.99 + Free Shipping",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-09T02:11:20.481119Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon - A-Pce Cervical Neck Pillow, Memory Foam Pillow, Contour Dual Height Blue - $14.99",
+  "reason": "Posted at $14.99, but Amazon showed $29.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T02:11:20.481119Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Film Fest Vol. 1 (2021) - 6 HD digital films $7.99 iTunes ALL TIME LOW",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T02:11:20.481119Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "50-Lb FED Fitness 5-in-1 Adjustable Dumbbell Set w/ Connector Bar $56.79 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T02:11:20.481119Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ozark Trail 1-Person Instant Pop-Up Sport Shelter w/ UV Protection $29.99 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T02:11:20.481119Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "20-Ct OSULLOC Pure Green Tea & More $8.39 w/ S&S + Free Shipping w/ Prime",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-09T02:05:47.941552Z",
