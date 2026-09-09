@@ -1,5 +1,141 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "8-Pack 12-Oz BODYARMOR Tropical Punch Sports Drink $3.58 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-09T15:58:16.667855Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Addlon 102' 30-LED Bulbs Waterproof Solar String Outdoor Lights $17.99",
+  "reason": "Posted at $17.99, but Amazon showed $29.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T15:58:16.667855Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "KATERK Electric Screwdriver 500mAh $19.19",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T15:58:16.667855Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Vertvie Jelly Bra No Underwire Seamless Push Up Full Coverage $8.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T15:58:16.667855Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Halloween Party Favors 24-Pack Make a Monster Kits $22.19",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T15:58:16.667855Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "AC Lerat Portable Handheld Turbo Fan 5 High-Speed Wind $5.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T15:58:16.667855Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "G Gradual Quarter Zip Pullover $19.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T15:58:16.667855Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Handprint Halloween Window Clings 67 Pieces $2.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T15:58:16.667855Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "A-Pce Cervical Neck Pillow, Memory Foam, Contour Dual Height Blue $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T15:58:16.667855Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Stock Your Home 6-Pack 100-Hour Liquid Paraffin Emergency Candles (Unscented) $20.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T15:58:16.667855Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Solaray Enhanced Absorption Magnesium Glycinate 350mg (120-Count VegCaps) $16.55",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T15:58:16.667855Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "12 Inch Metal Bird Bath $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T15:58:16.667855Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "APONUO 3CCT Solar Pathway Outdoor Lights w/ Spot Lens 12-Pack $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T15:58:16.667855Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Cync 10' Dynamic Effects Smart LED Neon Shape Light, Color Changing, Full Color for $19 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T15:58:16.667855Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Costway Folding Platform Hand Truck w/ Collapsible Bed & 4 Wheels for $45 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T15:58:16.667855Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Walmart Character Backpacks for school $5.99+, Hello Kitty, HunterX, Minecraft, YMMV based on location",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T15:58:16.667855Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nike Adult's Zoom Vapor 16 Academy Kylian Mbappé FG Soccer Cleats $22.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T15:58:16.667855Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Casly Lamiit 2 Piece Tracksuits for Women $18.14",
   "reason": "Not evaluated",
