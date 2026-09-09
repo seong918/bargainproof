@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon – LIVOWALNY 2-Pack 6000LM LED Work Lights for DeWalt 20V - $19.99 w/ Code",
+  "reason": "Community score too low (+0) to pass without a price check — needs multi-pack, promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-09T01:32:18.605665Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "850W Phanteks AMP GH 80 Plus Gold Fully Modular ATX 3.1 PCIe 5.1 Power Supply (Black) $65 w/ $10 Rebate + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T01:32:18.605665Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Pinmoco 42\" Reversible L-Shaped Computer Desk w/ Monitor Stand, Cup Holder & Headset Hooks (Carbon Fiber Black) $57.95 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T01:32:18.605665Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "The Batman Family: Year One Box Set (Paperback) $34.90 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-09T01:32:18.605665Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon – Hautton 126-Bottle Nail Polish Organizer, Purple - $25.99 w/ Code",
   "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-09T01:26:43.831292Z",
