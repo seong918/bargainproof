@@ -1,5 +1,93 @@
 [
  {
+  "source": "dealcatcher",
+  "raw_title": "Jescakoo Long Sleeve Side Split Lightweight Sweaters $5.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T11:44:49.012704Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Rexley Women's Workout Tops $6.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T11:44:49.012704Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "OFEFEAN V Neck Top $7.79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T11:44:49.012704Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "WIHOLL Long Sleeve V Neck Shirts $8.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T11:44:49.012704Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Women's Color Block Sweaters $6.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T11:44:49.012704Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "*NEW* Bumble Christmas Animatronic Just $149 Shipped on Lowes.com | Will Sell Out",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T11:44:49.012704Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $13.09* | 12-Pk 11-Oz Muscle Milk High Protein Shake (Chocolate) at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-09T11:44:49.012704Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "36-Count BIC Round Stic Grip Xtra Comfort Ballpoint Pens (Medium Point, Black & Blue) $3.92 w/ S&S + Free Shipping w/ Prime or on orders over $35",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-09T11:44:49.012704Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "60-Ct Vitamin Bounty Pro-Daily Probiotics for Women w/ Cranberry & Prebiotics for pH Balance, Digestive, Yeast & Urinary Support $11.99 w/ S&S + Free Shipping w/ Prime & $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-09T11:39:15.554022Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Dr Pepper Soda, 12 fl oz cans, 12 pack $6",
+  "reason": "Community score too low (+-6) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-09T11:39:15.554022Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Method All-Purpose Cleaner Only $2 Shipped on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T11:39:15.554022Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Loctite Tite Foam Gaps & Cracks 12-oz. Spray Foam Sealant for $7 + free shipping w/ Prime",
   "reason": "Not evaluated",
