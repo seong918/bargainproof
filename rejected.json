@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[AC] $26.99* | 2-Pk SpaceHacks Under Bed Storage Containers w/ Wheels (Dark Grey) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-09T19:11:42.612196Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$35 FS AC AMAZON Bear Baby Food Maker Steamer & Blender with Dual-Layer Steam Baskets, 18.5oz",
+  "reason": "Posted at $35.00, but Amazon showed $69.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T19:11:42.612196Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Husky 3/8 in. and 1/2 in. Drive Torque Wrench Set (2-Piece) $109.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T19:11:42.612196Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Waterfall Eco Dynamic 185/65R15 88H Passenger Tire for $46 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T19:11:42.612196Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "VIRTAVO SolarFlask 2K QHD Solar-Powered Wireless Outdoor Security Camera w/ Color Night Vision & PIR Motion Detection $19.99 + Free Shipping w/ Prime or $6 Fee per Order",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T19:11:42.612196Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "TAMASHII Nations - Deadpool & Wolverine - Wolverine, Bandai Spirits S.H.Figuarts Action Figure $53.53",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-09T19:06:09.658711Z",
