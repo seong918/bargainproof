@@ -1,5 +1,229 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Tone's Spices for Rices, Asian Fried Rice, 5.6 Ounce (Pack of 6) $11 + Free S&H w/ Prime or $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-09T22:03:27.818789Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Qutool Memory Foam Lumbar Back Support Pillow $11.19",
+  "reason": "Posted at $11.19, but Amazon showed $15.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T22:03:27.818789Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Magnat Cinema Ultra AEH 400 ATM Surround Sound Speakers Pair $150.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T22:03:27.818789Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Adidas Men's Galaxy 7 Running Shoes $21.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T22:03:27.818789Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Round Trip Los Angeles to San Juan Puerto Rico Airfares on American Airlines BE $252.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T22:03:27.818789Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Square Reader for Contactless & Chip (2nd Generation) for $51 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T22:03:27.818789Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "*HOT* Sam’s Club Shoe Clearance from $5.81",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T22:03:27.818789Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Mackie DLZ Creator 12-Channel Audio Mixer $680 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T22:03:27.818789Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nike ACG Daymax Backpack (College Grey/Safety Orange/Summit White) $62.97 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T22:03:27.818789Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "4-Pack Halfchet Big Girl's Square Neck Lightweight Cropped Tank Tops (Various) from $5.99 ($1.50 each) + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-09T21:57:52.535730Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "HyperX Pulsefire Saga Pro Wireless Gaming Mouse $64.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T21:57:52.535730Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "32 Degrees Men's Cool Classic Polo $5.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T21:57:52.535730Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Magnat Interior ICQ 6.5-inch 180W In-Ceiling/In-Wall Speaker $49.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T21:57:52.535730Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Pathlite:ON 5 SUV Step-Through Electric Bike $1,299.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T21:57:52.535730Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Magnat Monitor Supreme 802 2.5-Way Floorstanding Speakers (Pair) $199.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T21:57:52.535730Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "3-Tier 46\" Furinno Turn-N-Tube Storage Shelf w/ Wheels (French Oak Grey/Black) $23.42",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T21:57:52.535730Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "AOC Wireless Gaming Headset for PS5, PS4, Nintendo Switch, PC - Black $39.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T21:57:52.535730Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "DUMOS 6-Tier 63\" Open Freestanding Wood Book Case (Modern Black) $55.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T21:57:52.535730Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Wooden Tiered Risers Display Stands $14.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T21:57:52.535730Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Journey to the Center of the Earth (1977) Blu Ray $12.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T21:57:52.535730Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ello Kids Colby 12oz Insulated Stainless Water Bottle with Straw, Blue $14.23",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T21:57:52.535730Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Mintlyfe Stainless Steel Snack Containers with Lids $4.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T21:57:52.535730Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Pirate’s Booty Aged White Cheddar Cheese Puffs 8 oz $9.87",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T21:57:52.535730Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Amazon Fire HD 10 Tablet $76.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T21:57:52.535730Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "SK 1/2\" Drive 160-Position 2 Pawl Ratchet Handle $21.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T21:57:52.535730Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Megadeth: Megadeth Vinyl Record for $20 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T21:57:52.535730Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Neiko 200-Piece Internal Hex Allen Set Screw Assortment Kit for $11 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T21:57:52.535730Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Waterfall Eco Dynamic 195/50R15 82V Passenger Tire, $37.08, Walmart",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T21:57:52.535730Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Snakol Multimeter Test Lead Kit for Digital Multi Tester (22-Piece) $15.99",
   "reason": "Posted at $15.99, but Amazon showed $29.99 when we checked — the deal is probably over",
