@@ -1,5 +1,133 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "82-Foot Halloween Caution Tape for $2.99 w/ Prime + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T09:31:28.875388Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas Men's Purechill Shoes for $28 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T09:31:28.875388Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "34\" x 22\" Pawtners XL Silicone Cat Litter Trapping Mat $14.99 + Free Shipping w/ Prime or $6 Fee per Order",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T09:31:28.875388Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Pack Gaiatop Magnetic Rechargeable Hand Warmers (Black, Penguin) $9.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-09T09:25:54.729188Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "4-Piece Heavy Duty Rubber Floor Mat Set for $30 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T09:25:54.729188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Liecho 15\" x 12\" Halloween Yard Signs Stakes 3-Pack for $10 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T09:25:54.729188Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "12ft Simple Deluxe Trampoline for Kids with Safety Enclosure Net Wind Stakes 400LBS Weight Capacity, with Ladder Blue Outside Net, $119.99, FS Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T09:25:54.729188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GEEK LIGHTING Men's Flannel Shirts Jacket Sherpa Lined Plaid Zipper Hoodie $20 AC + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-09T09:20:20.160744Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Kexmo 8.46\" Foldable Pocket Knife with 3.46\" D2 Blade & G10 Ergonomic Handle $12.99",
+  "reason": "Posted at $12.99, but Amazon showed $15.59 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T09:20:20.160744Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Skittles Shriekers 8.47-oz. Bag for $4 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T09:20:20.160744Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "110W Assistrust W0058 Sound Bar with Subwoofer $69.99 + Free Shipping w/ Prime or $6 Fee per Order",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T09:20:20.160744Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bissell 42943 Pet Hair Eraser DualBrush Upright Vacuum with HEPA Filter, $149.99, FS Prime, Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T09:20:20.160744Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Men's Wearhouse 2-Day Sitewide Sale for Up to 71% off, jeans from $15 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T09:14:45.732103Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DEWALT 20V MAX Cordless 6.5 in. Sidewinder Style Circular Saw (Tool Only), $113, FS, Home Depot",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T09:14:45.732103Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Kobalt 26-cc 2-cycle 18-in Straight Shaft Attachment Capable Gas String Trimmer Edger Conversion Capable, $129, Lowe's",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T09:14:45.732103Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "139-Pack 164' Drip Irrigation Kit w/ Adjustable Nozzles & Tubing Hose $15.99 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T09:14:45.732103Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Panasonic NN-TK922SS 27-inch Trim Kit for 2.2 cu ft Microwave Ovens, 27 inch, Stainless Steel & Farberware Countertop Microwave 1000 Watts, 1.1 cu ft - Microwave $302.38",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
