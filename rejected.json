@@ -1,5 +1,157 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Coofandy Men's Casual Full Zip Athletic Sweat Jacket and Pants Set $17.99",
+  "reason": "Posted at $17.99, but Amazon showed $29.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T16:20:20.711748Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "DONAMA Cervical Pillow for Neck and Shoulder Contour Memory Foam $15.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T16:20:20.711748Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LEDIARY 52in Flush Mount Ceiling Fan w/ Light, APP and Remote Control $49.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T16:20:20.711748Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Bestbuy8 1,500W 6-Level Steam Cleaner with 11-Piece Accessory Kit for $36 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T16:20:20.711748Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Uineer 2400 DPI Ergonomic Vertical Rechargeable Wireless Mouse w/ Side Scroll Wheel (Black, Pink,or White) from $11.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-09T16:20:20.711748Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Enzyme Laundry Booster Odor Remover 2 lbs Unscented $11.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T16:14:49.545506Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Disposable Bath Towels 5-Pack $7.79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T16:14:49.545506Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "12oz Bling Wine Tumbler with Lid and Straw $11.47",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T16:14:49.545506Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "OCOOPA Rechargeable Hand Warmers $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T16:14:49.545506Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Outdoor String Lights 150' $23.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T16:14:49.545506Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Raised Garden Bed with Wheels 13.3\" $39.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T16:14:49.545506Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "RECEKA Wooden Marble Run Music Tree $16.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T16:14:49.545506Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Bedsure ComfyFleece Memory Foam Orthopedic Dog Bed $26.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T16:14:49.545506Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Espresso Machine $69.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T16:14:49.545506Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Baby Carrier $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T16:14:49.545506Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Women’s Knee High Chunky Boots $38.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T16:14:49.545506Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Popular Home Depot Christmas Trees from $42.99 Delivered",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T16:14:49.545506Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "YMMV Frost King Premium EPDM Rubber Ribbed Profile Self-Stick Weather Seal, 9/16 in. W x 5/16 in. H x 10 ft. L, Wide Gaps $3.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T16:14:49.545506Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Klein Tools MODbox 18 Pocket Tool Pouch one_size in Black | 55834MB $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T16:14:49.545506Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$8.46 AMAZON Folgers Classic Roast Instant Coffee, 12 Oz. Jar",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
