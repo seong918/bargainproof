@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "8a941f140799",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19990926-329-98-segway-cube-1000-lifepo4-1024wh-2200w-power-station-at-amazon",
+  "title": "Segway Cube 1000 LiFePO4 1024Wh 2200W Power Station",
+  "raw_title": "$329.98* | Segway Cube 1000 LiFePO4 1024Wh 2200W Power Station at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0CS8GMQ7Q",
+  "deal_total_cents": 32998,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 32998,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 32998,
+  "amazon_url": "https://www.amazon.com/dp/B0CS8GMQ7Q",
+  "amazon_checked_at": "2026-09-09T08:08:16.915902Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 2,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0CS8GMQ7Q",
+  "image_url": null,
+  "published_at": "2026-09-09T08:08:12.973765Z"
+ },
+ {
   "deal_id": "48d2744f0475",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19990914-shokz-openrun-pro-open-ear-bone-conduction-headphones-109-95-free-shipping",
