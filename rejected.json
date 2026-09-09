@@ -1,5 +1,101 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$39.88 FS AMAZON BestOffice Ergonomic Office Chair | Mid-Back Swivel Desk Chair | Dark Black",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-09T12:12:28.015092Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "The Twillery Co. Outdoor Lighted Halloween Inflatable Tree with Ghost, Jack-O-Lanterns, and Owl $35.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T12:12:28.015092Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "The Holiday Aisle 6ft. Halloween Animatronics Grim Reaper with Chain $46.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T12:12:28.015092Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "12-Night Norway, Denmark and Sweden Cruise Package $2,374.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T12:12:28.015092Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Design Toscano Loonie Moonie Bare Buttocks Garden Gnome Statue $38.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T12:12:28.015092Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "4-Tier Display Cabinet with RGB Lights $90.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T12:12:28.015092Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Dog Bark Deterrent Device $14.39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T12:12:28.015092Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Oversized Flannel Shirt $23.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T12:12:28.015092Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "6 FT Three Lighted Holding Hands Witches Stakes with Glowing Faces $69.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T12:12:28.015092Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Baseus Certified Magsafe Portable Slim Power Bank $25.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T12:12:28.015092Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Laura Geller Baked Body Frosting Face & Body Glow $12.80",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T12:12:28.015092Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "4-Panel 52\"W x 45\"L SpaceDresser Rod Pocket Sheer Curtains (Black) $8.08 ($2.02 per panel)+ Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-09T12:12:28.015092Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "techbargains",
   "raw_title": "SNK MVSX Arcade Machine Pre-order with 50x SNK Games (5ft 7in Tall w/ Stand) $499.99",
   "reason": "Not evaluated",
