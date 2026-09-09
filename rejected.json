@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Panasonic NN-TK922SS 27-inch Trim Kit for 2.2 cu ft Microwave Ovens, 27 inch, Stainless Steel & Farberware Countertop Microwave 1000 Watts, 1.1 cu ft - Microwave $302.38",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-09T09:09:12.650727Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Desloc C110 Fingerprint Keyless Waterproof Entry Door Smart Lock $29.99",
+  "reason": "Posted at $29.99, but Amazon showed $49.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T09:09:12.650727Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Xbox $100 Gift Card (Email Delivery), $89, Newegg",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T09:09:12.650727Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "ECOVACS DEEBOT T80 Omni Robot Vacuum, OZMO Roller Mop Instant Self-Washing $399",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-09T09:03:38.728597Z",
