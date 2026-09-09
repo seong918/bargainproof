@@ -1,5 +1,61 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "12-Pack 14-Oz Fairlife Core Power Elite 42g Protein Shake (Chocolate) $35.91 w/ S&S + Free Shipping",
+  "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-09T23:27:01.327955Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "12 Angry Men The Criterion Collection 4K UHD for $35 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T23:27:01.327955Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Husky BITE SAE and Metric Impact Ready Interchangeable Nut Driver Set with Cushion-Grip Handles (20-Piece), $39.97, FS, Home Depot $39.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T23:27:01.327955Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Husky 1/4 in., 3/8 in. and 1/2 in. Drive 72-Tooth Ratchet and Accessory Set (14-Piece), $39.97, FS, Home Depot",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T23:27:01.327955Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $3.58* | 8-Count 12-Oz BodyArmor Lyte Low Calorie Sports Drink (Peach Mango) at Amazon (44.8￠ each)",
+  "reason": "Community score too low (+3) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-09T23:21:27.175895Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Nike Women's One High-Waisted 8\" Biker Shorts w/ Pockets for $20 + free shipping w/ $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T23:21:27.175895Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Toddler Character Denim Jackets Just $11.98 on SamsClub.com | Disney, Marvel, & More",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T23:21:27.175895Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "TCL S Class 2.0 Channel Sound Bar for $80 + free shipping",
   "reason": "Not evaluated",
