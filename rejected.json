@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS] $22.69 | 4-Pack Filtrete 8x30x1 AC Furnace Air Filter, MERV 8, MPR 700 at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-09T05:26:35.722579Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Metabo HPT The Tank 6-Gallon Portable Electric 200 PSI Pancake Air Compressor one_size | EC914SM $169",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T05:26:35.722579Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Red Light Therapy for Face Mask, Blue Light Therapy for Acne, Wrinkle LED Face Mask, 432 LED $44.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-09T05:20:59.277864Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Husky 149-Piece Mechanics Tool Set $89 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T05:20:59.277864Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Kobalt 48V MAX 600 CFM 150 MPH Brushless Cordless Leaf Blower Kit w/ (2) 4.0Ah Batteries & Charger $99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T05:20:59.277864Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Womier L98 Wireless Mechanical Keyboard $57.59 (28% off) w/ Code RGKWJPKD",
   "reason": "Community score too low (+0) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-09T05:15:26.016652Z",
