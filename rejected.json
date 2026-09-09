@@ -1,6 +1,110 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Last Boy Scout / Last Man Standing Blu-ray $7.99",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-09T18:44:02.052206Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Danganronpa: Trigger Happy Havoc",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T18:44:02.052206Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Mortal Kombat11",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T18:44:02.052206Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "The Red Lantern",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T18:44:02.052206Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Mortal Kombat 1",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T18:44:02.052206Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Mortal Kombat X",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T18:44:02.052206Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "OGX Renewing+ Argan Oil of Morocco Extra Penetrating Hair Oil 3.3-Oz $4.34",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T18:44:02.052206Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Quest Nutrition Chocolate Protein Shake 12 Count 11 fl oz $19.86",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T18:44:02.052206Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ohniyou Low Profile 52\" 6-Speed Flush Mount Ceiling Fan $43.19",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T18:44:02.052206Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "RunStar Digital Bathroom Scale w/ LED Display & 400-Lb Capacity $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T18:44:02.052206Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "MERACH UltraWalk W60 Walking Pad Incline Treadmill $197.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T18:44:02.052206Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Corsair GALLEON 100 SD Stream Deck-Integrated Mechanical Keyboard (Revival Series) $174.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T18:44:02.052206Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Snailax 3-Modes 3-Intensity Level 6-Vibration Motors Massage Seat Cushion with Heat $43.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T18:44:02.052206Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$15.95 | 213-Piece LEGO City: Police - Police Car and Muscle Car Chase (60415, 2024) at Amazon",
   "reason": "Posted at $15.95, but Amazon showed $19.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-09T18:38:30.192958Z",
