@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Electric Air Duster Super Power 130000RPM, 3-Gear Adjustable Mini Duster Blower with Fast Charging $15.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-09T04:25:11.216017Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$19.99 | 3-Pack Pack Men's Super Stretch Chino Pants (Sizes 30-42) at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T04:25:11.216017Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "120-Count VEV 1200mg Activated Charcoal Capsules w/ Probiotics & Prebiotics $5.84 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-09T04:19:35.781371Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "AEOCOO Kids' & Toddler Swim Float Vest w/ Adjustable Buoyancy (various) $11.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-09T04:19:35.781371Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Jordan Men's Stadium 90 Low MCS Baseball Cleats White / Purple $29.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T04:19:35.781371Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Acasis TBU405 Air SSD Enclosure - TB4 40Gbs - $49 Amazon",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-09T04:08:27.568307Z",
