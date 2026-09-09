@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "44fe62d5e487",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19990398-new-10-99-nutrichef-kitchen-cooking-utensils-set-gray-at-amazon",
+  "title": "NutriChef Kitchen Cooking Utensils Set (Gray)",
+  "raw_title": "[NEW] $10.99 | NutriChef Kitchen Cooking Utensils Set (Gray) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0BX4L6ZCN",
+  "deal_total_cents": 1099,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 1099,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1099,
+  "amazon_url": "https://www.amazon.com/dp/B0BX4L6ZCN",
+  "amazon_checked_at": "2026-09-09T05:54:29.875527Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0BX4L6ZCN",
+  "image_url": null,
+  "published_at": "2026-09-09T05:54:25.849450Z"
+ },
+ {
   "deal_id": "ff3fcd78074c",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19990383-5-99-inc-hygloss-products-book-rings-2-inch-at-amazon",
