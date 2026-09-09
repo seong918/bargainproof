@@ -1,5 +1,45 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Strebito 320RPM Motor 2600mAh Rechargeable Battery Cordless Electric Scissors $13.99",
+  "reason": "Posted at $13.99, but Amazon showed $27.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T21:41:12.148705Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Nintendo Switch Sports Resort for Switch 2 for Pre-Orders for $50 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T21:41:12.148705Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Wonder Nation 17\" Backpack for $2 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T21:41:12.148705Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Reebok Clearance Clothing from $3 on Walmart.com (Sizes Are Going Fast!)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T21:41:12.148705Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "3-PACK: Kryptek Men's Caps (Trojan, American Flag) $13.25 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T21:41:12.148705Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "12.5\" Rawlings Renegade First Base Baseball Glove (Right Hand Throw) $33.75 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
