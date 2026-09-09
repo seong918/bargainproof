@@ -1,6 +1,102 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS, AC] $3.11* | 7.5-Oz McCormick Dark Chili Powder at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-09T19:22:44.197911Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $4.77* | 105oz French's Classic Yellow Mustard at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-09T19:22:44.197911Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $4.31* | 68-Oz Method Daily Shower Spray Cleaner Refill (Eucalyptus Mint) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-09T19:22:44.197911Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Milwaukee M12 FUEL 12V 1/4 in. Hex 2-Speed Screwdriver Kit W/(2) 2.0h Batteries & Bag $140.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T19:22:44.197911Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ridgid 18V Cordless 3-Tool Lighting Combo Kit $127.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T19:22:44.197911Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Milwaukee BIG HAWG Carbide Hole Saw Kit (9-Piece) $149.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T19:22:44.197911Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Tile Town Pet Vet Magnetic Tiles Set 48-Piece w/ Sound and Lights $7.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T19:22:44.197911Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Nike NFL Deals at Fanatics: Up to 89% off + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T19:22:44.197911Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Walmart Can't Miss Clearance Sale: Up to 88% off + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T19:22:44.197911Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men VL Court Base Shoes (Charcoal Solid Grey / Alumina / Grey Four) $17",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T19:22:44.197911Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Frigidaire 12,000 BTU Window Air Conditioner $299.00 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T19:22:44.197911Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Pathlite:ON 7 step-through Large $1999",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T19:22:44.197911Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[SnS, AC] $16.99* | 6-Count 5-Oz Cholula Hot Sauce Gift Set (Variety Pack) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-09T19:17:14.006226Z",
