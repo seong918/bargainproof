@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "ccf1ea393c04",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19990725-3-97-12-pc-10-x-6-ostwony-microfiber-cleaning-towels-at-amazon",
+  "title": "12-pc 10\" x 6\" OstWony Microfiber Cleaning Towels",
+  "raw_title": "$3.97* | 12-pc 10\" x 6\" OstWony Microfiber Cleaning Towels at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B08QTRG66J",
+  "deal_total_cents": 397,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 397,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 397,
+  "amazon_url": "https://www.amazon.com/dp/B08QTRG66J",
+  "amazon_checked_at": "2026-09-09T07:18:06.272750Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B08QTRG66J",
+  "image_url": null,
+  "published_at": "2026-09-09T07:18:01.753959Z"
+ },
+ {
   "deal_id": "d34b361927e4",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19990683-109-99-renogy-flexible-solar-panel-100-watt-240-ultra-flex-bendable-at-amazon",

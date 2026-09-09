@@ -1,5 +1,69 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "PlayStation 5 Portal Remote Player - Midnight Black $125",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-09T07:18:01.753959Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Niimbot B1 2\" 203DPI Portable Bluetooth Thermal Label Maker Machine $14.99",
+  "reason": "Posted at $14.99, but Amazon showed $27.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T07:18:01.753959Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Flame Flower Clock 3D Wooden Puzzle Kit for $10 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T07:18:01.753959Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ryobi ONE+ 18V Cordless Oscillating Multi-Tool (Tool Only) with 4-Piece Wood Oscillating Multi-Tool Blade Set $59",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T07:18:01.753959Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M18 FUEL 18- V Lithium-Ion Brushless Cordless Hammer Drill and Impact Driver Combo Kit (2-Tool) with (3) 5.0Ah Batteries $332",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T07:18:01.753959Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Outdoor Research Archangel Bib Snow Pant - Women's $174.74",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T07:18:01.753959Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Toro Flex-Force 60-volt max 10-in 2 Ah Battery Pole Saw Battery Included , Charger Included one_size in Red | 51870 $139",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T07:18:01.753959Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Toro Flex-Force 60-volt 900-CFM 165-MPH Battery Handheld Leaf Blower 4 Ah Battery Included Charger Included one_size | 51827 $179",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T07:18:01.753959Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Hisense E7 Cinema Series 75E7SF 75\" 4K UHD Smart TV for $698 + free shipping",
   "reason": "Not evaluated",
