@@ -1,6 +1,182 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$15.95 | 213-Piece LEGO City: Police - Police Car and Muscle Car Chase (60415, 2024) at Amazon",
+  "reason": "Posted at $15.95, but Amazon showed $19.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T18:38:30.192958Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "TIBES Travel Weekender Bag w/ Shoe Compartment $17.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T18:38:30.192958Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "ECOWISH V Neck Belted Wrap Sweater $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T18:38:30.192958Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Men's Flannel Hooded Button-Down Shirt $9.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T18:38:30.192958Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "3\" Mini Flagstone Concrete Retaining Wall Block for $1.50 + $2.99 shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T18:38:30.192958Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Apple AirPods 5 for Preorders from $129 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T18:38:30.192958Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Greenworks 60V 19\" Cordless Battery Push Lawn Mower for $195 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T18:38:30.192958Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Upcoming: Apple iPhone 18 Pro for Preorders from $1,199 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T18:38:30.192958Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$8.48/2 get $4.48 Walmart Cash Back Oscar Mayer Bun-Length Beef and Pork Franks Hot Dogs, 8 Count Pack",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T18:38:30.192958Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "PINSPARK Men's UPF 50+ Fishing Hoodie with Mask UV Rash Guard Sun Shirts $7.99",
+  "reason": "Posted at $7.99, but Amazon showed $14.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T18:33:00.584227Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Niimbot D110 Mini Label Maker Machine with 1x Roll Label Tape $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $29.09 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T18:33:00.584227Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Teexpert 1-Gallon 8000mpas Viscosity Landscaping Mulch Gravel Glue $15",
+  "reason": "Posted at $15.00, but Amazon showed $39.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T18:33:00.584227Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "CINCOM Corded Leg Massager w/ Heat & Air Compression $50.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T18:33:00.584227Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "FIT KING Cordless Air Compression Boots Recovery System Leg Massager Medium $238.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T18:33:00.584227Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "AstroAI H2 Pro Cordless Tire Inflator Portable Air Compressor 12VDC $23.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T18:33:00.584227Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "MERACH Foldable Treadmill w/ 6% Manual Incline $199.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T18:33:00.584227Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "KEXMO 3.46\" Blade Folding Pocket Knife w/ Wood Handle $9.09",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T18:33:00.584227Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Apple Watch Ultra 4 49mm Smartwatch for Preorders from $799 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T18:33:00.584227Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Cholula Hot Sauce Variety Pack for $17 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T18:33:00.584227Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Cute Hair Tie Bracelets Just $6.49 on Amazon (Reg. $13)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T18:33:00.584227Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "(Certified Refurbished) Bose Solo Soundbar 2 Home Theater $94 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T18:33:00.584227Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Round Trip Denver - Santa Ana/Orange County Anaheim or Vice Versa $157 Nonstop Airfares on United or Southwest Airlines BE (Travel October - March 2027)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T18:33:00.584227Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "COOFANDY Mens Cable Knit Sweater Thick Fall Winter Sweater $14.99",
   "reason": "Posted at $14.99, but Amazon showed $19.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-09T18:27:28.803924Z",
