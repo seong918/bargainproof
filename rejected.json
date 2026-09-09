@@ -1,5 +1,85 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "eBay Live New York Fashion Week Auctions for Deals from $1",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T08:24:59.486498Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Adult Teenyyou Crayon Costume w/ Apron & Cone Hat for $10 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T08:24:59.486498Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ryobi USB Lithium Cordless 550 Lumens Rechargeable Inspection Flashlight Kit with USB Lithium Cordless Clamp Fan $39.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T08:24:59.486498Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee SAWZALL Metal Cutting Bi-Metal Reciprocating Saw Blade Set (16-Piece) with 2 Carbide Blades $25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T08:24:59.486498Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "100-Count 11.8\" 304 Stainless Steel Metal Zip Ties $5.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-09T08:24:59.486498Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $17.08* | 12-Pack 8.75-Oz Premier Protein MINIs 22g Protein Shake (Vanilla) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-09T08:19:24.266415Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Vrurc 10000mAh 12W Power Bank with Built-In Cables & Ports $16.09",
+  "reason": "Posted at $16.09, but Amazon showed $22.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T08:19:24.266415Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon ~ Chrome Cat Shaped Ring Holder $4.71 (1 year lowest price)",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-09T08:13:46.955325Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "LEGO Auctions on eBay Live for Deals from $1",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T08:13:46.955325Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Salomon SPEEDCROSS 6 GORE-TEX Trail running shoes - Women $126.75",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T08:13:46.955325Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "2-Pack Stainless Steel Ganchun Hand Weed Puller Tool Set $6.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
