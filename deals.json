@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "b02fbec45e5d",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19990701-sns-ac-6-63-6-pack-4-4oz-mccormick-bac-n-pieces-applewood-smoked-bacon-flavored-bits-at-amazon",
+  "title": "6-Pack 4.4oz McCormick Bac'n Pieces Applewood Smoked Bacon Flavored Bits",
+  "raw_title": "[SnS, AC] $6.63* | 6-Pack 4.4oz McCormick Bac'n Pieces Applewood Smoked Bacon Flavored Bits at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 663,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-09T11:50:19.887128Z"
+ },
+ {
   "deal_id": "5eae86402cdf",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19991385-sns-ac-13-09-12-pk-11-oz-muscle-milk-high-protein-shake-chocolate-at-amazon",
