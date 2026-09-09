@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Mulittea (2 Pack) Vitamin D3 K2 Liquid 10000 IU w/ MK7, Omega-3 & MCT Oil $10.24",
+  "reason": "Posted at $10.24, but Amazon showed $20.46 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T02:50:19.110313Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "KATERK Electric Screwdriver, 500mAh Mini Electric Screwdriver $19.19",
+  "reason": "Posted at $19.19, but Amazon showed $23.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T02:50:19.110313Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon - 24\" Mobile Home Anchors - $29.99 w/ Code",
   "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-09T02:44:44.852084Z",
