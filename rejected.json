@@ -1,5 +1,61 @@
 [
  {
+  "source": "dealcatcher",
+  "raw_title": "6-Pack 16-Oz BODYARMOR LYTE Electrolyte Drink (Peach Mango) $3.17",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T21:07:52.092288Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Method All-Purpose Cleaner Spray French Lavender 2-Pack 28-Oz $5.03",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T21:07:52.092288Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Solar Lanterns Outdoor Lights 2-Pack $16.79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T21:07:52.092288Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Wavytalk 1875W Ionic Hair Dryer with Diffuser $28.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T21:07:52.092288Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Lighted Human & Dog Skeleton Halloween Decorations 36 Inch $35.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T21:07:52.092288Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Hibbett Buy Online, Pick Up In-Store Sale for 25% off $50 + free store pickup",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T21:07:52.092288Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "VEEKTOMX 10000mAh 22.5W Fast Charging Mini Power Bank (Blue) $8.89 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-09T21:07:52.092288Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "techbargains",
   "raw_title": "Firsting 4' 3-in-1 Multi Charging Cable (USB-C, Micro USB, Lightning/IP Port for iPhones, Pack of 2) $4.95",
   "reason": "Posted at $4.95, but Amazon showed $7.99 when we checked — the deal is probably over",
