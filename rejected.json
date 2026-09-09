@@ -1,6 +1,14 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "V VALANCH Mens Texture Polo Shirts Short Sleeve Lightweight Cool Dry Business Casual Golf Polo Collared Shirt $10 AC + Free Shipping",
+  "reason": "Posted at $10.00, but Amazon showed $19.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T23:49:09.121198Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Frontier Organic Ground Vietnamese Cinnamon, 1-Pound Bulk, Premium Quality Cinnamon, Full Balanced Spicy Flavor, Kosher $10.22",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-09T23:43:41.775930Z",
