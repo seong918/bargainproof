@@ -1,5 +1,45 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "MOCOWIND Portable Nail Drill Professional 35000 RPM, Electric Nail E File $19.37",
+  "reason": "Posted at $19.37, but Amazon showed $33.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T14:35:28.194936Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "United Kingdom Guided Vacation Package from London $3,269.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T14:35:28.194936Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Vevor 4,500-PSI Portable Air Compressor for $155 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T14:35:28.194936Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "UntilGone.com Big 9/9 Sale: Up to 72% off + free shipping w/ $25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T14:35:28.194936Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men Essentials Big Logo Tee $12 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T14:35:28.194936Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Ekouaer Men's Long Sleeve Mock Turtle Neck Thermal Shirt $7.99",
   "reason": "Posted at $7.99, but Amazon showed $14.99 when we checked — the deal is probably over",
