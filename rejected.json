@@ -1,5 +1,69 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Barbie Dreamhouse Adventures (Nintendo Switch) $17 + Free Shipping w/ Prime or on orders over $35",
+  "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-09T17:48:46.877038Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Kexmo 7\" & 9\" 1.4116 Corrosion Resistance Fishing Fillet Knife Set $24.99",
+  "reason": "Posted at $24.99, but Amazon showed $49.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T17:48:46.877038Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LETMY Outdoor Solar LED Stake Spot Lights 6-Pack $18.47",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T17:48:46.877038Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "KOOPER 3-Head Solar Motion Sensor Flood Lights 2-Pack $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T17:48:46.877038Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Premier Protein MINIs 22g Protein Shake (Vanilla) 12-Pack $17.08",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T17:48:46.877038Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Fender American Professional and II Guitars - 14 Models from $799 + Free S/H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T17:48:46.877038Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Pack: Limitless 5-Device Charger with USB Type-C & AC Outlets $19.99 + FS",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T17:48:46.877038Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "QVC New Customer: 1.25-Liter KitchenAid Compact Electric Kettle (Various Colors) $69.98 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T17:48:46.877038Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Topcee 60\"x90\" Hot Sleepers Lightweight Breathable Summer Cold Blanket $10.79",
   "reason": "Posted at $10.79, but Amazon showed $17.99 when we checked — the deal is probably over",
