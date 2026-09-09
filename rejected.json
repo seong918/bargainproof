@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "The Challenge (Special Edition) [Blu-ray] $12.49 + Free S&H w/ Prime or $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-09T14:40:58.678917Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "AstroAI B8 3000A Car Battery Jump Starter, 12V Jump Starter Battery Pack $24.99",
+  "reason": "Posted at $24.99, but Amazon showed $49.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T14:40:58.678917Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Rayovac High Energy AA Batteries 4 Pack for $3 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T14:40:58.678917Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Bisquick Shake ‘n Pour Pancake Mix Only $2.74 Shipped on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T14:40:58.678917Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "MIHOVER Electric Scooter for Kids Age 8-14, 180W Motor Max 10mph Speed with Adjustable Handlebar and LED Lights Max Range 10 Mi CPC Certified- Sliver $90.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T14:40:58.678917Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "THE KING OF FIGHTERS XIV STEAM EDITION DELUXE PACK (PC Digital Download) - $9.44",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T14:40:58.678917Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "MOCOWIND Portable Nail Drill Professional 35000 RPM, Electric Nail E File $19.37",
   "reason": "Posted at $19.37, but Amazon showed $33.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-09T14:35:28.194936Z",
