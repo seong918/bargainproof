@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "9550fc275bd5",
+  "source": "techbargains",
+  "source_url": "https://www.amazon.com/gp/product/B0DTMDVQ9J/ref=ox_sc_act_title_1",
+  "title": "Acer Predator XB273K V5 27\" 4K 2160p 320Hz VESA Gaming Monitor",
+  "raw_title": "Acer Predator XB273K V5 27\" 4K 2160p 320Hz VESA Gaming Monitor $249.99",
+  "merchant": "amazon",
+  "buy_url": "https://www.amazon.com/gp/product/B0DTMDVQ9J/ref=ox_sc_act_title_1",
+  "deal_total_cents": 24999,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 24999,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 24999,
+  "amazon_url": "https://www.amazon.com/dp/B0DTMDVQ9J",
+  "amazon_checked_at": "2026-09-09T14:08:22.434774Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": null,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0DTMDVQ9J",
+  "image_url": null,
+  "published_at": "2026-09-09T14:07:56.779491Z"
+ },
+ {
   "deal_id": "00b49d2e9a0e",
   "source": "techbargains",
   "source_url": "https://www.amazon.com/gp/product/B07P7FKW8X/ref=ox_sc_act_title_1",
