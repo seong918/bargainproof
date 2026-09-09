@@ -1,5 +1,165 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Gatorade 20oz Lower Sugar Fruit Punch Electrolyte Sports Drink (6-Pack) $3.77",
+  "reason": "Posted at $3.77, but Amazon showed $3.97 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T15:19:31.863330Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Royal Authentic 15lbs White Basmati Rice Bag (2-Pack) $28.47",
+  "reason": "Posted at $28.47, but Amazon showed $29.97 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T15:19:31.863330Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "GroTheory 13L Combination Lock Fireproof Document Box (15\" x 11\" x 5\") $28.99",
+  "reason": "Posted at $28.99, but Amazon showed $44.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T15:19:31.863330Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Magnus MaxiGrip Flexible Tripod (Black) $6.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T15:19:31.863330Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Pragmata PS5 Digital Download $47.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T15:19:31.863330Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "ProsourceFit Exercise Weighted Training Vest 12lb $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T15:19:31.863330Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "SwimSchool Deluxe Swim Trainer Toddler Swim Vest $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T15:19:31.863330Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Bissell Pet Hair Eraser DualBrush Upright Vacuum with HEPA Filter $149.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T15:19:31.863330Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "SwimSchool Deluxe Baby Float with Adjustable Canopy $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T15:19:31.863330Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Birdie Pulse Golf Rangefinder with Slope & Magnet 1300Y $37.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T15:19:31.863330Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Anker 8-in-1 USB-C Laptop Docking Station w/ Dual 4K HDMI $39.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T15:19:31.863330Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Snowclad 1.5-Quart Hybrid Nonstick Saucepan with Lid for $18 w/ Prime + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T15:19:31.863330Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Round Trip Los Angeles to Milan Italy $568 Airfares on American Airlines/British Airways/Finnair/Iberia BE (Travel January - March 2027)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T15:19:31.863330Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Little Fockers (Blu-ray / DVD Combo) + Digital $6.49 Walmart.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T15:19:31.863330Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Greenworks 80V Edger (Tool Only) $127.5",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T15:19:31.863330Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "eBay: Greenworks Cordless Outdoor Power Equipment (Chainsaw, String Trimmers) From $60.00 (Reg $119.99 - $399.99, ~50% Off) + FS",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T15:19:31.863330Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Boys' Long Sleeve Swim Rash Guard Shirt (Sizes 4-5 to 10-12) Camaro $3.60, Honda Racing Team $3.62 + Free S&H w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T15:19:31.863330Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Prime: FALAN MULE Small Crossbody Sling Bag Fanny Pack Leather Chest Bag for Women $9.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T15:19:31.863330Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Vomeast Wagon Stroller for 4 Kids, 3-in-1 Outdoor Baby Stroller Wagon with Canopy, 5-Point Harness, Adjustable Handlebars, Removable Seat for Toddlers, Grey $269.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T15:19:31.863330Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Big Agnes Dog House 4 Tent (Orange/Taupe/Eggplant) $149.98 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T15:19:31.863330Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Under Cabinet Lighting（2 Pack）,Long Endurance Rechargeable Battery 88 LED 3 Color Lights, Motion Sensor Light $13.19",
   "reason": "Posted at $13.19, but Amazon showed $23.99 when we checked — the deal is probably over",
