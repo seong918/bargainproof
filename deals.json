@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "c150c1c6c12b",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19991424-sns-10-47-12-pk-3-6-oz-starkist-snack-to-go-ready-to-eat-meals-tuna-salad-kits-at-amazon",
+  "title": "12-pk 3.6-oz StarKist Snack-To-Go Ready to Eat Meals Tuna Salad Kits",
+  "raw_title": "[SnS] $10.47* | 12-pk 3.6-oz StarKist Snack-To-Go Ready to Eat Meals Tuna Salad Kits at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1047,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-09T14:13:26.308278Z"
+ },
+ {
   "deal_id": "9550fc275bd5",
   "source": "techbargains",
   "source_url": "https://www.amazon.com/gp/product/B0DTMDVQ9J/ref=ox_sc_act_title_1",

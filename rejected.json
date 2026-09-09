@@ -1,5 +1,69 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Select Accounts: 6-Pack Stock Your Home 100-Hour Liquid Paraffin Emergency Candles (Unscented) $20.99 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-09T14:13:26.308278Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "eufy Security SoloCam S340, 3K Dual-Lens Solar Security Camera $139.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-09T14:13:26.308278Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GOOLOO G7 3000A Supersafe Jump Starter with Built-in 45W USB-C Cable $31.49 AC + Free Shipping",
+  "reason": "Posted at $31.49, but Amazon showed $62.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T14:13:26.308278Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "iPhone Ultra Case Translucent Matte MagSafe $18.89",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T14:13:26.308278Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Beef Tallow Face Moisturizer 1.7 Ounce $4.93",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T14:13:26.308278Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Canvas Tote Bag with Multi Pockets $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T14:13:26.308278Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Brevite The Runner 18L Camera Backpack for $45 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T14:13:26.308278Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$100 Xbox eGift Card (Digital Delivery) $86.51",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T14:13:26.308278Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Full Zip Sweatshirts with Multi Pockets $14.99",
   "reason": "Not evaluated",
