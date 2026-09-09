@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "fab0b2db4ac2",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19990059-35-77-2-pack-pactool-gecko-gauge-sa903-5-16-fiber-cement-siding-clamps-at-amazon",
+  "title": "2-Pack PacTool Gecko Gauge SA903 5/16\" Fiber Cement Siding Clamps",
+  "raw_title": "$35.77* | 2-Pack PacTool Gecko Gauge SA903 5/16\" Fiber Cement Siding Clamps at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B000VERBCU",
+  "deal_total_cents": 3577,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "qty"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 3577,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 3577,
+  "amazon_url": "https://www.amazon.com/dp/B000VERBCU",
+  "amazon_checked_at": "2026-09-09T04:02:57.068175Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B000VERBCU",
+  "image_url": null,
+  "published_at": "2026-09-09T04:02:52.979036Z"
+ },
+ {
   "deal_id": "1b2cec346ba5",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19989996-22-oz-dawn-ultra-ez-squeeze-dish-soap-original-3-for-7-97-w-s-s-free-shipping-w-prime-or-on-35",
