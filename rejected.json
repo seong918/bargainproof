@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$1.21 S&S or $1.08 ea wyb 4 Amazon Grocery, Frosted Toaster Pastries, Cherry, 13.5 Oz, 8 Ct",
+  "reason": "Community score too low (+-1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-09T03:40:32.664099Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Boncare Large Display Digital Basal Body Thermometer with Fever Alarm $2.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-09T03:40:32.664099Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$14.99 Sale for Kroll Show: The Complete Series",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-09T03:29:22.864039Z",
