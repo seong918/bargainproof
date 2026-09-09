@@ -1,5 +1,125 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Pit Boss Stainless Steel Smash Burger Press $11.24 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-09T21:30:06.958355Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "SKG YS100 Shiatsu 3-Level Air Compression Heated Portable Foot Massager $58.75",
+  "reason": "Posted at $58.75, but Amazon showed $77.92 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T21:30:06.958355Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Lamjie 3-Speed 8000mAh 2582RPM USB-C Rechargeable Cordless Jet Engine Desk Fan $23.63",
+  "reason": "Posted at $23.63, but Amazon showed $42.96 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T21:30:06.958355Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Stageek 37-Piece Mechanical Pencil Set with Case $11.04",
+  "reason": "Posted at $11.04, but Amazon showed $14.95 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T21:30:06.958355Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas Men's Cloudfoam Cuxxion Sock Shoes for $20 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T21:30:06.958355Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Dolce & Gabbana Pour Homme Eau de Toilette Spray, Cologne for Men, 4.2 Oz $50.18",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T21:30:06.958355Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Estee Lauder Beautiful Eau de Parfum, Perfume for Women, 2.5 Oz $43.19",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T21:30:06.958355Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Azzaro Pour Homme Eau De Toilette Spray, Cologne for Men, 6.8 Oz $45.72",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T21:30:06.958355Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "4-in-1 DURATECH 140A MIG Welder (120V) $69.99 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-09T21:24:33.204787Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "EliteAir 4‑in‑1 1500-Lumen 3000mAh Rechargeable Camping Lantern $11.69",
+  "reason": "Posted at $11.69, but Amazon showed $15.29 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T21:24:33.204787Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Cooary 1-4mm Adjustable Jaw Custom Fit Anti Snoring Device $13.99",
+  "reason": "Posted at $13.99, but Amazon showed $33.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T21:24:33.204787Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Kamrui AK1Plus Intel N5030 Dual HDMI Mini Desktop (12GB/256GB) $248.17",
+  "reason": "Posted at $248.17, but Amazon showed $299.00 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T21:24:33.204787Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "60-Count XL Rinse-Free Shower Wipes for $11 w/ Subscribe & Save + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T21:24:33.204787Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Disney, Hello Kitty, & More Graphic Tees from $6.93 on Macys.com (Reg. $20)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T21:24:33.204787Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Jimmy Choo Eau De Parfum Spray, Perfume for Women 3.4 oz $43.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T21:24:33.204787Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Bhutan & Nepal: 2-Week Comprehensive Tour Package w/ Airfare $10,349.00",
   "reason": "Not evaluated",
