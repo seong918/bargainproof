@@ -1,6 +1,142 @@
 [
  {
   "source": "techbargains",
+  "raw_title": "Ekouaer Men's Long Sleeve Mock Turtle Neck Thermal Shirt $7.99",
+  "reason": "Posted at $7.99, but Amazon showed $14.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T14:29:57.651135Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Phylluz 52\" DC Motor 6-Speed Flush Mount Ceiling Fan Light $42.59",
+  "reason": "Posted at $42.59, but Amazon showed $70.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T14:29:57.651135Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Jackery Solar Generator 300 and 40W Solar Panel,292Wh,300W AC $339.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T14:29:57.651135Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Cosori TurboBlaze Air Fryer, 9-in-1, 6 Qt, PFAS-Free Ceramic Coating $99.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T14:29:57.651135Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "RENPHO Smart Scale for Body Weight, BMI & Body Fat, 13 Metrics, Elis 1 $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T14:29:57.651135Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Anker Soundcore 2 Portable Bluetooth Speaker, Stereo Sound, IPX7 $29.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T14:29:57.651135Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Levoit Air Purifier for Home Pets Bedroom Dorm Room, Smart & Voice Control $74.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T14:29:57.651135Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Etekcity Smart Scale for Body Weight and Fat, BMI, FSA Eligible, Black $72.30",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T14:29:57.651135Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "DJI USA Savor Late Summer Sale: Up to 41% off + free shipping w/ $200",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T14:29:57.651135Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Popeyes Family Meal for $20",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T14:29:57.651135Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Men’s Winter Ski Jacket Only $19.99 Shipped on Amazon (Reg. $60)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T14:29:57.651135Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Yexmas 7.5FT Halloween Inflatable Pumpkin,Halloween Blow Ups with Witch Hat for Party Yard, Garden, Lawn, Indoor Outdoor Halloween Decor $28.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T14:29:57.651135Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men Unfair Way Strapback Cap $13 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T14:29:57.651135Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "AmazonBasics 3-Button USB Wired Computer Mouse $29.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T14:24:26.575541Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Amazon Basics 16-Pack AA Rechargeable Batteries $74.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T14:24:26.575541Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Amazon Basics 16-Pack D Cell All-Purpose Alkaline Batteries $72.30",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T14:24:26.575541Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Skyrover X1 4K Drone w/ Smart Remote Controller for $699 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T14:24:26.575541Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
   "raw_title": "Flybird SR1 22\" 950lb Capacity Adjustable Power Squat Rack $136.76",
   "reason": "Posted at $136.76, but Amazon showed $189.94 when we checked — the deal is probably over",
   "rejected_at": "2026-09-09T14:18:58.375239Z",
