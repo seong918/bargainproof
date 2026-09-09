@@ -1,5 +1,45 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Cameron's Coffee 32oz Vanilla Hazelnut Roasted Ground Coffee Bag $11.23",
+  "reason": "Posted at $11.23, but Amazon showed $14.04 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T07:29:09.201482Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Sunchers 2-in-1 7.2V 1250RPM Electric Cordless Hedge & Grass Trimmer $19.79",
+  "reason": "Posted at $19.79, but Amazon showed $29.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T07:29:09.201482Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Hisense E6SR Series 65\" 4K UHD Dolby Vision QLED Smart TV for $430 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T07:29:09.201482Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ridgid 18-Volt Cordless 10-Tool Combo Kit with 2 Ah MAX Output Battery, 4 Ah MAX Output Battery, and Charger $423",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T07:29:09.201482Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ridgid 18V Cordless 3-Tool Lighting Combo Kit with Magnetic Light, 360° Area Light, and Spotlight (Tools Only) $127",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T07:29:09.201482Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$24.09 | Leviton 20A-125V Extra-Heavy Duty Hospital Grade Non-Tamper-Resistant Duplex Self-Test GFCI Receptacle, GFNT2-HGT, Light Almond at Amazon",
   "reason": "Posted at $24.09, but Amazon showed $16.37 when we checked — the post is stale",
