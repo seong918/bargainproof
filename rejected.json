@@ -1,5 +1,61 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$9.99 | Resident Evil 4 (PS4/PS5 Digital Download) at Playstation Store",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T08:41:23.331079Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$4.4 | Mortal Kombat 11 Ultimate Edition, PlayStation 4 at Walmart",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T08:41:23.331079Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Costco Members: MTG Teenage Mutant Ninja Turtles Universes Beyond 5 Tin Booster Collection $39.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T08:41:23.331079Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Zippo Lighter Inserts $16.23",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-09T08:35:58.219414Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "VEVOR 60\" TV Stand with Mount for up to 75 in TVs $114.32",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-09T08:35:58.219414Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Phomemo M108 1200mAh USB-C Bluetooth Label Maker with 100-Piece Thermal Labels $13.99",
+  "reason": "Posted at $13.99, but Amazon showed $29.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T08:35:58.219414Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Costco Members: Gazillion Bubbles Ultimate Bubble Mania $9.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T08:35:58.219414Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "eBay Live New York Fashion Week Auctions for Deals from $1",
   "reason": "Not evaluated",
