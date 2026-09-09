@@ -1,6 +1,134 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "The Dreaming Boy Is a Realist Season 1 (Blu-ray) $25.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-09T16:53:32.323920Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Cincom 3-Mode 3-Intensity 3-Heat Level Corded Air Compression Leg Massager $68.99",
+  "reason": "Posted at $68.99, but Amazon showed $169.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T16:53:32.323920Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Hilmon 2-in-1 Multifunctional Double Sided Chopping Board $13.99",
+  "reason": "Posted at $13.99, but Amazon showed $23.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T16:53:32.323920Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "VEVOR Mechanic Tool Set 314-Piece w/ Sockets, Wrenches & Storage Case $88.10",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T16:53:32.323920Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Govee Smart LED Strip Light 13.1' with Skyline Kit (RGBWWIC Color) $59.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T16:53:32.323920Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "SKIL PWR CORE 12V USB-C 2.0Ah Battery w/ Charger 2-Pack $49.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T16:53:32.323920Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "House of Earth and Blood (Crescent City Book 1) eBook $2.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T16:53:32.323920Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Waterpik Cordless Pulse 3100 Portable Water Flosser, Rechargeable $34.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T16:53:32.323920Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "WÜSTHOF 9\" Triple Rivet Honing Steel $19.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T16:53:32.323920Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "The Glass Castle: A Memoir (eBook) $2.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T16:53:32.323920Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "A Court of Thorns and Roses eBook $2.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T16:53:32.323920Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Men's Vintage Freedom Flag Polo Shirt for 2 for $8 + $18 shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T16:53:32.323920Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SAMS CLUB Base Membership (NEW CUSTOMER) $25 at link",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T16:53:32.323920Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$55 Sams Club Plus One Year Membership (NEW CUSTOMERS)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T16:53:32.323920Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M18 FUEL 18V Lithium-Ion Brushless Cordless 1/4 in. Braking Die Grinder Slide Switch w/5.0Ah Battery $249",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T16:53:32.323920Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Metroid™ Ravenous Special Edition Nintendo Switch 2 + Amiibo $119.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T16:53:32.323920Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "COSLUS FBS01 Facial Cleansing Brush Face Scrubber, Compact for Travel $4.98",
   "reason": "Posted at $4.98, but Amazon showed $9.98 when we checked — the deal is probably over",
   "rejected_at": "2026-09-09T16:47:59.220588Z",
