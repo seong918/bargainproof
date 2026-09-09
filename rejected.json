@@ -1,5 +1,61 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "ECOVACS DEEBOT T80 Omni Robot Vacuum, OZMO Roller Mop Instant Self-Washing $399",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-09T09:03:38.728597Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "100' addlon Outdoor Waterproof Dimmable LED String Lights $16.49 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-09T09:03:38.728597Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "9-Night India Flight, Hotel, and Tour Vacation for From $8,098 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T09:03:38.728597Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Yoga Band Apple Watch Strap for $27.60 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T09:03:38.728597Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "New QVC Members: HP Deskjet AIO 2000 Series Printer w/ $50 Instant Ink $29.98 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T09:03:38.728597Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$14.99 | FINAL FANTASY VII REBIRTH (PS5 Digital Download) at Playstation Store",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T09:03:38.728597Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Pack Expandable Metal Plant Trellis $5.99 – Heavy-Duty Climbing Support for Potted Plants & Vines",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T09:03:38.728597Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Enjoywood 60\" Adjustable Workbench for $152 + free shipping",
   "reason": "Not evaluated",
