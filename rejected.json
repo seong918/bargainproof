@@ -1,6 +1,134 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "DeWalt 20V Max Lithium-Ion 6.0Ah / 4.0Ah Battery Starter Kit for $119 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T10:21:31.393618Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Inflatable T-Rex Dinosaur Adult Costume for $27 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T10:10:24.369995Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Yaheetech 236\"x 71\" Double Retractable Privacy Screen for $123 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T10:10:24.369995Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ryobi USB Lithium Cordless Bike & Ball Pump Inflator Kit for $20 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T10:10:24.369995Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "5.3-Gallon Portable Camping Toilet for $69 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T10:10:24.369995Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "UGREEN USB C Docking Station Triple Monitor 4K, 12-in-1 Dock with 2xHDMI+DP $47.98",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-09T10:04:50.631165Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Open-box Fjorden Basic Bundle Camera Grip for iPhone for $17 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T10:04:50.631165Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Naipo 3-Ton Low Profile Floor Jack for $140 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T10:04:50.631165Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "11-Night India Flight, Hotel, and Tour Vacation for From $10,298 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T10:04:50.631165Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Horror 20 Movie Collection (DVD) $11.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T10:04:50.631165Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "21.7\"x13.8\" Goodpick 83L Cotton Woven Rope Storage Basket $13.49 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-09T09:59:15.967503Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LEGO Minecraft The Armadillo Mine Expedition Building Set (21269) $23.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-09T09:59:15.967503Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "HDX 2.5-Qt. Tough Storage Tote for 6 for $10 + free shipping w/ $25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T09:59:15.967503Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Hsility Bluetooth Wireless Earbud with Microphone for $10.20 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T09:59:15.967503Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "4.4-Gallon Beverage Dispenser for $41 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T09:59:15.967503Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ryobi Multi Surface Laser Level w/ 25-ft. Compact Tape Measure for $30 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T09:59:15.967503Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
   "raw_title": "Walmart Outdoor Halloween Skeleton Decor Deals for From $5.97 + free shipping w/ $35",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-09T09:53:40.780133Z",
