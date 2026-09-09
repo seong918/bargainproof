@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Prime: Frebeauty Stackable Jewelry Trays Set of 4 Organizer with Glass Lid $19.99 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-09T06:00:00.152857Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $11.68 | 2 × 3-Pack 5.4-Oz Crest + Scope Complete Whitening Toothpaste (Minty Fresh) ($5.84 each) at Amazon ($1.95 each)",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-09T06:00:00.152857Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "1-Gallon Ortho Home Defense Insect Killer $7.91 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T06:00:00.152857Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Kobalt 24V 150W Fast Battery Charger $29 at Lowe's w/ Free Store Pickup",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-09T05:54:25.849450Z",
