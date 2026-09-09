@@ -1,5 +1,93 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Flybird SR1 22\" 950lb Capacity Adjustable Power Squat Rack $136.76",
+  "reason": "Posted at $136.76, but Amazon showed $189.94 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T14:18:58.375239Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Alorels 360-Degree Flip 1080p FPV Foldable Mini Drone Camera with 2x Batteries $21.99",
+  "reason": "Posted at $21.99, but Amazon showed $43.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T14:18:58.375239Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "AstroAI H2 Pro Auto Shut-Off Tire Inflator Portable Air Compressor $23.49",
+  "reason": "Posted at $23.49, but Amazon showed $46.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T14:18:58.375239Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Zity UPF 50+ UV Protection Casual Mens Long Sleeve Polo Shirt $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $14.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T14:18:58.375239Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Fleece Vest V Neck Button Down Vest $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T14:18:58.375239Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Le Creuset Star Trek Collection for From $35, free gift w/ $275 + shipping varies",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T14:18:58.375239Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Yshow Men's 4-Pack Fitted Crew Neck T-Shirts for From $18.49 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T14:18:58.375239Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "GunVault AR 1000 Assault Rifle Vault for $15 + free shipping w/ $50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T14:18:58.375239Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "KFC 10pc Double Hot Crispy Wings: Free w/ $15 order + shipping varies",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T14:18:58.375239Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Nearity A11 Conference Speakermic for $40 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T14:18:58.375239Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Round Trip Las Vegas to Toronto Canada (Niagara Falls) $297 AIrfares on Delta Air Lines BE (Travel October - December 2026)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T14:18:58.375239Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Select Accounts: 6-Pack Stock Your Home 100-Hour Liquid Paraffin Emergency Candles (Unscented) $20.99 w/ S&S + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
