@@ -1,6 +1,14 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$9.99 Sale for The Maxx: The Complete Series",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T03:46:07.645727Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$1.21 S&S or $1.08 ea wyb 4 Amazon Grocery, Frosted Toaster Pastries, Cherry, 13.5 Oz, 8 Ct",
   "reason": "Community score too low (+-1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-09T03:40:32.664099Z",
