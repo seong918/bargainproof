@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$8.99 S&S AMAZON PetLovers Extra Sticky Lint Roller Mega Value Set 450 Sheets for Pet Hair Removal and Clothes, Dog and Cat Lint Remover 5 Pack",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-09T03:12:37.545600Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Lefant M310 Ultra Robot Vacuum and Mop $70.99",
+  "reason": "Posted at $70.99, but Amazon showed $169.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T03:12:37.545600Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "12\" Lidguni 15-Note Steel Tongue Drum w/ Mallets & Carry Bag $29.99 & More + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-09T03:07:03.252375Z",
