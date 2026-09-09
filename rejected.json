@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "LONTEK 40% Incline Walking Pad Treadmill w/ Handle Bar & 3HP Brushless Motor $189.19 + Free Shipping",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-09T05:32:09.267003Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-in-1 VEVOR Rollator Walker & Wheelchair $59.99 + Free Shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T05:32:09.267003Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[SnS] $22.69 | 4-Pack Filtrete 8x30x1 AC Furnace Air Filter, MERV 8, MPR 700 at Amazon",
   "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-09T05:26:35.722579Z",
