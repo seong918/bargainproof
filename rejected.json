@@ -1,6 +1,94 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$24.09 | Leviton 20A-125V Extra-Heavy Duty Hospital Grade Non-Tamper-Resistant Duplex Self-Test GFCI Receptacle, GFNT2-HGT, Light Almond at Amazon",
+  "reason": "Posted at $24.09, but Amazon showed $16.37 when we checked — the post is stale",
+  "rejected_at": "2026-09-09T07:23:35.786647Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "67-Piece Bloody Handprint Halloween Window Clings for $6 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T07:23:35.786647Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Spec Ops Tools Hog Ring Plier for $15 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T07:23:35.786647Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Dri Duck Shirts at Field Supply for $15 or get three + at $12.50 each + shipping varies",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T07:23:35.786647Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ridgid 18V Brushless Cordless 6-1/2 in. Circular Saw Kit with 4.0 Ah MAX Output Battery and Charger $129",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T07:23:35.786647Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M18 FUEL 18V Lithium-Ion Brushless Cordless 4-1/2 in./5 in. Grinder with Paddle Switch with (1) 5.0 Ah Battery $179",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T07:23:35.786647Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ryobi ONE+ 18V Cordless 2-Tool Combo Kit with Multi-Tool and 5 in. Random Orbit Sander (Tools Only) $69",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T07:23:35.786647Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Fanflix: Bundles $7.99+ wyb 2+ AND CODE Iconic Decade 10 Film Collections $10.7 + more",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T07:23:35.786647Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M18 18V Lith-Ion Cordless Compact Blower w/ 2.0 Ah Battery $119",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T07:23:35.786647Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ryobi ONE+ 18V Cordless 1/2 in. Impact Wrench with ONE+ 18V Cordless 4 in. Clamp Fan (Tools Only) $69",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T07:23:35.786647Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M18 18V Lithium-Ion Cordless Oscillating Multi-Tool (Tool-Only) with 2.0 Ah Compact Battery $125",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T07:23:35.786647Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "PlayStation 5 Portal Remote Player - Midnight Black $125",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-09T07:18:01.753959Z",
@@ -29562,14 +29650,6 @@
  {
   "source": "slickdeals",
   "raw_title": "$10 LOWES CRAFTSMAN 14 -Piece Assorted Assorted Gold oxide coated Jobber length Twist Drill Bit Set",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T07:10:23.452359Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Ridgid 18V Brushless Cordless 6-1/2 in. Circular Saw Kit with 4.0 Ah MAX Output Battery and Charger $129",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T07:10:23.452359Z",
   "code": "not_checked",
