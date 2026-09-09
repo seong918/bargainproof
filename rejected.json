@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon – Nature Echo 20-in-1 Mushroom Coffee w/ Ashwagandha, 3.17 Oz - $6.99 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-09T01:43:26.911591Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$1.99 | Unhumans: The Secret History of Communist Revolutions (and How to Crush Them) (eBook) by Jack Posobiec, Joshua Lisec",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-09T01:43:26.911591Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Cottonelle Summer Fresh Scented 84-Count Flushable Wipes for $2.67 via Sub & Save + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T01:43:26.911591Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "799 pcs LEGO Icons Williams Racing FW14B & Nigel Mansell F1 Model Car Kit(10353) $52.91 + Free S&H at Walmart",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T01:43:26.911591Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon – BEAUZMO Mini Epilator w/ LED - $11.99 w/ Code + Coupon",
   "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-09T01:37:53.895812Z",
