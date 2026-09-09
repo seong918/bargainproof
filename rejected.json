@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS] $6.63 | 8-Pack 15.5-Oz Goya Foods Black Beans at Amazon (82.9￠ each)",
+  "reason": "Community score too low (+-2) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-09T16:03:47.757800Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "YOTTOY Cordless Jump Rope with Counter (Black) $6.16",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T16:03:47.757800Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Vacuum Bags for Travel with Rechargeable USB Electric Pump 12-Pack $14.50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T16:03:47.757800Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Quilted Floral Diaper Caddy Organizer $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T16:03:47.757800Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Halloween Trunk or Treat Car Decorations Kit Inflatable Ghost with LEDs $23.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T16:03:47.757800Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Costway 4-Tier Desk Shelf Desktop Display Rack w/ Metal Grid Panel & 6 Hooks for $53 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T16:03:47.757800Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "13-Night Japan Flight, Hotel, and Tour Vacation for From $19,298 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T16:03:47.757800Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Smiseacow 15.6\" Laptop Screen Extender for $117 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T16:03:47.757800Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "8-Pack 12-Oz BODYARMOR Tropical Punch Sports Drink $3.58 w/ S&S + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-09T15:58:16.667855Z",
