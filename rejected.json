@@ -1,6 +1,166 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Pokémon Super Duper Extra Deluxe Essential Handbook $12.75 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-09T13:56:59.616574Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$1.69 S&S AMAZON Cloralen Household Cleaning Liquid Bleach - 32.12 fl oz",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-09T13:56:59.616574Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Tender Mercies (Special Edition Kino Lorber Classics) [Blu-ray] $14.99 Amazon.com",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-09T13:56:59.616574Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bear Baby Food Maker Steamer & Blender with Dual-Layer Steam Baskets, 18.5oz Green $48 + Free Shipping",
+  "reason": "Posted at $48.00, but Amazon showed $79.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T13:56:59.616574Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Trench Coat Stand Collar Mid-Length Overcoat $27.88",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T13:56:59.616574Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ruffle Open Front Cardigans Button Jackets $16.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T13:56:59.616574Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Gnome Christmas Tree 3D Advent Calendar Countdown $19.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T13:56:59.616574Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Family Christmas Pajamas Matching Sets $9.71",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T13:56:59.616574Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Dog Chew Toys Toothbrush Toy with Rope $9.09",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T13:56:59.616574Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "EGELEXY Football Game Day Sweatshirts $11.89",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T13:56:59.616574Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Samsung H5000F 32\" HD HDR Smart LED TV for $100 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T13:56:59.616574Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Kroger Fresh Produce for $5 off $25 + shipping varies",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T13:56:59.616574Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "lululemon Men's Zero Tucks Relaxed-Fit Pant for $69 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T13:56:59.616574Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M18 Brushless 18V Cordless Telescoping Pole Pruning Saw w/ 6.0 Ah Battery $499.00 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T13:56:59.616574Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Clarks Women's Fenner Nerice Flip-Flops (Honey) $20.99 + Free Pickup at Macys or Free Shipping on $39+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T13:56:59.616574Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Pinspark Quick Dry UPF 50+ Sleeveless Workout Tank Top (Many Colors, Sizes) $6.99",
+  "reason": "Posted at $6.99, but Amazon showed $12.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T13:51:30.204049Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Pantasia 12.9\"-21.9\" Expandable Pan Organizers with 12 Dividers (White) $15.29",
+  "reason": "Posted at $15.29, but Amazon showed $29.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T13:51:30.204049Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Halloween Table Decor $4.39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T13:51:30.204049Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Meal Prep Containers 50-Pack $13.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T13:51:30.204049Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Airfares Orlando FL - Atlanta or Vice Versa $19 One-Way or $38 Round Trip on Frontier Airlines BE (Travel October - November 2026)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T13:51:30.204049Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Somewhere in Time 4K $22.49 Amazon.com",
   "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-09T13:46:00.410458Z",
