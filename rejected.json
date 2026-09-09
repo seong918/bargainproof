@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon - 24\" Mobile Home Anchors - $29.99 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-09T02:44:44.852084Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$24.99 AMAZON BLACK+DECKER dustbuster Cordless Handheld Vacuum",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-09T02:44:44.852084Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "333-Piece Lego Ninjago Kai's Mech Storm Rider Action Figure Building Toy $35.99 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-09T02:44:44.852084Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Vertvie Jelly Bra No Underwire Seamless Push Up Full Coverage $8.49",
+  "reason": "Posted at $8.49, but Amazon showed $16.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T02:44:44.852084Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "3-Pack Crystal 26\" Counter Height Fabric Upholstered Bar Stools w/ Black Metal Frame (Linen) $118.39 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T02:44:44.852084Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Hanging Lighted Ghost with Wizard Hat $11.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T02:44:44.852084Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "24-in-1 Multitool with Knife, Pliers & 11 Screwdriver Bits Sharp Stainless Steel $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T02:44:44.852084Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Beats Solo Buds Ivory In Ear Headphones $31.28",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T02:44:44.852084Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Costco Members: BISSELL Cleanview PowerEdge Rewind Pet Upright Vacuum $89.99 + $5 S&H",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-09T02:39:10.970872Z",
