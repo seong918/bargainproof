@@ -1,5 +1,21 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Open-box KitchenAid 5.5-Quart Bowl-Lift Stand Mixer for $229 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T09:48:07.747627Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Anker 8-in-1 USB-C Laptop Docking Station w/ Dual 4K HDMI $39.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T09:48:07.747627Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "[Prime] MUCAR CDE900 4\" Touchscreen OBD2 Scanner w/ AutoVIN, Live Data & DTC Lookup $45.10 + Free Shipping",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
