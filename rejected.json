@@ -1,5 +1,53 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "[Prime] MUCAR CDE900 4\" Touchscreen OBD2 Scanner w/ AutoVIN, Live Data & DTC Lookup $45.10 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-09T09:42:36.235636Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "4-Oz Aleene's Leather & Suede Glue $3.59 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-09T09:42:36.235636Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Fanient Men's 3D Hairy Chest Print Crewneck T-Shirt for $9 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T09:42:36.235636Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "20A Leviton Slim GFCI Weather & Tamper-Resistant Outlet (GFWT2-W, White) $17.80 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+-2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-09T09:37:02.876850Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "DeWalt 20V Max Atomic 1/2\" Hammer Drill Driver for $73 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T09:37:02.876850Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Pack Fastsnail Nintendo Switch 2 & Switch Joy-Con Controller Grips $8.99 + Free Shipping w/ Prime or $6 Fee per Order",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T09:37:02.876850Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "82-Foot Halloween Caution Tape for $2.99 w/ Prime + free shipping w/ Prime",
   "reason": "Not evaluated",
