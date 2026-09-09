@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$14.99 Sale for Kroll Show: The Complete Series",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T03:29:22.864039Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$18.74 for 24 Bottles S&S-MultiBuy 2 x 12 Snapple Zero Sugar Raspberry Tea, 16 fl oz recycled plastic bottle,",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-09T03:23:47.380157Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Honeycomb: The World Beyond",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T03:23:47.380157Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$5.98 S&S AMZ Scrubbing Bubbles Fresh Brush Toilet Bowl Cleaner Kit with Flushable Pads",
   "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-09T03:18:12.121920Z",
