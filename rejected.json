@@ -1,5 +1,85 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "[NEW, SnS] $14.28 | Soeos Fortune Cookies, Approx 96 Count, Vanilla Flavor at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-09T10:32:40.295864Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$7.89 | Watco Dark Walnut Danish Oil Wood Finish at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-09T10:32:40.295864Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Spirit Halloween Decorations Sale: Up to 75% off + free shipping w/ $40",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T10:32:40.295864Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M18 FUEL 18V Lith-Ion Brushless Cordless Compact Bandsaw w/ 5.0 Ah Battery $296",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T10:32:40.295864Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M18 18V Lithium-Ion Brushless Cordless 1/2 in. Compact Drill/Driver with One 2.0 Ah Battery, Charger and Tool Bag $95.25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T10:32:40.295864Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Makita 18V LXT Sub-Compact Lithium-Ion Brushless StarlockMax Cordless Multi-Tool (Tool Only) $150",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T10:32:40.295864Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Makita 18V LXT Lithium-Ion Brushless Cordless 4-1/2 in./5 in. Paddle Switch X-LOCK Angle Grinder with AFT, Tool Only $117",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T10:32:40.295864Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Open-Box Wyze Cam Pan v3 Indoor/Outdoor 1080p Security Camera for $23 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T10:27:06.182867Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ridgid 18V Cordless Inverter w/ 2.0Ah Battery for $79 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T10:27:06.182867Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "WestinTrends Paolo 9 Ft Outdoor Umbrella(Gray) $19.99 + Free S&H w/ Walmart+ or $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T10:27:06.182867Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "DeWalt 20V Max Lithium-Ion 6.0Ah / 4.0Ah Battery Starter Kit for $119 + free shipping",
   "reason": "Not evaluated",
