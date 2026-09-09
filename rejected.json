@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$17.63* | Lee Women's Ultra Lux Comfort Flex Motion Skinny Leg Jeans (Black) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-09T10:38:16.990528Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$20.21* | Led Zeppelin III (Remastered Vinyl LP + MP3 Album) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-09T10:38:16.990528Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "TayMac Weatherproof Outlet Cover for $8 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T10:38:16.990528Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee SHOCKWAVE Impact-Duty 3/8 in. Drive SAE Deep Well Impact PACKOUT Socket Set (17-Piece) $75.8",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T10:38:16.990528Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[NEW, SnS] $14.28 | Soeos Fortune Cookies, Approx 96 Count, Vanilla Flavor at Amazon",
   "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-09T10:32:40.295864Z",

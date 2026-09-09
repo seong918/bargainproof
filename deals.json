@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "b214d1652ec4",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19991298-15-99-buyers-products-rc24ppb-24-x-24-inch-black-polymer-mud-flaps-2-pack-at-amazon",
+  "title": "Buyers Products RC24PPB 24 x 24 Inch Black Polymer Mud Flaps, 2 Pack",
+  "raw_title": "$15.99 | Buyers Products RC24PPB 24 x 24 Inch Black Polymer Mud Flaps, 2 Pack at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B06XR278C5",
+  "deal_total_cents": 1599,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "qty"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 1599,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1599,
+  "amazon_url": "https://www.amazon.com/dp/B06XR278C5",
+  "amazon_checked_at": "2026-09-09T10:43:54.886570Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B06XR278C5",
+  "image_url": null,
+  "published_at": "2026-09-09T10:43:51.010844Z"
+ },
+ {
   "deal_id": "7aa75b8af289",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19991283-22-99-craftsman-3-8-drive-17-1-2-inch-breaker-bar-speeder-wrench-cmmt44271-at-amazon",
