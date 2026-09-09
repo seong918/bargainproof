@@ -1,5 +1,29 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Frontier Organic Ground Vietnamese Cinnamon, 1-Pound Bulk, Premium Quality Cinnamon, Full Balanced Spicy Flavor, Kosher $10.22",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-09T23:43:41.775930Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SWISSWELL Mens Sherpa Lined Fleece Shirts Jacket Plaid Flannel Zip Up Hoodies Heavyweight Winter Warm Coat with Pocket $20 AC + Free Shipping",
+  "reason": "Posted at $20.00, but Amazon showed $39.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T23:43:41.775930Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "HP OmniBook 7 Core Ultra 7 17.3\" Touchscreen Laptop for $760 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T23:43:41.775930Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Academy Sports + Outdoors Clearance Footballs: Up to 80% off + free shipping w/ $25",
   "reason": "Not evaluated",
