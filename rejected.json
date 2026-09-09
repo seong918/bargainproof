@@ -1,5 +1,133 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "WellLeo 300ml Cordless Rechargeable Water Flosser $9",
+  "reason": "Posted at $9.00, but Amazon showed $19.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T20:34:35.708046Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Yofidra 9.29\" Universal Kitchen Sink Sponge Holder with Drying Stone Mat $6.29",
+  "reason": "Posted at $6.29, but Amazon showed $4.99 when we checked — the post is stale",
+  "rejected_at": "2026-09-09T20:34:35.708046Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Zity Men's Flannel Warm Fleece Lined Button Down Long Sleeve Shirt $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $14.27 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T20:34:35.708046Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "MERONTE MR5866 HEPA Air Purifier, Ivory $49.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T20:34:35.708046Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Puffs Facial Tissue Ultra Soft Non-Lotion 8 Rectangle Boxes 124 Count (992 total) $9.55",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T20:34:35.708046Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "TOPHDY Manual Spike Lawn Aerator Tool w/ 15 Iron Spikes $14.03",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T20:34:35.708046Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Giftgarden 8x10 Picture Frames Set of 15 $15.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T20:34:35.708046Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "USB3.0 Capture Card YUY2 1080P 60FPS $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T20:34:35.708046Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Kaliyadi Men's or Women's UV400 Polarized Rectangle Sunglasses 3-Pack $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T20:34:35.708046Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Crayola 10-Count Ultra-Clean Washable Broad Line Markers for $3 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T20:34:35.708046Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "The North Face Surge Commuter Laptop Backpack for $75 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T20:34:35.708046Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Garmin Venu 3S 41mm Smartwatch for $288 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T20:34:35.708046Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Over-the-Door Organizer Just $10.49 on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T20:34:35.708046Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nextbase Piqo 2K Dashcam with 64GB MicroSD Card and Piqo Quick Connect Cable $99.99 Free Shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T20:34:35.708046Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Kenmore 1.1 cu ft Microwave Oven Black: Countertop Oven, 1000W, Child Lock, 6 Programs, 1 Year Warranty $46.74",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T20:34:35.708046Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Type S T402 Dual View 4K Dashcam with Enhanced AI Driver Assistance $99.99 Free Shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T20:34:35.708046Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Seesii 1/2\" x 18\" Hand Held Belt Sander w/ 2x 2.0Ah Battery & Charger $30.99",
   "reason": "Not evaluated",
