@@ -1,5 +1,125 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Hisense E7 Cinema Series 75E7SF 75\" 4K UHD Smart TV for $698 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T07:12:26.668018Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "11.8\" Metal Zip Tie 100-Pack for $6 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T07:12:26.668018Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Fanflix: 25 Paramount Digital Action Movies $22.5",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T07:12:26.668018Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M18 18-Volt Lith-Ion Cordless 4500 Lumens ROVER Dual Power Triple-Panel Flood & Area Light with 2.0 Ah Compact Battery $161",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T07:12:26.668018Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Reima Lammikko Rain Pant - Kids' $22.75",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T07:12:26.668018Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "M18 FUEL 18V Lith-Ion Brushless Cordless 1/2 in. Hammer Drill/Driver w/ 5.0 Ah Battery $179",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T07:12:26.668018Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Gearwrench 1/4 in. and 3/8 in. Drive 72-Tooth 6-Point Professional Tool Set (138-Piece) $79.97 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T07:12:26.668018Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee 8 pc. 2-Cutter M/2 SDS-Plus Rotary Hammer Drill Bit Set $22 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T07:12:26.668018Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "RIDGID 18V MAX Output Starter Kit with (2) 4.0 Ah Batteries and Charger $79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T07:12:26.668018Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "23-Gauge 1-3/8 in. Pneumatic Pin Nailer $38",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T07:12:26.668018Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DIABLO Bi-Metal and AMPED Carbide 9 in. 8 TPI Thick Metal Reciprocating Saw Blade Set (6-Piece) $9.00 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T07:12:26.668018Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "RYOBI ONE+ HP 18V Brushless Cordless 8-1/4 in. Compact Portable Jobsite Table Saw (Tool Only) $234",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T07:12:26.668018Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "M12 12-Volt Lithium-Ion Cordless Copper Tubing Cutter with M12 12-Volt Lithium-Ion CP High Output 2.5 Ah Battery Pack $149",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T07:12:26.668018Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M18 FUEL 18V Lith-Ion Brushless Cordless 1/2 in. Hammer Drill/Driver w/ 5.0 Ah Battery $179",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-09T07:12:26.668018Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "M18 18-Volt Lith-Ion Cordless 4500 Lumens ROVER Dual Power Triple-Panel Flood & Area Light with 2.0 Ah Compact Battery $161",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-09T07:12:26.668018Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "slickdeals",
   "raw_title": "2-Pack 1-Gallon Shabebe Mulch & Rock Glue Landscape Stabilizer $27 ($13.50 each) + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
@@ -29482,14 +29602,6 @@
  {
   "source": "slickdeals",
   "raw_title": "Ryobi ONE+ 18V 3-Piece Cordless LED Lighting Combo Kit (Tools Only) $58.00 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T07:04:49.326546Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "RIDGID 18V MAX Output Starter Kit with (2) 4.0 Ah Batteries and Charger $79",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T07:04:49.326546Z",
   "code": "not_checked",
