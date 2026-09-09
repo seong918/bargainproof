@@ -1,6 +1,158 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "2.4L Gxcror Waterproof Bike Handlebar Bag w/ 4-Position Mounting $9.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+-2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-09T03:01:29.388673Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Smart Scale with Full Body Composition Analysis $45.99 w/ coupon and code",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-09T03:01:29.388673Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Soundcore Liberty 5 Pro by Anker Noise Cancelling Wireless Earbuds (Various Colors) $150 + Free Shipping",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-09T03:01:29.388673Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Adidas men's dayready tracktop and other deals at Simon - $19",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T03:01:29.388673Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Husky 5-Piece Pliers and Wrench Set $19.97 ( In Store Clearance Price As Low As $6.22 )",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T03:01:29.388673Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Vampire: The Masquerade - Bloodlines 2 (PlayStation 5) $15 + Free S&H w/ Prime or $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-09T02:55:54.560575Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "YOTTOY Cordless Jump Rope with Counter - Ropeless Rope 2 In 1 with Large Cordless Ball-Weighted Jump Rope for Women with LCD Display (Black) $6.16",
+  "reason": "Posted at $6.16, but Amazon showed $12.33 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T02:55:54.560575Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Care Bears by PieceRelax 3D Puzzle Coin Bank - Birthday Bear - 84 Curved Plastic Puzzle Pieces $10.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T02:55:54.560575Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Robarb 71205 Super Blue Swimming Pool Clarifier $4.24",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T02:55:54.560575Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "17.5\" x 6.5' KESPEN One-Way Window Privacy Film Static Cling (Black/Silver) $5.35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T02:55:54.560575Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Safer Home Flying Insect Trap $14.39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T02:55:54.560575Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "DUMOS King Bed Frame with Headboard Drawers, RGB Light & Charging Station $129.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T02:55:54.560575Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Samsung Galaxy Fit3 Fitness Tracker w/ 1.6\" AMOLED Display $39.84",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T02:55:54.560575Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Coobiiya 10L Lunch Box Lunch Bag (Black) $5.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T02:55:54.560575Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Olight Sphere Smart Night Light $13.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T02:55:54.560575Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Trading Places: 40th Anniversary (4K UHD + Blu-ray + Digital) $14.35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T02:55:54.560575Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Digital Caliper Measuring Tool $15.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T02:55:54.560575Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Casio Men's GW-7900-1CR G-Shock Digital Display Quartz 50mm Watch $99.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T02:55:54.560575Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "CIGA Design Blue Planet U Series 46mm Automatic Skeleton Watch $719.40",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T02:55:54.560575Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Mulittea (2 Pack) Vitamin D3 K2 Liquid 10000 IU w/ MK7, Omega-3 & MCT Oil $10.24",
   "reason": "Posted at $10.24, but Amazon showed $20.46 when we checked — the deal is probably over",
   "rejected_at": "2026-09-09T02:50:19.110313Z",
