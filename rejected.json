@@ -1,5 +1,93 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Vevor 5-Ton Electric Car Jack for $80 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T13:13:12.572923Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "32 Degrees Men's 1/4 Zip Sweater Knit Top (6 Colors) $11.99 + Free Shipping on $23.75+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T13:13:12.572923Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LOKITHOR JP400 2500A Jump Starter + 150 PSI Air Compressor $41.96",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T13:13:12.572923Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$198.58* | Husqvarna 130 Gas Powered Chainsaw, 16 Inch at Amazon",
+  "reason": "Posted at $198.58, but Amazon showed $194.52 when we checked — the post is stale",
+  "rejected_at": "2026-09-09T13:07:42.599661Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Portable 100W Power Station and Solar Panel Bundle $34.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T13:07:42.599661Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Womens Faux Fur Coat $25.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T13:07:42.599661Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Magical Morocco Tour: 11 Nights w/Flights $4,049.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T13:07:42.599661Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "19-Piece Makeup Brush Set $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T13:07:42.599661Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Over The Door Double Hanger Hooks - 2 Pack $5.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T13:07:42.599661Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "$100 Domino's Gift Card for $85 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T13:07:42.599661Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Dewalt 20V MAX* 1 in. PEX Expander, $289.99 at ZORO",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T13:07:42.599661Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Dawn Platinum Fresh Rain Scent Liquid Dishwashing Detergent (30oz) $1.75",
   "reason": "Posted at $1.75, but Amazon showed $4.99 when we checked — the deal is probably over",
