@@ -1,5 +1,45 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Dawn Platinum Fresh Rain Scent Liquid Dishwashing Detergent (30oz) $1.75",
+  "reason": "Posted at $1.75, but Amazon showed $4.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-09T13:02:14.168749Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "NAD+ Supplement for Women NMN + NR, 9-in-1 $6.79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T13:02:14.168749Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "13-Night North India Flight, Hotel, and Tour Vacation for From $10,998 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T13:02:14.168749Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Hanes Men's EcoSmart Hoodie for $8 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T13:02:14.168749Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$5.99: LEGO ChristmasLego Ceramic Mug – Santa at LEGO.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T13:02:14.168749Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Amazon – HYCHIKA 6.2A Mini Circular Saw w/ 3 Blades - $40.19",
   "reason": "Posted at $40.19, but Amazon showed $66.99 when we checked — the deal is probably over",
