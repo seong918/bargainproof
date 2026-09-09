@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$5.98 S&S AMZ Scrubbing Bubbles Fresh Brush Toilet Bowl Cleaner Kit with Flushable Pads",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-09T03:18:12.121920Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Crescent 7-1/4 in. End Nipper Cutting Pliers ( Other Crescent Tools Also On Sale ) $12.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T03:18:12.121920Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$14.99 Sale for Nathan for You: The Complete Series",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T03:18:12.121920Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$8.99 S&S AMAZON PetLovers Extra Sticky Lint Roller Mega Value Set 450 Sheets for Pet Hair Removal and Clothes, Dog and Cat Lint Remover 5 Pack",
   "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-09T03:12:37.545600Z",
