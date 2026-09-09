@@ -1,5 +1,61 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "GreenPan Lima Hard Anodized 11” Square Griddle Pan, Ceramic Nonstick, PFAS-Free Nontoxic Pots and Pans, Oven & Broiler Safe, Stainless Steel Handle, Cookware for Eggs & Omel$40.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-09T08:02:39.319408Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "10-Pack Wfiia Travel Vacuum Storage Bags w/ USB/Type-C Pump (3 Sizes) $12.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-09T08:02:39.319408Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Optimum Nutrition Micronized Creatine Monohydrate Capsules, 300 Ct $36.33",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-09T08:02:39.319408Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "4pcYellow Costume Set w/ Hat, Goggles, Gloves & Suspenders for $10 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T08:02:39.319408Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "21-Piece 2.5\" Hex Head Allen Wrench Drill Bit Set for $7 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T08:02:39.319408Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Saker Caulk Gun Kit for $17 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T08:02:39.319408Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nearity A11 Conference Speaker w/ Mic $39.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-09T08:02:39.319408Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Power Tools on eBay Live for Deals from $1",
   "reason": "Not evaluated",
