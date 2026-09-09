@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "1e46738d25d3",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19994031-catit-creamy-lickable-cat-treat-healthy-cat-treat-salmon-50-pack-13-18",
+  "title": "Catit Creamy Lickable Cat Treat, Healthy Cat Treat, Salmon, 50 Pack",
+  "raw_title": "Catit Creamy Lickable Cat Treat, Healthy Cat Treat, Salmon, 50 Pack $13.18",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B09QQR7YJG",
+  "deal_total_cents": 1318,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 1318,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1318,
+  "amazon_url": "https://www.amazon.com/dp/B09QQR7YJG",
+  "amazon_checked_at": "2026-09-09T22:25:51.062041Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 2,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B09QQR7YJG",
+  "image_url": null,
+  "published_at": "2026-09-09T22:25:45.797615Z"
+ },
+ {
   "deal_id": "e0afb537af33",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19992102-daran-neok2-288wh-600w-lifepo4-portable-power-station-132-29-free-shipping",
