@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon – Ecarke 9' Pole Hedge Trimmer for Milwaukee 18V - $63.99 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-10T13:37:30.480338Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$3.99 | The Obesity Code by Dr. Jason Fung",
+  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-10T13:37:30.480338Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – SWISSWELL Men's Waterproof Golf Rain Pants - $14.99 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-10T13:37:30.480338Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Storage Bags - 6 Pack $11.19",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T13:37:30.480338Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "WISELIFE Dish Drying Mat Grey $4.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T13:37:30.480338Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "1\" Extra Thick Anti Fatigue Standing Mat $24.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T13:37:30.480338Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Old Navy Sale: 40% off everything + free shipping w/ $50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T13:37:30.480338Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "FREE Custom Bottle Label at Walgreens ($4 Value) + Free Store Pickup!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T13:37:30.480338Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon – Libin Women's Bootcut Stretch Pants - $11.99 w/ Code",
   "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-10T13:32:14.826003Z",
