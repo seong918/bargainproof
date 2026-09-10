@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Disguise Ender Dragon Inflatable Kids Costume, Official Minecraft Ender Dragon Inflatable Halloween Costume, Child Size (Up to 7-8) $40.97",
+  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-10T09:18:44.011899Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GENICOOK Salad Chopper w/ 8.5 Cup Glass Bowl $19.49 + Free Shipping w/ Prime or over $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-10T09:18:44.011899Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Reynolds Cut-Rite Wax Paper (75 sq ft Roll) $1.73",
+  "reason": "Posted at $1.73, but Amazon showed $2.39 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T09:18:44.011899Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "5-Foot Halloween Inflatable Ghost & Pumpkin Outdoor Decoration for $22 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T09:18:44.011899Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Scotch Magic Tape Dispenser w/ 6 Rolls for $10 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T09:18:44.011899Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$25 Starbucks egift card, $23, + 4x fuel points, Kroger Gift Cards",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T09:18:44.011899Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Starbucks K-Cup Coffee Pods, Espresso Roast, 10 Count $9.99",
   "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
   "rejected_at": "2026-09-10T09:13:13.863051Z",
