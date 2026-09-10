@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Fireproof Document Box, Hard Briefcase Fireproof Safe for Home Documents $28.99",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-10T10:39:18.633887Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Sealegend Dryer Vent Cleaner Kit with Universal Vacuum Hose Attachment $6.49",
+  "reason": "Posted at $6.49, but Amazon showed $9.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T10:39:18.633887Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Budget Santa Adult Costume for $13 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T10:39:18.633887Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Callaway Golf Bags: Fairway+ L Stand Bag $149.99, Chase Stand Bag 2026 $199.99 & More + Free Shipping on $70+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T10:39:18.633887Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Silkland USB-IF Certified USB4 for Thunderbolt 5 Cable 5FT, 80Gbps 240W 8K $31.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T10:39:18.633887Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$499.99: Philips 2300 Series Fully Automatic Espresso Machine, LatteGo Milk System",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-10T10:33:55.422605Z",
