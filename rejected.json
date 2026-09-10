@@ -1,5 +1,53 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Friday the 13th 8-Movie Collection - Limited Edition Steelbook (Blu-ray + Digital) $36.78 Amazon.com",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-10T00:21:39.680401Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Six Star Pro Nutrition 60-Count Creatine Caplets for $10 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T00:21:39.680401Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "+ earn $74 Sam's Club cash, Ninja SLUSHi MAX Smart Frozen Drink Maker, $369, Sam's Club",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T00:21:39.680401Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Apple AirPods 5 Active Noise Cancellation Wireless Earbuds $129 | w/ Wireless Charging Case $149",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T00:16:07.353590Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "SMINDER 36\" x 24\" 1200 GSM Microfiber Car Drying Towels 2-Pack for $26 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T00:10:51.510868Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Bessey Table Clamp 2-Pack for $5 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T00:10:51.510868Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Tagzilo 25W Portable Magnetic Wireless Charger with Plug (2-Pack) $8.99",
   "reason": "Posted at $8.99, but Amazon showed $17.99 when we checked — the deal is probably over",
