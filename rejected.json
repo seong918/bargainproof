@@ -1,15 +1,87 @@
 [
  {
-  "source": "hip2save",
-  "raw_title": "Huggies Baby Wipes 704-Count Box Just $12.69 Shipped on Amazon",
+  "source": "slickdeals",
+  "raw_title": "AKYEN A-Frame Dumbbell Rack Stand Only, Weight Rack for Dumbbells Compact Home Gym Space Saver, 480/800LBS Weight Capacity $52.99",
+  "reason": "Posted at $52.99, but Amazon showed $74.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T14:16:30.363358Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LOMON Button Down Shirts for Women Long Sleeve Tops Dressy Casual Blouses $13.49",
+  "reason": "Posted at $13.49, but Amazon showed $18.89 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T14:16:30.363358Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Lefant Robot Vacuum and Mop, 450ml Visible Dustbin, Upgraded 190° PSD Obstacle Avoidance, Customized Cleaning, Multi-Floor Mapping, 150 Mins Runtime M330 Pro $89.99",
+  "reason": "Posted at $89.99, but Amazon showed $129.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T14:16:30.363358Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Tresses Touch Professional Ionic Hair Dryer with Diffuser,150000 RPM High-Speed Ionic Low Noise Blow Dryer $35.99",
+  "reason": "Posted at $35.99, but Amazon showed $49.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T14:16:30.363358Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Chevron Techron 12-oz. High Mileage Fuel System Cleaner 6-Pack for $45 + free shipping",
   "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T14:10:57.143942Z",
+  "rejected_at": "2026-09-10T14:16:30.363358Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Klke Open-Ear Bone Conduction Headphones for $18 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T14:16:30.363358Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "(2 Sets) Vitalismo Artificial Topiary Cedar Trees 2FT Tall for Outdoor/Indoor $27.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T14:16:30.363358Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Vanstek 22 Colors Retractable Erasable Gel Pens Clicker, Fine Point(0.7), Free Shipping W/Prime $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T14:16:30.363358Z",
   "code": "not_checked",
   "public": false
  },
  {
   "source": "slickdeals",
   "raw_title": "adidas men M Steel Straw 600 Metal Bottle $14 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T14:16:30.363358Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "30-Oz Stanley Stainless Steel Insulated Water Bottle (3 Colors) $22.50 + Free Shipping w/ Target 360, Circle Card, or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T14:16:30.363358Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Huggies Baby Wipes 704-Count Box Just $12.69 Shipped on Amazon",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-10T14:10:57.143942Z",
   "code": "not_checked",
