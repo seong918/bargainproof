@@ -1,5 +1,37 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $4.33* | 200-Ct Nature's Bounty Fish Oil Omega 3 Supplements at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-10T22:09:32.112353Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $2.59* | 60-Ct Nature's Bounty Dual Spectrum Melatonin 5mg Tablets at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-10T22:09:32.112353Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Husky 149-Piece Mechanics Tool Set for $89 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T22:09:32.112353Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "AMC 2 Movie Theater Yellow Tickets & $10 Code for $26 + email delivery",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T22:09:32.112353Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "hip2save",
   "raw_title": "Up to 50% Off Viral Musely Rx Skincare | From $24/Month – No Office Visit Required!",
   "reason": "Not evaluated",
