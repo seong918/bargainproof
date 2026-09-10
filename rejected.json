@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$8.09 AMZ 3 Count Febreze Plug-In Air Freshener, Odor-Fighting Scented Oil Refill Long Lasting, Gain Original Scent, 0.87oz Refills, Blue and Green",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-10T11:26:21.583489Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "ToLife 95-oz. 1,000-sq. ft. Dehumidifier for $60 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T11:26:21.583489Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Refurb HP EliteBook 830 G8 Tiger Lake 13.3\" Touch Laptop w/ 32GB RAM for $340 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T11:21:11.616827Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Fortnite: Darkfire & Ice Bundle (Nintendo Switch 2) $20 + Free Shipping w/ Circle Card or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T11:21:11.616827Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "CAMBIVO 2-Pack Adjustable Calf Compression Wraps (L or XL) $15 + Free S&H w/ Prime",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-10T11:15:55.632573Z",
