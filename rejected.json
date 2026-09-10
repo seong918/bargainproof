@@ -1,6 +1,142 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon – Libin Women's Bootcut Stretch Pants - $11.99 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-10T13:32:14.826003Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – LINTYLE 3-Pack 64GB USB-C / USB-A Flash Drives - $27.74 at Checkout",
+  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-10T13:32:14.826003Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "60-Piece Black Silverware Set - Stainless Steel Silverware Set for 12 $31.99 @Amazon",
+  "reason": "Posted at $31.99, but Amazon showed $63.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T13:32:14.826003Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Oraolo N-Lite 216 Open Ear Earbuds with Bluetooth 6.0 $19.79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T13:32:14.826003Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Sandalwood Hair Comb Set 2 Pcs $7.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T13:32:14.826003Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Brushless Cordless Electric Leaf Blower for $20 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T13:32:14.826003Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Pokémon TCG 30th Celebration Elite Trainer Box for preorders for $90 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T13:32:14.826003Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "39\" x 157\" Faux Ivy Privacy Fence Screen for $24 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T13:32:14.826003Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas FIFA World Cup 26™ Trionda Competition Ball $37.89",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T13:32:14.826003Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$15.15 S&S Q Purina Friskies Meaty Bits Wet Cat Food in Gravy, Chicken, (24) 5.5 oz Cans",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-10T13:26:55.784614Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2 Pcs Artificial Hanging Fall Flowers, UV Resistant Fake Flowers, Orange Red $12.79 AC + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-10T13:26:55.784614Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Niimbot B1 Label Maker Machine With Tape $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T13:26:55.784614Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Portable Steam Cleaner Set with 16 Accessories $41.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T13:26:55.784614Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Oraolo Open Ear Headphones with 16mm Large Drivers $35.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T13:26:55.784614Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Airtight Dog Treat Containers - Set of 2 $17.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T13:26:55.784614Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "2-in-1 Slow Feeder Dog Bowl with Rolling Ball $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T13:26:55.784614Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Sonic Electric Toothbrush Set $8.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T13:26:55.784614Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "7.5W Indigotech Qi-Certified MagSafe Charger $5.22 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+4) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-10T13:21:20.638283Z",
