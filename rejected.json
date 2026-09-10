@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Bosch OSL214K 2-1/4 in. Starlock Oscillating Multi Tool Caulk Knife Blade $9",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-10T11:42:36.518615Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bosch OSL200RS 2 in. Starlock Oscillating Multi Tool High-Carbon Steel Rigid Scraper $8.9",
+  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-10T11:42:36.518615Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$12.99: Like-New Fire TV Stick HD, Alexa Voice Remote",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-10T11:42:36.518615Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Greenworks POWERALL 24V Cordless 200N Flashlight - Tool Only $23.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T11:42:36.518615Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[NEW, SnS] $8.52 | 3-Pack 6.7-Oz Harry's Foaming Shave Gel for Men with Aloe at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-10T11:42:36.518615Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon – JUNQIU US 2026 Crystal Snowflake Christmas Ornament - $7.99 w/ Code + Coupon",
   "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-10T11:31:37.294506Z",
