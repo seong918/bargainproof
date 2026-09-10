@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "892bcaad4dcd",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19995960-17-99-oxo-outdoor-grilling-turner-and-tongs-set-at-amazon",
+  "title": "OXO Outdoor Grilling Turner and Tongs Set",
+  "raw_title": "$17.99* | OXO Outdoor Grilling Turner and Tongs Set at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B08R6FMMD2",
+  "deal_total_cents": 1799,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 1799,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1799,
+  "amazon_url": "https://www.amazon.com/dp/B08R6FMMD2",
+  "amazon_checked_at": "2026-09-10T11:53:51.056256Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B08R6FMMD2",
+  "image_url": null,
+  "published_at": "2026-09-10T11:53:45.878349Z"
+ },
+ {
   "deal_id": "deabb89456dd",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19995717-prime-49-99-vtoman-x1-2500a-jump-starter-150psi-air-compressor-for-8-5l-gas-6l-diesel-at-amazon",
