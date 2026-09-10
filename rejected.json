@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Animal Cuts Thermogenic Fat Burner Complex for Men & Women | 42 Pill Packs $30.48 (S&S) + Free Shipping $30.48",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-10T04:24:18.458812Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "High Test Gummies Sitewide Sale: Extra 20% off + free shipping w/ $50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T04:24:18.458812Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "AMD Ryzen 7 7700X3D Processor, ASUS ROG Strix B650-A Gaming WiFi ATX Motherboard, Cooler Master Elite Liquid 240mm Cooler - $354.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T04:24:18.458812Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Anker USB C Adapter (2 Pack), USB C to USB Adapter High-Speed Data Transfer $8.98",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-10T04:18:43.526287Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Anqdy Vibration Plate Exercise Machine for Home Fitness & Whole Body Workout, 350 Lbs Capacity with 2 Loops & Remote Control $39.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T04:18:43.526287Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "16\" Lejaneoye 2-Tier Small Bamboo Outdoor Oval Side Table (Black) $22.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-10T04:13:11.146698Z",
@@ -23934,14 +23974,6 @@
   "rejected_at": "2026-09-08T04:28:45.310490Z",
   "code": "low_score",
   "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "High Test Gummies Sitewide Sale: Extra 20% off + free shipping w/ $50",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T04:28:45.310490Z",
-  "code": "not_checked",
-  "public": false
  },
  {
   "source": "slickdeals",
