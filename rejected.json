@@ -1,6 +1,102 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Ello Kids Colby 12oz Insulated Stainless Water Bottle with Straw, Blue $14.23",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-10T06:20:59.813475Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "41oz Fenger Stainless Steel Lunch Box with Removable Divider and Silicone Holder (Various Colors) $15.99 + Free Shipping w/Prime or $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-10T06:20:59.813475Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "G Gradual Men's UPF 50+ Dry Fit Sleeveless Tank Top (various) $8.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-10T06:15:24.580731Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] YANIKY UPF 50+ Quick-Dry Cooling Running Hat (White or Coral Pink) $6.49 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-10T06:15:24.580731Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Sylvania SRCD243 Portable CD Player Boombox w/ AM/FM Radio (Green) $12.99 + Free Shipping w/ Prime or $6 Fee per Order",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T06:09:52.610617Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GasOne PZW-12A Pizza Ovens Wood Pellet 12” Pizza Oven $54.99 + Free S&H w/ Prime at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T06:04:24.133740Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "3 Pcs Cuisinart CGS-333 Professional Grill Tool Set $12.99 + Free S&H w/ Prime at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T06:04:24.133740Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "4-Pack hand2mind Express Your Feelings Emotions Sensory Bottles $11.05 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-10T05:58:49.274906Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "20\" Fanbulous Outdoor Caged Ceiling Fan w/ Dimmable 3CCT LED Light, Remote & App Control $79.41 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-10T05:53:14.285525Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "50\"x60\" Bedsure GentleSoft Reversible Sherpa Fleece Throw Blanket (Grey) $10.79 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-10T05:53:14.285525Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "10'6\" x 33\" FunWater Inflatable Stand-Up Paddle Board w/ Paddle, Pump, Backpack & Accessories (Select Colors) $79.99 & More + Free Shipping",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-10T05:53:14.285525Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Simple Deluxe 10ft Offset Umbrella with Crank & Cross Base(Red) $39.99 + Free S&H w/ Prime at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T05:53:14.285525Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$8.99: Classic Accessories Water-Resistant 37 Inch Built-In BBQ Grill Top Cover at Woot!",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-10T05:47:39.882747Z",
