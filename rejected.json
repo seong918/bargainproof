@@ -1,5 +1,93 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Keycut 13-Piece Stainless Steel Full Tang Knife Set with Block $49.99",
+  "reason": "Posted at $49.99, but Amazon showed $78.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T21:02:44.370143Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Flockers",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T21:02:44.370143Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "ANCOBER 20W Portable Bluetooth Speaker $19.40",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T21:02:44.370143Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Frontier Organic Ground Vietnamese Cinnamon 1-Pound $10.22",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T21:02:44.370143Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Typhur SYNC Gold Lite Wireless Meat Thermometer $25.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T21:02:44.370143Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Yofidra Stainless Steel Kitchen Sink Caddy w/ Earth Drying Stone: Medium Metallic Black $6.29",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T21:02:44.370143Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "8-Night Rome, Tuscany & Venice Flight, Hotel, and Car Vacation for From $2,508 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T21:02:44.370143Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "NEW Walmart Fall Beauty Box Just $8.98 Shipped",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T21:02:44.370143Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ashley Graham Womens Plus Size Faux Leather Midweight Motorcycle Jacket $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T21:02:44.370143Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Gap Factory Men's Crewneck Sweater (Various) $15.29 + Free Shipping $50+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T21:02:44.370143Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Walmart – MINTEEM Measuring Cups & Spoons Set w/ Wood Handles - $7.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T21:02:44.370143Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$77.23* | 30L The North Face Recon Everyday Laptop Backpack (Timber Tan) + 10% Back w/ Prime Visa Card at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
