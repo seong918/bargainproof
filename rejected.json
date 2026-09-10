@@ -1,5 +1,85 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Starbucks K-Cup Coffee Pods, Espresso Roast, 10 Count $9.99",
+  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-10T09:13:13.863051Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2 pcs. SNICKERS Ghoulish Green Fun Size Chocolate Halloween Candy Bars, 9.69 oz Bag $8.83",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-10T09:13:13.863051Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "DeWalt XR Cordless Brushless 20V Oscillating Multi-Tool Kit for $99 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T09:13:13.863051Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Apple Watch Ultra 4 at Best Buy for Preorders from $799 + up to $325 off w/ trade-in + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T09:13:13.863051Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$63.99 or lower, Xbox 12 Month Game Pass Essential - US Registered Account Only (Email Delivery), Newegg",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T09:13:13.863051Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Mills by Millie Bobby Brown Women's Cut and Sew Skort (Burgundy, Dark Navy, Sizes XXS-XXL) from 5.90 + Free S&H w/ Walmart+ or on $35+ $5.9",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T09:13:13.863051Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "DuroMax 9,500W Portable Tri-Fuel Inverter Generator for $1,699 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T09:07:38.486145Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Apple Watch Series 12 46mm at Best Buy for Preorders from $449 + up to $325 off w/ trade-in + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T09:07:38.486145Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Favsh 63\" Farmhouse Sideboard Buffet Cabinet for $84 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T09:07:38.486145Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Taygeer 40L Travel Backpack Carry On Bag $19.99 (Reg. $33.99) - Airline Approved, 3 Packing Cubes Included",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T09:07:38.486145Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Riviera 7-Night Burgundy, Rhône & Provence River Cruise for From $5,398 for 2",
   "reason": "Not evaluated",
