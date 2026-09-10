@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "ec57f1b1e3e1",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19998264-14-99-15-pc-craftsman-speeddrive-ratcheting-multi-bit-screwdriver-set-at-amazon",
+  "title": "15-Pc Craftsman SpeedDrive Ratcheting Multi-Bit Screwdriver Set",
+  "raw_title": "$14.99* | 15-Pc Craftsman SpeedDrive Ratcheting Multi-Bit Screwdriver Set at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B08WVBQ147",
+  "deal_total_cents": 1499,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 1499,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1499,
+  "amazon_url": "https://www.amazon.com/dp/B08WVBQ147",
+  "amazon_checked_at": "2026-09-10T19:39:26.743523Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B08WVBQ147",
+  "image_url": null,
+  "published_at": "2026-09-10T19:39:22.170842Z"
+ },
+ {
   "deal_id": "5963e02dfd3c",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19998237-39-99-349-piece-lego-star-wars-rebuild-the-galaxy-the-force-burner-snowspeeder-75414-2025-at-amazon",

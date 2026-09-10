@@ -1,5 +1,101 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Ba Sen Doyle 10-in-1 Heavy-Duty Metal Faucet Aerator Remover Kit $5.99",
+  "reason": "Posted at $5.99, but Amazon showed $10.49 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T19:39:22.170842Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Julpvom 8.3\"x6.2\" Durable Wall Aluminum Pans (50-Pack) with Cardboard Lid $14.29",
+  "reason": "Posted at $14.29, but Amazon showed $16.49 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T19:39:22.170842Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "GoodSense Vapor Ice Day & Night Severe Cold & Flu Caplets 48-Count $4.79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:39:22.170842Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "ORICO 8-in-1 USB-C Hub w/ M.2 NVMe/SATA SSD Enclosure $36.81",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:39:22.170842Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Spectracide Wasp & Hornet Killer Aerosol Spray, Twin Value Pack, 18.5 oz. for $6 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:39:22.170842Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "NATURELUX Heavy Duty Queen Mattress Moving Bag w/ Ergonomic Handles for $18 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:39:22.170842Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Clear Window-Mounted Bird Feeder for $8 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:39:22.170842Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "WAMEIJU 12V/24V Adjustable Pure Copper Battery Disconnect Switch for $3.99 w/ Prime + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:39:22.170842Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Kohler Ludington Bath & Shower Faucet Trim Set for $18 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:39:22.170842Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Rainbow Scratch Art Books 2-Pack w/ Stencils Only $4.99 on Amazon (Reg. $10)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:39:22.170842Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Everspace (PC Digital Download) Steam - $0.86",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:39:22.170842Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Micro Center] Montech X5M ARGB Tempered Glass microATX Mid-Tower Computer Case (Black) $44.79 + Free Store Pickup",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:39:22.170842Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Philips Sonicare 6700 Rechargeable Electric Toothbrush, 3 Brush Head $119.96",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
