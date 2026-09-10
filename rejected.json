@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon – JUNQIU US 2026 Crystal Snowflake Christmas Ornament - $7.99 w/ Code + Coupon",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-10T11:31:37.294506Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Belle Poque Women's Vintage Midi Cottagecore Dress - $14.80–$18.80 w/ Code",
+  "reason": "Community score too low (+2) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-10T11:31:37.294506Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Miracle-Gro Potting Mix 25 qt. Bag for $8 + pickup",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T11:31:37.294506Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Little People Collector Jurassic Park Special Edition Set for $13 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T11:31:37.294506Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Miracle Limescale & Rust Eraser Rubber Cleaning Tool for $1.90 + free shipping w/ $25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T11:31:37.294506Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SteelSeries Aerox 3 Wireless Honeycomb RGB Optical Gaming Mouse (Onyx) $59.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T11:31:37.294506Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$8.09 AMZ 3 Count Febreze Plug-In Air Freshener, Odor-Fighting Scented Oil Refill Long Lasting, Gain Original Scent, 0.87oz Refills, Blue and Green",
   "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-10T11:26:21.583489Z",
