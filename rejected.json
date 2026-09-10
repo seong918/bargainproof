@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "FAMILY DOLLAR STORES Spend $25 on Baby Brands (Gerber, Huggies, Johnson's, Meds and more) get a $10 online rebate, LIMIT 4 to 9/30",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T03:28:50.760469Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$14.99 Sale for The City: The Complete Series",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T03:28:50.760469Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Select Accounts: 2.7\" Nano-Mals Cowbert the Highland Cow Interactive Electronic Pet Toy $6.34 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-10T03:23:35.841067Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bundle: Soundcore Anker 2 Bluetooth Speaker + Q20i Hybrid ANC Headphones $67.83 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-10T03:23:35.841067Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "11\" LAMTTO RC35 720p Wireless CarPlay / Android Auto Display w/ Apps $95 + Free S/H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T03:23:35.841067Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Soldier Blue [Blu-ray] Kino Lorber Studio Classics $12.49 Amazon.com",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-10T03:18:21.301955Z",
