@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "9a48d5b6c12d",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19993572-laura-geller-new-york-jelly-balm-tinted-lip-balm-figger-than-life-8-64-w-s-s-free-shipping-w-prime-or-on-35",
+  "title": "LAURA GELLER New York Jelly Balm Tinted Lip Balm (Figger than Life) w/ S&S + or on",
+  "raw_title": "LAURA GELLER New York Jelly Balm Tinted Lip Balm (Figger than Life) $8.64 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 864,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "sns",
+   "prime"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-10T01:11:25.747064Z"
+ },
+ {
   "deal_id": "9ffdf1b31b6c",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19994226-bosch-osl114cg-1-1-4-in-starlock-oscillating-multi-tool-carbide-grit-plung-13-11",
