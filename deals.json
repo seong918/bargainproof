@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "2812dc6a66fb",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19997934-nivea-mens-3-in-1-30oz-pump-bottles-body-wash-two-for-9-97-or-less-s-s-bogo-amazon",
+  "title": "NIVEA Mens 3 in 1 30oz Pump Bottles Body Wash Two for or less s&s BOGO Amazon",
+  "raw_title": "NIVEA Mens 3 in 1 30oz Pump Bottles Body Wash Two for $9.97 or less s&s BOGO Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0CWJT6LQK",
+  "deal_total_cents": 997,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "sns"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 1049,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1049,
+  "amazon_url": "https://www.amazon.com/dp/B0CWJT6LQK",
+  "amazon_checked_at": "2026-09-10T20:57:33.689126Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0CWJT6LQK",
+  "image_url": null,
+  "published_at": "2026-09-10T20:57:12.699538Z"
+ },
+ {
   "deal_id": "c9eef5732b7d",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19998600-ac-8-46-spin-master-games-marvel-comic-hunters-card-drafting-strategy-board-game-at-amazon",
