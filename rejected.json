@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "NUTTER BUTTER Bites Peanut Butter Sandwich Cookies, 12 - 3 oz Bags Made with Real Peanut Butter, Certified Kosher~$16.23 With S&S @ Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-10T14:22:03.243674Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Granarbol Steam Cleaner, 1600ML Handheld Steamer for Home Car Cleaning $29.99",
+  "reason": "Posted at $29.99, but Amazon showed $49.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T14:22:03.243674Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Eivikga 3 Channel Dash Cam Front and Rear Inside, STARVIS 2 Night Vision, WiFi 6 APP Access, GPS and 64GB Card $54.99",
+  "reason": "Posted at $54.99, but Amazon showed $99.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T14:22:03.243674Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Mens T Shirts Crew Neck T Shirts for Men Athletic Fit Plain Basic Tee Soft Cotton Comfort Casual Shirts $18.49",
+  "reason": "Posted at $18.49, but Amazon showed $36.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T14:22:03.243674Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Insulation Perimeter Tape for Underfloor Heating 20M Roll for $16 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T14:22:03.243674Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Forearm Trainer Just $12.99 on Amazon (Reg. $24) | Handles Weights Up to 220 Lbs",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T14:22:03.243674Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Cooling Blanket for Night Sweats Absorbs Heat to Keep Adults, Children Cool on Warm Nights, Q-Max 0.5 Cooling Blankets $11.69",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T14:22:03.243674Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men Adissage Slides $10 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T14:22:03.243674Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "AKYEN A-Frame Dumbbell Rack Stand Only, Weight Rack for Dumbbells Compact Home Gym Space Saver, 480/800LBS Weight Capacity $52.99",
   "reason": "Posted at $52.99, but Amazon showed $74.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-10T14:16:30.363358Z",
