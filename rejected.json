@@ -1,5 +1,29 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Riviera 7-Night Burgundy, Rhône & Provence River Cruise for From $5,398 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T09:02:07.524757Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Men's UPF50+ Dry Fit Sleeveless Tank Top for $9 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T09:02:07.524757Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "TCL Q65 98Q651G 98\" 4K HDR QLED UHD Smart TV for $1,300 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T09:02:07.524757Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Hefty Slider Jumbo Storage Bags (2.5-Gallon Size, 12-Count) $3.11",
   "reason": "Posted at $3.11, but Amazon showed $4.79 when we checked — the deal is probably over",
