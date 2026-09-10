@@ -1,5 +1,85 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $2.47* | 16.9-Oz ACT Kids Anti-Cavity Fluoride Rinse (Bubble Gum Blowout) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-10T19:44:55.915982Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Selsun Blue Naturals Itchy Dry Scalp Antidandruff Shampoo 11-Oz $4.12",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:44:55.915982Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "36-Pack 0.5-Oz Dove Advanced Care Antiperspirant Deodorant Stick for Women (Clear Finish) $27.94",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:44:55.915982Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Nature's Bounty Dual Spectrum Melatonin 5mg 60-Count Tablets $2.59",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:44:55.915982Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Kingsford Heavy Duty Disposable Grill Liners 4-Count $5.48",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:44:55.915982Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Starbucks Frappuccino Coffee Drink Mocha 12-Pack 13.7-Oz $21.55",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:44:55.915982Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "John Coltrane: Essential John Coltrane Vinyl for $20 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:44:55.915982Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "O.B.E. M3 1080p Smart Projector for $100 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:44:55.915982Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Family-Size 512 sq. in Charcoal Offset Smoker BBQ Grill for $107 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:44:55.915982Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Stanley 40-oz. Quencher H2.0 FlowState Tumbler for $25 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:44:55.915982Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Ba Sen Doyle 10-in-1 Heavy-Duty Metal Faucet Aerator Remover Kit $5.99",
   "reason": "Posted at $5.99, but Amazon showed $10.49 when we checked — the deal is probably over",
