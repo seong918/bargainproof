@@ -1,6 +1,166 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$4.99: GUND PAW Patrol Skye 6-Inch Plush Toy, Stuffed Animal for Ages 1+ at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-10T14:49:53.331613Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Kenmore KW3030 3.2 Gallon Wet Dry Canister Vacuum Cleaner(Green) $46.67 + Free S&H at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-10T14:49:53.331613Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Pinspark 10\" Quick Dry Basketball Shorts $7.99",
+  "reason": "Posted at $7.99, but Amazon showed $14.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T14:49:53.331613Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Aukora UL Certified Meteor Shower Lights 26.9' (8 Tubes) $6.78",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T14:49:53.331613Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Men's 4-Pack Fitted Crew Neck T-Shirts $18.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T14:49:53.331613Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Taco Bell Luxe Value Menu Deals for $3 or less",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T14:49:53.331613Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "2-Pack Big Eye Cartoon Car Headrest Covers for $2 + free shipping w/ $25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T14:49:53.331613Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Dockers Men's GO-4-IT Active Rebound Knit Sneakers for $25 + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T14:49:53.331613Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Smiseacow 15.6\" 1080p IPS Laptop Screen Extender for $160 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T14:49:53.331613Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$14.97 get $5 Walmart Cash Mucinex 12 Hour Cold and Flu Medicine for Adults, Long Lasting Cough & Cold Medicine For All Day Relief of Headache, Body Aches, Fever, Cough,",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T14:49:53.331613Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Prime: FALAN MULE Small Crossbody Sling Bag Fanny Pack Leather Chest Bag for Women $9.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T14:49:53.331613Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2 Pack Meat Chopper for Hamburger, Premium Heat Resistant Masher and Smasher for Ground Beef, Ground Turkey and More $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T14:49:53.331613Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men Adicolor Small Backpack $9 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T14:49:53.331613Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ekouaer Womens Pajamas Set Button Down Long Sleeve Top & Pants Lounge Sets $19.99",
+  "reason": "Posted at $19.99, but Amazon showed $32.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T14:44:19.345114Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "COOFANDY Men's Knit Long Sleeve Drawstring Waffle Hooded Sweatshirt with Kanga Pocket $14.99",
+  "reason": "Posted at $14.99, but Amazon showed $24.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T14:44:19.345114Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Monster Energy Zero Ultra Sugar Free Energy Drinks $15.38",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T14:44:19.345114Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Cole Haan Men's Flash Shoe Deals at Macy's: At least 50% off + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T14:44:19.345114Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Add-a-Circuit Fuse Tap 12-Pack for $11 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T14:44:19.345114Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Prime: ocioc 44 inch Ceiling Fans with Lights and Remote, White, Powerful Airflow $37.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T14:44:19.345114Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "21 Pcs Reusable Plastic Halloween Stencils, Pumpkin Bat Scarecrow Templates for Painting on Wood, DIY Decor $4.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T14:44:19.345114Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "(120ml) GREENPEOPLE Magnesium Glycinate Liquid Drops, 14-in-1 Magnesium Complex with 6 Herbals $9.98",
   "reason": "Posted at $9.98, but Amazon showed $20.76 when we checked — the deal is probably over",
   "rejected_at": "2026-09-10T14:38:45.102780Z",
@@ -10570,14 +10730,6 @@
  {
   "source": "slickdeals",
   "raw_title": "Boys' Long Sleeve Swim Rash Guard Shirt (Sizes 4-5 to 10-12) Camaro $3.60, Honda Racing Team $3.62 + Free S&H w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T15:19:31.863330Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Prime: FALAN MULE Small Crossbody Sling Bag Fanny Pack Leather Chest Bag for Women $9.99 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-09T15:19:31.863330Z",
   "code": "not_checked",
