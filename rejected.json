@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$8.99: Classic Accessories Water-Resistant 37 Inch Built-In BBQ Grill Top Cover at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T05:47:39.882747Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $2.72* | 50-Ct Reynolds Kitchens 9\" x 9\" Unbleached Parchment Air Fryer Liners at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-10T05:47:39.882747Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$69.99: Yukon Glory Universal Portable Grill Table/Flat Top Grill Griddles Stand with Built in Caddy at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T05:42:03.304724Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[SnS, AC] $1.19* | 2.37-Oz Lawry's Casero Onion Powder at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-10T05:25:18.840245Z",
