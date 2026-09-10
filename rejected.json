@@ -1,5 +1,37 @@
 [
  {
+  "source": "hip2save",
+  "raw_title": "Up to 50% Off Viral Musely Rx Skincare | From $24/Month – No Office Visit Required!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T22:03:57.396697Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Select Accounts: Pre-Order: The Legend of Zelda: Ocarina of Time (Nintendo Switch 2) $49.88 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T22:03:57.396697Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HART 12 Gallon 6 Peak HP Wet/Dry Vacuum, $49.98, FS, Walmart",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T22:03:57.396697Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Resale] $399.36* | 512GB ASUS ROG Xbox Ally 7\" Ryzen Z2 A 1080p Gaming Device (Used - Like New) at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-10T22:03:57.396697Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "slickdeals",
   "raw_title": "12-Pack 16-Oz Bang Blue Razz Sugar-Free Energy Drinks $14.57 w/ S&S + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
