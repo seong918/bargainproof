@@ -1,6 +1,166 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS, AC] $1.19* | 2.37-Oz Lawry's Casero Onion Powder at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-10T05:25:18.840245Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Pack 2-Pc Ekouaer Women's Long-Sleeve Crew Neck Top & Jogger Pajama Set (various) $19.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-10T05:25:18.840245Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC] $16.99* | 3-Pk Xinp 13.7\" Rechargeable LED Under Cabinet Lights w/ Motion Sensor at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-10T05:25:18.840245Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Samsung Galaxy Buds 4 Pro True Wireless Bluetooth Earbuds (International Model) $155 + Free S&H w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T05:25:18.840245Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "98\" Samsung DU9000 Series 4K UHD Crystal 120Hz Smart TV (UN98DU9000) $1397.99 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-10T05:14:10.060944Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "MacBook Pro Laptop with M5 Pro chip with 18-core CPU and 20-core GPU: Built for AI, 14.2-inch Liquid Retina XDR Display, 24GB Unified Memory, 2TB SSD, Wi-Fi 7; Space Black - $2699",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-10T05:14:10.060944Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$34.99 | National Tree Company 6ft Pre-Lit Flocked Acacia Artificial Christmas Tree at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T05:14:10.060944Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Apple - AirPods Max 2 (USB-C) - Midnight $449 Bestbuy.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T05:14:10.060944Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Frigidaire - 36 in. Wide 25.6 Cu. Ft. Side-by-Side Refrigerator - Stainless Steel $1089.99 Bestbuy.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T05:14:10.060944Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$79.99 | Philips 4000 Series WiFi Smart Deadbolt W/Handleset at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T05:14:10.060944Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Piece Lepunuo Women's Mock Neck Sleeveless Crop Top & Wide Leg Pants Lounge Set (Various) $11.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-10T05:08:44.423999Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] 2-Pack 5FT 4-in-2 Multi Charging Cable w/ 3 USB-C & 1 Lightning Ports (Purple) & More $7.49 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-10T05:08:44.423999Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Philips Norelco - OneBlade 360 Pro Hybrid Face & Body Electric Trimmer QP6552/70 - Black $52.99 Bestbuy.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T05:08:44.423999Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Insignia™ - 2.7 Cu. Ft. Mini Fridge with Door Storage and ENERGY STAR Certification - Black $139.99 Bestbuy.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T05:08:44.423999Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$42.99 | SoundPEATS Air5 Pro Hi-Res Bluetooth 5.4 Adaptive Noise Cancellation Earbuds at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T05:08:44.423999Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "YMMV The Blade (The Criterion Collection) [4K UHD] $21.38",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T05:08:44.423999Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "TCL 98\" Class Q6 Series 4K UHD QLED Smart Google TV (2024) $1299.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T05:03:13.860883Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$99.99 | Royal Gourmet CD2030AN 30\" Charcoal Grill at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T05:03:13.860883Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Royal Gourmet Portable 3-Burner 25,500 BTU Tabletop Gas Griddle $65 & More + Free S&H w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T05:03:13.860883Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "TCL - 98\" Class Q6-Series 4K UHD QLED Smart Google TV (2024) $1399.99 Bestbuy.com",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-10T05:03:13.860883Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "CINCOM Rechargeable Cordless Hand Massager w/ Heat, Air Compression & Various Massage Modes (Blue) $29.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-10T04:57:40.948140Z",
