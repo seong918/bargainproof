@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "c43da634ca9e",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19998666-amazon-rokid-max-2-ar-glasses-279-w-code",
+  "title": "Amazon – Rokid Max 2 AR Glasses - w/ Code",
+  "raw_title": "Amazon – Rokid Max 2 AR Glasses - $279 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0GR67BC3Q",
+  "deal_total_cents": 27900,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 29900,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 29900,
+  "amazon_url": "https://www.amazon.com/dp/B0GR67BC3Q",
+  "amazon_checked_at": "2026-09-10T23:27:41.599618Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0GR67BC3Q",
+  "image_url": null,
+  "published_at": "2026-09-10T23:27:37.251864Z"
+ },
+ {
   "deal_id": "9bf7f0f27cbc",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19997925-melissa-doug-100-piece-set-of-wooden-building-blocks-13-99-free-shipping-w-prime-or-on-35",
