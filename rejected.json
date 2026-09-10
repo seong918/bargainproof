@@ -1,5 +1,29 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "6-Pack 1.59-Oz Bob's Red Mill Instant Oatmeal Packets (Various Flavors) $3.41 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-10T23:16:28.227008Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Makita XWT08T 18V LXT Lithium-Ion Brushless Cordless Kit w/Friction Ring Anvil (5.0Ah) +free Makita DMP180ZX 18V LXT Lithium-Ion Cordless Inflator $595.3",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-10T23:10:51.565256Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Makita XWT18T 18V LXT Lithium-Ion Brushless Cordless Kit w/Detent Anvil (5.0Ah) +free Makita DMP180ZX 18V LXT Lithium-Ion Cordless Inflator $414.99",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-10T23:10:51.565256Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
   "source": "dealnews",
   "raw_title": "Gap Factory Men's VintageSoft Boxy T-Shirt for $11 in cart + free shipping w/ $50",
   "reason": "Not evaluated",
