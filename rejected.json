@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[AC] $92.67 | HUGO Bright Men's 42mm Stainless Steel 3H Quartz Wristwatch at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-10T19:50:30.295910Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "685-Piece LEGO Friends Travel Boat Adventure Building Kit $52.99 + Free Shipping",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-10T19:50:30.295910Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Hojasana 12-in-1 320mg Milk Thistle Capsules (60-Count) $5.99",
+  "reason": "Posted at $5.99, but Amazon showed $9.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T19:50:30.295910Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Gerber Stage 2 Baby Food 12-Pack 3.5-Oz (Apple Sweet Potato with Cinnamon) $6.54",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:50:30.295910Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Up to 70% Off Women’s Skirts on Amazon = Cute Styles from $9.89!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:50:30.295910Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "FIT KING Air Compression Leg Massager Recovery System Cordless (Various Sizes) $128",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:50:30.295910Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[SnS, AC] $2.47* | 16.9-Oz ACT Kids Anti-Cavity Fluoride Rinse (Bubble Gum Blowout) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-10T19:44:55.915982Z",
