@@ -1,5 +1,69 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Tagzilo 25W Portable Magnetic Wireless Charger with Plug (2-Pack) $8.99",
+  "reason": "Posted at $8.99, but Amazon showed $17.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T00:05:31.525508Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Puffs Ultra Soft Facial Tissues 8-Pack for $9.55 via Sub & Save + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T00:05:31.525508Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HP 1FH00AA Active Pen - Digital Pen - 2 Buttons - Natural Silver - for Elite x2 1012 G2, Pro x2 612 G2, ProBook x360 11 G1, $9.99, FS Prime, Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T00:05:31.525508Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC] $50.15 | Columbia Unisex Manresa 30L Backpack, Black, One Size + 10% Back w/ Prime Visa Card at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-10T00:00:05.001878Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Vriexsd Mini 150-Piece First Aid Kit for $9 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T00:00:05.001878Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Augason Farms 23-oz. Dehydrated Potato Shreds for $8 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T00:00:05.001878Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$1.99 | Woodworking by Emily St. James (Kindle ebook)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T00:00:05.001878Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$1.99 | The Bright Ages: A New History of Medieval Europe (Kindle ebook)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T00:00:05.001878Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Toddler Caveman Costume $16.99",
   "reason": "Not evaluated",
