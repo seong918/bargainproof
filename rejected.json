@@ -1,5 +1,61 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "(120ml) GREENPEOPLE Magnesium Glycinate Liquid Drops, 14-in-1 Magnesium Complex with 6 Herbals $9.98",
+  "reason": "Posted at $9.98, but Amazon showed $20.76 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T14:38:45.102780Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Zity Casual UPF 50+ Golf Athletic Short Sleeve Polo Shirt $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $19.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T14:38:45.102780Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "The Legend of Zelda: Ocarina of Time for Nintendo Switch 2 for preorders for $60 w/ price protection + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T14:38:45.102780Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ezygoin Solar Street Light 2-Pack for $54 w/ Prime + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T14:38:45.102780Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Open-Box Unlocked Apple iPhone 16e 128GB Smartphone for $489 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T14:38:45.102780Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Shark CleanSense IQ Cordless Vacuum from $179.98 Shipped ($400 Value!)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T14:38:45.102780Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Prime: Aaoyun Magnetic Portable Charger 10000mAh, 15W Wireless & 22.5W PD Fast Charging Battery Pack $13.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T14:38:45.102780Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Mens Flannel Hoodie Shirt $10.00",
   "reason": "Not evaluated",
