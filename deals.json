@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "3e5be18b4ca9",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19994466-24-pack-11-15-oz-sanpellegrino-zero-sugar-blood-orange-italian-sparkling-drink-13-18-w-s-s-free-shipping-w-prime-or-on-35",
+  "title": "24-Pack 11.15-Oz Sanpellegrino Zero Sugar Blood Orange Italian Sparkling Drink w/ S&S + or on",
+  "raw_title": "24-Pack 11.15-Oz Sanpellegrino Zero Sugar Blood Orange Italian Sparkling Drink $13.18 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1318,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "sns",
+   "prime",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-10T02:06:31.243747Z"
+ },
+ {
   "deal_id": "fd272c9d3680",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19994565-129-230-pc-craftsman-versastack-mechanics-tool-set-w-1-4-3-8-1-2-ratchets-at-amazon",
