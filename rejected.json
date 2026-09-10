@@ -1,6 +1,126 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[AC] $32.19* | 2-Pk 4'x2'x1' TATAANTY Galvanized Raised Garden Bed at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-10T19:11:34.664711Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC] $39.57* | Fanttik X10 Ace 120PSI Mini Bike Pump w/ Presta & Schrader Valve at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-10T19:11:34.664711Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "MOESAPU 1200/1500Yards Golf Rangefinder with Slope, 7X Magnification with Flag Lock Vibration, Rechargeable, Magnetic Mount, IP54 $47.99",
+  "reason": "Posted at $47.99, but Amazon showed $79.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T19:11:34.664711Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Hack 'n' Slash",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:11:34.664711Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Still There",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:11:34.664711Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Automachef",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:11:34.664711Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Greenworks POWERALL 24V Cordless 200N Flashlight $23.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:11:34.664711Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Kobalt 24-volt 6-in Chainsaw 2.0 Ah Battery Included $99.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:11:34.664711Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "DEWALT 7 in. 3-Speed Indoor/Outdoor Air Mover 600 CFM $71.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:11:34.664711Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Anker 20,000mAh 15W 2-Port (USB-C & USB-A) Powerbank $26.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:11:34.664711Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Fortnite: Darkfire & Ice Bundle Nintendo Switch 2 $20.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:11:34.664711Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "George Men's Gore Suede Slip-On Shoes for $10 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:11:34.664711Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Post-it Super Sticky Notes 3-Pack Only $1.89 Shipped on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:11:34.664711Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Intro Fare! Orlando FL to Bogota Colombia $99 One Way or $250 Round Trip Nonstop Airfares on Frontier Airlines (Travel January - March 2027)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:11:34.664711Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "BISSELL Little Green HydroSteam Portable Deep Cleaner, for Carpet , Upholstery, Auto, and Stairs, HydroSteam Technology, 3 Cleaning Modes, Fast Drying, 3532, Black & Copper $178",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:11:34.664711Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[SnS, AC] $7.14* | 12-Pack 3.5-Oz Soft & Chewy Candy (Watermelon) at Amazon",
   "reason": "Community score too low (+2) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-10T19:06:01.183815Z",
