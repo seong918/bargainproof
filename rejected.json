@@ -1,5 +1,77 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "(2 Pack) BUCASA Hummingbird Solar Lanterns Outdoor Solar Lights $15.99",
+  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-10T16:41:13.016220Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "LetLcuk 15.7\"x11.8\" Ultra-Smooth Glass Gaming Mouse Pad with Gaming Arm Sleeve and Portable Bag $29.99",
+  "reason": "Posted at $29.99, but Amazon showed $59.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T16:41:13.016220Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ray-Ban Women's Sunglasses (Tortoise Light/Brown Gradient, 56mm) $106.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T16:41:13.016220Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Samsung Galaxy S23+ 256GB Unlocked Smartphone (Phantom Black) $257.89",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T16:41:13.016220Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LEGO Star Wars Luke’s Landspeeder Set (75420) 215-Pc $31.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T16:41:13.016220Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Wilson Encore Series Football for $35 + free shipping w/ $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T16:41:13.016220Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "The Hand That Rocks the Cradle (20th Anniversary Edition) (Blu-ray) $7.49 Walmart or Amazon.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T16:41:13.016220Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Sexy Bikini Sets for Women Curvy 2 Piece Cutout Swimsuit 2026 $19.59",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T16:41:13.016220Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Protege 28\" Large U-Shape Polyester Purple Sport Travel Duffel Bag $17.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T16:41:13.016220Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Milwaukee M12 12V Cordless 9 GPM Submersible Water Transfer Pump w/ 2x 5.0Ah Batteries & Charger $199.00",
   "reason": "Not evaluated",
