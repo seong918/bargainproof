@@ -1,5 +1,53 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Pirate's Booty 0.5oz Aged White Cheddar Cheese Puffs (24-Pack) $6.66",
+  "reason": "Posted at $6.66, but Amazon showed $8.87 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T10:18:09.780888Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Apple AirPods 5 Wireless Earbuds at Amazon for Preorders from $129 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T10:18:09.780888Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "THE KING OF FIGHTERS XV",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T10:12:53.285062Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "5-Piece Beetlejuice Men's Black & White Striped Suit Costume for $26 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T10:12:53.285062Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Apple Watch Series 12 Smartwatches at Amazon for Preorders from $449 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T10:12:53.285062Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ABCCANOPY 10FT Patio Umbrella w/ Push Button Tilt and Crank(Blue) $23.99 + Free S&H w/ Prime at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T10:12:53.285062Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Prime Members in Select Locations: 9-Oz Amazon Grocery Sliced Deli Meats (turkey & ham) $1",
   "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
