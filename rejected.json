@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$4.99: GUND PAW Patrol Marshall 6-Inch Plush Toy, Stuffed Animal for Ages 1+ at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-10T02:45:30.325970Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Boneless Skinless Chicken Breast or Thighs - Just $0.99/lb for Randall /Tom Thumb /Safeway /Albertsons loyalty members",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T02:39:55.629278Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee SHOCKWAVE 14-Piece 3/8\" Drive Metric Deep Well 6-Point Impact Socket Set $49.97 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T02:39:55.629278Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "75-Sq-Ft Reynolds Cut-Rite Wax Paper Roll w/ Built-In Cutter $1.73 w/ S&S + Free Shipping w/ Prime or on $35+",
   "reason": "Same deal was already posted from another source",
   "rejected_at": "2026-09-10T02:34:21.457305Z",

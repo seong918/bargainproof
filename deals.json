@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "83baedca96b3",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19994598-sns-ac-6-66-24-pack-0-5-oz-pirate-s-booty-cheese-puffs-aged-white-cheddar-at-amazon-27-8-each",
+  "title": "24-Pack 0.5-Oz Pirate's Booty Cheese Puffs (Aged White Cheddar) at Amazon (27.8￠ each)",
+  "raw_title": "[SnS, AC] $6.66* | 24-Pack 0.5-Oz Pirate's Booty Cheese Puffs (Aged White Cheddar) at Amazon (27.8￠ each)",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 666,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-10T02:51:05.797073Z"
+ },
+ {
   "deal_id": "df85e1ff9543",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19994646-100-count-16-oz-hefty-party-on-disposable-plastic-cups-assorted-6-48-w-s-s-free-shipping-w-prime-or-on-35",
