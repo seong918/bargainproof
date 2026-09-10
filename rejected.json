@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Ulike Laser Hair Removal Air 10 Deluxe Version IPL $279",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-10T22:37:26.391967Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$12.49 ac TreeLen Broom and Dustpan Set, 52 inch Broom and Dust Pan Combo for Home AMAZON",
+  "reason": "Posted at $12.49, but Amazon showed $24.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T22:37:26.391967Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Electric Wet/Dry Rotary Shaver for $40 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T22:37:26.391967Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "TCL - 55\" QM6K Series 4K UHD HDR QD Mini LED Smart TV with Google TV (2025) $499.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T22:37:26.391967Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$399.99 BEST BUY AOC - 34\" AG346UCD QD-OLED, WQHD 165hz Gaming Monitor - Black",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T22:37:26.391967Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Compustar - 1-Way remote start kit with security - Installation Included - Black $579.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T22:37:26.391967Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Compustar - All-in-One 2-Way Remote Start + Security Bundle w/LTE Module - Installation Included - Black $799.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T22:37:26.391967Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Milwaukee Shockwave 3/8\" Drive Metric 14-Piece Impact Socket Set for $50 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T22:31:51.833374Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[NEW, SnS] $27.94 | 36-Pack 0.5-Oz Dove Advanced Care Antiperspirant Deodorant Stick for Women (Clear Finish) at Amazon (77.6￠ each)",
   "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-10T22:26:17.352270Z",
