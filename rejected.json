@@ -1,5 +1,29 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Jack Link's Original Beef Jerky 20-Count Multipack for $12 via Sub & Save + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T01:16:59.426163Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Beautiful 4Qt Slow Cooker with Touch-Activated Display, Rose by Drew Barrymore $20",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T01:16:59.426163Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SHOCKWAVE 1/2 in. Drive Metric Deep Well 6 Point Impact Socket Set (14-Piece) $69.97 at Home Depot FS",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T01:16:59.426163Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Amazon – Coolife 28\" Hardshell Checked Luggage - $83.99 w/ Code",
   "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
