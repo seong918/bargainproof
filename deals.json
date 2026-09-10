@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "bb1b7a362814",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19996986-select-accounts-18-pack-0-8-oz-hippeas-chickpea-puffs-cheese-variety-pack-groovy-white-cheddar-jalape-o-cheddar-blaze-7-87-w-s-s-free-shipping-w-prime-or-on-35",
+  "title": "18-Pack 0.8-Oz HIPPEAS Chickpea Puffs Cheese Variety Pack (Groovy White Cheddar & Jalapeño Cheddar Blaze) w/ S&S + or on",
+  "raw_title": "Select Accounts: 18-Pack 0.8-Oz HIPPEAS Chickpea Puffs Cheese Variety Pack (Groovy White Cheddar & Jalapeño Cheddar Blaze) $7.87 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 787,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "sns",
+   "prime",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-10T22:15:06.596928Z"
+ },
+ {
   "deal_id": "f892e06e72ce",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19996296-suits-complete-series-hd-digital-20-amazon-prime-video",
