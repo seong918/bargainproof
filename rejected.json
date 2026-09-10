@@ -1,6 +1,110 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Philips Sonicare 6700 Rechargeable Electric Toothbrush, 3 Brush Head $119.96",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-10T19:33:47.979990Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $13.12 | 24-Pack 11.15-Oz Maison Perrier French Kiss Sweetened Sparkling Juice Beverage (Peach & Cherry) at Amazon (54.7￠ each)",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-10T19:33:47.979990Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Joe Dever's Lone Wolf HD Remastered",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:33:47.979990Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Objects in Space",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:33:47.979990Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Chicken of the Sea Alaskan Pink Canned Salmon in Water 12-Count $14.04",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:33:47.979990Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "PJ PAUL JONES Mens Short Sleeve Dress Shirts Wrinkle Free Button Down Shirt $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:33:47.979990Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Hefty Load and Carry Contractor 42 Gallon Trash Bags, 3.0 Mil, 26 Count $13.03",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:33:47.979990Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "30-Oz Stardrops The Pink Stuff Bathroom Foam Cleaner Spray $3.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:33:47.979990Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "24-Pack 11.15-Oz Maison Perrier French Kiss Sweetened Sparkling Juice Beverage (Peach & Cherry) $13.12",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:33:47.979990Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Scotch Paper Tape 3/4 in x 600 in 2 Rolls $4.24",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:33:47.979990Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Harry's Foaming Shave Gel for Men with Aloe 3-Pack 6.7-Oz $8.52",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:33:47.979990Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Adjustable 68\" Metal Leaf Rake Set for $15 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:33:47.979990Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "SEVEN Pairs of Men’s Athletic Shorts Only $23 on Amazon (Just $3 Per Pair!)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:33:47.979990Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "665-Piece LEGO Minecraft - The Creeper $31.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-10T19:28:14.713629Z",
