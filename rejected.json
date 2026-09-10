@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "(8 Pack) Multicolor Solar Wall Lights Outdoor Waterproof IP67, Up and Down Solar Fence Lights $20.89",
+  "reason": "Posted at $20.89, but Amazon showed $37.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T14:27:37.374264Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Gooloo A3 3000A Portable Car Battery Jump Starter & 150PSI Air Compressor $44.99",
+  "reason": "Posted at $44.99, but Amazon showed $89.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T14:27:37.374264Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Nilight 1/2\" x 24\" Synthetic Soft Shackles w/ Extra Sleeves 2-Pack for $21 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T14:27:37.374264Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Doqaus Ice Cube Tray 4-Pack w/ Bin and Lid for $13 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T14:27:37.374264Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men Cloudfoam Cuxxion Sock Shoes $30 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T14:27:37.374264Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "NUTTER BUTTER Bites Peanut Butter Sandwich Cookies, 12 - 3 oz Bags Made with Real Peanut Butter, Certified Kosher~$16.23 With S&S @ Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-10T14:22:03.243674Z",
