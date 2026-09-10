@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Soldier Blue [Blu-ray] Kino Lorber Studio Classics $12.49 Amazon.com",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-10T03:18:21.301955Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Refurbished Good: Logitech C922 Pro Stream Full HD 1080p USB Webcam, Black $46.03",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T03:18:21.301955Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "AMD Ryzen 7 7700X3D Processor, ASUS TUF GAMING B650E-E PCIe 5.0 WIFI 6E ATX Motherboard, Cooler Master Elite Liquid 240mm Cooler - $358.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-10T03:07:50.943643Z",
