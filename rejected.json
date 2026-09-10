@@ -1,5 +1,141 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Walker's Dual Color Passive Earmuffs(Light Teal) $10.15 + Free S&H w/ Prime or $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-10T15:12:08.007724Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Solar Table Lamp $17.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T15:12:08.007724Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "12 PCS Floating Witch Hats $6.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T15:12:08.007724Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Fireproof Document Box Hard Briefcase Safe $28.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T15:12:08.007724Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LILY’s Hot Cocoa with Marshmallow Baking Chips 6-Pack $20.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T15:12:08.007724Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Acer Dual-Mode Bluetooth & 2.4GHz Wireless Mouse w/ 3 Adjustable DPI $7.39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T15:12:08.007724Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Salad Chopper w/ 8.5 Cup Glass Bowl $19.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T15:12:08.007724Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Peet's Coffee 30 Day Cold Brew Pass $30.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T15:12:08.007724Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "TASK The Complete First Season $19.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T15:12:08.007724Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "VIRTAVO SolarFlask 2K QHD Solar-Powered Wireless Outdoor Security Camera $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T15:12:08.007724Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "30 Wingstop Wings for $30 on Thursdays",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T15:12:08.007724Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "100-Piece Nylon Universal Cable Tie Buckle Set w/ Storage Box for $4 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T15:12:08.007724Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Dryer Lint Cleaner Kit Just $6.49 on Amazon (A Must for Fire Prevention!)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T15:12:08.007724Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "PINSPARK Men's UPF 50+ Workout Athletic T-Shirts $8.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T15:12:08.007724Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "(In store, YMMV) Meguiar's Gold Class Car Wash 1 Gallon (128 Oz.) $8.89",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T15:12:08.007724Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "VEVOR 12\" Shutter Exhaust Fan, 1500 CFM w/ Smart Controller $60.39 Shipped",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T15:12:08.007724Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "VEVOR 13,500-lb Electric Winch w/ 80' Synthetic Rope $219.99 Shipped",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T15:12:08.007724Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Zanxelorr 180000rpm Brushless Motor Compressed Electric Air Duster $18.99",
   "reason": "Posted at $18.99, but Amazon showed $37.99 when we checked — the deal is probably over",
