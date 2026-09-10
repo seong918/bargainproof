@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "3-Oz Johnson's Baby Hypoallergenic Mineral Oil $1.38 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-10T21:24:56.539739Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bedsure Queen Comforter Sets - Bed in a Bags starting at $27.49 AC + Free Shipping",
+  "reason": "Posted at $27.49, but Amazon showed $54.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T21:24:56.539739Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Round Trip New York to Madrid Spain Nonstop Airfares on American Airlines/Iberia $410.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T21:24:56.539739Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "KitchenAid Compact 1.25-Liter Electric Kettle $69.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T21:24:56.539739Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Minisforum V3 SE 3-in-1 Tablet 16GB RAM 1TB SSD (Refurbished) $429.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T21:24:56.539739Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "5-Level Resistance Bands Set for $17 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T21:24:56.539739Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Rescue Guard 40\"x40\" 4 Pack of Emergency Fire Blankets $14.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T21:24:56.539739Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "DecorRom Clear-Drying Landscape Glue for Mulch, Gravel & Stones $15.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-10T21:19:23.876473Z",
