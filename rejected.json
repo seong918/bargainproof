@@ -1,5 +1,29 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Golden Island Korean BBQ 15-Count Variety Pack for $30 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T21:13:50.563469Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Hoop & Stud Earring Multi-Pack Sets Just $6.99 on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T21:13:50.563469Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$39.49 FS WALMART Barbie Dream Pool Playset with Slide & Bubbling Hot Tub, 20+ Accessories Including Pet, Floaties & More",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T21:13:50.563469Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Dragon Ball Super: Broly (Blu-ray) $24.96 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
