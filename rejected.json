@@ -1,5 +1,53 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Dragon Ball Super: Broly (Blu-ray) $24.96 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-10T21:08:15.562068Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Nintendo Gamecube Controller for Nintendo Switch 2 $69.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T21:08:15.562068Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Clutch: Earth Rocker Vinyl $31.14",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T21:08:15.562068Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Reynolds Kitchens 50-Count Air Fryer Liners for $2.72 via Sub & Save + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T21:08:15.562068Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Target Patio Sale Deals: Up to 75% off + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T21:08:15.562068Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Folding Wood Adirondack Chair for $50 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T21:08:15.562068Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Keycut 13-Piece Stainless Steel Full Tang Knife Set with Block $49.99",
   "reason": "Posted at $49.99, but Amazon showed $78.99 when we checked — the deal is probably over",
