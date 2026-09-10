@@ -1,6 +1,22 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "Open-Box Motorola 24x8 DOCSIS 3.0 Cable Modem for $27 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T00:38:21.524851Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bosch OSL114CG 1-1/4 in. Starlock Oscillating Multi Tool Carbide Grit Plung $13.11",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-10T00:38:21.524851Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "dealnews",
   "raw_title": "Advance Auto Parts Griot's Garage Car Wash & Wax Deals for Save $7 when you buy 2 + free shipping w/ $35",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-10T00:27:14.007744Z",
