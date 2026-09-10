@@ -1,5 +1,85 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$5.30 S&S Amazon Grocery, Roasted Peanuts, Roasted & Salted, 44 Oz , part of buy 4 save another 10% Prime Offer",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-10T07:27:42.050840Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "McCormick 4.4oz Bac'n Pieces Applewood Smoked Bacon Flavored Bits (6-Pack) $6.63",
+  "reason": "Posted at $6.63, but Amazon showed $8.28 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T07:27:42.050840Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Premier Protein 9oz Chocolate Almond Protein Cereal $3.79",
+  "reason": "Posted at $3.79, but Amazon showed $3.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T07:27:42.050840Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Rubbermaid Brilliance 10-Piece Glass Food Storage Set for $28 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T07:27:42.050840Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M18 18-Volt Lithium-Ion Brushless Bagless Cordless HEPA Handheld Vacuum with M18 2.0Ah Compact Battery $179",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T07:27:42.050840Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "3-Piece Tangkula Outdoor Conversation Set w/ Round Tempered Glass Table & 2 Rattan Armchairs (Yellow/Turquoise) $80.74 + Free Shipping",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-10T07:22:07.000155Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas 28-oz. Stadium Water Bottle for $7 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T07:22:07.000155Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Fanflix: 7 Scorsese Digital Films $18",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T07:22:07.000155Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Fanflix:2 Complete WB Series for $27",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T07:22:07.000155Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Philips WiFi Keypad Deadbolt (Matte Black) $57.99 + Free Shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T07:22:07.000155Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Mfish E-Tank 7-in-1 240W Max GaN USB-C Charging Station $83.99",
   "reason": "Not evaluated",
