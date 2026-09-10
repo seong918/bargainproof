@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Bosch OSL212CG 2-1/2 in. Starlock Oscillating Multi Tool Carbide Grit Segmented Blade $23.65",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-10T11:48:11.234670Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Stainless Steel Downspout Gutter Guard for $20 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T11:48:11.234670Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Frigidaire 6.5 Cu. ft. Garage Ready Upright Freezer for $218 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T11:48:11.234670Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $14.83* | 2-Pk 9-Oz Jack Link's Beef Jerky (Peppered) at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-10T11:48:11.234670Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Bosch OSL214K 2-1/4 in. Starlock Oscillating Multi Tool Caulk Knife Blade $9",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-10T11:42:36.518615Z",
