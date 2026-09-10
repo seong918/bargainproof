@@ -1,5 +1,21 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "ASUS Vivobook S Core Ultra 7 255H 16\" Laptop PC for $1,280 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T12:38:07.878886Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Owens Corning Roof Shingles Deals at Lowe's for From $41 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T12:38:07.878886Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$3.78 S&S clip Q ACT Restoring Zero Alcohol Fluoride Mouthwash 33.8 fl. oz. Strengthens Tooth Enamel, Mint Burst",
   "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
