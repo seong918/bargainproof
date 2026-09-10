@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Prime Members in Select Locations: 9-Oz Amazon Grocery Sliced Deli Meats (turkey & ham) $1",
+  "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-10T10:07:28.941765Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Workpro 42-in-1 3.7V Rechargeable Mini Electric Screwdriver Set $18.99",
+  "reason": "Posted at $18.99, but Amazon showed $30.39 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T10:07:28.941765Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "3-Piece BEDELITE Queen Boho Tufted Comforter Set (Agua) $19.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-10T10:02:11.978134Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Biodance Vita Niacinamide Gel Toner Pads 60-Count for $14 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T10:02:11.978134Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Seabourn 8-Night Malaysia & Thailand Cruise for From $7,648 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T10:02:11.978134Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$79.99: Ninja Blender for Smoothies & Shakes, 1000W, 72oz Pitcher, Black (NJ601AMZ)",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-10T09:51:40.211910Z",
@@ -30418,14 +30458,6 @@
  {
   "source": "dealnews",
   "raw_title": "Dell Pro 16 Plus Core Ultra 5 236V 16\" Laptop for $1,409 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T17:03:44.571015Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Seabourn 8-Night Malaysia & Thailand Cruise for From $7,648 for 2",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T17:03:44.571015Z",
   "code": "not_checked",
