@@ -1,5 +1,53 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Hefty Slider Jumbo Storage Bags (2.5-Gallon Size, 12-Count) $3.11",
+  "reason": "Posted at $3.11, but Amazon showed $4.79 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T08:56:38.067163Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Frigidaire 25.6-Cubic Foot Side-by-Side Refrigerator for $990 in cart + free delivery",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T08:56:38.067163Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Portlandia: The Complete Series HD Digital $40",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T08:56:38.067163Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "43\" LG PK640S Series UHD 4K HDR Commercial Signage TV $297 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T08:51:10.953218Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Ziluce 2-in-1 17.13\" Foldable Wooden Dog Ramp & Ottoman $49.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T08:45:33.281742Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Final Fantasy XV: Royal Edition (Xbox One/Series X|S Digital Download) $10.49 via Xbox/Microsoft Store",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T08:45:33.281742Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Mepase 16pc. Crayon Costume Adult Halloween Apron & Cone Hat Set for $27 w/ Prime + free shipping",
   "reason": "Not evaluated",
