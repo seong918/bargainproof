@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "d42376f0be08",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19994643-12-count-hefty-slider-jumbo-2-5-gallon-storage-bags-3-11-w-s-s-free-shipping-w-prime-or-on-35",
+  "title": "12-Count Hefty Slider Jumbo 2.5-Gallon Storage Bags w/ S&S + or on",
+  "raw_title": "12-Count Hefty Slider Jumbo 2.5-Gallon Storage Bags $3.11 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 311,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "sns",
+   "prime"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-10T02:28:46.997755Z"
+ },
+ {
   "deal_id": "de3a281dd0bb",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19994619-259-all-clad-copper-core-stainless-4-qt-saut-pan-with-lid-made-in-the-usa-at-amazon",
