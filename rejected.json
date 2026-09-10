@@ -1,6 +1,134 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$79.99: Ninja Blender for Smoothies & Shakes, 1000W, 72oz Pitcher, Black (NJ601AMZ)",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-10T09:51:40.211910Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Verbatim 1TB Pocket Portable SSD for $140 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T09:51:40.211910Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Disney Store Oh Boy Sale: Up to 50% off + extra 25% off + free shipping w/ $85",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T09:51:40.211910Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Dragon Quest Monsters: The Dark Prince (Nintendo Switch) $25 + Free Shipping w/ Circle Card or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T09:51:40.211910Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Warping Point Aether Pickleball Paddle w/ 10mm MaxCell Core & Composite Face $49.99 + Free Shipping",
+  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-10T09:46:16.120838Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Vancasso SIMI 28oz Bohemian Ceramic Soup Bowls (6-Pack) $21.82",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T09:46:16.120838Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Nike Cheapest Shoe Deals for All under $50 + free shipping w/ $50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T09:46:16.120838Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Apple Watch Ultra 4 GPS + Cellular 49mm Smartwatch at Amazon for Preorders from $799 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T09:46:16.120838Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Motorola Moto Tag 2 Bluetooth Tracker for $20 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T09:46:16.120838Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Keter Newton Plus 7.5x11 Ft All-Weather Storage Shed with Skylight, Window, Built-in Ventilation, Customizable Walls, & Lockable Double Doors, Graphite $1641.59",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-10T09:40:43.710490Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Arrow Carports Galvanized Steel Carport, with 2-Sided Enclosure, Compact Car Metal Carport Kit, 10' x 15' x 7', Charcoal $1375.78",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-10T09:40:43.710490Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Keter Newton Plus 7.5x7 Ft All-Weather Storage Shed with Skylight, Window, Built-in Ventilation, Customizable Walls, & Lockable Double Doors, Graphite $1295.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-10T09:40:43.710490Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "SafeGuardian Gas Mask Respirator for $30 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T09:40:43.710490Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Eastsport Success Mesh 16\" Backpack for $5 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T09:40:43.710490Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Philips Sonicare 1100 Power Toothbrush for $15 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T09:40:43.710490Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Prime, 8-Pack Assorted Men’s Short Sleeve Fashion Stretch Rayon Tees (Sizes, M-3XL), $18.99, Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T09:40:43.710490Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "CITIZEN Mens Eco-Drive Sikorsky Dive 3: 43.5mm Gray Super Titanium Case with a Polyurethane Strap & Gray Dial (Style: BN0207-06H) $430.14",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-10T09:35:11.368557Z",
