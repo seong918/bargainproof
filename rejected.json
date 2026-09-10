@@ -1,5 +1,85 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $7.14* | 12-Pack 3.5-Oz Soft & Chewy Candy (Watermelon) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-10T19:06:01.183815Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "YOOPAI PLA 3D Printer Filament 1.75mm, 250g Starter Color Bundle, 8 Rolls $24.99",
+  "reason": "Posted at $24.99, but Amazon showed $49.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T19:06:01.183815Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Amazon Basics 65W Fast Charging GaN USB-C Wall Charger $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:06:01.183815Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Hicober 18W Wireless 3-in-1 Magnetic Foldable Apple Device Charging Station $8.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:06:01.183815Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Clarks Men's Flexway Step Shoes $55.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:06:01.183815Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Frigidaire 12,000-BTU Window Air Conditioner for $299 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:06:01.183815Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Rockland Young Electric Roof Bracket (200-Lbs Load Capacity) $99.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:06:01.183815Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Dyson Airwrap i.d. Multi-Styler and Dryer with Chitosan Post-Style Serum $519.99 +. $9.99 Shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:06:01.183815Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nintendo Amiibo - Young Zelda - The Legend of Zelda: Ocarina of Time Series $24.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:06:01.183815Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nintendo Amiibo - Young Link - The Legend of Zelda: Ocarina of Time Series $24.99",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-10T19:06:01.183815Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Milwaukee M18 18-Volt Lithium-Ion Brushless Bagless Cordless HEPA Handheld Vacuum with M18 2.0Ah Compact Battery $179.00",
   "reason": "Not evaluated",
