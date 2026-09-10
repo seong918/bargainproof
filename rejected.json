@@ -1,5 +1,53 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$4.49* | 4-Pack 100-Count Curad Alcohol Prep Pads at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-10T23:49:30.221244Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS] $6.02* | 15-Count Vitafusion Hydraboost Electrolyte Drink Powder Packets (Fruit Burst) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-10T23:49:30.221244Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "MOVE SPEED 0.3'' Ultra Slim MagSafe Portable Charger, 5,000mAh Battery Pack, Magnetic Power Bank with USB C Cable,Alloy Wireless Charger for iPhone $16.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-10T23:49:30.221244Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Ember",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T23:49:30.221244Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ernie Ball Regular Slinky Nickel Wound Electric Guitar Strings 3-Pack for $17 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T23:49:30.221244Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "X-Men Kindle Digital Graphic Novels: Epic Collection: Second Genesis & More from $2.99",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-10T23:49:30.221244Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "dealnews",
   "raw_title": "Charbroil Performance Series 4-Burner Gas Grill Cabinet w/ Side Burner for $247 + free shipping",
   "reason": "Not evaluated",
