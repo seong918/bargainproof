@@ -1,6 +1,222 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Sonic The Hedgehog 2 Steelbook [4K UHD] $20.76 Amazon.com",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-10T17:53:34.002749Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LAURA GELLER New York Jelly Balm Tinted Lip Balm (Figger than Life) $8.64",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T17:53:34.002749Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Toilet Bowl Brush and Holder 2-Set $9.90",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T17:53:34.002749Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "GRECOMEIN 12\" Metal Bird Bath Decor $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T17:53:34.002749Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "8x10 Picture Frames Set of 15 $15.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T17:53:34.002749Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "BEDELITE Queen Boho Tufted Comforter Set 3-Piece $25.19",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T17:53:34.002749Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Hallmark M3GAN Christmas Ornament $6.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T17:53:34.002749Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Almond Breeze Dairy Free Almondmilk Unsweetened Vanilla 6-Pack 32-Oz $10.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T17:53:34.002749Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LEGO Wednesday Thing’s Apartment Building Toy $53.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T17:53:34.002749Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Hallmark Christmas Ornament, Veteran Hat $8.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T17:53:34.002749Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Hallmark Christmas Wrapping Paper Rolls 6 Rolls: 150 Sq. Ft $17.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T17:53:34.002749Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Kinglucky X50 Bluetooth Pillow Speaker for Side Sleepers $11.24",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T17:53:34.002749Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Metabo HPT 7/16 Standard Crown Stapler 16 Gauge $189.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T17:53:34.002749Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Mott's No Sugar Added Applesauce Variety Pack 20-Pack $7.78",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T17:53:34.002749Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "DEWALT Fixed Base Router 12-Amp 24,000 RPM 2-1/4HP Corded $154.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T17:53:34.002749Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Chase Private Client Checking℠ for $3,000 bonus w/ new account",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T17:53:34.002749Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Up to 75% Off adidas Sale + FREE Shipping | Shoes from $21 Shipped",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T17:53:34.002749Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$1377.49 REFURB Acer on Ebay Nitro 60 i7-14700F 14th Gen 32GB 1TB SSD RTX 5070 Win11 Desktop Refurb 2025",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T17:53:34.002749Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DJI Mic 2 Wireless Lavalier Microphone (2 TX + 1 RX + Charging Case) $149.99 + Free Shipping w/ Prime or $6 Fee per Order",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T17:53:34.002749Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Coloer 450-Lumen 5W 12V Brass Waterproof Outdoor Spotlights (4-Pack) $54.99",
+  "reason": "Posted at $54.99, but Amazon showed $109.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T17:47:59.389174Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Criuage Running Hydration Vest Backpack w/ 2L Bladder $23.20",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T17:47:59.389174Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Metal Squirrel Baffle for Bird Feeder Pole $13.19",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T17:47:59.389174Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Bedside Massage Headrest & Face Cradle $34.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T17:47:59.389174Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Bedsure 7-Piece Comforter Set (Twin XL or King) $15.59",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T17:47:59.389174Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HDX 20 in. x 20 in. x 1 in. Premium Pleated Air Filter FPR 10, MERV 12 (12-Pack) $99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T17:47:59.389174Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "4in1 Portable Air Conditioner Cools 9,000 (DOE) BTU, Cover 900 sq.ft. with Heat, Dehum, AC unit with Remote, 24Hr Timer $531",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T17:47:59.389174Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Refurbished Excellent: Apple Watch Series 11 46mm GPS Smart Watch (Space Gray Case w/ Black Sport Band) $279",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T17:47:59.389174Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Apple MagSafe Charger [USED LIKE NEW] $17",
   "reason": "Posted at $17.00, but Amazon showed $34.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-10T17:42:25.355549Z",
@@ -55955,14 +56171,6 @@
   "source": "techbargains",
   "raw_title": "Granicell 2800mAh NiMH Rechargeable AA Batteries (16-Pack) $10.45",
   "reason": "Posted at $10.45, but Amazon showed $17.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-04T00:24:26.832056Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Coloer 450-Lumen 5W 12V Brass Waterproof Outdoor Spotlights (4-Pack) $54.99",
-  "reason": "Posted at $54.99, but Amazon showed $109.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-04T00:24:26.832056Z",
   "code": "price_mismatch",
   "public": true
