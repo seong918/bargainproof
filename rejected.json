@@ -1,5 +1,29 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Mepase 16pc. Crayon Costume Adult Halloween Apron & Cone Hat Set for $27 w/ Prime + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T08:40:01.638491Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Key & Peele: The Complete Series HD digital $20",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T08:40:01.638491Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Pre-order (released on October 29, 2026) Nintendo Switch™ 2 –The Legend of Zelda™ – 40th Anniversary Edition $519.99",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-10T08:40:01.638491Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "techbargains",
   "raw_title": "ESR 3-in-1 15W MagSafe Wireless USB-C Charging Station $12.99",
   "reason": "Not evaluated",
