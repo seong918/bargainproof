@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "f583985e31b8",
+  "source": "techbargains",
+  "source_url": "https://www.amazon.com/gp/product/B0GVMBMXDX/ref=ox_sc_act_title_1",
+  "title": "DeeWaves 3.2GPM 3-Adapter Leak-Resistant Cordless Fuel Transfer Pump",
+  "raw_title": "DeeWaves 3.2GPM 3-Adapter Leak-Resistant Cordless Fuel Transfer Pump $39.99",
+  "merchant": "amazon",
+  "buy_url": "https://www.amazon.com/gp/product/B0GVMBMXDX/ref=ox_sc_act_title_1",
+  "deal_total_cents": 3999,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 3999,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 3999,
+  "amazon_url": "https://www.amazon.com/dp/B0GVMBMXDX",
+  "amazon_checked_at": "2026-09-10T15:28:54.630043Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": null,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0GVMBMXDX",
+  "image_url": null,
+  "published_at": "2026-09-10T15:28:46.714435Z"
+ },
+ {
   "deal_id": "304c8721788b",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19996935-4-99-verbatim-8gb-usb-2-0-flash-drive-at-amazon",
