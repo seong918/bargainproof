@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "099f3759627b",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19998591-amazon-2-in-1-window-squeegee-cleaner-w-62-extension-pole-9-49-w-code",
+  "title": "Amazon – 2-in-1 Window Squeegee Cleaner w/ 62\" Extension Pole - w/ Code",
+  "raw_title": "Amazon – 2-in-1 Window Squeegee Cleaner w/ 62\" Extension Pole - $9.49 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0F2HBJX15",
+  "deal_total_cents": 949,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 1899,
+  "amazon_coupon_cents": 570,
+  "amazon_effective_cents": 1329,
+  "amazon_url": "https://www.amazon.com/dp/B0F2HBJX15",
+  "amazon_checked_at": "2026-09-10T21:47:17.567469Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0F2HBJX15",
+  "image_url": null,
+  "published_at": "2026-09-10T21:47:12.945324Z"
+ },
+ {
   "deal_id": "90cb3e94aa7f",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19998396-pinspark-men-s-7-quick-dry-running-shorts-various-7-99-free-shipping-w-prime-or-on-35",
