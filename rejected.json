@@ -1,6 +1,110 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "VISIOGEAR 2-in-1 Smart Wild Bird Feeder & Bath with 4K HD Camera $29.49",
+  "reason": "Posted at $29.49, but Amazon showed $58.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T20:12:46.828668Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Kexmo Fishing Waterproof Tackle Box Bag with Rod Holder $30.99",
+  "reason": "Posted at $30.99, but Amazon showed $61.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T20:12:46.828668Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "(Resale) TP-Link AX3000 WiFi 6 Range Extender (Open Box) $39.77",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T20:12:46.828668Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Jack Link's Meat Sticks Classic Original 20-Pack 0.8-Oz $13.03",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T20:12:46.828668Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Honeywell VC16 Cordless Stick Vacuum w/ Self-Cleaning Brushroll, HEPA Filter $111.32",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T20:12:46.828668Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Smashburger $100 Value Gift Cards (Four $25 Cards) for $80 + email delivery",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T20:12:46.828668Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "DIY Journal Kit in Gift-Ready Box Just $12.99 on Amazon (Reg. $20)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T20:12:46.828668Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Sam's Club members, $25 Taco Bell egift card, $20",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T20:12:46.828668Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LG 34\" UltraWide WQHD 1440p 1800R Curved Office Monitor, Black, 34U601B-B $199",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T20:12:46.828668Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Raid Wasp & Hornet Killer Spray 2-Pack 14-Oz $5.31",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T20:07:10.980190Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Monster Energy Lo-Carb Energy Drinks 15-Pack 16-Oz $14.84",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T20:07:10.980190Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "WorkPro 28\" 2-Shelf Rolling Garage Storage Cabinet for $140 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T20:07:10.980190Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Storage Bag For 7.5-ft. Christmas Trees for $7 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T20:07:10.980190Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "177-Pc LEGO Disney Frozen Arendelle Frozen Castle (43265) $23.49 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-10T20:01:37.026759Z",
@@ -26122,14 +26226,6 @@
  {
   "source": "dealcatcher",
   "raw_title": "50-Piece MAGNA-TILES Builder XL Magnetic Construction $55.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:57:27.860643Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "WorkPro 28\" 2-Shelf Rolling Garage Storage Cabinet for $140 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T17:57:27.860643Z",
   "code": "not_checked",
