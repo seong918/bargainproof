@@ -1,5 +1,45 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "4 in 1 Bikini Trimmer for Women, Electric Razors for Women $8 AC + Free Shipping",
+  "reason": "Posted at $8.00, but Amazon showed $17.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T01:28:01.255019Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Flame King 20-lb. to 1-lb. Propane Adapter for $7 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T01:28:01.255019Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "NETGEAR Nighthawk C7000 DOCSIS 3.0 AC1900 Wi-Fi Cable Modem Router (Refurbished) $19.99 + Free Shipping w/ Prime or $6 Fee per Order",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T01:28:01.255019Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$90 FS AMAZON MCRG Walking Pad with Incline, Portable Treadmill with Handle Bar for Home, 3.0HP Electric Home Walking pad Treadmill, 0.6-7.6MPH",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-10T01:22:32.906028Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "TJJFMM 230' Drip Irrigation System $19.99 + Free Shipping w/ Prime or $6 Fee per Order",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T01:22:32.906028Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Jack Link's Original Beef Jerky 20-Count Multipack for $12 via Sub & Save + free shipping w/ Prime",
   "reason": "Not evaluated",
