@@ -1,6 +1,94 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "346-Piece LEGO Disney Sally's Flowerpot Building Set $39.99 + Free Shipping",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-10T20:23:53.757050Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Lady Speed Stick Invisible Dry Antiperspirant Deodorant 4-Pack $6.25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T20:23:53.757050Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "(Resale) Google Nest Temperature Sensor (2nd Gen) $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T20:23:53.757050Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "ACT Kids Anticavity Fluoride Rinse 16.9-Oz (Pineapple Punch) $2.16",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T20:23:53.757050Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "AOC Gaming Q27G4ZMN 27\" Mini-LED Gaming Monitor $249.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T20:23:53.757050Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Nature's Bounty Fish Oil Omega 3 Supplements 200-Count $4.33",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T20:23:53.757050Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Yukon Glory Universal Portable Grill Table Stand for $70 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T20:23:53.757050Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Rachio 3 12-Zone WiFi Smart Sprinkler Controller for $150 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T20:23:53.757050Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Christmas Trees from $34.99 Shipped (Reg. $150) + Extra $10 Off for New Customers!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T20:23:53.757050Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Gorilla Rack 5-tier Industrial Rack, 72\" x 24\" x 84\" $249.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T20:23:53.757050Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Gap Factory Men's Straight Jeans (Various) $20.39 + Free Shipping $50+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T20:23:53.757050Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "HELIVIVE Professional Electric Nail Drill 45000RPM Cordless Nail File, 11 Drill Bits, for Shaping, Polishing & Removing Gel Nails $18.71",
   "reason": "Posted at $18.71, but Amazon showed $35.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-10T20:18:19.598650Z",
