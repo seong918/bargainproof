@@ -1,6 +1,102 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "665-Piece LEGO Minecraft - The Creeper $31.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-10T19:28:14.713629Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Blingluck 17\"x12.6\" Expandable Heavy-Duty Metal Trellis (2-Pack) $6.99",
+  "reason": "Posted at $6.99, but Amazon showed $13.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T19:28:14.713629Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Hefty Slider Quart Freezer Bags 74-Count $5.77",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:28:14.713629Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "ARM & HAMMER Fridge-n-Freezer Baking Soda 12-Pack 14-Oz $7.71",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:28:14.713629Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Vitafusion Hydraboost Electrolyte Drink Powder Packets (Fruit Burst) 15-Count $6.02",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:28:14.713629Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Elizabeth Arden 1.7-Oz Hyaluronic Acid Hydra-Plumping Water Cream $48.92",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:28:14.713629Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Pedialyte Electrolyte Solution Freezer Pops 64-Pack $11.37",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:28:14.713629Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Lorna Doone Shortbread Cookies, 36 Snack Packs $21.33",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:28:14.713629Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Arm & Hammer Sensitive Skin Liquid Laundry Detergent 170-Oz $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:28:14.713629Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "MadeGood Chocolate Chip Chewy Granola Bars, 40-Pack $19.70",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:28:14.713629Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Giftcards.com Virtual Visa Gift Card Deal: Free $10 eGift Card w/ $100 Virtual Visa Purchase",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:28:14.713629Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HNVHNV Android 16 Tablet: 11\" 90Hz IPS, T7280 octa-core chip, 6GB RAM, 128GB Storage, with Case, Mouse, Stylus (Black) $89.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:28:14.713629Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$157.99 | DEWALT Buffer Polisher, 7-in-9-in, 12 amp, Variable Speed Dial 0-3,500 RPM’s, Soft Start Corded Car Buffer (DWP849X) at Amazon",
   "reason": "Community score too low (+2) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
   "rejected_at": "2026-09-10T19:22:41.415148Z",
