@@ -1,6 +1,62 @@
 [
  {
   "source": "techbargains",
+  "raw_title": "ACT 18 fl. oz Anticavity Zero Alcohol Fluoride Mouthwash (2-Pack) $4.36",
+  "reason": "Posted at $4.36, but Amazon showed $7.94 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T10:28:39.630135Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Cheersonic Digital Torque Wrench 3/8\" Drive 14-Piece Set for $45 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T10:28:39.630135Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Terratrax Chest Waders w/ Boots for $36 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T10:28:39.630135Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Balennz Men's Athletic Shorts w/ Pockets for $20 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T10:28:39.630135Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$26.99 | Anker 20,000mAh 15W Powerbank 2-Port (USB-C & USB-A) at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T10:28:39.630135Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$8.99 | Hicober 18W Wireless 3-in-1 Magnetic Foldable Apple Device Charging Station at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T10:28:39.630135Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$14.99 | Amazon Basics 65W Fast Charging GaN USB-C Wall Charger at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T10:28:39.630135Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
   "raw_title": "Pirate's Booty 0.5oz Aged White Cheddar Cheese Puffs (24-Pack) $6.66",
   "reason": "Posted at $6.66, but Amazon showed $8.87 when we checked — the deal is probably over",
   "rejected_at": "2026-09-10T10:18:09.780888Z",
