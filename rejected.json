@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "LILIO 60000mAh 22.5W Fast Charging Portable Charger w/ 3-in-1 Cable $24.99 + Free Shipping w/ Prime or $6 Fee per Order",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T06:48:46.314811Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$19.97* | 32\" DUMOS Compact Writing/Computer Desk (Rustic/Wood Brown) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-10T06:32:03.394057Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Zeagoo Women's Ribbed V-Neck Long Sleeve Slim-Fit Top (XS-XXL, Various Colors) $5.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-10T06:26:29.639210Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Ello Kids Colby 12oz Insulated Stainless Water Bottle with Straw, Blue $14.23",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-10T06:20:59.813475Z",
