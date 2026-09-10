@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "3a390356b198",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19996479-tablet-11-inch-android-16-tablets-with-keyboard-gemini-ai-3-5-24gb-128gb-132-99",
+  "title": "Tablet, 11 Inch Android 16 Tablets with Keyboard Gemini AI 3.5, 24GB+128GB",
+  "raw_title": "Tablet, 11 Inch Android 16 Tablets with Keyboard Gemini AI 3.5, 24GB+128GB $132.99",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0FDWT3MXK",
+  "deal_total_cents": 13299,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 13299,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 13299,
+  "amazon_url": "https://www.amazon.com/dp/B0FDWT3MXK",
+  "amazon_checked_at": "2026-09-10T13:48:55.181820Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": -1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0FDWT3MXK",
+  "image_url": null,
+  "published_at": "2026-09-10T13:48:39.849653Z"
+ },
+ {
   "deal_id": "e50cb2dc9162",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19996023-resale-17-50-6-cup-imusa-electric-espresso-maker-used-like-new-at-amazon",

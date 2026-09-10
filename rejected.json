@@ -1,5 +1,61 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "[SnS] $17.10* | 4-Pack 25.4-Oz DaVinci Gourmet Brown Sugar Syrup at Amazon ($4.28 each)",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-10T13:48:39.849653Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Brightup Foil Shaver for Men, Electric Razor with Smooth Close Shaving $19.99",
+  "reason": "Posted at $19.99, but Amazon showed $39.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T13:48:39.849653Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "FIT KING Leg Compression Massager for Circulation & Pain Edema Relief FSA, 2 Size Extensions $39",
+  "reason": "Posted at $39.00, but Amazon showed $71.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T13:48:39.849653Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon - Magnetic Tool Holder - Super Strong - Belt Clip for Magnetic Tools - $15.99",
+  "reason": "Posted at $15.99, but Amazon showed $35.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T13:48:39.849653Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Apple AirPods 5 Noise Cancelling Wireless Earbuds $129 | + Wireless Case $149",
+  "reason": "Posted at $149.00, but Amazon showed $129.00 when we checked — the post is stale",
+  "rejected_at": "2026-09-10T13:48:39.849653Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "GRACE KARIN Sleeveless Bodycon Dresses $16.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T13:48:39.849653Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Scarlet Darkness Off Shoulder Dress $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T13:48:39.849653Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Royal India Tour: 22-Day Fully Guided Trip with Airfare $6,549.00",
   "reason": "Not evaluated",
