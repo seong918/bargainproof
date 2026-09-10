@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[NEW, SnS] $27.94 | 36-Pack 0.5-Oz Dove Advanced Care Antiperspirant Deodorant Stick for Women (Clear Finish) at Amazon (77.6￠ each)",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-10T22:26:17.352270Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Woot! App: $29.99 | 4Pk Mens Fleece-Lined Open Bottom Sweatpants at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T22:26:17.352270Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "These Under $10 Squishy Emotional Support Nuggets Are Too Cute to Resist!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T22:20:41.264839Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "3\" Royale High Light Mermaid Fashion Doll w/ 9 Accessories $3.36 + Free Shipping w/ Prime or on orders over $35",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-10T22:15:06.596928Z",
