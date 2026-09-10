@@ -1,5 +1,21 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$499.99: Philips 2300 Series Fully Automatic Espresso Machine, LatteGo Milk System",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-10T10:33:55.422605Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[YMMV, AC] $93.79 | Makita XFD03Z 18V LXT Lithium-Ion Cordless 1/2\" Driver-Drill, Tool Only at Amazon",
+  "reason": "Posted at $93.79, but Amazon showed $119.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T10:33:55.422605Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
   "source": "techbargains",
   "raw_title": "ACT 18 fl. oz Anticavity Zero Alcohol Fluoride Mouthwash (2-Pack) $4.36",
   "reason": "Posted at $4.36, but Amazon showed $7.94 when we checked — the deal is probably over",
