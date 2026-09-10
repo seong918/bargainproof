@@ -1,6 +1,182 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon – xumemall Rechargeable Hand Warmers 2-Pack - $14.99 w/ Code",
+  "reason": "Community score too low (+-1) to pass without a price check — needs multi-pack, promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-10T20:40:36.079194Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "PINSPARK Men's 3 Pack Workout Shirts - Quick Dry Gym Athletic Shirts $11.99",
+  "reason": "Posted at $11.99, but Amazon showed $19.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T20:40:36.079194Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ekouaer Comfy Long Sleeve Jogger Set Lounge Pjs Set $11.99",
+  "reason": "Posted at $11.99, but Amazon showed $29.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T20:40:36.079194Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Lipton Soup Secrets Instant Soup Mix Real Chicken 12-Pack $8.21",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T20:40:36.079194Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "PADOOR Chenille Non-Slip Kitchen Rug 18\"x30\" $10.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T20:40:36.079194Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Kohl's Customer Appreciation Clearance: Up to 80% off + extra 15% off + free shipping w/ $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T20:40:36.079194Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Staples Filing & Organization Deals: Up to 79% off + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T20:40:36.079194Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DJI Osmo Nano Standard Combo 4K/60fps Vlogging Camera (128GB) $350.78 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T20:40:36.079194Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "McDonald’s Double cheeseburger for $1 on 9/18",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T20:40:36.079194Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "PCEEL 2-Pack Baseball Cap Organizer $8.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T20:35:02.090364Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "2-Tier Monitor Stand Riser Desk Organizer w/ Drawer for $20 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T20:35:02.090364Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Philips 4000 Series Wi-Fi Smart Deadbolt w/ Handleset for $80 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T20:35:02.090364Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Pre-order (October 1, 2026) Pokémon #72154 Iconic Trainer Moments Poké Ball $299.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-10T20:29:28.899549Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Mooka B-D02L HEPA H13 13W Large Room Air Purifier (Up to 1076sq ft) $40.49",
+  "reason": "Posted at $40.49, but Amazon showed $79.95 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T20:29:28.899549Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Qesvibol 10000mAh Portable Charger with Built in Cable $17.59",
+  "reason": "Posted at $17.59, but Amazon showed $21.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T20:29:28.899549Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "The Red Solstice",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T20:29:28.899549Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "The Serpent Rogue",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T20:29:28.899549Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Teexpert 1-Gallon Landscaping Rock & Mulch Glue $15.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T20:29:28.899549Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Brawny Tear-A-Square 3-Ply Paper Towels 6 Double Rolls $10.05",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T20:29:28.899549Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Authentic Royal Basmati White Rice 2-Pack 15-Lb $28.47",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T20:29:28.899549Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Yaheetech 12\"x12\" Interlocking Solid Fir Wood Patio Tiles 27-Pack for $62 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T20:29:28.899549Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "TrueWellness Zentro Ergo Mesh Chair for $120 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T20:29:28.899549Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "346-Piece LEGO Disney Sally's Flowerpot Building Set $39.99 + Free Shipping",
   "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-10T20:23:53.757050Z",
