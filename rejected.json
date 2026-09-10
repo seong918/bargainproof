@@ -1,6 +1,158 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon - Seago Kids Swim Goggles with Nose Cover Anti-Fog Swimming Mask Youth 5-15 - $4.99",
+  "reason": "Posted at $4.99, but Amazon showed $9.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T16:24:31.497964Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "The King of Fighters XIV Ultimate Edition $7.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T16:24:31.497964Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Low Rise Long & Lean Jeans $34.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T16:24:31.497964Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Coolife 28\" Hardshell Checked Luggage $83.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T16:24:31.497964Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Lifetime 6' Fold-In-Half Table $47.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T16:24:31.497964Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Burt's Bees 100% Natural Moisturizing Lip Balm 12-Count $9.96",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T16:24:31.497964Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Helly Hansen Alpha 4.0 Ski Jacket Waterproof Insulated RECCO $179.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T16:24:31.497964Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Lethal Weapon Collection Box Set Blu-ray for $13 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T16:24:31.497964Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "MADtv: Season 4 DVD Box Set for $18 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T16:24:31.497964Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Rechargeable Neck Reading Lights from $9.99 on Amazon (Reg. $20)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T16:24:31.497964Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "George Men's 100% Cotton Long Sleeve Relaxed Fit Crewneck T-Shirt (Various, Single or 3-Pack, Size XS-3XL) $4.40 or Less + Free S&H w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T16:24:31.497964Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Plugable 3.3' 240W USB-C 3.2 Gen 2X2 Monitor Cable (20Gbps) $6.99",
+  "reason": "Posted at $6.99, but Amazon showed $11.69 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T16:18:57.612857Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "CeraVe Night Cream, Facial Moisturizer with Peptides & Niacinamide $14.67",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T16:18:57.612857Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LED Emergency Road Flares 2-Pack $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T16:18:57.612857Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "POPPAW Dog Calming & Melatonin Drops Set $6.82",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T16:18:57.612857Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "TopMeiUP Pop-up Bathroom Sink Drain 2-Pack for $11 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T16:18:57.612857Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Amazon Basics Paper Plates 100-Count Just $4.77 Shipped",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T16:18:57.612857Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "(Open Box) HyperX Cloud Alpha Wireless Gaming Headset for (PC/Playstation; Black) $69.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T16:18:57.612857Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "NORACORA Womens Short Sleeve Tops Summer Crewneck Shirts Casual $5.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T16:18:57.612857Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Athlefit Women's Chunky Platform Black Fall Chelsea Ankle Boots $19.99",
   "reason": "Posted at $19.99, but Amazon showed $37.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-10T16:13:23.128777Z",
