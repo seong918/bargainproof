@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "9a00ca64bbc9",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19996767-code-vein-ii-playstation-5-25-free-s-h-w-prime-or-35",
+  "title": "Code Vein II (PlayStation 5) + or",
+  "raw_title": "Code Vein II (PlayStation 5) $25 + Free S&H w/ Prime or $35+",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0FQTQXD6R",
+  "deal_total_cents": 2500,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "prime"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 4875,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 4875,
+  "amazon_url": "https://www.amazon.com/dp/B0FQTQXD6R",
+  "amazon_checked_at": "2026-09-10T23:33:05.600396Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0FQTQXD6R",
+  "image_url": null,
+  "published_at": "2026-09-10T23:33:00.851532Z"
+ },
+ {
   "deal_id": "c43da634ca9e",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19998666-amazon-rokid-max-2-ar-glasses-279-w-code",
