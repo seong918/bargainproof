@@ -1,5 +1,117 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Memory Foam Cervical Pillow for Neck Pain Relief, $34.19 w/ coupon and code",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-10T13:15:57.314504Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Skullcandy Jib Wired In-Ear Earbuds w/ Inline Microphone (4 colors) $7.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-10T13:15:57.314504Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Apple Watch Series 12 GPS 42mm Smartwatch $399 | 46mm $449",
+  "reason": "Posted at $449.00, but Amazon showed $399.00 when we checked — the post is stale",
+  "rejected_at": "2026-09-10T13:15:57.314504Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Creed Women's 3 x 10ml Carmina Refill Set $99.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T13:15:57.314504Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Monster Wireless Noise Cancelling Over Ear Headphones with Bluetooth 5.4 $47.09",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T13:15:57.314504Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Double-Layer Cooling Blankets for Hot Sleepers $13.79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T13:15:57.314504Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "6\" Halloween Baseball Ghost Statue $5.77",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T13:15:57.314504Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Magnetic Exercise Bike $169.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T13:15:57.314504Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Retro Aviator Sunglasses $4.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T13:15:57.314504Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Birkenstock Arizona Gold Birko-Flor Sandal $76.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T13:15:57.314504Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "BUGANI Rove Go 5 Portable Bluetooth Speaker $29.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T13:15:57.314504Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "GOOSH Halloween Inflatable 5 FT Halloween Spider $18.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T13:15:57.314504Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Naipo 5-Ton 12V Portable Electric Car Jack Kit for $89 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T13:15:57.314504Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Cinderella - Night Songs - Vinyl $30.68",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T13:15:57.314504Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Fuse Beads Kit 26000PCS 48Colors $14.34",
   "reason": "Not evaluated",
