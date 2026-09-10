@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Kohler K-6379-0 Kitchen Sink Squeegee and Countertop Brush $5.68 at HomeDepot",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-10T02:56:40.660850Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "24-Pack Energizer MAX AAA Batteries $9.99 + Free Shipping w/ Prime or $6 Fee per Order",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T02:56:40.660850Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$4.99: GUND PAW Patrol Marshall 6-Inch Plush Toy, Stuffed Animal for Ages 1+ at Amazon",
   "reason": "Same deal was already posted from another source",
   "rejected_at": "2026-09-10T02:45:30.325970Z",
