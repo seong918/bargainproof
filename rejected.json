@@ -1,6 +1,118 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$157.99 | DEWALT Buffer Polisher, 7-in-9-in, 12 amp, Variable Speed Dial 0-3,500 RPM’s, Soft Start Corded Car Buffer (DWP849X) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-10T19:22:41.415148Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$17.50* | Costa Del Mar Mens Tech Crew Performance Long Sleeve Shirt at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-10T19:22:41.415148Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Lavazza Super Crema Whole Bean Coffee Medium Espresso Roast (35.2oz, 1-Pack) $14.13",
+  "reason": "Posted at $14.13, but Amazon showed $25.70 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T19:22:41.415148Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Homienly 12oz Unbreakable RV Stackable Wheat Straw Cup Set (6-Piece) $6.99",
+  "reason": "Posted at $6.99, but Amazon showed $12.59 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T19:22:41.415148Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Hammerting",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:22:41.415148Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "The Knight Witch",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:22:41.415148Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Gord",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:22:41.415148Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Hefty Slider Freezer Storage Bags 56-Count 1-Gallon $4.86",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:22:41.415148Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Delta Industrial 46-460 12-1/2-inch Variable-Speed MIDI Lathe $899.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:22:41.415148Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "SCARLET DARKNESS Corset Mini Dress Adjustable Straps Sundress with Pockets $16.80",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:22:41.415148Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Jack Link's Beef Jerky Peppered 2-Pack 9-Oz $14.83",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:22:41.415148Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Disco P/ALUMINIO DEWALT 12 X 80 PULG DW7666 $62.75",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:22:41.415148Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Fleximounts 4'11\" x 3' Waterproof Garage Floor Mat for $16 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:22:41.415148Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Satin Pillowcase 2-Pack Just $3.48 on Amazon (Thousands of 5-Star Reviews)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T19:22:41.415148Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[SnS, AC] $16.96* | 8-Pk 28-Oz Method All Purpose Cleaner Spray (French Lavender) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-10T19:17:07.865333Z",
