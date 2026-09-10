@@ -1,6 +1,86 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "HELIVIVE Professional Electric Nail Drill 45000RPM Cordless Nail File, 11 Drill Bits, for Shaping, Polishing & Removing Gel Nails $18.71",
+  "reason": "Posted at $18.71, but Amazon showed $35.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T20:18:19.598650Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "XMCOSY+ Outdoor Waterproof Smart Solar Lights (4-Pack) $39.99",
+  "reason": "Posted at $39.99, but Amazon showed $79.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-10T20:18:19.598650Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Huggies Simply Clean Baby Wipes 11-Pack 64-Count Unscented $12.69",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T20:18:19.598650Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Hellmann's Real Mayonnaise 30-Oz $3.29",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T20:18:19.598650Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "(Resale) Logitech G305 LIGHTSPEED Wireless Hero 12K Sensor Gaming Mouse (Black, Open Box) $17.72",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T20:18:19.598650Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Scotch General Purpose Contractor Grade Masking Tape 1.41'' x 60.1 Yd. $3.78",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T20:18:19.598650Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Four $25 Chicken N Pickle Gift Cards ($100 Value) for $75 + email delivery",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T20:18:19.598650Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Solar Lights Color Changing Solar Powered Disk Lights Waterproof Auto On/Off Solar Ground Lights 8 Pcs $49.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T20:18:19.598650Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "BLADE Bounce: Manhattan to JFK/EWR for $100 (New Customers)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T20:18:19.598650Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Monarch Portable Recreational Pickleball Net Set w/ 12' Portable Net, 2 Wood Paddles & 2 Outdoor Balls $34.99 + Free Shipping on $49+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T20:18:19.598650Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "VISIOGEAR 2-in-1 Smart Wild Bird Feeder & Bath with 4K HD Camera $29.49",
   "reason": "Posted at $29.49, but Amazon showed $58.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-10T20:12:46.828668Z",
