@@ -1,5 +1,53 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$36.05 S&S AC $15 off 4 x All Free Clear Liquid Fabric Softener for Sensitive Skin, 80 Oz, 200 Loads FREE SHIP",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-10T12:21:40.566834Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$33.35 or less S&S/Q/$15 off 4 x all Liquid Detergent for Dye Free for Sensitive Skin, 50 Oz, 110 Loads, Unscented | FREE SHIP",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-10T12:21:40.566834Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "40% off your first S&S order of ACT Mouth Rinse. Tpaste, Dry Mouth, etc for Kids and Adults from $1.75 after Q and S&S",
+  "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-10T12:21:40.566834Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Kenya, South Africa & Botswana: 13 Nights with Airfare $8,249.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T12:21:40.566834Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Pelican AEGIS 18L Travel Backpack for $100 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T12:21:40.566834Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Resale] $79.24* | Apple AirPods 4 w/ Active Noise Cancellation & USB-C Case (Used - Like New) at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-10T12:21:40.566834Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Comfrt Tranquil Paw Hoodie $19.00",
   "reason": "Not evaluated",
