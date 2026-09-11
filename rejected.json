@@ -1,6 +1,30 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "G6 Pro Smart Handheld Clothes Steamer for $15 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T11:07:57.676569Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "6-Night Paris & Nice Flight and Hotel Vacation for From $3,198 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T11:07:57.676569Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "77\" 2-in-1 Window Squeegee & Microfiber Scrubber w/ Extension Pole $6.14 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-11T11:07:57.676569Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "dealnews",
   "raw_title": "Inflatable Dinosaur Costume for Adults for $20 + free shipping w/ Prime",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-11T11:02:42.120013Z",
