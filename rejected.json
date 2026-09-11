@@ -1,6 +1,46 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "Xfinity NFL Sunday Ticket Deals for $240",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T10:08:54.174206Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS] $13.77* | 0.27-Oz Too Faced Better Than Sex Volumizing Mascara (Black) at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-11T10:08:54.174206Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Resale] $147.49 | Dorman 926-959 Patented Upgraded Aluminum Engine Oil Filter Housing with Oil Cooler and Filter Compatible with Select Models (OE FIX) (Used - Like New) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T10:03:26.441615Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "10-Night Singapore, Beijing & Tokyo Flight and Hotel Vacation for From $5,598 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T10:03:26.441615Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Kohl's Men's Customer Appreciation Clearance Deals: Up to 85% off + extra 15% off + free shipping w/ $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T10:03:26.441615Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
   "raw_title": "Walmart Tire Rollback Deals for From $37 + free shipping w/ $35",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-11T09:58:10.453112Z",
