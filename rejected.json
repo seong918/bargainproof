@@ -1,6 +1,150 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "INSIZE 1133-24 Electronic Caliper, 0-24\"/0-600mm $762",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T19:12:00.839960Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$27.50* | Kizer Nice Guy 2.84\" D2 Steel Folding Knife w/ G10 Handle & Liner Lock at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T19:12:00.839960Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC] $28.99* | Razer BlackShark V2 X Wired Gaming Headset at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T19:12:00.839960Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "BXRBXR Extra Large Bath Sheets Set 6-Piece, 2 Bath Towels 40\"x80\", 2 Hand Towels, 2 Washcloths $29.49",
+  "reason": "Posted at $29.49, but Amazon showed $58.97 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-11T19:12:00.839960Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "(Resale) Kasa Multicolor Dimmable Wi-Fi Smart Bulb A19 4-Pack KL125P4 $13.60",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T19:12:00.839960Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Maruchan Instant Lunch Cheddar Cheese 12-Pack $4.61",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T19:12:00.839960Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Azzaro The Most Wanted Parfum - Spicy Woody Cologne for Men 3.38-Oz $65.25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T19:12:00.839960Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Women's Waterproof Heated Softshell Jacket $59.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T19:12:00.839960Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "SANPELLEGRINO Sparkling Water 24-Pack Only $9 Shipped on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T19:12:00.839960Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Weber Fireball Sweet Heat Chili Seasoning Mix 12-Pack $11.40",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T19:06:27.355432Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "(Resale) Logitech G305 LIGHTSPEED Wireless Hero 12K Sensor Gaming Mouse (Used - Like New) $18.33",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T19:06:27.355432Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "CAMELSPORTS Men's 3-in-1 Hooded Waterproof Mountain Winter Ski Coat w/ Detachable Fleece Jacket $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T19:06:27.355432Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "4pc 13\" Skeletons Halloween Decorative Props - Hyde and EEK! Boutique™ $10.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T19:06:27.355432Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Dyson V12 Detect Slim Cordless Stick Vacuum w/ 7 Tools $449.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T19:06:27.355432Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Setohet 750W 26\" Electric Bike for Adults w/ Removable Battery for $300 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T19:06:27.355432Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "DiscountMags $5.50 Magazine Sale for 1-year Subs for $5.50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T19:06:27.355432Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Smash Pack: Avo XO vs Florida Man - 10 Cigars for $39 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T19:06:27.355432Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "8-Night Ireland & Northern Ireland Hotel & Guided Tour Vacation for From $3,998 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T19:06:27.355432Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "27\" Sceptre IPS FHD 1080p 240Hz Gaming Monitor (E275B-FP240) $124.97 + Free Shipping",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-11T19:00:54.578073Z",
