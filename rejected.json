@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[NEW] $234.99 | Makita XBP03Z 18V LXT Lithium-Ion Cordless Compact Band Saw, Tool Only at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-11T09:31:21.320042Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "24\" x 24\" x 40\" VEVOR Stainless Steel Commercial Food Prep Work Table w/ Casters & Adjustable Shelves $69.90 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T09:31:21.320042Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "3-Pack KALIYADI Fit-Over-Glasses Polarized Sunglasses $9.99 + FS w/ Prime or orders $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T09:31:21.320042Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Open-Box Kasa Smart WiFi Mini Smart Plug 4-Pack for $12 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T09:31:21.320042Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Hogwarts Legacy for PC for $4.80 + shipping varies",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T09:31:21.320042Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "SEDY 21-Piece 2.5\" Hex Head Allen Wrench Drill Bit Set $6.98",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-11T09:25:48.491495Z",
