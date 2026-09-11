@@ -1,6 +1,78 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "The Munsters: The Complete Series (DVD) $15.56 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+3) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T15:58:27.964536Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "WhatsBedding 5 Inch Memory Foam Mattress Topper Queen $59.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T15:58:27.964536Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Chair Cushions Set 4-Pcs $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T15:58:27.964536Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Monster Juice Mango Loco Energy Drinks 2-Pack 15-Pack 16-Oz $16.48",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T15:58:27.964536Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "TILSWALL Cordless Hot Glue Gun $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T15:58:27.964536Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "KUGUAOK Retro Rectangle Sunglasses 2-Pack $5.03",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T15:58:27.964536Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Cervical Neck Pillow, Ergonomic Memory Foam $34.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T15:58:27.964536Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "COWSAR Cold Press Juicer Machines w/ 5.4\" XL Feed Chute $40.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T15:58:27.964536Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$25 FS WALMART+ Hanging Posable Skeleton Decoration, White, 5', Halloween by Way To Celebrate",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T15:58:27.964536Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$4.96* | 2-Pk Tovolo Cat Ice Cube Mold at Amazon",
   "reason": "Posted at $4.96, but Amazon showed $9.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-11T15:53:00.494039Z",
