@@ -1,6 +1,270 @@
 [
  {
   "source": "techbargains",
+  "raw_title": "Wegear 4K Sony 1/2.55\" Sensor USB-A 73-Degree FOV Webcam with Dual Microphones $24.99",
+  "reason": "Posted at $24.99, but Amazon showed $44.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-11T20:24:10.526073Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Budsom 360rpm Cordless Electric Spin Scrubber with 6 Brushes $14.99",
+  "reason": "Posted at $14.99, but Amazon showed $25.49 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-11T20:24:10.526073Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Bell + Howell Color Changing LED Solar Powered Disk Lights 8-Pack $49.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:24:10.526073Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "13-Piece 5-Size Drawer Organizer Set for $19 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:24:10.526073Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Lazle Automatic Blood Pressure Monitor w/ Digital Display $8 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:24:10.526073Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Teva Women's Midform Universal Sandal (Boho Birch) $14.68 + Free Store Pickup at Nordstrom Rack or FS on $89+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:24:10.526073Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Costco Clearance Lego Bundles $69.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:24:10.526073Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Teva Women's Hurricane Verge Sport Slide Sandal (Maple Sugar) $11.98 + Free Store Pickup at Nordstrom Rack or FS on $89+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:24:10.526073Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Walifrey Leggings with Pockets for Women $4.79",
+  "reason": "Posted at $4.79, but Amazon showed $7.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-11T20:18:36.661961Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$209.28* | Husqvarna 135 Mark II Gas Powered Chainsaw, 38-cc 2.1-HP, 16 inch at Amazon",
+  "reason": "Posted at $209.28, but Amazon showed $203.00 when we checked — the post is stale",
+  "rejected_at": "2026-09-11T20:18:36.661961Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "ZITY Mens Golf Shirt Short Sleeve UPF 50+ Athletic Casual Collared Polo M $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:18:36.661961Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "TOMS Women's Gia Platform Wedge Sandal (Black) $20.97 + Free Store Pick-Up at Nordstrom Rack or FS on $89+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:18:36.661961Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$12.72 | 8-Pack 16.9-Oz Iberia Aloe Vera Juice Drink with Pure Aloe Pulp (Original) at Amazon ($1.59 each)",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T20:13:01.655549Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "PINSPARK Mens Gym Basketball Shorts with Pockets - 10\" Quick Dry Lightweight Mesh Athletic Shorts Light Gray M $7.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:13:01.655549Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "(Resale) Razer Basilisk V3 Wired Chroma RGB Ergonomic Gaming Mouse (Used - Like New) $22.36",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:13:01.655549Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Calvin Klein Men's Slim-Fit Blazer for $60 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:13:01.655549Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Kenneth Cole Reaction Deals at Macy's: Up to 50% off + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:13:01.655549Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Citizen Men's Luke Skywalker Chronograph Blue Dial Watch for $254 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:13:01.655549Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Two $25 See's Candies Cards ($50 Value) for $40 + $3 shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:13:01.655549Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ainfox 7.5ft Outdoor Market Patio Umbrella with Push Button Tilt and Crank Waterproof UV Protection (Beige, No Base) $19.65 + Free Shipping w/Walmart+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:13:01.655549Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Kitchen Elite ClariFry 6QT Glass Digital Air Fryer $80 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:13:01.655549Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "UGG Women's Goldenglow Slingback Sandal (Tpci) $29.23 + Free Store Pick-Up at Nordstrom Rack",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:13:01.655549Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$149.99* | Refurb: Brother DCP-L2640DW Wireless Compact B&W Multi-Function Laser Printer at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T20:07:27.882568Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "(Resale) Lodge 5-Qt Cast Iron Double Dutch Oven $29.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:07:27.882568Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "(Resale) Logitech G502 HERO High Performance Wired Gaming Mouse (Open Box) $19.79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:07:27.882568Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Blue Buffalo Wilderness Chicken Kitten Dry Cat Food, Grain-Free 5 lb $8.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:07:27.882568Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ekouaer Long Nightgowns for Women Soft Sleep Dress Short Sleeve House Dress $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:07:27.882568Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Tissot Watch Deals at Macy's: 40% off + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:07:27.882568Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas Striker Soccer Backpack 36L for $25 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:07:27.882568Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Thank You Heart 18-Piece Chocolate Box for $25 + free shipping w/ Passport Celebrations",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:07:27.882568Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Wurkkos FC12C Tactical Flashlight 1600 High Lumens $29",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:07:27.882568Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "BMO bank: Earn up to $660 in cash bonuses and rewards",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:07:27.882568Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CONTROL Resonant (Pre-Order Steam Digital Code) $47.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:07:27.882568Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
   "raw_title": "FunWater 11' Inflatable Stand Up Paddle Board with Beginners SUP Accessories $84.99",
   "reason": "Posted at $84.99, but Amazon showed $169.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-11T20:01:55.623876Z",
