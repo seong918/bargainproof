@@ -1,6 +1,86 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[AC] $0.80* | 15-Oz Chef BOYARDEE Overstuffed Beef Ravioli at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T22:59:30.545635Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Proline MS235 Round Base Microphone Stand 3-Pack for $50 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T22:59:30.545635Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ajimy 25-Tine Extendable Handle Heavy Duty Metal Rake Set w/ Leaf Scoops and 53-Gal Bag $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T22:53:57.441701Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "TOPWIT 1.6L Temperature-Control Electric Kettle $41.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T22:53:57.441701Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "OLIGHT IMINI 2 EDC 50 Lumens Rechargeable Keychain Flashlight $13.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T22:53:57.441701Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "King Kong: 50th Anniversary Edition (4K Ultra HD + Blu-ray + Digital 4K) $19.96",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T22:53:57.441701Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Costa Del Mar Mesh Trucker Hat (Blackout or Deck Grey) $7.50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T22:53:57.441701Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Klein Tools MODbox Half-Width Tall Stackable Tool Storage Box $29.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T22:53:57.441701Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "DeWALT Type 27 Metal Stainless Thin Cutting Wheel 4 1/2\"x .045\" x 7/8\" $1.53",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T22:53:57.441701Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$19.99 Sale for The Fairly OddParents: The Complete Series",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T22:53:57.441701Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Hydro Flask 5 L Carry Out Lunch Box Agave $33.75 + Free S&H w/ Prime or $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-11T22:48:24.148448Z",
