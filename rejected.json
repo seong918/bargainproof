@@ -1,6 +1,166 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon – Labrostar 160-Pc Fall Leaf Cutouts - $4.79 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T08:32:09.841972Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – EasyWox 2500W Handheld Steam Cleaner - $48.99 w/ Code + Coupon",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T08:32:09.841972Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Titan by Arctic Zone 10 Can 7 qt Fridge Cold Insulated Cooler Tote + (2) Ice Walls, Lavender $12.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T08:32:09.841972Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "ClosetMaid ShelfTrack Wood 4-Foot x 14.7\" Double Hang White Wire Closet Kit for $119 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T08:26:34.636287Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Google Pixel 11 256GB Mint Mobile Android Smartphone for $624 + 1-year of Unlimited for $15/month + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T08:26:34.636287Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Caravelle by Bulova Automatic Stainless Steel +$50 Kohls Cash $287",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T08:26:34.636287Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon - Shoe Waterproof Spray 15.55 OZ $9.59",
+  "reason": "Posted at $9.59, but Amazon showed $15.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-11T08:21:01.169454Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "G Gradual Men's Quarter Zip Athletic Running Pullover for $14 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T08:21:01.169454Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "G Gradual Store Men's Fleece Lined Crewneck Sweatshirt for $18 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T08:21:01.169454Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Visiogear 4K Solar Smart Bird Feeder and Bath for $30 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T08:21:01.169454Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas Men's Daily 4.0 Shoes for $27 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T08:21:01.169454Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Greenworks Lawn Mowers at Lowe's for From $180 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T08:21:01.169454Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Barjneel Men's Fleece Lined Thermal Underwear Long Johns Base Layer Pants (Black) from $8.89 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T08:15:28.761149Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ryobi ONE+ 18V Cordless Hybrid Whisper Series 7-1/2\" Fan w/ 2.0 Ah Battery & Charger $79.97 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T08:15:28.761149Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$8.99 | Amazon Essentials Men Long-sleeve French Sweater at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T08:15:28.761149Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$14.99 | Wall Mounted Floating Shelves, Set of 4 at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T08:15:28.761149Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "40-Oz Nuovoware Magnetic Water Bottle Carrier Bag (Gray) $9.51 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T08:09:53.246272Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Fanttik C8 Nano Cordless Cardboard Cutter for $39 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T08:09:53.246272Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "MontVoo 20x20\" Pet Feeding Mat for $4 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T08:09:53.246272Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Insignia 35W Dual USB-C Wall Charger (White) $8.49 + Free Store Pickup at Best Buy",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T08:09:53.246272Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "ECO-WORTHY Upgraded Solar Ground Mount Adjustable Multi-Pieces Solar Panel Mount $116.99",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-11T08:04:19.210526Z",
@@ -53746,14 +53906,6 @@
  {
   "source": "dealnews",
   "raw_title": "11th-Gen. Apple iPad A16 128GB 11\" Tablet (2025) for $399 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T09:32:10.653152Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Google Pixel 11 256GB Mint Mobile Android Smartphone for $624 + 1-year of Unlimited for $15/month + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T09:32:10.653152Z",
   "code": "not_checked",
