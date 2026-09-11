@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "ab7d8cf259aa",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20000268-3-30-tekton-high-torque-black-oxide-blade-nut-driver-8mm-at-amazon",
+  "title": "TEKTON High-Torque Black Oxide Blade Nut Driver (8mm)",
+  "raw_title": "$3.30 | TEKTON High-Torque Black Oxide Blade Nut Driver (8mm) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B078HM2X1B",
+  "deal_total_cents": 330,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 330,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 330,
+  "amazon_url": "https://www.amazon.com/dp/B078HM2X1B",
+  "amazon_checked_at": "2026-09-11T06:13:09.323989Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B078HM2X1B",
+  "image_url": null,
+  "published_at": "2026-09-11T06:13:05.316093Z"
+ },
+ {
   "deal_id": "0af3b357a1f5",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20000250-237-citizen-unisex-eco-drive-dress-classic-eco-watch-at-amazon",
