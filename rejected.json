@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$1.99 | The Engine 2 Diet: The Texas Firefighter's 28-Day Save-Your-Life Plan that Lowers Cholesterol and Burns Away the Pounds (eBook) by Rip Esselstyn",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T01:34:40.693500Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "The North Face Women's Borealis 27L Backpack (White Melange/Mid Gray) $77.17 + 10% Back w/ Prime Visa Card at Amazon + Free Shipping",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T01:34:40.693500Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$1.99 | Blueprint: The Evolutionary Origins of a Good Society (eBook) by Nicholas A. Christakis MD PhD",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T01:34:40.693500Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$7.17 ARM & HAMMER Sensitive Skin Free & Clear Liquid Laundry Detergent 105 Loads, 105 fl oz",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T01:34:40.693500Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "AI Portable Waist Fan,Rechargeable Fan with 4-Speed 6600RPM Strong Airflow $6.97",
+  "reason": "Posted at $6.97, but Amazon showed $13.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-11T01:34:40.693500Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "GLP-1 Booster Supplement 1-Month Supply Just $17.97 Shipped on Amazon (Reg. $40)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T01:34:40.693500Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Animal Whey Isolate Protein Powder, 25G High Protein | Chocolate 4LB $54.71",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T01:34:40.693500Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DEWALT 20V MAX Cordless Compact Jobsite Blower (135 MPH / 100 CFM, Tool Only) $99.00 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T01:34:40.693500Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$2.81 365 by Whole Foods Market, Organic Lasagne, 16 Ounce with S&S",
   "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-11T01:29:06.967000Z",
