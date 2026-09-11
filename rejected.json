@@ -1,6 +1,14 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[Resale] $12 | Apple USB-C to Lightning Cable (2 m) (Used - Like New) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T07:14:19.439320Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "iRobot Roomba Max 775X Combo Robot Vacuum & Mop + AutoWash Dock – Extending self-Cleaning Roller Mop, Brown/Black or Black $799.99",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-11T07:08:45.918191Z",
