@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "3d1b437f8647",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20000334-8-99-watchmen-chapter-1-blu-ray-digital-hd-at-amazon",
+  "title": "Watchmen: Chapter 1 (Blu-ray + Digital HD)",
+  "raw_title": "$8.99 | Watchmen: Chapter 1 (Blu-ray + Digital HD) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0D699G68J",
+  "deal_total_cents": 899,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 899,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 899,
+  "amazon_url": "https://www.amazon.com/dp/B0D699G68J",
+  "amazon_checked_at": "2026-09-11T06:46:36.544502Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0D699G68J",
+  "image_url": null,
+  "published_at": "2026-09-11T06:46:31.842516Z"
+ },
+ {
   "deal_id": "f2e3ffbb4a8d",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19998627-amazon-luyi-11-pair-halloween-earrings-set-8-99-w-code",
