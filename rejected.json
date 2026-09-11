@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$7.47* | 6-Cup Genuine Fred Nesting Mushroom Measuring Cups at Amazon",
+  "reason": "Posted at $7.47, but Amazon showed $20.95 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-11T04:32:59.782205Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Kobalt 22 -Piece 1/4-in, 3/8-in and 1/2-in Drive Accessory Set one_size | 81241 $29.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T04:32:59.782205Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "AIRTOK AP2801 Air Purifier for Large Rooms up to 2240 Ft² w/ True HEPA & AQI Display (White) $59.99 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T04:27:25.887859Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Smart Watch for Men/Women, 1.85\" AMOLED Screen Fitness Tracker, $19.20 w/ coupon and code",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T04:27:25.887859Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Vanguard VEO RANGE T45M Backpack @ B&H $79.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T04:27:25.887859Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Paramount Presents: Ghost Blu Ray $11.49 Amazon.com",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-11T04:21:50.861699Z",
