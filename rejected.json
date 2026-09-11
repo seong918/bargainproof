@@ -1,6 +1,54 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "Inflatable Dinosaur Costume for Adults for $20 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T11:02:42.120013Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$1.99 | The Power of Positive Thinking: 10 Traits for Maximum Results (eBook) by Norman Vincent Peale",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-11T11:02:42.120013Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Merrell Men's Hut Moc 2 Packable Shoes (Sizes 7 to 9) for $32 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T10:57:26.003323Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "MallRace Intel i5 15.6\" Laptop w/ 24GB RAM for $550 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T10:52:09.188231Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Merrell Aurora Belt Bag for $11 + free shipping w/ $75",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T10:52:09.188231Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Katerk 500mAh Mini Electric Screwdriver for $20 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T10:52:09.188231Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
   "raw_title": "AstroAI 160-PSI Cordless Portable Tire Inflator for $40 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-11T10:46:53.200044Z",
