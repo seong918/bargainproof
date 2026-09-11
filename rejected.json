@@ -1,6 +1,182 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[Resale] $95.42 | Google Nest Doorbell (Wired, 3rd Gen) (Used - Like New) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T00:00:22.769024Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "TCOT Women's 3 Pack Long Sleeve Shirts Lightweight Crew Neck Sweatshirts $15.89",
+  "reason": "Posted at $15.89, but Amazon showed $36.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-11T00:00:22.769024Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Resale] $42.89 | TP-Link AX3000 WiFi 6 Range Extender (RE715X) (Used - Like New) at Amazon",
+  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-10T23:54:57.226391Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Resale] $19.99* | Google Nest Temperature Sensor (2nd Gen) (Used - Like New) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-10T23:54:57.226391Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "SKILSAW SPT79-00 15-Amp Medusaw Worm Drive Saw for Concrete, 7\" $246.24",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T23:54:57.226391Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "HERDEZ Guacamole Salsa, Medium, 32 oz. jug (Pack of 2) $9.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T23:54:57.226391Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "PrimaCare IS-5529 26\" x 4\" Rolled Mesh Wire Splint $2.59",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T23:54:57.226391Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "iRobot Roomba Max 775X Combo Robot Vacuum & Mop with AutoWash Dock $799.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T23:54:57.226391Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Tissot Carson Premium Swiss Automatic 30mm Women’s Watch $262.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T23:54:57.226391Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "DEWALT 20V MAX Cordless Cable Cutter (Tool Only) $592.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T23:54:57.226391Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LEGO Icons Tropical Aquarium (10366, 4154-Piece) $423.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T23:54:57.226391Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Herschel Supply Co. Classic Backpack, Black, XL - 30L $29.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T23:54:57.226391Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Beetles Fall Gel Nail Polish Set $8.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T23:54:57.226391Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Bosch GBH18V-26DK24 18V EC Brushless SDS-plus® Bulldog™ 1 In. Rotary Hammer Kit with (2) CORE18V® 8 Ah High Power Batteries $384.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T23:54:57.226391Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Bosch GWX18V-10PN 18V X-LOCK Brushless 4-1/2 – 5 In. Angle Grinder with No Lock-On Paddle Switch (Bare Tool) $149.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T23:54:57.226391Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Washable Dog Pee Pads 28\" x 40\" 1-Pack $10.07",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T23:54:57.226391Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "BOSCH GLF18V-25N 18V Laminate Trim Router 10,000-30,000 RPM $124.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T23:54:57.226391Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Booms Fishing 10-Rod Ceiling/Wall Mount Fishing Rod Holder $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T23:54:57.226391Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "BOSCH GFF18V-086N 18V Brushless Biscuit Joiner $204.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T23:54:57.226391Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "12 Pairs On-Stage Maple 5A Wood Tip Drumsticks for $27 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T23:54:57.226391Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Vevor 4-Ton Hydraulic Long Ram Jack for $29 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T23:54:57.226391Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Resistance Band Workout Set w/ 5x Bands, 2x Handles, 2x Straps, Anchor & Bag $6 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-10T23:54:57.226391Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$4.49* | 4-Pack 100-Count Curad Alcohol Prep Pads at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-10T23:49:30.221244Z",
