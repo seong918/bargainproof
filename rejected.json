@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$ 12.99 AMAZON AC AstroAI 27\" Snow Brush and Ice Scrapers for Car Windshield, Snow Removal",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T01:45:47.293316Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Rob Zombie: The Lunar Injection Kool Aid Eclipse Conspiracy (Audio CD w/ AutoRip MP3) $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T01:45:47.293316Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Bandai Hobby 30 Minute Missions #72 eEXM-40 IGLIGHT 02 1/144 Model Kit $14.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T01:45:47.293316Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Motley Crue: From the Beginning Vinyl for $18 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T01:45:47.293316Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Cueply Dresses for Women Casual Long Sleeve Fall Spring Mock Neck Pullover Long Dresses with Pockets $21.69",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T01:45:47.293316Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Fantaslook Fall Long Sleeve Dresses for Women Crew Neck Empire Waist Tunic Dress with Pockets Sweater Dress $15.79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T01:45:47.293316Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "28 L JanSport NCAA Officially Licensed Backpack(Navy) $14.19 + Free S&H w/ Prime or $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-11T01:40:14.732289Z",
