@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$11.88-AriZona Lemon Tea - Big Can, 22 Fl Oz (12 Pack) AMAZON",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T09:36:53.998787Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon Basics UPS Battery Backup & Surge Protector, 1500VA/900W, 10 Outlets, Black $119",
+  "reason": "Out of stock on Amazon when we checked",
+  "rejected_at": "2026-09-11T09:36:53.998787Z",
+  "code": "amazon_oos",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Open-Box Kasa Smart Indoor Pan-Tilt Home Security Camera for $11 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T09:36:53.998787Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[NEW] $234.99 | Makita XBP03Z 18V LXT Lithium-Ion Cordless Compact Band Saw, Tool Only at Amazon",
   "reason": "Community score too low (+2) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
   "rejected_at": "2026-09-11T09:31:21.320042Z",
