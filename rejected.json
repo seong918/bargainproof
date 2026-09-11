@@ -1,6 +1,142 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "5-Count BIC Brite Liner Chisel Tip Highlighters (Assorted Colors) $1.87 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T17:15:35.649572Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "MEKASS 250ml Diatomaceous Earth Powder Duster w/ Adjustable Rod (Orange) $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T17:15:35.649572Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "2 in 1 Women's Pullover Tops Polo Shirts $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T17:15:35.649572Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "2-Pack 1000-Lumen Rechargeable Camping Lanterns $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T17:15:35.649572Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "7.2V 2-in-1 Cordless Electric Hedge Trimmer $19.79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T17:15:35.649572Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Turtle Beach Stealth 700 Gen 3 Wireless Multiplatform Gaming Headset for $144 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T17:15:35.649572Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Wireless Doorbell Just $5.99 Shipped for Prime Members",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T17:15:35.649572Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "As Fairy Wireless Seamless Jelly Support Full Coverage Bra with V Mesh Neck $9.75",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T17:15:35.649572Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nioh 3, PlayStation 5 $25.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T17:15:35.649572Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "BISSELL CrossWave OmniForce Edge All-in-One Multi-Surface Cordless Cleaner $189.99 + $4.99 shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T17:15:35.649572Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SUSTEAS Rotary Cheese Grater, Large Vegetable Food Shredder, 5 Blades $14.84",
+  "reason": "Posted at $14.84, but Amazon showed $29.69 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-11T17:10:00.998812Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Katerk 1/4\" Hex Shank Portable Durable 6-Piece Screwdriver Bit Holder Set $5.99",
+  "reason": "Posted at $5.99, but Amazon showed $9.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-11T17:10:00.998812Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Advanced Calming Chews for Dogs $10.50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T17:10:00.998812Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Wironlst 6' Lighted Fall Garland w/ Pumpkins & Pinecones $8.50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T17:10:00.998812Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Target Video Game Deals: Up to 77% off + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T17:10:00.998812Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SWISSWELL Mens Rain Jacket Raincoat Waterproof Windbreaker 17.99 $17.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T17:10:00.998812Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "22\" Sunchers 20V Max Cordless Hedge Trimmer w/ 2 Batteries & Charger $40.99 + Free Shipping w/ Prime or $6 Fee per Order",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T17:10:00.998812Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "KVIDIO 3.5mm Wired Over-Ear Headphones w/ Mic & In-Line Volume Control (Black) $9.98 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-11T17:04:27.491927Z",
