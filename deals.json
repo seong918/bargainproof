@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "28c4a0a1bbba",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20002581-12-pack-3-6-oz-sour-patch-kids-original-soft-chewy-candy-8-08-w-s-s-free-shipping-w-prime-or-on-35",
+  "title": "12-Pack 3.6-Oz Sour Patch Kids Original Soft & Chewy Candy w/ S&S + or on",
+  "raw_title": "12-Pack 3.6-Oz Sour Patch Kids Original Soft & Chewy Candy $8.08 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 808,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "sns",
+   "prime",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-11T20:40:44.610214Z"
+ },
+ {
   "deal_id": "5e292caa59be",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20002053-amazon-karamax-women-s-high-waisted-leggings-3-59-5-39-w-code",
