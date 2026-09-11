@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "1d607ca79904",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20002521-sns-ac-12-59-6-pack-8-8-oz-belvita-breakfast-biscuits-dark-chocolate-cr-me-at-amazon",
+  "title": "6-Pack 8.8-Oz Belvita Breakfast Biscuits (Dark Chocolate Crème)",
+  "raw_title": "[SnS, AC] $12.59 | 6-Pack 8.8-Oz Belvita Breakfast Biscuits (Dark Chocolate Crème) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1259,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 6,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-11T19:39:44.799647Z"
+ },
+ {
   "deal_id": "e43b1bb54b1c",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20002536-128-24-makita-xru23z-18v-lxt-lithium-ion-brushless-cordless-13-string-trimmer-tool-only-at-amazon",
