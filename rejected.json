@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon – GreenLaw iPad Air / iPad Pro 11\" Keyboard Case - $17.99–$24.99 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T09:09:20.710417Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HERDEZ Guacamole Salsa, Medium, 32 oz Jug – Gluten Free, Kosher, Authentic Mexican Smooth & Flavorful Avocado-Based Salsa~$4.74 With S&S @ Amazon~Free Prime Shipping!",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T09:09:20.710417Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Pc Bosch 12V Max Brushed Drill/Driver Combo Kit w/ 2x 2.0Ah Batteries/Charger $99.99 at Tractor Supply w/ Free Store Pickup (YMMV)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T09:09:20.710417Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "New Members: 697-Piece LEGO Star Wars Gingerbread AT-AT Walker Building Set $46.99 + $5.50 Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T09:09:20.710417Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$187.99 | Makita XAG16Z 18V LXT BL 4-1/2”/ 5\" Cut-Off/Angle Grinder at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
   "rejected_at": "2026-09-11T09:04:05.399686Z",
