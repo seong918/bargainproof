@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "304e4e33c673",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20000568-11-2-oz-strawberry-banana-cheerios-cereal-2-37-w-s-s-free-shipping-w-prime-or-on-orders-over-35",
+  "title": "11.2-Oz Strawberry Banana Cheerios Cereal w/ S&S + or on orders over",
+  "raw_title": "11.2-Oz Strawberry Banana Cheerios Cereal $2.37 w/ S&S + Free Shipping w/ Prime or on orders over $35",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 237,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "sns",
+   "prime"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-11T12:12:08.266795Z"
+ },
+ {
   "deal_id": "75eda0f04a76",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20001150-639-bowers-wilkins-zeppelin-pro-edition-wireless-speaker-space-grey-at-amazon",

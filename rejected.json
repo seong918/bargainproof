@@ -1,5 +1,29 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Kohl's Celebrate Together Halloween Decor Deals: Up to $60 off + free shipping w/ $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T12:12:08.266795Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Razer Cobra Wired Lightweight Optical Gaming Mouse w/ Chroma RGB (Minecraft Edition) $29.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T12:12:08.266795Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$899 FS Best Buy by Jackery - Explorer 2000 v2 Portable Power Station (2042Wh) with a Medium Size Carrying Case for Outdoor Use and Emergency Backup (2042 Wh Capacity)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T12:12:08.266795Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Ekouaer Women's Pajama Set Long Sleeve PJs Cozy Sweatshirt and Long Pants $10.99",
   "reason": "Posted at $10.99, but Amazon showed $14.99 when we checked — the deal is probably over",
