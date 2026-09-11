@@ -1,5 +1,69 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Apple AirPods Pro 3, Wireless Earbuds Includes 2 Years of AppleCare+ $199.99 Free Shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T12:52:10.776971Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "60-Piece Black Silverware Set - Stainless Steel Silverware Set for 12 $31.99 @ Amazon",
+  "reason": "Posted at $31.99, but Amazon showed $63.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-11T12:46:36.459157Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Monster Persona 3rd ANC Bluetooth 5.4 Over-Ear Wireless Headphones Blue $35.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T12:46:36.459157Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "2K Wireless Outdoor Battery-Powered Security Camera for $21 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T12:46:36.459157Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[pre-order] AirPods 5 with Active Noise Cancellation $125",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T12:46:36.459157Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "27\" Sceptre FHD 1080p 100Hz Gaming Monitor w/ AMD FreeSync $91.97 + Free Shipping",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T12:41:01.128747Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Oraimo ANC Wireless Bluetooth Over-Ear Headphones with 65H Playtime $39.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T12:41:01.128747Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Hand-Forged Razor Sharp Carving Knife Set $15.19",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T12:41:01.128747Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "BUGANI Bluetooth Over Ear Headphones with RGB Light $15.95",
   "reason": "Not evaluated",
