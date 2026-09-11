@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$18.08 S&S Clip Q Mucinex DM 12Hr Max Strength Chest Congestion & Cough Medicine, 48 Tablets | Dextromethorphan HBr Cough Suppressant,",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T02:02:30.263363Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "AUTO-VOX Solar Wireless Backup Camera w/ 5\" 1080p Monitor & 5000mAh Battery $90.99 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T02:02:30.263363Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Edifier R1700BT 4\" 66W Powered Bluetooth Bookshelf Speakers (White) $149.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T02:02:30.263363Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DREO Smart Fan for Bedroom with RGB Light, 150°+120° Omni-directional Oscillating, Quiet Fan, 100ft Air Circulator Pedestal Fan, 37-42'' Height, Wi-Fi/Voice/Alexa Grey $118.98",
+  "reason": "Posted at $118.98, but Amazon showed $125.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-11T01:56:55.989819Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon - Cervical Neck Pillow, Ergonomic Memory Foam for Side/Back/Stomach Sleepers - $34.99",
+  "reason": "Posted at $34.99, but Amazon showed $69.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-11T01:56:55.989819Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "RIG 300 Pro HC Wired Gaming Headset for Xbox (Cosmic Purple) $26.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T01:56:55.989819Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$5.59 ac S&S AMAZON Ohm Esomeprazole Magnesium Delayed Release Capsules 20mg, 42 Count",
   "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-11T01:51:22.362433Z",
