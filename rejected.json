@@ -1,5 +1,77 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$77* | SwissGear Hybrid 30L Travel Backpack, Fits 15 inch Laptop, Men's and Women's, Black + 10% Back w/ Prime Visa Card at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T16:42:23.523230Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Happi2U AI Mini Thermal Sticker Printer for Kids – 60% Off w/ 20% Coupon + 40% Code @ Amazon $11.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T16:42:23.523230Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$39.95* | JBL Go 5 Portable Waterproof Dustproof Bluetooth Speaker at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T16:42:23.523230Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Novete 3-in-1 5L Water Tank Portable Countertop Dishwasher with Inlet Hose $289.98",
+  "reason": "Posted at $289.98, but Amazon showed $339.00 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-11T16:42:23.523230Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "(Resale) TOSHIBA Microwave Oven, 0.9 Cu.Ft, 900W, Black Stainless Steel $57.82",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T16:42:23.523230Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Soundcore Space One Noise Cancelling Headphones $64.99 Black or Cream Free Shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T16:42:23.523230Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "AMD Ryzen 5 9600X + GIGABYTE B850M EAGLE WIFI6E M-ATX + Cooler Master Elite Liquid 240 CPU AIO Cooler $254.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T16:42:23.523230Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Shark Detect Performance Lift-Away Advanced Upright Vacuum with DuoClean Detect $239.99 + $4.99 Shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T16:42:23.523230Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Wooken – W-206 Full-Suspension Folding Fat-Tire E-Bike - $399.99 w/ Code",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T16:42:23.523230Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "(Resale) Delta Faucet ProClean Chrome Shower Head with Handheld 75740 (Open Box) $19.45",
   "reason": "Not evaluated",

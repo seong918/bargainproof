@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "b35a1851932e",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20002170-amazon-mulittea-vitamin-d3-k2-mk7-250-softgels-20-24-w-coupon",
+  "title": "Amazon – Mulittea Vitamin D3 + K2 MK7, 250 Softgels - w/ Coupon",
+  "raw_title": "Amazon – Mulittea Vitamin D3 + K2 MK7, 250 Softgels - $20.24 w/ Coupon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0DZ5NXXZY",
+  "deal_total_cents": 2024,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 2699,
+  "amazon_coupon_cents": 675,
+  "amazon_effective_cents": 2024,
+  "amazon_url": "https://www.amazon.com/dp/B0DZ5NXXZY",
+  "amazon_checked_at": "2026-09-11T16:42:27.686195Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0DZ5NXXZY",
+  "image_url": null,
+  "published_at": "2026-09-11T16:42:23.523230Z"
+ },
+ {
   "deal_id": "2094cd40e1bf",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20000571-prime-9-99-6-outlet-powrui-1680j-wall-extender-w-night-light-3x-usb-ports-at-amazon",
