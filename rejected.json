@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "SPORTSROYALS Free Standing Pull Up Bar $159 + Free S/H",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T04:55:13.991422Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$49.99 | Philips DDL230X-10HW Retrofit Smart Lock Black at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T04:55:13.991422Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HP OmniBook 5 16Z-bp000 Laptop: 16\" FHD+ OLED, Ryzen AI 7 445, 16GB LPDDR5X, 256GB Gen4 SSD, Win11H @ $580 + F/S",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T04:55:13.991422Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "5.7\" Hasense Ceramic Spoon Rest (Green) $4.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-11T04:49:40.275303Z",
