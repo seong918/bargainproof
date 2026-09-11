@@ -1,6 +1,278 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Phylluz 52'' Black Flush Mount Ceiling Fan with Lights for Bedroom $42.59",
+  "reason": "Posted at $42.59, but Amazon showed $70.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-11T21:14:00.835436Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "STAGEEK 37PCS Mechanical Pencil Set with Case, 0.3, 0.5, 0.7, 0.9 ＆2PCS 2mm $11.89",
+  "reason": "Posted at $11.89, but Amazon showed $14.95 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-11T21:14:00.835436Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Highly Rated JBL Mini Bluetooth Speaker Just $24.95 Shipped for New Customers",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T21:14:00.835436Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Woot - NEW YORK GIANTS NFL ‎soar Active Noise Cancelling Over Ear Headphones - $13.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T21:14:00.835436Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Sabre pant print men's $182",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T21:14:00.835436Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "sabre jacket-Arcteryx $360",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T21:08:26.892985Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Extra 15% Off $35 / Extra 20% Off $50: Walgreens Sitewide Deals for myWalgreens Members",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T21:08:26.892985Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Costo Members See's Candies Two $25 Mailed Gift Cards ($50 Value) YMVV $39.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T21:08:26.892985Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Cles Zyz Upgraded 800W Universal Fit 6.5\" Car Speakers $33.59",
+  "reason": "Posted at $33.59, but Amazon showed $42.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-11T21:02:53.534005Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Fosi Audio ZH1 Smart-Tuned Fully Balanced Desktop DAC Amp $127.50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T21:02:53.534005Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Norwegian 7-Night Caribbean Cruise for From $1,458 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T21:02:53.534005Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "HP OmniBook 5 AMD Ryzen AI 7 16\" Laptop for $600 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T21:02:53.534005Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Arm & Hammer Odor Absorber 12-Pack Only $7.71 Shipped on Amazon (Just 64¢ Each)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T21:02:53.534005Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Giant Fathom 1 Hardtail Mountain Bike (Knight Shield) $699.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T21:02:53.534005Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "$100 PlayStation Store eGift Card $88.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:57:20.009161Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Wilson Encore Series Football $34.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:57:20.009161Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Men Adidas Adizero Evo SL Woven Running Shoes $75.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:57:20.009161Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "The North Face Women's Essential Dome Hoodie (Black) $32.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:57:20.009161Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LG 34\" UltraWide WQHD 1440p 1800R Curved Office Monitor $199.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:57:20.009161Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "DICTAC Twin Corner Bed Frame with 2 Storage Drawers and Charging Station $109.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:57:20.009161Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "36L adidas One-Size Striker Soccer Backpack w/ Ventilated Shoe Garage & Laptop Sleeve (Navy Blue/Dark Green) $24.83",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:57:20.009161Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "GOOSH 4 FT Halloween Inflatable Cute Ghost Outdoor Decorations $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:57:20.009161Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "TAURI 2 Pack iPhone 18 Pro Screen Protector $9.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:57:20.009161Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "VEVOR Clear PVC Strip Curtain 84 in Height x 36 in Width x 0.08 in Thickness 6 PCS $37.90",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:57:20.009161Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ultra PRO Penny Sleeves 3000 Count $28.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:57:20.009161Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "The Patrick Star Show: Season 1, Volume 1 DVD $7.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:57:20.009161Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Melissa & Doug 100-Piece Set of Wooden Building Blocks $13.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:57:20.009161Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "AI'MAGE Bikini Swimsuit Coverup Button Up Shirt $7.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:57:20.009161Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "AQUANEAT 1 Gallon Betta Fish Tank Aquarium Kit with LED Light and Water Filter Pump $23.88",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:57:20.009161Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "ECO-WORTHY Upgraded Solar Ground Mount Adjustable Multi-Pieces Solar Panel Mount $116.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:57:20.009161Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Pirecart 5-Piece Outdoor Patio Dining Table Set with 4 Stackable Chairs for $129 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:57:20.009161Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Philergo 28\" Propane Fire Pit Table for $138 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:57:20.009161Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Citizen Luke Skywalker Chronograph Blue Dial Men's Watch $254",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:57:20.009161Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Tommy Hilfiger Men's Modern-Fit Linen Blend Blazer $59.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:57:20.009161Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$8.46* | 10-Pc Amartisan Magnetic Screwdrivers w/ 2-Pc Multifunction Mini Set (5 Colors) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-11T20:51:47.922783Z",
