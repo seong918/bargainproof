@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "8e2b8da6650f",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20002977-79-99-4-pk-apple-airtag-2nd-generation-at-amazon",
+  "title": "4-Pk Apple AirTag (2nd Generation)",
+  "raw_title": "$79.99* | 4-Pk Apple AirTag (2nd Generation) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 7999,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-11T21:41:43.235805Z"
+ },
+ {
   "deal_id": "f93db24f92b2",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20003223-new-89-00-skilsaw-spt67wl-01-15-amp-7-1-4-in-sidewinder-circular-saw-at-amazon",
