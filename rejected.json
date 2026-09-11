@@ -1,6 +1,278 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Earthquake [Blu-ray] $8 Amazon.com",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T16:58:59.486027Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "NIIMBOT B1 Label Maker, 2Inch Bluetooth Label Printer for Home, Blue $14.99",
+  "reason": "Posted at $14.99, but Amazon showed $27.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-11T16:58:59.486027Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Bodyarmor Sugar Free Low-Calorie Watermelon Strawberry Sports Drink (12oz, 8-Pack) $4.04",
+  "reason": "Posted at $4.04, but Amazon showed $6.74 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-11T16:58:59.486027Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Vanstek 22-Ct 0.7mm Retractable Erasable Gel Pens $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T16:58:59.486027Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "5QT Pre-Seasoned Cast Iron Dutch Oven $29.69",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T16:58:59.486027Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "3-in-1 Charging Cable 2-Pack 4FT $4.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T16:58:59.486027Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Xinp 3-Pack 13.7\" Rechargeable LED Under Cabinet Lights w/ Motion Sensor $16.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T16:58:59.486027Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "KOOPER Metal Solar Hanging Lanterns 2-Pack $11.87",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T16:58:59.486027Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "ANY Size Comforter Sets Just $23.99 on Macys.com (Reg. $80)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T16:58:59.486027Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Temu – GPGP Greenpeple Mullein Drops, 2 Fl Oz - $10.29",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T16:58:59.486027Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SKIL PWR CORE 12 2 x 2.0Ah 12V USB-C Battery and Charger Starter Kit Including Two 2.0Ah Batteries and 20W PD Charger-CB5020A-22 $49.99",
+  "reason": "Community score too low (+4) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T16:53:26.897703Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Pool Cornhole Board Set 3ft x 2ft $23.84",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T16:53:26.897703Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "65\" ROTTOGOON Floor Lamp w/ End Table & Charging Station $32.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T16:53:26.897703Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "DEWALT DWE315SK Oscillating Multi-Tool Kit $99.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T16:53:26.897703Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LEGO 43224 Disney Wish: King Magnifico’s Castle $50.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T16:53:26.897703Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "The Legend of Zelda: Ocarina of Time Nintendo Switch 2 $59.88",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T16:53:26.897703Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LEGO Classic White Baseplate 32x32 Studs $4.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T16:53:26.897703Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Makita XLC07Z 18V LXT Lithium-Ion Handheld Canister Vacuum, Tool Only $142.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T16:53:26.897703Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Spindrift Sparkling Water 20-Pack (4 Flavor Original Variety Pack) $9.62",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T16:53:26.897703Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "SANDISK 128GB High Endurance Video microSDXC Card with Adapter $36.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T16:53:26.897703Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "NIVEA MEN Sensitive 3-in-1 Body Wash (Bamboo Extract) 3-Pack 16.9-Oz $15.16",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T16:53:26.897703Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "OLIXIS 74.4\"x28\" Folding Camping Cot w/ Cushion $47.92",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T16:53:26.897703Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Goplus Camouflage 360° Swivel Blind Chair w/ Carrying Strap $49.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T16:53:26.897703Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Logitech MX Anywhere 3S Compact Wireless Mouse Fast Scrolling - Graphite $45.81",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T16:53:26.897703Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Shokz OpenRun SE Open-Ear Bluetooth Bone Conduction Sport Headphones for $70 for members + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T16:53:26.897703Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Kohler Prone 3-in-1 Multifunction Shower Head with PowerSweep $79.99 Chrome, Brushed Nickel, Gold or Matte Black Free Shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T16:53:26.897703Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Hanes Essentials Men’s Short Sleeve T-Shirt, Sizes S-3XL $1.79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T16:53:26.897703Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Seasky Manual Durable Adjustable Height Lawn Aerator $14.99",
+  "reason": "Posted at $14.99, but Amazon showed $29.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-11T16:47:54.670608Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Weicha Bourbon Whiskey Cocktail Smoker Kit with Torch $14.99",
+  "reason": "Posted at $14.99, but Amazon showed $23.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-11T16:47:54.670608Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Delta Faucet ProClean SpotShield Brushed Nickel Shower Head with Handheld 75740SN $19.11",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T16:47:54.670608Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Samsung Odyssey G95C 49\" Super Ultrawide 1440p HDR 240Hz FreeSync Curved LCD Monitor for $700 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T16:47:54.670608Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Acme Supermarkets B&M (possibly other Albertson's Chains): DIGITAL OFFERS Coke Family 16.9oz/6 ct Four for $10, Large Dozen Eggs 99c (limit 2)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T16:47:54.670608Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Filtrete 10 x 20 x 1 Air Filter, 6 HVAC Filters, MPR 700, MERV 8, Optimized HVAC Airflow, Dust, Pollen & Pet Dander, 3 Month AC and Furnace Filters $23.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T16:47:54.670608Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$21.71 Filtrete 10 x 20 x 1 Air Filter, 6 HVAC Filters, MPR 700, MERV 8, Optimized HVAC Airflow, Dust, Pollen & Pet Dander, 3 Month AC and Furnace Filters",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T16:47:54.670608Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$77* | SwissGear Hybrid 30L Travel Backpack, Fits 15 inch Laptop, Men's and Women's, Black + 10% Back w/ Prime Visa Card at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-11T16:42:23.523230Z",
