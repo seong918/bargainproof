@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "ba6fb09d9f24",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20002533-147-99-dewalt-20v-max-battery-adapter-kit-18v-to-20v-2-batteries-and-charger-included-dca2203c-at-amazon",
+  "title": "DEWALT 20V MAX Battery Adapter Kit, 18V to 20V, 2 Batteries and Charger Included (DCA2203C)",
+  "raw_title": "$147.99 | DEWALT 20V MAX Battery Adapter Kit, 18V to 20V, 2 Batteries and Charger Included (DCA2203C) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B016K1UEPS",
+  "deal_total_cents": 14799,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 14799,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 14799,
+  "amazon_url": "https://www.amazon.com/dp/B016K1UEPS",
+  "amazon_checked_at": "2026-09-11T18:05:38.553825Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B016K1UEPS",
+  "image_url": null,
+  "published_at": "2026-09-11T18:05:30.272468Z"
+ },
+ {
   "deal_id": "690c30c0c2cd",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20002506-usa-tekton-5-pc-nut-driver-set-metric-hollow-shaft-16-8",
