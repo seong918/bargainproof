@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "f2e3ffbb4a8d",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19998627-amazon-luyi-11-pair-halloween-earrings-set-8-99-w-code",
+  "title": "Amazon – LUYI 11-Pair Halloween Earrings Set - w/ Code",
+  "raw_title": "Amazon – LUYI 11-Pair Halloween Earrings Set - $8.99 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0H7C3R9GZ",
+  "deal_total_cents": 899,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 1799,
+  "amazon_coupon_cents": 720,
+  "amazon_effective_cents": 1079,
+  "amazon_url": "https://www.amazon.com/dp/B0H7C3R9GZ",
+  "amazon_checked_at": "2026-09-11T06:29:52.631580Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0H7C3R9GZ",
+  "image_url": null,
+  "published_at": "2026-09-11T06:29:48.286619Z"
+ },
+ {
   "deal_id": "ab7d8cf259aa",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20000268-3-30-tekton-high-torque-black-oxide-blade-nut-driver-8mm-at-amazon",
