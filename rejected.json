@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "500-Piece 1\"x3\" Reluen Tamper Proof Strong Adhesive Labels $10.79 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T07:03:13.129780Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Makita DX12 Dust Extractor Attachment with HEPA Filter Cleaning Mechanism $73",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T07:03:13.129780Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Wegear 30W USB-C Dual-Port GaN Nano Charger $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $18.04 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-11T07:03:13.129780Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Kobalt 4-Gallons 40-volt Lithium-ion Battery Operated Backpack Sprayer with Battery and Charger one_size | KBSP 1040A-03 $149",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T07:03:13.129780Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "4/$30 S&S get $10 Amazon Credit 28oz PUMP Bottles of L'Oreal Paris Elvive Total Repair 5 Repairing Shampoo or Conditioner",
   "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-11T06:57:39.900541Z",
