@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$5.59 ac S&S AMAZON Ohm Esomeprazole Magnesium Delayed Release Capsules 20mg, 42 Count",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T01:51:22.362433Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Prime Members: 24-Pack HW CR123A 3V 1700mAh Lithium Batteries $17.95 + Free Shipping",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T01:51:22.362433Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HEEYCEM Portable Fan Rechargeable - 20000mAh Battery Powered Fan with LED Lantern $12.99",
+  "reason": "Posted at $12.99, but Amazon showed $25.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-11T01:51:22.362433Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$ 12.99 AMAZON AC AstroAI 27\" Snow Brush and Ice Scrapers for Car Windshield, Snow Removal",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-11T01:45:47.293316Z",
