@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$14.99 | Haggar Men Iron‑free Premium Pant at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T05:28:40.263901Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$7.99 | Amazon Essentials Men Skinny-fit Comfort Jean at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T05:28:40.263901Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$7.99 | Amazon Essentials Men Comfort Stretch Jean at Woot!",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-11T05:28:40.263901Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "3M Cubitron II Type-Q 7 inch Ceramic Aluminum Oxide Depressed Center Grinding Wheel (Model ORSNO248549) $85.24",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T05:23:04.962365Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$7.99 | Amazon Essentials Men Athletic-fit Stretch Jean at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T05:23:04.962365Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$11.99 | Kitchen Rugs Non Slip Washable at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T05:23:04.962365Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$6.99 | Amazon Essentials Men Moisture Wicking Golf Shirt at Woot!",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-11T05:17:29.966424Z",
