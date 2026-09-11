@@ -1,6 +1,22 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "Macy's One Day Sale: Up to 80% off + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T10:14:26.824198Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$14.44 Asmodee Harmonies Board Game",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T10:14:26.824198Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
   "raw_title": "Xfinity NFL Sunday Ticket Deals for $240",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-11T10:08:54.174206Z",
