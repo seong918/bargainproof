@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[Resale] $19.11 | Delta Faucet ProClean Brushed Nickel Shower Head with Handheld, SpotShield Brushed Nickel 75740SN (Used - Like New) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T21:19:32.678718Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Resale] $14.71 | Delta Faucet Tub Spout w/ Pull-Down Diverter (Chrome) (Used - Like New) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T21:19:32.678718Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "DNRISI NB030 Refrigerator Water Filter (3-Pack) $17.99",
+  "reason": "Posted at $17.99, but Amazon showed $23.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-11T21:19:32.678718Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Kedeso 12V Portable Battery Car Jumper Starter with 160PSI Air Compressor $43.99",
+  "reason": "Posted at $43.99, but Amazon showed $59.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-11T21:19:32.678718Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Tetris Pocket Player Pro for $20 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T21:19:32.678718Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Phylluz 52'' Black Flush Mount Ceiling Fan with Lights for Bedroom $42.59",
   "reason": "Posted at $42.59, but Amazon showed $70.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-11T21:14:00.835436Z",
