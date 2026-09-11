@@ -1,5 +1,141 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "32\" DUMOS Computer Desk $20 + Free Shipping w/ Prime or on orders over $35",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T18:11:02.623316Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$206.99 | Citizen Men's Classic Corso Eco-Drive Watch, 3-Hand Date, Luminous Hands and Markers at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T18:11:02.623316Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "COCOMARTS Jelly Bras for Women No Underwire Deep V Bra $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $19.97 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-11T18:11:02.623316Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "SteamWorld Dig 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T18:11:02.623316Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "LEGO Bricktales",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T18:11:02.623316Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "KeyWe",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T18:11:02.623316Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Planet of Lana",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T18:11:02.623316Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Laika: Aged Through Blood",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T18:11:02.623316Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Meat Chopper for Hamburger 2-Pack $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T18:11:02.623316Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Wellness Complete Health Large Breed Adult Dry Dog Food (Chicken & Brown Rice) 30-Pound $28.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T18:11:02.623316Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "ETENWOLF Cordless Vacuum Storage Bags 12-Pack w/ USB-C Rechargeable Air Pump $12.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T18:11:02.623316Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Leatherman Wingman Multi-Tool for $50 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T18:11:02.623316Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "4\" x 79\" Self-Adhesive Velvet Couch Repair Tape for $3 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T18:11:02.623316Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Popular Shoes from $44.82 (Regularly $75) | OluKai, HOKA, New Balance & More",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T18:11:02.623316Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Wireless Jelly Push Up Scalloped T-Shirt Bra. as low as $7.49 (Sizes 32A-42DDD)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T18:11:02.623316Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Isotoner Signature Men's Spandex Stretch Cold Weather Gloves w/ Knit Lining (Black, M/L) $11.99 + Free Shipping w/ Prime or $6 Fee per Order",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T18:11:02.623316Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "HP Essential Intel Core Ultra 7 255U 17.3\" 1080p Laptop (16GB/256GB) $649.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T18:11:02.623316Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "SEESII 13\" 21V Brushless Cordless String Trimmer & Edger w/ 2x 4.0Ah Batteries $71.49",
   "reason": "Not evaluated",
