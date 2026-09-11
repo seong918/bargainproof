@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "CURSOR FITNESS Foldable Walking Pad Treadmill w/ Handles & 17% Incline $109.99 + Free Shipping",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T09:14:40.575509Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "method Gel Hand Wash Refill, Vetiver + Amber, 34 fl oz, 4 Pack for $16.79",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T09:14:40.575509Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "240-Count iMATCHME Triple Magnesium Complex Capsules (Glycinate, Taurate & Malate) $13.79 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T09:14:40.575509Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Hellmann's 30oz Real Mayonnaise $3.56",
+  "reason": "Posted at $3.56, but Amazon showed $6.47 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-11T09:14:40.575509Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Samsung Galaxy Z Fold8 256GB Foldable Smartphone for $1,650 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T09:14:40.575509Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Walmart Has Boys Shorts On Clearance. Prices As Low As $1.58",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T09:14:40.575509Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "10-Piece Kobalt 6\" Magnetic Screwdriver Set $14.98 + Free S&H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T09:14:40.575509Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon – GreenLaw iPad Air / iPad Pro 11\" Keyboard Case - $17.99–$24.99 w/ Code",
   "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-11T09:09:20.710417Z",
