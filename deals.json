@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "639bc1537862",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20000217-new-371-25-citizen-men-s-eco-drive-nighthawk-42mm-stainless-steel-ca0295-58e-at-amazon",
+  "title": "Citizen Men's Eco-Drive Nighthawk 42mm Stainless Steel CA0295-58E",
+  "raw_title": "[NEW] $371.25 | Citizen Men's Eco-Drive Nighthawk 42mm Stainless Steel CA0295-58E at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B005MKGP6Q",
+  "deal_total_cents": 37125,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 37125,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 37125,
+  "amazon_url": "https://www.amazon.com/dp/B005MKGP6Q",
+  "amazon_checked_at": "2026-09-11T05:56:28.889857Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B005MKGP6Q",
+  "image_url": null,
+  "published_at": "2026-09-11T05:56:24.258104Z"
+ },
+ {
   "deal_id": "b5f8cc0e783b",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/19999815-the-new-york-times-no-recipe-recipes-cookbook-16-40-free-shipping-w-prime-or-on-35",
