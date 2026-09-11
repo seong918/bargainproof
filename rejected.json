@@ -1,5 +1,29 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Oxford Composition Notebook 12-Pack for $5 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T15:25:49.737456Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Vitamin Bounty Pro-Daily Vaginal Probiotics for Women 60-Count Bottle for $12 via Sub & Save + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T15:25:49.737456Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Giftcards.com Gift Card Deals for $5 off $50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T15:25:49.737456Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Gohero 60\"x90\" Soft Lightweight Q-Max Cooling Blanket $10.99",
   "reason": "Posted at $10.99, but Amazon showed $19.99 when we checked — the deal is probably over",

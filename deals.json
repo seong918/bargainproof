@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "461a51af5c09",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20001831-29-98-klein-tools-modbox-half-width-tall-stackable-tool-storage-box-at-amazon",
+  "title": "Klein Tools MODbox Half-Width Tall Stackable Tool Storage Box",
+  "raw_title": "$29.98* | Klein Tools MODbox Half-Width Tall Stackable Tool Storage Box at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0GMYN28PG",
+  "deal_total_cents": 2998,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 2998,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 2998,
+  "amazon_url": "https://www.amazon.com/dp/B0GMYN28PG",
+  "amazon_checked_at": "2026-09-11T15:27:21.060775Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0GMYN28PG",
+  "image_url": null,
+  "published_at": "2026-09-11T15:25:49.737456Z"
+ },
+ {
   "deal_id": "bc974587e1e3",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20001702-resale-17-57-128gb-amazon-basics-micro-sdxc-memory-card-with-full-size-adapter-used-like-new-at-amazon",
