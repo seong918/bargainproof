@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "db2b061261bd",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20001792-amazon-mixxidea-bird-feeder-station-w-baffle-29-63-w-code",
+  "title": "Amazon – MIXXIDEA Bird Feeder Station w/ Baffle - w/ Code",
+  "raw_title": "Amazon – MIXXIDEA Bird Feeder Station w/ Baffle - $29.63 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0BML97VVM",
+  "deal_total_cents": 2963,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 4939,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 4939,
+  "amazon_url": "https://www.amazon.com/dp/B0BML97VVM",
+  "amazon_checked_at": "2026-09-11T22:42:55.583520Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0BML97VVM",
+  "image_url": null,
+  "published_at": "2026-09-11T22:42:51.397246Z"
+ },
+ {
   "deal_id": "0952425677b1",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20003160-sns-12-62-2-pk-m-m-s-milk-chocolate-candy-jars-25-5-oz-original-23-oz-peanut-at-amazon",
