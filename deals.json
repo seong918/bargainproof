@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "5b9ebe4faeaa",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20000928-35-99-hulkfit-foldable-multifunctional-workbench-at-amazon",
+  "title": "Hulkfit Foldable Multifunctional Workbench",
+  "raw_title": "$35.99* | Hulkfit Foldable Multifunctional Workbench at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0H5W5T274",
+  "deal_total_cents": 3599,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 3599,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 3599,
+  "amazon_url": "https://www.amazon.com/dp/B0H5W5T274",
+  "amazon_checked_at": "2026-09-11T10:41:40.674411Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0H5W5T274",
+  "image_url": null,
+  "published_at": "2026-09-11T10:41:36.809910Z"
+ },
+ {
   "deal_id": "f958fbc1b34a",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20000913-20-32-oz-hydro-flask-wide-flex-cap-water-bottle-agave-at-amazon",
