@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "ab82ac6c3283",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20001312-sns-ac-11-53-24-pack-12-oz-spindrift-sparkling-water-half-tea-half-lemon-at-amazon",
+  "title": "24-Pack 12-Oz Spindrift Sparkling Water (Half Tea & Half Lemon)",
+  "raw_title": "[SnS, AC] $11.53 | 24-Pack 12-Oz Spindrift Sparkling Water (Half Tea & Half Lemon) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1153,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-11T13:51:47.295155Z"
+ },
+ {
   "deal_id": "2ddb4cdfd460",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20001336-8-hanes-men-s-ecosmart-fleece-pullover-hooded-sweatshirt-metallic-teal-at-amazon",
