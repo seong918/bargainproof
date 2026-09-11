@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "0fe181ece6c1",
+  "source": "techbargains",
+  "source_url": "https://www.amazon.com/gp/product/B0DRW7WRX3/ref=ox_sc_act_image_1",
+  "title": "LEGO Harry Potter Hogwarts Express Building Set (832-Piece)",
+  "raw_title": "LEGO Harry Potter Hogwarts Express Building Set (832-Piece) $76.99",
+  "merchant": "amazon",
+  "buy_url": "https://www.amazon.com/gp/product/B0DRW7WRX3/ref=ox_sc_act_image_1",
+  "deal_total_cents": 7699,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 7699,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 7699,
+  "amazon_url": "https://www.amazon.com/dp/B0DRW7WRX3",
+  "amazon_checked_at": "2026-09-11T16:20:28.507762Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": null,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0DRW7WRX3",
+  "image_url": null,
+  "published_at": "2026-09-11T16:20:22.983232Z"
+ },
+ {
   "deal_id": "c4c9cd1bb2b5",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20001639-wavlink-laptop-docking-station-w-2x-4k-60hz-hdmi-100w-pd-27-50-free-s-h",
