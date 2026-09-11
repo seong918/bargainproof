@@ -1,5 +1,21 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Nesmar G4 Pro 3-in-1 110-240V Auto Shut-Off Portable Steamer $22.69",
+  "reason": "Posted at $22.69, but Amazon showed $55.00 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-11T11:18:30.520308Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "T.J.Maxx $100 Gift Card (Email Delivery), $90, Newegg",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T11:13:13.663114Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "G6 Pro Smart Handheld Clothes Steamer for $15 + free shipping w/ Prime",
   "reason": "Not evaluated",

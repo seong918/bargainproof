@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "a28f1b0bff2a",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20001006-19-99-8-pc-elead-flex-head-crows-foot-wrench-set-at-amazon",
+  "title": "8-pc Elead Flex Head Crows Foot Wrench Set",
+  "raw_title": "$19.99* | 8-pc Elead Flex Head Crows Foot Wrench Set at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0FMNN3T5L",
+  "deal_total_cents": 1999,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 1999,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1999,
+  "amazon_url": "https://www.amazon.com/dp/B0FMNN3T5L",
+  "amazon_checked_at": "2026-09-11T11:18:34.665290Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0FMNN3T5L",
+  "image_url": null,
+  "published_at": "2026-09-11T11:18:30.520308Z"
+ },
+ {
   "deal_id": "c92d0f808d7a",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20000850-77-2-in-1-window-squeegee-microfiber-scrubber-w-extension-pole-6-14-free-shipping-w-prime-or-on-35",
