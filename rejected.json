@@ -1,6 +1,190 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "GE Profile - UltraFast 4.8 Cu. Ft. High-Efficiency Smart Front Load Washer and Electric Dryer Combo with Ventless Heat Pump $2198",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T03:03:48.784990Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "bose soundlink max refurbished official $237",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T03:03:48.784990Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "12-Pack 5-Oz Genova Premium Yellowfin Tuna in Olive Oil $16.96 ($1.41 can) w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T02:58:15.303268Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "BEVIGOR 16 Bay Battery Charger AA AAA for NiMH Rechargeable Batteries $14.99",
+  "reason": "Posted at $14.99, but Amazon showed $27.19 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-11T02:58:15.303268Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bevigor HF99 Electric Compressed Air Duster $16.99",
+  "reason": "Posted at $16.99, but Amazon showed $25.59 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-11T02:58:15.303268Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Costway 15\" Under-Counter Commercial Ice Maker w/ 110-Lb/24H Cube Ice Production & 25-Lb Storage $395.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T02:58:15.303268Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Pokémon Super Duper Extra Deluxe Essential Handbook $12.75",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T02:58:15.303268Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Huuger 102.4\" Height Adjustable Sofa Table w/ Power Outlets $79.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T02:58:15.303268Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "MacBook Pro 14.2-inch 24GB Unified Memory 2TB SSD $2,699.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T02:58:15.303268Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Whirlpool 7-cu ft Vented Gas Dryer ( White ) | WGD4815EW $599",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T02:58:15.303268Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Taygeer Personal Item Travel Backpack $34.99 (Reg. $69.99) - 50% OFF, TSA Approved Carry On Bag",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T02:58:15.303268Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HORISUN Deep V Neck Wireless Seamless Supportive Bra $7.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T02:58:15.303268Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Kensington Hi-Fi USB-C Headphones w/ Noise-Cancelling Boom Microphone $6.99 + Free Shipping w/ Prime or $6 Fee per Order",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T02:58:15.303268Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Rainbow Six Siege - Elite Edition (PlayStation 5) $9.98 + Free S&H w/ Prime or $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T02:52:40.449095Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Interactive Cat Toy for Indoor Cats with Laser, Feather&Treat Dispenser $14.99",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T02:52:40.449095Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Tender Mercies (Special Edition Kino Lorber Classics) [Blu-ray] $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T02:52:40.449095Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Fiskars 6\" Micro-Tip Pruning Scissors $12.89",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T02:52:40.449095Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Samsung DU9000 Series 98\" 4K UHD Crystal 120Hz Smart TV $1,397.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T02:52:40.449095Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "RDS Industries Nintendo Switch Zelda Tears of the Kingdom Game Traveler Deluxe Travel Case $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T02:52:40.449095Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CAMEL CROWN Women's Ski Jacket Waterproof Warm Winter Snow Coat Hooded Mountain Outdoor Windbreaker Windproof Jacket Black L $24.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T02:47:06.107849Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "JSAUX charging Cable 100 watts, USB C to USB C Cable [2-Pack 6.6FT] $7.64",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T02:47:06.107849Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Duraflame Electric Twin Star Home 1500 Watt 5200 BTU Electric High Efficiency Cabinet Space Heater with Adjustable Thermostat and with Digital Display $174.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T02:41:28.915833Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon - KUGUAOK Retro Rectangle Sunglasses 2-Pack $5.03",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T02:41:28.915833Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$8.49 S&S Q OxiClean Max Force Laundry Stain Remover Spray Refill, 48 fl oz",
   "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-11T02:35:54.165197Z",
