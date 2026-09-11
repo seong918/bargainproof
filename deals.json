@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "75eda0f04a76",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20001150-639-bowers-wilkins-zeppelin-pro-edition-wireless-speaker-space-grey-at-amazon",
+  "title": "Bowers & Wilkins Zeppelin Pro Edition Wireless Speaker (Space Grey)",
+  "raw_title": "$639* | Bowers & Wilkins Zeppelin Pro Edition Wireless Speaker (Space Grey) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0DHLN6871",
+  "deal_total_cents": 63900,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 63900,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 63900,
+  "amazon_url": "https://www.amazon.com/dp/B0DHLN6871",
+  "amazon_checked_at": "2026-09-11T12:06:57.689206Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0DHLN6871",
+  "image_url": null,
+  "published_at": "2026-09-11T12:06:52.943569Z"
+ },
+ {
   "deal_id": "880f87102de2",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20000604-16-99-11-75-dewalt-smooth-face-16-oz-curve-claw-hammer-w-steel-handle-at-amazon",
