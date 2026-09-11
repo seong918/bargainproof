@@ -1,5 +1,197 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "FunWater 11' Inflatable Stand Up Paddle Board with Beginners SUP Accessories $84.99",
+  "reason": "Posted at $84.99, but Amazon showed $169.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-11T20:01:55.623876Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Zombie Vikings",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:01:55.623876Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Encodya",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:01:55.623876Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Shower Steamers Aromatherapy 8 Pack Tranquil Floral Style $3.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:01:55.623876Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Nongshim Shin Ramyun Noodles, Spicy Korean Signature Instant Ramyun, Rich Beef Flavored Broth, Microwaveable 4.23 oz (Pack of 20) $17.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:01:55.623876Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Led Drawing Board $13.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:01:55.623876Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "DLOODA Sweatshirts $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:01:55.623876Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "9-Night Norway Fjords Hotel & Guided Tour Vacation for From $6,798 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:01:55.623876Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Tractor Supply Co. Kayak Sale for From $80 + pickup",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:01:55.623876Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Gymshark Last Chance Outlet Sale: Up to 70% off + free shipping w/ $75",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:01:55.623876Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Josie Maran Whipped Body Butter Just $6.99 on Amazon (Reg. $16)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:01:55.623876Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Lovery24-Pc. Perfume Advent Calendar Set - Limited Edition Premium Eau de Parfum Gift Set $178.5",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:01:55.623876Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Coach Bay Slide In Signature Slides $38",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:01:55.623876Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nike Book 1 Basketball Shoes - Brown/Camo, Men's Sizes 8.5, 9.5, 10, 10.5 and 12 $44.23",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:01:55.623876Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "PINSPARK Men's UPF 50+ Workout Athletic T-Shirts $8.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T19:56:21.661965Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Women's Skort Tennis Skirt with Pocket Shorts $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T19:56:21.661965Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Crystal Pendant Lights 2-Pack $16.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T19:56:21.661965Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Wireless Lower Back Massaging Belt with Heat and Vibration $34.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T19:56:21.661965Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Constantine: The House of Mystery: DC Showcase Shorts Blu-ray $7.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T19:56:21.661965Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "GreenPan Rio Advanced 10\" and 12\" Frying Pan Skillet Set $41.24",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T19:56:21.661965Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Dr. Prepare 13 inch Tower Fan Oscillating Fan $24.29",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T19:56:21.661965Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "General Medi Emergency Mylar Blankets 12-Pack $6.83",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T19:56:21.661965Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Hanes Men's V-Neck Cotton Undershirt 6-Pack for $14 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T19:56:21.661965Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Anker MagGo 5,000mAh Qi2 15W Portable Charger for $26 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T19:56:21.661965Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$6.75* | 14-Oz Augason Farms Dehydrated Potato Slices Can at Amazon",
   "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
