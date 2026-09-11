@@ -1,5 +1,53 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$8.46* | 10-Pc Amartisan Magnetic Screwdrivers w/ 2-Pc Multifunction Mini Set (5 Colors) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T20:51:47.922783Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Astroai 27\" 2-in-1 Car Windshield Detachable Snow Brush & Ice Scrapers $9.94",
+  "reason": "Posted at $9.94, but Amazon showed $15.29 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-11T20:51:47.922783Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Microsoft Surface Laptop 5 (Refurb) 16GB LPDDR5X 256GB SSD $379.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:51:47.922783Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Kitchen Elite 12-Qt Dual-Basket Air Fryer w/ Sync $80.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:51:47.922783Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Brondell Aurabeat 3800 White True HEPA Commercial Air Purifier (Covers: 3875-sq ft ) $499.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:51:47.922783Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Fanflix Emmys Mix and Match 4 for $20 plus use code SEPTSAVINGS for extra 10% Off",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T20:51:47.922783Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Tweezerman Cuticle Pusher & Nail Cleaner $9.00",
   "reason": "Not evaluated",
