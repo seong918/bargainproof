@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Paramount Presents: Ghost Blu Ray $11.49 Amazon.com",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T04:21:50.861699Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $28* | 30-Pound Wellness Complete Health Large Breed Adult Dry Dog Food (Chicken & Brown Rice) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T04:21:50.861699Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Single-Handle Pull-Down Kitchen & Bar Sink Faucet (Matte Black) $28.39 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-11T04:21:50.861699Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "6 Pack Storage Bags for Clothes Blanket Storage Bins with Lids $11.19",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T04:16:16.110909Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "OHO Sport Open‑Ear Smart Glasses $9.99 free shipping with Prime or $35+",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-11T04:10:42.732998Z",
