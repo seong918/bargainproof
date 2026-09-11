@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "fe0e9b39ee9a",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20001597-354-50-3-tool-dewalt-20v-max-combo-kit-w-2x-batteries-charger-at-amazon",
+  "title": "3-Tool DEWALT 20V MAX Combo Kit w/ 2x Batteries & Charger",
+  "raw_title": "$354.50* | 3-Tool DEWALT 20V MAX Combo Kit w/ 2x Batteries & Charger at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0CTGNXGSM",
+  "deal_total_cents": 35450,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 35450,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 35450,
+  "amazon_url": "https://www.amazon.com/dp/B0CTGNXGSM",
+  "amazon_checked_at": "2026-09-11T14:19:41.999508Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0CTGNXGSM",
+  "image_url": null,
+  "published_at": "2026-09-11T14:19:37.098684Z"
+ },
+ {
   "deal_id": "8d1c5bfc8868",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20000538-resale-23-52-logitech-ergo-m575s-wireless-trackball-mouse-graphite-blue-ball-used-like-new-at-amazon",
