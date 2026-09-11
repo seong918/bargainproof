@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[Resale] $141.81 | Logitech G920 Driving Force Racing Wheel & Floor Pedals (Used - Like New) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T21:30:37.948032Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "36-Piece Car Detailing Kit for $25 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T21:30:37.948032Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "2-Pk Zitahli Leather Ratchet Belt $13.29",
   "reason": "Posted at $13.29, but Amazon showed $26.59 when we checked — the deal is probably over",
   "rejected_at": "2026-09-11T21:25:05.463183Z",
