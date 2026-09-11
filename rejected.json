@@ -1,5 +1,93 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Walmart Tire Rollback Deals for From $37 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T09:58:10.453112Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Wendy's Boo! Books Jr. Frosty Coupon Book for $1",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T09:58:10.453112Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Shark and Ninja Sale: Vacuums and Kitchen Appliances (New & Refurb) Starting at $45",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T09:58:10.453112Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "52-Port TP-Link Festa FS352G Gigabit Smart Managed Switch $199.99 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T09:52:54.156946Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "TAURI 2 Pack for iPhone 18 Pro Screen Protector, 1-Step Install $9.98",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T09:52:54.156946Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "TZGZT 3 Pack Privacy Screen Protectors for iPhone 18 Pro, 9H Tempered Glass $7.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T09:52:54.156946Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Gap Factory Fall Clearance Deals: Up to 60% off + extra 60% off + free shipping w/ $50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T09:52:54.156946Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$149.99* | Ring Floodlight Cam Wired Pro Outdoor Security Camera at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T09:47:37.398354Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "$30 inKind Credit for Off your next $60 meal + shipping varies",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T09:47:37.398354Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Women's PINSPARK Longsleeve Workout Tops (Various Sizes and Colors) $4.99 + Free Shipping w/Prime or $35+",
+  "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T09:42:15.591831Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Amazon Haul Limited Time Deal Drops for Deals from $1 + free shipping w/ $25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T09:42:15.591831Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$11.88-AriZona Lemon Tea - Big Can, 22 Fl Oz (12 Pack) AMAZON",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
