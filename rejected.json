@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "DEWALT 20V MAX Heat Gun, Cordless, Up to 990 Degrees, 42 Minutes of Run Time, LED Light, Heatgun with Flat and Hook Nozzle Attachments,Tool Only (DCE530B) $97.19",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T07:58:45.143021Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GreenPan Rio Advanced 10\" and 12\" Frying Pan Skillet Set, Ceramic Nonstick PFAS-Free Pans, Cream White or Pink $41.24",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T07:58:45.143021Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Dr. Prepare Tower Fan Oscillating Fan, Portable Desk Fan with 3-Speed Options, Dual Air Circulation, 110° Oscillation, 3 Timers, 13 inch $24.29",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T07:53:10.366393Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Manual Can Opener $8.95 – Magnetic Lid Lifter, Sharp Steel Blade & Comfortable Grip",
+  "reason": "Posted at $8.95, but Amazon showed $16.11 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-11T07:53:10.366393Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ozark Trail Men's Lace-Up Leather Snow Boot (Select Sizes) $12.17 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T07:53:10.366393Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "DEWALT 20V MAX Cable Cutter, Cordless, Tool Only (DCE150B) $592.99",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-11T07:47:37.162375Z",
@@ -4494,14 +4534,6 @@
   "rejected_at": "2026-09-10T19:56:03.765146Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "DEWALT 20V MAX Heat Gun, Cordless, Up to 990 Degrees, 42 Minutes of Run Time, LED Light, Heatgun with Flat and Hook Nozzle Attachments,Tool Only (DCE530B) $97.19",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-10T19:56:03.765146Z",
-  "code": "duplicate",
-  "public": true
  },
  {
   "source": "dealcatcher",

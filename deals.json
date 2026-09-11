@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "9ac18ab934e1",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20000595-29-99-4-pc-hansleep-adjustable-memory-foam-bed-wedge-pillow-set-at-amazon",
+  "title": "4-Pc Hansleep Adjustable Memory Foam Bed Wedge Pillow Set",
+  "raw_title": "$29.99* | 4-Pc Hansleep Adjustable Memory Foam Bed Wedge Pillow Set at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0FD39P134",
+  "deal_total_cents": 2999,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 2999,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 2999,
+  "amazon_url": "https://www.amazon.com/dp/B0FD39P134",
+  "amazon_checked_at": "2026-09-11T07:58:49.342839Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0FD39P134",
+  "image_url": null,
+  "published_at": "2026-09-11T07:58:45.143021Z"
+ },
+ {
   "deal_id": "e30274bce56d",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20000559-79-97-logitech-g733-lightspeed-wireless-gaming-headset-at-amazon",
