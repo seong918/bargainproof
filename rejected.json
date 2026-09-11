@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$187.99 | Makita XAG16Z 18V LXT BL 4-1/2”/ 5\" Cut-Off/Angle Grinder at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-11T09:04:05.399686Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HERDEZ Guacamole Salsa, Medium, 32 oz. jug (Pack of 2)~$9.98 @ Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T09:04:05.399686Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC] $263.50* | 75ml Creed Aventus For Her – Women's Luxury Perfume at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T09:04:05.399686Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "4/$2.68 S&S PRIME 10% off Amazon Grocery, Canned Whole Kernel Corn, No Salt Added, 15.25 Oz (75c for 1 S&S)",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T09:04:05.399686Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CURSOR FITNESS ET30 Compact Elliptical Machine w/ 8-Level Magnetic Resistance & 12\" Stride (Black) $151.99 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T09:04:05.399686Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "10-Night Bangkok & Krabi Flight and Hotel Vacation for From $3,398 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T09:04:05.399686Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Pioneer PN50-R851-27U 50\" Class LED 4K UHD Smart Roku TV for $160 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T09:04:05.399686Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon – LUYI 36-Pair Resin Novelty Earrings Set - $8.99 w/ Code",
   "reason": "Community score too low (+0) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-11T08:58:49.174797Z",
