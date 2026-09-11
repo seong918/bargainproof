@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "ec2d68de9b12",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20002617-700-amz-lg-34gx90sa-w-34-inch-ultragear-wqhd-3440-x-1440-oled-curved-gaming-monitor-240hz-1ms-nvidia-g-sync-compatible",
+  "title": "AMZ LG 34GX90SA-W 34-inch Ultragear WQHD (3440 x 1440) OLED Curved Gaming Monitor 240Hz, 1ms, NVIDIA G-Sync Compatible",
+  "raw_title": "$700 AMZ LG 34GX90SA-W 34-inch Ultragear WQHD (3440 x 1440) OLED Curved Gaming Monitor 240Hz, 1ms, NVIDIA G-Sync Compatible",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0F15CGTGW",
+  "deal_total_cents": 70000,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "qty"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 69999,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 69999,
+  "amazon_url": "https://www.amazon.com/dp/B0F15CGTGW",
+  "amazon_checked_at": "2026-09-11T18:27:45.112224Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 0,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0F15CGTGW",
+  "image_url": null,
+  "published_at": "2026-09-11T18:27:40.301558Z"
+ },
+ {
   "deal_id": "6adb207ef839",
   "source": "techbargains",
   "source_url": "https://www.amazon.com/gp/product/B0FM82SPKH/ref=ox_sc_act_title_1",
