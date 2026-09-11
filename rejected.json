@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$2.81 365 by Whole Foods Market, Organic Lasagne, 16 Ounce with S&S",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T01:29:06.967000Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Hasbro Monopoly Ultimate Bundle Game for $12 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T01:29:06.967000Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Silkland 40Gbps USB4 USB C Extension Cable 240W for Thunderbolt 4, 3.3 FT $26.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T01:29:06.967000Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "6' KabelDirekt 8K/4K HDMI Cable $5.39 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-11T01:29:06.967000Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Dragon Ball Super Part 10 (Blu-ray) $19.49 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-11T01:29:06.967000Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Koss KPH7 Wired On-Ear Headphones (Black) $4.95 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-11T01:29:06.967000Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "27\" Sceptre Curved 1080p FHD 180Hz Gaming Monitor (C275B-FW180T) $99.97 + Free Shipping",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-11T01:29:06.967000Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$15.19 Energizer Ultimate Lithium AA Batteries (8 Pack) with S&S",
   "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-11T01:23:32.790146Z",
