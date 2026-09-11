@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "0af3b357a1f5",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20000250-237-citizen-unisex-eco-drive-dress-classic-eco-watch-at-amazon",
+  "title": "Citizen Unisex Eco-Drive Dress Classic Eco Watch",
+  "raw_title": "$237* | Citizen Unisex Eco-Drive Dress Classic Eco Watch at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0F9LNT5S6",
+  "deal_total_cents": 23700,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 23700,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 23700,
+  "amazon_url": "https://www.amazon.com/dp/B0F9LNT5S6",
+  "amazon_checked_at": "2026-09-11T06:07:36.417613Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0F9LNT5S6",
+  "image_url": null,
+  "published_at": "2026-09-11T06:07:31.552218Z"
+ },
+ {
   "deal_id": "504497ffefdd",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20000244-189-95-citizen-men-s-eco-drive-sport-casual-odyn-watch-stainless-steel-watch-3-hand-date-at-amazon",
