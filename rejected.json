@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Bosch GWX18V-10PN 18V X-LOCK Brushless 4-1/2 – 5 In. Angle Grinder with No Lock-On Paddle Switch (Bare Tool) $149.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T07:19:51.492650Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Refurb Shark & Ninja Home Faves Sale at Woot for Deals from $45 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T07:19:51.492650Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[Resale] $12 | Apple USB-C to Lightning Cable (2 m) (Used - Like New) at Amazon",
   "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-11T07:14:19.439320Z",
