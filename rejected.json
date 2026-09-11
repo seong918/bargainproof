@@ -1,6 +1,102 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$7.98* | 2-Pairs KLEIN TOOLS Knit Dipped Cut Resistant A1 Nitrile Coated Work Gloves (Large) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T18:16:35.478084Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "COCOMARTS Jelly Bras for Women No Underwire Full Coverage Deep V $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $19.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-11T18:16:35.478084Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "31.5\" Sealegend Universal Vacuum Hose Dryer Vent Cleaner Attachment $6.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T18:16:35.478084Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Lejaneoye 16\" 2-Tier Small Bamboo Outdoor Oval Side Table $22.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T18:16:35.478084Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Bedsure GentleSoft Reversible Sherpa Fleece Throw Blanket 50\"x60\" $10.79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T18:16:35.478084Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "FunWater Inflatable Stand-Up Paddle Board 10'6\" x 33\" w/ Paddle, Pump, Backpack & Accessories $79.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T18:16:35.478084Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Animal Cuts Thermogenic Fat Burner Complex for Men & Women 42 Pill Packs $30.48",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T18:16:35.478084Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "IPOW XL 6-Layer Insulated Heated Outdoor Cat House w/ Heated Pad (25.59\" x 16.54\" x 12.99\", Gray) $25.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T18:16:35.478084Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "TUORL 25W Qi2.2 MagSafe Wireless Car Charger / Mount $20.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T18:16:35.478084Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Cameron's Coffee Roasted Ground Coffee 32-Oz (Vanilla Hazelnut) $11.23",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T18:16:35.478084Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "AIRTOK AP2801 Air Purifier for Large Rooms up to 2240 Sq Ft $59.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T18:16:35.478084Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GKBK Women's Turtleneck Sweaters Long Sleeve Ribbed Basic Tee $5.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T18:16:35.478084Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "32\" DUMOS Computer Desk $20 + Free Shipping w/ Prime or on orders over $35",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-11T18:11:02.623316Z",
