@@ -1,6 +1,166 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Apple USB-C to 3.5 mm Audio Cable (1.2 m) Open Box (Very Good) $17.57 Amazon Resale",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T18:22:06.530031Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Outerman 275\"x61\" 500lbs Capacity Camping Hammock $18.14",
+  "reason": "Posted at $18.14, but Amazon showed $32.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-11T18:22:06.530031Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "SteamWorld Heist",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T18:22:06.530031Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "SteamWorld Dig",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T18:22:06.530031Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Wavetale",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T18:22:06.530031Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Silt",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T18:22:06.530031Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "White Shadows",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T18:22:06.530031Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "The Gunk",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T18:22:06.530031Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "ORICO 65W 7-in-1 GaN USB Travel Power Strip Charging Station $19.79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T18:22:06.530031Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "S.Pellegrino Sparkling Natural Mineral Water 24-Pack 11.15-Oz Cans $9.07",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T18:22:06.530031Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "OxiClean Versatile Stain Remover Powder w/ White Revive 5-Lb $9.43",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T18:22:06.530031Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Lawry's Casero Onion Powder 2.37-Oz $1.19",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T18:22:06.530031Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Fanbulous 20\" Outdoor Caged Ceiling Fan w/ Dimmable 3CCT LED Light, Remote & App Control $79.41",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T18:22:06.530031Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Lifestyles Pleasure Collection Assorted Lubricated Natural Latex Condoms 36 Count $10.84",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T18:22:06.530031Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ganiza Sourdough Proofing Basket Gift Set 22-Pc $16.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T18:22:06.530031Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Reusable Garden Waste Bags 72 Gallon 2-Pack Only $12.99 on Amazon (Reg. $26)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T18:22:06.530031Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "5 Pack USB 3.0 Micro SD Card Reader, 5Gbps Speed SD Card Adapter, Menory Card Reader $15.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T18:22:06.530031Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Turtle Beach - Stealth 700 Gen 3 Wireless Over-Ear Multiplatform Gaming Headset $144",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T18:22:06.530031Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GOOSH 5' Halloween Ghost Inflatable w/ Built-In LED Lights $17.09 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T18:22:06.530031Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Sennheiser Accentum Hybrid Noise Cancelling ANC Wireless Bluetooth Headphones $69.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T18:22:06.530031Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$7.98* | 2-Pairs KLEIN TOOLS Knit Dipped Cut Resistant A1 Nitrile Coated Work Gloves (Large) at Amazon",
   "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-11T18:16:35.478084Z",
