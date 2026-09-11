@@ -1,5 +1,29 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$12.04* | 38-Oz Augason Farms Dehydrated Diced Carrots Can (216 Servings) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T23:21:41.901064Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Casio Casiotone CT-S1 61-Key Portable Keyboard for $220 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T23:21:41.901064Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2 Pack Meat Chopper for Hamburger, Premium Heat Resistant Masher and Smasher for Ground Beef, Ground Turkey and More $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T23:21:41.901064Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Takamine GLN12E NEX Acoustic-Electric Guitar for $260 + free shipping",
   "reason": "Not evaluated",
@@ -18634,14 +18658,6 @@
  {
   "source": "slickdeals",
   "raw_title": "Prime: FALAN MULE Small Crossbody Sling Bag Fanny Pack Leather Chest Bag for Women $9.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T14:49:53.331613Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "2 Pack Meat Chopper for Hamburger, Premium Heat Resistant Masher and Smasher for Ground Beef, Ground Turkey and More $9.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-10T14:49:53.331613Z",
   "code": "not_checked",
