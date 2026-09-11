@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[Resale] $100.07 | Apple Magic Keyboard w/ Touch ID & Numeric Keypad (Used - Like New) at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T00:16:42.498052Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Resale] $35 | Waste Maid Garbage Disposal, Anti-Jam, Continuous Feed, 1/2 HP Economy (Used - Like New) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T00:16:42.498052Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Soucolor 72-Color Colored Pencils for Adult Coloring Books for $8.67 w/ Subscribe & Save + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T00:16:42.498052Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Greenworks 40V Electric Leaf Blower, 550 CFM, 4.0 Ah Battery and Charger $139.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T00:16:42.498052Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[Resale] $29.49 | Lodge 20 x 10.44 Inch Pro-Grid Reversible Cast Iron Grill/Griddle (Used - Like New) at Amazon",
   "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-11T00:11:10.310875Z",
