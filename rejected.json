@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[Lightning Deal] $139.99* | roborock Q7 L5 Robot Vacuum and Mop Combo at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T03:59:35.192346Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "PINSPARK Women's Sweatpants Wide Leg Baggy Lounge Pants with Pockets $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T03:59:35.192346Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "ZITY Mens UPF 50+ Sun Protection Shirts Long Sleeve Lightweight Rash Guard $7.49",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-11T03:54:01.257598Z",
