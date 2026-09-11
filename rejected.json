@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "2-Pk Zitahli Leather Ratchet Belt $13.29",
+  "reason": "Posted at $13.29, but Amazon showed $26.59 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-11T21:25:05.463183Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Up to 60% Off Nike Shoes + Free Shipping = Kids Court Borough UNDER $44 Shipped",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T21:25:05.463183Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[Resale] $19.11 | Delta Faucet ProClean Brushed Nickel Shower Head with Handheld, SpotShield Brushed Nickel 75740SN (Used - Like New) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-11T21:19:32.678718Z",
