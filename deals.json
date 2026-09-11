@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "3c6c820da3b7",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19999971-sns-ac-9-53-2-30-oz-nivea-nourishing-care-body-wash-w-nourishing-serum-4-77-each-at-amazon",
+  "title": "2 × 30-Oz NIVEA Nourishing Care Body Wash w/ Nourishing Serum",
+  "raw_title": "[SnS, AC] $9.53* | 2 × 30-Oz NIVEA Nourishing Care Body Wash w/ Nourishing Serum ($4.77 each) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 953,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-11T15:09:12.992230Z"
+ },
+ {
   "deal_id": "ce5552529ffa",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20000691-39-99-arrowhead-outdoor-portable-folding-double-camping-loveseat-chair-at-amazon",
