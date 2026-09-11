@@ -1,6 +1,110 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "PrimaCare IS-5529 26\" x 4\" Rolled Mesh Wire Splint $2.59 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T07:42:03.182122Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "ReaLime 100% Lime Juice 8-oz. Bottle 12-Pack for $14 via Sub & Save + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T07:42:03.182122Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Jansport 32L Duo Backpack (Various Colors) $22 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T07:42:03.182122Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Lenovo 16\" Laptop Casual Backpack B210 (Grey) $9.36 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T07:42:03.182122Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "DeWalt 20V MAX Cordless Leaf Blower (Tool Only) for $70 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T07:36:29.387630Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "DeWalt 20V Max 5Ah Battery 2-Pack for $100 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T07:36:29.387630Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Great Value LED Light Bulbs, Soft White 2700K, 75W Equivalent, A19, E26 Medium Base, 12-Pack $8.65",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T07:36:29.387630Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "39.5\" SPONDWILD Square PE Repotting Mat w/ Corner Buckles (Green) $3.08 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T07:30:56.202517Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[NEW, AC, YMMV] $182 | Makita 9031 1-1/8\" x 21\" Belt Sander at Amazon",
+  "reason": "Posted at $182.00, but Amazon showed $218.00 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-11T07:30:56.202517Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Peet's 30-Day Cold Brew Pass for $30",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T07:30:56.202517Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Refurb Linksys Router Deals at Woot for From $13 + extra 10% off for new customers + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T07:30:56.202517Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Fringe: The Complete Series $13.5",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T07:30:56.202517Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "4' Insignia USB-C to Lightning Charge & Sync Cable $4.99, 10' Insignia USB-C to Lightning Charge & Sync Cable $6.99 + Free Store Pickup at Best Buy",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T07:30:56.202517Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon: Walker 32200 Exhaust Clamp $1.13 + FS w/ Prime",
   "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-11T07:25:24.128793Z",
