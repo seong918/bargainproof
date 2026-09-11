@@ -1,6 +1,150 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$6.99 | Amazon Essentials Men Moisture Wicking Golf Shirt at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T05:17:29.966424Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$12.99 | Carhartt Men Iconic K87 Pocket T-shirt at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T05:17:29.966424Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$14.99 | Levi's Women 501® Original High-rise Shorts at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T05:17:29.966424Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$114.99 | SHARK Cordless Stick Vacuum + Auto-Empty, S&D (Factory Reconditioned, Scratch & Dent) at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T05:17:29.966424Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Woot! Home & Kitchen: 2-Pack Ove Glove Heat & Flame Oven Mitts $19.99 & More + Free Shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T05:11:55.298867Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$229.99 | Ninja Luxe Café Espresso Machine, S&D (Factory Reconditioned, Scratch & Dent) at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T05:11:55.298867Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$44.99 | Ninja CO750B Smoothie iQ Blender (Factory Reconditioned, Scratch & Dent) at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T05:11:55.298867Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DEWALT DCPS620B20V MAX XR Brushless Cordless Pole Saw - Tool Only $129.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T05:11:55.298867Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$12.99 | Unisakey 8-Hook Wooden Coat Rack at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T05:11:55.298867Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "100-Count FAOGO 1.57\" x 2.76\" Kraft Paper Hang Tags w/ Jute Twine (Pink) $0.23 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T05:06:21.915327Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DEWALT DCCS623B 20V MAX Pruning Chainsaw, 8 Inch Bare Tool Only $111.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T05:06:21.915327Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SOUNDBOKS - Mix – Indoor & Outdoor Portable Bluetooth Speaker – IP65 – USB-C Swappable Battery – 121dB – 40 Hours of Play time - Black $629.99 Bestbuy.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T05:06:21.915327Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DEWALT DCB205-2 20V MAX 5 Ah Battery 2pk - $99.99 + free ship w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T05:06:21.915327Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HP OMEN - 35L Gaming Desktop - Intel Core i7-14700F - 32GB DDR5 Memory - NVIDIA GeForce RTX 5060 Ti - 1TB SSD - Shadow Black $1999.99 Bestbuy.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T05:06:21.915327Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$69.99 | DEWALT DCE100B 20V MAX Blower, Bare Tool Only at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T05:06:21.915327Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DEWALT DCB205-2 20V MAX 5 Ah Battery 2pk $119.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T05:06:21.915327Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Pioneer - 50\" Class LED 4K UHD Smart Roku TV $159.99 Bestbuy.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T05:06:21.915327Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$10.99 | Azaeahom Free Standing Wooden Coat Rack w/ 8 Hooks 3 Adjustable Heights (Various) at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T05:06:21.915327Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Ryobi ONE+ 18V Cordless Compact Power Scrubber Kit with 2.0 Ah Battery, Charger, and ONE+ 18V Chemical Handheld Sprayer $98.97",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-11T05:00:48.023939Z",
