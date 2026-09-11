@@ -1,6 +1,78 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Franklin Sports Gator Grip Baseball Bat Knob, Sting Reducer $1.99 + Free S&H w/ Prime or $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T23:38:20.579247Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Fantasticlean 9-Piece Car Detailing Brush Set for $18 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T23:38:20.579247Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "32 Inch Odyssey G8 G80HS 6K | Gaming Monitor (2026) $700",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T23:38:20.579247Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$108.95* | Brooks Men's Hyperion Max 3 Neutral Running Shoes (2 colors) at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-11T23:38:20.579247Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "IOOKNA 4-Node Cordless Electric 3 Speed Scalp Massager w/ 12 Silicone Massage Heads $12.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-11T23:38:20.579247Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "The Godfather Trilogy (Bundle) $13",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T23:32:46.025579Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS] $11.40* | 12-Pack 1.25-Oz Weber Fireball Sweet Heat Chili Seasoning Mix at Amazon (95￠ each)",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T23:27:12.841718Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Texas de Brazil $100 Gift Card Multi-Pack for $80 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T23:27:12.841718Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "REI Co-op Men's Rainier Rain Jacket (Sea Forrest / Crater Teal Size M) $29.83",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T23:27:12.841718Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$12.04* | 38-Oz Augason Farms Dehydrated Diced Carrots Can (216 Servings) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-11T23:21:41.901064Z",
