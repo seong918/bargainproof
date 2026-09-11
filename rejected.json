@@ -1,5 +1,85 @@
 [
  {
+  "source": "dealcatcher",
+  "raw_title": "Monster Ripple Shower Bluetooth Speakers IPX8 Waterproof $16.89",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T11:34:16.838457Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Mini Portable Power Bank 10,000mAh $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T11:34:16.838457Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "OxiClean 5lb Whitener and Stain Remover Powder $9.43",
+  "reason": "Posted at $9.43, but Amazon showed $11.79 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-11T11:29:02.126859Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "5CT Moissanite Pendant Necklace 18K White Gold Plated $32.75",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T11:29:02.126859Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LincNutri Chelated Magnesium Glycinate with B6 200mg $6.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T11:29:02.126859Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Wedge Headboard Ergonomic Memory Foam Pillow $25.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T11:29:02.126859Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "MidTen Motion Awake Green Dot Sight 2 MOA $24.69",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T11:29:02.126859Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Bluvol I11 Apex Cordless Straightening Comb with 113% Larger Heating Area $55.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T11:29:02.126859Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "JSAUX Video Capture Card for Nintendo Switch 2/Steam Deck/ROG Ally $23.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T11:29:02.126859Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas Men's Fall Kick Off T-Shirt Deals for From $11 + Free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T11:29:02.126859Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$6.40 S&S-Q ICE BREAKERS Ice Cubes Peppermint Sugar-Free Gum Bottles, 4 ct (40 count per)",
   "reason": "Community score too low (+3) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
