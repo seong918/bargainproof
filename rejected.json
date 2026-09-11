@@ -1,6 +1,78 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "SEDY 21-Piece 2.5\" Hex Head Allen Wrench Drill Bit Set $6.98",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T09:25:48.491495Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "SRsafety High Visibility 9-Pocket Reflective Safety Vest for $4 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T09:25:48.491495Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Arm & Hammer 170-oz. Sensitive Skin Plus Laundry Detergent for $9.99 w/ Sub & Save + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T09:25:48.491495Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "New Members: iRobot Roomba Plus 4020 Combo + Auto Wash Dock $359.98 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T09:25:48.491495Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LONTEK 15% Incline Walking Pad Treadmill w/ Handles & 3.0HP Brushless Motor $94.99 + Free Shipping",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T09:20:13.875631Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SKIL Rechargeable 4V Cordless Screwdriver with Circuit Sensor Technology, Includes 9pcs Bit, 1pc Bit Holder, USB Charging Cable $22.99",
+  "reason": "Community score too low (+4) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T09:20:13.875631Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Lowe's Back Aisle Sale & Clearance Deals: Up to 50% off + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T09:20:13.875631Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Final Fantasy VII Rebirth for PS5 for $15 + digital download",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T09:20:13.875631Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "New Members: Dyson V12 Detect Slim Cordless Stick Vacuum w/ 7 Tools $449.98 + Free Shipping $459.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T09:20:13.875631Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "CURSOR FITNESS Foldable Walking Pad Treadmill w/ Handles & 17% Incline $109.99 + Free Shipping",
   "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-11T09:14:40.575509Z",

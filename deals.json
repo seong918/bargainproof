@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "c877c37b7e8c",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20000763-21-59-oxo-3-piece-countertop-organizer-set-at-amazon",
+  "title": "OXO 3-Piece Countertop Organizer Set",
+  "raw_title": "$21.59* | OXO 3-Piece Countertop Organizer Set at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0GMS26MT6",
+  "deal_total_cents": 2159,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 2159,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 2159,
+  "amazon_url": "https://www.amazon.com/dp/B0GMS26MT6",
+  "amazon_checked_at": "2026-09-11T09:25:52.672856Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0GMS26MT6",
+  "image_url": null,
+  "published_at": "2026-09-11T09:25:48.491495Z"
+ },
+ {
   "deal_id": "ef397ff5b20c",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20000727-579-99-yamaha-fgc-ta-dreadnought-f-cutaway-transacoustic-guitar-at-amazon",
