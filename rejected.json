@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "OHO Sport Open‑Ear Smart Glasses $9.99 free shipping with Prime or $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T04:10:42.732998Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $7.06* | 2 × 7.75-Oz McCormick Grill Mates Hamburger Seasoning ($3.53 each) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T04:05:07.803249Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "NULAS Knife Set, 6-PC Colorful Kitchen Knife Set, 6 Sharp Kitchen Knives with Covers for Cooking, Cutting, Black $10.01",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T04:05:07.803249Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Refillable Pepper Spray Pen $6 + Free S&H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T04:05:07.803249Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[Lightning Deal] $139.99* | roborock Q7 L5 Robot Vacuum and Mop Combo at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-11T03:59:35.192346Z",
