@@ -1,5 +1,21 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "4/$30 S&S get $10 Amazon Credit 28oz PUMP Bottles of L'Oreal Paris Elvive Total Repair 5 Repairing Shampoo or Conditioner",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T06:57:39.900541Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Energizer MAX 9V Batteries 4 Pack, Alkaline Batteries $6.02 W/S&S",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T06:52:04.269435Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Lucky Line Skeleton Key with Notch TIP for Warded Locks, Antique Doors & Locks, 10 Pack $8.02",
   "reason": "Not evaluated",
