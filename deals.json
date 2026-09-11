@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "d280954abc35",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20001711-resale-74-99-3-pack-tp-link-deco-ax3000-wifi-6-mesh-system-deco-x55-used-like-new-at-amazon",
+  "title": "3-Pack TP-Link Deco AX3000 WiFi 6 Mesh System (Deco X55) (Used - Like New)",
+  "raw_title": "[Resale] $74.99 | 3-Pack TP-Link Deco AX3000 WiFi 6 Mesh System (Deco X55) (Used - Like New) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 7499,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-11T16:25:54.836714Z"
+ },
+ {
   "deal_id": "0fe181ece6c1",
   "source": "techbargains",
   "source_url": "https://www.amazon.com/gp/product/B0DRW7WRX3/ref=ox_sc_act_image_1",
