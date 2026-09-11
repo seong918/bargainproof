@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$3.57 Sally Hansen Face Hair Removal Wax Strips Kit, 18 Wax strips with S&S",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T00:44:31.219334Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Sole F63 Treadmill $999.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T00:44:31.219334Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Elizabeth Arden 1.7-Oz Hyaluronic Acid Hydra-Plumping Water Cream $48.92 w/ S&S + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T00:38:56.216827Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Adjustable Height Mobile Standing Desk for $50 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T00:38:56.216827Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "4 gallons, ZEP Fast 505 Industrial Cleaner and Degreaser, $16.83, FS, Home Depot",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T00:38:56.216827Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Resale] $134.50 | Apple Magic Keyboard: Keyboard and Case for iPad Air 11-inch (M2, M3, and M4) and iPad Air (4th and 5th), US English — Black (Used - Like New) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T00:33:20.823073Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Office Depot Binders, Dividers & Accessories Deals for From $2.99 + free shipping w/ $50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T00:33:20.823073Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$4.24 Scotch Paper Tape, 3/4 in x 600 in, 2 Rolls with Coupon",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-11T00:27:47.651363Z",
