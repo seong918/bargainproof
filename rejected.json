@@ -1,5 +1,149 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "LEGO Star Wars AT-AT Walker for $40 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T01:12:25.619162Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "6-Pack 28-Oz Glass Cleaner Spray for Shower & Mirror $31.50 ($5.25 Ea) + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T01:12:25.619162Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Greenworks 13-Amp 7-1/4-in Corded Circular Saw $34.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T01:12:25.619162Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$21.33 or less S&S AMZ Lorna Doone Shortbread Cookies, 36 Snack Packs 6 Cookies Per Pack,",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T01:01:14.272289Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$5.77 74-Count Hefty Slider Quart Freezer Bags with S&S",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T01:01:14.272289Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$19.70 S&S AMZ MadeGood Chocolate Chip Chewy Granola Bars, 40-Pack, Gluten & Nut Free Snacks",
+  "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T01:01:14.272289Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Timex Men's Expedition Field Chronograph 43mm Analog Watch for $62 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T01:01:14.272289Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Sperry Saltwater Quilted Round Toe Duck Rain Mens Blue Casual Boots, $19.96, FS, ebay",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T01:01:14.272289Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "NORACORA Womens Mesh Long Sleeve Top Crew Neck See Through Lace Blouse starting at $6 AC",
+  "reason": "Posted at $6.00, but Amazon showed $9.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-11T00:55:39.392925Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Everything You Need to Ace Geometry in One Big Fat Notebook Kindle eBook $3.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T00:55:39.392925Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Skullcandy Crusher ANC Headphones True Black $199.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T00:55:39.392925Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "GIANTEX 6-Tier Geometric Wooden Bookshelf $46.74",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T00:55:39.392925Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Classic Car: The Definitive Visual History Kindle eBook $2.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T00:55:39.392925Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Everything You Need to Ace World History in One Big Fat Notebook, 2nd Edition eBook $3.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T00:55:39.392925Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Science Year by Year: The Ultimate Visual Guide to the Discoveries that Changed the World (Kindle eBook) $2.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T00:55:39.392925Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Conair ExtremeSteam 1200W Handheld Garment Steamer $26.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T00:55:39.392925Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "COSTWAY 3.2-Qt / 3L Deep Fryer $49.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T00:55:39.392925Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "REFURBISHED with 2 yr warranty and 4.0 batt, Makita 40V max XGT Lithium-Ion Brushless 15 in. Cordless String Trimmer Kit, $164.49, FS, ebay",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T00:55:39.392925Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "White Paper Doilies - 12\" (12 Ct) $0.49",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
