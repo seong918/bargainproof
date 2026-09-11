@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "TALIX X6 Open Ear Clip-On Bluetooth 5.4 Earbuds w/ 26H Playtime (Various) $12 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T03:09:22.565428Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Wireless TENS Unit Muscle Stimulator for Pain Relief $48",
+  "reason": "Posted at $48.00, but Amazon showed $48.59 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-11T03:09:22.565428Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Firstness 8FT Halloween Inflatable Pumpkins Ghost Cat with Lights,Blow ups Outdoor Decorations for Yard $33.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T03:09:22.565428Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HORISUN Wireless Full Coverage Supportive Bras for Plus Size Women Sizes 32A-42DDD$8.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T03:09:22.565428Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "GE Profile - UltraFast 4.8 Cu. Ft. High-Efficiency Smart Front Load Washer and Electric Dryer Combo with Ventless Heat Pump $2198",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-11T03:03:48.784990Z",
