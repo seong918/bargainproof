@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "DEWALT 20V MAX Cable Cutter, Cordless, Tool Only (DCE150B) $592.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T07:47:37.162375Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Amazon Essentials Men's Athletic-Fit Stretch Jeans for $8 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T07:47:37.162375Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Woot Clothing Clearance for Everything under $15 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T07:47:37.162375Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Dakine's 25L Class Backpack (Various Colors) $19.99 + Free Shipping Orders $50+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T07:47:37.162375Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "PrimaCare IS-5529 26\" x 4\" Rolled Mesh Wire Splint $2.59 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-11T07:42:03.182122Z",
