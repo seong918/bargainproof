@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "42b4ee4a52e7",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20002656-20-215-piece-lego-star-wars-clone-trooper-battle-droid-battle-pack-building-set-at-amazon",
+  "title": "215-Piece LEGO Star Wars Clone Trooper & Battle Droid Battle Pack Building Set",
+  "raw_title": "$20* | 215-Piece LEGO Star Wars Clone Trooper & Battle Droid Battle Pack Building Set at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0CGXZ79WH",
+  "deal_total_cents": 2000,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 2000,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 2000,
+  "amazon_url": "https://www.amazon.com/dp/B0CGXZ79WH",
+  "amazon_checked_at": "2026-09-11T18:44:22.392308Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0CGXZ79WH",
+  "image_url": null,
+  "published_at": "2026-09-11T18:44:17.367215Z"
+ },
+ {
   "deal_id": "8cffcb3e07e4",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20002653-19-17-358-piece-lego-disney-mini-disney-princess-mini-belle-tiana-with-castle-43291-2026-at-amazon",
