@@ -1,5 +1,101 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$144.99 | Metabo HPT 5-Inch Angle Grinder, 12-Amp AC Brushless Motor, G13VE2 at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-11T17:54:23.881383Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS] $10.53 | 8-Pack Pentel EnerGel Pearl Retractable Liquid Gel Pen, 0.7mm, Medium Line, Black Red and Blue Ink at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T17:54:23.881383Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Metabo HPT 18V MultiVolt™ Brad Nailer + Impact Driver Combo Kit (KC18DEXQD) $170.59 + Free S&H at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T17:54:23.881383Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "243-Pc LEGO Friends Panda Sanctuary (42648) $24 + Free Shipping w/ Prime or on orders over $35",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T17:54:23.881383Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Mucinex DM 12Hr Max Strength Chest Congestion & Cough Medicine 48 Tablets $18.08",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T17:54:23.881383Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "GOESTRIC Waterproof Insulated Winter Work Gloves $5.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T17:54:23.881383Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Turtle Wax Hybrid Solutions Ceramic Spray Wax Coating, 16 oz (Pack of 2) $24.30",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T17:54:23.881383Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Gold Bond Plumping Collagen Body & Face Serum Lotion 8-Oz (Cherry Blossom) $3.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T17:54:23.881383Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "BIC Cristal Xtra Smooth 10-Count Black Ballpoint Pens: 97 cents + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T17:54:23.881383Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Telescoping LED Flashlight & Magnetic Pickup Tool Just $8.99 on Amazon (Reg. $19)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T17:54:23.881383Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas Men's Adistar Control 5 Sneakers (Sizes: 7-13, White/Scarlet/Dash Grey) $48 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T17:54:23.881383Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bedsure Long Wearable Blanket Hoodie, Long Hooded Blanket Sweatshirt $16.15+Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T17:54:23.881383Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Dr.Hill Magnetic 10000mAh 22.5W Fast Charging Portable Charger with Built-in Cables & AC Wall Plug $17.99",
   "reason": "Posted at $17.99, but Amazon showed $30.99 when we checked — the deal is probably over",
