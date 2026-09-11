@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "4dd5fad43478",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20001411-new-ac-9-67-dii-women-s-fall-thanksgiving-kitchen-apron-at-amazon",
+  "title": "DII Women's Fall & Thanksgiving Kitchen Apron",
+  "raw_title": "[NEW, AC] $9.67 | DII Women's Fall & Thanksgiving Kitchen Apron at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B07SXCYW71",
+  "deal_total_cents": 967,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 1466,
+  "amazon_coupon_cents": 498,
+  "amazon_effective_cents": 968,
+  "amazon_url": "https://www.amazon.com/dp/B07SXCYW71",
+  "amazon_checked_at": "2026-09-11T13:30:49.318309Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B07SXCYW71",
+  "image_url": null,
+  "published_at": "2026-09-11T13:30:44.648658Z"
+ },
+ {
   "deal_id": "f5e6d72fcbac",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20000937-sns-ac-4-61-12-pack-2-25-oz-maruchan-instant-lunch-chedder-cheese-at-amazon-38-4-each",
