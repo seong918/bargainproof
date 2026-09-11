@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Konokyo 22 oz Insulated Stainless Steel Water Bottle with Straw Lid(Turquoise) $7.7 + Free S&H w/ Prime or $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T02:19:12.441171Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "PRIME ONLY: $12.09 ac's AstroAI 40\" 2-in-1 Detachable Snow Brush & Ice Scrapers for Car Windshield | Snow Remover with No-Scratch Bristles & Ergonomic Grip, with storage bag",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T02:19:12.441171Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Under Armour Infinite Pro 2 Running Shoes $97.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T02:19:12.441171Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DEWALT Die Grinder, Brushless, Variable Speed, Paddle Switch With Lock-On, 2-Inch (DWE4997VS) $252.99 + Free S&H at Amazon",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T02:13:37.569782Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "BIODANCE 1.01 fl.oz. Radiant Vita Niacinamide Serum $12.34 w/ S&S + Free Shipping w/ Prime",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T02:13:37.569782Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "COCOMARTS Jelly Bras for Women No Underwire Push Up Bra $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $19.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-11T02:13:37.569782Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DC Versus Marvel - The Amalgam Age Omnibus Restock Pre-Order: $90 at CheapGraphicNovels",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T02:13:37.569782Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "BIODANCE Radiant Vita Niacinamide Toner Pads $14.25 + Free Shipping w/ Prime",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-11T02:08:04.028008Z",
