@@ -1,5 +1,37 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "[Resale] $29.49 | Lodge 20 x 10.44 Inch Pro-Grid Reversible Cast Iron Grill/Griddle (Used - Like New) at Amazon",
+  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T00:11:10.310875Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "AOCHUAN 3-Axis Gimbal Stabilizer for iPhone, Smartphone Gimbal w/7.8\" Extension Rod, OLED Display $30.24",
+  "reason": "Posted at $30.24, but Amazon showed $54.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-11T00:11:10.310875Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Kingsford Heavy Duty Disposable Grill Liners 4-Count Pack for $5.48 via Sub & Save + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T00:11:10.310875Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Journey to the Savage Planet $5.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T00:11:10.310875Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Adjustable Metal Laptop Stand for $14 + free shipping w/ Prime",
   "reason": "Not evaluated",
