@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "b5f8cc0e783b",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/19999815-the-new-york-times-no-recipe-recipes-cookbook-16-40-free-shipping-w-prime-or-on-35",
+  "title": "The New York Times No-Recipe Recipes Cookbook + or on",
+  "raw_title": "The New York Times No-Recipe Recipes Cookbook $16.40 + Free Shipping w/ Prime or on $35+",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1640,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "prime"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-11T05:50:51.299977Z"
+ },
+ {
   "deal_id": "2727e2934559",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20000187-5-kung-fu-panda-4-collector-s-edition-dvd-at-amazon",
