@@ -1,6 +1,126 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Joola Pro IV Perseus pickleball paddle on sale for 149.95 $149.95",
+  "reason": "Community score too low (+-5) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T03:48:26.722179Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] MERACH Single Track Adjustable Ab Trainer Machine (White/Pink) $34.99 + Free Shipping",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T03:42:52.181676Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "NORACORA Long Sleeve Shirts for Women Pleated Tunic Basic Tops $4.99 - $5.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T03:42:52.181676Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "15.6\" Digital Calendar with Video Calling & Split Screen $149.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-11T03:37:16.992753Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bedsure PureWoven Adjustable Pillow Queen for Back Stomach Side Sleepers. $23.99 - $29.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T03:37:16.992753Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $8.99 | 5 lb Blue Buffalo Wilderness Chicken Kitten Dry Cat Food, Grain-Free at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T03:31:42.422693Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LitBear Large Pimple Patches for Face & Body, 6 Sizes 118 Counts $3.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T03:31:42.422693Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Greenworks 80V Backpack Sprayer 4 Gallon,Battery Powered Backpack Sprayer Kit for Weeding, Spraying, Pest Control, 2Ah Battery and Charger $189.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T03:31:42.422693Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Philips Hue Outlet Deals: Impress Outdoor Wall Light (Low-Volt) $74, Hue Being Ceiling Lamp $102 & More + Free Shipping on $50+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T03:31:42.422693Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "AsperX Laptop Power Bank, 165W 20,000mAh Retractable Cable Aluminum Unibody $39.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T03:26:06.345998Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$7.43 S&S CliP Q Gerber Stage 3 Baby Snacks Discovery Variety Pack, 6 Pack",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T03:20:30.799207Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Scarlet Darkness Corset Mini Dress Adjustable Straps Sundress with Pockets $16.8",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T03:20:30.799207Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "6-Count Duracell CR2032 3V Lithium Coin Batteries $2.40 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+-2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T03:14:55.489890Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee SHOCKWAVE 3/8 in. Drive Metric Deep Well 6 Point Impact Socket Set (14-Piece) $49.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T03:14:55.489890Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GOOLOO Car Battery Jump Starter, 4500A Peak Portable Jump Box $53.99 Free Shipping W/Walmart+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T03:14:55.489890Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "TALIX X6 Open Ear Clip-On Bluetooth 5.4 Earbuds w/ 26H Playtime (Various) $12 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-11T03:09:22.565428Z",
