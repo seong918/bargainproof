@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "0952425677b1",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20003160-sns-12-62-2-pk-m-m-s-milk-chocolate-candy-jars-25-5-oz-original-23-oz-peanut-at-amazon",
+  "title": "2-Pk M&M's Milk Chocolate Candy Jars: 25.5-Oz Original + 23-Oz Peanut",
+  "raw_title": "[SnS] $12.62* | 2-Pk M&M's Milk Chocolate Candy Jars: 25.5-Oz Original + 23-Oz Peanut at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1262,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 6,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-11T22:31:44.353210Z"
+ },
+ {
   "deal_id": "f262e59dce87",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20001186-apollo-135-piece-basic-household-tool-set-w-cordless-screwdriver-pink-38-02-free-shipping",
