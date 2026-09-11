@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon AIDEA Microfiber Cleaning Cloths -20PK, Kitchen Towels 11\" x 11\" $5.99 with S&S + FS with prime",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T19:23:06.878517Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "AHJ 5qt Multi-Functional Pre-Seasoned Cast Iron Dutch Oven $28.04",
+  "reason": "Posted at $28.04, but Amazon showed $29.69 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-11T19:23:06.878517Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Makita XGH02ZK 18V LXT Lithium-Ion Cordless Variable Temperature Heat Gun $157.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T19:23:06.878517Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Giant Fathom 1 27.5\" Hardtail Mountain Bike for $700 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T19:23:06.878517Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Hydro Flask Wide Mouth Chug 40 oz. Insulated Water Bottle for $20 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T19:23:06.878517Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "No Boundaries Women’s Boxers from ONLY $3.59 on Walmart.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T19:23:06.878517Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Essentials 3-Stripes Cotton Leggings $21.25 AC + FS w/ Adidas Club Membership",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T19:23:06.878517Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$15.98 pick up SAMS CLUB Member's Mark Multi-Use Storage Bins Camo & Orange, 7.5\" D x 24\" W x 11.7\" H, 1 pack",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T19:23:06.878517Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$20* | 40-Oz Hydro Flask Insulated Travel Tumbler w/ Lid & Straw at Amazon",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-11T19:17:33.877273Z",
