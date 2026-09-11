@@ -1,5 +1,109 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "340-Pc LEGO Classic Magical Transparent Box Building Set (11040) $19.79 + Free Shipping w/ Prime or on orders over $35",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-11T17:37:46.831199Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Nxuoo G10 2-in-1 1200W Handheld Garment Steamer (110-240V) $13.99",
+  "reason": "Posted at $13.99, but Amazon showed $27.71 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-11T17:37:46.831199Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Wfiia 16x Vacuum Storage Bag Set with USB-C Pump, Luggage Scale $17.49",
+  "reason": "Posted at $17.49, but Amazon showed $34.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-11T17:37:46.831199Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "SONGMICS Shoe Rack 6-Tier 24-Pair Storage Cabinet $32.39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T17:37:46.831199Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Air Tracker Tags 4-Pack $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T17:37:46.831199Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Rokid Max 2 AR Glasses $279.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T17:37:46.831199Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "ESR Classic Hybrid Case for iPhone 18 Pro Max $10.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T17:37:46.831199Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LUYI 36-Pair Resin Novelty Earrings Set $8.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T17:37:46.831199Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "CURSOR FITNESS ET30 Compact Elliptical Machine w/ 8-Level Magnetic Resistance & 12\" Stride $151.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T17:37:46.831199Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "No Country for Old Men the Criterion Collection 4K UHD Blu-ray for $29 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T17:37:46.831199Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Sony HT-BC50 3.1 Ch Soundbar with Wireless Subwoofer $219.99 free shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T17:37:46.831199Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GRACE KARIN White Cardigan Sweaters for Women Cute Tops Summer Cropped Cardigans $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T17:37:46.831199Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$289 FS Walmart NEW UNLOCKED Samsung Galaxy Dual Sim A37 5G (128GB Storage, 6GB RAM) New | 6.7” Super AMOLED 120Hz Display",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-11T17:37:46.831199Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Goestric Waterproof Insulated Winter Work Gloves with Latex Grip $5.99",
   "reason": "Posted at $5.99, but Amazon showed $9.99 when we checked — the deal is probably over",
