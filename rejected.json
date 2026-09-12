@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "The Postman Always Rings Twice Blu Ray $11.99 Amazon.com",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-12T09:58:51.597207Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Amazon Basics Double-Tipped Cotton Swabs (4-Pack of 500-Count) $7.20",
+  "reason": "Posted at $7.20, but Amazon showed $10.11 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-12T09:58:51.597207Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "MLB Hoodie & Sweatshirt Deals at Fanatics: Up to 82% off + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T09:58:51.597207Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "VTech Learn and Rescue Elephant Truck Pull Toy with Plush Elephant $18.39",
   "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-12T09:53:20.319463Z",
