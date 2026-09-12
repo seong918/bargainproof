@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "a1e54bd0e6e5",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20006043-amazon-bucasa-hummingbird-solar-lantern-9-99-w-code",
+  "title": "Amazon – BUCASA Hummingbird Solar Lantern - w/ Code",
+  "raw_title": "Amazon – BUCASA Hummingbird Solar Lantern - $9.99 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0GXK49VXS",
+  "deal_total_cents": 999,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 1999,
+  "amazon_coupon_cents": 300,
+  "amazon_effective_cents": 1699,
+  "amazon_url": "https://www.amazon.com/dp/B0GXK49VXS",
+  "amazon_checked_at": "2026-09-12T18:06:19.638551Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0GXK49VXS",
+  "image_url": null,
+  "published_at": "2026-09-12T18:06:15.227728Z"
+ },
+ {
   "deal_id": "74ee844712a3",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20006094-153-citizen-men-s-eco-drive-weekender-garrison-field-watch-in-stainless-at-amazon",

@@ -1,5 +1,45 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Scenic 13-Night Chilean Fjords & Beagle Channel Cruise for From $32,690 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T18:06:15.227728Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – BUCASA Hummingbird Solar Lantern - $9.99 w/ Code",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-12T18:06:15.227728Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Label Maker w/ 4 Rolls Just $19.99 on Amazon (Reg. $35)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T18:00:42.334574Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "5\" Teenage Mutant Ninja Turtles The Last Ronin Raphael Action Figure $15 + Free Shipping $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T18:00:42.334574Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Mr. Clean Unscented Magic Eraser Whole Home Extra Durable Multi-Purpose Cleaner - 4ct $2.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T18:00:42.334574Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Beyond the Gaze: Jule Campbell's Swimsuit Issue [Blu-ray] $5.24 + Free S&H w/ Prime or $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
