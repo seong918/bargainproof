@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "OXVAC 58kPa Cordless Stick Vacuum Cleaner for Pet Hair, 600W Motor, Up to 65 Minutes $69.99",
+  "reason": "Posted at $69.99, but Amazon showed $129.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-12T13:12:49.518710Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "12-Amp 2-1/4 HP Variable Speed Fixed-Base Corded Router $162.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T13:12:49.518710Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$709.99: Samsung 27\" Odyssey G8 (G80HF) Gaming Monitor",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-12T13:07:16.578553Z",
