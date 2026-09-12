@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Patbrela Adjustable Resistance Exercise Bike $89.99 + Free S&H at Walmart",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T08:30:04.581064Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "6-Pack Linkind BR30 LED Indoor Flood Light Bulbs (10W/65W, Various) $11.99 ($1.99 each) + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs multi-pack, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-12T08:24:30.654802Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "UGREEN 6-in-1 USB-C Hub 4K HDMI, 3 USB 3.0 Ports, SD/TF Card Reader $9.02 + Free S&H w/ Walmart+ or $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T08:24:30.654802Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[SnS, AC] $18.09* | 4-Pk 24-Oz Bob's Red Mill Gluten Free Pancake & Waffle Mix at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs clip coupon, Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-12T08:18:57.563454Z",
