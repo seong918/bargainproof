@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "95b9f47bc41a",
+  "source": "techbargains",
+  "source_url": "https://www.amazon.com/gp/product/B0GHBMW818/ref=ox_sc_act_title_1",
+  "title": "Cheez-It Baked Cheese Crackers (80-Pack)",
+  "raw_title": "Cheez-It Baked Cheese Crackers (80-Pack) $16.63",
+  "merchant": "amazon",
+  "buy_url": "https://www.amazon.com/gp/product/B0GHBMW818/ref=ox_sc_act_title_1",
+  "deal_total_cents": 1663,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "qty"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 1663,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1663,
+  "amazon_url": "https://www.amazon.com/dp/B0GHBMW818",
+  "amazon_checked_at": "2026-09-12T10:10:02.234435Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": null,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0GHBMW818",
+  "image_url": null,
+  "published_at": "2026-09-12T10:09:55.900494Z"
+ },
+ {
   "deal_id": "9d7985f0716d",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20004834-1998-sony-100-inch-bravia-3-ii-led-4k-hdr-smart-google-tv-with-gemini-k100xr30m2-at-amazon",
