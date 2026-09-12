@@ -1,6 +1,14 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$39.95 AC FS AMAZON 12-Inch High Pressure Rain Shower Head with Handheld Spray Combo, Magnetic",
+  "reason": "Community score too low (+-2) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-12T13:23:53.010942Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "OXVAC 58kPa Cordless Stick Vacuum Cleaner for Pet Hair, 600W Motor, Up to 65 Minutes $69.99",
   "reason": "Posted at $69.99, but Amazon showed $129.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-12T13:12:49.518710Z",
