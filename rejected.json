@@ -1,5 +1,37 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Lisen 4-in-1 4.7\"-11.5\" Tablet Car Seat Holder Mount $9.08",
+  "reason": "Posted at $9.08, but Amazon showed $17.08 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-12T11:38:34.553488Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Alpswolf 1000-Lumen 6-Mode 4000mAh Rechargeable LED Camping Lantern (2-Pack) $19.99",
+  "reason": "Posted at $19.99, but Amazon showed $39.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-12T11:38:34.553488Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ridgid 18V Brushless Cordless 2-Tool Combo Kit with Jig Saw and Grinder (Tools Only) $149",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T11:38:34.553488Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[YMMV, AC] $76.99* | 1000W MSI MPG A1000GS 80+ Gold PCIE5 Fully Modular Gaming Power Supply at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-12T11:38:34.553488Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Amazon Grocery, Pistachio Kernels, Roasted & Salted, No Shells, 24 oz (680g), Pack of 1~$11.25 With S&S @ Amazon~Buy 4 & Save More!",
   "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
