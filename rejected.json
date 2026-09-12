@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$5 AC Hat Organizer for Baseball Caps 2Pack, Hat Rack for Wall with Strong Adhesive Hold up to 20 Hats,",
+  "reason": "Posted at $5.00, but Amazon showed $9.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-12T20:36:02.256886Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "FTL: Faster Than Light",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T20:36:02.256886Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Adjustable Ab Trainer Just $29.99 Shipped on Amazon (Reg. $65)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T20:36:02.256886Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Kate Spade Pebbled Leather Tote Bag $96.75",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-12T20:30:28.907529Z",
