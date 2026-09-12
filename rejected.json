@@ -1,5 +1,37 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Franklin Sports NHL Hockey Goal Set for $24 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T10:43:07.356895Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DEWALT FLEXVOLT 60V MAX* 7-1/4 in. Cordless Worm Drive Style Saw (Tool Only) $249",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T10:43:07.356895Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DEWALT DCBL722B 20V MAX* XR Brushless Cordless Handheld Blower (Tool Only) $139",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T10:43:07.356895Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Nike Book 1 Men's Basketball Shoes (Sizes 8.5 & 10) for $44 + free shipping w/ $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T10:37:34.745737Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "[SnS, AC] $11.01 | 81-Count Amazon Basic Care Mini Nicotine Polacrilex Lozenge, 2 mg (Citrus) at Amazon",
   "reason": "Community score too low (+0) to pass without a price check — needs clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
@@ -1214,14 +1246,6 @@
   "rejected_at": "2026-09-12T04:09:28.442175Z",
   "code": "low_score",
   "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "DEWALT DCBL722B 20V MAX* XR Brushless Cordless Handheld Blower (Tool Only) $139",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T04:09:28.442175Z",
-  "code": "not_checked",
-  "public": false
  },
  {
   "source": "slickdeals",
