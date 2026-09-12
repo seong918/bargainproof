@@ -1,6 +1,166 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon – 2-Pack Artificial Topiary Bushes w/ Stakes - $19.5 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-12T04:03:58.636881Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[S&S, AC]3 ct 12.5 oz Blue Buffalo Homestyle Recipe Chicken Senior Wet Dog Food $6.2 + Free S&H w/ Prime or $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs clip coupon, Subscribe & Save, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-12T04:03:58.636881Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – APFEN 2-Pack 6' 60W USB-C Cables - $2.99 w/ Code",
+  "reason": "Community score too low (+4) to pass without a price check — needs promo code, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-12T04:03:58.636881Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Soleilwear Electric Precision Screwdriver Set w/ 80 Bits - $19.99 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-12T04:03:58.636881Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Resale] $14.88 | bella Fits-anywhere Flip-n-Store Belgian Waffle Maker (Oatmilk) (Used - Like New) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-12T04:03:58.636881Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GKBK Women's V-Neck Long Sleeve Blouse Top w/ Smocked Cuffs (Various) $4.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-12T04:03:58.636881Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Leafigure Women's Ribbed Long-Sleeve Shirts - $3.49–$4.99 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-12T04:03:58.636881Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – SINOPHANT Women's Joggers w/ Pockets - $6.49 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-12T04:03:58.636881Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Ipletix Maternity Wide-Leg Lounge Pants - $7.17–$8.09 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-12T04:03:58.636881Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Resale] $38.15 | KitchenAid Large Capacity Dish Rack w/ Angled Drain Board (Used - Like New) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-12T04:03:58.636881Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Fanttik O11 Pro 3-3/8-Inch Cordless Circular Saw for $91 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T04:03:58.636881Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Securlife Disposable Hazmat Suit with Hood and Boot Covers for $10 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T04:03:58.636881Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Elecvelno Self-Leveling Cross Line Laser Level with Tripod for $20 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T04:03:58.636881Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "RanZZRan Women's French Terry Lounge Shorts with Pockets for $5 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T04:03:58.636881Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Men's Linen Polo Shirt for 2 for $9 + $18 shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T04:03:58.636881Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Fanttik Y10 Pro Cordless Electric Pruning Shears for $70 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T04:03:58.636881Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DeWalt DCHT821B 20V MAX* 22 in. Brushless Cordless Hedge Trimmer (Tool Only) $99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T04:03:58.636881Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DEWALT DCB205C Battery Kit 20V MAX Lithium Ion 5 Ah Includes Charger Cordless $59",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T04:03:58.636881Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DEWALT DCL043 LED Work Light 20V MAX Handheld 1500 Lumens Pivoting Head Cordless $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T04:03:58.636881Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DeWalt DCB245-2C 20V MAX Starter Kit 4.0Ah and 5.0Ah Batteries with Charger (2 Batteries 1 Charger) $99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T04:03:58.636881Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon – APQA 10-Pc Character Ears Ballpoint Pen Set - $11.19 w/ Code",
   "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-12T03:58:25.243419Z",
