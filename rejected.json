@@ -1,6 +1,110 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS] $21.98 | 12-Pack 3-Oz Coppertone SPORT Sunscreen Lotion (SPF 50) at Amazon ($1.83 each)",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-12T22:04:45.324508Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Buy 1, Get 1 FREE Smashburgers + Get a $1 Burger on 9/18!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T22:04:45.324508Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "KEIKI Height Adjustable Rolling Laptop Desk, Portable Mobile Standing Workstation with Tiltable Top for Home Office Classroom, Walnut $25",
+  "reason": "Posted at $25.00, but Amazon showed $25.93 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-12T21:59:12.274875Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ailun iPhone 18 Pro /18 Pro Max / Duo 3-Pack Tempered Glass Screen & Lens Protectors from $3.99 + Free Shipping w/ Primne or orders $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T21:59:12.274875Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Nestlé Toll House 100% Pure Cocoa $3.33",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T21:53:38.687381Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "12 Pcs Basketball Felt Wall Decor Board $11.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T21:53:38.687381Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Canada Dry Ginger Ale Soda 12-Pack $4.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T21:53:38.687381Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "NFL Hoodie & T-Shirt Combo from $33.49 Shipped ($125 Value)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T21:53:38.687381Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "9-Pack Chfeila Magnetic Cable Clips/Cord Organizer(360°Rotating Lid, White) $3.99 + Free S&H w/ Prime or $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-12T21:48:05.666073Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men Grand Court 2.0 Shoes (2 Colors) from $24",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T21:48:05.666073Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "QUINTESSY 12 Pack Magnetic Cord Organizer White/Black $3.99 + Free S&H w/ Prime or $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-12T21:42:33.403005Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "COCOMARTS Jelly Bras for Women No Underwire Push Up Bra Nude S $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $19.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-12T21:42:33.403005Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "REFURB from Worx, WORX WA3571 20V Power Share PRO 5.0AH High Capacity Battery, $39.99, FS, ebay",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T21:42:33.403005Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "REFURBISHED with 2 yr warranty, Makita XDT18SY1B-R 18V LXT Cordless Impact Driver Kit, $74.87, FS, ebay",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-12T21:37:00.743391Z",
