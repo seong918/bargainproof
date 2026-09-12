@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon – JDBMAOYE App-Controlled LED Mask - $34.99 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-12T04:26:02.287722Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Special Ops: Lioness - Season One [Blu-ray] $17.99 Amazon.com",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-12T04:26:02.287722Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ultra Mobile by T-Mobile 4GB Plan for $10/month + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T04:26:02.287722Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "8Bitdo Ultimate 2 Wireless Controller (Various Colors and Conditions) $37.81",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-12T04:26:02.287722Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – GobiDex Magnetic Tiles Army Building Set - $11.99 w/ Code",
+  "reason": "Community score too low (+2) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-12T04:20:28.755407Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Tamoria Compatible for iPhone 18 Pro Max Camera Lens Protector Black $7.5",
+  "reason": "Posted at $7.50, but Amazon showed $14.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-12T04:20:28.755407Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ASUS - TUF GAMING B650E-PLUS WIFI (Socket AM5) AMD B650 ATX DDR5 Wi-Fi 7 Motherboard - Black - Open Box - Excellent $71.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T04:20:28.755407Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Smashburger Single Smash for $1 on 9/18",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T04:14:59.812854Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon - Cordless Shoulder Heating Pad with Massage 5 Heat & Vibration Modes - $34.39",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-12T04:09:28.442175Z",
