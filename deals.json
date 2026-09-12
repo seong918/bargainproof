@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "beb58ca3d803",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20005509-699-optoma-photon-life-pk32-4k-uhd-60hz-led-projector-at-amazon",
+  "title": "Optoma Photon Life PK32 4K UHD 60Hz LED Projector",
+  "raw_title": "$699 | Optoma Photon Life PK32 4K UHD 60Hz LED Projector at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0FQT27VS6",
+  "deal_total_cents": 69900,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 69900,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 69900,
+  "amazon_url": "https://www.amazon.com/dp/B0FQT27VS6",
+  "amazon_checked_at": "2026-09-12T14:52:33.975605Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0FQT27VS6",
+  "image_url": null,
+  "published_at": "2026-09-12T14:52:27.001445Z"
+ },
+ {
   "deal_id": "d4bbdf3657da",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20005365-sns-3-77-6-pk-20-oz-gatorade-lower-sugar-sports-drink-rain-berry-at-amazon",
