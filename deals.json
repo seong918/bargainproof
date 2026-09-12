@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "eb0d0dda931d",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20003115-33-for-3-items-shout-factory-blu-rays-at-amazon",
+  "title": "for 3 items: Shout Factory Blu-rays",
+  "raw_title": "$33 for 3 items: Shout Factory Blu-rays at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 3300,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 6,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-12T00:00:15.557848Z"
+ },
+ {
   "deal_id": "ff206248fd6f",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20003016-prime-members-bircen-polarized-tr90-sports-sunglasses-various-9-free-shipping",
