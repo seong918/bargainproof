@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[Resale] $45* | ecobee Wi-Fi Smart Thermostat Essential (Used - Like New) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-12T01:17:34.384425Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Fanbulous 2-Pack 48-inch 6-Speed Ceiling Fans (No Light), Quiet Reversible DC Motor with Remote 2-Color (black and walnut) Reversible Blades $80 + Free S/H",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-12T01:17:34.384425Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Men's Heated Vest with Battery Pack Rechargeable Lightweight Warm Coat $44.99",
+  "reason": "Posted at $44.99, but Amazon showed $89.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-12T01:17:34.384425Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Signature Fitness 1\" Barbell, Straight Alloy Steel Weightlifting Bar, Silver Finish, 5/6/7 FT Options $8/$9/$10 @ Walmart",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T01:17:34.384425Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$48.99: Monster Hunter Stories 3: Twisted Reflection @ Steam",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T01:17:34.384425Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$4.99: Sniper Elite 5 @ Steam",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T01:17:34.384425Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$14.99: Warhammer 40,000: Space Marine 2 Standard Edition @ Steam",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-12T01:12:01.036654Z",
