@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Mersco 12FT Kids Trampoline, ASTM Certified Heavy Duty Outdoor Trampoline with Safety Enclosure Net Basketball Hoop and Ladder for Backyard Family Fun, Trampoline SUPER $199.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T06:22:15.219961Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "10'x7' Ywitio Golf Practice Net for Backyard w/ Hitting Mat $29.14 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-12T06:16:42.060192Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "18\" AKOFUN Bladeless Flush Mount Ceiling Fan w/ Dimmable 3000-6500K LED Light & Remote (Black Dots) $20.79 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-12T06:11:09.957395Z",
