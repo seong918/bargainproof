@@ -1,5 +1,93 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Star Wars The Black Series Ahsoka Tano 6\" Action Figure (The Mandalorian) $11.00 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-12T16:21:04.171298Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Fanbulous 2-Pack 48-inch 6-Speed Ceiling Fans (No Light) $80.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T16:21:04.171298Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Top Cup NFL Philadelphia Eagles Disposable Cups 20oz 10-Count $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T16:21:04.171298Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "The Legend of Zelda: Ocarina of Time - Nintendo Switch 2 $59.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T16:21:04.171298Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Final Fantasy XV: Royal Edition Xbox One/Series X|S Digital Download $10.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T16:21:04.171298Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "On Women's Cloudboom Volt Running Shoes (Juniper/Limelight) $100.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T16:21:04.171298Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Round Trip Washington DC to Madrid Spain Airfares on American Airlines $381.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T16:21:04.171298Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "belVita Breakfast Biscuits 30-Pack Only $9 Shipped on Amazon (Reg. $21)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T16:21:04.171298Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Round Trip Phoenix to Taipei Taiwan $725 Nonstop Airfares on China Airlines BE with 2 Free Checked Bags (Travel January - May 2027)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T16:21:04.171298Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "MelodySusie Cordless Pedicure Nail File / Drill $8 @ Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-12T16:21:04.171298Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "77\" VIPEK R2 Heavy Duty Adjustable Rolling Clothes Rack $50 + Free S&H",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-12T16:21:04.171298Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Round Trip El Paso TX to Denver Nonstop Airfares on Southwest or United Airlines $157.00",
   "reason": "Not evaluated",
