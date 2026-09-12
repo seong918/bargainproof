@@ -1,5 +1,21 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Amazon Grocery, Pistachio Kernels, Roasted & Salted, No Shells, 24 oz (680g), Pack of 1~$11.25 With S&S @ Amazon~Buy 4 & Save More!",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-12T11:33:01.690100Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee SHOCKWAVE 1/2 in. and 3/8 in. Drive SAE Deep Well Impact Socket Set (24-Piece) $128.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T11:33:01.690100Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "lululemon We Made Too Much Shoe Specials for Slides from $39, sneakers from $59 + free shipping",
   "reason": "Not evaluated",
