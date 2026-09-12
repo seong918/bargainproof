@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "VTech Learn and Rescue Elephant Truck Pull Toy with Plush Elephant $18.39",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-12T09:53:20.319463Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Fanatics Free Shipping Promo Code: Free Shipping w/ $39 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T09:53:20.319463Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$2.90 | BIC Brite Liner Grip Highlighters, Chisel Tip, Classic Yellow, 2-Count at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-12T09:53:20.319463Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "M&M's Milk Chocolate and Peanut Bulk Candy Jars, Assorted Chocolate Candies, Party Size, Movie Night Snacks, Resealable and Recyclable, 48.5 Ounces Total (Pack of 2) $11.29",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-12T09:47:47.845200Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Joovy Tricycoo Fold & Go Toddler Tricycle Featuring Removable, Adjustable Push Handle, Lockable Front Pedals, Height-Adjustable Seat, 3-Point Safety Harness ( $43.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-12T09:47:47.845200Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Pack Cotmcor Striped Cosmetic Makeup Bag & Pouch Set $6.49 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs multi-pack, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-12T09:47:47.845200Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Mr. Clean 41oz All Purpose Cleaner (Watermelon) $3.69",
+  "reason": "Posted at $3.69, but Amazon showed $3.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-12T09:47:47.845200Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Renogy Bifacial Solar Panel 2PCS 590 Watt N-Type 16BB, 25% High Efficiency $890.98",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-12T09:42:15.846573Z",
