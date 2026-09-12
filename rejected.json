@@ -1,6 +1,14 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Hair Dryer with Diffuser $35.99 – 150,000 RPM High-Speed Ionic Blow Dryer, 1600W",
+  "reason": "Posted at $35.99, but Amazon showed $53.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-12T02:46:12.780705Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "LAUSAINT HOME 43\" Rectangular Propane Fire Pit Table w/ Lid & Glass Wind Guard (Dark Black) $189.99 + Free Shipping $197.99",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-12T02:40:39.148208Z",
