@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS] $73.53 | 3.3-Oz Calvin Klein Euphoria Bold Elixir Parfum Intense at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-12T00:50:13.628259Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Milwaukee 8-Pc. Multi-Tool Blade Kit for $60 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T00:50:13.628259Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Timberland Women's Authentic Mule (Beige Suede) $34.99 + Free Shipping on $75+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T00:50:13.628259Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[NEW] $4 | 5.5-Oz Red Devil Pre-Mixed Tile Grout (White) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-12T00:44:41.635353Z",
