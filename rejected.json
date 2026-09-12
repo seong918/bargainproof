@@ -1,5 +1,37 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Kate Spade Pebbled Leather Tote Bag $96.75",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T20:30:28.907529Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HOKA Men's Rincon 4 Running Shoes (Birch / Cement) $62.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T20:30:28.907529Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Walking Pad Treadmill for Home with Handle Bar Foldable Under Desk Terluxra $79.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-12T20:19:20.649688Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bamboo Dining Bench 35 Inch Indoor Wooden Shoe Benches for Entryway $67.49",
+  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-12T20:19:20.649688Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
   "source": "hip2save",
   "raw_title": "Cottonelle Flushable Wipes 2-Pack UNDER $3 Shipped on Amazon",
   "reason": "Not evaluated",
