@@ -1,6 +1,14 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$47.95* | 880-Piece LEGO Ideas - Mineral Collection (21362, 2025) at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-12T12:22:55.587952Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "0.3-Oz Hawaiian Tropic Island Coconut SPF 30 Sunscreen Lip Balm $4.93 w/ S&S + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-12T12:06:17.383186Z",
