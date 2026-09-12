@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS] $4.27 | 7-Oz Blue Diamond Almonds Toasted Almonds and Dried Cherries at Amazon",
+  "reason": "Community score too low (+3) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-12T11:05:20.245568Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas Men's Adizero EVO SL Woven Running Shoes for $75 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T11:05:20.245568Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DeWalt 20V XR Powerpack Starter Kit with 8.0 Ah and 4.0 Ah Batteries and Fast Charger Lithium-Ion $199",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T11:05:20.245568Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Ryobi One+ 18V Cordless 5 in. Random Orbit Sander with 2.0 Ah Battery and Charger Kit $79.97",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-12T10:59:47.199730Z",
