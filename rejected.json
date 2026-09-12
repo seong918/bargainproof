@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "COCOMARTS Jelly Bras for Women No Underwire Seamless Push Up Bra,Nude,M $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $24.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-12T21:31:29.608494Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Kids Instant Print Digital Camera Only $17.99 on Amazon (Reg. $36)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T21:31:29.608494Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$5.99 | PURITO From Green Cleansing Oil 6.76 fl. at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T21:31:29.608494Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$59.99 | Andis UltraEdge Super Detachable Blade Dog Clipper at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T21:31:29.608494Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Woot! App: $16.99 | SIMPLI-MAGIC Premium Shop Towels 14”x12”, 90Pack at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T21:31:29.608494Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Sam's Club members, Shark Clean & Empty Cordless Stick Vacuum with Auto-Empty System, $118.79, FS PLUS",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T21:31:29.608494Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Rhewatin Twister Arm Trainer (80-110lb) $9.99 + Free S&H w/ Prime or $35+",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-12T21:25:57.228733Z",
