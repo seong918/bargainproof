@@ -1,5 +1,37 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$14.93 S&S AMAZON Icelandic Glacial Alkaline Water, 330mL (Pack of 30)",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-12T00:05:46.931423Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Up to 80% Off Walmart Women’s Sandals | Styles from UNDER $6!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T00:05:46.931423Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Tissot Carson Automatic Blue Dial Men's Watch $270",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T00:05:46.931423Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Chewy 50% Off First Prescription Auto-Ship (Up to $50/$100 Off)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T00:05:46.931423Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Brushed Gold Farmhouse Chandelier with White Fabric Shades $24.39",
   "reason": "Not evaluated",
