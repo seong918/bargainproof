@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "21457621cc89",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20004870-38-81-4-piece-irwin-vise-grip-pliers-set-2078707-at-amazon",
+  "title": "4-Piece IRWIN VISE-GRIP Pliers Set (2078707)",
+  "raw_title": "$38.81 | 4-Piece IRWIN VISE-GRIP Pliers Set (2078707) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B000CFMCTK",
+  "deal_total_cents": 3881,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 3881,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 3881,
+  "amazon_url": "https://www.amazon.com/dp/B000CFMCTK",
+  "amazon_checked_at": "2026-09-12T10:32:05.194392Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 2,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B000CFMCTK",
+  "image_url": null,
+  "published_at": "2026-09-12T10:32:00.818576Z"
+ },
+ {
   "deal_id": "1643b013b161",
   "source": "techbargains",
   "source_url": "https://www.amazon.com/gp/product/B007I7KZN0/ref=ox_sc_act_title_1",
