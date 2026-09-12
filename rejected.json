@@ -1,5 +1,45 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Cuisinart CNP-650 Non-Stick Rectangular Grill Topper $19.98",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-12T09:36:43.426767Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "WFEAGL Women's Leather Band for Apple Watch for $8 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T09:36:43.426767Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ben Sherman Kendall Polarized Classic Aviator Sunglasses $18 + Free S&H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T09:36:43.426767Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Keyluv King Upholstered Canopy Bed Frame with 3 Storage Drawers & Button Tufted Headboard, Metal Platform Bed with 4 Removable Posts, Two-Purpose Velvet Bed $267.74",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-12T09:31:10.150765Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "1L Adidas Steel Metal Water Bottle (3 colors) $16.00 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T09:31:10.150765Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Insignia 24\" 11.5-Cu. Ft. Bottom Mount Refrigerator for $470 + free shipping",
   "reason": "Not evaluated",
