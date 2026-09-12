@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "7477ce8ba585",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20006358-199-99-dewalt-20v-max-1-2-cordless-impact-wrench-tool-only-at-amazon",
+  "title": "DEWALT 20V MAX 1/2\" Cordless Impact Wrench (Tool Only)",
+  "raw_title": "$199.99* | DEWALT 20V MAX 1/2\" Cordless Impact Wrench (Tool Only) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0B9T68W3B",
+  "deal_total_cents": 19999,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 19999,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 19999,
+  "amazon_url": "https://www.amazon.com/dp/B0B9T68W3B",
+  "amazon_checked_at": "2026-09-12T19:46:05.755419Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0B9T68W3B",
+  "image_url": null,
+  "published_at": "2026-09-12T19:46:01.365599Z"
+ },
+ {
   "deal_id": "cb0fb39e4831",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20006106-2-pack-szpower-6000lm-6-head-solar-motion-sensor-flood-lights-22-99-free-shipping-w-prime-or-on-35",
