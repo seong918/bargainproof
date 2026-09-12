@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "62698cc4e405",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20006439-249-99-50-amazon-ql50f-omni-qled-4k-60hz-smart-fire-tv-at-amazon",
+  "title": "50\" Amazon QL50F Omni QLED 4K 60Hz Smart Fire TV",
+  "raw_title": "$249.99* | 50\" Amazon QL50F Omni QLED 4K 60Hz Smart Fire TV at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B09N6TPZ1K",
+  "deal_total_cents": 24999,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 24999,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 24999,
+  "amazon_url": "https://www.amazon.com/dp/B09N6TPZ1K",
+  "amazon_checked_at": "2026-09-12T20:13:53.025683Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B09N6TPZ1K",
+  "image_url": null,
+  "published_at": "2026-09-12T20:13:48.534436Z"
+ },
+ {
   "deal_id": "7477ce8ba585",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20006358-199-99-dewalt-20v-max-1-2-cordless-impact-wrench-tool-only-at-amazon",
