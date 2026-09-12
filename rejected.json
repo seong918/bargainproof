@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS, AC] $18.09* | 4-Pk 24-Oz Bob's Red Mill Gluten Free Pancake & Waffle Mix at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs clip coupon, Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-12T08:18:57.563454Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "3-Pack Bedsure Ultra-Soft Flannel Fleece Pet Blankets (Happy Pups): 23\"x16\" $5.99, 30\"x20\" $9.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+-1) to pass without a price check — needs multi-pack, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-12T08:18:57.563454Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "UGREEN 100W Nexode 4-Port GaN Foldable Wall Charger (3x USB-C + 1x USB-A) $23.99 + Free S&H w/ Walmart+ or $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T08:18:57.563454Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Wenrine Women's Casual Floral Boho Mini Beach Sundress $9.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-12T08:13:22.861126Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Women's Ribbed Knit V-Neck Cami Tank Top $5",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T08:13:22.861126Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bedsure Washable Dog Crate Bed (Various Color & Sizes) from $12.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-12T08:07:48.395303Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "UGREEN 5-Port USB-C Hub w/ 4K HDMI/100W PD & 3x USB-A Ports $10.33 + Free S&H w/ Walmart+ or $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T08:07:48.395303Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Clarins DOUBLE SERUM Light Texture To Firm, Boost Radiance & Refine Pores $96",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T08:07:48.395303Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "NTONPOWER 15' Braided Flat Plug Power Strip w/ 3 Outlets & 2 USB Ports (White) $15.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-12T08:02:14.609782Z",
