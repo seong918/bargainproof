@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "fb4d7e84dac7",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20004648-ac-41-84-zojirushi-sd-ka100h-hm-stainless-cool-bottle-34-ounce-misty-gray-at-amazon",
+  "title": "Zojirushi SD-KA100H-HM Stainless Cool Bottle, 34-Ounce, Misty Gray",
+  "raw_title": "[AC] $41.84 | Zojirushi SD-KA100H-HM Stainless Cool Bottle, 34-Ounce, Misty Gray at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0H3286T6L",
+  "deal_total_cents": 4184,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 6900,
+  "amazon_coupon_cents": 2716,
+  "amazon_effective_cents": 4184,
+  "amazon_url": "https://www.amazon.com/dp/B0H3286T6L",
+  "amazon_checked_at": "2026-09-12T07:12:17.887826Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0H3286T6L",
+  "image_url": null,
+  "published_at": "2026-09-12T07:12:14.027479Z"
+ },
+ {
   "deal_id": "78e8d1ce3027",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20004633-19-81-20-oz-zojirushi-gocafe-insulated-stainless-steel-mug-at-amazon",
