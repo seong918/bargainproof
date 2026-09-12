@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[NEW] $68.40 | 3.4-Oz Oscar de la Renta Bella Blanca at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-12T06:05:37.654860Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon ~ 5000 Pony Beads 48 colors for Hair and Crafts $10.49 (50% off)",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-12T06:05:37.654860Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "G Gradual Men's Lightweight Short Sleeve Golf Polo Tee (Various) $12.95 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-12T06:05:37.654860Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Pack Affixar Double Sided Nano Mounting Tape (Crystal Clear) $8.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+4) to pass without a price check — needs multi-pack, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-12T05:54:30.256591Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "PORTBOR Portable Bluetooth 5.3 Wireless Speaker w/ IPX5 Waterproof & LED Light Modes $13.40 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-12T05:54:30.256591Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "3-Piece Wusthof Gourmet Kitchen Knife Essentials Set w/ 6\" Chef's Knife, Paring Knife & Shears (Grey) $79.00 + Free Shipping",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-12T05:54:30.256591Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$50 Tractor Supply PICK UP 20 lb. Steel DOT Vertical LP Gas Cylinder Equipped with OPD Valve",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T05:54:30.256591Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "20\" AKOFUN IP65 Waterproof Outdoor Caged Ceiling Fan w/ Light, Remote & DC Motor (Black) $71.50 + Free Shipping",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-12T05:48:55.965922Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Kanosan Compatible for Samsung Galaxy Z Fold 8 Ultra/Z Fold 7 Camera Lens Protector $4.49 AC",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-12T05:43:23.987799Z",
