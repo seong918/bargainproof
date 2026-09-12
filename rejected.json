@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Indomie Mi Goreng Instant Stir Fry Noodles, Halal Certified, Original Flavor, 5 Count - Pack of 6 as low as $14.26",
+  "reason": "Posted at $14.26, but Amazon showed $16.01 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-12T19:29:25.833606Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Dyson Supersonic Nural Hair Dryer with Chitosan Post-Style Serum $329.99 + $9.99 shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T19:29:25.833606Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Dyson Airstrait Wet-to-Dry Straightener with Omega Hydrating Hair Oil $379.99 + $9.99 Shipping Costco.com",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-12T19:23:55.445036Z",
