@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "6f1eecdcb74e",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20004693-119-50-western-digital-1tb-sn850-nvme-ssd-for-ps5-consoles-at-amazon",
+  "title": "Western Digital 1TB SN850 NVMe SSD for PS5 Consoles",
+  "raw_title": "$119.50* | Western Digital 1TB SN850 NVMe SSD for PS5 Consoles at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0B4SQB1HY",
+  "deal_total_cents": 11950,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 11950,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 11950,
+  "amazon_url": "https://www.amazon.com/dp/B0B4SQB1HY",
+  "amazon_checked_at": "2026-09-12T07:40:05.803267Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0B4SQB1HY",
+  "image_url": null,
+  "published_at": "2026-09-12T07:40:01.506549Z"
+ },
+ {
   "deal_id": "f73b1ac668dd",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20004690-28-48-29-pc-ingjer-1-2-deep-impact-sae-metric-socket-set-at-amazon",
