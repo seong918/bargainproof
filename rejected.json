@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Rhewatin Twister Arm Trainer (80-110lb) $9.99 + Free S&H w/ Prime or $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-12T21:25:57.228733Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Apple 12.9\" iPad Pro (2021 Model) - Wi-Fi + Cellular, 256GB Storage Open Box $799.76",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T21:25:57.228733Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Zojirushi CD WGC40TS Micom Water Boiler and Warmer, 4.0 L, Silver $138.48 + Free S&H at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-12T21:20:25.961898Z",
