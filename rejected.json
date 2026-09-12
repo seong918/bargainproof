@@ -1,5 +1,77 @@
 [
  {
+  "source": "dealcatcher",
+  "raw_title": "Round Trip El Paso TX to Denver Nonstop Airfares on Southwest or United Airlines $157.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T16:15:32.185202Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Corsair VOID v2 MAX WIRELESS Gaming Headset for Xbox - Carbon (Refurbished, Revival Series) $54.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T16:15:32.185202Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Citizen Luke Skywalker Chronograph Blue Dial Men's Watch $254.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T16:15:32.185202Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "DeWalt 12-Gallon 5.5 HP Stealthsonic Quiet Wet / Dry Vacuum for $70 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T16:15:32.185202Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "AI Smart Glasses Just $39.99 Shipped on Amazon (Reg. $80) | 4K Camera, Translation + More",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T16:15:32.185202Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Up to 75% Off Old Navy Shoes | Styles from $2.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T16:15:32.185202Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "36-Pack Joyask Vibrant Retractable Glitter Gel Pens $9.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-12T16:15:32.185202Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "JOYROOM Bluetooth 5.4 FM Transmitter + 84W PD & QC 3.0 USB C Car Charger $11 @ Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-12T16:15:32.185202Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "MelodySusie 1600w Hair Dryer with Diffuser $19 + Free S/H",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-12T16:15:32.185202Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "slickdeals",
   "raw_title": "SKIPPY Natural Creamy Peanut Butter Spread, Plant Based Protein, 15oz x12 $23.01 w/SS",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
