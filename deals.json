@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "fefb880cd64e",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20006784-147-18-ge-disposall-continuous-feed-1-hp-motor-garbage-disposer-at-amazon",
+  "title": "GE Disposall Continuous Feed 1 HP Motor Garbage Disposer",
+  "raw_title": "$147.18 | GE Disposall Continuous Feed 1 HP Motor Garbage Disposer at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0CWPL2TRT",
+  "deal_total_cents": 14718,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 14718,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 14718,
+  "amazon_url": "https://www.amazon.com/dp/B0CWPL2TRT",
+  "amazon_checked_at": "2026-09-12T22:54:49.067913Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0CWPL2TRT",
+  "image_url": null,
+  "published_at": "2026-09-12T22:54:45.011538Z"
+ },
+ {
   "deal_id": "cfc274a62ea6",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20006520-prime-0-93-rainspire-swivel-vegetable-peeler-black-at-amazon",
