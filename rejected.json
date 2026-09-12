@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon – 2-Pack Lukaree Liver Cleanse Gummies, 120-Count - $10.18 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-12T04:48:06.618390Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Kobalt 65-Piece Metric & SAE Mechanics Tool Set w/ Hard Case $34.92 + Free Store Pickup at Lowe's or Free Shipping on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T04:48:06.618390Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Lukaree Evening Primrose Oil 1000mg, 90-Count - $7.69 w/ Code + Coupon",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-12T04:42:37.737620Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Lukaree Wormwood Black Walnut Soursop Drops - $7.34 w/ Code + Coupon",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-12T04:42:37.737620Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS] $13.94 | 6-Pack 7.4-Oz Nishiki Cooked Brown Rice at Amazon ($2.32 each)",
+  "reason": "Community score too low (+3) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-12T04:42:37.737620Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[NEW, SnS] $73.53 | 3.3-Oz Calvin Klein Euphoria Magnetic Elixir Parfum Intense at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-12T04:42:37.737620Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bluetooth Speaker, Portable Wireless, 20W HD Stereo Sound, 30H Playtime $19.4",
+  "reason": "Posted at $19.40, but Amazon showed $49.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-12T04:42:37.737620Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Griots Garage G9 Polisher $130 + Free Shipping (with coupon code)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T04:42:37.737620Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon – Dolxico Girls Long-Sleeve Knit Sweater Dress - $14.99–$15.99 w/ Code",
   "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-12T04:37:04.196673Z",
