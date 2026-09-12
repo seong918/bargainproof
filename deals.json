@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "69300b470b84",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20006388-365-by-whole-foods-market-pitted-prunes-8-ounce-2-after-coupon-s-s-amazon-buy-4-save-more",
+  "title": "365 by Whole Foods Market, Pitted Prunes, 8 Ounce~ & S&S @ Amazon~Buy 4 & Save More!",
+  "raw_title": "365 by Whole Foods Market, Pitted Prunes, 8 Ounce~$2 After Coupon & S&S @ Amazon~Buy 4 & Save More!",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 200,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-12T23:11:21.467974Z"
+ },
+ {
   "deal_id": "43e6ee2eda4b",
   "source": "techbargains",
   "source_url": "https://www.amazon.com/gp/product/B0GVTPKJVT/ref=ox_sc_act_title_1",
