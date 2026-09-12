@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "79dbb2beafbc",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20006244-6-20-storex-large-caddy-teal-13-x11-x6-4-at-amazon",
+  "title": "Storex Large Caddy (Teal, 13\"x11\"x6.4\")",
+  "raw_title": "$6.20* | Storex Large Caddy (Teal, 13\"x11\"x6.4\") at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B07B4L5Q1X",
+  "deal_total_cents": 620,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 620,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 620,
+  "amazon_url": "https://www.amazon.com/dp/B07B4L5Q1X",
+  "amazon_checked_at": "2026-09-12T19:01:49.582998Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B07B4L5Q1X",
+  "image_url": null,
+  "published_at": "2026-09-12T19:01:45.357423Z"
+ },
+ {
   "deal_id": "08b85f05752c",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20005812-10-48-ac-singing-and-dancing-rechargable-robot-amazon",
