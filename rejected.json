@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[NEW, SnS] $17.95 | 12-Pack 2.62-Oz OLD BAY Garlic Herb Seasoning at Amazon ($1.50 each)",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-12T05:26:49.297920Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $23.50 | 3 × 2.65-Oz Native Deodorant (Coconut & Vanilla) ($7.83 each) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs clip coupon, Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-12T05:26:49.297920Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Wolliwa 2-20 Lbs Adjustable Weighted Vest w/ 14 Removable Sandbags $12.99 + Free S&H w/ Prime at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T05:26:49.297920Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "bObsweep - Bio Self-Empty Robot Vacuum & Mop w. 100-Day Dock, Reusable Activated Charcoal Odor Filtration Bags, Made of Bio-Plastic $219.99 Bestbuy.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T05:26:49.297920Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "POKINI 12-Piece Porcelain Dinnerware Set w/ Gold Rim $37.49 + Free Shipping",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-12T05:21:16.439234Z",
