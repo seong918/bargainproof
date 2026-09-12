@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS, AC] $11.01 | 81-Count Amazon Basic Care Mini Nicotine Polacrilex Lozenge, 2 mg (Citrus) at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — needs clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-12T10:26:29.779768Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC] $49.21 | Cooler Master 240 Core II AIO Liquid CPU Cooler, Infinity Mirror ARGB at Amazon",
+  "reason": "Posted at $49.21, but Amazon showed $58.79 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-12T10:26:29.779768Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$132.99 | DEWALT 20V MAX Cordless 4 1/2 Inch Paddle-Switch Grinder, Bare Tool Only (DCG408B) at Amazon",
+  "reason": "Posted at $132.99, but Amazon showed $118.68 when we checked — the post is stale",
+  "rejected_at": "2026-09-12T10:26:29.779768Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Glomax 16-oz. Ceramic Coating Car Wax Spray for $10 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T10:20:56.730833Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "BEDELITE 3-Piece Queen Comforter Set (Pink) $13.68 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-12T10:15:24.145862Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS] $15.15 | 120-Count Optimum Nutrition Opti-Women Daily Multivitamin Supplement at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-12T10:15:24.145862Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "90\" x 90\" Queen-Size Cooling Comforter for $9.92 w/ Prime + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T10:15:24.145862Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Samsung Galaxy S26 256GB Mint Mobile Android Smartphone: Free w/ trade-in + 1yr of Unlimited for $15/month + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T10:15:24.145862Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[Prime] BEDELITE Striped Twin Comforter Set (Blush Pink) $14.81 + Free Shipping",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-12T10:09:55.900494Z",
