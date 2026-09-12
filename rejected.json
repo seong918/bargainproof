@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "60-Color CraftyManor Shimmer Metallic Solid Watercolor Paint Set (Fantasy Forest) $11.19 & More + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-12T08:46:46.420927Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Walmart Flash Deals: Up to 65% off + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T08:46:46.420927Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC] $7.11* | 5\" Lodge Cast Iron Square Pre-Seasoned Wonder Skillet at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-12T08:46:46.420927Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CITIZEN Men's Eco-Drive Promaster Dive 4 44mm Stainless Steel BN0151-09L $237.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-12T08:35:37.076104Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "4-Oz Blue Buffalo Baby Blue Savory Chicken Puppy Training Treats $2.74 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-12T08:35:37.076104Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Patbrela Adjustable Resistance Exercise Bike $89.99 + Free S&H at Walmart",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-12T08:30:04.581064Z",
@@ -71182,14 +71222,6 @@
   "rejected_at": "2026-09-05T07:11:27.297764Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Walmart Flash Deals: Up to 65% off + free shipping w/ $35",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-05T07:11:27.297764Z",
-  "code": "duplicate",
-  "public": true
  },
  {
   "source": "techbargains",
