@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[NEW] $4 | 5.5-Oz Red Devil Pre-Mixed Tile Grout (White) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-12T00:44:41.635353Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Seiko Men's Chronograph Quartz Watch for $159 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T00:39:06.417450Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Pack 6.87\" Milwaukee Fastback Compact Folding Utility Knife Set (Red) $15.97 + Free S&H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T00:39:06.417450Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Scotch General Purpose Contractor Grade Masking Tape (1.41'' x 60.1 Yd.) $2.98 + Free S&H w/ Prime or $35+",
   "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-12T00:16:55.329644Z",
