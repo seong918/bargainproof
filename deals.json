@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "1105d6c52ad7",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20005275-s-s-18-pk-12-oz-polar-seltzer-water-blackberry-mango-7-95-free-s-h-w-prime-or-35",
+  "title": "18 Pk 12 Oz Polar Seltzer Water Blackberry Mango + or",
+  "raw_title": "[S&S]18 Pk 12 Oz Polar Seltzer Water Blackberry Mango $7.95 + Free S&H w/ Prime or $35+",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0DK7N969Z",
+  "deal_total_cents": 795,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "sns",
+   "prime"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 837,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 837,
+  "amazon_url": "https://www.amazon.com/dp/B0DK7N969Z",
+  "amazon_checked_at": "2026-09-12T15:25:49.443981Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0DK7N969Z",
+  "image_url": null,
+  "published_at": "2026-09-12T15:25:44.495704Z"
+ },
+ {
   "deal_id": "84f4f8ece478",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20004891-resale-155-43-88-oz-ninja-slushi-frozen-drink-slushie-machine-used-like-new-at-amazon",
