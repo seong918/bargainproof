@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "13e4b77c3cba",
+  "source": "techbargains",
+  "source_url": "https://www.amazon.com/gp/product/B0CQSKC3XN/ref=ox_sc_act_title_1",
+  "title": "Lilyvane Garden Tool Set (5-Piece) with Extensions",
+  "raw_title": "Lilyvane Garden Tool Set (5-Piece) with Extensions $9.99",
+  "merchant": "amazon",
+  "buy_url": "https://www.amazon.com/gp/product/B0CQSKC3XN/ref=ox_sc_act_title_1",
+  "deal_total_cents": 999,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 999,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 999,
+  "amazon_url": "https://www.amazon.com/dp/B0CQSKC3XN",
+  "amazon_checked_at": "2026-09-12T11:27:32.185318Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": null,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0CQSKC3XN",
+  "image_url": null,
+  "published_at": "2026-09-12T11:27:27.445476Z"
+ },
+ {
   "deal_id": "95c8e10732bd",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20004627-sns-ac-10-77-18-pack-1-6-oz-l-rabar-fruit-nut-bars-variety-pack-at-amazon-59-8-each",
