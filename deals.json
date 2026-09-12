@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "d960bcb69645",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20004759-heavy-duty-smart-padlock-w-app-smartwatch-control-usb-c-rechargeable-13-99-after-clipping-10-coupon-free-us-shipping",
+  "title": "Heavy Duty Smart Padlock w/ App & Smartwatch Control (USB-C Rechargeable) after clipping coupon + Free US Shipping",
+  "raw_title": "Heavy Duty Smart Padlock w/ App & Smartwatch Control (USB-C Rechargeable) $13.99 after clipping $10 coupon + Free US Shipping",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0HDD7M3ZF",
+  "deal_total_cents": 1399,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 2399,
+  "amazon_coupon_cents": 1000,
+  "amazon_effective_cents": 1399,
+  "amazon_url": "https://www.amazon.com/dp/B0HDD7M3ZF",
+  "amazon_checked_at": "2026-09-12T09:14:36.343677Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 0,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0HDD7M3ZF",
+  "image_url": null,
+  "published_at": "2026-09-12T09:14:32.282962Z"
+ },
+ {
   "deal_id": "0cb116bf741d",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20004729-philips-sonicare-diamondclean-9500-electric-toothbrush-3-brush-heads-black-199-97",
