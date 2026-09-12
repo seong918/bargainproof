@@ -1,5 +1,45 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "SODEN 7\" Meat Cleaver Knife VG-10 Damascus Steel $29.99",
+  "reason": "Posted at $29.99, but Amazon showed $38.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-12T17:16:33.049988Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ekouaer Women's Long-Sleeve Turtleneck Tops $5.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T17:16:33.049988Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Dolxico Girls Long-Sleeve Knit Sweater Dress $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T17:16:33.049988Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Camping Blanket w/ Detachable Hood Only $24.98 on SamsClub.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T17:16:33.049988Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Travelzoo Members] 4* Sheraton San Diego Resort From $169 Per Night, Waived Daily Resort Fees; $50 Food Credit; Paddleboard Rental For 2 and More (Travel Thru December 2026)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T17:16:33.049988Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "LAUSAINT HOME 43\" Rectangular Propane Fire Pit Table w/ Lid & Glass Wind Guard $189.99",
   "reason": "Not evaluated",
