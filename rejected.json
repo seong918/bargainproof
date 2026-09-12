@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[Resale] $109 | Sony STRDH190 2-ch Home Stereo Receiver with Phono Inputs & Bluetooth Black (Used - Like New) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-12T11:10:51.753034Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[NEW, AC] $284.75 | 3.4-Oz Bond No. 9 New York Bleeker Street Unisex Eau de Parfum at Amazon",
+  "reason": "Posted at $284.75, but Amazon showed $335.00 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-12T11:10:51.753034Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Golden Island 17oz Korean BBQ Variety Pack (15-Pack, Pork Jerky & Pork Snack Bites) $18.65",
+  "reason": "Posted at $18.65, but Amazon showed $30.20 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-12T11:10:51.753034Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M12 FUEL 12-Volt Lithium-Ion Brushless Cordless HACKZALL Reciprocating Saw Kit with XC High Output 5.0 Ah Battery $199",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T11:10:51.753034Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[SnS] $4.27 | 7-Oz Blue Diamond Almonds Toasted Almonds and Dried Cherries at Amazon",
   "reason": "Community score too low (+3) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-12T11:05:20.245568Z",
