@@ -1,5 +1,37 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "[S&S, AC] $17.12: AmazonFresh 80 Ct. K-Cups, French Vanilla Flavored Medium Roast $17.11",
+  "reason": "Community score too low (+0) to pass without a price check — needs clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-12T13:34:57.111184Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC] $15.07: Hydro Flask Water Bottle, Insulated Stainless Steel, Wide Mouth Flex Straw Lid, 32 oz, Holiday Punch",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-12T13:34:57.111184Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "DEWALT 6-Gallon Wet/Dry Shop Vacuum Just $69.98 Shipped on Lowes.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T13:34:57.111184Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Shark Vacuum and Empty Cordless $118.79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T13:34:57.111184Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "hip2save",
   "raw_title": "Nutella & Go 10-Count Snack Pack Just $9.73 Shipped on Amazon",
   "reason": "Not evaluated",
