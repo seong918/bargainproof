@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "6bf82344b9af",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20005356-new-10-79-tulip-colorshot-fabric-spray-paint-3-pack-jewel-tone-gem-colors-neon-pink-glitter-gold-purple-at-amazon",
+  "title": "TULIP ColorShot Fabric Spray Paint, 3 Pack Jewel Tone Gem Colors Neon Pink, Glitter Gold, Purple",
+  "raw_title": "[NEW] $10.79 | TULIP ColorShot Fabric Spray Paint, 3 Pack Jewel Tone Gem Colors Neon Pink, Glitter Gold, Purple at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0D55V7PMG",
+  "deal_total_cents": 1079,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 1079,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1079,
+  "amazon_url": "https://www.amazon.com/dp/B0D55V7PMG",
+  "amazon_checked_at": "2026-09-12T13:51:38.085494Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0D55V7PMG",
+  "image_url": null,
+  "published_at": "2026-09-12T13:51:33.405722Z"
+ },
+ {
   "deal_id": "ffa395673dc4",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20005101-sns-ac-9-74-16-pack-1-6-oz-l-rabar-gluten-free-vegan-fruit-nut-bar-banana-bread-at-amazon",
