@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "72-Pk 10-Ct Kleenex On-The-Go Ultra Facial Tissues $14.98 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-12T02:18:26.463334Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CAMELSPORTS Men's Winter Ski Jacket Snow Coats Waterproof Detachable Hood Windproof Rain Jackets Black Large $24.99",
+  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-12T02:12:53.140277Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$65.99 ac WALMART FS by Walsunny 2 Person Outdoor Glider Bench, Patio Loveseat Rocking Chair with Powder-Coated Steel Frame and Breathable Textilene Fabric for Porch",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T02:12:53.140277Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$30 FS Walmart+ by CAROTE 9-Piece Stackable Nonstick Bakeware Set, Includes Cookie Sheet, Muffin, Bread, Cake, Loaf & Roasting Pans,",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-12T02:01:46.701700Z",
