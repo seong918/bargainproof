@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS] $0.95** | 1.5-Oz Coppertone Sport SPF 40 Face & Body Sunscreen Stick at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-12T06:33:21.848018Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "524-Pc LEGO Disney: Dresses Maleficent's and Cruella De Vil's Dresses (43262) $33.57 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T06:27:47.864028Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Mersco 12FT Kids Trampoline, ASTM Certified Heavy Duty Outdoor Trampoline with Safety Enclosure Net Basketball Hoop and Ladder for Backyard Family Fun, Trampoline SUPER $199.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-12T06:22:15.219961Z",
