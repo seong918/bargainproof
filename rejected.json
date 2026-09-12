@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Ekouaer Womens Robe Long Kimono Bathrobe Lightweight Sleepwear with Pockets $11.99",
+  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-12T04:59:06.633343Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LG 65\" 4K UHD 65UA7500 AI Smart TV $399.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T04:59:06.633343Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Kobalt 102-Piece Metric & SAE Mechanics Tool Set w/ Hard Case $44.92 + Free Shipping (YMMV)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T04:53:35.590166Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$2.88 HOME DEPOT 2 gal. Orange Halloween Bucket Free Pick up or free delivery",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T04:53:35.590166Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon – 2-Pack Lukaree Liver Cleanse Gummies, 120-Count - $10.18 w/ Code",
   "reason": "Community score too low (+1) to pass without a price check — needs promo code, multi-pack, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-12T04:48:06.618390Z",
