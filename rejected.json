@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "43mm Citizen Men's Eco-Drive Sport Luxury PCAT Chronograph Watch $344 + Free S&H",
+  "reason": "Posted at $344.00, but Amazon showed $343.86 when we checked — the post is stale",
+  "rejected_at": "2026-09-12T06:50:01.867763Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Adidas Men's Adilette Lumia Slides (Trace Khaki) $11.00 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T06:50:01.867763Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Adidas Men's Essentials 3-Stripes Track Suit (Blackl/White) $28.00 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T06:44:28.220927Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[SnS] $0.95** | 1.5-Oz Coppertone Sport SPF 40 Face & Body Sunscreen Stick at Amazon",
   "reason": "Same deal was already posted from another source",
   "rejected_at": "2026-09-12T06:33:21.848018Z",
