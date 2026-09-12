@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "NTONPOWER 15' Braided Flat Plug Power Strip w/ 3 Outlets & 2 USB Ports (White) $15.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-12T08:02:14.609782Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "YMMV - business deal only Western Digital 8TB Elements Desktop External Hard Drive $191.99 at amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-12T08:02:14.609782Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "FREE Pokemon Mewtwo Promo Card w/ $15 Purchase at Select Stores",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-12T07:51:08.112566Z",
