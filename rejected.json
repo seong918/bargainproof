@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon - Cordless Shoulder Heating Pad with Massage 5 Heat & Vibration Modes - $34.39",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-12T04:09:28.442175Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DEWALT DCBL722B 20V MAX* XR Brushless Cordless Handheld Blower (Tool Only) $139",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T04:09:28.442175Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee Tool 48-11-2450 Battery Pack 12V 5.0 Ah Lithium-Ion Compatible with M12 Tools $59",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T04:09:28.442175Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon – 2-Pack Artificial Topiary Bushes w/ Stakes - $19.5 w/ Code",
   "reason": "Community score too low (+1) to pass without a price check — needs promo code, multi-pack, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-12T04:03:58.636881Z",
