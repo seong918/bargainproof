@@ -1,6 +1,198 @@
 [
  {
   "source": "dealcatcher",
+  "raw_title": "Round Trip Philadelphia to Liberia Costa Rica Airfares on American Airlines $338.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T14:46:54.180865Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Nike Women's Winflo 11 Running Shoes (Purple/Silver) $50.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T14:46:54.180865Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "HyperX Cloud Alpha Wireless Gaming Headset for PC/Playstation $69.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T14:46:54.180865Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Adidas Men's Handball Spezial Shoes (Green) $43.17",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T14:46:54.180865Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Black+Decker Smart 14,000 BTU Portable Air Conditioner for $250 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T14:46:54.180865Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Kitchen Knife 14-Piece Set Just $22.99 Shipped on Amazon (Reg. $46)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T14:46:54.180865Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Microsoft Bundle: Windows 11 Pro + Office Pro 2024 + Project Pro 2024 + Visio Pro 2024 (Lifetime, 1 PC, Digital Download) $20",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T14:46:54.180865Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS] $3.77* | 6-Pk 20-Oz Gatorade Lower Sugar Sports Drink (Rain Berry) at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-12T14:46:54.180865Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Avidlove Women's Exotic Lingerie Sets Naughty 2 Pieces Lace Bra Panty Set $4.99",
+  "reason": "Posted at $4.99, but Amazon showed $16.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-12T14:41:21.113244Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "SKILSAW SPT67WL-01 15 Amp 7-1/4 In. Sidewinder Circular Saw $89.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T14:41:21.113244Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Patagonia Women's Ahnya 1/4-Zip Fleece Pullover Sequoia Red $51.73",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T14:41:21.113244Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Brooks Men's Hyperion 3 Running Shoes $108.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T14:41:21.113244Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "All In Motion 23L Faux Neoprene Backpack w/ Laptop Pocket $15.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T14:41:21.113244Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Round Trip Key West FL to San Francisco Airfares on American Airlines $301.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T14:41:21.113244Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Nike Men's Clearance Deals at Dick's Sporting Goods: Extra 25% off, up to 70% off, ending today + free shipping w/ $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T14:41:21.113244Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "College Sale & Clearance Deals at Fanatics: Up to 82% off + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T14:41:21.113244Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GOOLOO GE2000 2000A Portable Jump Starter, Starts Up to 8.0L Gas & 6.0L Diesel Engines, Compact Car Battery Booster with SuperSafe BOOST Mode, LCD Display & USB-C Charging $45.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T14:41:21.113244Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Dick's Sporting Goods Clearance Deals: Extra 25% off, up to 70% off, ending today + free shipping w/ $49",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-12T14:41:21.113244Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Avidlove Plus Size Lingerie Exotic Teddies Bodysuit One Piece Lace Babydoll $4.99",
+  "reason": "Posted at $4.99, but Amazon showed $9.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-12T14:35:50.141712Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Alyeska 62.5\" Long Reclining Single Chaise with Cushions $420.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T14:35:50.141712Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Round Trip Philadelphia to Anchorage Alaska Airfares $403.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T14:35:50.141712Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Star Trek: Lower Decks The Complete Series on Blu-ray for $28 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T14:35:50.141712Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Igloo Foldable Reusable MaxCold Soft Coolers(16-Can) $17.79 + Free S&H w/ Prime or $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T14:35:50.141712Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Round Trip Portland OR to Stockholm Sweden $373 Airfares on Icelandair BE (Limited Travel October - December 2026)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T14:35:50.141712Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
   "raw_title": "Adidas Questar 4 Running Shoes $36.00",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-12T14:30:18.413746Z",
