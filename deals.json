@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "8d2ae3a99b5a",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20004063-amazon-grocery-canned-traditional-refried-beans-16-oz-x-4-2-82-after-multibuy-s-s-amazon",
+  "title": "Amazon Grocery, Canned Traditional Refried Beans, 16 Oz x 4~ After Multibuy & S&S",
+  "raw_title": "Amazon Grocery, Canned Traditional Refried Beans, 16 Oz x 4~$2.82 After Multibuy & S&S @ Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0BZBGMGK7",
+  "deal_total_cents": 282,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "sns"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 83,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 83,
+  "amazon_url": "https://www.amazon.com/dp/B0BZBGMGK7",
+  "amazon_checked_at": "2026-09-12T07:56:45.917973Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0BZBGMGK7",
+  "image_url": null,
+  "published_at": "2026-09-12T07:56:41.698728Z"
+ },
+ {
   "deal_id": "6f1eecdcb74e",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20004693-119-50-western-digital-1tb-sn850-nvme-ssd-for-ps5-consoles-at-amazon",
