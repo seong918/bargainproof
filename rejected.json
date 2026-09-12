@@ -1,5 +1,13 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee SHOCKWAVE 3/8 in. Drive Metric Deep Well 6 Point Impact Socket Set (14-Piece) $49.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T11:21:54.904997Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Larabar Fruit and Nut Bars Variety Pack (28.8oz, 18-Count) $10.87",
   "reason": "Posted at $10.87, but Amazon showed $11.44 when we checked — the deal is probably over",
@@ -12590,14 +12598,6 @@
   "rejected_at": "2026-09-11T03:14:55.489890Z",
   "code": "low_score",
   "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Milwaukee SHOCKWAVE 3/8 in. Drive Metric Deep Well 6 Point Impact Socket Set (14-Piece) $49.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T03:14:55.489890Z",
-  "code": "not_checked",
-  "public": false
  },
  {
   "source": "slickdeals",
