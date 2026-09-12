@@ -1,5 +1,109 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$709.99: Samsung 27\" Odyssey G8 (G80HF) Gaming Monitor",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-12T13:07:16.578553Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$107.99: DEWALT DCD740B 20-Volt MAX Li-Ion Right Angle Drill (Tool Only)",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-12T13:07:16.578553Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Apple iPhone 18 Pro Max Smartphone for Preorder for $100 w/ trade-in + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T13:07:16.578553Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Apple iPhone 18 Pro Max 256GB for T-Mobile for Preorder for $2.78/month w/ trade-in + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T13:07:16.578553Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Vanguard VEO 5 234C Carbon Fiber Tripod with BH-110S Ball Head $159.99 + Free Pickup at B&H Photo Video",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T13:07:16.578553Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Wosports 1200 Yards Golf Rangefinder with Slope $29.99",
+  "reason": "Posted at $29.99, but Amazon showed $39.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-12T13:01:43.062345Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Too Faced Better Than Sex Mascara Just $13.77 Shipped on Amazon (Reg. $29)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T13:01:43.062345Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "HonestBaby Short Sleeve Bodysuits 5-Pack $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T12:56:08.722040Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Chums Rover Phone Tote Crossbody Sling Bag (Palm Tree) $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T12:56:08.722040Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Lumbar Support Pillow $15.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T12:56:08.722040Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$19 FS Walmart+ by Great Star WORKPRO 13-inch Pink Tool Bag, Soft Cloth Storage Tote with Wide Mouth Opening and Interior Pockets, Pink Ribbon Edition",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T12:56:08.722040Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$229.49 FS WALMART by Great Star WORKPRO 45\" Garage Workbench with Storage, Heavy-Duty Workbench with Pegboard, Power Outlets and Light, 800 LBS Work Bench",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T12:56:08.722040Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS] $12.82 | tarte maracuja juicy lip plump at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-12T12:56:08.722040Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "dealnews",
   "raw_title": "Apple iPhone 18 Pro Max 256GB Phone for AT&T / Verizon for Preorder for $100 w/ trade-in + free shipping",
   "reason": "Not evaluated",
