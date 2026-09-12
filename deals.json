@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "56e184e3e3eb",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20006529-new-22-75-beverly-hills-cop-3-movie-collection-4k-ultra-hd-blu-ray-digital-at-amazon",
+  "title": "Beverly Hills Cop: 3-Movie Collection (4K Ultra HD + Blu-ray + Digital)",
+  "raw_title": "[NEW] $22.75 | Beverly Hills Cop: 3-Movie Collection (4K Ultra HD + Blu-ray + Digital) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0CPVMH66W",
+  "deal_total_cents": 2275,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 2275,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 2275,
+  "amazon_url": "https://www.amazon.com/dp/B0CPVMH66W",
+  "amazon_checked_at": "2026-09-12T20:58:19.857006Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0CPVMH66W",
+  "image_url": null,
+  "published_at": "2026-09-12T20:58:13.359267Z"
+ },
+ {
   "deal_id": "026eab465fb6",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20006490-20-99-risophy-wired-wireless-104-key-rgb-backlit-mechanical-keyboard-red-switches-at-amazon",

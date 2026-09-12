@@ -1,5 +1,85 @@
 [
  {
+  "source": "dealcatcher",
+  "raw_title": "Hydro Flask Standard Mouth Flex Insulated Water Bottle 21-Oz $20.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T20:58:13.359267Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Citizen Men's Eco-Drive Weekender Garrison Field Watch 43mm $147.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T20:58:13.359267Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Hanes Men's Ultimate Comfort Fit Cotton Stretch Crewneck Undershirts Multipack $19.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T20:58:13.359267Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Redragon Wireless Gaming Mouse 58g Lightweight Black $16.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T20:52:39.586263Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "WestinTrends Malibu Outdoor Folding HDPE Adirondack Deck Chair (Lime) $49.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T20:52:39.586263Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Valfaris",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T20:47:06.578820Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "The Coma 2: Vicious Sisters",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T20:47:06.578820Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Shadow Warrior 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T20:47:06.578820Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Monster Train",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T20:47:06.578820Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Shadow Warrior",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-12T20:47:06.578820Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$5 AC Hat Organizer for Baseball Caps 2Pack, Hat Rack for Wall with Strong Adhesive Hold up to 20 Hats,",
   "reason": "Posted at $5.00, but Amazon showed $9.99 when we checked — the deal is probably over",
