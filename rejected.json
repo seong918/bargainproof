@@ -1,5 +1,37 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Whole Body Vibration Plate for Lymphatic Drainage, 990 Speed Levels, 330 lb $39.99",
+  "reason": "Posted at $39.99, but Amazon showed $99.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-12T15:31:15.922335Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Arolina Mens 7\" Quick Dry Swim Trunks with Compression Liner $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $19.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-12T15:31:15.922335Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Turrella 41.3\" Brown Rectangle Wood Console Table $81.19",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T15:31:15.922335Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Milwaukee 150-lb. Fold-Up Hand Truck for $39 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T15:31:15.922335Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Tissot PRX Gold Dial Stainless Steel Men's Watch 40mm or 35mm Case $292.50",
   "reason": "Not evaluated",

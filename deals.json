@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "1f27ee88dc16",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20005632-99-99-panasonic-countertop-microwave-oven-900w-0-9-cu-ft-at-amazon",
+  "title": "Panasonic Countertop Microwave Oven, 900W, 0.9 Cu. Ft.",
+  "raw_title": "$99.99* | Panasonic Countertop Microwave Oven, 900W, 0.9 Cu. Ft. at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0G6G4VZTB",
+  "deal_total_cents": 9999,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 9999,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 9999,
+  "amazon_url": "https://www.amazon.com/dp/B0G6G4VZTB",
+  "amazon_checked_at": "2026-09-12T15:31:24.372112Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 2,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0G6G4VZTB",
+  "image_url": null,
+  "published_at": "2026-09-12T15:31:15.922335Z"
+ },
+ {
   "deal_id": "1105d6c52ad7",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20005275-s-s-18-pk-12-oz-polar-seltzer-water-blackberry-mango-7-95-free-s-h-w-prime-or-35",
