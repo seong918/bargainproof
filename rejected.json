@@ -1,5 +1,85 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$15.02: Duck Brand Duck Select Grip Easy Liner Shelf Liner 12\" Wide Kitchen Pack, 6-Rolls, 10' Length, Black",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-12T13:57:05.180746Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Bowers & Wilkins Zeppelin Pro Edition Wireless Speaker (Space Grey) $639.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T13:57:05.180746Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Fall Garden Flag 12x18 Inch Double Sided Welcome Pumpkin Farmhouse Decor $2.64",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T13:57:05.180746Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Zulu Dawn Blu-ray + DVD $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T13:57:05.180746Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "COMFEE Electric Kettle 1.7L $27.09",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T13:57:05.180746Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "VEVOR 24\" x 35.8\" Aluminum Threshold Wheelchair Ramp w/ Adjustable Height & Non-Slip Surface $70.50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T13:57:05.180746Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "3-Pack 15-Oz Extra Sugarfree Gum (Spearmint) $3.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T13:57:05.180746Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "TOSHIBA Air Fryer Combo Microwave 1.0 Cu.Ft $189.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T13:57:05.180746Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Free ship, Oatey 14 oz. Plumber's Putty, $1.57, FS, 2 pack $2.79, Home Depot",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T13:57:05.180746Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS] $24.70 | Estée Lauder Double Wear Stay-in-Place Foundation Makeup at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-12T13:57:05.180746Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "hip2save",
   "raw_title": "Fireproof Document Organizer Just $19.99 Shipped on Amazon (Reg. $40!)",
   "reason": "Not evaluated",
