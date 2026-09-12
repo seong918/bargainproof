@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "LAUSAINT HOME 43\" Rectangular Propane Fire Pit Table w/ Lid & Glass Wind Guard (Dark Black) $189.99 + Free Shipping $197.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-12T02:40:39.148208Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ORICO MetaCube Pro 2-Bay NAS Storage System – 40TB Support, RAID 0/1, 1GbE, 2GB DDR4 – $198 w/code",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T02:35:05.384496Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LOVE EYE Sleep Sport Headphones Wireless Bluetooth 5.4 Headband Headphone $8 AC",
+  "reason": "Posted at $8.00, but Amazon showed $15.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-12T02:29:31.856313Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "65\" onn 4K UHD 60Hz Smart TV Powered by VIZIO (65S4V4) $258.00 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T02:29:31.856313Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "72-Pk 10-Ct Kleenex On-The-Go Ultra Facial Tissues $14.98 w/ S&S + Free Shipping w/ Prime or on $35+",
   "reason": "Same deal was already posted from another source",
   "rejected_at": "2026-09-12T02:18:26.463334Z",
