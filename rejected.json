@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Metabo HPT 2-in 18 -Gauge Pneumatic Straight Brad Nailer one_size | NT50AE2M $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T07:06:43.317508Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "MSI Vector A16 (Cert. Refurb): 16\" QHD+ 240Hz IPS, Ryzen 9 8940HX, RTX 5070 Ti, 16GB DDR5, 1TB SSD $1399.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T07:06:43.317508Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$199: Kobalt Compact 10-in 15-Amp Dual Bevel Sliding Compound Corded Miter Saw at Lowe's",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T07:06:43.317508Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Malco Offset snip Andy High carbon inset steel blades Left cut Offset Snips one_size | MC12LS $37.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T07:06:43.317508Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DEWALT Stealthsonic Quiet 6-Gallon 4 HP Corded Wet/Dry Shop Vacuum with Accessories Included one_size | DXV06PL-QT $69.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T07:06:43.317508Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Lamicall Qi2 4-in-1 MagSafe Wireless Charging Station w/ Multi-Color Light $20 + Free Shipping",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-12T07:01:08.442552Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Pnosnesy Men's or Women's Waterproof Touchscreen Winter Ski Gloves (Various) $9.49 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-12T07:01:08.442552Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "358-Pc LEGO Disney Princess Mini Belle & Tiana w/ Castle (43291) $19.17 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T07:01:08.442552Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "43mm Citizen Men's Eco-Drive Sport Luxury PCAT Chronograph Watch $344 + Free S&H",
   "reason": "Posted at $344.00, but Amazon showed $343.86 when we checked — the post is stale",
   "rejected_at": "2026-09-12T06:50:01.867763Z",

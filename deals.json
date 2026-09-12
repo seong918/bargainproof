@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "78e8d1ce3027",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20004633-19-81-20-oz-zojirushi-gocafe-insulated-stainless-steel-mug-at-amazon",
+  "title": "20-Oz Zojirushi GoCafe Insulated Stainless Steel Mug",
+  "raw_title": "$19.81* | 20-Oz Zojirushi GoCafe Insulated Stainless Steel Mug at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0FGJC67ZM",
+  "deal_total_cents": 1981,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 1981,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1981,
+  "amazon_url": "https://www.amazon.com/dp/B0FGJC67ZM",
+  "amazon_checked_at": "2026-09-12T07:06:47.654867Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0FGJC67ZM",
+  "image_url": null,
+  "published_at": "2026-09-12T07:06:43.317508Z"
+ },
+ {
   "deal_id": "53b4eddfd03f",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20003433-prime-bedelite-3-piece-fluffy-fleece-queen-comforter-set-bright-white-twin-15-94-queen-18-69-free-shipping",
