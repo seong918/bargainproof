@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon – AHAWILL 33' 255-LED Outdoor Icicle Lights - $19.99–$34.99 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-12T03:14:02.433351Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Acer Swift Go 16 AI (2026): 16\" FHD+ IPS 120Hz Touch, Ryzen AI 7 445, 16GB LPDDR5, 1TB SSD $749.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T03:14:02.433351Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Hair Dryer with Diffuser $35.99 – 150,000 RPM High-Speed Ionic Blow Dryer, 1600W",
   "reason": "Posted at $35.99, but Amazon showed $53.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-12T02:46:12.780705Z",
