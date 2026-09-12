@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$19.00: Hanes Men's Ultimate Comfort Fit Cotton Stretch Crewneck Undershirts, Multipack",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-12T14:02:35.561030Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Clarins Double Serum Only $45.60 Shipped on Amazon (Reg. $96) – Today Only!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-12T14:02:35.561030Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$15.02: Duck Brand Duck Select Grip Easy Liner Shelf Liner 12\" Wide Kitchen Pack, 6-Rolls, 10' Length, Black",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-12T13:57:05.180746Z",
