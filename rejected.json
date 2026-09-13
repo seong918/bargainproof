@@ -1,6 +1,134 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Sojag 8' x 5' Denali Outdoor Lockable Steel Storage Building with Windows, Anthracite $465.12",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-13T23:12:02.725931Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$67.97 FS for Rewards Member NIKE.com Women's Jordan Flight Court SE",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T23:06:36.507454Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "NIKE.com Jordan Trunner O/S Shoes $67.97 and up, free ship for Nike Rewards",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T23:06:36.507454Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Diablo IV Standard Edition $12.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T23:01:04.849058Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Everyday Heroes 4-Movie Collection Blu-ray $12.62",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T22:55:32.622301Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Inspirational 4-Movie Collection Blu-ray $11.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T22:55:32.622301Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LEGO Disney and Pixar’s Toy Story Celebration Train & RC Car Toddler Toy $31.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T22:55:32.622301Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Thames & Kosmos Magic Hat 35 Tricks Magic Set for Kids $27.74",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T22:55:32.622301Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "BougeRV Portable 12V Car Refrigerator 23-Qt $151.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T22:55:32.622301Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Sonic Electric Toothbrush Set with 10 Brush Heads & Travel Case $8.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T22:55:32.622301Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Sopranos, The: The Complete Series (Repackaged/Blu-ray) $69.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T22:55:32.622301Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "CITIZEN Men's Eco-Drive Axiom 40mm Stainless Steel AU2002-52E $255.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T22:55:32.622301Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Nate's 100% Pure, Raw & Unfiltered Honey 32-Oz $8.45",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T22:55:32.622301Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "RisoPhy Wired / Wireless 104-Key RGB Backlit Mechanical Keyboard with Red Switches $20.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T22:55:32.622301Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Godzilla: King of the Monsters 4K Ultra HD $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T22:55:32.622301Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "AKG Pro Audio C414 XLII Studio Grade Professional Large Diaphragm, Dual-Capsule, Vocal and Instrument Condenser Microphone $799.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T22:55:32.622301Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Numi Organic Gunpowder Green Tea, 100 Green Tea Bags $19.8",
   "reason": "Posted at $19.80, but Amazon showed $20.84 when we checked — the deal is probably over",
   "rejected_at": "2026-09-13T22:33:27.518474Z",
@@ -72962,14 +73090,6 @@
  {
   "source": "dealcatcher",
   "raw_title": "Blink Video Doorbell + Outdoor 4 Wireless Smart Security Cameras 3-Camera System + Video Doorbell $103.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T15:53:35.504446Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "BougeRV Portable 12V Car Refrigerator 23-Qt $151.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T15:53:35.504446Z",
   "code": "not_checked",
