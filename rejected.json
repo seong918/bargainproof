@@ -1,5 +1,45 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$2.75* | 3.5-Oz Weber Fireball Whiskey Flavored Seasoning (Sweet Cinnamon Heat) at Amazon",
+  "reason": "Posted at $2.75, but Amazon showed $4.49 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-13T16:51:42.483802Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "WORKPRO 13-inch Pink Tool Bag $19.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T16:51:42.483802Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ridgid 18V Cordless 5 in. Random Orbit Sander $69.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T16:51:42.483802Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Beadboard Storage Cabinet with 3 Shelves and Cupboard $49.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T16:51:42.483802Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS] $20.82* | 1.98-Pound Optimum Nutrition Gold Standard 100% Whey Protein Powder (Fruity Cereal) at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-13T16:51:42.483802Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Tissot Carson Automatic Blue Dial Men's Watch $270.00",
   "reason": "Not evaluated",
