@@ -1,6 +1,78 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Walgreens $9 for 2 : Dove Men+Care 3 in 1 Soap 4 Bars, 3.75 oz or 18oz Body Wash pick up at $10+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T20:09:51.970052Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Golden Grahams S'mores Cereal Treat Bars, Value Pack, 16 ct, 16.96 oz $4.08 With Full S&S Discount",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-13T20:09:51.970052Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Resale] $45* | TP-Link AX3000 WiFi 6 Dual-Band Range Extender PCMag Editor's Choice (Used - Like New) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-13T20:04:21.989391Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Resale] $19.32* | Logitech MK345 Full Size Wireless Keyboard and Mouse Combo - Black (Used - Like New) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-13T20:04:21.989391Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Resale] $28.68* | Logitech MK540 Full Size Advanced Wireless Keyboard and Mouse Combo (Used - Like New) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-13T19:58:50.699901Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "The Shiver of the Vampires (4K UHD) $19.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-13T19:58:50.699901Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "MSI PRO MP243L E14 24\" FHD IPS 144Hz Gaming Monitor $79.99 + Free Shipping",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-13T19:58:50.699901Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Gorilla Grip Upgraded Model Stainless Steel Manual Can Opener, Black $8.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T19:53:18.496233Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$20.97 FS Walmart+ by HOBIBEAR Mens Thong Sandals Arch Support Indoor and Outdoor Beach Flip Flop size 7-14",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T19:53:18.496233Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Cheerios Honey Nut Breakfast Cereal, Heart Healthy, Gluten Free, 18.8 oz $3.19 or less",
   "reason": "Posted at $3.19, but Amazon showed $3.39 when we checked — the deal is probably over",
   "rejected_at": "2026-09-13T19:47:46.752835Z",
