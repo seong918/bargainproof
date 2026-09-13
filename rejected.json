@@ -1,5 +1,13 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$874.13* | VEVOR Commercial Ice Maker Machine at Amazon",
+  "reason": "Posted at $874.13, but Amazon showed $844.13 when we checked — the post is stale",
+  "rejected_at": "2026-09-13T00:12:21.156737Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Walgreens Slider Food Storage Bags, Gallon $0.88",
   "reason": "Not evaluated",
