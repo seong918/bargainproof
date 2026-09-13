@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "7e675f5ba837",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20007783-229-99-garmin-vivoactive-6-smartwatch-at-amazon",
+  "title": "Garmin Vivoactive 6 Smartwatch",
+  "raw_title": "$229.99 | Garmin Vivoactive 6 Smartwatch at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 22999,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 7,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-13T12:38:20.869194Z"
+ },
+ {
   "deal_id": "dbaca8d91d3e",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20008278-garmin-edge-1040-gps-bike-computer-499-99",
