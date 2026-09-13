@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "4631b1902c37",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20007855-sns-ac-3-58-8-pk-12-oz-bodyarmor-zero-sugar-sports-drink-cherry-lemonade-at-amazon",
+  "title": "8-Pk 12-Oz BODYARMOR ZERO Sugar Sports Drink (Cherry Lemonade)",
+  "raw_title": "[SnS, AC] $3.58* | 8-Pk 12-Oz BODYARMOR ZERO Sugar Sports Drink (Cherry Lemonade) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 358,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-13T13:33:24.067928Z"
+ },
+ {
   "deal_id": "32bfae3701bb",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20008233-fluke-971-temperature-humidity-meter-377",
