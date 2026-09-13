@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "df9725dd4a0c",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20007621-32-oz-sawyer-sp565-picaridin-insect-repellent-21-40-w-s-s-free-shipping-w-prime-or-on-orders-over-35",
+  "title": "32-Oz Sawyer SP565 Picaridin Insect Repellent w/ S&S + or on orders over",
+  "raw_title": "32-Oz Sawyer SP565 Picaridin Insect Repellent $21.40 w/ S&S + Free Shipping w/ Prime or on orders over $35",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 2140,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "sns",
+   "prime"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-13T10:11:40.402504Z"
+ },
+ {
   "deal_id": "f946f7821049",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20007639-62-96-21-l-thule-enroute-laptop-backpack-10-back-w-prime-visa-card-at-amazon",
