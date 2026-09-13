@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS, AC] $8.44 | 12-Pack 2.25-Oz Maruchan Instant Lunch (Lime chili chicken) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs clip coupon, Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-13T07:17:20.926658Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$10.19 Lowes: Boxtown Team All-N-One PRO Plastic Belt clip Drill holder + or Electrical Holder",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T07:17:20.926658Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Target Pick Up: Febreze 1 count 8oz Spray or 1 count Bathroom Stand Alone $1.49-$1.69 after $2 Digital",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-13T07:11:50.897343Z",
