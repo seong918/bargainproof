@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS] $7.59* | 34-Ct USKICH Coffee Machine Cleaner & Descaler Tablets at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-13T07:28:24.272745Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$77 FS TARGET Radio Flyer 3 in 1 EZ Fold Wagon with Canopy - Red: Steel & Nylon, 150 lb Capacity",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T07:28:24.272745Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$26.59* | U2: The Best Of 1980-1990 (2 LP Vinyl w/ AutoRip MP3) at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-13T07:22:52.161137Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ultimate Ears WONDERBOOM 4 Portable Waterproof Speaker for $60 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T07:22:52.161137Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Anker 12-Outlet Power Strip Surge Protector w/ USB for $30 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T07:22:52.161137Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$20 Home Depot Fire TV Stick 4K Select , Start Streaming in 4K, AI-Powered Search, and Free and Live TV",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T07:22:52.161137Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$50 HOME DEPOT Fire TV Stick 4K Max (2nd Gen) Streaming Device with Wi-Fi 6E Support, Ambient Experience, and Alexa Voice Remote",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T07:22:52.161137Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$89 LOWES Metabo HPT 2-1/2-in 16 -Gauge Pneumatic Straight Finish Nailer",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T07:22:52.161137Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[SnS, AC] $8.44 | 12-Pack 2.25-Oz Maruchan Instant Lunch (Lime chili chicken) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs clip coupon, Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-13T07:17:20.926658Z",
@@ -71230,14 +71294,6 @@
   "rejected_at": "2026-09-06T06:42:21.678050Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS] $7.59* | 34-Ct USKICH Coffee Machine Cleaner & Descaler Tablets at Amazon",
-  "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-06T06:36:45.371541Z",
-  "code": "low_score",
-  "public": true
  },
  {
   "source": "slickdeals",
