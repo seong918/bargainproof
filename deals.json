@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "9ddd3db01713",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20007405-nintendo-switch-pro-controller-55-99-amazon",
+  "title": "Nintendo Switch Pro Controller",
+  "raw_title": "Nintendo Switch Pro Controller - $55.99 @ Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 5599,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-13T06:33:10.994096Z"
+ },
+ {
   "deal_id": "95b51bbb6455",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20007651-129-w-sthof-gourmet-grey-4-pc-starter-set-at-amazon",
