@@ -1,5 +1,165 @@
 [
  {
+  "source": "dealcatcher",
+  "raw_title": "Baby & Toddler Little Co. by Lauren Conrad Crewneck Sweatshirt $10.08",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T15:23:44.179304Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2/$6.28 Walgreens AC 18oz Family Size Cheerios/Honey Nut/Cinnamon Toast FPU $10+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T15:23:44.179304Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "24\" CRUA FHD 1920x1080 100Hz Curved VA Monitor (White) $79.99 + Free Shipping",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-13T15:18:12.340679Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "RYOBI ONE+ 18V Cordless 7.5\" Bucket Top Misting Fans 2-Pack $89.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T15:18:12.340679Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Walmart’s Under $5 Cauldron Tealight Warmer Is Brewing Up Fun Halloween Vibes!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T15:18:12.340679Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GIGABYTE X870E AORUS ELITE WIFI7 + AMD Ryzen 7 9800X3D + Cooler Master Elite Liquid 240 AIO Cooler + ONIMUSHA Game Bundle $610 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T15:18:12.340679Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2/$6.28 ac Walgreens Nature Valley Protein Granola Cereal Oats 'n Honey, 11.0 oz FPU at $10",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T15:18:12.340679Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "24-Oz Owala FreeSip Twist Insulated Stainless Steel Water Bottle (Various) $23.99 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-13T15:12:39.935351Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Hammermill Copy Plus 8.5\" x 11\" Copy Paper, 20 lbs., 92 Brightness, 5000 Sheets/Carton $39.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T15:12:39.935351Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Kathy Ireland 3-Piece Waffle Down Alternative Comforter Set Queen/King $30.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T15:12:39.935351Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Jordan's Skinny Syrups Butter Toffee Zero Sugar Syrup $4.91",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T15:12:39.935351Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "58\" Walker Edison Mid-Century Modern 2-Door Reeded TV Stand for TVs up to 65\" (Coastal Oak) $113.76 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T15:12:39.935351Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Garmin Index™ S2 Smart Scale $179.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T15:12:39.935351Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Lookcare 64GB AI Voice Recorder with Transcription & Summary (115 Languages Support) $49.99",
+  "reason": "Posted at $49.99, but Amazon showed $99.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-13T15:07:07.245773Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Radio Flyer 3-in-1 EZ Fold Wagon with Canopy - Red $77.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T15:07:07.245773Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Hykolity 20 or 24 Inch Cruiser Girls Bike $169.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T15:07:07.245773Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Hykolity 27.5-Inch 18-Speed Full Suspension Mountain Bike $220.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T15:07:07.245773Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GIGABYTE X870E AORUS PRO + AMD Ryzen 7 9800X3D + Cooler Master Elite Liquid 240 AIO Cooler + ONIMUSHA Game Bundle $639 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T15:07:07.245773Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Paper Mario: The Thousand-Year Door(Nintendo Switch,Physical/Digital) $41.99 + Free S&H at BestBuy",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T15:07:07.245773Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "R32 Refrigerant 28.2oz Disposable One Step Can With Gauge & Hose 1/4\" Connection $165",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T15:07:07.245773Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "7-Night Rhône & Saône River Cruise with Flights for From $5,798 for 2",
   "reason": "Not evaluated",
