@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$199.99 | Shark FlexStyle, Air Multi-Styler & Drying System, Coanda, Copper, HD433CP at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-13T19:14:43.711563Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "MSI B850 Gaming Wifi plus 32gb DDR5 6000 $459",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T19:14:43.711563Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$147.99* | Technics Premium Hi-Fi True Wireless Bluetooth Earbuds w/ ANC at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-13T19:09:14.211450Z",
