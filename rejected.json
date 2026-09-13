@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Hulk (4K UHD) $12.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-13T16:57:09.971309Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ridgid 18V Brushless Cordless 2-Tool Combo Kit with Jig Saw and Grinder (Tools Only) $149.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T16:57:09.971309Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Milwaukee SHOCKWAVE 1/2 in. and 3/8 in. Drive SAE Deep Well Impact Socket Set (24-Piece) $128.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T16:57:09.971309Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ryobi One+ 18V Cordless 5 in. Random Orbit Sander with 2.0 Ah Battery and Charger Kit $79.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T16:57:09.971309Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Milwaukee M12 FUEL 12-Volt Lithium-Ion Brushless Cordless HACKZALL Reciprocating Saw Kit with XC High Output 5.0 Ah Battery $199.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T16:57:09.971309Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ends today 09/13 Souper Cubes Silicone Freezer Storage Tray, 5-pack $54.99 free shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T16:57:09.971309Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$2.75* | 3.5-Oz Weber Fireball Whiskey Flavored Seasoning (Sweet Cinnamon Heat) at Amazon",
   "reason": "Posted at $2.75, but Amazon showed $4.49 when we checked — the deal is probably over",
   "rejected_at": "2026-09-13T16:51:42.483802Z",
