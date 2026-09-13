@@ -1,5 +1,21 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Greenworks 24V SDS-Plus 2J Brushless Rotary Hammer Drill 4.0 ah battery and charger + 50 Piece Impact Rated Driving Set $101.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T18:36:10.694315Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Uineer Wireless Bluetooth Rechargeable Vertical LED Ergonomic Mouse $9.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-13T18:36:10.694315Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "techbargains",
   "raw_title": "Lamicall 70+lbs Suction Magsafe 360-Degrees Car Phone Holder Mount $9.99",
   "reason": "Posted at $9.99, but Amazon showed $24.99 when we checked — the deal is probably over",
