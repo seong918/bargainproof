@@ -1,5 +1,29 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Pinspark 7\" Quick Dry Athletic Workout Gym Shorts $7.99",
+  "reason": "Posted at $7.99, but Amazon showed $14.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-13T12:27:22.480722Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Cooler Master 240 Core II AIO Liquid 12W CPU Cooler with Infinity Mirror $37.70",
+  "reason": "Posted at $37.70, but Amazon showed $58.79 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-13T12:27:22.480722Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "682-Piece LEGO City: Construction - Bulldozer (60466, 2025) $51.99 + Free Shipping",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-13T12:27:22.480722Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "hip2save",
   "raw_title": "*NEW* Lowes NFL 5-Gallon Buckets Just $8.98 Shipped (24 Teams Available!)",
   "reason": "Not evaluated",
@@ -90003,14 +90027,6 @@
   "source": "slickdeals",
   "raw_title": "482-Piece LEGO Botanicals Flowering Cactus Building Toy (11509) $27.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically",
-  "rejected_at": "2026-09-02T11:53:51.905699Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "682-Piece LEGO City: Construction - Bulldozer (60466, 2025) $51.99 + Free Shipping",
-  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it",
   "rejected_at": "2026-09-02T11:53:51.905699Z",
   "code": "low_score",
   "public": true
