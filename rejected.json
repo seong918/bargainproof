@@ -1,5 +1,21 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Govee RGBIC Floor Lamp Basic, 1000lm LED Corner Lamp, Black $64",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-13T21:32:41.481215Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Coffee mate Snickers Non-Dairy Creamer, 0.375 fl oz, 50 Count Tubs $5.66@ Walmart",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T21:27:10.020464Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "hip2save",
   "raw_title": "Women’s Oversized Cable Knit Sweaters From $12.59 on Amazon (Reg. $40+)",
   "reason": "Not evaluated",
