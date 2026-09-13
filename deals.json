@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "4d2c6c986faa",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20007549-21-99-harry-potter-the-complete-8-film-collection-dvd-at-amazon",
+  "title": "Harry Potter: The Complete 8-Film Collection (DVD)",
+  "raw_title": "$21.99* | Harry Potter: The Complete 8-Film Collection (DVD) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B005OCFGTO",
+  "deal_total_cents": 2199,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 2199,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 2199,
+  "amazon_url": "https://www.amazon.com/dp/B005OCFGTO",
+  "amazon_checked_at": "2026-09-13T05:37:52.938749Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B005OCFGTO",
+  "image_url": null,
+  "published_at": "2026-09-13T05:37:48.318694Z"
+ },
+ {
   "deal_id": "8ec8662260b0",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20007495-249-99-samsung-34-viewfinity-s5-s55gh-ultrawide-qhd-120hz-curved-monitor-at-amazon",

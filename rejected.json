@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Bioinnovations supplements 40% off + free shipping on orders over $50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T05:37:48.318694Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "At Staples - No Purchase Fee when you buy a $200 Mastercard Gift Card In Store Only (a $7.95 value) - Starts from 9/13/26-9/19/26 - Limit 9 per customer per day",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T05:37:48.318694Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Rammus Women's Stretch Dress Pants w/ 5 Pockets - $19.88 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-13T05:32:15.888156Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$23.09 4th & Heart Grass-Fed Ghee 32oz w/ Coupon, FS w/Prime – YMMV",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T05:26:42.784857Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Jogrytece 4-in-2 Multi Charging Cables, 2-Pack 5' - $7.47 w/ Code",
+  "reason": "Community score too low (+0) to pass without a price check — needs promo code, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-13T05:21:08.757938Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "TCL - 75\" Class QM9K Series 4K UHD HDR QD-Mini LED Smart TV with Google TV (2025) $1399.99 Bestbuy.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T05:21:08.757938Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Whirlpool - 30 in. Wide 5 elements 5.3 cu. ft. Freestanding Electric Range with Cooktop Flexibility - Stainless Steel $549.99 Bestbuy.com",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-13T05:15:36.522756Z",
