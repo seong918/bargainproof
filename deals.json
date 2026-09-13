@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "d2d9837cd335",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20007435-76-99-nintendo-sound-clock-alarmo-at-amazon",
+  "title": "Nintendo Sound Clock: Alarmo™",
+  "raw_title": "$76.99 | Nintendo Sound Clock: Alarmo™ at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B09NJPQR39",
+  "deal_total_cents": 7699,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 7699,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 7699,
+  "amazon_url": "https://www.amazon.com/dp/B09NJPQR39",
+  "amazon_checked_at": "2026-09-13T05:04:55.956797Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B09NJPQR39",
+  "image_url": null,
+  "published_at": "2026-09-13T05:04:51.587811Z"
+ },
+ {
   "deal_id": "e9854ac53bec",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20007426-13-03-ravensburger-pokemon-labyrinth-family-board-game-at-amazon",
