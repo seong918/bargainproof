@@ -1,5 +1,29 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Lamicall 70+lbs Suction Magsafe 360-Degrees Car Phone Holder Mount $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $24.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-13T18:30:40.458021Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Jergens Shea + Cocoa Butter Lotion Only $3.85 Shipped on Amazon (Reg. $10)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T18:30:40.458021Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SHOKZ OpenRun Pro 2 Bone Conductiok Bluetooth Headphones (official SHOKZ TikTok shop + paypal) $99 ymmv?",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T18:30:40.458021Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Amazon – Soothfeel Men's Classic-Fit Stretch Golf Pants - $17.54 w/ Code",
   "reason": "Same deal was already posted from another source",
