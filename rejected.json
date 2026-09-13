@@ -1,5 +1,29 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Bubsy 4D - Pawsome Edition (Nintendo Switch) $29.99 at Target",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T12:32:51.697871Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bubsy 4D: Pawsome Edition (Nintendo Switch 2) $39.99 + Free S&H at Target",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T12:32:51.697871Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Garmin Edge® 1040, GPS Bike Computer $499.99",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-13T12:32:51.697871Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "techbargains",
   "raw_title": "Pinspark 7\" Quick Dry Athletic Workout Gym Shorts $7.99",
   "reason": "Posted at $7.99, but Amazon showed $14.99 when we checked — the deal is probably over",
