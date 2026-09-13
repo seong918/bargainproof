@@ -1,5 +1,141 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$1097.99* | 85\" Hisense 85U6SF Pro 4K 144Hz Mini‑LED ULED Fire TV at Amazon",
+  "reason": "Community score too low (+-1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-13T17:46:38.714034Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$8.74* | Hanes Smooth Comfort Full-Coverage Wireless Bra (Black) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-13T17:46:38.714034Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Reveal Whitefish Grain Free Complete Dry Cat Food 3-Pound $4.19",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T17:46:38.714034Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Metabo HPT 36V Cordless Triple Hammer Impact Driver Kit 1/4-Inch WH36DC $233.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T17:46:38.714034Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Johnson's Baby Cornstarch Powder with Aloe & Vitamin E 9-Oz $2.79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T17:46:38.714034Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$1.99 | Murderland: Crime and Bloodlust in the Time of Serial Killers by Caroline Fraser (Kindle ebook)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T17:46:38.714034Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$9.34 ac AMAZON House Slippers for Women Men Indoor Barefoot House Shoes Soft Socks",
+  "reason": "Posted at $9.34, but Amazon showed $16.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-13T17:41:09.763636Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "AmFilm iPhone 18 Pro 6.3'' 9H Auto-Alignment Tempered Glass Screen Protector with Camera Lens Protector $4.99",
+  "reason": "Posted at $4.99, but Amazon showed $9.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-13T17:41:09.763636Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Blue Buffalo Wilderness Wild Bits Duck Soft & Chewy Dog Treats 4 oz $3.07",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T17:41:09.763636Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Smiry Chenille Bathroom Rug 30x20\" $5.69",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T17:41:09.763636Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "24 Pack Kitchen Cloths Dish Towels 7x9\" $4.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T17:41:09.763636Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "8\" Happy Place Bigfoot Metal Sign $6.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T17:41:09.763636Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "OLANLY Thick Memory Foam Bath Mat 30x20\" $4.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T17:41:09.763636Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "(Resale) Logitech MK540 Full Size Advanced Wireless Keyboard and Mouse Combo $27.21",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T17:41:09.763636Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "(Resale) Logitech G923 Racing Wheel w/ Pedals (PS4, PS5, PC) $169.27",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T17:41:09.763636Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Hunter Asheville 52” Indoor/Outdoor Ceiling Fan $149.99 Free Shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T17:41:09.763636Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Smadeer Solar Hedgehog Garden Statue w/ Light - $8.99 w/ Code",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-13T17:41:09.763636Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "NIVEA Lip Balm Blackberry 2-Count $2.37",
   "reason": "Not evaluated",
