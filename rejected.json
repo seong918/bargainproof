@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$2.38 AMAZON ARM & HAMMER ULTRAMAX Anti-Perspirant Deodorant Invisible Solid Unscented 2.60 oz",
+  "reason": "Community score too low (+-2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-13T14:12:04.706145Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$18 ac AMAZON 19 in 1 Survival Kit Stocking Stuffers for Men, Survival Gear and Supplies",
+  "reason": "Posted at $18.00, but Amazon showed $29.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-13T14:12:04.706145Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Super Mario Party Jamboree(Nintendo Switch, Physical/Digital) $41.99 + Free S&H at BestBuy",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T14:12:04.706145Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Hammermill Copy Plus 8.5\" x 11\" Copy Paper, 20 lbs., 92 Brightness, 5000 Sheets/Carton (105007) $39.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-13T14:06:33.435615Z",
