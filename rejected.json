@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$252.99* | Husqvarna 150BT Gas Backpack Leaf Blower, 51-cc 2.16-HP 2-Cycle + 10% Back w/ Prime Visa Card at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-13T08:12:35.197845Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Pack RYOBI ONE+ 18V Cordless 7.5\" Bucket Top Misting Fans (Tool Only) $89 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T08:12:35.197845Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$15.99* | Resident Evil 4 Remake (PlayStation 4) at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-13T08:12:35.197845Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$39.99 Free Ship STAPLES Hammermill Copy Plus 8.5\" x 11\" Copy Paper, 20 lbs., 92 Brightness, 5000 Sheets/Carton",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-13T08:07:03.414940Z",
