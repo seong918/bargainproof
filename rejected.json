@@ -1,6 +1,14 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "1-Oz Clarins Double Serum Anti-Aging Face Serum $45.60 w/ S&S + Free Shipping",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-13T00:17:51.246829Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$874.13* | VEVOR Commercial Ice Maker Machine at Amazon",
   "reason": "Posted at $874.13, but Amazon showed $844.13 when we checked — the post is stale",
   "rejected_at": "2026-09-13T00:12:21.156737Z",
