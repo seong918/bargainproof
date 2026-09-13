@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "ec2f633b9d9a",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20008998-lucky-charms-gluten-free-cereal-with-marshmallows-giant-size-26-1-oz-4-29-after-coupon-s-s-amazon",
+  "title": "Lucky Charms Gluten Free Cereal with Marshmallows, Giant Size, 26.1 oz~ & S&S",
+  "raw_title": "Lucky Charms Gluten Free Cereal with Marshmallows, Giant Size, 26.1 oz~$4.29 After Coupon & S&S @ Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 429,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-13T17:35:40.019758Z"
+ },
+ {
   "deal_id": "ac501f1da09d",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20009094-amazon-grocery-apple-pie-filling-20-oz-2-20-with-s-s-amazon-buy-4-save-more",
