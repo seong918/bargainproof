@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Conair Handheld Garment Steamer for Clothes $21.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T09:43:56.501364Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "The Holly And The Ivy [Blu-ray] $14.24 Amazon.com",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-13T09:38:35.997405Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Metabo HPT Rotary Hammer Drill, 1-3/4-Inch, SDS Max, AC Brushless Motor, AHB Aluminum Housing Body, UVP User Vibration Protection (DH45MEY) $514.49",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-13T09:33:20.866996Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "JBL Professional AM7215/95 High Power 2-Way Full-Range Loudspeaker System, 15-Inch, Black $2888.67",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-13T09:17:32.908427Z",
