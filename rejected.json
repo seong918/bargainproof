@@ -1,5 +1,85 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Numi Organic Gunpowder Green Tea, 100 Green Tea Bags $19.8",
+  "reason": "Posted at $19.80, but Amazon showed $20.84 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-13T22:33:27.518474Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Oath Nutrition Cleary Whey Protein Powder - Sunrise Passion Punch - 20g Protein - 18 Servings $17.74",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T22:33:27.518474Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Joe's New Balance Outlet: Abzorb 2000 - 2 for $120 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T22:22:23.400418Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "12-Count TaylorMade TP5x Golf Balls (White) $39.99 + Free Shipping",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-13T22:16:50.852328Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nintendo Switch Sports - Nintendo Switch $34.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-13T22:11:19.434523Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Fleece-Lined Tights Just $6 on Amazon | Looks Like Pantyhose, But Keeps You Warm",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T22:11:19.434523Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LEGO Icons Autumn Cottage Garden Building Set - 11372, $85",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T22:11:19.434523Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CVS Pick Up 2/$4.98ac Garnier Hair Care, get $2 Extra Bucks",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T22:11:19.434523Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2/$7 ac get $5 ECB's CVS Pick Up 33.8oz Crest Pro-Health Mouthwash",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T22:05:47.996558Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Joe's New Balance Outlet: Extra 40% Off Select Shoes $31.19",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T22:05:47.996558Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "hip2save",
   "raw_title": "Thyme & Table 5-Piece Baking Set Just $29.97 at Walmart (Reg. $60)",
   "reason": "Not evaluated",
