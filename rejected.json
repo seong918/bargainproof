@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Cheerios Honey Nut Breakfast Cereal, Heart Healthy, Gluten Free, 18.8 oz $3.19 or less",
+  "reason": "Posted at $3.19, but Amazon showed $3.39 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-13T19:47:46.752835Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Mini Brands Books Advent Calendar Only $19.99 on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T19:47:46.752835Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$30 FS WALMART+ Dr. Scholl's Women's Originalist Sandal size 6-11",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T19:47:46.752835Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$85.01 | Citizen Quartz Mens Watch, Stainless Steel, Classic at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-13T19:42:15.826129Z",
