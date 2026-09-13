@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "ac501f1da09d",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20009094-amazon-grocery-apple-pie-filling-20-oz-2-20-with-s-s-amazon-buy-4-save-more",
+  "title": "Amazon Grocery, Apple Pie Filling, 20 Oz~ With S&S @ Amazon~Buy 4 & Save More!",
+  "raw_title": "Amazon Grocery, Apple Pie Filling, 20 Oz~$2.20 With S&S @ Amazon~Buy 4 & Save More!",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 220,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-13T17:30:08.496184Z"
+ },
+ {
   "deal_id": "fa33bcc208be",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20009397-29-99-mega-man-star-force-legacy-collection-playstation-5-at-amazon",
