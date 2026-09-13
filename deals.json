@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "fb9fec0966c9",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20008356-arizona-lemon-tea-16-fl-oz-12-pack-6-99-free-s-h-w-prime-or-35",
+  "title": "AriZona Lemon Tea - 16 Fl Oz (12 Pack) + or",
+  "raw_title": "AriZona Lemon Tea - 16 Fl Oz (12 Pack) $6.99 + Free S&H w/ Prime or $35+",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B004UKHAF4",
+  "deal_total_cents": 699,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "prime"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 699,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 699,
+  "amazon_url": "https://www.amazon.com/dp/B004UKHAF4",
+  "amazon_checked_at": "2026-09-13T16:07:47.311224Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B004UKHAF4",
+  "image_url": null,
+  "published_at": "2026-09-13T16:07:42.858048Z"
+ },
+ {
   "deal_id": "2f87c0943f74",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20008761-rovyvon-a3-gen-4-mini-keychain-flashlight-super-bright-650-lumens-15-94-free-s-h-w-prime-or-35",
