@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS, AC] $8.18 | 28-Oz Chex Mix Classic Mix Snack Variety Pack at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-13T00:23:22.262686Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $3.17 | 13.5-Oz Chex Mix Savory Snack Mix (Traditional) at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — needs clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-13T00:23:22.262686Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "1-Oz Clarins Double Serum Anti-Aging Face Serum $45.60 w/ S&S + Free Shipping",
   "reason": "Same deal was already posted from another source",
   "rejected_at": "2026-09-13T00:17:51.246829Z",
