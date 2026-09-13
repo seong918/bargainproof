@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$85.01 | Citizen Quartz Mens Watch, Stainless Steel, Classic at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-13T19:42:15.826129Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Mordheim: City of the Damned",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T19:42:15.826129Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Beholder",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T19:42:15.826129Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Beholder 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T19:42:15.826129Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Wall World",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T19:42:15.826129Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$13 FS WALMART+ Athletic Works Men's Front Runner Extra Wide Width Sneakers, 4E (size 7-13)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T19:42:15.826129Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$9.72 FS WALMART+ Bluey Toddler Boys Low Top Slip On Casual Sneaker Size 5-12T (except 6)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T19:42:15.826129Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Beholder 3",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-13T19:42:15.826129Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$119.99* | Garmin Bounce, Kids Smartwatch at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-13T19:36:46.319325Z",
