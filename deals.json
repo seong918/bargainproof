@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "c107e5bb3e3e",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20008146-73-02-vevor-2-person-triangular-hot-tent-with-stove-jack-at-amazon",
+  "title": "VEVOR 2-Person Triangular Hot Tent with Stove Jack",
+  "raw_title": "$73.02* | VEVOR 2-Person Triangular Hot Tent with Stove Jack at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0FMHLVGCP",
+  "deal_total_cents": 7302,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 7302,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 7302,
+  "amazon_url": "https://www.amazon.com/dp/B0FMHLVGCP",
+  "amazon_checked_at": "2026-09-13T09:22:52.768462Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0FMHLVGCP",
+  "image_url": null,
+  "published_at": "2026-09-13T09:22:47.912928Z"
+ },
+ {
   "deal_id": "570002acdbd0",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20008131-21-99-corona-tools-30-inch-branch-cutter-comfortgel-bypass-loppers-at-amazon",
