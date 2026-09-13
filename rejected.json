@@ -1,5 +1,29 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$6.78 | 8-Pack 15.5-Oz Goya Foods Red Kidney Beans at Amazon",
+  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-13T10:55:54.340645Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Bonlion 0.4W Solar Waterproof Hanging Lanterns (2-Pack) $13.91",
+  "reason": "Posted at $13.91, but Amazon showed $23.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-13T10:55:54.340645Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Omega Seamaster Olympic Timekeeper Automatic Black Dial Men's Watch $3750",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T10:50:22.750771Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "VIPEK 16.5\"x 29.5\"x 76.8\" R2 Medium Adjustable Portable Garment Rack $49.99",
   "reason": "Posted at $49.99, but Amazon showed $99.99 when we checked — the deal is probably over",
