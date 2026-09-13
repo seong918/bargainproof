@@ -1,5 +1,29 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "7-Night Rhône & Saône River Cruise with Flights for From $5,798 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T15:01:37.688311Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "TWO Lysol Disinfectant Sprays Just $5.79 After CVS Rewards (Reg. $17)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T15:01:37.688311Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "5 Pack ASHGOOB 2 Inch Low Profile Office Chair Casters 650 lbs(Grey) $9.99 + Free S&H w/ Prime or $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-13T15:01:37.688311Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "techbargains",
   "raw_title": "Orico MiniRaid Dual-Bay M.2 NVMe/SATA SSD Enclosure for Mac mini M4 Pro $65.99",
   "reason": "Posted at $65.99, but Amazon showed $87.99 when we checked — the deal is probably over",
