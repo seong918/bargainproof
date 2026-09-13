@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Q-tips Cotton Swabs, Original, For Home, First Aid and Beauty, 100% Cotton, 500 Count $1.36",
+  "reason": "Posted at $1.36, but Amazon showed $3.50 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-13T04:48:16.414480Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas Men's Essentials Cargo Shorts Olive Strata/Black 2XS to 3XL $11.69",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T04:48:16.414480Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Soundcore by Anker Q20i Hybrid Active Noise Cancelling Headphones, Pink $69.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T04:48:16.414480Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Metroid Prime Remastered (Nintendo Switch) $28 + Free Shipping w/ Prime or on orders over $35",
   "reason": "Same deal was already posted from another source",
   "rejected_at": "2026-09-13T04:42:43.990616Z",

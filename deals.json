@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "b3484d577d35",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20007375-dewalt-20v-max-plastic-tubing-cutter-bare-tool-only-dce180b-152-10-free-s-h-at-amazon",
+  "title": "DEWALT 20V MAX Plastic Tubing Cutter, Bare Tool Only (DCE180B)",
+  "raw_title": "DEWALT 20V MAX Plastic Tubing Cutter, Bare Tool Only (DCE180B) $152.10 + Free S&H at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0DQYLN2RV",
+  "deal_total_cents": 15210,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 15210,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 15210,
+  "amazon_url": "https://www.amazon.com/dp/B0DQYLN2RV",
+  "amazon_checked_at": "2026-09-13T04:48:25.975717Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 0,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0DQYLN2RV",
+  "image_url": null,
+  "published_at": "2026-09-13T04:48:16.414480Z"
+ },
+ {
   "deal_id": "760bae9727ec",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20007300-metroid-prime-remastered-nintendo-switch-28-free-shipping-w-prime-or-on-orders-over-35",
