@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Resident Evil 4 (PS4) $15.99 + Free S&H w/ Prime or $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-13T20:15:21.793357Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Women’s Ankle Boots Only $19.49 Shipped (Reg. $39) – Get the UGG Look for Less!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T20:15:21.793357Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2/$2.91 ac WALGREENS Degree Men Antiperspirant Deodorant Cool Rush, 2.6 oz",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T20:15:21.793357Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "6\" SparkPod High Pressure Round Rain Shower Head (4-Colors) $18.99 + Free Shipping w/ Prime or $6 Fee per Order",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T20:15:21.793357Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Walgreens $9 for 2 : Dove Men+Care 3 in 1 Soap 4 Bars, 3.75 oz or 18oz Body Wash pick up at $10+",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-13T20:09:51.970052Z",
