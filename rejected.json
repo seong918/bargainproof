@@ -1,5 +1,85 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Ohniyou 52'' 5475CFM 205RPM Remote Control Ceiling Fan with Lights $43.19",
+  "reason": "Posted at $43.19, but Amazon showed $59.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-13T15:45:41.023430Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Vortex Viper HD 10x42 Binoculars $319.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T15:45:41.023430Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$80 Ebay (VERIZON VALUE STORE) Tracfone 128gb/8gb 2024 Moto G Stylus 5G 1-Year Plan (1500/1500/1.5GB) Bundle with accessories",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T15:45:41.023430Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon: Columbia Women's PFG Freezer III Dress – Sizes 1X, 2X & 3X (Reg $60.00, Up to 86% Off) from $8.47",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-13T15:45:41.023430Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "22\" Sceptre E225W-FW144G FHD 1080p 144Hz LED Gaming Monitor w/ Built-In Speakers (Black) $64.97 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-13T15:40:09.758157Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Alvarez MD60E Dreadnought Acoustic-Electric Guitar $549.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T15:40:09.758157Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Oatey 14 oz. Plumber's Putty 2-Pack $2.74",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T15:40:09.758157Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Threshold Arthur Tufted Storage Bench 48\" (Gray) $108.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T15:40:09.758157Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "12-Amp 2-1/4 HP Variable Speed Fixed-Base Corded Router $162.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T15:40:09.758157Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "WORKPRO 48\"x 20\" Garage Workbench with 1200 LBS Load Capacity $100.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T15:40:09.758157Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Adidas Men Train Essentials Feelready Training Tee $8.00",
   "reason": "Not evaluated",
