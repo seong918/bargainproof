@@ -1,5 +1,117 @@
 [
  {
+  "source": "dealcatcher",
+  "raw_title": "Bosch OSL114CG 1-1/4 in. Starlock Oscillating Multi Tool Carbide Grit Plunge Blade $13.11",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T02:58:28.015128Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Bosch OSL214K 2-1/4 in. Starlock Oscillating Multi Tool Caulk Knife Blade $9.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T02:58:28.015128Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Woodworking by Emily St. James Kindle eBook $1.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T02:58:28.015128Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Peanuts® Snoopy & Woodstock Halloween Paper Beverage Napkins - 16 Pc. $2.67",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T02:58:28.015128Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Bosch OSL200RS 2 in. Starlock Oscillating Multi Tool High-Carbon Steel Rigid Scraper $8.90",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T02:52:55.608313Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Bosch OSL138K 1-1/4 in. Starlock Oscillating Multi Tool Hook Knife Blade $10.68",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T02:52:55.608313Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Bosch OSL212CG 2-1/2 in. Starlock Oscillating Multi Tool Carbide Grit Segmented Blade $23.65",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T02:52:55.608313Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "The Bright Ages: A New History of Medieval Europe Kindle eBook $1.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T02:52:55.608313Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Hanging Glow In The Dark Ghost Decoration $2.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T02:52:55.608313Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ozark Trail 10L Polyester Daypack Backpack (Navy or Rose) $4.97 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T02:47:21.548417Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SeasonBliss Bath Bombs for Women, Easter Basket Stuffers, 12 Pack Bubble Shower Bombs Set Total 26.3OZ, Natural Bath Bomb with Shea Butter & Safe Oil $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T02:47:21.548417Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $18.74 | BLUEAIR Genuine Blue Pure 411i, 411i+ Max Air Purifier Replacement Filter at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-13T02:41:48.464048Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$25.89: Maelstrom 35Can Soft Cooler Bag, Portable Beach Cooler with Flip-top Access",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-13T02:41:48.464048Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Adjustable Weighted Vest for Women, 1-12LBS Weight Vests $12.49 +Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T02:41:48.464048Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$1197.99: Samsung 85\" Class QN70FD Series 4K Neo QLED Smart TV",
   "reason": "Not evaluated",
