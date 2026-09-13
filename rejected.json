@@ -1,6 +1,14 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Crayola Washable Slim Dry Erase Markers, 10 Count $8.55",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-13T08:34:41.674010Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$252.99* | Husqvarna 150BT Gas Backpack Leaf Blower, 51-cc 2.16-HP 2-Cycle + 10% Back w/ Prime Visa Card at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-13T08:12:35.197845Z",
