@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "450513ce91dc",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20010036-24-34-push-the-wall-my-life-writing-drawing-and-the-art-of-storytelling-by-frank-miller-hardcover-at-amazon",
+  "title": "Push the Wall: My Life, Writing, Drawing, and the Art of Storytelling by Frank Miller (Hardcover)",
+  "raw_title": "$24.34 | Push the Wall: My Life, Writing, Drawing, and the Art of Storytelling by Frank Miller (Hardcover) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/1668065290",
+  "deal_total_cents": 2434,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 2434,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 2434,
+  "amazon_url": "https://www.amazon.com/dp/1668065290",
+  "amazon_checked_at": "2026-09-13T20:26:28.807647Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "1668065290",
+  "image_url": null,
+  "published_at": "2026-09-13T20:26:24.015620Z"
+ },
+ {
   "deal_id": "a0ca53986df0",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20009967-76-99-radio-flyer-3-in-1-ez-fold-wagon-w-canopy-at-amazon",

@@ -1,5 +1,21 @@
 [
  {
+  "source": "cheapshark",
+  "raw_title": "Detective Gallo",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T20:26:24.015620Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2/$3.59 ac AXE 16oz Body Wash for Men in Apollo or Black Walgreens Pick up at $10+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T20:20:51.882691Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Resident Evil 4 (PS4) $15.99 + Free S&H w/ Prime or $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
