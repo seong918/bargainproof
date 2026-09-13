@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "STAPLES FREE SHIP: any SELECT Five Boxes of 20-24 count Major Brand KCUPS $50 (ACTIVATE REWARDS MEMBERS)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T08:01:32.069522Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon Grocery, Peanut Butter Filled Pretzels, 44 Oz~$6.08 After Coupon & S&S @ Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — needs clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-13T07:56:00.878169Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Checkered Crossbody Bag Bum Bag $8.47 + Free Shipping w/ Prime or orders $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-13T07:56:00.878169Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "365 by Whole Foods Market, Organic Golden Round Crackers, 12 Ounce~$2.79 After Coupon & S&S @ Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-13T07:50:28.713008Z",

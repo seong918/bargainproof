@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "15e91ec2782e",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20007525-metroid-prime-4-beyond-nintendo-switch-41-99-free-s-h-at-amazon",
+  "title": "Metroid Prime™ 4: Beyond - Nintendo Switch",
+  "raw_title": "Metroid Prime™ 4: Beyond - Nintendo Switch $41.99 + Free S&H at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B072JYMLT3",
+  "deal_total_cents": 4199,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "prime"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 4199,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 4199,
+  "amazon_url": "https://www.amazon.com/dp/B072JYMLT3",
+  "amazon_checked_at": "2026-09-13T08:01:36.389741Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B072JYMLT3",
+  "image_url": null,
+  "published_at": "2026-09-13T08:01:32.069522Z"
+ },
+ {
   "deal_id": "0bc648894a4f",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20007957-razer-huntsman-mini-60-gaming-keyboard-linear-optical-switches-white-69",
