@@ -1,5 +1,37 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Pinspark Men's UPF 50+ UV Protection Long Sleeve Sun Shirt $7.49",
+  "reason": "Posted at $7.49, but Amazon showed $14.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-13T12:49:24.091847Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Walgreens Photo Poster Just $1.99 w/ Free Same-Day Pickup (Reg. $13)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T12:49:24.091847Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "19-in-1 Survival Kit Only $17.99 on Amazon (Reg. $30)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T12:43:52.152271Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "4-Pack up & up Classroom Desk Kit Set (White) $7.50 + Free Store Pickup at Target or Free Shipping on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T12:43:52.152271Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$239 AMAZON DJI Neo Fly More Combo, Mini Drone With 4K UHD Camera for Adults",
   "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
