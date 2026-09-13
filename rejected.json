@@ -1,5 +1,29 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Scenic 12-Night Antarctica Cruise for From $37,946 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T12:05:19.053988Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Tweezer Set w/ Travel Case Only $4.99 on Amazon (Reg. $10)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T12:05:19.053988Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "PRS SE Studio Standard Electric Guitar Pearl White $599",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T11:59:46.946252Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Topsky 225lbs Dual Motor Electric Ergonomic Adjustable Standing Desk Frame $98.99",
   "reason": "Posted at $98.99, but Amazon showed $149.99 when we checked — the deal is probably over",
