@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "SPTA 12 Pack Ultra Fine Microfiber Cloths for Glass(16'' X 16'', Blue) $12.30 + Free S&H w/ Prime or $35+",
+  "reason": "Community score too low (+3) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-13T01:29:41.009997Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "6-Oz First Aid Beauty Ultra Repair Intense Hydration Cream $17.85 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-13T01:29:41.009997Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Adidas Men's Essentials Small Logo Cargo Chelsea Shorts (Olive Strata/Black) $13.00 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-13T01:24:07.859840Z",
