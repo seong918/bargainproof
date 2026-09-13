@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$49.99* | WSRYYCC Handheld 1500W Portable Steam Cleaner (2 Colors) at Amazon",
+  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-13T09:06:44.916187Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CITIZEN Men's Eco-Drive Axiom 40mm Stainless Steel AU2002-52E $255",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-13T09:06:44.916187Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[NEW] $439.62 | BLACK+DECKER 18.1 Cu. Ft. Top Mount Refrigerator with Ice Maker, BR1810HIMB at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-13T09:01:14.528025Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$17.49: Mario Kart 8 Deluxe – Booster Course Pass(Nintendo Switch,Digital) at BestBuy",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T09:01:14.528025Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Thames & Kosmos Magic Hat | 35 Tricks Magic Set for Kids | 44 Props Including Sturdy Hat & Rabbit Puppet | Coin Box, Dice Tube, Rings, Rope, Cards & More | Ages 6+ $27.74",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-13T08:55:57.431083Z",
