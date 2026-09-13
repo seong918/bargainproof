@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Memory Foam Cervical Neck Pillow, $14.99 w/ code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-13T14:17:33.945432Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "1000X Handheld Digital Microscope for Kids, 2.4\" IPS Screen STEM Toys $25.94",
+  "reason": "Posted at $25.94, but Amazon showed $25.49 when we checked — the post is stale",
+  "rejected_at": "2026-09-13T14:17:33.945432Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "COSYGLOW Portable Cordless Heating Pad Cramps $9.59",
+  "reason": "Posted at $9.59, but Amazon showed $15.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-13T14:17:33.945432Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "NFL 5 Gallon Buckets (ALL TEAMS) $8.98 FS LOWES",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T14:17:33.945432Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$2.38 AMAZON ARM & HAMMER ULTRAMAX Anti-Perspirant Deodorant Invisible Solid Unscented 2.60 oz",
   "reason": "Community score too low (+-2) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-13T14:12:04.706145Z",

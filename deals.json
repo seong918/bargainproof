@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "05b704c55eb8",
+  "source": "techbargains",
+  "source_url": "https://www.amazon.com/dp/B0DLBX4B1K",
+  "title": "Apple Mac Mini M4 10-Core CPU 10-Core GPU Desktop (16GB/512GB)",
+  "raw_title": "Apple Mac Mini M4 10-Core CPU 10-Core GPU Desktop (16GB/512GB) $979.99",
+  "merchant": "amazon",
+  "buy_url": "https://www.amazon.com/dp/B0DLBX4B1K",
+  "deal_total_cents": 97999,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 97999,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 97999,
+  "amazon_url": "https://www.amazon.com/dp/B0DLBX4B1K",
+  "amazon_checked_at": "2026-09-13T14:17:44.702795Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": null,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0DLBX4B1K",
+  "image_url": null,
+  "published_at": "2026-09-13T14:17:33.945432Z"
+ },
+ {
   "deal_id": "ac179b11a2df",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20008662-573-pcs-lego-one-piece-buggy-the-clown-s-circus-tent-building-blocks-75637-37-39-free-s-h-at-amazon",
