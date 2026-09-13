@@ -1,5 +1,29 @@
 [
  {
+  "source": "hip2save",
+  "raw_title": "Starbucks Frappuccino 12-Pack Only $17.48 Shipped on Amazon | Just $1.45 Each!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T11:33:07.669488Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Hmcity 3-Mode 120-LED Motion Sensor Waterproof Outdoor Solar Lights (8-Pack) $21.49",
+  "reason": "Posted at $21.49, but Amazon showed $42.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-13T11:27:33.056923Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Oroweat Sandwich Thins Superior Keto Rolls, 6 count, (2.0 oz each), Plain Pre-sliced Sandwich Thins, 12 oz Tray $1.19",
+  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-13T11:17:02.254157Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
   "source": "slickdeals",
   "raw_title": "[SnS, AC] $3.29* | 30-Oz Hellmann's Real Mayonnaise at Amazon",
   "reason": "Same deal was already posted from another source",
