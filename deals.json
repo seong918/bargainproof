@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "3f9ead2db691",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20008047-8-98-10-nintendo-eshop-gift-card-digital-code-at-amazon",
+  "title": "Nintendo eShop Gift Card (Digital Code)",
+  "raw_title": "$8.98* | $10 Nintendo eShop Gift Card (Digital Code) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 898,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-13T08:55:57.431083Z"
+ },
+ {
   "deal_id": "21aaecdb3fdf",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20008086-999-fluke-789-processmeter-at-amazon",

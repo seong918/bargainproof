@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Thames & Kosmos Magic Hat | 35 Tricks Magic Set for Kids | 44 Props Including Sturdy Hat & Rabbit Puppet | Coin Box, Dice Tube, Rings, Rope, Cards & More | Ages 6+ $27.74",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-13T08:55:57.431083Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Super Mario 3D World + Bowser’s Fury(Nintendo Switch) $41.99 + Free S&H at BestBuy",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T08:55:57.431083Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$8.98* | $10 Nintendo eShop Gift Card (Digital Code) at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-13T08:55:57.431083Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$8.99 | Sonic Electric Toothbrush Set w/ 10 Brush Heads & Travel Case (various) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-13T08:50:41.996816Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "American Girl, AG Sisters Lea Doll, with Hazel Eyes, Long Wavy Brown Hair with Hot-Pink Highlights, 14.5\", Ages 4+ (Amazon Exclusive) $59.5",
+  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-13T08:50:41.996816Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Lugz Men's Stagger Hi Chukka Sneaker (Navy/White or White) - $13.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T08:50:41.996816Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "New Super Mario Bros. U Deluxe(Nintendo Switch) $41.99 + Free S&H at BestBuy",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T08:50:41.996816Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "AND1 Men’s Reaction 2.0 Slip-On Sneakers (Olive) - $6.33",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-13T08:45:26.741208Z",
