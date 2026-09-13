@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "061ddbd5b039",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20007615-7-36-24-pack-12-oz-a-w-root-beer-cans-at-amazon",
+  "title": "24-Pack 12-Oz A&W Root Beer Cans",
+  "raw_title": "$7.36 | 24-Pack 12-Oz A&W Root Beer Cans at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0D2J1L488",
+  "deal_total_cents": 736,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "qty"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 736,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 736,
+  "amazon_url": "https://www.amazon.com/dp/B0D2J1L488",
+  "amazon_checked_at": "2026-09-13T05:54:27.070418Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0D2J1L488",
+  "image_url": null,
+  "published_at": "2026-09-13T05:54:22.863212Z"
+ },
+ {
   "deal_id": "64b87741719f",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20007600-24-49-nintendo-switch-ac-adapter-at-amazon",
