@@ -1,5 +1,29 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "VIPEK 16.5\"x 29.5\"x 76.8\" R2 Medium Adjustable Portable Garment Rack $49.99",
+  "reason": "Posted at $49.99, but Amazon showed $99.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-13T10:28:18.175765Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "McCormick Grill Mates 7.75oz Hamburger Seasoning $4.49",
+  "reason": "Posted at $4.49, but Amazon showed $5.61 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-13T10:17:12.030326Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Walgreens Photo: 11\" x 14\" Custom Photo Poster - $1.99 + Free Store Pickup",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T10:17:12.030326Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Conair Handheld Garment Steamer for Clothes $21.49",
   "reason": "Not evaluated",
