@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Metabo HPT 18V Cordless Brushless Impact Driver w/ 2x 2.0Ah Batteries & Charger $74.92 + Free Shipping",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-13T02:25:11.964095Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Staples 3\" x 3\" Sticky Notes 36 pads (100 sheets/pad) for $4.91",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-13T02:19:39.186761Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "(Certified Refurbished) Anker SOLIX F2600 2560Wh 2400W Portable Power Station $785.99 + Free",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-13T02:14:07.729505Z",
