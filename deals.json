@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "6ea779369ee5",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20010129-24-apple-airtag-2nd-generation-at-amazon",
+  "title": "Apple AirTag (2nd Generation)",
+  "raw_title": "$24* | Apple AirTag (2nd Generation) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0GJTFXNRX",
+  "deal_total_cents": 2400,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 2400,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 2400,
+  "amazon_url": "https://www.amazon.com/dp/B0GJTFXNRX",
+  "amazon_checked_at": "2026-09-13T21:21:43.466800Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0GJTFXNRX",
+  "image_url": null,
+  "published_at": "2026-09-13T21:21:39.306614Z"
+ },
+ {
   "deal_id": "f9713eeab609",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20010093-new-19-04-teacher-created-resources-navy-blue-better-than-paper-bulletin-board-roll-tcr77045-at-amazon",
