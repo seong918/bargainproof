@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Samsung Galaxy Z Flip8, 256GB Graphite $1049.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-14T09:06:24.213263Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "PowerSmart 3,800W Portable Inverter Generator for $365 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T09:06:24.213263Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men Climacool Shoes (Limited Sizes, Grey Four / Core Black / Grey Four) $56",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T09:06:24.213263Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$139 | Bosch GWX18V-10PN 18V X-LOCK Brushless 4-1/2 – 5 In. Angle Grinder with No Lock-On Paddle Switch (Bare Tool) at Amazon",
   "reason": "Out of stock on Amazon when we checked",
   "rejected_at": "2026-09-14T09:00:55.316821Z",
