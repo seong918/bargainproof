@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$139 | Bosch GWX18V-10PN 18V X-LOCK Brushless 4-1/2 – 5 In. Angle Grinder with No Lock-On Paddle Switch (Bare Tool) at Amazon",
+  "reason": "Out of stock on Amazon when we checked",
+  "rejected_at": "2026-09-14T09:00:55.316821Z",
+  "code": "amazon_oos",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men Swift Run 1.0 Shoes (Olive Strata / Blanch Cargo / Cloud White) $32",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T09:00:55.316821Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Costco Members: 2-Pack $50 DoorDash eGift Cards (Email Delivery) $79.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-14T08:55:29.525148Z",
