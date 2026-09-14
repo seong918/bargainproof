@@ -1,5 +1,149 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Nature’s Eats Superfine Almond Flour - Finely Sifted, Blanched Gluten Free Nut Flour for Bread, Pancake Mix, Muffins 16 oz~$5.51 @ Amazon",
+  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-14T12:28:37.520840Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ekouaer Womens Pajama Sets Sexy Side Split Shorts Lounge Pjs Set $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $24.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-14T12:28:37.520840Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Carrying Bag for Ninja Slushie $16.19",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T12:28:37.520840Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "60FT String Lights Outdoor with 32 Shatterproof Vintage Edison Bulbs $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T12:28:37.520840Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Carltec No Drill 2K Window Security Camera $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T12:28:37.520840Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "4 Pairs Magnetic Hand Holding Christmas Socks $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T12:28:37.520840Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Monster Shock Portable Bluetooth Wireless Speaker $29.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T12:28:37.520840Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "5,000-PSI Pressure Washer Gun for $25 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T12:28:37.520840Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas women Ultraboost 5X Shoes (4 Colors) from $64",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T12:28:37.520840Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "22-Oz Gatorade Stainless Steel Water Bottle (Pink) $11.99 + Free Shipping w/ Target 360, Circle Card, or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T12:28:37.520840Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "PINSPARK Mens Golf Polo Shirts Quick Dry Polo Shirts for Men Long Sleeve $8.99",
+  "reason": "Posted at $8.99, but Amazon showed $19.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-14T12:23:24.153013Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "3 Channel 4K Dash Cam Front and Rear Inside with 64GB Card $44.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T12:23:24.153013Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "OFEEFAN Long Sleeve Sweater Dresses $11.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T12:23:24.153013Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "WIHOLL Boho Lace V Neck Long Sleeve Tops w/ Pockets $6.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T12:23:24.153013Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Sipaya Womens Oversized Chunky Sweaters $12.89",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T12:23:24.153013Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "OFEEFAN Crewneck Long Sleeve Color Block Sweatshirt $6.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T12:23:24.153013Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Sampeel Thermal Fleece Lined Underwear for Women $8.58",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T12:23:24.153013Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas women Terrex Free Hiker 2.0 Gore-Tex Hiking Shoes (Core Black / Core Black / Cloud White) $82",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T12:23:24.153013Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "OFEEFAN Long Sleeve Shirts $7.79",
   "reason": "Not evaluated",
