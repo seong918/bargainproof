@@ -1,5 +1,93 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "BOSCH CM8S 8-1/2 In. Single-Bevel Slide Miter Saw for Woodworking $405.15",
+  "reason": "Community score too low (+-3) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-14T10:07:01.601271Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Fluke Networks LIQ-KIT LinkIQ Cable + Network Tester Kit $2478.6",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-14T10:07:01.601271Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Bbibbi Women's Long Sleeve Button Down Work Shirt for $10 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T10:07:01.601271Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Koqeiey Protective Hard Case for DJI Osmo Pocket 4 Pro/4/3 for $13 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T10:07:01.601271Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "AliExpress Fall Sale: Up to 60% off + extra $2 to $70 off + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T10:07:01.601271Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Greenworks 80V 60\" CROSSOVERZ Zero Turn Lawn Mower, (2) 16.0Ah and (4) 8.0Ah Batteries and (1500W) Charger $5499.99",
+  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-14T10:01:31.261228Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "7-Night Germany & France Flight and Rhine River Cruise Vacation for From $5,398 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T10:01:31.261228Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ficovis Men's Long Sleeve Button Down Dress Shirt for $10 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T10:01:31.261228Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Metabo HPT 1/4\" x 100ft. Air Compressor Hose for $25 + free shipping w/ $25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T10:01:31.261228Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Baleine 12\" x 10-Foot Non-Adhesive Cabinet Liner for $6 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T10:01:31.261228Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men Harden Volume 10 Shoes (Hi-Res Yellow / Core Black / Lucid Orange) $63",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T10:01:31.261228Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Cozeware 18,000 BTU 20 SEER2 Mini Split Mini Split AC/Heating System for $620 + free shipping",
   "reason": "Not evaluated",
