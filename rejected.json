@@ -1,6 +1,366 @@
 [
  {
   "source": "dealcatcher",
+  "raw_title": "Frito-Lay Classic Mix Variety Pack (21-Pack) $8.92",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T18:03:51.184704Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Skechers Women's Go Walk Rib Full Length High Waisted Legging $14.30",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T18:03:51.184704Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "TCL 85 Inch QM7L Series SQD-Mini-LED QLED Smart TV 144Hz $1,497.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T18:03:51.184704Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas Men's Cloudfoam Cuxxion Sock Shoes for $36 + Free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T18:03:51.184704Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "8-Night Egypt Flight, Hotel, Cruise, and Tour Vacation for From $2,798 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T18:03:51.184704Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "8-Night Egypt Flight, Hotel, Cruise, and Tour Vacation for From $3,198 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T18:03:51.184704Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Philips Sonicare C2 Brush Heads 3-Pack for $6.39 via Sub & Save + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T18:03:51.184704Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "$81 Worth Of Games Just $21.97 Shipped for New Woot Customers",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T18:03:51.184704Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "PAGANI DESIGN PD-1682 GMT Automatic Watch Mechanical Wristwatch Orange Black $58.7 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T18:03:51.184704Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Steam Weekly Sale: Voin $5; Rift of the NecroDancer $7; Half-Life: Alyx $15; Dying Light: The Beast $30 & More (PC Games)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T18:03:51.184704Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Learning Resources Sunshine Shape Sorter $5.15 + Free S&H w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T18:03:51.184704Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "11\" Wellobeez Antimicrobial Musical Plush Animal & 5\" Plush Keychain $7.72 + Free S&H w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T18:03:51.184704Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Amoard 2-Tier Wooden Knife Display Case with Clear Lid $30",
+  "reason": "Posted at $30.00, but Amazon showed $79.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-14T17:58:20.311690Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Nature's Way Fortify Daily Pre+Probiotic for Adults 30 Billion CFUs 30 Count $13.64",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T17:58:20.311690Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "VASCHY 12″ Small Quilted Backpack $11.03",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T17:58:20.311690Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Christmas Reusable Bags 20-Pack Assorted Sizes $15.59",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T17:58:20.311690Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Dr Pepper ZERO Sugar 12oz 12ct Cans $4.68",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T17:58:20.311690Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Fluke 393 FC Solar Clamp Meter $451.06",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T17:58:20.311690Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Fluke T6-600 Electrical Tester $163.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T17:58:20.311690Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Aquarius Deadpool Quotes Playing Cards $6.67",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T17:58:20.311690Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "ChatPlayground AI Unlimited Plan Lifetime Subscription for $55 + N/A",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T17:58:20.311690Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Vitafit Bathroom Scale for Body Weight for $14 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T17:58:20.311690Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Eastsport 16\" Success Clear Backpack for $5 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T17:58:20.311690Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Tiny Love Tiny Rockers Toddler Accordion Toy $8.24 + Free S&H w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T17:58:20.311690Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Samsung - Galaxy A37 5G 128GB (Unlocked) - Awesome Graygreen $374.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T17:58:20.311690Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Costway 5-Piece Patio Conversation Set with 2 Ottomans and Tempered Glass Side Table $149.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T17:58:20.311690Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Spectracide Weed & Grass Killer, Use On Patios, Walkways and Driveways, 1 gal. $6.68",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T17:58:20.311690Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Yasonic 6-in-1 Rustproof Shower Caddy (6-Pack) $10.19",
+  "reason": "Posted at $10.19, but Amazon showed $16.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-14T17:52:51.160988Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Samsung Galaxy S26 FE Unlocked Phone 128GB + $200 Amazon Giftcard $699.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T17:52:51.160988Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Bedsure Travel Blanket Set $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T17:52:51.160988Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Seventh Generation Multi-Surface Cleaning Wipes 35-Count (Garden Mint) $3.03",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T17:52:51.160988Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Hisense U7 65\" 4K UHD Mini-LED ULED Smart Google TV $849.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T17:52:51.160988Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "CINCOM Corded Air Compression Leg & Foot Massager Boots w/ 3 Modes & 3 Intensity Levels $80.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T17:52:51.160988Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LG 85-Inch 4K QNED73B Series Mini LED Smart TV $979.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T17:52:51.160988Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Fluke TL175E TwistGuard Double Insulated Silicone Test Lead Set with Removable 4mm Lantern Tips $38.24",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T17:52:51.160988Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Fluke 376FC AC/DC Clamp Meter with iFlex $437.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T17:52:51.160988Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Bubsy 4D - Pawsome Edition (Nintendo Switch 2) $39.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T17:52:51.160988Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Fluke 179 Multimeter and 323 Clamp Meter True-RMS Combo IMSK Industrial Multimeter Service Kit $491.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T17:52:51.160988Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Fluke 789 ProcessMeter $999.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T17:52:51.160988Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Targus Vertical Slipcase Laptop Messenger Bag for 14\" Laptop $10.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T17:52:51.160988Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Fluke 17B+ Digital Multimeter Electrical Tester $129.74",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T17:52:51.160988Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Mario Kart 8 Deluxe – Booster Course Pass (Digital) $17.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T17:52:51.160988Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "VEVOR Vending Machine, Classic Gumball Bank, Huge Load Capacity Candy Gumball Machine, Mini Vending Machines, Gumball Dispenser Machine $45.92",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T17:52:51.160988Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$1.99 | Crystal Crisis (Nintendo Switch Digital Download)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T17:52:51.160988Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Wonder Nation Toddler Boys' Graphic Tank Top Shirt (Sizes 18M-5T) $1.59 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T17:52:51.160988Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
   "raw_title": "Amazon Fire TV Cube 4K Ultra HD $109.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-14T17:47:20.963697Z",
