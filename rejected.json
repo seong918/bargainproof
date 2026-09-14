@@ -1,5 +1,21 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$99.27-140 AC (select sizes) Timberland Men's Authentic 3-Eye Lug Handsewn Boat Shoes BROWN or Burgundy",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-14T11:35:18.382624Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas kids Duramo SL Shoes(2 Colors) $24 + Free S&H at ebay",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T11:35:18.382624Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Eddie Bauer Sherpa Reverse 50\" x 60\" Throw Blanket for $8 + free shipping w/ Prime",
   "reason": "Not evaluated",
