@@ -1,5 +1,141 @@
 [
  {
+  "source": "cheapshark",
+  "raw_title": "This Way Madness Lies",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T19:37:10.952762Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Echoes Of Aetheria",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T19:37:10.952762Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Manscape Body Hair Trimmer $29.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T19:37:10.952762Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Barq's 12 fl. oz. Can Root Beer Soda 12-Pack for $6 + shipping varies",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T19:37:10.952762Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Costway Countertop Reverse Osmosis Water Filter, 5-Stage RO + PPC Water Filtration System with UV Light $112 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T19:37:10.952762Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS] $7.26* | 32-Pc XPCARE Kraft Paper Gift Bags (6 Colors, 5.25\" x 3.25\" x 8.25\") at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-14T19:31:40.646241Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "X-Sense Wi-Fi Radon Detector for Home for $80 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T19:31:40.646241Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Toilet Tank Cleaning Tablet Holder 2-Pack Just $7.99 on Amazon (Viral on TikTok)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T19:31:40.646241Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC] $40.49* | CORSAIR 3200D RS Mid-Tower PC Case w/ 3x RS120 PWM Fans at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-14T19:26:11.353293Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $47.49* | VTOMAN X1 2500A Jump Starter / 150PSI Air Compressor for 8.5L Gas/6L Diesel at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-14T19:26:11.353293Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC] $44.12* | 8\" Cuisinart FusionElite+ Nonstick Tri-Ply Stainless Steel Skillet at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-14T19:26:11.353293Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "j5create 380W 6-Port GaN USB-C Fast Charging Station $99.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T19:26:11.353293Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "AND1 Men's Zone Mule Slip On Sandals for $6 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T19:26:11.353293Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Nike Aura 24L Backpack for $21 + free shipping w/ $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T19:26:11.353293Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Acer Nitro 65 Gaming Desktop: Ryzen 7 8700F, RX 9060 XT (16GB), 16GB DDR5, 1TB SSD $1369.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T19:26:11.353293Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "OtterBox iPhone 17e/16e/15/14/13 Symmetry Series Clear Case - Blue Bliss, MagSafe $8.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T19:26:11.353293Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Buy One Get One Offer: 8-Piece Comforter Sets (Various, Any Size) $29.93 + Free Pickup at Macys or Free Shipping on $39+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T19:26:11.353293Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "UGREEN USB Bluetooth Adapter for PC Bluetooth 6.0 Dongle Receiver $7.99 + Free S&H w/ Prime or $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
@@ -59,14 +195,6 @@
   "source": "slickdeals",
   "raw_title": "[Prime, AC] $49.99* | Fanbulous 42\" Outdoor Ceiling Fan w/ Light & Remote at Amazon",
   "reason": "Community score too low (+0) to pass without a price check — needs clip coupon, Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-14T19:15:13.700137Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[Prime] $47.49* | VTOMAN X1 2500A Jump Starter / 150PSI Air Compressor for 8.5L Gas/6L Diesel at Amazon",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-14T19:15:13.700137Z",
   "code": "low_score",
   "public": true
