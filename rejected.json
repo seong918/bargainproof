@@ -1,5 +1,45 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Kohl's Customer Appreciation Event: Up to 30% off + free shipping w/ $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T08:00:25.743520Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "MIlwaukee SHOCKWAVE Impact-Duty 3/8 in. Drive Metric and SAE Deep Well Impact PACKOUT Socket Set (36-Piece) $157",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T07:54:53.822037Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee SHOCKWAVE 1/2 in. Drive Metric Deep Well 6 Point Impact Socket Set (14-Piece) $69.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T07:54:53.822037Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Rerdeim 5-Piece Putty Knife Set for $6 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T07:49:20.715494Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee SHOCKWAVE Impact-Duty 1/2 in. Drive SAE Deep Well Impact PACKOUT Socket Set (15-Piece) $104",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T07:49:20.715494Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "2-Pack TIVMIK 11.81''-22.85'' Expandable Pots and Pans Organizer Rack (White or Black) $21.99 + Free Shipping",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
@@ -47658,14 +47698,6 @@
  {
   "source": "slickdeals",
   "raw_title": "Milwaukee M18 FUEL Gen-2 18V Lithium-Ion Brushless Cordless Mid Torque 1/2 in. Impact Wrench w/Friction Ring w/ Safety Glasses $199",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T07:34:44.336907Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Milwaukee SHOCKWAVE Impact-Duty 1/2 in. Drive SAE Deep Well Impact PACKOUT Socket Set (15-Piece) $104",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-09T07:34:44.336907Z",
   "code": "not_checked",
