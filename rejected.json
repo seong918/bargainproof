@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$16.34 Indomie Mi Goreng Instant Stir Fry Noodles, Hot & Spicy 2.82 Ounce (Pack of 30)",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-14T02:45:59.896332Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$15 FS WALMART or pick up where available Choice of 3 colors George Men's Hip Strap Sandals",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T02:45:59.896332Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$7.13 FS WALMART+ (regional stock) Reebok Men's Cushioned Comfort Slip-On Slides in Black",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T02:45:59.896332Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Nature's Way Fortify Daily Pre+Probiotic for Adults, 30 Billion CFUs, 30 ct $13.64",
   "reason": "Posted at $13.64, but Amazon showed $12.99 when we checked — the post is stale",
   "rejected_at": "2026-09-14T02:34:59.448796Z",
