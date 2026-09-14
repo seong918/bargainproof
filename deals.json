@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "554f5965e56d",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20010702-3-14-03-s-s-multibuy-diet-dr-pepper-soda-12-fl-oz-cans-pack-of-12",
+  "title": "3 / S&S MULTIBUY Diet Dr Pepper Soda, 12 fl oz cans, pack of 12",
+  "raw_title": "3 / $14.03 S&S MULTIBUY Diet Dr Pepper Soda, 12 fl oz cans, pack of 12",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1403,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "sns"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-14T08:22:25.027238Z"
+ },
+ {
   "deal_id": "5331a8b5b7b2",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20011647-24-99-2-pk-anker-zolo-4-port-up-to-50w-usb-c-usb-a-wall-chargers-black-at-amazon",
