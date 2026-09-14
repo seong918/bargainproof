@@ -1,5 +1,109 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "482-Piece LEGO Botanicals Flowering Cactus Building Toy $26.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-14T21:26:58.671990Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "The Doors Greatest Hits Vinyl for $17 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T21:26:58.671990Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Staples 8.5\" x 11\" 8-Ream Multiuse Paper for $43 + free delivery",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T21:26:58.671990Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Crocs Adult Unisex Baya Clog ( Other CrocsOn Sale) $24.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T21:26:58.671990Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "107-Piece LEGO Star Wars: The Mandalorian - Grogu's Homestead (75443) $15.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-14T21:21:31.058735Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Firsting 5' 4-in-1 USB-C Braided Multi Charging Cable (Pack of 2) $7.69",
+  "reason": "Posted at $7.69, but Amazon showed $13.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-14T21:21:31.058735Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Gaiatop Mug Warmer for $8 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T21:21:31.058735Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "1000W ASRock PRO PRO-M1000G ATX 3.1 80 Plus Gold Power Supply $108.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T21:21:31.058735Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Converse Adult Day One Trainer Sneakers, $25, two colors, Target",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T21:21:31.058735Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$177.06 Walmart Pirelli Scorpion All Season Plus 3 All Season 235/55R20 102V SUV/Crossover Tire",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T21:21:31.058735Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC] $427.48* | CUCKOO Twin Pressure Induction Rice Cooker, 12-Cup Cooked, CRP-PHTR0609FS at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-14T21:16:00.018564Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Bandai Hobby Kit Star Wars Death Star II & Star Destroyer for $14 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T21:16:00.018564Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Wolverine Women's Piper 6\" Composite Toe Work Boots $55 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T21:16:00.018564Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "hip2save",
   "raw_title": "Spindrift Sparkling Water 20-Count Variety Pack Only $9.62 Shipped on Amazon",
   "reason": "Not evaluated",
