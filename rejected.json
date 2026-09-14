@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Nature's Way Fortify Daily Pre+Probiotic for Adults, 30 Billion CFUs, 30 ct $13.64",
+  "reason": "Posted at $13.64, but Amazon showed $12.99 when we checked — the post is stale",
+  "rejected_at": "2026-09-14T02:34:59.448796Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Hair Dryer, CONFU Hair Dryer with Diffuser 110000 RPM $49.99",
+  "reason": "Posted at $49.99, but Amazon showed $84.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-14T02:34:59.448796Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "22.8\"x15\"x9\" Adjustable Headrest Memory Foam Wedge Pillow (Light Gray) $10.00 + Free Shipping w/ Prime or on $35+",
   "reason": "Same deal was already posted from another source",
   "rejected_at": "2026-09-14T02:29:27.900831Z",
