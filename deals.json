@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "2217176378fb",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20011146-ac-133-26-007-first-light-legacy-edition-xbox-series-x-at-amazon",
+  "title": "007 First Light - Legacy Edition (Xbox Series X)",
+  "raw_title": "[AC] $133.26 | 007 First Light - Legacy Edition (Xbox Series X) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0FN6T3WFD",
+  "deal_total_cents": 13326,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 22566,
+  "amazon_coupon_cents": 9240,
+  "amazon_effective_cents": 13326,
+  "amazon_url": "https://www.amazon.com/dp/B0FN6T3WFD",
+  "amazon_checked_at": "2026-09-14T05:31:31.093597Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0FN6T3WFD",
+  "image_url": null,
+  "published_at": "2026-09-14T05:31:27.158420Z"
+ },
+ {
   "deal_id": "c04abe7d9f06",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20011134-new-ac-46-38-fiskars-33-reach-lifewell-self-watering-system-for-indoor-houseplants-at-amazon",
