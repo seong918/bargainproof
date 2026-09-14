@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "PrimeMembers: BlissTrends 38\"×83\" Magnetic Mesh Screen Door (Black) $6.99 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-14T19:59:07.508935Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Antihero",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T19:59:07.508935Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ACEMAGIC F5A Mini PC: Ryzen AI 9 HX 470, 32GB LPDDR5X, 1TB Gen4 SSD, 2xUSB4, OCuLink, 3X M.2, 2.5G Lan, Win11P @ $979 + F/S",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T19:59:07.508935Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Havato Espresso Machine 20 Bar, Hot & Cold Brew Coffee Maker with Steam Wand Milk Frother, LED Display, Single & Double Shot, Home Barista Coffee Machine $89.99",
   "reason": "Posted at $89.99, but Amazon showed $179.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-14T19:53:38.789059Z",
