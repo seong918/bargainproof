@@ -1,5 +1,109 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Eddie Bauer Sherpa Reverse 50\" x 60\" Throw Blanket for $8 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T11:29:45.471551Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas Men's Gazelle Shoes (Black/Scarlet) $41.97 & More + Free Shipping on $49+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T11:29:45.471551Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas women Cloudfoam Pure Shoes(Core Black/ Core Black/ Grey Six) $30 + Free S&H at ebay",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T11:29:45.471551Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men Grand Court 2.0 Shoes (Core Black) $26",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T11:29:45.471551Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Patiowell 22\" x 16\" 32-Gallon Plastic Deck Box for $31 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T11:18:40.903801Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Amazon Grocery Pretzel Sticks Only $1.57 Shipped",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T11:18:40.903801Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men Adilette Comfort Slides (5 Colors) from $14",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T11:18:40.903801Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas Men's Campus 00s Casual Shoes (Semi Lucid Blue&More, Select Sizes) $34 + Free S&H at ebay",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T11:18:40.903801Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "NFL 5-Gallon Team Buckets Deals at Lowe's for $9",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T11:13:09.852292Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Graphic T-Shirt Sale at Woot for 3 for $18 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T11:13:09.852292Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "$10 Nintendo eShop Gift Card for $8",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T11:07:39.841415Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "4-Night Riviera Maya All-Inclusive Flight and Resort Vacation for From $1,218 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T11:02:08.105514Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men Lite Racer 4.0 Shoes(Cloud White/Lucid Blue) $22 + Free S&H at ebay",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T11:02:08.105514Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Amazon Brand Happy Belly Dark Roast Coffee Pods (24-Count) $3.82",
   "reason": "Posted at $3.82, but Amazon showed $5.45 when we checked — the deal is probably over",
