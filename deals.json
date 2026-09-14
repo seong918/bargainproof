@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "b6bff1a550d0",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20014725-miroir-m416-projector-1080p-200lm-amazon-prime-36",
+  "title": "Miroir M416 Projector 1080p 200lm Amazon prime",
+  "raw_title": "Miroir M416 Projector 1080p 200lm Amazon prime $36",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0FKMJ3G53",
+  "deal_total_cents": 3600,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "prime"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 3598,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 3598,
+  "amazon_url": "https://www.amazon.com/dp/B0FKMJ3G53",
+  "amazon_checked_at": "2026-09-14T22:11:04.658521Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 6,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0FKMJ3G53",
+  "image_url": null,
+  "published_at": "2026-09-14T22:11:00.163987Z"
+ },
+ {
   "deal_id": "6c66eb54f5ec",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20014575-bohowe-women-s-long-sleeve-floral-boho-maxi-dress-w-pockets-s-3xl-various-prints-14-99-free-shipping-w-prime-or-on-35",
