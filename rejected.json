@@ -1,6 +1,38 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "Gecork Window Screen Replacement Mesh for $5.99 w/ Prime + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T07:38:20.261272Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Sennheiser Momentum 4 Bluetooth Wireless Headphones for $165 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T07:38:20.261272Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee 7-1/4 in. x 24-Tooth Framing Circular Saw Blades (4-Pack) $24.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T07:38:20.261272Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee SAWZALL Metal Cutting Bi-Metal Reciprocating Saw Blade Set (16-Piece) with 2 Carbide Blades $25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T07:38:20.261272Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
   "raw_title": "Ozark Trail Wayfarer Fiberglass Spinning Fishing Rod & Reel Combo for $10 + free shipping w/ $35",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-14T07:32:51.358406Z",
@@ -47169,14 +47201,6 @@
  },
  {
   "source": "slickdeals",
-  "raw_title": "Milwaukee SAWZALL Metal Cutting Bi-Metal Reciprocating Saw Blade Set (16-Piece) with 2 Carbide Blades $25",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T08:24:59.486498Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
   "raw_title": "100-Count 11.8\" 304 Stainless Steel Metal Zip Ties $5.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Same deal was already posted from another source",
   "rejected_at": "2026-09-09T08:24:59.486498Z",
@@ -47610,14 +47634,6 @@
  {
   "source": "slickdeals",
   "raw_title": "EcoFlow TRAIL 200 DC Portable Power Station $89",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T07:34:44.336907Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Milwaukee 7-1/4 in. x 24-Tooth Framing Circular Saw Blades (4-Pack) $24.97",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-09T07:34:44.336907Z",
   "code": "not_checked",
