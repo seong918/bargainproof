@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "b19f142f8f2b",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20011584-prime-ac-45-49-ugreen-nexode-20000mah-145w-built-in-usb-c-power-bank-at-amazon",
+  "title": "UGREEN Nexode 20000mAh 145W Built-in USB-C Power Bank",
+  "raw_title": "[Prime, AC] $45.49 | UGREEN Nexode 20000mAh 145W Built-in USB-C Power Bank at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0DSPVP337",
+  "deal_total_cents": 4549,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "prime"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 6499,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 6499,
+  "amazon_url": "https://www.amazon.com/dp/B0DSPVP337",
+  "amazon_checked_at": "2026-09-14T09:45:03.686690Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0DSPVP337",
+  "image_url": null,
+  "published_at": "2026-09-14T09:44:59.463112Z"
+ },
+ {
   "deal_id": "cfd9fb7070bb",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20011521-sns-ac-4-35-80-count-200mg-advil-liqui-gels-pain-reliever-fever-reducer-at-amazon",
