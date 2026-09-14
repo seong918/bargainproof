@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "7f0365dcf0eb",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20011620-sns-ac-0-75-advil-tablets-ibuprofen-200mg-pain-relief-24-tablets-at-amazon",
+  "title": "Advil Tablets, Ibuprofen 200mg, Pain Relief, 24 Tablets",
+  "raw_title": "[SnS, AC] $0.75 | Advil Tablets, Ibuprofen 200mg, Pain Relief, 24 Tablets at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 75,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-14T09:17:28.762127Z"
+ },
+ {
   "deal_id": "221942c870f5",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20011689-prime-749-99-dreame-aqua10-ultra-roller-robot-vacuum-and-mop-aquaroll-mopping-at-amazon",
