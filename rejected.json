@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "25% off aosu Total-Watch Classic AI Suite, 3K Solar Security Camera Outdoor System $599.98",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-14T04:47:19.783093Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Spektrum SLT3 3-Channel SLT Radio System with SR315 Dual Protocol $44.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T04:47:19.783093Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "JHK High Back Mesh Reclining Gaming Chair w/ Lumbar Support (Black) $52.05 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-14T04:41:51.496447Z",
