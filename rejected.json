@@ -1,5 +1,69 @@
 [
  {
+  "source": "cheapshark",
+  "raw_title": "Stealth Inc. 2: A Game of Clones",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T20:54:03.299851Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Kids Smartwatch as Low as $17.99 on Amazon (Reg. $70)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T20:54:03.299851Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Sperry Maritime Step In Round Toe Pull On Womens Grey Casual Boots, sz 5-8, $19.96, FS, ebay",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T20:54:03.299851Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "New Balance P350 Basketball Shoes $83.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T20:54:03.299851Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "New Balance Kids' Grade School 1906 Shoes ( pink ) $33.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T20:54:03.299851Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Samsung - 70” Class U8000H Series Crystal UHD 4K Smart Tizen TV (2026) $399.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T20:48:32.620064Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amarapal Pine Solid Wood Dining Table $213.13",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T20:48:32.620064Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Casio CT-S200 Premium Portable Keyboard Bundle $179.99 Free Shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T20:48:32.620064Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$219.98 | 3-Pack Tapo 4K Ultra HD Outdoor Battery Security Camera + 25% Back w/ Prime Visa Card at Amazon",
   "reason": "Community score too low (+2) to pass without a price check — needs multi-pack, Prime-only price, which we can't reproduce automatically · watched for 12h",
