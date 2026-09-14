@@ -1,5 +1,125 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $6.14 | 4-Oz Flexitol Heel Balm, Cracked Heel Cream & Foot Balm at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-14T16:14:17.490379Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "8 Pack HW Rechargeable 9V Lithium Batteries with USB-C Charging Cable $19.07 + Free Shipping w/Prime or $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-14T16:14:17.490379Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Lamicall 15W for MagSafe Car Mount Charger, 360° Wireless Car Phone Holder $15 AC",
+  "reason": "Posted at $15.00, but Amazon showed $26.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-14T16:14:17.490379Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Monster Open Ear Bluetooth 5.4 Wireless Earbuds with 32H Playtime $29.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T16:14:17.490379Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Bearpaw Shorty Snow Boot - Kids' Dark Brown $29.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T16:14:17.490379Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Andis UltraEdge Super Detachable Blade Dog Clipper $59.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T16:14:17.490379Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Keter 71-Gallon Deck Box Just $45 Shipped on Wayfair.com (Reg. $90)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T16:14:17.490379Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Women’s Oversized Sweaters Just $12.99 on Amazon (Reg. $40)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T16:14:17.490379Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "On Women's Cloudpulse Next Shoes (Sakura/Dew) $90.97 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T16:14:17.490379Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "AND1 Men's Zone Mule Slip On Sandals ( Available in 2 Colors ) $5.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T16:14:17.490379Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$20 FS Walmart+ or Pick Up Where Available Soft Stags Men’s Messina Hybrid Dress Casual Chukka Boot with Superflex Comfort Tech size 8.5-13 Wide width too-",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T16:14:17.490379Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Body Glove men's flip flops $7.97 size 11 and 13 @ Costco FS",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T16:14:17.490379Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "NULAS 48-Piece Silverware Set, Mirror Polish Stainless Steel Flatware Set. Includes Steak Knives, Dishwasher Safe for Home & Restaurant, Gifts, Black. $25.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T16:14:17.490379Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "On Women's Cloudrunner 3 Running Shoes (Seedling/Ivory) $94.97 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T16:14:17.490379Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ozark Trail Men's Multi Toe Adjustable Water Shoes ( sizes 12 and 13 Available) $3.96",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T16:14:17.490379Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Adidas Men's Grand Court 2.0 Shoes $24.00",
   "reason": "Not evaluated",
