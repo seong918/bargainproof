@@ -1,5 +1,69 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "American Girl AG Sisters Glamping Girls Sleepover Set for $55 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T20:37:33.899792Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Tramontina 12-Piece Tri-Ply Clad Stainless Steel Cookware Set for $190 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T20:37:33.899792Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Conair 3-in-1 ExtremeSteam Garment Steamer $36.99 + $1.99 shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T20:37:33.899792Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Costco Members Hunter Avia II LED 52\" Indoor Ceiling Fan with Light and Remote $129.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T20:37:33.899792Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Resale] $39.99 | TP-Link AX3000 WiFi 6 Range Extender (RE715X) (Used - Like New) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-14T20:32:01.831365Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Carote Cookware 15-Piece Set Only $59.99 Shipped for Amazon Prime Members (Reg. $100)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T20:32:01.831365Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nylabone Broth Bones Natural Edible Dog Chews, 60-count, 2-pack $35.99 free shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T20:32:01.831365Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Car Phone Holder Mount for MagSafe, 108LBS Vacuum Suction & 3000gf Magnetic $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T20:32:01.831365Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "[Resale] $14.50 | TP-Link USB WiFi 6 Adapter for Desktop PC,AX1800 Dual Band WiFi Antenna (Used - Like New) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
