@@ -1,5 +1,45 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$117: DEWALT 20V MAX Cordless 4 1/2 Inch Paddle-Switch Grinder, Bare Tool Only (DCG408B) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-14T02:18:24.131202Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DC 7 Film Collection (4K Ultra HD) $75.59 Amazon.com",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-14T02:18:24.131202Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Philips Hue Festavia 90ft Permanent Outdoor String Lights, Black. Final Sale @ Amazon - $216.35",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-14T02:12:50.894198Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "12-Oz Gatorade Stainless Steel Water Bottle (Purple) $7.99 + Free Store Pickup at Target or Free Shipping on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T02:12:50.894198Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Leaf Blower Cordless - 680CFM Electric Leaf Blower w/2 * 4.0Ah Batteries and Charger 2 Speed 21V Powerful Blowers for Garden Lawn Care Patio Blowing Leaves Dust Snow Gift $29.78",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T02:07:19.335368Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "The Running Man DVD $9.96",
   "reason": "Not evaluated",
