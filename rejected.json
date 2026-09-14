@@ -1,5 +1,149 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Soleilwear 80-in-1 Mini Precision 500mAh Rechargeable Battery Electric Screwdriver $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T13:59:32.813991Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Midea 8000BTU 4-Mode Smart Inverter Window Air Conditioner (Covers 350sq ft) $305.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T13:59:32.813991Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "MSI MAG 272QP QD-OLED X24 27-Inch WQHD Gaming Monitor 240Hz $285.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T13:59:32.813991Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Amazon Essentials Men's Straight-fit Stretch Golf Pant $10.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T13:59:32.813991Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "ASUS VivoBook S 15 (Cert. Refurb) 16GB LPDDR5 512GB SSD $629.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T13:59:32.813991Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "JanSport Laptop Backpack with 2 Compartments $36.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T13:59:32.813991Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Wrangler 4 Piece Miami Luggage and Packing Cubes Set, Sharkskin $54.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T13:59:32.813991Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Samsung HW-Q990H 11.1.4ch Dolby ATMOS Soundbar w/ Subwoofer $1,049.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T13:59:32.813991Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "ASUS ROG Zephyrus G16 16\" Ultra 9 185H RTX 4070 Laptop (Refurbished) $1,949.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T13:59:32.813991Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Logitech Z313 2.1 Multimedia Speaker System w/ Subwoofer & 25W Peak Power $26.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T13:59:32.813991Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "ULTIMEA 7.1ch Virtual Surround Sound Bar (Refurbished) $64.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T13:59:32.813991Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Crocs Men's Swiftwater Mesh Deck Sandals - Black $39.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T13:59:32.813991Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Samsung Galaxy S26 FE Unlocked Phone 256GB $799.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T13:59:32.813991Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Mosiech 7-Piece Ceramic Cookware Set for $46 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T13:59:32.813991Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ECOFLOW DELTA 3 Classical 1000 1024Wh 1800W Power Station $328 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T13:59:32.813991Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "BENIFORE X1T PRO Folding E-Bike: 35 MPH, 1500W Peak, 48V 20Ah, Full Suspension $799",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T13:59:32.813991Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Eilleo Spacewalk US12 750W 48V 10.4Ah Electric Scooter $297 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T13:59:32.813991Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GL.iNet GL-BE6500 (Flint 3e) Dual-band Wi-Fi 7 Router 5 x 2.5G Ports VPN $119 + Free S/H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T13:59:32.813991Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "MSI Modern 15 H 15.6\" i9-13900H 32GB 1TB Gaming Laptop (Refurbished) $699.99",
   "reason": "Not evaluated",
