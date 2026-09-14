@@ -1,5 +1,53 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$279.99 | roborock Q10 S5+ Robot Vacuum and Mop, 10,000Pa Suction at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-14T19:09:45.592350Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$349.99* | Yeedi M14 Plus Robot Vacuum & Mop (2 Colors) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-14T19:09:45.592350Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "3 T-Shirts for $18 $18.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T19:09:45.592350Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "GearWrench 34-Piece 1/4\" Drive Stubby Socket Mechanics Tool Set for $24 w/ Prime + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T19:09:45.592350Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "lululemon We Made Too Much Shirts for From $19 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T19:09:45.592350Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Round Trip San Francisco to Tahiti French Polynesia $590 Nonstop Airfares on French Bee (Limited Travel September - October 2026)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T19:09:45.592350Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "cheapshark",
   "raw_title": "GRIP: Combat Racing",
   "reason": "Not evaluated",
