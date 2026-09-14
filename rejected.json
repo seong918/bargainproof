@@ -1,5 +1,21 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Magnetic Positioning Quilting Light for Sewing Machine, 3-in-1 with Crosshair Straight $14.99",
+  "reason": "Posted at $14.99, but Amazon showed $21.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-14T03:02:30.980375Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Costco (in-warehouse): 24-ct Kirkland Signature Sparkling Energy Drink, 12oz for $12.99 until 9/20",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T03:02:30.980375Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "50\" Amazon Omni QLED 4K 60Hz Smart Fire TV $249.99",
   "reason": "Not evaluated",
