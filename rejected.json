@@ -1,5 +1,53 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Riverruns Men's UPF 50+ Swim Shirt $6.49",
+  "reason": "Posted at $6.49, but Amazon showed $12.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-14T12:39:05.631125Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Rocoren 360-Degree Rotation Universal MagSafe Gel Suction Car Phone Holder $7.99",
+  "reason": "Posted at $7.99, but Amazon showed $15.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-14T12:39:05.631125Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "5.4ft Posable Halloween Skeleton Decoration for $41 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T12:39:05.631125Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$12 EBAY ADIDAS STORE: adidas men Adilette Aqua Slides Sizes 4-13, FS/Free Returns",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T12:39:05.631125Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$24-$30 Adidas Ebay Store adidas men Galaxy 7 Running Shoes Free Ship & Free Returns",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T12:39:05.631125Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "50 Pokemon Cards for $6.30 + $0.99 shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T12:33:50.519699Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Nature’s Eats Superfine Almond Flour - Finely Sifted, Blanched Gluten Free Nut Flour for Bread, Pancake Mix, Muffins 16 oz~$5.51 @ Amazon",
   "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
