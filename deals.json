@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "775893adfa3a",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20009451-amazon-smadeer-bumblebee-garden-statue-9-39-w-code",
+  "title": "Amazon – Smadeer Bumblebee Garden Statue - w/ Code",
+  "raw_title": "Amazon – Smadeer Bumblebee Garden Statue - $9.39 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0CBWVY4S7",
+  "deal_total_cents": 939,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 1879,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1879,
+  "amazon_url": "https://www.amazon.com/dp/B0CBWVY4S7",
+  "amazon_checked_at": "2026-09-14T02:57:03.986801Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0CBWVY4S7",
+  "image_url": null,
+  "published_at": "2026-09-14T02:57:00.148755Z"
+ },
+ {
   "deal_id": "10a131969857",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20010465-nature-s-eats-cajun-sesame-sticks-16-0-ounce-12pk-6-98-amazon",
