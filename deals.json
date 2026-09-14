@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "22b635efcf67",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20012997-96ct-4-x-24-amazon-dark-roast-kcups-18-53-s-s-multibuy",
+  "title": "96ct (4 x 24) Amazon Dark Roast KCUPS S&S Multibuy",
+  "raw_title": "96ct (4 x 24) Amazon Dark Roast KCUPS $18.53 S&S Multibuy",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B07P1Z6S39",
+  "deal_total_cents": 1853,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 545,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 545,
+  "amazon_url": "https://www.amazon.com/dp/B07P1Z6S39",
+  "amazon_checked_at": "2026-09-14T17:31:08.392868Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B07P1Z6S39",
+  "image_url": null,
+  "published_at": "2026-09-14T17:30:54.041643Z"
+ },
+ {
   "deal_id": "44a005b9d369",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20013975-new-89-32-timex-men-s-chicago-45mm-watch-stainless-steel-bracelet-blue-dial-silver-tone-case-at-amazon",
