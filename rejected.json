@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$18.50 | Charlotte Tilbury Matte Revolution Lipstick at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-14T04:58:17.669363Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Pack Munchkin Silicone Baby Food Feeder (Blue & Mint) $4.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs multi-pack, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-14T04:58:17.669363Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Actbest Mars 1200W 48V Folding Electric Bike (White) $346.19 & More + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T04:58:17.669363Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Cinnamon Toast Crunch Breakfast Cereal, Mega Size, 27 oz~$4.29 After Coupon & S&S @ Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-14T04:52:48.380165Z",

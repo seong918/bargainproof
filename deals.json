@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "3eaa1eeebe7f",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20011011-6-99-klein-tools-630-6mm-6-mm-nut-driver-at-amazon",
+  "title": "Klein Tools 630-6MM 6 mm Nut Driver",
+  "raw_title": "$6.99* | Klein Tools 630-6MM 6 mm Nut Driver at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0009ORXS4",
+  "deal_total_cents": 699,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 699,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 699,
+  "amazon_url": "https://www.amazon.com/dp/B0009ORXS4",
+  "amazon_checked_at": "2026-09-14T04:58:21.665214Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0009ORXS4",
+  "image_url": null,
+  "published_at": "2026-09-14T04:58:17.669363Z"
+ },
+ {
   "deal_id": "45476df60591",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20011008-new-22-49-dr-who-and-the-daleks-4k-ultra-hd-blu-ray-at-amazon",
