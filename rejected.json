@@ -1,5 +1,125 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "4/ $13.93 DIET COKE 6ct/16.9 oz Plastic Bottles S&S MBUY AMAZON",
+  "reason": "Community score too low (+-1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-14T14:15:33.326321Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Women's Fleece Lined Puffer Jacket $37.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T14:15:33.326321Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Onkyo TX-NR7100 9.2-Channel AV Receiver $599.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T14:15:33.326321Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Sherpa Fleece Button Down Plaid Fuzzy Flannel Shacket $23.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T14:15:33.326321Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Energy Connoisseur CF-70 9.2ch Home Theater System with Onkyo TX-NR7100 Receiver $999.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T14:15:33.326321Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "V Neck Cold Shoulder Pullover Sweatshirts $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T14:15:33.326321Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Maternity Hoodie Breastfeeding Pregnancy $22.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T14:15:33.326321Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Mens Long Double Breasted Trench Coat $36.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T14:15:33.326321Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Floral Puff Ruffle Button Down Shirt $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T14:15:33.326321Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Shark VACMOP Cordless Hard Floor Vacuum Mop with 4 Disposable VACMOP Pads and 12-oz Shark Multi-Surface Cleaner $59.68",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T14:15:33.326321Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "13.4 inch Android 16 Tablet 36GB+256GB 120Hz $159.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T14:15:33.326321Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "4E's Novelty 16.5\" Large Fake Knife for $6.99 w/ Prime + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T14:15:33.326321Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Macy's Bed & Bath BOGO Sale: Buy One, Get One Free + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T14:15:33.326321Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "*NEW* Halloween Pillowcases Only $3.97 at Walmart (Fun Boo Basket Item!)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T14:15:33.326321Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GameSir G7 Pro Wired Xbox Controller with Smart Charging Station Mech White $62 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T14:15:33.326321Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "VEVOR Commercial Electric Griddle 21.06\" x 11.81\" $66.83",
   "reason": "Not evaluated",
