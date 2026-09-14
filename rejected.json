@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Gain Tango 2-in-1 Laundry Scent Booster Beads, 10.7 oz (2 scents) - $4.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T03:24:34.318509Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$4.68 S&S Q Dr Pepper ZERO Sugar 12oz 12ct Cans",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-14T03:24:34.318509Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Prime Members: 48\" x 102\" Gecork Fiberglass Window & Door Screen Replacement Mesh (Black) $5.99 + Free Shipping",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-14T03:24:34.318509Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Tineco GO SENSE Cordless Smart Floor Washer, Multi-Surface Wet Dry Vacuum / Mop (GH301) $159.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T03:19:03.198648Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Apple AirTag 2nd Generation Item Tracker $24 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T03:19:03.198648Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Magnetic Positioning Quilting Light for Sewing Machine, 3-in-1 with Crosshair Straight $14.99",
   "reason": "Posted at $14.99, but Amazon showed $21.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-14T03:02:30.980375Z",
