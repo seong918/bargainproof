@@ -1,5 +1,69 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Southern Style Nuts Honey Roasted Hunter Bulk Trail Mix, 23 oz~$8.37 With S&S @ Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-14T08:11:26.518360Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M12 FUEL 12V Lithium-Ion Brushless Cordless 1/4 in. Hex 2-Speed Screwdriver Kit W/(2) 2.0h Batteries & Bag $140",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T08:11:26.518360Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "(Pack of 6) McCormick Thai Style Chili Pepper, Crushed, For Pasta, Stir-Fry, Salad Dressing, Marinade, Drunken Noodles, Pad Thai, and More, 1.37 oz AC w/MAX SS $4.78",
+  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-14T08:05:56.587860Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "30% off Dual-Sided Scrub Sponges, Yellow/Green, 6-Pack with S&S $2.23",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-14T08:05:56.587860Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "PLANTERS Lightly Salted Peanuts, Plant Based Protein Snacks, 16 Oz (1 Ct) | Roasted Lightly Salted Nuts. 0g Trans Fat. Resealable Jar~$2.83 With S&S @ Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-14T08:05:56.587860Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Vevor Outdoor Kitchen Trash Drawer for $125 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T08:05:56.587860Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Microsoft 4-License Bundle: Windows 11 Pro + Office Pro 2024 + Project Pro + Visio Pro for $20 + digital download",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T08:05:56.587860Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Kobalt 40 -Volt, 2 Ah 1 -Pack Lithium Ion (Li-ion) Battery | KB 240-03 $79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T08:05:56.587860Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Kohl's Customer Appreciation Event: Up to 30% off + free shipping w/ $49",
   "reason": "Not evaluated",
@@ -59330,14 +59394,6 @@
  {
   "source": "slickdeals",
   "raw_title": "Milwaukee BIG HAWG Carbide Hole Saw Kit (9-Piece) with PACKOUT Case $129",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T07:16:34.324326Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Milwaukee M12 FUEL 12V Lithium-Ion Brushless Cordless 1/4 in. Hex 2-Speed Screwdriver Kit W/(2) 2.0h Batteries & Bag $140",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T07:16:34.324326Z",
   "code": "not_checked",
