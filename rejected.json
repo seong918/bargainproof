@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS, AC] $9.74* | 60-Ct. Force Factor Total Beets Soft Chews Heart Health Supplement at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-14T07:27:21.567098Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Pirate's Booty Aged White Cheddar Cheese Puffs 24-Pack for $6.74 via Sub & Save + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T07:27:21.567098Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ryobi ONE+ 18V Cordless Oscillating Multi-Tool (Tool Only) with 4-Piece Wood Oscillating Multi-Tool Blade Set $59",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T07:27:21.567098Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M18 FUEL 18V Lithium-Ion Brushless Cordless 1/2 in. Impact Wrench with Friction Ring w/XC 5.0 Ah Battery $279",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T07:27:21.567098Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Milwaukee M18 FUEL GEN-2 18V Lithium-Ion Mid Torque Brushless Cordless 3/8 in. Impact w F Ring w/5.0 ah Resistant Battery $244",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-14T07:21:51.444476Z",
@@ -47693,14 +47725,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-09T07:18:01.753959Z",
   "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Ryobi ONE+ 18V Cordless Oscillating Multi-Tool (Tool Only) with 4-Piece Wood Oscillating Multi-Tool Blade Set $59",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T07:18:01.753959Z",
-  "code": "not_checked",
   "public": false
  },
  {
