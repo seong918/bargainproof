@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "adidas men VL Court 3.0 Shoes (4 Colors) from $23",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T10:23:32.873146Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Supvan E12 4-Tape Minimal Margin Rechargeable Bluetooth Label Maker Machine $19.99",
+  "reason": "Posted at $19.99, but Amazon showed $34.97 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-14T10:18:01.364513Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Disney Store Halloween Costumes Sale for 20% off $75+ + free shipping w/ $85",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T10:18:01.364513Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Dyson Corrale™ Hair Straightener $399.99",
+  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-14T10:12:30.205129Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "5% on-site direct reduction+40% off-site reduction, ORICO Travel Power Strip, 4Ft Wrap-Around Extension Cord $9.68",
+  "reason": "Posted at $9.68, but Amazon showed $16.14 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-14T10:12:30.205129Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Lowe's Built-In Dishwashers for $399 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T10:12:30.205129Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "BOSCH CM8S 8-1/2 In. Single-Bevel Slide Miter Saw for Woodworking $405.15",
   "reason": "Community score too low (+-3) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-14T10:07:01.601271Z",
