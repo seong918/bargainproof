@@ -1,5 +1,53 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "LC-dolida Bluetooth 5.4 Sleep Headphones $7.99 – Wireless Headband for Sleep, Workout & Yoga",
+  "reason": "Posted at $7.99, but Amazon showed $14.24 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-14T13:05:27.229166Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Kingroon 10kg PETG 1.75mm 3D Printer Filament Bundle 10-Pack for $43 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T13:05:27.229166Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Insignia™ - 55\" Class F70 Series 4K UHD QLED Mini-LED Smart TV with Fire TV $234.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T13:05:27.229166Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas women Superstar II Shoes (3 Colors) $36",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T13:05:27.229166Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Columbia Women's PFG Boatside Slip-On Boat Shoe (Dark Stone/Marine Light, Sizes: 7-12) $24.99 + Free Shipping w/ Prime or $6 Fee per Order",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T13:05:27.229166Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LG - 65\" Class B6E Series OLED AI 4K Smart webOS TV (2026) $999.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T13:05:27.229166Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Cordless Hand Massager with Heat $29.99",
   "reason": "Not evaluated",
