@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "a1d0077fe5d2",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20012913-amazon-koalababy-electric-baby-nasal-aspirator-16-49-w-code",
+  "title": "Amazon – Koalababy Electric Baby Nasal Aspirator - w/ Code",
+  "raw_title": "Amazon – Koalababy Electric Baby Nasal Aspirator - $16.49 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0C8J3X97M",
+  "deal_total_cents": 1649,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 3299,
+  "amazon_coupon_cents": 495,
+  "amazon_effective_cents": 2804,
+  "amazon_url": "https://www.amazon.com/dp/B0C8J3X97M",
+  "amazon_checked_at": "2026-09-14T17:03:40.269283Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0C8J3X97M",
+  "image_url": null,
+  "published_at": "2026-09-14T17:03:35.702377Z"
+ },
+ {
   "deal_id": "f7e12f34e158",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20013315-auto-vox-7-2-1080p-dual-solar-wireless-backup-camera-system-139-99-free-shipping",
