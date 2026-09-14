@@ -1,5 +1,61 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "L.L.Bean Nor'easter Insulated Large Tote for $60 + free shipping w/ $75",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T23:26:49.410590Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Logitech MX Keys S Combo Wireless Keyboard & Mouse w/ Palm Rest $143.99 + Free Shipping w/ Prime or $6 Fee per Order",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T23:26:49.410590Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$59 Best Buy (stock ymmv) open box Excellent Insignia™ - 32\" Class F20 Series LED HD (720p) Smart Fire TV",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T23:26:49.410590Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "12-Pack Honey Stinger Organic Energy Chews (Pomegranate Passionfruit) $11.70 ($0.97 Each) w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-14T23:26:49.410590Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Costco Membership Deals at Groupon for From $65",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T23:21:19.519509Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "KinderMat Nap Mat for $6.50 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T23:21:19.519509Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Wolverine Men's Rancher Level Pull-On Steel-Toe Work Wellington Boot (Camo) $66 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T23:21:19.519509Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "2-Pack Benebone Wishbone Dental Chew Size Small - $12.79",
   "reason": "Not evaluated",
