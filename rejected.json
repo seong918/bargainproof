@@ -1,5 +1,141 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Havato Espresso Machine 20 Bar, Hot & Cold Brew Coffee Maker with Steam Wand Milk Frother, LED Display, Single & Double Shot, Home Barista Coffee Machine $89.99",
+  "reason": "Posted at $89.99, but Amazon showed $179.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-14T19:53:38.789059Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Royal Gourmet 24\" Crop Barrel Charcoal Grill w/ Side Shelf & Cover for $140 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T19:53:38.789059Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Miracle-Gro 25-Quart Potting Mix for $8.00 + pickup",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T19:53:38.789059Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Wyze Smart Scale BodyScan w/ Handle, Bluetooth, 400-lb. Capacity for $70 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T19:53:38.789059Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$359.99* | TP-Link Deco 7 Pro BE14000 Tri-Band Wi-Fi 7 Whole Home Mesh System (BE67 2-Pack) + 15% Back w/ Prime Visa Card at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-14T19:48:09.127292Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC] $22.07 | KPop Demon Hunters (Vinyl w/ AutoRip MP3) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-14T19:48:09.127292Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Stealth Bastard Deluxe",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T19:48:09.127292Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "When Ski Lifts Go Wrong",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T19:48:09.127292Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Maskmaker",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T19:48:09.127292Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Time Loader",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T19:48:09.127292Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Dry Drowning",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T19:48:09.127292Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "The Curious Tale of the Stolen Pets",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T19:48:09.127292Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Keter Marvel 71-Gallon Resin Deck Box for $45 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T19:48:09.127292Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Roborock FX25 Steam Wet and Dry Cordless Vacuum Cleaner $449.99 free shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T19:48:09.127292Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Philips Norelco Compact Rechargeable Wet & Dry Electric Shaver (Black) $27.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T19:48:09.127292Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Pack: Ventev 10,000mah Wireless Power Bank & Charge Stand $19.99 + FS",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T19:48:09.127292Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Smirnoff No. 21 80 Proof Vodka, 1.75 L Glass Bottle, 40% ABV (YMVV) $18.36",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T19:48:09.127292Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "East Oak 6-Foot Pop-Up Canopy Tent w/ Mesh Screen House for $110 + free shipping",
   "reason": "Not evaluated",
