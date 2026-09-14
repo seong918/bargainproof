@@ -1,5 +1,85 @@
 [
  {
+  "source": "dealcatcher",
+  "raw_title": "Happiness is Being a Mimi Sweatshirt $19.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T12:12:56.014967Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Zikee Memory Foam Car Seat Wedge Cushion for $24 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T12:12:56.014967Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Dairy Queen Cheeseburger: Free w/ $1 purchase",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T12:12:56.014967Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Wayfair 48-Hour Clearance Sale: Up to 70% off + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T12:12:56.014967Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Shower Storage Caddy 6-Piece Set Only $10 on Amazon (Reg. $26)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T12:12:56.014967Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Byliable Portable Folding Camping Chair w/ Drink Holder and Cooler Pouch (Gray) $19.49 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-14T12:12:56.014967Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Pyrex Glass 28-Piece Food Storage Set Just $23.98 on SamsClub.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T12:07:29.722689Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas women Barreda Decode Shoes (Cloud White / Core Black / Grey Two) $28",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T12:07:29.722689Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Jackery Portable Power Station Explorer 500 v2 (Newest) w/ 5m Extension Cord $242 + Free S/H $242.2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T12:07:29.722689Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas women Barreda Shoes (Semi Flash Aqua / Wonder White / Gum) $28",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T12:07:29.722689Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "cheapshark",
   "raw_title": "Inversion",
   "reason": "Not evaluated",
