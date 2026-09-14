@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Cinnamon Toast Crunch Breakfast Cereal, Mega Size, 27 oz~$4.29 After Coupon & S&S @ Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-14T04:52:48.380165Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $12.45* | 44-Oz Amazon Grocery Deluxe Mixed Nuts (Roasted & Salted) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-14T04:52:48.380165Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "VEVOR/Succebuy 12V/24V DC 110-240V AC Fridge Portable Compressor Cooler: 20L $93, 22L $118 + Free Shipping $99.64",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T04:52:48.380165Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "25% off aosu Total-Watch Classic AI Suite, 3K Solar Security Camera Outdoor System $599.98",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-14T04:47:19.783093Z",
