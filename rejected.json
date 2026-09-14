@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Lexar 2TB SL500 USB 3.2 Gen 2x2 Portable SSD $180",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T06:54:24.478230Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] M MAELREG Kids Performance Dry Fit Stretch Athletic Casual Hoodie Shirts w/ Pockets (6Y - 16Y) $9.99 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-14T06:37:49.121093Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[Resale] $55.45 | InSinkErator Badger 5 Garbage Disposal with Power Cord, Badger Series 1/2 HP Continuous Feed Food Waste Disposer (Used - Like New) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-14T06:26:45.696563Z",
