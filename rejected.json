@@ -1,5 +1,213 @@
 [
  {
+  "source": "cheapshark",
+  "raw_title": "Party Hard 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:35:54.563358Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Lefant Robot Vacuum and Mop Black/Dark Gray $174.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:35:54.563358Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Lefant Robot Vacuum and Mop $89.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:35:54.563358Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Peanuts Snoopy & Woodstock Halloween Paper Beverage Napkins 16-Count $2.67",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:35:54.563358Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Adidas Men's Adistar Control 5 Sneakers $48.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:35:54.563358Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Hanging Glow In The Dark Ghost Decoration $2.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:35:54.563358Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Laptop Backpack Just $13.74 on Amazon (Reg. $40)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:35:54.563358Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Keenstone Electric Pressure Washer, 5000 PSI 3GPM with Anti-Tipping Design $79.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:35:54.563358Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milk Bone Crunchy Large Dog Treats, 24 oz Box, Original Beef Flavor $3.98 Wal-Mart",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:35:54.563358Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Microsoft Xbox Wireless Controller (Forza Horizon 6 Limited Edition) $65.00 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-14T15:30:33.828613Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Bitswolee 4-Modes Cordless Rechargeable LED Drawing Board $19.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:30:33.828613Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Kamrui E3B AMD Ryzen 7 7530U Mini Desktop (16GB/1TB) with AMD Radeon Graphics $449.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:30:33.828613Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Ugreen Nexode 3-in-1 65W 3-Port GaN Fast USB-C Charger $23.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:30:33.828613Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Adidas Harden Volume 10 Shoes (Hi-Res Yellow / Core Black / Lucid Orange) $63.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:30:33.828613Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Madden NYC Women's Slingback Loafers $16.20",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:30:33.828613Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Adidas Men Climacool Laced Shoes (Off White / Off White / Core Black) $72.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:30:33.828613Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Macy's Semi-Annual Suits SALE $59.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:30:33.828613Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Clirass CC300 Elongated Electric Bidet Toilet Seat for $263 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:30:33.828613Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "10\" Metal Bird Bath w/ Stake for $9 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:30:33.828613Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Mid Century Tufted Upholstered Accent Chair for $107 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:30:33.828613Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "TP-Link Festa FS328GP 28-Port Gigabit Smart Managed PoE Switch for $119 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:30:33.828613Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Great Grains Cereal Just $1.99 at CVS (Reg. $7)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:30:33.828613Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Gerry Women's Strap Sandal $9.97 @ Costco FS",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:30:33.828613Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "3-Pack 3' Hanging Skeleton Ghost Halloween Animatronic Decorations $23.98 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:30:33.828613Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HORISUN Wavy V Neck Wireless Full Coverage Supportive Bra,White. as low as $7.49 (Sizes 32A-42DDD)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:30:33.828613Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Delsey Paris 2-Piece Hardside Luggage Set, YMMV $129.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:30:33.828613Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Adidas Men's X_PLR Path Shoes $25.00",
   "reason": "Not evaluated",
@@ -74,14 +282,6 @@
  {
   "source": "slickdeals",
   "raw_title": "Anne Klein Women's Sandal $9.97 @Costco FS",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T15:25:08.345925Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Delsey Paris 2-Piece Hardside Luggage Set, YMMV $129.97",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-14T15:25:08.345925Z",
   "code": "not_checked",
