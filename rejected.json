@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Costco Members: 2-Pack $50 DoorDash eGift Cards (Email Delivery) $79.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T08:55:29.525148Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Uber e-gift cards Costco (in stock) $200",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T08:55:29.525148Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "HP HyperX OMEN Core Ultra 7 356H 16\" Gaming Laptop for $1,300 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T08:49:57.968535Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men Purechill Shoes (2 Colors) from $28",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T08:49:57.968535Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Resale] $35.95* | Logitech Lift Vertical Ergonomic Wireless Mouse - Graphite (Used - Like New) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-14T08:44:26.365913Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$1.99 | The Day of the Triffids (eBook) by John Wyndham",
   "reason": "Same deal was already posted from another source",
   "rejected_at": "2026-09-14T08:33:25.480860Z",
