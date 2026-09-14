@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "4c132c3a9657",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20012904-amazon-tkvazk-27-oz-sourdough-starter-jar-11-99-w-code",
+  "title": "Amazon – TKVAZK 27-Oz Sourdough Starter Jar - w/ Code",
+  "raw_title": "Amazon – TKVAZK 27-Oz Sourdough Starter Jar - $11.99 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0DX1X6MJC",
+  "deal_total_cents": 1199,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 1999,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1999,
+  "amazon_url": "https://www.amazon.com/dp/B0DX1X6MJC",
+  "amazon_checked_at": "2026-09-14T18:20:22.061194Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0DX1X6MJC",
+  "image_url": null,
+  "published_at": "2026-09-14T18:20:16.837118Z"
+ },
+ {
   "deal_id": "2c4735411175",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20014248-philips-sonicare-c2-brush-heads-3-pack-9-month-supply-white-6-99",
