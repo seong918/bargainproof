@@ -1,6 +1,14 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$1.99 | The Day of the Triffids (eBook) by John Wyndham",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-14T08:33:25.480860Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "EZVALO Dimmable 2700K Cordless Table Lamp $15 + FS w/ Prime or orders $35+",
   "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-14T08:22:25.027238Z",
