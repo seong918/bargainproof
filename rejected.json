@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "27.5L Hurley Commuter Travel Backpack (Unity Red) $19.99 + Free Shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T09:11:53.691475Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $749.99 | dreame Aqua10 Ultra Roller Robot Vacuum and Mop, AquaRoll Mopping at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-14T09:11:53.691475Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Samsung Galaxy Z Flip8, 256GB Graphite $1049.99",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-14T09:06:24.213263Z",
