@@ -1,5 +1,37 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Amazon Brand Happy Belly Dark Roast Coffee Pods (24-Count) $3.82",
+  "reason": "Posted at $3.82, but Amazon showed $5.45 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-14T10:56:37.384916Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ULTIMEA 2.1ch Compact Sound Bar for TV, Built-in Subwoofer 120 watts Companion APP (Refurbished) $33.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T10:56:37.384916Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "PUMA Palermo Nyc Flagship Lace Up Mens White Sneakers(Select Sizes) $23.96 + Free S&H at ebay",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T10:56:37.384916Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Athletic Works Baby Boys Mesh Jogger Sneakers (2 Baby to 6 Baby) $4.46 to $6.54",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T10:56:37.384916Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "adidas men Advantage Shoes (Cloud White / Cloud White / Legend Ink) $19",
   "reason": "Not evaluated",
