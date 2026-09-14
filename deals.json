@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "5b570ce2c2ca",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20010936-sns-ac-3-29-8-pack-20-oz-powerade-zero-sports-drink-grape-more-at-amazon",
+  "title": "8-Pack 20-Oz POWERADE ZERO Sports Drink (Grape) & More",
+  "raw_title": "[SnS, AC] $3.29* | 8-Pack 20-Oz POWERADE ZERO Sports Drink (Grape) & More at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 329,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 6,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-14T06:26:45.696563Z"
+ },
+ {
   "deal_id": "db5851703c89",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20010597-25-count-seventh-generation-fragrance-free-oxy-booster-stain-remover-packs-5-57-w-s-s-free-shipping-w-prime-or-on-35",
