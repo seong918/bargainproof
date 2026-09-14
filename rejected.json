@@ -1,5 +1,117 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "LILLUSORY Women's Oversized Batwing Knit Sweaters $11.99",
+  "reason": "Posted at $11.99, but Amazon showed $19.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-14T14:52:43.465178Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Trine 4: The Nightmare Prince",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T14:52:43.465178Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "6.5\" Car Speaker and 4-Channel Amplifier Combo Kit for $70 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T14:52:43.465178Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "The Beard Club Biotin Beard Balm for $8.47 or less + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T14:52:43.465178Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "AstroAI L4 Tire Inflator Portable Air Compressor for $22 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T14:52:43.465178Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "JonterKing Lymphatic Drainage Massager for $20 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T14:52:43.465178Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "3 Woot Graphic Tees Just $18 Shipped (+ Extra $10 Off for New Customers!)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T14:52:43.465178Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Very Unusual Airfares Between Baltimore MD - Orlando FL on JetBlue Main Base, Main & Main Flex $36 One-Way or $72 Round Trip (Travel October - Mid December 2026) Hurry!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T14:52:43.465178Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "63\" Jumpfly Universal Trampoline Slide Ladder w/ Handles (Blk-Orange) $18.99 + Free Shipping w/ Prime or $6 Fee per Order",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T14:52:43.465178Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas kids NY 90 J (White) $21 + Free S&H at ebay",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T14:52:43.465178Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Primo 5-Gallon Top Load White Water cooler one_size $89",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T14:52:43.465178Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "PJ PAUL JONES Mens Polo Shirts Short Sleeve Casual Collared Summer Vacation Shirts Golf Polo Shirts $9.50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T14:52:43.465178Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "71-Gallon Keter Marvel Durable Resin Outdoor Storage & Organization Deck Box w/ Built-in Handles & Rollers (Light Grey) $45.09 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T14:52:43.465178Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "14L Columbia Helvetia Backpack (Compass Blue/Citron) $15.97 + Free Shipping on $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T14:52:43.465178Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Inphic X9 Pro 12800-DPl Ergonomic Wireless Vertical Mouse $11.99",
   "reason": "Posted at $11.99, but Amazon showed $26.99 when we checked — the deal is probably over",
