@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "523456a80e2e",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20012994-new-39-99-astro-tools-78914-lower-control-arm-4ft-pry-bar-tool-at-amazon",
+  "title": "Astro Tools 78914 Lower Control Arm 4ft Pry Bar Tool",
+  "raw_title": "[NEW] $39.99 | Astro Tools 78914 Lower Control Arm 4ft Pry Bar Tool at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B01JBJLVBW",
+  "deal_total_cents": 3999,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 3999,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 3999,
+  "amazon_url": "https://www.amazon.com/dp/B01JBJLVBW",
+  "amazon_checked_at": "2026-09-14T14:48:49.165294Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B01JBJLVBW",
+  "image_url": null,
+  "published_at": "2026-09-14T14:47:26.840632Z"
+ },
+ {
   "deal_id": "23de6bc5f7ff",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20012202-lego-star-wars-smart-play-at-st-attack-on-endor-75424-2026-39-99-free-shipping",
