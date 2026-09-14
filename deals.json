@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "eacf4d83668a",
+  "source": "techbargains",
+  "source_url": "https://www.amazon.com/gp/product/B01BYKG1FM/ref=ox_sc_act_title_1",
+  "title": "Targus 14\" Adaptable Protection Vertical Slipcase Laptop Messenger Bag",
+  "raw_title": "Targus 14\" Adaptable Protection Vertical Slipcase Laptop Messenger Bag $10.49",
+  "merchant": "amazon",
+  "buy_url": "https://www.amazon.com/gp/product/B01BYKG1FM/ref=ox_sc_act_title_1",
+  "deal_total_cents": 1049,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 1049,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1049,
+  "amazon_url": "https://www.amazon.com/dp/B01BYKG1FM",
+  "amazon_checked_at": "2026-09-14T10:45:40.196326Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": null,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B01BYKG1FM",
+  "image_url": null,
+  "published_at": "2026-09-14T10:45:35.682100Z"
+ },
+ {
   "deal_id": "ecd4caf1e19e",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20011380-ac-40-49-corsair-3200d-rs-mid-tower-pc-case-w-3x-rs120-pwm-fans-at-amazon",
