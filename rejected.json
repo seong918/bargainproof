@@ -1,5 +1,45 @@
 [
  {
+  "source": "cheapshark",
+  "raw_title": "Inversion",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T12:02:17.529868Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "4-Night Puerto Vallarta All-Inclusive Flight and Resort Vacation for From $1,778 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T12:02:17.529868Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Woot Puzzles, Games, & More Toys Clearance for Up to 68% off + $10 off $30 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T12:02:17.529868Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Tokina atx-i 11-16mm f/2.8 CF Lens for Nikon F $149 at B&H with Free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T12:02:17.529868Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas women X_PLR Path Shoes (Cloud White / Cloud White / Core Black) $27",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T12:02:17.529868Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Apple iPhone Air Bumper (Tan) $12.60",
   "reason": "Not evaluated",
