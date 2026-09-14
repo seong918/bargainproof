@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[Prime, AC] $49.99* | Fanbulous 42\" Outdoor Ceiling Fan w/ Light & Remote at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — needs clip coupon, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-14T19:15:13.700137Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $47.49* | VTOMAN X1 2500A Jump Starter / 150PSI Air Compressor for 8.5L Gas/6L Diesel at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-14T19:15:13.700137Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nesugar G3 Pro Smart Handheld Steamer for Clothes, 70ml, 900W $19.99",
+  "reason": "Posted at $19.99, but Amazon showed $48.19 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-14T19:15:13.700137Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "(Resale) Breville Smart Oven Air Fryer Pro (Brushed Stainless Steel) (Used) $187.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T19:15:13.700137Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "NIVEA Men 3-in-1 30oz Body Wash 2-Pack $9.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T19:15:13.700137Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "60-Piece Black Silverware Set for 12 $31.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T19:15:13.700137Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Millwood Pines Sparta Lift Top Coffee Table for $69 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T19:15:13.700137Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Hair Claw Clip Sets as Low as $4.94 on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T19:15:13.700137Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$279.99 | roborock Q10 S5+ Robot Vacuum and Mop, 10,000Pa Suction at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-14T19:09:45.592350Z",
@@ -25482,14 +25546,6 @@
  {
   "source": "dealcatcher",
   "raw_title": "(Resale) Lodge Pro-Grid Reversible Grill/Griddle, PFAS-Free, 20 x 10.5 Inches $24.95",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T17:48:51.166724Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "60-Piece Black Silverware Set for 12 $31.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-11T17:48:51.166724Z",
   "code": "not_checked",
