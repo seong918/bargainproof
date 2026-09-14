@@ -1,6 +1,230 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$16.19 | Yankee Candle Fresh Cut Roses Scented Candle, 14.5oz 3-Wick at Amazon",
+  "reason": "Community score too low (+4) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-14T16:58:07.867439Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Weleda baby diaper cream pack of 3 $17.27",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-14T16:58:07.867439Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "TMY 1080p WiFi and Bluetooth Smart Projector with Google TV Built-in $69.99",
+  "reason": "Posted at $69.99, but Amazon showed $169.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-14T16:58:07.867439Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Mnhty 3-in-1 1200mAh USB-C Rechargeable Mini Bag Sealer $9.89",
+  "reason": "Posted at $9.89, but Amazon showed $14.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-14T16:58:07.867439Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Overmont 2-Pack Camping Chair 450lb $58.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T16:58:07.867439Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Energy RC-70 Home Theater Speaker Bundle $799.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T16:58:07.867439Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Husqvarna 460 Rancher Gas Powered Chainsaw 24\" $409.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T16:58:07.867439Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LEGO Speed Champions McLaren W1 Race Car Toy (77257) 287-Pc $22.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T16:58:07.867439Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Contigo Kids Spill-Proof Tumbler with Straw 2-Pack 14-Oz $13.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T16:58:07.867439Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "PHILIPS Rechargeable AA Lithium Batteries 8-Pack $34.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T16:58:07.867439Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "KuaiLu Mens Faux Leather Flip Flops with Comfortable Arch Support Size 11 $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T16:58:07.867439Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Orgain Organic Vegan 21g Protein Powder, Vanilla Bean, 2.03 lb $31.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T16:58:07.867439Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Colorations 9\" x 12\" Construction Paper Smart 600-Sheet Pack for $32 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T16:58:07.867439Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Amazonia 7-Piece Eucalyptus Wood Extendable Patio Dining Set for $990 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T16:58:07.867439Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas Men's Terrex Rockadia Hiking Shoe for $51 + Free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T16:58:07.867439Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "The North Face Women's Osito Lux Jacket (Slate Moss, Sizes: XS-XL) $49.99 + Free Shipping on $75+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T16:58:07.867439Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Apple iPhone Duo Foldable 7.6\" Smartphone Starting at $1999",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T16:58:07.867439Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $8.47* | 12-Pack Luna Bars Gluten-Free Protein Bars (Variety) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs clip coupon, Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-14T16:52:37.661076Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Lerat 3-Heat Levels Rechargeable Portable Compact Hand Warmers (2-Pack) $7.49",
+  "reason": "Posted at $7.49, but Amazon showed $14.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-14T16:52:37.661076Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Greenworks 24V SDS-Plus 2J Brushless Rotary Hammer Drill with 4.0Ah Battery and Charger + 50 Piece Impact Rated Driving Set $101.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T16:52:37.661076Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Poetry for Neanderthals Card Game $7.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T16:52:37.661076Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Rust-Oleum Stops Rust Brush On Protective Enamel Paint 2-Pack 32-Oz Semi-Gloss White $18.44",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T16:52:37.661076Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Comfrt Cloud Sweatpants and Tops SALE $29.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T16:52:37.661076Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Advil Pain Reliever 24-Count Only $1 Shipped on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T16:52:37.661076Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Lefant M310 Robot Vacuum Cleaner 4500Pa Suction Gray $78.7 + Free Shipping $79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T16:52:37.661076Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Cairn (PC Game) $15.59",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T16:52:37.661076Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Clair Obscur: Expedition 33 (PC Game) $21.79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T16:52:37.661076Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "V Rising (PC Game) $4.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T16:52:37.661076Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Samsung 75” Class M70HB Series Mini LED 4K UHD Samsung Vision AI Companion Smart Tizen TV 2026 - UN75M70HBFXZA $547.99",
   "reason": "Posted at $547.99, but Amazon showed $427.99 when we checked — the post is stale",
   "rejected_at": "2026-09-14T16:47:10.195037Z",
