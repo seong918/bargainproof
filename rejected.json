@@ -1,5 +1,181 @@
 [
  {
+  "source": "dealcatcher",
+  "raw_title": "Adidas Men's X_PLR Path Shoes $25.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:25:08.345925Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "OtterBox iPhone 17 Pro Symmetry Series Case - Black $13.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:25:08.345925Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Updated Ford OEM 5.4L 3V Phaser Repair Kit 18pc $48.71",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:25:08.345925Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "6-Pack Scotch Kids' Tape Rolls (0.75\" x 650\") $11.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:25:08.345925Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ninemoon Twin 3\" Cooling Memory Foam Mattress Topper for $55 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:25:08.345925Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ausom L2 Max Dual Motor Electric Scooter for $819 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:25:08.345925Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Slim Mouse Jiggler w/ On/Off Switch for $13 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:25:08.345925Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Harry's Wildlands 18 fl. oz. Body Wash 3-Pack for $18 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:25:08.345925Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ofispeed 1,600W 7-Speed Rotary Car Buffer and Polisher for $35 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:25:08.345925Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Anne Klein Women's Sandal $9.97 @Costco FS",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:25:08.345925Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Delsey Paris 2-Piece Hardside Luggage Set, YMMV $129.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:25:08.345925Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Mens Polo Shirts Short Sleeve Printed Quick‑Dry Golf Tops $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:25:08.345925Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas kids Superstar II Elastic Lace Shoes(White, Size 5K~9K) $25 + Free S&H at ebay",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:25:08.345925Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Great Value Wet & Dry Mop Sweeper Kit w/ 10 Pad Refills $9.97 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:25:08.345925Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Strebito Cr-Mo Steel Bolt Extractor Socket Set (15-Piece) $11.99",
+  "reason": "Posted at $11.99, but Amazon showed $31.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-14T15:19:41.718957Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Sendefn Men's Automatic Ratchet Buckle Slide Leather Belt $6.49",
+  "reason": "Posted at $6.49, but Amazon showed $12.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-14T15:19:41.718957Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "21V 5\" Mini Cordless Chainsaw w/ 2 Batteries for $20 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:19:41.718957Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "WANDF Travel Toiletry Bag for Men, Canvas Shaving Dopp Kit $8.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:19:41.718957Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Kensie Women's Strap Sandal $7.97 @ Costco FS",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:19:41.718957Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "52-Ct Great Value Dry Sweeping Cloth Refills $7.76 + Free S&H w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:19:41.718957Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Roborock Qrevo Pro Robot Vacuum,7000Pa,Hot Water Mop Wahshing - Certified Refurb $313",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:19:41.718957Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "V VALANCH Men's Sherpa Lined Flannel Jacket with Hood Full-Zip Fleece Coat $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:19:41.718957Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Men's Corduroy Crew Neck Sweatshirt for $10 + $18 shipping",
   "reason": "Not evaluated",

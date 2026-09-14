@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "2cb328daaa84",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20012832-amazon-astroai-l4-cordless-tire-inflator-21-99-w-code",
+  "title": "Amazon – AstroAI L4 Cordless Tire Inflator - w/ Code",
+  "raw_title": "Amazon – AstroAI L4 Cordless Tire Inflator - $21.99 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 2199,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0CS3K3T8T",
+  "image_url": null,
+  "published_at": "2026-09-14T15:25:08.345925Z"
+ },
+ {
   "deal_id": "621ba811b9aa",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20012718-35-99-gamesir-super-nova-wireless-gaming-controller-for-pc-switch-switch-2-at-amazon",
