@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "The Running Man(DVD) $9.96 + Free S&H w/ Prime or $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-14T02:51:30.440433Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Brach's Mellowcreme Autumn Mix Candy, Halloween Candy, Fall Treats, 11 Ounce Bag $2.37",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-14T02:51:30.440433Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Women’s V-Neck Short Sleeve T-Shirt $5.39 – Loose Fit Casual Summer Basic Tee",
+  "reason": "Posted at $5.39, but Amazon showed $8.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-14T02:51:30.440433Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$8.10 FS Walmart+ or PU where available George Men's Comfort Closed Toe Sandals size 7-13",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T02:51:30.440433Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$16.34 Indomie Mi Goreng Instant Stir Fry Noodles, Hot & Spicy 2.82 Ounce (Pack of 30)",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-14T02:45:59.896332Z",

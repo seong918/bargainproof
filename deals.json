@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "10a131969857",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20010465-nature-s-eats-cajun-sesame-sticks-16-0-ounce-12pk-6-98-amazon",
+  "title": "Nature's Eats Cajun Sesame Sticks 16.0 Ounce, 12pk~",
+  "raw_title": "Nature's Eats Cajun Sesame Sticks 16.0 Ounce, 12pk~$6.98 @ Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 698,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-14T02:51:30.440433Z"
+ },
+ {
   "deal_id": "dbaf7a4ff496",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20010711-99-craftsman-10-mini-chainsaw-cordless-v20-battery-charger-included-cmccs610d1-at-amazon",
