@@ -1,5 +1,61 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Timberland Men's Westmore Casual Suede Boots for $22 + free shipping w/ $25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T10:40:05.260941Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$8 Dearfoams Cozy Comfort Men's Notch Clog Slippers (7/8, 9/10, 12/13)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T10:40:05.260941Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$15.96: Easy Spirit Lakely X Martha Stewart Quilted Round Toe Zippered Womens Black Cas(Size: 5~8.5 ) at ebay",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T10:40:05.260941Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Diet Coke Zero Sugar Soda Soft Drinks Bottles (16.9oz, 24-Pack) $13.93",
+  "reason": "Posted at $13.93, but Amazon showed $5.37 when we checked — the post is stale",
+  "rejected_at": "2026-09-14T10:34:34.175319Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Radio Flyer UPS Delivery Truck Ride-On for $25 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T10:34:34.175319Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LG gram Book 15: 15\" FHD IPS Touch, Intel Ultra 5 115U, 32GB LPDDR5, 512GB SSD $546.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T10:34:34.175319Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men Samoa Shoes (3 Colors) from $32",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T10:34:34.175319Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Powerade Zero Sugar Grape Electrolyte Sports Drink (20oz, 8-Pack) $3.29",
   "reason": "Posted at $3.29, but Amazon showed $5.48 when we checked — the deal is probably over",
@@ -58338,14 +58394,6 @@
  {
   "source": "dealcatcher",
   "raw_title": "KitchenAid Artisan 10-Speed Stand Mixer $379.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T12:42:34.543278Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Timberland Men's Westmore Casual Suede Boots for $22 + free shipping w/ $25",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T12:42:34.543278Z",
   "code": "not_checked",
