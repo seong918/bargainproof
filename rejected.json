@@ -1,5 +1,181 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "[S&S, AC] $8.87: Benefiber Prebiotic Fiber Supplement Gummies, Assorted Fruit Flavor, 50 Ct",
+  "reason": "Community score too low (+0) to pass without a price check — needs clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-14T15:57:50.935444Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Jogrytece 4-in-2 5' Universal Travel Charging USB-C Charging Cords $4.75",
+  "reason": "Posted at $4.75, but Amazon showed $9.50 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-14T15:57:50.935444Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Wavlink 12-in-1 USB-C 4K Docking Station (100W PD, 2x HDMI, More) $27.49",
+  "reason": "Posted at $27.49, but Amazon showed $49.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-14T15:57:50.935444Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Tiucm Ginseng Ten Treasures Traditional Chinese Herbal Teabags (30 Bags) $4.99",
+  "reason": "Posted at $4.99, but Amazon showed $9.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-14T15:57:50.935444Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Divide By Sheep",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:57:50.935444Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "PUMA Transport Running Mens Black Sneakers Athletic Shoes (Size 9-12) $19.96",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:57:50.935444Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Adidas Men VL Court 3.0 Shoes $23.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:57:50.935444Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "YouTheFan NFL Philadelphia Eagles Retro Series Puzzle 500 Pieces $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:57:50.935444Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Adidas Men's Purechill Shoes $28.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:57:50.935444Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Boutique Seekers 7-Cigar Sampler w/ Lighter for $29 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:57:50.935444Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Lolalet Travel Jewelry Organizer for Women, Jewelry Case with Mirror $15.29",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:57:50.935444Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Corona Men’s Flip-Flops ( sizes 7 - 11 Available ) $5",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:57:50.935444Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Kenneth Cole Men's Sneaker $34.97 @ Costco FS",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:57:50.935444Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Fury [BLU-RAY] + Digital $8.40 Walmart.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:57:50.935444Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Spacewalk EB013 1500W 48V 13Ah 28MPH 60Mi Fat Tire Electric Bike $312.4 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:57:50.935444Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "PNY 512GB USB 3.0 Flash Drive $60.92 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:57:50.935444Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Men's Soccer Fan Slides, Argentina ( Sizes 9/10 and 11/12 Available) $3",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:57:50.935444Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Hurley Men's Strap Sandal $12.97 @ Costco FS",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:57:50.935444Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "AOVOPRO Electric Scooter 36V10.5AH 350W 8.5\" Dual Shock Absorption 19mph 22mi HES20P $136 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:57:50.935444Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "George Men's Gore Slip On Shoes ( 3 Colors Available ) $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:57:50.935444Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "18L Nike Sportswear Commute Tote Bag (Pencil Point) $26.97 + Free Shipping on $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:57:50.935444Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "QALLY Kids Swim Goggles, 3 Pack Swimming Goggles for Kids 4-16 $12.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T15:57:50.935444Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "PUMA Palermo Nyc Flagship Lace Up Mens White Sneakers $23.96",
   "reason": "Not evaluated",
