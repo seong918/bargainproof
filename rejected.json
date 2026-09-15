@@ -1,6 +1,118 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "2 Pack [Apple MFi Certified] USB C Headphones Wired for iPhone 17 16 15 - $8.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-15T05:21:29.149647Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "QUINEAR Cordless Compression Boots Athlete Leg Massager Recovery System S, 2500mAh, 11 Intensities, 3 Modes $150",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-15T05:21:29.149647Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HTM 22\" Vibration Plate Exercise Machine w/ 9 Modes, 120 Speeds & Remote Control (Black, Large) $50.99 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-15T05:21:29.149647Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "799-Piece LEGO Icons Williams Racing FW14B & Nigel Mansell F1 Model Car Kit $63.95 + Free Shipping",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-15T05:21:29.149647Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Pack 45-Count Seventh Generation Free & Clear Laundry Detergent Packs $13.67 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, multi-pack, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-15T05:21:29.149647Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Warner Bros 20 Essential Movie Collection - Apple TV/iTunes $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T05:21:29.149647Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "PS5 Resident Evil Games on Sale at Best Buy $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T05:21:29.149647Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Resident Evil 7 Gold Edition (PlayStation 5) - $12.99 @ Best Buy",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T05:21:29.149647Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Jimmy Eat World - Bleed American - Vinyl $19.27",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T05:21:29.149647Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Resident Evil 3 (PlayStation 5) - $12.99 @ Best Buy",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-15T05:21:29.149647Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Resident Evil 2 (PlayStation 5) - $12.99 @ Best Buy",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T05:16:11.103988Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Frigidaire Gallery Connected GHDD5035W1 50 Pint Dehumidifier $140 FS/Prime @ Woot",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T05:16:11.103988Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Dyson - Ball Allergy Plus Upright Vacuum - Moulded Blue/Iron $329.99 Bestbuy.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T05:16:11.103988Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Resident Evil 4 (PlayStation 5) - $12.99 @ Best Buy",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-15T05:16:11.103988Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "ASUS - ROG Strix Scope II 96 96% Wireless Mechanical Gaming Keyboard with Hot-Swappable ROG NX Snow Switches - White $109.99 Bestbuy.com",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T05:10:40.650615Z",
