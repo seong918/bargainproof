@@ -1,5 +1,21 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Panera Bread $50 Gift Card for $40 + email delivery",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T23:45:38.438349Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "New Pillowfort Halloween Dishes Just $4 at Target (Pirate, Frankenstein, Pumpkin, & More!)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T23:45:38.438349Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Vans Bearcat Canvas Black/Black Men's Classic Skate Shoes Size 8 8.5 9 9.5 - $32.99",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",

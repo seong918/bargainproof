@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "e6c489d5a9c5",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20019900-prime-16-18-dune-deluxe-hardcover-edition-at-amazon",
+  "title": "Dune: Deluxe Hardcover Edition",
+  "raw_title": "[Prime] $16.18 | Dune: Deluxe Hardcover Edition at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/059309932X",
+  "deal_total_cents": 1618,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "prime"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 1618,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1618,
+  "amazon_url": "https://www.amazon.com/dp/059309932X",
+  "amazon_checked_at": "2026-09-15T23:45:43.498892Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "059309932X",
+  "image_url": null,
+  "published_at": "2026-09-15T23:45:38.438349Z"
+ },
+ {
   "deal_id": "4f0d9387c9f3",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20019837-chelmon-faux-leather-hobo-shoulder-bag-black-11-87-free-shipping-w-prime-or-on-35",
