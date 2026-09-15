@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Freela Kids Swim Goggles, 2 Packs Swimming Goggles for Kids 3-14, Anti Fog UV Protection No Leaking $5.99",
+  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-15T01:33:00.057080Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Beats USB-C Woven Fast Charging Cable for $10 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T01:33:00.057080Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ozark Trail Men's Relaxed-Fit Swim Trunks (Select Colors) from $4.16 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T01:33:00.057080Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bed Rail Bumpers for Toddlers, U-Shaped 3 Ft Kid Bed Bumpers, Gray $17.99",
+  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-15T01:27:28.180041Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "70.9\" Auto Face Tracking Tripod 360° Rotation w/Light for iPhone & Android,No App Needed,w/ Remote Control $24.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-15T01:27:28.180041Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ozark Trail 50F Rectangular Sleeping Bag (33\" x 75\") $12.97 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T01:27:28.180041Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Journee Women's Jersie Knit Foldable Ballet Flats, Widths Available $7.76",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T01:21:59.104077Z",
