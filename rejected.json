@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Eivikga 3 Channel Dash Cam, 4K+2.5K+2.5K, WiFi GPS, for Rideshare and Taxi $55.99",
+  "reason": "Posted at $55.99, but Amazon showed $69.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-15T00:43:26.397221Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Nike Sportswear Commute 18L Tote Bag for $27 + free shipping w/ $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T00:43:26.397221Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Blaze Pizza Celebrating Birthday on September 15 $6.85 2 Topping 11 inch Pizza App or Online Only Reward Members Only AC",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T00:43:26.397221Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$12.48 get $3 Walmart Cash Limit 2 ARM & HAMMER Plus OxiClean with Odor Blasters Liquid Detergent, Fresh Burst, 158.6 fl oz, 122 Loads",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T00:43:26.397221Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Rao’s Made For Home Chicken & Gnocchi Soup, 16 oz x 2~$6.57 After Multibuy & S&S @ Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-15T00:43:26.397221Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "ACEMAGIC S16 AMD Ryzen™ 7 H 255 - Radeon 780m - 512GB SSD - 24gb DDR5 RAM. $579.00",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T00:37:56.336264Z",
