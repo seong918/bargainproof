@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "a83499db9329",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20015910-pre-order-metroid-ravenous-nintendo-switch-2-59-88-amazon",
+  "title": "Pre-Order: Metroid Ravenous (Nintendo Switch 2)",
+  "raw_title": "Pre-Order: Metroid Ravenous (Nintendo Switch 2) - $59.88 @ Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 5988,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 6,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-15T03:32:40.885776Z"
+ },
+ {
   "deal_id": "37f7329f9fd3",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20014530-sns-ac-12-49-30-count-garden-of-life-organics-multivitamin-for-men-at-amazon",

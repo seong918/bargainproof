@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "M3GAN 2-Movie Collection (4K Ultra HD + Digital) $23.99 + Free S&H w/ Prime or $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-15T03:32:40.885776Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bearwind Portable Stroller Fan w/ 60° Auto Oscillation, 4400mAh Battery & Night Light (Brown) $9.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-15T03:32:40.885776Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Pre-Order: Metroid Ravenous (Nintendo Switch 2) - $59.88 @ Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-15T03:32:40.885776Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$10.99 | Monoprice 1U Metal Rackmount Cable Management Panel - 1.58 Feet - Black at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-15T03:27:09.906938Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – VK VK·LIVING 5' Round Washable Rug - $10.99–$48.99 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-15T03:27:09.906938Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Furby Kids Full Bed in a Bag, 5Pc Bedding Set, Comforter and Sheets $13.74",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T03:27:09.906938Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon – Jevvu 5-in-1 Shoe Cleaning Kit - $9.49 w/ Code",
   "reason": "Community score too low (+2) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-15T03:21:52.856050Z",
