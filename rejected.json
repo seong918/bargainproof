@@ -1,6 +1,174 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Microsoft Surface Laptop Go 2 12.4\" i5 2.40GHz/8GB/128GB (Platinum) - Refurb Good w/Warranty $162.71",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T02:06:02.840749Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Beautiful by PUR 12 Cup Water Filtration Pitcher $34.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T02:06:02.840749Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "REOLINK 4K 8MP Security Camera Outdoor Dual Lens 180 Degree Duo 2 WiFi $105",
+  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-15T02:00:32.997273Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-in-1 Magnetic Rechargeable Cute Bear Hand Warmers, $7.49 w/ code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-15T01:55:02.383923Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Sunm Boutique High Cut Combed Cotton Underwear for Women Soft Lace Panties Various Colors starting at $8 (Black)",
+  "reason": "Posted at $8.00, but Amazon showed $15.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-15T01:55:02.383923Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Wyze Smart Scale BodyScan with Handle, Bluetooth, 400 lbs, Black $69.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T01:55:02.383923Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "roborock H60 Hub Ultra-N Cordless Stick Vacuum with Auto-Empty Dock, 210AW $299.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T01:55:02.383923Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Panasonic DP-UB820-K 4K Blu Ray DVD Player with Dolby Vision and HDR10+ $539.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T01:55:02.383923Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Batman 4-Film Collection 4K Ultra HD + Blu-ray $31.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T01:55:02.383923Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Injustice Blu-ray $7.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T01:55:02.383923Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "SAILARY Louvered Pergola 12' x 16' with Waterproof Curtains $1,295.19",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T01:55:02.383923Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Speck iPhone Wallet MagSafe Accessory with ClickLock for 1-3 Cards $13.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T01:55:02.383923Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "GameSir Super Nova Wireless Gaming Controller and Dark Green Faceplate $36.32",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T01:55:02.383923Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Samsung Galaxy S26+ Unlocked Android Smartphone 12GB 256GB $899.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T01:55:02.383923Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Batman: The Complete Series Blu-ray $26.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T01:55:02.383923Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Sun + Stone Men's Bennett Relaxed-Fit Denim Shorts for $15 + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T01:49:31.307453Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Western Digital Elements 2TB Portable Hard Drive for Windows USB C100 $100",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T01:49:31.307453Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "TCL 55” Class S55LR Series 4K HDR LED Smart Roku TV (New 2026) - High Brightness LED Backlight, Wide Color Gamut, Motion Rate 240~$268 @ Walmart~Free Shipping!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T01:49:31.307453Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Weatherproof Vintage Men's Dobby Check 100% Cotton Shirt for $13 + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T01:44:00.379656Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "VIZIO 55 in Mini LED Quantum 4K QLED HDR Smart TV, 2026 Model, VQM55C-10~$248 @ Walmart~Free Shipping Or Pickup!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T01:44:00.379656Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Duke Cannon Supply Co. Big Ass Brick of Soap for Men, 10 oz, 4-pack $14.99 In Warehouse YMMV/$19.99 online",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T01:44:00.379656Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Freela Kids Swim Goggles, 2 Packs Swimming Goggles for Kids 3-14, Anti Fog UV Protection No Leaking $5.99",
   "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
   "rejected_at": "2026-09-15T01:33:00.057080Z",
