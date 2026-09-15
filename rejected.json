@@ -1,6 +1,182 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon – HUSKARY Women's Faux-Suede Mini Skirt - $12.85 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-15T02:50:01.693117Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "NULAS 13 Pieces Kitchen Knife Set with Blade Guards & Self-sharpening, Stainless Steel Non-stick Knives for Cooking and Cutting, Black $10 AC",
+  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-15T02:50:01.693117Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Ipletix Women's Slim-Fit Long-Sleeve Shirts - $4.89–$9.09 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-15T02:50:01.693117Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$229.95 | Breville BDC415BSS Luxe Brewer Glass Carafe, Brushed Stainless Steel at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-15T02:50:01.693117Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "MIHOVER 26\" Electric Bike for Adults 550W Max Speed 20MPH, 48V Battery 40 Miles $309.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T02:50:01.693117Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "6-Pocket Roll-Up Tool Bag Organizer (Army Green) $14.03 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-15T02:50:01.693117Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Acnalboma Queen Bamboo-Blend Mattress Topper - $28.49 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-15T02:44:31.573460Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Ipletix Maternity Long-Sleeve Tunic - $4.99 w/ Code",
+  "reason": "Community score too low (+2) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-15T02:44:31.573460Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Ipletix Women's 8\" Quick-Dry Hiking Shorts - $6.49–$7.49 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-15T02:44:31.573460Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HP OmniBook 3 16\" Touchscreen Laptop - AMD Ryzen AI 7 445 - Copilot+ PC - 2K (1920 x 1200) - 16GB Memory - 1TB SSD $700",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T02:44:31.573460Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Aninerel 4200W 4000W 110V Hybrid Inverter Pure Sine Wave Solar Inverter $173 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T02:44:31.573460Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Joseph Abboud Comfort Stretch Jeans (Straight Fit, Athletic Fit, or Classic Fit) $14.99, Awareness Kenneth Cole Joggers $14.99, More + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T02:44:31.573460Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "IN'VOLAND Womens Plus Siz Sweatshirts Soft Long Sleeve Casual Crewneck Sweaters Fleece Winter Pullover Tops with Pocket Grey $9.89",
+  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-15T02:38:59.835771Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – BAIMEI IcyMe Gua Sha & Jade Roller Set - $3.99 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-15T02:38:59.835771Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "1200W Nexdoo G9 Steam 2-in-1 Professional Handheld Travel Steamer for Clothes $19.99",
+  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-15T02:38:59.835771Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HOTOUCH White Button Down Shirt Womens Dressy Casual Long Sleeve Blouses $10.99",
+  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-15T02:38:59.835771Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "14.17\" to 23.62\" PanPanPal Expandable Under-Cabinet Pot & Pan Organizer w/ 10 Adjustable Dividers (Black) $13.19 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-15T02:38:59.835771Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – PXBNIUYA 108-LED Fairy Tree Lamp - $12.99–$29.99 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-15T02:33:29.173327Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Parlovable Women's Memory Foam House Slippers - $7.49–$12.49 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-15T02:33:29.173327Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Facecozy Arm Warmers for Women, Long Fingerless Gloves with Thumb Hole $4.99",
+  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-15T02:33:29.173327Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Rammus Women's Yoga Dress Pants w/ Pockets - $17.84 w/ Code + Deal",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-15T02:28:01.074802Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$43 FS Walmart by Stepedia Men's Waterproof Snow Boots Warm Insulated Faux Fur Lined Mid Calf , Black size 7-12",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T02:28:01.074802Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Ecarke 840GPH Cordless Stick Water Transfer Pump Compatible With DeWalt 20V (Tool Only), 38FT, Self Priming, Portable Electric Water Pump with Hose Kit $64.49",
   "reason": "Community score too low (+2) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
   "rejected_at": "2026-09-15T02:22:29.846140Z",
