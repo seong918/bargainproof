@@ -1,6 +1,174 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS, AC] $19.69 | 2-Pack Philips Sonicare A3 All-in-One Toothbrush Heads (White) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs clip coupon, Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-15T00:54:28.044399Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[NEW, SnS, AC] $9.90 | 5.4-Oz VERB Frizz Defense Smoothing Spray | Humidity + Heat Protectant at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-15T00:54:28.044399Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Hawaiian Tropic Weightless Hydration Face Mist SPF 30 2.1-Oz $6.43",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T00:54:28.044399Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Superman/Batman: Public Enemies / Apocalypse (DBFE) Blu-ray $10.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T00:54:28.044399Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Quilted Duffel Bag $28.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T00:54:28.044399Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Tracfone Samsung Galaxy A16 5G Phone - 128GB, 1-Yr Plan Included, Black $79.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T00:54:28.044399Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Grinch 12 Days of Grinchmas Slime Advent Calendar $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T00:54:28.044399Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Artoid Mode 2 Pcs 3D Heart Pumpkin Hand Towels $6.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T00:54:28.044399Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "In the Name of the Father [Blu-ray] $8.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T00:54:28.044399Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Monoprice 1U Metal Rackmount Cable Management Panel 1.58 Feet $10.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T00:54:28.044399Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Huusk ATS-34 Steel Kitchen Knife Block Set w/ Built-In Sharpener (Black) $23.08",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T00:54:28.044399Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Costway 12000 BTU 20 SEER2 Wifi Enabled Mini Split Air Conditioner & Heater $485.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T00:54:28.044399Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Goplus 3-in-1 Plyometric Jump Box 16\"x20\"x24\" $62.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T00:54:28.044399Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "160L Laundry Hamper with Wheels $21.45",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T00:54:28.044399Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Citizen Men's Brycen Eco-Drive Weekender Chronograph Watch for $259 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T00:54:28.044399Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas Men's or Women's Harden Volume 10 'Imma Be a Star' Basketball Shoes for $48 + free shipping w/ $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T00:54:28.044399Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS] $5.20* | 2.08-Oz Simply Organic Ground Ceylon Cinnamon at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-15T00:48:56.501660Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Pack 3.5-Cup MALACASA Medium Weighted Ceramic Dog Bowls Set with Wood Stand $19.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs multi-pack, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-15T00:48:56.501660Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Citizen Men's Eco-Drive Sport Casual Watch for $279 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T00:48:56.501660Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Vibrant Life 11\" Holiday Moose Dog Toy for $2 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T00:48:56.501660Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GameSir - Super Nova Wireless Gaming Controller Nintendo Switch & Switch 2/PC/1OS/Android $29.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T00:48:56.501660Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Eivikga 3 Channel Dash Cam, 4K+2.5K+2.5K, WiFi GPS, for Rideshare and Taxi $55.99",
   "reason": "Posted at $55.99, but Amazon showed $69.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-15T00:43:26.397221Z",
