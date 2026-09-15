@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Flamingo Women's 5-Blade Razor w/ Handle & Blade Refill $5.45 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-15T04:37:43.512478Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Sony DualSense Wireless Controller Marathon Limited Edition + NordVPN 1-Year Standard Subscription (Digital Download) $84 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T04:37:43.512478Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "BOSGAME E5 Mini PC: Ryzen 5400U, 8GB DDR4, 256GB SSD, Win 11 Pro $186.99",
   "reason": "Same deal was already posted from another source",
   "rejected_at": "2026-09-15T04:32:12.258096Z",
