@@ -1,5 +1,53 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$4 ac AMAZON COSLUS FBS01 Facial Cleansing Brush Face Scrubber, Compact for Travel",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-15T07:24:25.028630Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Plantar Fasciitis Arch Support Insoles for $9 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T07:24:25.028630Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Yeserli Rechargeable Handheld Milk Frother for $14 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T07:24:25.028630Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "$100 Sony PlayStation Store Gift Card for $89 + email delivery",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T07:24:25.028630Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "OtterBox Samsung Galaxy S26 Profile Series Case - Pink Awakening $4.96",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T07:24:25.028630Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "OtterBox Samsung Galaxy S26 Ultra Profile Series Case, Ultra-Thin, Stylish, Protective Samsung Galaxy Case, Pink Awakening or Black $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T07:24:25.028630Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "$100 Burlington Gift Card for $90 + email delivery",
   "reason": "Not evaluated",
