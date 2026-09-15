@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Levi's Men's Anikin Canvas Sneaker - Black $16.93",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T06:32:40.078916Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "3-Pack PINSPARK Men's UPF 50+ Quick-Dry Sleeveless Active Tank Tops (Various) $15 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs multi-pack, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-15T06:27:09.795820Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "32' 1/4\" Natural Sisal Rope for Cat Scratching Post Repair & Crafts (Natural) $4.62 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-15T06:21:37.960623Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "The Thought Leadership Handbook: How the Experts Elevate Their Big Ideas (Kindle eBook) $0.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T06:21:37.960623Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Avatar: Frontiers of Pandora From the Ashes Edition (PS5) $19.93 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T06:16:07.907134Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "274-Pc LEGO Botanicals Mini Orchid Building Set (10343) $24 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T05:54:09.053734Z",
