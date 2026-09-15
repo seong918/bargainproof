@@ -1,5 +1,293 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "ACEMAGIC S16 AMD Ryzen™ 7 H 255 - Radeon 780m - 512GB SSD - 24gb DDR5 RAM. $579.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T00:37:56.336264Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "George Men's Jonaah Oxford Dress Shoes- $8.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T00:37:56.336264Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Sonic Racing CrossWorlds Knuckles RC Monster Truck for $11 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T00:32:25.470571Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Lenovo Tab One 8.7\" 64GB Tablet for $140 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T00:32:25.470571Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "AND1 Men’s Streetball Basketball Shoes High-Top $6.10",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T00:32:25.470571Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Seiko 5 Sports x Pepsi SKX White Dial Men's Automatic Watch $299 + $9.82 Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T00:32:25.470571Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Samsung Galaxy Z Fold8 Unlocked Android Smartphone, 256GB Graphite $1649",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T00:21:25.372151Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Wall Charger, Surge Protector, QINLIANF 5 Outlet Extender with 4 USB Ports $9.98",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-15T00:15:54.017015Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Vivicreate Tri Ply Stainless Steel Stock Pot with Lid 5 Quart Hammered Stockpot Induction Cooking Pot Soup Pot Compatible with All Stovetops (5QT) $16.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-15T00:15:54.017015Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Contigo Byron 2.0 Stainless Steel 20-oz. Travel Mug for $14 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T00:15:54.017015Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Champion Center Backpack for $12 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T00:15:54.017015Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Sansui 27\" 1080p 240Hz FreeSync LED Curved Monitor for $136 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T00:15:54.017015Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Lenovo 27-inch 2560 x 1440 (QHD) 100Hz, Speakers, USB-C Monitor (L27h-4A)- $145.35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T00:10:22.968212Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Prime Members UGREEN HiTune Max5c Hybrid ANC Wireless Over Ear Headphones $29.99 & More + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-15T00:04:52.321364Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "SwissGear Energie Expandable Hardside Checked Luggage for $54 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T00:04:52.321364Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Dyson Corrale Hair Straightener $399.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T23:59:20.827467Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Samsung Galaxy Z Fold8 512GB Graphite $1,849.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T23:53:48.831888Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Motorola Moto G Play LTE 4GB/64GB Sapphire Blue $99.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T23:53:48.831888Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Radio Flyer 3-in-1 EZ Fold Wagon with Canopy $76.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T23:53:48.831888Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LEGO Botanicals: Botanical Collection - Flower Arrangement (10345, 1161-Piece) $62.04",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T23:53:48.831888Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Levoit Cordless Vacuum Cleaner Anti-Tangle for Pet Hair 50 Minutes $139.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T23:53:48.831888Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Shark Rotator Lift-Away Upright Vacuum NV501 $199.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T23:53:48.831888Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "BOSCH CM8S 8-1/2 In. Single-Bevel Slide Miter Saw $405.15",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T23:53:48.831888Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Fluke 179/EDA2 6 Piece Industrial Electronics Multimeter Combo Kit $314.96",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T23:53:48.831888Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Makeup Brush Set 14-Piece (Pink) $7.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T23:53:48.831888Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LEGO Speed Champions Mercedes-AMG PETRONAS F1 Team W15 E Performance 267-Piece $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T23:53:48.831888Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Eureka 3670M Canister Cleaner with 5 Bags $67.96",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T23:53:48.831888Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Push the Wall: My Life, Writing, Drawing, and the Art of Storytelling by Frank Miller (Hardcover) $24.34",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T23:53:48.831888Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Philips Avent Natural Glass Baby Bottles 4-Pack, Medium Flow, 8 oz $31.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T23:53:48.831888Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Google Pixel Watch 4 45mm LTE $379.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T23:53:48.831888Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Preen Garden Weed Preventer 11.25 lb (Case Pack of 2-5.625 lb Bottles) $25.07",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T23:53:48.831888Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Zojirushi Home Bakery Supreme Breadmaker $276.50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T23:53:48.831888Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "PLANTERS Lightly Salted Peanuts, 16 Oz $2.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T23:53:48.831888Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Segmart 7-Piece Outdoor Dining Set for $243 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T23:53:48.831888Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$2.07-$2.52 KOHLS Sonoma Goods For Life® Poncee Kids Flip Flops FS to store",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T23:53:48.831888Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "L.L.Bean Men's Bean's Down Hooded Colorblock Jacket $84.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-14T23:53:48.831888Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Curad Alcohol Prep Pads 400-Pack for $4 + free shipping w/ Prime",
   "reason": "Not evaluated",
