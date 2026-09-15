@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "20,000mAh BooKoo A9 2000A Car Battery Jumper w/ QC 3.0, PD 18W $22.20 + Free S/H",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-15T03:38:09.420456Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $9.74 | 8-Pack 3-Oz Lenny & Larry's FITZELS Protein Pretzels (Beastly Buffalo) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs clip coupon, Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-15T03:38:09.420456Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "In the Name of the Father [Blu-ray] $8.99 Amazon.com",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-15T03:38:09.420456Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$1.99 | Islands in the Net by Bruce Sterling (Kindle ebook)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T03:38:09.420456Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "M3GAN 2-Movie Collection (4K Ultra HD + Digital) $23.99 + Free S&H w/ Prime or $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-15T03:32:40.885776Z",
