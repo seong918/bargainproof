@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "12-Count Satisfy Your Crave 20g Protein Bars (Variety Pack, 1.94-oz bars) For $13.59 w/ S&S + Promo Code ($1.13 per bar) @ Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-15T05:43:14.668121Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Resident Evil 7 + Village Gold Edition (PSDD) PlayStation 5PS4 PS5 $19.79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T05:43:14.668121Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$129* | DEWALT Toughsystem 2.0 20V Dual Port Charger (DWST08050) at Amazon",
   "reason": "Community score too low (+2) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
   "rejected_at": "2026-09-15T05:32:23.638462Z",
