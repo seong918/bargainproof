@@ -1,5 +1,21 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "$100 Burlington Gift Card for $90 + email delivery",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T07:19:17.117497Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$89: Sony PlayStation Store $100 Gift Card (Email Delivery) at Newegg",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T07:14:13.865099Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "DEWALT 8.25-in 15 -Amp Portable Jobsite Table Saw with Folding Stand $329 + Free S&H at Lowe's",
   "reason": "Not evaluated",

@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "1b0183b212dc",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20016471-sns-ac-14-03-3-12-pack-12-oz-dr-pepper-soda-cherry-4-68-each-at-amazon",
+  "title": "3 × 12-Pack 12-Oz Dr Pepper Soda (Cherry)",
+  "raw_title": "[SnS, AC] $14.03 | 3 × 12-Pack 12-Oz Dr Pepper Soda (Cherry) ($4.68 each) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1403,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-15T07:19:17.117497Z"
+ },
+ {
   "deal_id": "b8fd91ed701e",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20016699-40-99-koackl-propane-torch-adjustable-flame-thrower-kitchen-torch-silver-black-at-amazon",
