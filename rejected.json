@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "0.88-Oz Donginbi 1899 Signature Face Oil $65.25 w/ S&S + Free Shipping w/ Prime or $35+ Orders",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-15T01:10:56.040903Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$73.52 | Hermes Jour D'hermes Eau de Parfum Spray for Women, Refillable, 2.87 Fluid Ounce at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-15T01:10:56.040903Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Thermacell Mosquito Repeller Holster w/ Belt Clip for $10 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T01:10:56.040903Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Lefant Pro Lidar Obstacle Avoiding WiFi-Control Robot Vacuum and Mop $89.99",
+  "reason": "Posted at $89.99, but Amazon showed $139.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-15T01:05:26.283075Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Apple iPhone Air Bumper Case (Tan) $9.90 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T01:05:26.283075Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CINCOM Corded Air Compression Leg & Foot Massager Boots w/ 3 Modes & 3 Intensity Levels $80 + Free Shipping",
+  "reason": "Community score too low (+4) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-15T00:59:56.174076Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Avatar: Frontiers of Pandora - From the Ashes Edition (PS5) $18.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T00:59:56.174076Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[SnS, AC] $19.69 | 2-Pack Philips Sonicare A3 All-in-One Toothbrush Heads (White) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs clip coupon, Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-15T00:54:28.044399Z",
