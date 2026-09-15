@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[NEW] $37.01 | Modiphius Fallout: The Roleplaying Game Core Rulebook - 2d20 System RPG at Amazon",
+  "reason": "Posted at $37.01, but Amazon showed $51.55 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-15T04:54:15.606898Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "18\" AHAWILL Plug-In Outdoor Ceiling Fan w/ Dimmable LED Light & Remote (Colorful) $15.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-15T04:48:45.278509Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Jogrytece 5ft Multi 3-in-1 USB-C, Micro USB, Lightning to USB-C Braided Cable $4.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T04:43:13.911865Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Flamingo Women's 5-Blade Razor w/ Handle & Blade Refill $5.45 w/ S&S + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-15T04:37:43.512478Z",
