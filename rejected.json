@@ -1,6 +1,14 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$129* | DEWALT Toughsystem 2.0 20V Dual Port Charger (DWST08050) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-15T05:32:23.638462Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "SEESII 2000Pa Cordless Window Vacuum Squeegee w/ 2000mAh Battery & Blades (11\" & 6.7\") $31.99 & More + Free Shipping",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-15T05:26:57.752007Z",

@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "7ff73f40eb31",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20016441-59-dji-mic-mini-2-tx-1-rx-wireless-lavalier-microphone-system-at-amazon",
+  "title": "DJI Mic Mini (2 TX + 1 RX) Wireless Lavalier Microphone System",
+  "raw_title": "$59* | DJI Mic Mini (2 TX + 1 RX) Wireless Lavalier Microphone System at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0FKL8JYGQ",
+  "deal_total_cents": 5900,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 5900,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 5900,
+  "amazon_url": "https://www.amazon.com/dp/B0FKL8JYGQ",
+  "amazon_checked_at": "2026-09-15T05:33:00.063345Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0FKL8JYGQ",
+  "image_url": null,
+  "published_at": "2026-09-15T05:32:23.638462Z"
+ },
+ {
   "deal_id": "5d99099b9954",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20016210-sns-ac-6-87-250-ct-nature-made-vitamin-d3-2000-iu-softgels-50-mcg-at-amazon",
