@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$139.57: Metabo HPT 1/4-Inch 18V MultiVolt Cordless 18-Ga Narrow Crown Stapler Kit, 2.0Ah Battery (N1804DA) at Amazon",
+  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-15T04:21:29.343072Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$9.99: G4Free Women's Puffer Tote Bag, Expandable Work & Travel Bag (Black/Pink/Beige) at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-15T04:15:59.525489Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "JBL Go 4 Portable Bluetooth Speaker (Purple) $34.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T04:15:59.525489Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Lamicall 15W MagSafe Wireless Car Phone Mount Charger $10 + FS w/ Prime or orders $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-15T04:10:39.358314Z",
