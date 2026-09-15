@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Vans Bearcat Canvas Black/Black Men's Classic Skate Shoes Size 8 8.5 9 9.5 - $32.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-15T23:34:50.481997Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Edrosie Inc 130-Gallon Water-Resistant Resin Lockable Deck Box for $122 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T23:34:50.481997Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GIGABYTE X870 AORUS ELITE WIFI 7 + AMD Ryzen 7 9800X3D + Cooler Master Elite Liquid 240 CPU AIO Cooler $569.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T23:29:29.779811Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "DEWALT TSTAK Deep Toolbox with Long Handle (DWST17814) $34.97 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-15T23:25:01.275281Z",
