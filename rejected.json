@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "BOSGAME E5 Mini PC: Ryzen 5400U, 8GB DDR4, 256GB SSD, Win 11 Pro $186.99",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-15T04:32:12.258096Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[NEW, SnS] $31.69 | 4-Pack 48-Oz Bob's Red Mill Organic All Purpose Unbleached Flour at Amazon ($7.92 each)",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-15T04:26:44.453419Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Tsieusl 4-Pack Smart Waterproof Apple Find My Tracker (iOS Only) $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T04:26:44.453419Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Epicurean Kitchen Utensils: Free shipping on orders over $100 + free returns!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-15T04:26:44.453419Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$139.57: Metabo HPT 1/4-Inch 18V MultiVolt Cordless 18-Ga Narrow Crown Stapler Kit, 2.0Ah Battery (N1804DA) at Amazon",
   "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-15T04:21:29.343072Z",
