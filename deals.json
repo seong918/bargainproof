@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "b93c40f9467e",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20024232-amazon-zity-boys-sherpa-lined-flannel-jacket-19-99-w-code-deal",
+  "title": "Amazon – ZITY Boys' Sherpa-Lined Flannel Jacket - w/ Code + Deal",
+  "raw_title": "Amazon – ZITY Boys' Sherpa-Lined Flannel Jacket - $19.99 w/ Code + Deal",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0F53Z57WQ",
+  "deal_total_cents": 1999,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 3999,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 3999,
+  "amazon_url": "https://www.amazon.com/dp/B0F53Z57WQ",
+  "amazon_checked_at": "2026-09-16T22:19:12.225705Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 6,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0F53Z57WQ",
+  "image_url": null,
+  "published_at": "2026-09-16T22:19:07.990001Z"
+ },
+ {
   "deal_id": "bf4d5c45f18a",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20024100-10-12-s-s-clip-q-cameron-s-coffee-roasted-ground-coffee-bag-dark-chocolate-mocha-smooth-flavored-coffee-sustainable-small-batch-roasted-28-ounce-pack-of-1",
