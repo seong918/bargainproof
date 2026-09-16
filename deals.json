@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "98921d23aa9a",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20022234-sns-ac-32-96-4-25-count-milk-bone-brushing-chews-large-daily-dental-dog-treats-chicken-8-24-each-at-amazon",
+  "title": "4 × 25-Count Milk-Bone Brushing Chews Large Daily Dental Dog Treats (Chicken)",
+  "raw_title": "[SnS, AC] $32.96 | 4 × 25-Count Milk-Bone Brushing Chews Large Daily Dental Dog Treats (Chicken) ($8.24 each) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 3296,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-16T13:23:18.265182Z"
+ },
+ {
   "deal_id": "c51ea1faeaca",
   "source": "techbargains",
   "source_url": "https://www.amazon.com/gp/product/B0FDF2ZBQ4/ref=ox_sc_act_image_1",
