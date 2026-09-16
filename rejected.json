@@ -1,6 +1,70 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "Eudele Adhesive Shower Caddy 5-Pack for $10 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T09:43:34.677746Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "6.5-Quart Round Chafing Dish Buffet Set 4-Pack for $112 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T09:43:34.677746Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bruno Marc Men's Mesh Wingtip Oxford Dress Shoes (4 colors) $23.50 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-16T09:38:11.314707Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $15.73 | 3 × 75-Oz Cascade Complete Gel All-in-1 Dishwasher Detergent (Citrus) ($5.24 each) at Amazon",
+  "reason": "Community score too low (+4) to pass without a price check — needs Subscribe & Save, multi-pack, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-16T09:38:11.314707Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "AstroAI C2 Cordless 160PSI Battery-Powered Portable Tire Inflator Air Compressor $39.59",
+  "reason": "Posted at $39.59, but Amazon showed $65.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-16T09:38:11.314707Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Cincom 3-Massage 2500mAh Rechargeable Cordless Hand Massager $23.98",
+  "reason": "Posted at $23.98, but Amazon showed $55.16 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-16T09:38:11.314707Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "G Gradual Men's Mesh Lightweight Athletic Sweatpants for $15 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T09:38:11.314707Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "15\" Portable Camping Toilet for $27 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T09:38:11.314707Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
   "raw_title": "No Boundaries Women's Cotton Thong Panties 7-Pack for $8 + free shipping w/ $35",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-16T09:32:48.388603Z",
