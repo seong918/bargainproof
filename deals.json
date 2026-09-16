@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "5917204f7154",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20024346-9-99-bluey-let-s-play-chef-food-truck-playset-at-amazon",
+  "title": "Bluey Let's Play Chef Food Truck Playset",
+  "raw_title": "$9.99* | Bluey Let's Play Chef Food Truck Playset at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0DQ6TF81J",
+  "deal_total_cents": 999,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 999,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 999,
+  "amazon_url": "https://www.amazon.com/dp/B0DQ6TF81J",
+  "amazon_checked_at": "2026-09-16T18:53:06.955872Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0DQ6TF81J",
+  "image_url": null,
+  "published_at": "2026-09-16T18:52:56.154107Z"
+ },
+ {
   "deal_id": "86ba7855d572",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20023848-vtoman-x7-4250a-jump-starter-w-160psi-air-compressor-47-free-shipping",
