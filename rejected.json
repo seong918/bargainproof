@@ -1,6 +1,118 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "Tree Hut Jelly Bear Foaming Body Wash, 18 fl. oz. for $7.20 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T20:30:34.779063Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Kasa Smart Multicolor Bulb for $9 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T20:30:34.779063Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Dockers Men's Straight Fit Pleated Casual Chino Pants for $11 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T20:30:34.779063Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Harry's Original Razor Blade Refills 10-Pack for $14 via Sub & Save + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T20:30:34.779063Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Patiowell 8' x 6' Outdoor Storage Shed for $220 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T20:30:34.779063Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Character Windbreaker from $8 on Walmart.com (Reg. $19)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T20:30:34.779063Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Lego Marvel Ravager Jumpsuit Groot Kids Building Toy 76341, 604 Pieces $35.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T20:30:34.779063Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Green Man Gaming: LEGO Marvel Super Heroes (PCDD) $3.20",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T20:30:34.779063Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Harry's Original Razor Blade Refills 14-Pack for $17 via Sub & Save + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T20:25:08.492196Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LOL Surprise Girls' Pink Swim Goggles w/ Hard Shell Case & Mesh Drawstring Bag $3.67 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T20:25:08.492196Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Busy Baby Silicone Baby Bib w/ Food Catcher & Utensil Straps $3.85 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T20:25:08.492196Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Aeac 1.85\" 120+ Sport Modes Bluetooth Fitness Tracking Smartwatch $22.78",
+  "reason": "Posted at $22.78, but Amazon showed $45.57 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-16T20:19:41.196308Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Large Print Very Easy Sudoku Puzzle Book $2.09 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T20:19:41.196308Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "3-PACK: Lone Star Caps (Meshback) $14.50 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T20:19:41.196308Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
   "raw_title": "NFL Men's Team Logo Pullover Hoodie for from $19 + free shipping w/ $35",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-16T20:14:15.059609Z",
@@ -117978,14 +118090,6 @@
  {
   "source": "techbargains",
   "raw_title": "Cursor Fitness 3-in-1 330lbs 17% Incline Foldable Compact Walking Pad Treadmill $114.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-04T00:24:26.832056Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Aeac 1.85\" 120+ Sport Modes Bluetooth Fitness Tracking Smartwatch $22.78",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-04T00:24:26.832056Z",
   "code": "not_checked",
