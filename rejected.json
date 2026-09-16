@@ -1,5 +1,45 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "JBL Tune 530BT - On-Ear Bluetooth Headphones (various colors) $39.95",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-16T19:03:44.594269Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "GOODEE 4K Smart Projector with AI ToF Auto Focus, WiFi 6 & Bluetooth 4000 Lumens $159.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T19:03:44.594269Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "9-Night Morocco Flight, Hotel, and Tour Vacation for From $2,998 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T19:03:44.594269Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Apple - USB-C VGA Multiport Adapter - White $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T19:03:44.594269Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "World Tech Toys (Various): 53-Piece World Tech Toys Subway Sandwich Maker Playset $20.99 & More + Free Pickup at Macys or Free Shipping on $39+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T19:03:44.594269Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Hot Wheels Mario Wheelie Motocross RC Remote-Control Motorcycle $32.99",
   "reason": "Not evaluated",
