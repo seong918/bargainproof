@@ -1,6 +1,158 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "WoofBite 5\"x4\" Natural Rubber Pyramid Chew Toy for Medium & Large Dogs $6.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-16T07:07:16.279250Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "WoofBite 9\" XL Natural Rubber Ring Chew Toy for Large Dogs $14.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-16T07:07:16.279250Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$47.50* | Lacoste 12.12 Men's 42mm Quartz Watch w/ Rubber Strap (White) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-16T07:07:16.279250Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC] $79.99* | WHOY 80 Pint Dehumidifier for up to 5000 Sq. Ft. at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-16T07:07:16.279250Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Men's Heated Vest with Battery Pack Rechargeable Lightweight Warm Coat $44.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T07:07:16.279250Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Dntorx Shoe Washing Machine Bag 2-Pack for $10 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T07:01:52.893887Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Vevor 10\" Wall Mounted Attic Exhaust Fan for $34 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T07:01:52.893887Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon Basics RFID-blocking Passport Wallet - $6.99 - Free shipping for Prime members $7",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T07:01:52.893887Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "MSI Codex Z2C Gaming Desktop Computer: Ryzen 7 8700F, RTX 5070, 16GB DDR5, 1TB SSD $1399",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T07:01:52.893887Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "OtterBox iPhone 13 Pro (ONLY) Commuter Series Case - Single Unit Ships in Polybag $7",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T07:01:52.893887Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – 12-in-1 Calming Chews for Dogs - $10.50 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-16T06:56:28.091026Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Lenski 1/4\" to 3/4\" Universal Socket Tool w/ 3/8\" Drill Adapter (Black Gold) $4.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-16T06:56:28.091026Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Vevor 12-Piece 20\" x 20\" Artificial Boxwood Panel Plant Wall for $63 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T06:56:28.091026Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "(Value Packs) OtterBox 20W USB-C Wall Charger (Bulk Packaging) - $5.99 - Free shipping for Prime members $6",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T06:56:28.091026Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "OtterBox iPhone 16 Pro Symmetry Series Clear Case $7",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T06:56:28.091026Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Levi's Women 501® Original High-rise Shorts $15",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T06:56:28.091026Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Pinarello X1 105 Road Bike (White or Black) $2600",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T06:56:28.091026Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Apple MacBook Pro: 14\", M5, 24GB RAM, 1TB SSD, Space Black $1899",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T06:56:28.091026Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "1.5L / 6-Cup Electric Tea Kettle - $9.99 - Free shipping for Prime members",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T06:56:28.091026Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon – CHESONA Rugged Keyboard Case for 10th/11th Gen iPad - $29.99–$49.99 w/ Code",
   "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-16T06:51:06.505717Z",
@@ -37525,14 +37677,6 @@
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-12T01:17:34.384425Z",
   "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Men's Heated Vest with Battery Pack Rechargeable Lightweight Warm Coat $44.99",
-  "reason": "Posted at $44.99, but Amazon showed $89.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-12T01:17:34.384425Z",
-  "code": "price_mismatch",
   "public": true
  },
  {
