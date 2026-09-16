@@ -1,5 +1,37 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Ewaiira 9.8\" Stainless Steel Sink Caddy $10.19",
+  "reason": "Posted at $10.19, but Amazon showed $16.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-16T10:48:04.097787Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Nike Men's Downshifter 14 Realtree Shoes for $50 + free shipping w/ $50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T10:42:39.946191Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Harry Potter Collectible Quidditch Set for $22 w/ Prime + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T10:42:39.946191Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "LEGO Flash Sale at Macy's: Up to 40% off + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T10:42:39.946191Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "ClearSpace Heavy Duty Moving Bags 8-Pack for $18 + free shipping w/ Prime",
   "reason": "Not evaluated",
