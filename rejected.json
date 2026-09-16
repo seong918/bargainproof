@@ -1,5 +1,61 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Joss & Main Fall Sale: Up to 50% off + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T18:20:29.710683Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "PowerA Twin Charging Station for DualSense Wireless Controllers for $21 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T18:20:29.710683Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Uniball Gel Pens 5-Pack Just $3.60 Shipped on Amazon (Reg. $10)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T18:20:29.710683Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Disney Toy Story 7/8 Toddler Girls Woody and Jessie Slippers 7/8T only $10.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T18:20:29.710683Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ECO-WORTHY 2560Wh 24V 100AH LiFePO4 Lithium Battery With SOC Display and Bluetooth $360 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T18:20:29.710683Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Alienware Area-51 AMD Ryzen 9 9950X3D Gaming Desktop w/ NVIDIA RTX 5080, 32GB RAM $5199.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T18:20:29.710683Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Alienware Area-51 Intel Core Ultra 9 290HX Plus 16\" 240Hz OLED Gaming Laptop w/ NVIDIA RTX 5090 $4749.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T18:20:29.710683Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "3” Royale High Dark Mystic Mermaid Fashion Doll w/ 9 Fashion Accessories $3.22 + Free Shipping w/ Prime or on orders over $35",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
