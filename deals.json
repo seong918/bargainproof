@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "e75c8d43fc19",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20024439-zechuan-4-500v-solar-powered-electric-bug-zapper-53-99",
+  "title": "Zechuan 4,500V Solar-Powered Electric Bug Zapper",
+  "raw_title": "Zechuan 4,500V Solar-Powered Electric Bug Zapper $53.99",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0GKG5MQ9D",
+  "deal_total_cents": 5399,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 5999,
+  "amazon_coupon_cents": 600,
+  "amazon_effective_cents": 5399,
+  "amazon_url": "https://www.amazon.com/dp/B0GKG5MQ9D",
+  "amazon_checked_at": "2026-09-16T19:14:38.385378Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 0,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0GKG5MQ9D",
+  "image_url": null,
+  "published_at": "2026-09-16T19:14:33.685130Z"
+ },
+ {
   "deal_id": "225c9e986ad1",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20024418-powera-twin-charging-station-for-dualsense-wireless-controllers-dualsense-controller-charging-charge-sony-playstation-ps5-officially-licensed-playstation-5-21-49",
