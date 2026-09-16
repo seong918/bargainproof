@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "665-Piece LEGO Minecraft - The Creeper $31.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-16T21:35:41.126630Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Boahaus Modern Bar Cabinet for $51 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T21:35:41.126630Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "eufy Security eufyCam C37 2K Solar Wireless Outdoor Security Camera for $70 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T21:35:41.126630Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "AirPods 5 with Active Noise Cancellation $124.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T21:35:41.126630Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Herb Garden Kit with Seeds and Tools $14.99+Free Shipping",
   "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-16T21:30:16.476724Z",
@@ -60270,14 +60302,6 @@
   "rejected_at": "2026-09-10T19:33:47.979990Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "665-Piece LEGO Minecraft - The Creeper $31.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T19:28:14.713629Z",
-  "code": "low_score",
-  "public": true
  },
  {
   "source": "techbargains",
