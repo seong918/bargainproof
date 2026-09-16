@@ -1,5 +1,37 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "[AC] $4.12* | 16-oz Nature's Eats Roasted Salted Sesame Sticks at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-16T16:59:02.539329Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Boudreaux's Butt Paste 2oz Maximum Strength Diaper Rash Cream $5.30",
+  "reason": "Posted at $5.30, but Amazon showed $9.63 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-16T16:59:02.539329Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "AMC Theatres Two Standard/Digital Movie Black Tickets + $20 Gift Card for $40 + email delivery",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T16:59:02.539329Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Personalized Initial Makeup Bag Set Only $6.99 on Amazon (Reg. $22)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T16:59:02.539329Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Samsung ST40F Sound Tower Portable Party Speaker for $280 + free shipping w/ Prime",
   "reason": "Not evaluated",
