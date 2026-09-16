@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "2b451535c013",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20021649-8-09-20-pc-amartisan-metric-sae-hex-bit-set-w-storage-box-at-amazon",
+  "title": "20-Pc Amartisan Metric & SAE Hex Bit Set w/ Storage Box",
+  "raw_title": "$8.09* | 20-Pc Amartisan Metric & SAE Hex Bit Set w/ Storage Box at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B07VH7ZQGC",
+  "deal_total_cents": 809,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 809,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 809,
+  "amazon_url": "https://www.amazon.com/dp/B07VH7ZQGC",
+  "amazon_checked_at": "2026-09-16T07:18:08.878507Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B07VH7ZQGC",
+  "image_url": null,
+  "published_at": "2026-09-16T07:18:04.146185Z"
+ },
+ {
   "deal_id": "05cc75d426f8",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20021493-sonic-racing-crossworlds-amazon-exclusive-edition-ps5-23-27-free-shipping-w-prime-or-on-35",

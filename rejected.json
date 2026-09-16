@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$47.50 | Lacoste 12.12 Women's Quartz Watch - TR90 Case Quartz at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-16T07:18:04.146185Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Eeivol 10000mAh USB-C Portable Charger with Built in Cables $12.49",
+  "reason": "Posted at $12.49, but Amazon showed $24.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-16T07:18:04.146185Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Logitech Mac Lift Mac Wireless Vertical Ergonomic Mouse (Off White) $38.69",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T07:18:04.146185Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "AURORA Disc 3.0 Carbon Road Bike 18SP (1,2, or 3 Bikes) $1229",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T07:18:04.146185Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$79: Kobalt 24 -Volt 2 -Pack Battery (4.0 Ah 4.0 Ah Lithium-ion) at Lowe's, Free S&H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T07:18:04.146185Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "WoofBite 3\" Natural Rubber Dog Chew & Fetch Ball (Butter Scent) $6.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-16T07:12:40.819547Z",
