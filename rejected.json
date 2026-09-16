@@ -1,6 +1,182 @@
 [
  {
   "source": "dealcatcher",
+  "raw_title": "Ekouaer Womens 2 Piece Lounge/PJ's Sets $11.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T12:35:15.648540Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "WIHOLL Women’s V Neck Long Sleeve Tunic Tops $6.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T12:35:15.648540Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "WIHOLL Womens Sweaters $7.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T12:35:15.648540Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Two Piece Lounge Sets $13.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T12:35:15.648540Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ekouaer Long Sleeve Soft Pajamas Sets $13.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T12:35:15.648540Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Suede Kids Clogs $15.59",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T12:35:15.648540Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Women'S Open Front Ruffle Peplum Jackets $16.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T12:35:15.648540Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Western Boho Fringe Trim Raw Edge Shirts $4.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T12:35:15.648540Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Women Long Zip Up Hoodie Stand Up Collar Windbreaker Jacket $8.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T12:35:15.648540Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Emotional Support Plush Footballs for Preorder for $17 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T12:35:15.648540Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ryobi #11 Quick Change Hobby Knife w/ Offset Scissors $14.97 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T12:35:15.648540Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Osboo Electric Scooter for Adults 550W Peak 36V 7.5Ah Motor 19-Mile Range $118 + Free S/H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T12:35:15.648540Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "The Fall of Númenor: And Other Tales from the Second Age of Middle-earth Hardcover $16.61",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T12:35:15.648540Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Pack CAMBIVO Knee Braces w/ Gel Pad (Black, All Sizes) $13.99 + Free Shipping w/ Prime or over $35",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-16T12:29:50.259787Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Men's Cargo Sweatpants with Pockets $10.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T12:29:50.259787Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Crewneck V Neck Oversized Leopard Sweatshirt $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T12:29:50.259787Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Mock Neck Oversized Hoodies $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T12:29:50.259787Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Long Sleeve Waffle Quarter-Zip Polo Pullover $13.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T12:29:50.259787Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Autel MaxiCOM Bidirectional Bluetooth OBD2 Scanner for $254 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T12:29:50.259787Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Pressure Washer Nozzle 7-Pack for $7 + free shipping w/ $25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T12:29:50.259787Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$7.99 | Untitled Goose Game (Nintendo Switch Digital Download)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T12:29:50.259787Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Macy's Toys Sale (Various - VTech, Barbie, Melissa & Doug, Lego, Fisher Price , Discovery Kids etc.) from $9.89 & More + Free Pickup at Macys or Free Shipping on $39+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T12:29:50.259787Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
   "raw_title": "Long Plaid Fuzzy Fleece Jacket $13.00",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-16T12:24:26.704278Z",
