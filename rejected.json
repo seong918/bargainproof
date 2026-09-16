@@ -1,5 +1,93 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Sennheiser HD 800 S Over-the-Ear Audiophile Reference Headphones for $1,400 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T16:15:47.030826Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Sam’s Club 2-Tier Scalloped Wire Basket Only $17.94",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T16:15:47.030826Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GIGABYTE Gaming Radeon RX 9070 GRE 12GB GDDR6 Graphics Card + Free ONIMUSHA Game $570 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T16:15:47.030826Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "32 Degrees Women's Shield Tech Maxi Coat $29.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T16:15:47.030826Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Round Trip Tampa - Santa Barbara CA or Vice Versa $207 Airfares on American Airlines BE (Travel October - February 2027)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T16:10:21.316223Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GRACE KARIN Womens Long Sleeve Floral Maxi Fall Dress $14.99",
+  "reason": "Posted at $14.99, but Amazon showed $29.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-16T16:04:55.872583Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Skechers Women's Hands Free Slip-ins Go Walk 6-Lovely Day Black/Hot Pink 10.5 $36.91",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T16:04:55.872583Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Football Jersey Shirts $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T16:04:55.872583Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "7-Night Spain Flight, Hotel, and Tour Vacation for From $3,398 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T16:04:55.872583Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Melissa & Doug Beauty Kiosk Only $26 on Amazon (Reg. $88) – Lowest Price Ever!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T16:04:55.872583Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Reebok Men's and Big Men's Swiftmotion Hooded Woven Jacket (Limited Sizes) Sleet $14.92, Black $14.97 + Free S&H w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T16:04:55.872583Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Lamicall Ultra-Compact Magsafe Tripod Stand w/ 1/4\" Screw, Arca, & Hook $17 + Free Shipping w/ Prime",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
