@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Kanosan iPhone 18 Pro Max Camera Lens Protector $6 @ Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-16T02:32:45.612726Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$8* | Hanes Men's EcoSmart Pullover Hooded Sweatshirt (Deep Royal) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-16T02:27:21.267989Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$17 Walmart Avia Men's 5000 Athletic Running Sneakers, Wide Width Available Black and Silver",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T02:27:21.267989Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[SnS] $16.15* | 21.5-Oz WoodWick Large Hourglass Candle w/ Crackling Wick (Magnolia Birch) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-16T02:21:58.946789Z",
