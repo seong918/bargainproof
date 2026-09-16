@@ -1,5 +1,109 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Luxeflow 26\" Touch Control 3-Way Dimmable Table Lamp $29.99",
+  "reason": "Posted at $29.99, but Amazon showed $59.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-16T13:18:08.661929Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "ThermoMaven F1 Ace Digital Meat Thermometer (HT08) $6.99",
+  "reason": "Posted at $6.99, but Amazon showed $12.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-16T13:18:08.661929Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "CONFU Hair Dryer with Diffuser $44.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T13:18:08.661929Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "2 in 1 Outdoor Flower Pots Solar Post Lamps $15.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T13:18:08.661929Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Portable LED Camping Lantern with Ceiling Fan $7.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T13:18:08.661929Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "2-Pack 6' Twisted GOAT SmartStraps Industrial Twist Ties w/ Steel Core $6.79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T13:18:08.661929Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Spliced Modular Food Warming Mat $49.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T13:18:08.661929Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "50FT Shatterproof Outdoor String Lights $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T13:18:08.661929Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Bond No. 9, Park Avenue EDP, 100-mL $199.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T13:18:08.661929Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Viaptus Disposable Contact-Free Toilet Brush Starter Kit for $21 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T13:18:08.661929Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Niorsun Solar Step Lights 6-Pack for $24 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T13:18:08.661929Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "iGPSPORT BSC500 Touchscreen Bike Computer GPS Navigation Wireless Cycling Computer $104 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T13:18:08.661929Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Kobalt 24 -Volt 2 -Pack Battery ( 4.0 Ah 4.0 Ah Lithium-ion ) | KXB 2424-03 $79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T13:18:08.661929Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Clinique Even Better Clinical 1.7-Oz Dark Spot Clearing Vitamin C Face Serum $65.00 + Free Shipping",
   "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
