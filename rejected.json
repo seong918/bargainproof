@@ -1,6 +1,78 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "440-Piece LEGO Star Wars: SMART Play - Yoda's Hut and Jedi Training $55.99 + Free Shipping",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-16T21:57:23.816880Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Glow in the Dark Wooden Ghost Door Halloween Decoration $4.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T21:57:23.816880Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Nissin Top Ramen Noodle Soup Beef 3 Ounce (Pack of 24) $5.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T21:57:23.816880Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Fisher-Price Little People My Mario 6-Piece Character Figure Set $13.19",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T21:57:23.816880Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Fisher-Price Laugh & Learn Count & Shop Cash Register Toddler Toy $13.19",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T21:57:23.816880Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "29.5\" 330-Lb LiteKon Tool Cart w/ Wheels & 1 Drawer (Black) $85.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T21:57:23.816880Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Active Home Appliance Surface Cleaner Wipes 24-Pack for $12 via Sub & Save + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T21:51:56.629230Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Hyper Tough 6-Foot Indoor Extension Cord 5-Pack for $9 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T21:51:56.629230Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Seiko 5 Sports SKX Series Black Dial Automatic Men's Watch $219 + $9.82 Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T21:51:56.629230Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "26-Oz adidas Stadium Plastic Sports Water Bottle w/ Locking Spout Top (Black) $6.63 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+4) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-16T21:46:31.534409Z",
