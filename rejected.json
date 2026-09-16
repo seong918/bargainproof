@@ -1,6 +1,142 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "3 IN 1 Multi Charging Cable, Phone Chargers for Multiple Devices, 2Pack 4FT $5.03 - Amazon",
+  "reason": "Posted at $5.03, but Amazon showed $7.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-16T05:03:18.807406Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$39.99 | (Refurb) CyberPower 12-Outlet 120V/15A 1U Rackmount Surge Protector at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T05:03:18.807406Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Alpine - 7-inch Ultra Shallow Android Auto & Apple CarPlay Bluetooth Digital Media Receiver with iDatalink Maestro Compatibility - Black $299.99 Bestbuy.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T05:03:18.807406Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Insignia™ - 1.1 Cu. Ft. Countertop Microwave - Stainless Steel $99.99 Bestbuy.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T05:03:18.807406Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$16.99 | Yes4All Adjustable 11-20lb Weighted Vest w/ Reflective Strips & Pockets at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T05:03:18.807406Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$9.99 sale for The Naked Gun (2025 + 1988) Double Feature",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T05:03:18.807406Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$9.99 | 12-Lb ProsourceFit Exercise Weighted Training Vest (Black) at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T05:03:18.807406Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Kinglucky Open-Ear Clip-On Wireless Earbuds w/ 40-Hr Playtime (Black, Purple, Beige or Rose Gold) from $11.89 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-16T04:57:54.362957Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "67W 4-in-1 GaN Retractable Wall Charger w/ Dual Built-In Cables, USB-C & USB-A Ports $19.83 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-16T04:57:54.362957Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "G Gradual Women's Fleece Lined Leggings $11.99 + Free Shipping w/ Prime or orders $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-16T04:57:54.362957Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Goodyear Men's Obi Hiker Work Boots (2 Colors) $24.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T04:57:54.362957Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$4.99 sale for The Naked Gun (2025)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T04:57:54.362957Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bosch CORE18V 4.0-Ah Compact Lithium-Ion Battery & Charger Starter Kit $59 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T04:57:54.362957Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CINCOM Corded 6-Zone Leg Compression Massager Boots w/ 11 Intensity Levels & 3 Modes (S-L) $136.90 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-16T04:52:30.353843Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Magnetic Mesh Screen Door Curtain for Summer,38\" W x 81\" H, Breathable Net Cover with Self-Sealing Magnets, Gray (Summer Gray, Fit Door 36\"x80\") $4.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-16T04:52:30.353843Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Kobalt 24V 150W Fast Battery Charger $9.99 + Free Store Pickup at Lowe's or Free Shipping on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T04:52:30.353843Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$9.99 sale for the Coen Brothers 3-Movie Collection",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T04:52:30.353843Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "New Balance Women's 574 Shoes (Bronze / Black) $35.98",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-16T04:47:07.003021Z",
