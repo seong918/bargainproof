@@ -1,6 +1,230 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon – GIANTEX 46” Oval Wood Coffee Table - $132.99 w/ Prime",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-16T02:54:12.961327Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – SWISSWELL Men’s Lightweight Waterproof Rain Jacket - $11.96 w/ Code",
+  "reason": "Community score too low (+2) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-16T02:54:12.961327Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – LOMON Women’s Sherpa-Lined Hooded Plaid Shacket - $19.99 w/ Code + Coupon",
+  "reason": "Community score too low (+2) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-16T02:54:12.961327Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Samsung 49\" Odyssey G9 Series DQHD 1000R Curved Gaming Monitor 1ms(GtG) 240Hz $899.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T02:54:12.961327Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Samsung Galaxy Z Flip8 Unlocked Android Smartphone 256GB $1,049.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T02:54:12.961327Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Samsung Galaxy Z Fold8 Ultra Unlocked Android Smartphone 256GB $1,799.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T02:54:12.961327Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "GEARWRENCH 30-Piece 12 Point Ratcheting Combination SAE/Metric Wrench Set $188.16",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T02:54:12.961327Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "CRAFTSMAN 12 Days of CRAFTSMAN Advent Calendar $64.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T02:54:12.961327Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "GEARWRENCH 1/2\" Electronic Torque Wrench (30-340 Nm) $167.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T02:54:12.961327Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "dreame Aqua10 Ultra Roller Robot Vacuum and Mop with AquaRoll Mopping $749.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T02:54:12.961327Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Tissot Chemin des Tourelles Powermatic 80 39mm $437.50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T02:54:12.961327Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Sony BRAVIA 6 48 Inch OLED 4K HDR Smart Google TV $1,098.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T02:54:12.961327Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "AOC 23.8\" 1080p 260Hz IPS Gaming Monitor $97.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T02:54:12.961327Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Samsung Galaxy Z Fold8 Ultra 512GB Unlocked Android Smartphone $1,999.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T02:54:12.961327Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LEGO Duplo 58-Piece 3in1 Animals on Wheels $23.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T02:54:12.961327Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "GEARWRENCH 2 Pc. Indexing Pry Bar Set, 8\" & 16\" $43.90",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T02:54:12.961327Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Chane 753 three-way AUDIOPHILE Tower speaker, 3x 8\" woofers + compression driver tweeter $699",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T02:54:12.961327Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Jurassic World Toddler Boys Casual Black Clogs with Back Strap $6.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T02:54:12.961327Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Weekend Academy Girls Tulle Ballet Flats $5.35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T02:54:12.961327Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CAALOGT Cordless Dimmable LED Crystal Table Lamps with Touch & Remote Control, RGB Light for Living Room, Bedroom $9.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T02:54:12.961327Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – 2-Pack 21” Silicone Stove Gap Covers - $4.99 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-16T02:48:50.285533Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Against The Storm (PlayStation 5) $17.65 + Free S&H w/ Prime or $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-16T02:48:50.285533Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – SWISSWELL Men’s Hooded Flannel Shirt Jacket - $9.99–$19.99 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-16T02:48:50.285533Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Carter's Child of Mine Baby Clogs $6.48",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T02:48:50.285533Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – GRACE KARIN Women’s Cotton Oversized Button-Down Blouse - $8.99 w/ Code",
+  "reason": "Community score too low (+2) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-16T02:43:28.623006Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – GRACE KARIN Women’s Lightweight Knit Cardigans - $7.50–$13.50 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-16T02:43:28.623006Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CTSAFEPRO Biometric Fingerprint Gun Safe for Handgun Pistol, Fingerprint PIN Key Unlock, Interior Light and USB Charging $39.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-16T02:43:28.623006Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Paw Patrol Characters Toddler Kids Fleece Slip-On Sneakers $6.64+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T02:43:28.623006Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon – PJ PAUL JONES Men’s Short-Sleeve Button-Down Shirts - $9.99–$13.77 w/ Code",
   "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-16T02:38:06.521558Z",
@@ -21370,14 +21594,6 @@
  {
   "source": "dealcatcher",
   "raw_title": "Michael Kors Jet Set Top Zip Tote $119.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T11:57:04.091958Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "dreame Aqua10 Ultra Roller Robot Vacuum and Mop with AquaRoll Mopping $749.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-14T11:57:04.091958Z",
   "code": "not_checked",
