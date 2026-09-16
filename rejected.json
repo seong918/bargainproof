@@ -1,6 +1,86 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "PEHMEA Womens Tulle Maxi Skirt High Waist Tiered A Line Layered Fairy Skirt $13.8",
+  "reason": "Posted at $13.80, but Amazon showed $14.68 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-16T17:04:26.631002Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "YIHOUSE Memory Foam Bath Mat Cobblestone Bathroom Rugs Super Water Absorbent Bath Mats for Bathroom Machine Washable Bath Rugs(20 x 24,Dark Blue) $9.41",
+  "reason": "Posted at $9.41, but Amazon showed $10.69 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-16T17:04:26.631002Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Baseus Qi2.2 10000mAh 25W Wireless Magnetic Power Bank with 45W PD USB-C Cable $33.29",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T17:04:26.631002Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "HOVERAir X1 PROMAX 8K Action Flying Camera $489.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T17:04:26.631002Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Baseus USB C Cable 100W 5A Fast Charging $8.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T17:04:26.631002Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "SEHMUA Solar Security Cameras Wireless Outdoor 2-Cam Kit $69.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T17:04:26.631002Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "YS100 Foot Massager with Heat and Remote $93.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T17:04:26.631002Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "7-Night Ireland Flight, Hotel, and Tour Vacation for From $3,598 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T17:04:26.631002Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amtrak Cascades Oregon (Portland, Oregon City, Salem, Albany & Eugene) Free $10 Uber Voucher Fall 2026 (Valid Thru December 31, 2026)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T17:04:26.631002Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Altec Lansing Hydra Jolt 2.0 Wireless Portable Bluetooth Speaker (Periwinkle Blue or Black) $29.98 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T17:04:26.631002Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[AC] $4.12* | 16-oz Nature's Eats Roasted Salted Sesame Sticks at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-16T16:59:02.539329Z",
