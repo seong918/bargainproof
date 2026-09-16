@@ -1,6 +1,86 @@
 [
  {
   "source": "techbargains",
+  "raw_title": "Lucklike W210 7000A 150PSI 21800mAh Portable Car Battery Jump Starter $43.99",
+  "reason": "Posted at $43.99, but Amazon showed $49.59 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-16T10:26:40.913075Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Walmart Top 100+ Halloween Costumes Sale for From $9.97 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T10:26:40.913075Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "YMMV: Van Halen - Live In New Haven, CT, 1986 $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T10:26:40.913075Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Puma Womens Suede XL Putty Shoes, Warm White(Size 6.5~10) $31.20 + Free S&H at ebay",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T10:26:40.913075Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "T808 Mini Bluetooth Wireless Keyboard w/ Centered Touchpad $18.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-16T10:26:40.913075Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Pack 50' Addlon G40 LED Outdoor String Lights $19.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+-1) to pass without a price check — needs multi-pack, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-16T10:21:17.764269Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Pack 8-Oz John Frieda Ultrafiller+ Thickening Shampoo & Conditioner Set $15.07 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, multi-pack, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-16T10:21:17.764269Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "34\" Ciokea 3-Shelf Folding Metal Outdoor Grill Cart w/ Locking Wheels $68.89 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-16T10:21:17.764269Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$749.95* | Samsung Galaxy S25 Ultra 5G, 512GB + 12GB RAM, Unlocked (Renewed) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-16T10:21:17.764269Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Macy's 100 Days Until Christmas Sale: Up to 80% off + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T10:21:17.764269Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
   "raw_title": "Axth 25-in-1 Pro Precision Screwdriver Kit with Pry Set $5.99",
   "reason": "Posted at $5.99, but Amazon showed $9.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-16T10:15:55.089498Z",
