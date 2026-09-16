@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[Prime] $18.99 | Dreamworks Dragons Ultimate Plasma Blast Toothless Interactive Dragon Toy at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-16T01:49:40.931792Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ZMISHIBO 20in RGB Low Profile 6-Speed (Black) Ceiling Fan w/ Light, APP + Remote Control $60 + Free S/H",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-16T01:49:40.931792Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$9.94 WALMART 20oz Stainless Steel Halloween Theme Tumblers (choice of 4)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T01:49:40.931792Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$31.99* | Technicians Choice G-MAX Graphene Detail Spray (TEC584) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-16T01:38:53.337772Z",
