@@ -1,5 +1,29 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Axth 25-in-1 Pro Precision Screwdriver Kit with Pry Set $5.99",
+  "reason": "Posted at $5.99, but Amazon showed $9.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-16T10:15:55.089498Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Smallelectric 6' Braided USB-C to USB-A Cable (5-Pack) $6.99",
+  "reason": "Posted at $6.99, but Amazon showed $9.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-16T10:15:55.089498Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$14.99: Farberware Bamboo Cutting Board w/ Clear Locking Lid (11\"x14\" ) at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T10:15:55.089498Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Toshiba 65\" G700 Series ArtVision 4K UHD Smart Fire TV (65G700SU, 2026 New) - QLED, Native 165Hz, Art Gallery Mode, Anti-Glare Screen, REGZA Engine ZRi, DTS Virtual:X $1297.99",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
