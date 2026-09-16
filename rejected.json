@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[AC] $15* | 3 × 12-Pack 12-Oz Dr Pepper Creamy Coconut Soda ($5 each) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-16T07:28:50.333514Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$47.50: Lacoste 12.12 Men’s Quartz Watch",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-16T07:28:50.333514Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$42.00: DC Men's Court Graffik Skate Shoe, Dark Grey/Black/White (Various Sizes 6-18)",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-16T07:23:26.026824Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$69.99* | 4-Qt Instant Pot VORTEX 6-in-1 Mini Air Fryer at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-16T07:23:26.026824Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "YGZ Men's 4-in-1 Beard Trimmer for $25 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T07:23:26.026824Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$47.50 | Lacoste 12.12 Women's Quartz Watch - TR90 Case Quartz at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-16T07:18:04.146185Z",
@@ -96870,14 +96910,6 @@
   "rejected_at": "2026-09-06T20:32:33.072669Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$69.99* | 4-Qt Instant Pot VORTEX 6-in-1 Mini Air Fryer at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-06T20:26:54.750810Z",
-  "code": "low_score",
-  "public": true
  },
  {
   "source": "slickdeals",
