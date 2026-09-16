@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "954074558121",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20019492-amazon-cayenne-pepper-enteric-coated-capsules-120-count-8-78-w-code",
+  "title": "Amazon – Cayenne Pepper Enteric-Coated Capsules, 120 Count - w/ Code",
+  "raw_title": "Amazon – Cayenne Pepper Enteric-Coated Capsules, 120 Count - $8.78 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0F7LBL5FD",
+  "deal_total_cents": 878,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 2195,
+  "amazon_coupon_cents": 439,
+  "amazon_effective_cents": 1756,
+  "amazon_url": "https://www.amazon.com/dp/B0F7LBL5FD",
+  "amazon_checked_at": "2026-09-16T03:42:42.201076Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0F7LBL5FD",
+  "image_url": null,
+  "published_at": "2026-09-16T03:42:31.335128Z"
+ },
+ {
   "deal_id": "06750cd67197",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20020353-1-99-profit-first-transform-your-business-from-a-cash-eating-monster-to-a-money-making-machine-ebook-by-mike-michalowicz",

@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon – Spider Transforming Remote Control Car - $13.79 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-16T03:42:31.335128Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Sony 48 Inch BRAVIA 6 OLED 4K HDR Smart Google TV with Gemini (K-48A60) $1098",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-16T03:42:31.335128Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "JBL - BAR 500 5.1ch Soundbar with Multibeam and Dolby Atmos $349.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T03:42:31.335128Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "John Carpenter (Director) - The Thing (Collector's Edition) [Blu-ray] $8.99 + Free S&H w/ Prime or $35+",
+  "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-16T03:37:06.936144Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "C4 Whey Protein, 25g of Protein, Hershey's Chocolate, 28 Servings $29.24 with 5% S&S $24.74 with 15%",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-16T03:37:06.936144Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Samsung Galaxy Z Fold8 Unlocked Android Smartphone, 256GB Lavender or Cream $1649.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-16T03:37:06.936144Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Gardenia Mist Premium Smooth Wrinkle-Free Sateen Duvet Cover $53.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T03:37:06.936144Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon – OMOTON TP06-E Magnetic iPhone Tripod - $12.49 w/ Code",
   "reason": "Community score too low (+0) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-16T03:31:47.784846Z",
