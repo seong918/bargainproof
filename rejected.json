@@ -1,5 +1,45 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Samsung ST40F Sound Tower Portable Party Speaker for $280 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T16:53:38.435652Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Today Only: Up to 50% Off Wilson Baseball Gloves (Styles from $36!)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T16:53:38.435652Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Resident Evil Requiem: Standard $40; Deluxe $49 (PC Game)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T16:53:38.435652Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Creality SPARKX i7 Color Combo 3D Printer Bundle $359.99 Free Shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T16:53:38.435652Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Qunler 300W 296Wh Portable Power Station, Pure Sine Wave 120V AC Outlet, 60W USB-C PD Backup Power Supply for Camping & Emergency，Green $169.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T16:53:38.435652Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Pepperidge Farm Nantucket Double Dark Chocolate Chunk Cookies (7.75oz, 8-Cookies) $3.39",
   "reason": "Posted at $3.39, but Amazon showed $3.62 when we checked — the deal is probably over",
