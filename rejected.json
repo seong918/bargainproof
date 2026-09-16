@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "25' GreenProsper 16AWG 3-Outlet Outdoor Extension Cord (Black) $9.97 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-16T13:49:17.562109Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Aucleia Pet Air Purifie with $54.99 for Home Large Room 2100 Ft² with True HEPA Filter $109.99",
+  "reason": "Posted at $54.99, but Amazon showed $109.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-16T13:49:17.562109Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Bosgame P6 AMD Ryzen 7 6800H Mini Desktop (24GB/512GB) $449.25",
+  "reason": "Posted at $449.25, but Amazon showed $599.00 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-16T13:49:17.562109Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Tommy Hilfiger Men's Modern-Fit Linen Blend Blazer $49.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T13:49:17.562109Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Just Ingredients Creamy Peanut Butter Chocolate Protein Powder 32.52oz $47.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T13:49:17.562109Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "ChargeWorx Smart Locator Tags with Find My Capability 2-Pack $11.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T13:49:17.562109Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Cheersonic 1/2\" Drive Digital Torque Wrench Set for $86 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T13:49:17.562109Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Ufree 3-in-1 Beard Trimmer for Men, IPX6 Waterproof Electric Razor, 8000 RPM $9.99",
   "reason": "Posted at $9.99, but Amazon showed $19.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-16T13:44:00.653714Z",
