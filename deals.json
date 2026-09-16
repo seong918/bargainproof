@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "a30252e837e4",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20022153-ac-17-99-2-24-oz-contigo-cortland-2-0-water-bottle-w-autoseal-lid-licorice-8-99-each-at-amazon",
+  "title": "2 × 24-oz Contigo Cortland 2.0 Water Bottle w/ AUTOSEAL Lid (licorice)",
+  "raw_title": "[AC] $17.99* | 2 × 24-oz Contigo Cortland 2.0 Water Bottle w/ AUTOSEAL Lid (licorice) ($8.99 each) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1799,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-16T13:33:39.662305Z"
+ },
+ {
   "deal_id": "98921d23aa9a",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20022234-sns-ac-32-96-4-25-count-milk-bone-brushing-chews-large-daily-dental-dog-treats-chicken-8-24-each-at-amazon",
