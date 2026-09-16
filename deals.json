@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "33deec73798e",
+  "source": "techbargains",
+  "source_url": "https://www.amazon.com/gp/product/B0BSGH355C/ref=ox_sc_act_image_1",
+  "title": "Anker 140W 6-in-1 USB-C Charging Station with 5' Detachable Extension Cord",
+  "raw_title": "Anker 140W 6-in-1 USB-C Charging Station with 5' Detachable Extension Cord $59.99",
+  "merchant": "amazon",
+  "buy_url": "https://www.amazon.com/gp/product/B0BSGH355C/ref=ox_sc_act_image_1",
+  "deal_total_cents": 5999,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 5999,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 5999,
+  "amazon_url": "https://www.amazon.com/dp/B0BSGH355C",
+  "amazon_checked_at": "2026-09-16T08:28:07.154047Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": null,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0BSGH355C",
+  "image_url": null,
+  "published_at": "2026-09-16T08:28:02.936943Z"
+ },
+ {
   "deal_id": "1e7a0cfcfda4",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20021583-10-vevor-900-cfm-wall-mount-exhaust-fan-w-variable-speed-controller-auto-shutter-black-34-48-free-shipping-w-prime-or-on-35",
