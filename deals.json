@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "4bb0386be138",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20021679-13-99-joy-division-unknown-pleasures-vinyl-at-amazon",
+  "title": "Joy Division: Unknown Pleasures (Vinyl)",
+  "raw_title": "$13.99 | Joy Division: Unknown Pleasures (Vinyl) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B00XILAIWI",
+  "deal_total_cents": 1399,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 1399,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1399,
+  "amazon_url": "https://www.amazon.com/dp/B00XILAIWI",
+  "amazon_checked_at": "2026-09-16T07:34:18.258332Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B00XILAIWI",
+  "image_url": null,
+  "published_at": "2026-09-16T07:34:12.646136Z"
+ },
+ {
   "deal_id": "ac565c2562d7",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20021676-534-99-metabo-hpt-se-17-200-rt-set-burnishing-machine-at-amazon",

@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "AXTH 38-in-1 Metal Precision Screwdriver Set w/ Pry Bar Tools $5.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-16T07:34:12.646136Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Easerush P12 Octa-core 12\" 1200p 120Hz Android 16 Tablet (8GB/128GB) with Accessories $171.49",
+  "reason": "Posted at $171.49, but Amazon showed $188.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-16T07:34:12.646136Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "25-Lb Signature Fitness Pair Rubber Hex Dumbbell Set w/ A-Frame Rack $49.99 + Free Shipping w/ Prime or $6 Fee per Order",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T07:34:12.646136Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[AC] $15* | 3 × 12-Pack 12-Oz Dr Pepper Creamy Coconut Soda ($5 each) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-16T07:28:50.333514Z",
