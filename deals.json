@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "d8918f7ea828",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20021595-12-15-12-pk-15-oz-realemon-100-lemon-juice-at-amazon-1-01-each",
+  "title": "12-Pk 15-Oz ReaLemon 100% Lemon Juice at Amazon",
+  "raw_title": "$12.15* | 12-Pk 15-Oz ReaLemon 100% Lemon Juice at Amazon ($1.01 each)",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1215,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-16T10:32:00.010464Z"
+ },
+ {
   "deal_id": "c795b78ade39",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20021922-t808-mini-bluetooth-wireless-keyboard-w-centered-touchpad-18-99-free-shipping-w-prime-or-on-35",

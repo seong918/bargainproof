@@ -1,5 +1,29 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Pextian Hot Dog Vendor Duo Halloween Costume for $20 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T10:32:00.010464Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "LEGO 2026 Advent Calendar Deals at Macy's: 20% to 30% off + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T10:32:00.010464Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Van Halen - Live: Right Here, Right Now 3LP $65.89",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T10:32:00.010464Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Lucklike W210 7000A 150PSI 21800mAh Portable Car Battery Jump Starter $43.99",
   "reason": "Posted at $43.99, but Amazon showed $49.59 when we checked — the deal is probably over",
