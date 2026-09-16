@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[Prime] FEED GARDEN 8'x33' Ultra-Fine Mesh PE Garden Netting $12.99 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-16T07:39:34.639242Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Raw Nutrition Pre-Workout Powder 3-Pack for $30 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T07:39:34.639242Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "AXTH 38-in-1 Metal Precision Screwdriver Set w/ Pry Bar Tools $5.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-16T07:34:12.646136Z",
