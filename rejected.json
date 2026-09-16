@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Pepperidge Farm Montauk Soft Baked Milk Chocolate Chunk Soft Baked, 8.6 Oz~$3.39 After Coupon & S&S @ Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-16T15:10:47.056150Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Dzkafycm T8 LED 4' 60W 9600-Lumen 6000K Shop Lights (4-Pack) $38.99",
+  "reason": "Posted at $38.99, but Amazon showed $59.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-16T15:10:47.056150Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Next Clearance: Up to 60% off + free shipping w/ $90",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T15:10:47.056150Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Burger King Le Nugguette Micro-Bag w/ Chicken Nuggets for $3.99 shipped",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T15:10:47.056150Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Apple Watch Ultra 4 GPS + Cellular 49mm Smartwatch for $780 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T15:10:47.056150Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "King Arthur Organic 5lb Bread Flour Only $6.44 Shipped on Amazon (Great for Sourdough)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T15:10:47.056150Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "5-Quart Gotham Steel Ceramic Nonstick Dutch Oven (4 Colors) $39.99 + Free Shipping on $49+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T15:10:47.056150Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ridgid 18V 6.0 Ah MAX Output Lithium-Ion Batteries (4-Pack) $209.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T15:10:47.056150Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Perlegear Ultra Slim 1.1\" Low Profile TV Wall Mount for 42-90\" TVs $39.89 + Free Shipping",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-16T15:05:21.022324Z",
