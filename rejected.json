@@ -1,5 +1,61 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Herb Garden Kit with Seeds and Tools $14.99+Free Shipping",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-16T21:30:16.476724Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "4 Pack Roku TV Remote, Fits TCL, Hisense, Sharp, Philips, Onn & Element, $9.53, Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-16T21:30:16.476724Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Granicell 1100mAh 1.2V AAA NiMH Rechargeable Batteries (24-Pack) $11.24",
+  "reason": "Posted at $11.24, but Amazon showed $24.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-16T21:30:16.476724Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Harry's 3-Blade Disposable Razors 10-Pack for $7 via Sub & Save + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T21:30:16.476724Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Squishmallow 5-Piece Backpack Set for $12 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T21:30:16.476724Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Women’s Wedding Bands from $7.99 on Amazon (Moissanite and Cubic Zirconia)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T21:30:16.476724Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "16\" Disney Stitch Larger Than Life Articulated Vinyl Figure $7.49 + Free Store Pickup at Macy's or Free Shipping on $39+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T21:30:16.476724Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "eufy Security C30 2K Video Doorbell for $60 + free shipping",
   "reason": "Not evaluated",
