@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "70c9e3c8f552",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20022678-8-02-rhode-island-novelty-7-inch-x-8-inch-hollywood-movie-clapboard-six-per-order-at-amazon",
+  "title": "Rhode Island Novelty 7 Inch x 8 Inch Hollywood Movie Clapboard, Six Per Order",
+  "raw_title": "$8.02 | Rhode Island Novelty 7 Inch x 8 Inch Hollywood Movie Clapboard, Six Per Order at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B01MCQP22M",
+  "deal_total_cents": 802,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 802,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 802,
+  "amazon_url": "https://www.amazon.com/dp/B01MCQP22M",
+  "amazon_checked_at": "2026-09-16T13:38:54.753884Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B01MCQP22M",
+  "image_url": null,
+  "published_at": "2026-09-16T13:38:50.248379Z"
+ },
+ {
   "deal_id": "a30252e837e4",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20022153-ac-17-99-2-24-oz-contigo-cortland-2-0-water-bottle-w-autoseal-lid-licorice-8-99-each-at-amazon",
