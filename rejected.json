@@ -1,5 +1,77 @@
 [
  {
+  "source": "dealcatcher",
+  "raw_title": "Long Plaid Fuzzy Fleece Jacket $13.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T12:24:26.704278Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Provence Weeklong River Cruise Package, Lyon to Arles $4,601.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T12:24:26.704278Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Schylling NeeDoh Squishmas Advent Calendar for $30 by invite + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T12:24:26.704278Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "MLB Vintage Apparel Deals at Fanatics: Up to 70% off + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T12:24:26.704278Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "3-Outlet Extender for $3 + free shipping w/ $25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T12:24:26.704278Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "MOSFiATA Camping Hammock 550lb $18.14",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T12:24:26.704278Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Coros Pace Pro Smartwatch Gray $250",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T12:24:26.704278Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$12.97 ac FS WALMART+ by MountFTV: TV Wall Mount 360°Rotation Bracket for 13-42 Inch TVs and Monitors, Supports Up to 44 lbs, Swivel Tilt Extension with Articulating Arms,",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T12:24:26.704278Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime, SnS] $4.25 | 4-Pack Amazon Essentials Women's Seamless No Show Thong Panties at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-16T12:24:26.704278Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Deyeek Men's Cargo Pants Wide Leg Workout Sweat Pants with Pockets Casual $10.99",
   "reason": "Posted at $10.99, but Amazon showed $19.99 when we checked — the deal is probably over",
