@@ -1,5 +1,21 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "The Sect (Special Edition) [4K Ultra HD + Blu-ray] $22.49 Amazon.com",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-16T11:51:57.667472Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nike Men's Structure Plus Running Shoes (White/Black/Volt) $75.97 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T11:51:57.667472Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Nazano 5\" Magnifying Glass with Built-in Light $11.39",
   "reason": "Posted at $11.39, but Amazon showed $18.98 when we checked — the deal is probably over",
