@@ -1,6 +1,134 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[S&S] Seventh Generation Laundry Detergent, Free & Clear, 40 oz, Pack of 2 $16.37",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-16T15:21:38.532987Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "The Thing 3-Movie Collection [Blu-ray] $19.19 Amazon.com",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-16T15:21:38.532987Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Acer Magnetic Rotatable Cable Clip Cord Holders (9-Pack) $7.79",
+  "reason": "Posted at $7.79, but Amazon showed $9.09 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-16T15:21:38.532987Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Lerat 5-Speed USB Rechargeable Desk Fan with LED Display $8.99",
+  "reason": "Posted at $8.99, but Amazon showed $17.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-16T15:21:38.532987Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Arby's 5-Piece Steak Nuggets: Free w/ $10 purchase",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T15:21:38.532987Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "New Balance 1906R Shoes for $48 + free shipping w/ $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T15:21:38.532987Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "UNIQLO End of Summer Sale for Men's deals from $7.90 + free shipping w/ $99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T15:21:38.532987Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Certified Pre-Owned DJI Neo Three-Battery Combo Drone for $129 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T15:21:38.532987Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Sprint Demon Pairs of 20/25/35/40/45/50 LB Rubber Hex Dumbbells, Set of 2, Non-Slip Grip for Home Gym Strength Training $30 to $74 @ Walmart",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T15:21:38.532987Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Boost Mobile - Google Pixel 10a + 2 months of unlimited service - $169.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T15:21:38.532987Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "26L JanSport Cross Town Backpack (Navy) $17.99 + Free Shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T15:21:38.532987Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "The Wild Geese (Blu-ray DVD Combo) $14.99 Amazon.com",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-16T15:16:11.604307Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Boost Mobile - iPhone 16e + 2 months of unlimited service - $169.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T15:16:11.604307Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas kids Ultrarun 5 Shoes(Orbit Grey / Orbit Grey / Lucid Orange, Size 3.5~7) $25 + Free S&H at ebay",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T15:16:11.604307Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Asus ROG Flow Z13 GZ302 13.4\" 2.5K Touch AMD Ryzen MAX+ 395 32GB 1TB W11P Laptop $1790",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T15:16:11.604307Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Anova 850W Precision Sous Vide Cooker Mini $19.99 + FS",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T15:16:11.604307Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Pepperidge Farm Montauk Soft Baked Milk Chocolate Chunk Soft Baked, 8.6 Oz~$3.39 After Coupon & S&S @ Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-16T15:10:47.056150Z",
