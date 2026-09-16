@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "3bb1be4da722",
+  "source": "techbargains",
+  "source_url": "https://www.amazon.com/gp/product/B00P6ERTS6/ref=ox_sc_act_title_1",
+  "title": "King Arthur 5lb 80oz Kosher Certified 100% Organic Bread Flour",
+  "raw_title": "King Arthur 5lb 80oz Kosher Certified 100% Organic Bread Flour $6.44",
+  "merchant": "amazon",
+  "buy_url": "https://www.amazon.com/gp/product/B00P6ERTS6/ref=ox_sc_act_title_1",
+  "deal_total_cents": 644,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 644,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 644,
+  "amazon_url": "https://www.amazon.com/dp/B00P6ERTS6",
+  "amazon_checked_at": "2026-09-16T21:19:28.105954Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": null,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B00P6ERTS6",
+  "image_url": null,
+  "published_at": "2026-09-16T21:19:23.582300Z"
+ },
+ {
   "deal_id": "74d865919df1",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20024319-amazon-smartkempt-90l-rolling-laundry-basket-w-lid-20-79-w-code",
