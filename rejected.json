@@ -1,5 +1,37 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Nazano 5\" Magnifying Glass with Built-in Light $11.39",
+  "reason": "Posted at $11.39, but Amazon showed $18.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-16T11:46:33.697340Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "115 In1 Precision Screwdriver Set for $3 + free shipping w/ $25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T11:46:33.697340Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Adhesive Wall Hook 10-Pack for $1 + free shipping w/ $25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T11:46:33.697340Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "RoboSeal Rechargeable Mason Jar Vacuum Sealer Kit with 10 Lids $19.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T11:46:33.697340Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Solar Deck Lights 8-Pack for $15, or $13 for new customers + free shipping w/ Prime",
   "reason": "Not evaluated",
