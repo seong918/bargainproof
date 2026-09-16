@@ -1,6 +1,142 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "ECOVACS DEEBOT Robot Vacuum and Mop, X11S OMNICYCLONE $798.98",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-16T04:09:24.264386Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "dreame Aqua10 Ultra Roller Complete Robot Vacuum and Mop, AquaRoll Mopping $849.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-16T04:09:24.264386Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bedsure King Christmas Comforter Set w/ 2 Pillowcases (Red Candy Cane) $32.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-16T04:04:00.430873Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Samsung Galaxy Z Flip8 Unlocked Android Smartphone, 512GB Cream or Graphite $1249.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-16T04:04:00.430873Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bedsure 7-Piece Cal King Comforter Set (Blue Striped) $22.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-16T04:04:00.430873Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "dreame Aqua10 Ultra Roller Robot Vacuum and Mop, AquaRoll Mopping $749.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-16T04:04:00.430873Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Heather Taylor Home Classic Plaids Yarn-Dyed Tablecloth - Red Multi, 70 in. x 90 in. $30.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T04:04:00.430873Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Company Cotton™ Nature's Bouquet Classic Smooth Sateen Shower Curtain - Cream Multi $18.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T04:04:00.430873Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Pudolla Men’s Cotton Yoga Sweatpants w/ Pockets - $18.71 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-16T03:58:36.655667Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – G Gradual Women’s High-Waisted Joggers w/ Pockets - $16.49 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-16T03:58:36.655667Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – 24” Insulated BBQ Meat Resting Blanket - $12.99 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-16T03:58:36.655667Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Samsung Galaxy Z Flip8 Unlocked Android Smartphone, 256GB Cream $1049.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-16T03:58:36.655667Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Arvo Centerset Bathroom Faucet, Brushed Nickel 2-Handle Bathroom Faucet, Bathroom Sink Faucet, Brushed Nickel 3-Hole Bathroom Faucet $88.73 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T03:58:36.655667Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Heather Taylor Home Flower Holiday Stocking $12.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T03:58:36.655667Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – SANTINY Women’s Athletic Workout Tank Top - $14.99–$16.99 w/ Code $8.5",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-16T03:53:16.281908Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Samsung Galaxy Z Fold8 Ultra Unlocked Android Smartphone, 256GB Violet Shadow or Graphite $1799.99",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-16T03:53:16.281908Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Snaptain SP350 Mini Drone for kids and Beginners with Remote Controller Blue $9.99 at Best Buy",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T03:53:16.281908Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon – Permanent-Mount 1000A Supercapacitor Jump Starter - $119.995–$219.995 w/ Code",
   "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-16T03:47:52.680584Z",
