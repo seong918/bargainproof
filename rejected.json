@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "12 oz Coffee Tumbler 360° Lid, Insulated Travel Coffee Mug for Hot & Cold $8.99",
+  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-16T15:37:53.877347Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "27\" Acer KB272 G0bi FHD 1920x1080 IPS 120Hz Gaming Monitor $99.99 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-16T15:37:53.877347Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "AirChef Propane Torch Gun for $24 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T15:37:53.877347Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "LOKLiK iPaint Custom Paint by Number Machine Kit for $46 + $15 shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T15:37:53.877347Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Adidas men Adilette Comfort 2.0 Mexico Slides - $16 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T15:37:53.877347Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "12-Pack: Amos Peelerz Peelable Mango Gummies (4.25oz) $12 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T15:37:53.877347Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon – OMOTON TP06-E Magnetic iPhone Tripod - $17.49 w/ Code",
   "reason": "Community score too low (+-1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-16T15:32:28.296926Z",
