@@ -1,5 +1,29 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$19.39* | Smith & Wesson M&P Repo 8in High Carbon S.S. Assisted Folding Knife with 3.2in Tanto Blade and Aluminum/Overmold Handle at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-16T19:30:49.299519Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Simzlife 3.2 cu. ft. Freestanding Small Fridge w/ Freezer for $140 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T19:30:49.299519Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HAMILTON American Classic Intra-Matic 38mm Black and Brown Dial Men's Automatic Watch $367",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T19:30:49.299519Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Lands' End Clearance: Up to 70% off + free shipping w/ $99",
   "reason": "Not evaluated",
