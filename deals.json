@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "7b323f0a4bb3",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20023314-32-99-512-pc-lego-super-mario-mario-kart-wario-king-boo-building-set-at-amazon",
+  "title": "512-Pc LEGO Super Mario: Mario Kart Wario & King Boo Building Set",
+  "raw_title": "$32.99* | 512-Pc LEGO Super Mario: Mario Kart Wario & King Boo Building Set at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0DRW5BYYB",
+  "deal_total_cents": 3299,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 3299,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 3299,
+  "amazon_url": "https://www.amazon.com/dp/B0DRW5BYYB",
+  "amazon_checked_at": "2026-09-16T15:54:19.827905Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0DRW5BYYB",
+  "image_url": null,
+  "published_at": "2026-09-16T15:54:08.700906Z"
+ },
+ {
   "deal_id": "3ce7fea07e3b",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20023275-amazon-essentials-men-s-twin-seam-square-toe-derby-dress-shoes-various-colors-from-26-24",
