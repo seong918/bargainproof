@@ -1,5 +1,109 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Lands' End Clearance: Up to 70% off + free shipping w/ $99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T19:25:24.432304Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Active Baby Laundry Enzyme Booster 2-lb. Powder for $12 via Sub & Save + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T19:25:24.432304Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ecozy 2.4in Clear Ice Ball Maker $319.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T19:25:24.432304Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Beyamis Bluetooth + UWB Smart Air Tracker Tag (4-Pack) $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $19.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-16T19:19:58.743257Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Fanttik D2 100ft Green Cross Line Self Leveling Laser Level $27.98",
+  "reason": "Posted at $27.98, but Amazon showed $39.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-16T19:19:58.743257Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Skin Care Deals at Ulta: Buy 1, Get 1 40% Off + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T19:19:58.743257Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Sennheiser HD 800 S Over-the-Ear Audiophile Reference Headphones $1399.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T19:19:58.743257Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Xerjoff Alexandria II Eau de Parfum, 3.4 fl oz $279.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T19:19:58.743257Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "AMD Ryzen 7 7700X CPU + ASUS TUF GAMING B650E-E WIFI MB + Gamdias AIO Cooler $339.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T19:19:58.743257Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Lux Decor Collection 23-Piece Essential Kitchen Utensil Set Multipurpose Nylon and Stainless Steel Cooking Tools $18.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T19:19:58.743257Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Columbia Men's Graphic Tee (Charcoal Heather) $9 + Free Store Pickup at Kohl's or Free Shipping on $49+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T19:19:58.743257Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Xerjoff Erba Pura Eau de Parfum, 3.4 fl oz $149.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T19:19:58.743257Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "iBUYPOWER Y40 Gaming PC Desktop: Ryzen 7 9800X3D, RX 9070XT, 32GB DDR5, 1TB SSD $2099",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T19:19:58.743257Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "990-Pc LEGO City: Airplane, Service Truck, & Hovercraft Mix & Match Remix (60505) $56.23 + Free Shipping",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
