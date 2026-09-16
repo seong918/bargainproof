@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS] $16.15* | 21.5-Oz WoodWick Large Hourglass Candle w/ Crackling Wick (Magnolia Birch) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-16T02:21:58.946789Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "400W Power Inverter, FSATBTNE DC 12V to 110V AC Car Plug Adapter Outlet Converter $20 AC",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T02:21:58.946789Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "50-Pack 6\" WAENLIR Galvanized Steel U-Type Garden Staples Landscape Stakes $5.54 & More + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-16T02:21:58.946789Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Burger King: Le Nugguette Bag for Just $3.99 & 4-Piece of Free Chicken Nuggets",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-16T02:16:35.185001Z",
