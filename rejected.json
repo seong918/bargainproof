@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Deyeek Men's Cargo Pants Wide Leg Workout Sweat Pants with Pockets Casual $10.99",
+  "reason": "Posted at $10.99, but Amazon showed $19.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-16T12:19:02.825038Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "2-in-1 Light-Blocking Oil Sprayer for $3 + free shipping w/ $25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T12:19:02.825038Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$3.49 | Gunbrella (Nintendo Switch Digital Download)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T12:19:02.825038Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "24-Oz Stanley Stay-Hot Camp Mug (Star Shine) $17.50 + Free Shipping on $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T12:19:02.825038Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Ekouaer Womens Pajama Sets Button Down Long Sleeve & Pants loungewear $9.99",
   "reason": "Posted at $9.99, but Amazon showed $25.26 when we checked — the deal is probably over",
   "rejected_at": "2026-09-16T12:13:39.741130Z",
