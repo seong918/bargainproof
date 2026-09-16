@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "d7d09c613d6f",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20023650-4-68-12-pk-12-oz-diet-coke-caffeine-free-soda-at-amazon",
+  "title": "12-Pk 12-Oz Diet Coke Caffeine Free Soda",
+  "raw_title": "$4.68* | 12-Pk 12-Oz Diet Coke Caffeine Free Soda at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 468,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-16T18:15:03.005270Z"
+ },
+ {
   "deal_id": "cc6afe9ba4af",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20023221-rainspire-swivel-vegetable-peeler-soft-comfort-handle-0-93",
