@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Toshiba 65\" G700 Series ArtVision 4K UHD Smart Fire TV (65G700SU, 2026 New) - QLED, Native 165Hz, Art Gallery Mode, Anti-Glare Screen, REGZA Engine ZRi, DTS Virtual:X $1297.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-16T10:10:32.054797Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Happy Belly Colombian Medium Roast Coffee Pods (24-Count, Compatible with Keurig 2.0 K-Cup Brewers) $3.82",
+  "reason": "Posted at $3.82, but Amazon showed $5.45 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-16T10:10:32.054797Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Citizen Men's Promaster Dive Automatic 3-Hand Stainless Steel Watch, Day Date, Luminous, 41mm $375",
   "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-16T10:05:08.669937Z",
