@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon – PJ PAUL JONES Men’s Short-Sleeve Button-Down Shirts - $9.99–$13.77 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-16T02:38:06.521558Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $14.88 | The Calvin and Hobbes Portable Compendium Set 6 (Volume 6) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-16T02:38:06.521558Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$4.99 sale for each of South Park: Seasons 25-28",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T02:38:06.521558Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "24-Count NeeDoh Squishmas Mini Squeeze Toy Advent Calendar $29.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-16T02:38:06.521558Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Kanosan iPhone 18 Pro Max Camera Lens Protector $6 @ Amazon",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-16T02:32:45.612726Z",
