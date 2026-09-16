@@ -1,5 +1,117 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Clinique Even Better Clinical 1.7-Oz Dark Spot Clearing Vitamin C Face Serum $65.00 + Free Shipping",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-16T13:12:57.067608Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "NIIMBOT D110 Upgrade Mini Label Maker, Bluetooth Thermal Printer for Daily $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $15.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-16T13:12:57.067608Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Dolly Parton Can Opener Bottle Opener $11.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T13:12:57.067608Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Wireless Bluetooth Meat Thermometer with Digital Display Base $55.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T13:12:57.067608Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "FUNBOY Giant Light-Up Inflatable Halloween Yard Snakes $24.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T13:12:57.067608Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "BaldrTherm Portable Thermometer Hygrometer with Carabiner $9.09",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T13:12:57.067608Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Squishmallows Original Halloween 4-Pack $15.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T13:12:57.067608Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Just For Men Touch of Gray Dark Brown $4.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T13:12:57.067608Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "$9.99 or Less Personal Care at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T13:12:57.067608Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Swim Goggles $4.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T13:12:57.067608Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Yaheetech 16'' Round Glass End Table $36.09",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T13:12:57.067608Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Urlife E26 750W 26\" Electric Bike w/ 48V 10.4Ah Battery & Hydraulic Disc Brakes for $280 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T13:12:57.067608Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Brooks Women's Ghost Max 4 Running Shoes (White/Rose/Rutabaga) $95.49 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T13:12:57.067608Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DJI Neo 2 Motion Fly More Combo 4K Mini Professional Drone $486 + Free S/H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T13:12:57.067608Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Toymania Sale at Woot | Toys $2.99 & UP",
   "reason": "Not evaluated",
