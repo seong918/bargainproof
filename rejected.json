@@ -1,5 +1,85 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Ekouaer Womens Pajama Sets Button Down Long Sleeve & Pants loungewear $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $25.26 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-16T12:13:39.741130Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Yukicam Thermal Imaging Camera, Dual-Light Infrared Thermal Camera 240×240 TISR $91.58",
+  "reason": "Posted at $91.58, but Amazon showed $103.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-16T12:13:39.741130Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Upcoming: Pokemon TCG 30th Celebration Mewtwo Promo Card Gift: Free w/ $15 purchase",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T12:13:39.741130Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "116-Piece LEGO Star Wars Siege of Mandalore Battle Pack (75449) $13.79 + Free Pickup at Macys or Free Shipping on $39+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T12:13:39.741130Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Markbass sCMB 151 Black Line 150W 1x15 Combo Bass guitar Amp $300",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T12:13:39.741130Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$15ac FS WALMART+ by USX: TV MOUNT Full Motion TV Wall Mount Bracket with Swivel Arm for 23 to 65 Inch TVs, Holds up to 77 lbs",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T12:08:13.754486Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "30-Oz Stanley IceFlow 2.0 Flip Straw Tumbler (2 Colors) $17.50 + Free Pickup at Dick's",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T12:08:13.754486Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "10-Night Ecuador & Galapagos Flight, Hotel, and Tour Vacation for From $3,798 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T12:02:47.792800Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "TJ Maxx Fall Clearance Deals: Up to 80% off + free shipping w/ $89",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T12:02:47.792800Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GOOLOO 160PSI Tire Inflator Portable Air Compressor w/ 7500mAh Battery $19.99 + Free Shipping w/ W+ or over $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T12:02:47.792800Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Twenty One Pilots \"Breach\" Vinyl LP + MP3 Album $22.52",
   "reason": "Not evaluated",
