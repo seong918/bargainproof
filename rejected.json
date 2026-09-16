@@ -1,6 +1,54 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "Rechargeable Camping Light for $10 + free shipping w/ $25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T11:19:32.669972Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Harry Potter Mini Howler: Record Your Own Message! Book for $10 w/ Prime + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T11:19:32.669972Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "30-Oz Stanley Quencher H2.0 FlowState Tumbler (Various) $20 + Free Pickup at Dick's",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T11:19:32.669972Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ORICO M.2 NVMe SSD Enclosure, USB 3.1 Gen 2 (10 Gbps) PCIe External Adapter NVMe Case for 2230/2242/2260/2280 M.2 SSD up to 8TB, UASP Supported - M2PV $10.5",
+  "reason": "Posted at $10.50, but Amazon showed $13.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-16T11:14:20.854172Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "On Men's Cloudrunner 3 Max Running Shoes (White) $89.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T11:14:20.854172Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "40-Oz Stanley Quencher ProTour Flip Straw Water Bottle (Various) $22.50 + Free PU at Dick's",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T11:14:20.854172Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
   "raw_title": "Eddie Bauer 50\" x 70\" Reversible Throw Blanket for $14 + free shipping w/ Prime",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-16T11:09:06.673261Z",
