@@ -1,6 +1,142 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "COOFANDY Men Quarter Zip Pullover Sweatshirts Long Sleeve Mock Neck Sweater $11.99",
+  "reason": "Posted at $11.99, but Amazon showed $24.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-16T15:48:45.255675Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Lisen 15W 360-Degree Magsafe Wireless Car Mount Charger $13.99",
+  "reason": "Posted at $13.99, but Amazon showed $26.79 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-16T15:48:45.255675Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "AirChef 3272F One-Touch Propane Torch Gun (Tank Not Included) $23.99",
+  "reason": "Posted at $23.99, but Amazon showed $79.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-16T15:48:45.255675Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "New Balance ABZORB 2000 Shoes Limelight/Dry Lime $76.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T15:48:45.255675Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Optimum Nutrition Protein Powder Cereal Tub - Fruit - 1.55lbs $16.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T15:48:45.255675Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Peanuts Kids Figural Desk Chair (Snoopy) $20.61",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T15:48:45.255675Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "JZONES 4K Dash Cam Front & 1080p Rear w/ 170° Angle HDR Night Vision & 64GB Card $39.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T15:48:45.255675Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Amazon Essentials Men's Regular Fit Pant $11.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T15:48:45.255675Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Noah & Paw Snap Sling Denim Dog Carrier $18.60",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T15:48:45.255675Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "HOKA Arahi 8 Women's Sneakers $120.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T15:48:45.255675Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Birkenstock One Day Deals at DICK'S Sporting Goods: Up to 50% off + free shipping w/ $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T15:48:45.255675Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Little Caesars Detroit-Style Slices-N-Stix Combo for $5 + shipping varies",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T15:48:45.255675Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "32 Degrees Men's Microlux Heavy Puffer Jacket for $20 + free shipping w/ $23.75",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T15:48:45.255675Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Lamtto Wireless AI CarPlay Adapter for $96 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T15:48:45.255675Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$11 FS Walmart+ or Pick Up where available: Aerosoles Women's Costi Adjustable Slingback Knit Comfort Sandal (Soft gold) sz 6-11",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T15:48:45.255675Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "【Refurbished】Creality Ender 3 V3 KE 3D Printer 500mm/s CR Touch Auto Leveling $111.2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T15:48:45.255675Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Otterbox Premium Pro 6.6' 60W Charge Lightning to USB-C Cable $7.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T15:48:45.255675Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "ILIFE A30 Pro Robot Vacuum and Mop,10000Pa Max Suction, Self-Emptying $159.99",
   "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
   "rejected_at": "2026-09-16T15:43:18.688041Z",
