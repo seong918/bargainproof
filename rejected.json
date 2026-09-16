@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "JBL Tune 730BT - Wireless Over-Ear Headphones (various colors) $59.95",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-16T19:09:09.894145Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Renewed: Samsung Galaxy S25 Ultra, 512GB/1000GB, (various colors) - Unlocked, from $749.95",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-16T19:09:09.894145Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "HOVERAir X1 1080p HDR Camera Foldable Mini Drone (Combo Plus) with Dual Batteries $119.60",
+  "reason": "Posted at $119.60, but Amazon showed $299.00 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-16T19:09:09.894145Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "JBL Tune 530BT - On-Ear Bluetooth Headphones (various colors) $39.95",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-16T19:03:44.594269Z",
