@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "ad01841b2900",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20019789-prime-65-22-the-complete-far-side-collection-paperback-edition-at-amazon",
+  "title": "The Complete Far Side Collection (Paperback Edition)",
+  "raw_title": "[Prime] $65.22 | The Complete Far Side Collection (Paperback Edition) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/1449460046",
+  "deal_total_cents": 6522,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "prime"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 6522,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 6522,
+  "amazon_url": "https://www.amazon.com/dp/1449460046",
+  "amazon_checked_at": "2026-09-16T00:23:30.080521Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "1449460046",
+  "image_url": null,
+  "published_at": "2026-09-16T00:23:25.188426Z"
+ },
+ {
   "deal_id": "dae07a1235df",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20019948-3-piece-prodigy-fractal-disc-golf-starter-set-159g-or-170g-33-free-shipping-w-prime-or-on-35",
