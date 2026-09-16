@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "86c05556908f",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20020818-pepperidge-farm-nantucket-double-dark-chocolate-chunk-cookies-7-75-oz-bag-3-39-after-coupon-s-s-amazon-3-23",
+  "title": "Pepperidge Farm Nantucket Double Dark Chocolate Chunk Cookies, 7.75 Oz Bag~ & S&S @ Amazon",
+  "raw_title": "Pepperidge Farm Nantucket Double Dark Chocolate Chunk Cookies, 7.75 Oz Bag~$3.39 After Coupon & S&S @ Amazon $3.23",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B00PZ2AANU",
+  "deal_total_cents": 339,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 50,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 50,
+  "amazon_url": "https://www.amazon.com/dp/B00PZ2AANU",
+  "amazon_checked_at": "2026-09-16T03:10:40.796370Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B00PZ2AANU",
+  "image_url": null,
+  "published_at": "2026-09-16T03:10:22.760032Z"
+ },
+ {
   "deal_id": "7e3364682cc9",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20020797-4-piece-quivorant-automotive-electrical-disconnect-pliers-set-w-storage-bag-7-82-free-shipping-w-prime-or-on-35",
