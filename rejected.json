@@ -1,6 +1,30 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "Ainfox 15-Foot Patio Umbrella for $64 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T09:27:24.063527Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Refurb Apple AirPods Max 2 Wireless Headphones for $329 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T09:27:24.063527Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "12.6\" x 8\" Titanium Cutting Board $4.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-16T09:27:24.063527Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "dealnews",
   "raw_title": "Storage Bags Sale at Woot for Deals from $15 + free shipping w/ Prime",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-16T09:22:02.337035Z",
