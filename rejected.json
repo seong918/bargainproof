@@ -1,5 +1,125 @@
 [
  {
+  "source": "hip2save",
+  "raw_title": "*NEW* Honey Smoked Salmon Stackers 3-Pack Just $7.87 at Sam’s Club",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T18:42:05.099065Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Plackers Gum Defense Infused with Coconut Oil Floss Picks, 75-count, 6-pack $9.99 free shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T18:42:05.099065Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Metroid Prime 4 (Switch Physical) $35 Best Buy",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T18:42:05.099065Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – BEYYON Rechargeable Hand Warmers, 2-Pack - $9.99 w/ Code",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-16T18:42:05.099065Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "The Dragoness: Command of the Flame",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T18:36:39.300685Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "DICK'S Sporting Goods Fishing Gear Sale: Up to 50% off + free shipping w/ $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T18:36:39.300685Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Perigold Last Chance Clearance: Up to 75% off + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T18:36:39.300685Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Round Trip San Diego - Charleston SC or Vice Versa $215 Airfares on Southwest Airlines BE (Travel November - February 2027)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T18:36:39.300685Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Pack ECO-WORTHY 10W Solar Battery Charger Maintainer 12V Waterproof for Car RV $27 + Free Shipping $27.19",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T18:36:39.300685Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "54\" Three Posts Lorraine TV Stand w/ Sliding Barn Doors: Gray $77, Oak $79 + Free Shipping $76.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T18:36:39.300685Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Deyeek Men's Baggy Open Bottom Sweat Pants (Various Sizes) $10.99",
+  "reason": "Posted at $10.99, but Amazon showed $19.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-16T18:31:16.312648Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "LEGO Speed Champions Back to The Future Time Machine for $22 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T18:31:16.312648Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Supvan G15M Keyboard & Bluetooth Label Maker Machine for $60 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T18:31:16.312648Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Kids Bible Only $9.79 Shipped for Amazon Prime Members (Reg. $28)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T18:31:16.312648Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Wireless Auto Adapter, Wireless Carplay Adapter, Latest NFC Touchscreen Connectivity, Plug-and-Play for Android Devices (Android 11 and Above) $7.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T18:31:16.312648Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "YMMV! Squishmallows Original 20in Woxie the Magenta Bigfoot in Clown Costume – Official Jazwares Halloween Plush (Jumbo) - $25.16 w/ Coupon @ Amazon",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
