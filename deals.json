@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "54d260f9b812",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20025057-10-213-pc-lego-classic-creative-suitcase-building-kit-at-amazon",
+  "title": "213-Pc LEGO Classic Creative Suitcase Building Kit",
+  "raw_title": "$10* | 213-Pc LEGO Classic Creative Suitcase Building Kit at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B075QRWRYP",
+  "deal_total_cents": 1000,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 1000,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1000,
+  "amazon_url": "https://www.amazon.com/dp/B075QRWRYP",
+  "amazon_checked_at": "2026-09-16T22:02:55.277544Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B075QRWRYP",
+  "image_url": null,
+  "published_at": "2026-09-16T22:02:50.525880Z"
+ },
+ {
   "deal_id": "af93e4d7f54f",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20023131-10x12-lausaint-home-gazebo-canopy-with-netting-curtains-double-roof-200-free-s-h",

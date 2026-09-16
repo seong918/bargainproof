@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "1050-Pc LEGO Disney Star Wars R2-D2 Building Set $79.99 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-16T22:02:50.525880Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "747-Piece LEGO Technic - BMW M4 GT3 EVO (42226, 2026) $51.99 + Free Shipping",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-16T22:02:50.525880Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Women’s Embroidered Halloween Sweatshirt Only $7.49 on Amazon (Reg. $30)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T22:02:50.525880Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "440-Piece LEGO Star Wars: SMART Play - Yoda's Hut and Jedi Training $55.99 + Free Shipping",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-16T21:57:23.816880Z",
