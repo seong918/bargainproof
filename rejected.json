@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Retro Aviator Sunglasses $8.50 - Shipping is free w/ Prime or on $35+ orders.",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-16T00:44:58.210137Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Select Accounts: 60-Count Zahler Chapter Six Apple Cider Vinegar Gummies $0.98 w/ S&S",
+  "reason": "Community score too low (+-1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-16T00:44:58.210137Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "TUBBZ: Ghost - Cardinal Copia Rubber Duck Collectible First Edition 3.5\" $15.03",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T00:44:58.210137Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "ClearSpace Heavy Duty Moving Bag 6-Pack for $15 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T00:44:58.210137Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Hello Kitty Toddler Girls Sandal Clog - $6.97",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-16T00:39:34.539131Z",
