@@ -1,5 +1,53 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Airtok AP2801 2240sq ft HEPA Large Room Air Purifier $47.99",
+  "reason": "Posted at $47.99, but Amazon showed $83.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-16T17:42:25.863062Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Energizer 2032 Batteries 4-Pack $3.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T17:42:25.863062Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Fortnite Darkfire & Ice Bundle Xbox Series X $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T17:42:25.863062Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "1L Printed Belt Bag $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T17:42:25.863062Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "No Boundaries Plush Animal Slippers Brown or White Size 7/8 - $3.16",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T17:42:25.863062Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Apple MacBook Pro: 16.2\", M5 Max (18C CPU/40C GPU), 64GB RAM, 2TB SSD $4499.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T17:42:25.863062Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Minecraft: The Voyage Official Novel (Hardcover) $9.61 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
