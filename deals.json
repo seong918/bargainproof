@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "32dba7f4bce3",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20022180-new-13-19-fisher-price-little-people-my-mario-6-piece-character-figure-set-at-amazon",
+  "title": "Fisher-Price Little People My Mario 6-Piece Character Figure Set",
+  "raw_title": "[NEW] $13.19 | Fisher-Price Little People My Mario 6-Piece Character Figure Set at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0FJSLX4TL",
+  "deal_total_cents": 1319,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 1319,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1319,
+  "amazon_url": "https://www.amazon.com/dp/B0FJSLX4TL",
+  "amazon_checked_at": "2026-09-16T11:41:15.351562Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0FJSLX4TL",
+  "image_url": null,
+  "published_at": "2026-09-16T11:41:10.770000Z"
+ },
+ {
   "deal_id": "f95553216c7d",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20022177-ac-17-99-2-52-oz-bubba-classic-insulated-mug-black-8-99-each-at-amazon",
