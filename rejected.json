@@ -1,5 +1,117 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Eddie Bauer 50\" x 70\" Reversible Throw Blanket for $14 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T11:09:06.673261Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Kobalt 24V Lithium-ion Battery Charger for $10 + free shipping w/ $25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T11:09:06.673261Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$1.99: Wonder Nation Toddler, Little & Big Kids Flip Flop Sandals(Cherries, 5/6 7/8 9/10 Toddler) at Walmart.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T11:09:06.673261Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "8-Night Greece Flight, Hotel, and Tour Vacation for From $5,852 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T11:03:43.294685Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Focemta Circuit Breaker Finder Kit for $34 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T11:03:43.294685Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Magic: The Gathering Marvel Super Heroes Commander Deck for $54 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T11:03:43.294685Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "DeWalt 12\" 15A Double-Bevel Sliding Compound Miter Saw w/ Heavy-Duty Work Stand for $399 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T11:03:43.294685Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "College Hat Deals at Fanatics for From $5 + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T11:03:43.294685Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Rugged Shark Baby Clog(4 Colors, Sizes 2 Baby to 6 Baby) $3.97 + Free S&H w/ Walmart+ or $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T11:03:43.294685Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Oath Nutrition 11.85oz Clear Whey Isolate Protein Powder (Sunrise Passion Punch) $16.85",
+  "reason": "Posted at $16.85, but Amazon showed $17.74 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-16T10:58:26.545722Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Metroid Prime 4 Beyond Video Game (Nintendo Switch) $41.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T10:58:26.545722Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Macy's Watch Clearance: At least 30% off everything + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T10:58:26.545722Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Crane True HEPA Air Purifier with Ambient Night Light and Aroma Tray (200 Sq Ft) $22 w/ Prime or W+ s/h",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-16T10:53:14.600133Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Macy's Men's Shoe Clearance: 40% to 70% off + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T10:53:14.600133Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Ewaiira 9.8\" Stainless Steel Sink Caddy $10.19",
   "reason": "Posted at $10.19, but Amazon showed $16.99 when we checked — the deal is probably over",
