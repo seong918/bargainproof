@@ -1,5 +1,45 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "26-Oz adidas Stadium Plastic Sports Water Bottle w/ Locking Spout Top (Black) $6.63 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+4) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-16T21:46:31.534409Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "3-Piece Bysure Seersucker Lightweight Summer Comforter (Light Pink, Full/Queen 88\" x88\") $12.89 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-16T21:46:31.534409Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Owala FreeSip Stainless Steel 32-oz. Water Bottle for $28 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T21:46:31.534409Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Harry's Original Shaving Kit with 3 Blade Refills for $8 via Sub & Save + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T21:46:31.534409Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Tramontina Mesa Enameled Cast Iron 2-Piece Bread Oven for $16 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T21:46:31.534409Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Iron Supplement 36 Mg with Vitamin C, B6, B12 & Folate $4.49",
   "reason": "Not evaluated",
