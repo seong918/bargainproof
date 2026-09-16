@@ -1,5 +1,53 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "DC x DSG Women's Supergirl All Star Athletic Crop Hoodie for $14 + free shipping w/ $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T01:28:07.281876Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Catwoman: Hunted (4K Ultra HD + Blu-ray) $11.49 Amazon.com",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-16T01:22:42.820666Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SCUF Valor Pro Wired TMR Performance Controller (Xbox/PC) (Steel Gray) $55.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T01:22:42.820666Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Resale] $74.50 | TOSHIBA Countertop Microwave Oven, 1.2 Cu.Ft, 1000W, Black (Used - Like New) at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-16T01:17:19.179933Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$15.63 or less S&S clip Q Levi's Men's 12-pack Low Cut Socks, Cushioned Footbed, Arch Support & Mesh Ventilation",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-16T01:17:19.179933Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Nike Women's Reactx Rejuven8 Slides for $23 + free shipping w/ $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T01:17:19.179933Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$8.25 or less S&S clip Q NOW Supplements, Psyllium Husk Caps 500mg, Intestinal Health*, 200 Veg Caps",
   "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
