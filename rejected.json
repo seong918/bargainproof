@@ -1,6 +1,126 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Adjustable Dumbbell Stand, Weight Rack with Phone Holder, 220LBS Capacity Alloy Steel $49.99",
+  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-16T14:59:56.991394Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Popilush Built-in Bra Shapewear Maxi Dresses for Women Black S $29.99",
+  "reason": "Posted at $29.99, but Amazon showed $59.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-16T14:59:56.991394Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Deyeek Men's Lightweight Open Bottom Sweat Gym Sweatpants (Various Sizes) $10.99",
+  "reason": "Posted at $10.99, but Amazon showed $24.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-16T14:59:56.991394Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Costway Patio Black Fabric Loveseat with Built-in Tempered Glass Table $97.51",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T14:59:56.991394Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Jordan Tote Bag Natural Canvas $15.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T14:59:56.991394Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Invicta Watch Deals $67.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T14:59:56.991394Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Backfire M8 Dual-Motor Electric Scooter for $703 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T14:59:56.991394Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "36-Piece 6-Sided Dice Set for $8 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T14:59:56.991394Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Delta Bath Fixtures & Hardware Fall Sale at Wayfair: Up to 55% off + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T14:59:56.991394Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Dickies Men's Shirt Deals for From $9.98 + free shipping w/ $99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T14:59:56.991394Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Heat It Smartphone-Powered Insect Bite Healer for $25 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T14:59:56.991394Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "VTech Discover & Learn Bilingual Toy Tablet for Toddlers $12.48 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T14:59:56.991394Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Costco - ION Audio Glowtive Bluetooth Lantern Speaker with Multi-Sync $19.97 YMMV in store",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T14:59:56.991394Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "512GB Samsung Galaxy S25 Edge Smartphone (Unlocked) at Woot! - $649.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T14:59:56.991394Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "73 Pcs Melissa & Doug Blockables Town Connectable Wooden Building Blocks $13.19 + Free S&H w/ Prime or $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T14:59:56.991394Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "PRIME DEAL $4.62 Amazon Essentials Women's Comfortable Cushioned Hiking Crew Socks, 3 Pairs size 6-9 (8-12 $2 more)",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-16T14:54:30.695637Z",
