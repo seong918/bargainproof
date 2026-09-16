@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "53d704799f09",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20021991-new-96-50-vevor-cordless-metal-nibbler-with-18-v-4000-mah-battery-at-amazon",
+  "title": "VEVOR Cordless Metal Nibbler, with 18 V 4000 mAh Battery",
+  "raw_title": "[NEW] $96.50 | VEVOR Cordless Metal Nibbler, with 18 V 4000 mAh Battery at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0G4TJ7GBK",
+  "deal_total_cents": 9650,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 9650,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 9650,
+  "amazon_url": "https://www.amazon.com/dp/B0G4TJ7GBK",
+  "amazon_checked_at": "2026-09-16T10:05:12.309379Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 0,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0G4TJ7GBK",
+  "image_url": null,
+  "published_at": "2026-09-16T10:05:08.669937Z"
+ },
+ {
   "deal_id": "69395af0b265",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20021787-unisex-small-crossbody-bag-various-colors-2-29-free-shipping-on-25",

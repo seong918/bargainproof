@@ -1,5 +1,85 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Citizen Men's Promaster Dive Automatic 3-Hand Stainless Steel Watch, Day Date, Luminous, 41mm $375",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-16T10:05:08.669937Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Vitamin Bounty Women's Pro-Daily Vaginal Probiotics 60-Capsule Bottle for $12 w/ S&S + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T10:05:08.669937Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "11-Night Costa Rica Flight, Resort, and Tour Vacation for From $5,338 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T10:05:08.669937Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Funworld Skeleton Jumpsuit Adult Halloween Costume for $20 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T10:05:08.669937Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas Men's Climacool SPW Shoes (Sizes 11.5 + larger) for $50 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T10:05:08.669937Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ECOVACS DEEBOT T80S Omni Robot Vacuum and Mop, 24800Pa Suction, 2026 New $478.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-16T09:59:44.935175Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bambu Lab P1S Combo, P1S 3D Printer and AMS $499.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-16T09:59:44.935175Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Ugreen 5-in-1 100W USB C to 4K HDMI Hub $10.33",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T09:59:44.935175Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Fender Affinity Series Stratocaster Mustang Micro Pack, Laurel Fingerboard, Black, Gig Bag, HD9, US, CA, EU, AU, JP $499.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-16T09:54:20.333783Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Art3d Fluted Acoustic Wood Slat Wall Panel 2-Pack for $66 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T09:54:20.333783Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Orico 6.56' 40Gbps 8K@60Hz USB-C to USB-C Cable (Supports 100W Charging) $14.24",
   "reason": "Posted at $14.24, but Amazon showed $28.49 when we checked — the deal is probably over",
