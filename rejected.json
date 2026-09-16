@@ -1,5 +1,37 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Walmart Precious Metals and Coins Flash Sale for Deals from $8 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T07:50:21.099566Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "De'Longhi Coffee Care Kit, Essential Coffee Machine Maintenance Products, Suitable for Machines with filters, DLSC306, Black $30.95",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-16T07:44:57.648281Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Chesona Lightweight USB-C Rechargeable Keyboard Case with Bluetooth for iPads $29.99",
+  "reason": "Posted at $29.99, but Amazon showed $59.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-16T07:44:57.648281Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Vasagle 3-Tier Side Table with Charging Station for $20 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T07:44:57.648281Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "[Prime] FEED GARDEN 8'x33' Ultra-Fine Mesh PE Garden Netting $12.99 + Free Shipping",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
