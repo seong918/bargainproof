@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "8e3f59ba2163",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20020665-6-pack-battery-operated-led-jack-o-lantern-pumpkin-lights-w-remote-white-8-99-free-shipping-w-prime-or-on-35",
+  "title": "6-Pack Battery-Operated LED Jack-O-Lantern Pumpkin Lights w/ Remote (White) + or on",
+  "raw_title": "6-Pack Battery-Operated LED Jack-O-Lantern Pumpkin Lights w/ Remote (White) $8.99 + Free Shipping w/ Prime or on $35+",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 899,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "prime",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-16T02:16:35.185001Z"
+ },
+ {
   "deal_id": "86be07ccd327",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20020671-bambu-lab-a1-combo-multi-color-fdm-3d-printer-w-ams-lite-led-lamp-kit-419-00-free-shipping",
