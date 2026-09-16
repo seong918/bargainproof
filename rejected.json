@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon – OMOTON TP06-E Magnetic iPhone Tripod - $17.49 w/ Code",
+  "reason": "Community score too low (+-1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-16T15:32:28.296926Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Xeitin 400ml Capacity Waterless Essential Oil Diffuser $25.64",
+  "reason": "Posted at $25.64, but Amazon showed $51.28 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-16T15:32:28.296926Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "DICK'S Sporting Goods Fan Shop Jersey Sale: Up to 85% off + free shipping w/ $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T15:32:28.296926Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ludatido 80-Pint Energy Star Dehumidifier for $150 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T15:32:28.296926Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Plackers Floss Picks 90-Count Only $1.81 on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T15:32:28.296926Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Adidas women GAZELLE BOLD Shoes in Semi Flash Red - $31 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T15:32:28.296926Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "FWERDG Waterproof Twin Blanket for Bed - Washable Large Dog Blankets 60\"x80\" $19.99",
   "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
   "rejected_at": "2026-09-16T15:27:02.994997Z",
