@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "2449a6ed7cf4",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20021634-prime-27-53-the-silmarillion-illustrated-by-j-r-r-tolkien-hardcover-book-at-amazon",
+  "title": "The Silmarillion: Illustrated by J.R.R. Tolkien (Hardcover Book)",
+  "raw_title": "[Prime] $27.53* | The Silmarillion: Illustrated by J.R.R. Tolkien (Hardcover Book) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/0063280779",
+  "deal_total_cents": 2753,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "prime"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 2753,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 2753,
+  "amazon_url": "https://www.amazon.com/dp/0063280779",
+  "amazon_checked_at": "2026-09-16T15:27:07.910952Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "0063280779",
+  "image_url": null,
+  "published_at": "2026-09-16T15:27:02.994997Z"
+ },
+ {
   "deal_id": "6ae68a18b94f",
   "source": "techbargains",
   "source_url": "https://www.amazon.com/gp/product/B0BH6SFQBJ/ref=ox_sc_act_title_1",
