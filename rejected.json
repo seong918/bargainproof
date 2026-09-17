@@ -1,6 +1,134 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$18.45-$20.99 ac AMZ Under Armour Men's Ignite Pro Flip Flops Size 7, 8, 10, 11, 12, 13 and more",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-17T13:52:20.396896Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Orrdice 34-Piece 304 Stainless Steel Large Eye Blunt and Sharp Needles Set (8 Sizes) $2.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T13:52:20.396896Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LEGO Star Wars SMART Play: Luke’s Landspeeder Set 75420 $31.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T13:52:20.396896Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Samsung Galaxy S25 Edge Smartphone 512GB (Unlocked) $649.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T13:52:20.396896Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Vibrant Life Bubble Faux Fur Orthopedic Cuddler Pet Bed 24\" x 20\" $24.26",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T13:52:20.396896Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Women's Dressy Ruffle Open Front Jackets $16.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T13:52:20.396896Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LEGO Super Mario: Mario Kart Wario & King Boo Building Set 512-Pc $32.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T13:52:20.396896Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Fiskars 6\" Micro-Tip Pruning Scissors $12.89",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T13:52:20.396896Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ricky Roo Thanksgiving Turkey Porch Goose Outfits $16.14",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T13:52:20.396896Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Amazon Essentials Women’s Cotton Jersey Scoop Bralette 2-Pack $6.21",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T13:52:20.396896Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "DUDE Bombs Toilet Bowl Stank Eliminator 40 Count $13.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T13:52:20.396896Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Play-Doh 30 Pack Spooky Colors $9.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T13:52:20.396896Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Contigo Byron 2.0 Stainless Steel Travel Mug 2-Pack $22.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T13:52:20.396896Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "2 x 52-Oz Bubba Classic Insulated Mug (Black) $17.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T13:52:20.396896Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Women’s Christmas Character Graphic Sweatshirts Only $16.98 on Walmart.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T13:52:20.396896Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "JHK Lift Top Coffee Tables For Living Room 39.37\"x19.7\" Desk Storage Shelf black $41 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T13:52:20.396896Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$25.29 ac FS AMZ Bruno Marc Men's Casual Dress Shoes Business Oxfords",
   "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
   "rejected_at": "2026-09-17T13:46:56.629485Z",
@@ -62426,14 +62554,6 @@
  {
   "source": "dealcatcher",
   "raw_title": "Tender Mercies (Special Edition Kino Lorber Classics) [Blu-ray] $14.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T02:52:40.449095Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Fiskars 6\" Micro-Tip Pruning Scissors $12.89",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-11T02:52:40.449095Z",
   "code": "not_checked",
