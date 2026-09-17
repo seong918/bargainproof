@@ -1,5 +1,77 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Citizen Men's Classic Addysen Eco-Drive Watch, 3-Hand Date, Sapphire Crystal, Stainless/ Gray Dial $212.5",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-17T09:06:50.697885Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Lontek 300lbs 12-Level 15% Auto Incline Foldable Walking Pad Treadmill $158.39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T09:06:50.697885Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Makita XAD05Z 18V LXT® Lithium-Ion Brushless Cordless 1/2\" Right Angle Drill, Tool Only $272.87",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-17T09:01:30.180215Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Windstar 13-Night Tahiti & Tuamotu Islands Cruise for From $16,294 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T09:01:30.180215Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Lenovo ThinkPad T14 Core Ultra 5 225U 14\" Laptop for $1,409 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T09:01:30.180215Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "4/$8.24 PRIME Shelf Stable 365 by Whole Foods Market, Organic Unsweetened Soy Beverage, 32 Fl Oz",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T08:56:11.941347Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DEWALT 20V MAX Powered Portable Water Tank for Job Sites, Water Based Dust Suppression, 4 Gallons (15L), Battery Not Included (DCE6820B) $249",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-17T08:56:11.941347Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "ASUS VY279HGR 27\" 1080p Monitor for $100 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T08:56:11.941347Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Cinemark Movie Club 6-Month Membership for $45",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T08:56:11.941347Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Silver Auctions on eBay Live for Deals from $1",
   "reason": "Not evaluated",
