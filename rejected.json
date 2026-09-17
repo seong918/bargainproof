@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Parker (Blu-ray) $5.00 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T13:14:42.769180Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Pektaco 3.2L Stainless Steel Multi-Layer Filtration Pet Drinking Fountain $17.09",
+  "reason": "Posted at $17.09, but Amazon showed $34.19 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T13:14:42.769180Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas Men's Daily 4.0 Shoes for $27 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T13:14:42.769180Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "iGPSPORT BiNavi 3.5in Touchscreen GPS Bike Navigation System 32GB 35 hr Battery Life $153 + Free S/H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T13:14:42.769180Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "5x 1kg ELEGOO Wood PLA 3D Printer Filament (Mix Color Bundle) $56.99 + free s/h AC",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T13:14:42.769180Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "24-Piece Bluey: The Most Amazing Advent Calendar Book Bundle $12.96 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-17T13:14:42.769180Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Chemical Guys, Maxi Suds II Foaming Car Wash Soap for Cannons, Grape, 64 oz, $11.99, Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-17T13:09:18.794717Z",
@@ -60637,14 +60685,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-11T08:21:01.169454Z",
   "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "adidas Men's Daily 4.0 Shoes for $27 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T08:21:01.169454Z",
-  "code": "not_checked",
   "public": false
  },
  {
