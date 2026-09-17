@@ -1,5 +1,85 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Source Code - BLURAY $6.43 Amazon.com",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-17T16:32:55.783335Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Webeauty Travel Mini High-Speed 200 Million Negative Ions Blow Dryer with Diffuser, 110,000RPM Brushless Motor for Fast Drying, Lightweight Portable Hairdryer $28.49",
+  "reason": "Posted at $28.49, but Amazon showed $69.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T16:32:55.783335Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Harry Potter Hedwig Owl Figurine With Sound $6.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T16:32:55.783335Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Osfvn Pumpkin Decor White (Set of 12) $8.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T16:32:55.783335Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Brown Christmas Cookie Boxes 12-Pack $14.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T16:32:55.783335Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "XL Facial Dry Towels 100 Count $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T16:32:55.783335Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Funism Evangelion Blind Box Figures for $12 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T16:32:55.783335Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas Utility 4 Sling Bag (Black) $21.97 + Free Shipping on $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T16:32:55.783335Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "FP Movement Women's Bulls Eye Sling Bag (Coral) $11.97 + Free Shipping on $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T16:32:55.783335Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Epic Games Store] Ubisoft Sale: Steep $1.49; Watch Dogs 2 $2.49; Assassin's Creed Rogue $4; FARCRY 6 $6 & More (PC Digital Games)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T16:32:55.783335Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Stouchi Slim RFID Blocking Trackable Card Holder Wallet $11.99",
   "reason": "Posted at $11.99, but Amazon showed $23.99 when we checked — the deal is probably over",
