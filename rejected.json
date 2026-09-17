@@ -1,5 +1,69 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "[NEW, SnS, AC] $31.85 | 4 × 25-Oz Milk-Bone Soft & Chewy Dog Treats (Chicken) ($7.97 each) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, multi-pack, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T00:00:40.361907Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "4-Pack 11-Oz Muscle Milk 26g Protein Shake (Various Flavors) + $3 Walmart Cash $7.98 w/ Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T00:00:40.361907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Patagonia Black Hole Pack - 25L $77 and 32L $89 $76.83",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T00:00:40.361907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "YMMV- Pokemon Pokopia Digital $31",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T00:00:40.361907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "The Game of Life Board Game $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T23:55:13.197495Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Electric 4200PSI Power Washer for $70 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T23:55:13.197495Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Fuggler Vacay Vibes Sir-Splodge-A-Lot for $3 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T23:55:13.197495Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bright STW Aero Road Bike (Carbon frame, carbon wheels, + Shimano 105/Ultegra Di2/Dura Ace Di2) $1769",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-16T23:55:13.197495Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Brahma Men's Ripstop Shirt for from $8 + free shipping w/ $35",
   "reason": "Not evaluated",
