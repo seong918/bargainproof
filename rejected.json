@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "2-Pack SZPOWER 4500LM Solar Outdoor Lights w/ Motion Sensors $15 @ Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-17T03:53:30.710920Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bacgnyer Backpack Cooler Insulated Leakproof Waterproof 30L Cooler Bag $15.99",
+  "reason": "Posted at $15.99, but Amazon showed $39.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T03:53:30.710920Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "3 or 4-Piece Joyfulife Canvas Stripe 17.7\" Backpack Set (Various) from $8.49 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-17T03:48:06.567774Z",
