@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "81a63980b2b6",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20029197-new-8-99-contact-blu-ray-at-amazon",
+  "title": "Contact (Blu-ray)",
+  "raw_title": "[NEW] $8.99 | Contact (Blu-ray) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B001AQT0RC",
+  "deal_total_cents": 899,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 899,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 899,
+  "amazon_url": "https://www.amazon.com/dp/B001AQT0RC",
+  "amazon_checked_at": "2026-09-17T17:59:35.341859Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B001AQT0RC",
+  "image_url": null,
+  "published_at": "2026-09-17T17:59:30.403411Z"
+ },
+ {
   "deal_id": "6a3cdb181603",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20028912-31-79-3-oz-afnan-turathi-electric-unisex-eau-de-parfum-at-amazon",
