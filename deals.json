@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "4aeced52aa81",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20029923-69-99-greenworks-24v-cordless-heat-gun-kit-w-4-0ah-battery-charger-at-amazon",
+  "title": "Greenworks 24V Cordless Heat Gun Kit w/ 4.0Ah Battery & Charger",
+  "raw_title": "$69.99 | Greenworks 24V Cordless Heat Gun Kit w/ 4.0Ah Battery & Charger at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0BLVGBS5M",
+  "deal_total_cents": 6999,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 6999,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 6999,
+  "amazon_url": "https://www.amazon.com/dp/B0BLVGBS5M",
+  "amazon_checked_at": "2026-09-17T21:31:06.189976Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0BLVGBS5M",
+  "image_url": null,
+  "published_at": "2026-09-17T21:30:59.863343Z"
+ },
+ {
   "deal_id": "c883f56450be",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20029311-7-piece-astroai-26-telescoping-windshield-cleaner-car-interior-detailing-kit-w-4-microfiber-pads-10-49-free-shipping-w-prime-or-on-35",

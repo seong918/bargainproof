@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "SereneLife 8,000 BTU Portable Air Conditioner | AC, Dehumidifier & Fan $199.9",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-17T21:30:59.863343Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Brahma Men's Cargo Pants for $16 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T21:30:59.863343Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "COZEWARE 18K BTU 2-Zone 23 SEER2 MultiCoze Pro Series Mini Split AC (9K+9K) $1020 + Free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T21:30:59.863343Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Hisense - 75\" Class M7 MiniLED Series Hi-QLED 4K UHD Smart Roku TV (2026) Model: 75M7SR, $599.99, FS, Best Buy",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T21:25:34.390973Z",
