@@ -1,5 +1,69 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "McCormick 1.26oz Peppercorn Adjustable Grinder $1.78",
+  "reason": "Posted at $1.78, but Amazon showed $1.50 when we checked — the post is stale",
+  "rejected_at": "2026-09-17T12:47:51.585448Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Cameron's Coffee 28oz Dark Chocolate Mocha Roasted Ground Coffee Bag $10.11",
+  "reason": "Posted at $10.11, but Amazon showed $0.38 when we checked — the post is stale",
+  "rejected_at": "2026-09-17T12:47:51.585448Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Swisswell Men's Breathable Waterproof Raincoat (Various Sizes) $11.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T12:47:51.585448Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "SucceBuy 7 x 10-Foot Retractable Car Awning for $70 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T12:47:51.585448Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "20 styles, Dockers men's sneakers, $20.99, Macy's",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T12:47:51.585448Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas Women's VL Court 3.0 Shoes (Court Green / Cloud White / Gold Metallic) $28.5",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T12:47:51.585448Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Little Tikes Kids Outdoor Portable Picnic Table w/ Umbrella (Blue & Green) $33.59 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T12:47:51.585448Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$15 FS PRIME WOOT (Android/iPhone) BOSILLEY Magnetic Car Phone Holder for Dashboard, MagSafe Car Mount, Nano Gel Suction Car Phone Mount, Foldable Automotive Dashboard Phone Holder",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T12:47:51.585448Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "adidas Women's Galaxy 7 Running Shoes (Purple Tint / Aurora Black / Cloud White) $27.6",
   "reason": "Not evaluated",
