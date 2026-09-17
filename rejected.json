@@ -1,6 +1,86 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$5.99* | Bulex Golf Club Groove Sharpener (Various Colors) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-17T19:20:53.922643Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Scotts Turf Builder Lawn Food, 37.50 lbs. | Fertilizer for Grass, For All Grass Types, Covers 15,000 sq. ft. $47.96",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:20:53.922643Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Wholesome Wellness Premium Multi Collagen Peptides Protein Powder for Women and Men, 5 Types of Hydrolyzed Collagen, Grass-Fed, Non-GMO & Unflavored, Pure Protein for Youthful Skin & Joint Recovery $23.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:20:53.922643Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "4pk BAMBOO COOL Men's Boxer Briefs Ultra Breathable Underwear Multipack $32.50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:20:53.922643Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "HP 14\" Notebook with Copilot AMD Athlon Silver 7120U 4GB RAM 256GB SSD $279.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:20:53.922643Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "The Official ACT Prep Guide 2026-2027: Book + Online $28.19",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:20:53.922643Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Original Oversized Cutting Board 3-Pack for $19 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:20:53.922643Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Texture of Dreams Personalized Photo 5' Life-Size Cardboard Cutout for $48 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:20:53.922643Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Women’s Long Sleeve Tops Only $5.99 on Amazon (Reg. $20) | Great for Layering",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:20:53.922643Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Crane True HEPA Air Purifier, Up To 150Sq. Ft., With Aroma Tray, Night Light, Adjustable Fan Speed and Timer Function $18.15",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:20:53.922643Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "LEGO Disney Lilo & Stitch Beach House Building Set (43268) $60.99 + Free Shipping",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-17T19:15:29.111541Z",
