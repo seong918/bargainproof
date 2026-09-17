@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "0796023ff123",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20026278-sns-11-39-8-count-energizer-ultimate-lithium-aaa-batteries-at-amazon-1-42-each",
+  "title": "8-Count Energizer Ultimate Lithium AAA Batteries at Amazon",
+  "raw_title": "[SnS] $11.39* | 8-Count Energizer Ultimate Lithium AAA Batteries at Amazon ($1.42 each)",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1139,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "sns"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-17T06:19:37.990717Z"
+ },
+ {
   "deal_id": "e10ad2d7f691",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20026356-walking-treadmill-pad-with-adjustable-8-incline-for-home-office-79-98",
