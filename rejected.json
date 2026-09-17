@@ -1,6 +1,102 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Hot Wheels Mario Wheelie Motocross RC, Remote-Control Motorcycle $32.99 + Free S&H w/ Prime or $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T00:44:06.435002Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Athlefit Women's Lace-Up Platform Ankle Combat Boots (Various) $19.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T00:44:06.435002Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$897: 10% back PRIME VISA TCL 65 Inch Class QM7L Series | SQD-Mini-LED QLED Smart TV | 65QM7L, 2026 Model | 144Hz | Ultimate Color Ultra Brightness & Contrast",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T00:44:06.435002Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "6.6' Baseus 100W USB-C to USB-C Fast Charging Cable w/ LED Display $9 + Free Shipping",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-17T00:44:06.435002Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "AstroAI Car Wash Kit for $20 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T00:44:06.435002Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Klein Tools MODbox Cup Holder Rail Attachment one_size in Orange | 54817MB $9.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T00:44:06.435002Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "RoseArt Hobby Haven Quilt Shop 1000 Piece Jigsaw Puzzle $7.69 + Free S&H w/ Prime or $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T00:38:40.822783Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$209.99 (Prime 10% back w/Prime Visa) Amazon Ember 40\" 2-Series with Fire TV (newest model), HD smart TV with Alexa Voice Remote Enhanced, fast streaming, Dolby Audio, Ambient",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T00:38:40.822783Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Invicta Men's Pro Diver Chronograph Watch for $69 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T00:38:40.822783Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Lenovo Idea Tab 11\" 128GB Android Tablet for $190 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T00:38:40.822783Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$18 FS WMT+ or Pick Up where avail: No Boundaries Women's Faux Leather and Suede Retro Inspired Lace Up Sneakers (BURGUNDY) size 6-11",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T00:38:40.822783Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Klein Tools MODbox Magnetic Strip Rail Attachment one_size in Gray | 54819MB $22.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T00:38:40.822783Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[Pre-Order] KPop Demon Hunters - The Criterion Collection (4K UHD) $34.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Same deal was already posted from another source",
   "rejected_at": "2026-09-17T00:33:16.455087Z",
