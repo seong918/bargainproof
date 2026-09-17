@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "fddf6d600c75",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20028015-amazon-ekobrit-24-count-washing-machine-cleaner-tablets-8-99-w-code",
+  "title": "Amazon – EKoBRIT 24-Count Washing Machine Cleaner Tablets - w/ Code",
+  "raw_title": "Amazon – EKoBRIT 24-Count Washing Machine Cleaner Tablets - $8.99 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0GX719TRW",
+  "deal_total_cents": 899,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 1999,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1999,
+  "amazon_url": "https://www.amazon.com/dp/B0GX719TRW",
+  "amazon_checked_at": "2026-09-17T22:52:25.111746Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0GX719TRW",
+  "image_url": null,
+  "published_at": "2026-09-17T22:52:20.400740Z"
+ },
+ {
   "deal_id": "657a1c0e972f",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20030106-14-99-weezer-blue-album-vinyl-lp-at-amazon",
