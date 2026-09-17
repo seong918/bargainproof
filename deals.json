@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "500dd56f166c",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20028729-sns-ac-6-38-12-pk-1-69-oz-luna-protein-snack-bars-lemon-zest-at-amazon",
+  "title": "12-Pk 1.69-Oz Luna Protein Snack Bars (Lemon Zest)",
+  "raw_title": "[SnS, AC] $6.38* | 12-Pk 1.69-Oz Luna Protein Snack Bars (Lemon Zest) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 638,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 6,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-17T18:32:02.580272Z"
+ },
+ {
   "deal_id": "7f68c24ccbbd",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20029059-select-accounts-20-count-0-5-oz-inaba-churu-lickable-creamy-pur-e-cat-treats-tuna-variety-5-99-w-s-s-free-shipping-w-prime-or-on-35",
