@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "657a1c0e972f",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20030106-14-99-weezer-blue-album-vinyl-lp-at-amazon",
+  "title": "Weezer: Blue Album (Vinyl LP)",
+  "raw_title": "$14.99* | Weezer: Blue Album (Vinyl LP) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1499,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-17T22:46:55.886213Z"
+ },
+ {
   "deal_id": "69f7c0ff8528",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20030124-14-99-linkin-park-from-zero-vinyl-at-amazon",

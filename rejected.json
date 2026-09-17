@@ -1,5 +1,45 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$2.99 | Wilmington's Lie: The Murderous Coup of 1898 and the Rise of White Supremacy (eBook) by David Zucchino",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-17T22:36:01.518004Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "KAMRUI E3B Mini PC: Ryzen 7 7730U, 16GB RAM, 1TB SSD $446.4",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-17T22:36:01.518004Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Amazon Essentials Men's Lightweight Packable Puffer Vest for $9.99 w/ Prime + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T22:36:01.518004Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Adidas women's SAMBA Shoes (Night Indigo or Semi Screaming Green) - $43.20 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T22:36:01.518004Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Mystery Ranch Bridger 45 L Backpack ($150 + Free Shipping)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T22:36:01.518004Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Dove Deodorant Deals at Target: $3 off w/ Target Circle + free shipping w/ $35",
   "reason": "Not evaluated",
