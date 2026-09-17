@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "a4b90f2c173b",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20027346-14-99-lana-del-rey-born-to-die-lp-w-autorip-mp3-at-amazon",
+  "title": "Lana Del Rey: Born To Die (LP w/ AutoRip MP3)",
+  "raw_title": "$14.99 | Lana Del Rey: Born To Die (LP w/ AutoRip MP3) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B006ZWLXZ8",
+  "deal_total_cents": 1499,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 1499,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1499,
+  "amazon_url": "https://www.amazon.com/dp/B006ZWLXZ8",
+  "amazon_checked_at": "2026-09-17T13:30:58.530009Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 6,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B006ZWLXZ8",
+  "image_url": null,
+  "published_at": "2026-09-17T13:30:49.267848Z"
+ },
+ {
   "deal_id": "9cf4ba20e9ec",
   "source": "techbargains",
   "source_url": "https://www.amazon.com/gp/product/B09H3P735J/ref=ox_sc_act_image_1",
