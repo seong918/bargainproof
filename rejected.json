@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS, AC] $4.86* | 14-Oz Jar + 2-Oz Tube Boudreaux's Butt Paste Maximum Strength Diaper Rash Cream at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T10:06:07.423245Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Vondior 101.4oz Airpot Stainless Steel Thermal Dispenser with Pump $21.39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T10:06:07.423245Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Roborock Q7 M5 10000Pa HyperForce Suction Robot Vacuum & Mop Combo $149.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T10:06:07.423245Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Art3d 47\" x 23.6\" Acoustic Wood Slat Wall Panel 4-Pack for $85 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T10:06:07.423245Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Kohl's NBA Apparel & Gear Deals: Up to 35% off + free shipping w/ $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T10:06:07.423245Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Armor All Dent Puller 3-Pack for $10 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T10:06:07.423245Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "2-Pack FINENUT Silicone Spoonula w/ Wood Handle & S-Hooks (Black & Gray) $8.24, More + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-17T10:00:46.961763Z",
