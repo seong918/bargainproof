@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "de4985fc67e5",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20026539-39-99-visiogear-bird-feeder-with-camera-gable-at-amazon",
+  "title": "VISIOGEAR Bird Feeder with Camera (Gable)",
+  "raw_title": "$39.99 | VISIOGEAR Bird Feeder with Camera (Gable) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0DF1V54GJ",
+  "deal_total_cents": 3999,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 3999,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 3999,
+  "amazon_url": "https://www.amazon.com/dp/B0DF1V54GJ",
+  "amazon_checked_at": "2026-09-17T07:24:40.011023Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0DF1V54GJ",
+  "image_url": null,
+  "published_at": "2026-09-17T07:24:36.094571Z"
+ },
+ {
   "deal_id": "57b6836bf770",
   "source": "techbargains",
   "source_url": "https://www.amazon.com/gp/product/B07X5CTFXZ/ref=ox_sc_act_title_1",
