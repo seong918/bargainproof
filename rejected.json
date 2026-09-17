@@ -1,5 +1,133 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "LeapFrog Spin & Change Apple Shape Sorter w/ 10 Shape Blocks $8.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T08:23:57.129389Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Comfyinlove Ergonomic Memory Foam Leg Pillow with Strap $9.59",
+  "reason": "Posted at $9.59, but Amazon showed $15.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T08:23:57.129389Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "6-Pack Fab Totes 60L Foldable Clothes/Blanket Storage Bags $11.99 + Free Shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T08:23:57.129389Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "3-Piece Takywep Bar Table and Chairs Set $59.99 + Free Shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T08:23:57.129389Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Refurb Woojer Vest 4 Haptic Gaming Vest for $250 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T08:18:35.850383Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Garvee 10-Frame Complete Beehive Kit for $118 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T08:18:35.850383Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HP Omnibook 5: 16\" FHD+ IPS, Ryzen AI 7 350, 16GB LPDDR5, 512GB SSD $699",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T08:18:35.850383Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Refurb Shark Robot Vacuum Deals at Woot for from $80 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T08:13:11.883194Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Happy Belly French Dark Roast Coffee (Compatible with Keurig 2.0 K-Cup Brewers, 24-Count) $5.18",
+  "reason": "Posted at $5.18, but Amazon showed $0.19 when we checked — the post is stale",
+  "rejected_at": "2026-09-17T07:56:59.254195Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Cunard 48-Night Britain, Mediterranean & Norwegian Fjords Cruise for From $19,998 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T07:56:59.254195Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "12-Pack Solar LED Pathway Lights w/ 2 Lighting Modes $34.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T07:51:34.095778Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Vollyc 150PSI 4-Mode Portable Air Compressor Car Tire Inflator $10.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T07:46:10.611944Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Cooncxen 60W USB C Super Fast Charger Block (2-Pack) with 10' Cable Cord $13.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T07:46:10.611944Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Trakiom Inflatable Ultralight Camping Pillow with Carabiner $11.19",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T07:46:10.611944Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Refurb Amazon Kindle Scribe w/ Premium Pen for from $150 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T07:46:10.611944Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GreenPan Electric Non-Dairy Milk Maker and Blender (2 Colors) $47.49 Shipped",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T07:46:10.611944Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Michael Kors Men's Outlet Deals: Up to 78% off + free shipping w/ $75",
   "reason": "Not evaluated",
