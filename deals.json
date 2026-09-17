@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "b101638f0143",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20023599-amazon-scarlet-darkness-women-s-renaissance-corset-maxi-dress-18-50-w-code",
+  "title": "Amazon – Scarlet Darkness Women's Renaissance Corset Maxi Dress - w/ Code",
+  "raw_title": "Amazon – Scarlet Darkness Women's Renaissance Corset Maxi Dress - $18.50 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0H6X8VSQV",
+  "deal_total_cents": 1850,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 3699,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 3699,
+  "amazon_url": "https://www.amazon.com/dp/B0H6X8VSQV",
+  "amazon_checked_at": "2026-09-17T02:48:42.566136Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0H6X8VSQV",
+  "image_url": null,
+  "published_at": "2026-09-17T02:48:38.839330Z"
+ },
+ {
   "deal_id": "9c1ed4422586",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20025471-rocklin-large-radius-hook-cultivator-weeder-stainless-steel-9-89-amazon",

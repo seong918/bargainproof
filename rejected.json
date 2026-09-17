@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Linkind Matter A19 Smart LED Edison Light Bulb w/ 16M Colors, Tunable White, Music Sync $11.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T02:48:38.839330Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Southwest Airlines $500 Gift Card (Email Delivery) $470 AC",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T02:48:38.839330Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Sony WH-1000XM6 Noise Cancelling Headphones (Sand Pink, Refurbished) - $200 at Secondipity via eBay",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T02:48:38.839330Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Multi Buy Discount: 2 x 18-oz Bubba HERO Vacuum-Insulated Stainless Steel Travel Mug w/ Handle (Gunmetal) $22.99 ($11.50 Each) + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T02:43:12.891490Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Shapewear Tummy Control Shorts for Women, High Waisted Shapewear Shorts $7.99",
+  "reason": "Posted at $7.99, but Amazon showed $17.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T02:43:12.891490Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Pack ECO-WORTHY 200W Flexible HJT Solar Panel (18V, ETFE, 18BB, 25% High Efficiency) $192 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T02:43:12.891490Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "EF ECOFLOW RAPID Pro 10,000mAh 67W Power Bank $42.29",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T02:37:49.820684Z",
@@ -9987,14 +10035,6 @@
   "source": "slickdeals",
   "raw_title": "Amazon – Mulittea 2-Pack Vitamin D3 + K2 Liquid - $13.47 w/ Code",
   "reason": "Community score too low (+1) to pass without a price check — needs promo code, multi-pack, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-16T06:51:06.505717Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Linkind Matter A19 Smart LED Edison Light Bulb w/ 16M Colors, Tunable White, Music Sync $11.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-16T06:51:06.505717Z",
   "code": "low_score",
   "public": true
