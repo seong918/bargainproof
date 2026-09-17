@@ -1,6 +1,94 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "5 Herb Garden Planter Indoor with Wooden Box, Friednly for Beginners $18.49 + Free Shipping",
+  "reason": "Community score too low (+-3) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-17T16:00:36.721970Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "EUARNE IPL Laser Hair Removal for Women, Ice Cooling, Effective in 2 weeks $71.28",
+  "reason": "Posted at $71.28, but Amazon showed $158.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T16:00:36.721970Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "The Ginger People Ginger Rescue Shots Turmeric 12-Pack $15.67",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T16:00:36.721970Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "(Resale) Alpha Living Heavy Duty Cast Iron Empanada Press Quesadilla Tortilla Maker 8\" $9.40",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T16:00:36.721970Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Business Class Airfare at SkyLux Travel for 1-Way from $835",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T16:00:36.721970Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Matching Family Christmas Pajamas from $9.98 on SamsClub.com (Pet PJs Too!)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T16:00:36.721970Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2/$5 Select Chemicals Guys Products Free PU Auto Zone",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T16:00:36.721970Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Hardside Carry On Spinner Wheels Suitcase - Open Story™ Beige ( Other Open Story Luggage On Sale) $45",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T16:00:36.721970Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "59\" Lofka Convertible Corduroy Futon Sofa Bed w/ 2 Pillows & Pockets (Black) $179.97 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T16:00:36.721970Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Gap Inc. Brands - Two $50 eGift Cards $79.99 Email Delivery Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T16:00:36.721970Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "6-Pce. Horsepower Waterproof Power Scrubber Gold Edition $19.99 + FS",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T16:00:36.721970Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "wegear 2.4GHz Wireless Optical Mouse w/ 6 Buttons & 5 DPI Levels (Black) $9.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-17T15:55:13.228930Z",
