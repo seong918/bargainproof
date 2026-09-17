@@ -1,5 +1,37 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $20.48 | 3 × 0.5-Oz Olay Regenerist Nourishing Treatment, Lip Balm ($6.83 each) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, multi-pack, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T22:25:11.985497Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Amazon Basics RFID-Blocking Passport Wallet for $7 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T22:25:11.985497Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Macy’s 25 Days of Beauty Advent Calendar Just $63.75 Shipped ($300 Value!)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T22:25:11.985497Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "PUMA X Cheetos Suede Lace Up Youth Boys Orange Sneakers Casual Shoes 39885401 $27.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T22:25:11.985497Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Garmin Venu 3 45mm Premium Fitness Smartwatch for $292 + free shipping",
   "reason": "Not evaluated",
