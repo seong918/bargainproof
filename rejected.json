@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "adidas Men's Daily 4.0 Shoes (3 Colors) $28",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T06:03:23.937456Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "3.8L MateeyLife Anti-Splash Dog Water Non-Slip Dispenser $11.19 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T05:57:59.122902Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Expert Grill Refillable Butane Utility Lighter (Red) $0.97 & More + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T05:57:59.122902Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas Men's Galaxy 7 Running Shoes (2 Colors) from $24",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T05:57:59.122902Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "adidas Men's Lite Racer 4.0 Shoes (Various) $22",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T05:52:34.499381Z",
