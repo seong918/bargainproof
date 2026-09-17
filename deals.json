@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "2d992d976476",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20026755-66-50-the-north-face-borealis-convertible-pack-cedar-lava-red-one-size-at-amazon",
+  "title": "The North Face Borealis Convertible Pack, Cedar/Lava Red, One Size",
+  "raw_title": "$66.50* | The North Face Borealis Convertible Pack, Cedar/Lava Red, One Size at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0F9HX393Y",
+  "deal_total_cents": 6650,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 6650,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 6650,
+  "amazon_url": "https://www.amazon.com/dp/B0F9HX393Y",
+  "amazon_checked_at": "2026-09-17T11:54:02.943930Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0F9HX393Y",
+  "image_url": null,
+  "published_at": "2026-09-17T11:53:58.036588Z"
+ },
+ {
   "deal_id": "7fffee3b3410",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20027010-82-99-bose-soundlink-micro-portable-bluetooth-speaker-2nd-gen-black-at-amazon",
