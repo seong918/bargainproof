@@ -1,5 +1,101 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Fresmol VC018 100000RPM Compressed Air Duster with LED Light $19.99",
+  "reason": "Posted at $19.99, but Amazon showed $27.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T18:21:11.385959Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Jack Link's 8oz Half Pounder Teriyaki Beef Jerky $7.79",
+  "reason": "Posted at $7.79, but Amazon showed $11.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T18:21:11.385959Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Adidas Women's Terrex Free Hiker 2.0 Gore-Tex Hiking Shoes $82.50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T18:21:11.385959Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Greenworks 2500-PSI 2-GPM Cold Water Electric Pressure Washer with 5 Spray Tips $199.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T18:21:11.385959Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "AMP Easy Rally 40 Outdoor Pickleball 3-Pack for $10 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T18:21:11.385959Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Vevor Drain Cleaner Machine 75 ft. x 3/8\" Auto Feed Sewer Snake Auger for $250 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T18:21:11.385959Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Active Coffee Machine Cleaner Descaler Tablets 24-Pack for $15 via Sub & Save + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T18:21:11.385959Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Dr.Jart+ Cryo Rubber Cooling Korean Face Mask w/ Serum Ampoule for $7.84 via Sub & Save + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T18:21:11.385959Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Pimple Patches 180-Pack Just $3.49 Shipped on Amazon (Includes Day & Night Options)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T18:21:11.385959Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "George Oliver 5-Drawer Mid-Century Modern Slatted Dresser (Oak) $88.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T18:21:11.385959Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "UPlee G73 26\" Fat Tire Electric Mountain Bike w/ 740W Brushless Motor, 48V 13AH Battery $282.84 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T18:21:11.385959Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Meta $54.72",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T18:21:11.385959Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Adidas Men's Ultradream DNA Shoes (Core Black / Core Black / Cloud White) $33.75",
   "reason": "Not evaluated",
