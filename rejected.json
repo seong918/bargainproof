@@ -1,5 +1,253 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$6.40* | Performance Tools 3/8\" Ratcheting Drive Adapter Socket at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-17T20:58:26.213321Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Wegear HS1 Hybrid Active Noise Cancelling Wireless Bluetooth 5.4 Headphones $15.99",
+  "reason": "Posted at $15.99, but Amazon showed $42.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T20:58:26.213321Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Pawprint Garden Flag $3.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T20:58:26.213321Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Lifewit Medium Lunch Bag 12-Can (9L) $7.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T20:58:26.213321Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Spin Master DC Comics Teen Titans Go! Kitchen Chaos Playset w/ Beast Boy & Cyborg Figures $4.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T20:58:26.213321Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Contact Blu-ray $8.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T20:58:26.213321Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "HelloBaby 6'' No WiFi Video Baby Monitor $56.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T20:58:26.213321Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Anker Prime Charging Station 200W 6-Port GaN Desktop Charger $55.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T20:58:26.213321Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "MISSWHO No Show High Waisted Seamless Womens Underwear 5 Pack $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T20:58:26.213321Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Crane Air Purifier with True HEPA Filter, UV Light, 250 Sq Feet Coverage $39.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T20:58:26.213321Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Halloween Cookbook for Kids & Grown-Ups Kindle eBook $3.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T20:58:26.213321Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "CAROTE 15-Piece Pots and Pans Set Non Stick with Detachable Handle $59.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T20:58:26.213321Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LIGHT FLIGHT Mini Puffer Crossbody Hobo Bag $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T20:58:26.213321Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Hot Wheels Formula 1 Downhill Circuit Race Track Set w/ 3x Die-Cast Cars $54.67",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T20:58:26.213321Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Gorilla Grip Stainless Steel 20-oz. Insulated Travel Mug for $13 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T20:58:26.213321Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Lowe's 5 Gallon(s) Igloo Blue Insulated Beverage cooler | 00042274 $27.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T20:58:26.213321Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Athlefit Women's Slip On Suede Clogs with Back Strap $18.14",
+  "reason": "Posted at $18.14, but Amazon showed $32.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T20:53:01.499143Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Green Toys Seaplane $11.30",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T20:53:01.499143Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Pyle Solid Wood 4/4 Full Size Violin Fiddle Set w/ Accessory Kit $58.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T20:53:01.499143Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Disguise Kid's Transformers Bumblebee Muscle Costume (Large) $15.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T20:53:01.499143Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Anker USB C to USB C Cable 100W (2-Pack, 6 ft, Black) $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T20:53:01.499143Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Zojirushi EC-YTC100XB 10-Cup Coffee Maker $168.74",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T20:53:01.499143Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "VEVOR Retractable Air Hose Reel 1/2 IN x 50 FT $73.08",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T20:53:01.499143Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "33,000ft Women's Waterproof Long Rain Coats with Hood $55.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T20:53:01.499143Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Finger Toothbrush Wipes for Dogs or Cats, 60 Count $15.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T20:53:01.499143Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Cosybay Double-Sided Cold Tech Fabric Cooling Comforter (Full/Queen, Grey) $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T20:53:01.499143Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Vevor 9.8-Foot Yurt Canvas Bell Tent with Stove Jack for $181 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T20:53:01.499143Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Nike Men's or Women's Book 2 SE 'The Phoenix' Basketball Shoes for $54 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T20:53:01.499143Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "How Cute Is This New TAL Water Bottle w/ Scarf Bow?! (+ Under $15 at Walmart!)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T20:53:01.499143Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Greenworks 60V 16 in Cordless String Trimmer, 2.5 Ah Battery $147.62",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T20:53:01.499143Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "r7 7800x3d cpu $299.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T20:53:01.499143Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Sharpie 4-Pack S-Gel Pens for $5 + free shipping w/ $35",
   "reason": "Not evaluated",
