@@ -1,5 +1,117 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Glowserve Disposable Plastic Cutlery Sets (Gold or Silver): 153-Piece from $8.49 or 306-Piece from $13.49 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T07:35:24.836867Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "24K Gold Eye Masks for Dark Circles and Puffines 70 PCS - $9.09 + Free shipping w/ Prime or on $35",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T07:35:24.836867Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Swandream Standard Size 3-Chamber Goose Feather and Down Bed Pillow (2-Set) $32.99",
+  "reason": "Posted at $32.99, but Amazon showed $65.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T07:35:24.836867Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Pepperidge Farm Milano 7oz White Chocolate Strawberry Flavored Cookies $2.98",
+  "reason": "Posted at $2.98, but Amazon showed $3.18 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T07:35:24.836867Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Zwilling Fall Savings: Up to 58% off + free shipping w/ $79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T07:35:24.836867Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Technician's Choice 1-Gallon Ceramic Detail Spray for $26 via Sub & Save + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T07:35:24.836867Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "KingChii 4500W Inverter Generator Gas Powered, CO Sensor, ECO Mode, 30A RV Ready Outlet $289.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T07:35:24.836867Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SWISSGEAR Energie Hardside Carry On Spinner Wheels Suitcase - Green + Free S/H $53.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T07:35:24.836867Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Cottonelle XL Flushable Wet Wipes - 1 Flip-Top Pack, 45 Total Flushable Wipes~$3.49 @ Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-17T07:29:59.933881Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] 8-Pack 25.2\" ELECLINK Solar LED Pathway Lights $25.19 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T07:29:59.933881Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Craftsman 3-Piece Set Nail Set for $8 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T07:29:59.933881Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Men's 45L Expandable Carry-On Travel Bag for $15 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T07:29:59.933881Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SCC SC1026 Radial Chain Cable Traction Tire Chain, Silver, Set of 2 $7.06",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T07:29:59.933881Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Shark Wandvac Cordless Handheld Vacuum w/ 2 Tools (Various Colors) $49.98 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T07:29:59.933881Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Zity Men's Collared Moisture Wicking Golf Polo Shirt $8.99",
   "reason": "Posted at $8.99, but Amazon showed $17.99 when we checked — the deal is probably over",
