@@ -1,5 +1,29 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$494.99* | BOSCH GSH18V-5L SDS-max Demolition Hammer at Amazon",
+  "reason": "Out of stock on Amazon when we checked",
+  "rejected_at": "2026-09-17T10:49:15.884417Z",
+  "code": "amazon_oos",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas Men's Daily 4.0 Shoes (Clay / Core Black / Core White) $29.25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T10:49:15.884417Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$31.5: adidas Women's Cloudfoam Cuxxion Sock Shoes (2 Colors) at adidas",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T10:49:15.884417Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Mokuru 3-Mode RGB Switching Volume Adjustment Knob Wireless Mechanical Keyboard $39.19",
   "reason": "Posted at $39.19, but Amazon showed $55.99 when we checked — the deal is probably over",
