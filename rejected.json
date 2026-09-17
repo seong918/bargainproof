@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "COOFANDY Men's 2-Piece Full-Zip Tracksuit (various) from $18.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T03:10:17.471747Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Kroger Family Stores 90% off summer items, coolers, ice packs + more + $10 off $40",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T03:10:17.471747Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$26.99: Nintendo Mario Kart 8 Luigi Mini RC Racer, 2.4GHz, 360° Spins & Drifting, 100' Range at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-17T03:04:52.760258Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "50% Off Wilson A2000, A1000 Baseball Gloves $164.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T03:04:52.760258Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "MIULEE 72\"x72\" Scalloped Faux Linen Shower Curtain w/ 12 Metal Hooks (Cream) $14.38 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-17T02:59:27.296733Z",
