@@ -1,5 +1,149 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Calvin Klein Ryor White $31.5",
+  "reason": "Posted at $31.50, but Amazon showed $30.59 when we checked — the post is stale",
+  "rejected_at": "2026-09-17T16:49:10.599527Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Gold Armour XL Double Camping Hammock with Tree Straps $18.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T16:49:10.599527Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LeapFrog Spin & Change Apple Shape Sorter w/ 10 Shape Blocks $9.22",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T16:49:10.599527Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "204 PCS Glow Halloween Tattoos for Kids with Mystery Prize Box $3.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T16:49:10.599527Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "MenoSupp 3-Pack 10' MFi Certified Lightning Cable (Pink, Green and Blue) $3.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T16:49:10.599527Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Macy's Best of the Season Shoe Deals: Up to 60% off + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T16:49:10.599527Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "DJI Osmo Pocket 3 Vlogging Camera Live Stream Bundle for $480 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T16:49:10.599527Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Coravin Timeless Three 4-piece Wine Preservation System $149.99 Free Shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T16:49:10.599527Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "1-Pack Multipet 5\" Mirror Belly Animal Assortment Cat Toy $1.49 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T16:49:10.599527Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$1.19* | 7.06-Oz Conchita Maria Cookies (Chocolate) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-17T16:43:44.936896Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Wet Brush Go Green Mini Detangler, Pink $3.58",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T16:43:44.936896Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "2-Pack 6' IDISON 3-in-1 Multi Charging Cable (Lightning, USB-C & Micro USB) $4.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T16:43:44.936896Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "3-Pack 5' Mitesbony 240W USB-C to USB-C Cable w/ Built-in Phone Stand $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T16:43:44.936896Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "15 lb Suction Cup Hooks $8.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T16:43:44.936896Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Swim Goggles for Kids 2-Pack $4.67",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T16:43:44.936896Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Carl's Jr Four Restaurant $25 eGift Cards ($100 Value) $79.99 Costco.com E mail Delivery",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T16:43:44.936896Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Peter Piper Pizza Four $25 eGift Cards ($100 Value) $64.99 Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T16:43:44.936896Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Inkbox Temporary Tattoos: Palm/Waves $2.20; Music Symbol $2.75; Bear/Mountain $3.10 + Free S&H w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T16:43:44.936896Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Ahaorigin 3.7V 2-Mode 1000mAh Waterproof Solar Pathway Light (12-Pack) $34.99",
   "reason": "Posted at $34.99, but Amazon showed $55.99 when we checked — the deal is probably over",
