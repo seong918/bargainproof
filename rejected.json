@@ -1,6 +1,126 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$6.71 | Men's Hanes EcoSmart Fleece Hooded Sweatshirt (Safety Green) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-17T17:37:54.372489Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Trendy Queen Womens 2 Piece Outfits 2026 Fall Fashion Matching Lounge Sets $14.74",
+  "reason": "Posted at $14.74, but Amazon showed $24.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T17:37:54.372489Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Cerycose 3/4-Inch 1850 Ft-Lb Cordless Impact Wrench $113.04",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T17:37:54.372489Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Garden of Life Whey Grass Fed Weight Management 15.87-Oz (Vanilla) $18.10",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T17:37:54.372489Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Circle Joy Rechargeable Electric Salt & Pepper Grinder Set w/ LED Light & Storage Base (Black & White) $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T17:37:54.372489Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "ZMISHIBO Low Profile 19.7in Black 6-Speed Ceiling Fan w/ Lights + Remote $39.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T17:37:54.372489Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "DEWALT DCE100B 20V MAX Blower, Bare Tool Only $69.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T17:37:54.372489Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "SECOOD 3-Pack Men's Moisture-Wicking Polo Shirts $16.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T17:37:54.372489Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "BEDELITE Bamboo Rayon Cooling Pillowcases 2-Pack $4.92",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T17:37:54.372489Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ecetana Flip Flops Sandals $7.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T17:37:54.372489Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas Men's Terrex Eastrail 3 Mid Climaproof Hiking Shoes (select sizes from 10) for $53 + Free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T17:37:54.372489Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "4-Head Solar Motion Sensor Security Light 2-Pack for $16 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T17:37:54.372489Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Minecraft Advent Calendar Book Collection Just $12.98 Shipped for Prime Members (Reg. $29)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T17:37:54.372489Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Women’s Boatneck Sweaters Only $7.49 on Amazon (Reg. $23)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T17:37:54.372489Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Scotts Max Grass Seed Sun and Shade Mix, 12 lbs $50.99 free shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T17:37:54.372489Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[SnS] $16.95 | 4-Pack Amazon Basics Smart BR30 LED Light Bulbs, Dimmable Soft White (2700K), 9W (60W Equivalent), 800LM at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-17T17:32:28.216449Z",
