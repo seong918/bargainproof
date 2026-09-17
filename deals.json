@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "11a3ddeb649f",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20026644-castle-of-heart-retold-nintendo-switch-25-78-free-shipping-w-prime-or-on-orders-over-35",
+  "title": "Castle of Heart: Retold (Nintendo Switch) + or on orders over",
+  "raw_title": "Castle of Heart: Retold (Nintendo Switch) $25.78 + Free Shipping w/ Prime or on orders over $35",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 2578,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "prime"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-17T09:39:12.193911Z"
+ },
+ {
   "deal_id": "afdc403830bd",
   "source": "techbargains",
   "source_url": "https://www.amazon.com/gp/product/B0BVSRNZSB/ref=ox_sc_act_title_1",
