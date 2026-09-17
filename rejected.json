@@ -1,5 +1,21 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Nintendo Switch Pro Wireless Controller for $56 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T10:11:28.580198Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Camelsports Men's 3-in-1 Waterproof Ski Jacket for $25 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T10:11:28.580198Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "[SnS, AC] $4.86* | 14-Oz Jar + 2-Oz Tube Boudreaux's Butt Paste Maximum Strength Diaper Rash Cream at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
