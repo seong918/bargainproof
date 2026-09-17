@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "IDL Packaging Round Packages Strapping Tool Set for 1/2\" Steel Strapping, 1100 lbs Break Strength – Tensioner, Sealer $214.66",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-17T23:14:02.949908Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Citizen Men's Eco-Drive Classic Peyton Watch, 3-Hand Date, Sapphire Crystal, Luminous Markers, from $298.95",
+  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-17T23:14:02.949908Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Acer Wired Gaming Mouse, 12,800 DPI RGB Ergonomic Computer Mouse for PC $17.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-17T23:14:02.949908Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "High Sierra Outburst 2.0 Backpack for $22 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T23:14:02.949908Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Amazon Essentials Men's Slim-Fit All-Day Stretch Casual Chino Pant for $18 w/ Prime + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T23:14:02.949908Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "18\" TNTOR stainless steel spiral Bristle Free BBQ Grill Brush w/ Scraper $7.64 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-17T23:14:02.949908Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Electrolux WellQ7 Pet Cordless 2-in-1 Vacuum Cleaner with Motorized PetPro+ Nozzle for Easy Pet Hair Removal, 50-Minute Run Time, 2 Power Modes, Shale Gray or Indigo Blue $229",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-17T23:08:35.196375Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SereneLife Portable Air Conditioner 12,000 BTU with Built-in Dehumidifier - Portable AC unit for rooms up to 550 sq ft - Small AC Unit Remote Control $329.9",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-17T23:08:35.196375Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$349* | SKIL 10-1/4 In. Magnesium Worm Drive Circular Saw With Twist Lock- SPT70WM-71 at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-17T23:03:10.829638Z",
