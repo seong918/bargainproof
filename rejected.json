@@ -1,5 +1,381 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "DOWRY Toilet Bowl BrushDOWRY Toilet Bowl Brush and Holder for Bathroom, Silver – $11.99 + Free Shipping and Holder for Bathroom Silver",
+  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-17T19:47:59.665514Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Anyking 15.6\" 5-Mode Detachable Slim Laptop Screen Extender $53.39",
+  "reason": "Posted at $53.39, but Amazon showed $83.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T19:47:59.665514Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Deus Ex: Human Revolution - Director's Cut",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:47:59.665514Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Company of Heroes",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:47:59.665514Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Prince of Persia: The Sands of Time",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:47:59.665514Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Moving Out",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:47:59.665514Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Tom Clancy's Splinter Cell Chaos Theory",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:47:59.665514Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Going Under",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:47:59.665514Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Torchlight II",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:47:59.665514Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Titan Souls",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:47:59.665514Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Bulletstorm: Full Clip Edition",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:47:59.665514Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Silent Hunter III",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:47:59.665514Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Severed Steel",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:47:59.665514Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Prince of Persia: The Two Thrones",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:47:59.665514Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Duke Nukem 3D: 20th Anniversary World Tour",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:47:59.665514Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "The Escapists",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:47:59.665514Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Project Warlock",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:47:59.665514Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Sid Meier's Pirates!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:47:59.665514Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Prince of Persia: Warrior Within",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:47:59.665514Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Snyder's of Hanover Hot Buffalo Wing Flavored Pretzel Pieces 11.25 Oz $2.74",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:47:59.665514Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Pedialyte Electrolyte Powder, Orange, 8 Packets $4.88",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:47:59.665514Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "KATISUN 13-Piece Stainless Steel Kitchen Knife Set w/ Blade Guards & Scissors $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:47:59.665514Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Technicians Choice TEC582 Ceramic Detail Spray 1-Gallon $25.64",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:47:59.665514Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Cetaphil Skin Activator Firming Body Lotion 16 oz $10.29",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:47:59.665514Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Hanes Men's Beefy-T Henley Cotton Long Sleeve T-Shirt $6.54",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:47:59.665514Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Pepperidge Farm Farmhouse Thin & Crispy Butter Pecan Cookies 5.9 Oz $3.62",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:47:59.665514Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Broom and Dustpan Combo with Built-in Comb $18.52",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:47:59.665514Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Solar Halloween Lights 2-Pack $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:47:59.665514Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "10ft Purple Battery Halloween Chain Lights $23.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:47:59.665514Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Enormous Outdoor Halloween Spider Web with Giant Spider Décor $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:47:59.665514Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "8 Little Planets Board Book $5.89",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:47:59.665514Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Adjustable U-Shaped Baby Cabinet Locks 10-Pack $7.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:47:59.665514Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Peppa Pig Booster Seat with Tray $20.89",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:47:59.665514Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Slow Rising Butter Squishies 12-Pack $23.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:47:59.665514Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Gorilla Grip Extra Thick Kneeling Pad for $13 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:47:59.665514Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "6\" Cordless Car Polisher Kit w/ 2 21V Batteries for $40 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:47:59.665514Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Multipet 5\" Mirror Cat Toy Assortment for $1 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:47:59.665514Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Athletic Works Men's Silver Series 3 Wide Width Sneakers for $11 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:47:59.665514Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Galatea Modern Fabric Side Chair w/ Wood Frame (Dove Gray) $153.65 + Free Store Pickup at Home Depot",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:47:59.665514Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "30-Pack Spalding Men's No-Show Socks (Black, Sizes 6.5-12) $8.07 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:47:59.665514Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Tom Clancy's Splinter Cell",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-17T19:47:59.665514Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Snyder's of Hanover Cheddar Cheese Flavored Pretzel Pieces, 11.25 Oz $2.72",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:42:33.832560Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Metroid Prime 4: Beyond (Nintendo Switch Physical) $34.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:42:33.832560Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Armor All Ultra Shine Car Wash and Car Wax 3-Pack $14.15",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:42:33.832560Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Snyder's of Hanover Honey Mustard & Onion Flavored Pretzel Pieces, 11.25 Oz $3.09",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:42:33.832560Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Stbands Astronaut Galaxy Star Projector Night Light w/ Remote & 17 Modes $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:42:33.832560Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Jet-Puffed Mini Marshmallows Just $1 Shipped on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:42:33.832560Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "cheapshark",
   "raw_title": "ENDLESS Legend 2",
   "reason": "Not evaluated",
