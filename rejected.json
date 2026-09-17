@@ -1,5 +1,93 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "[NEW] $50 | 3-Oz Gucci Guilty For Women Eau De Parfum Spray at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-17T10:22:18.844633Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Homicozy 2-in-1 Mermaid Magnetic Puzzle Book for Kids (72-Piece) $4.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T10:22:18.844633Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "GoPro MAX2 360 8K Action Camera for $300 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T10:22:18.844633Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$27: adidas Women CLOUDFOAM FLEX SLOUNGE SHOES(Wonder White / Off White / Bliss Orange) at adidas",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T10:22:18.844633Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Pack 4-Oz iMATCHME Liquid Magnesium Complex Drops w/ L-Theanine & B12 (Strawberry) $8.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T10:16:52.097884Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Old Trapper Deli-Style Teriyaki Beef Sticks 15-oz. Bag for $9.49 via Sub. & Save + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T10:16:52.097884Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Kohl's MLB Sports Fan Gear Deals: Up to 40% off + free shipping w/ $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T10:16:52.097884Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Aukey MagFusion 3-in-1 Qi2 Wireless Charger for $32 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T10:16:52.097884Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "The North Face Berkeley Crossbody Bag for $25 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T10:16:52.097884Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Folding Sofa for $120 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T10:16:52.097884Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "New Google Fi Customers: Pixel 11 Series from $599 Upfront + Get Up To $800 Back via 24-Mo Bill Credits",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T10:16:52.097884Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Nintendo Switch Pro Wireless Controller for $56 + free shipping",
   "reason": "Not evaluated",
