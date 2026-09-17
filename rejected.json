@@ -1,6 +1,78 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Chemical Guys, Maxi Suds II Foaming Car Wash Soap for Cannons, Grape, 64 oz, $11.99, Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-17T13:09:18.794717Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "McCormick 7.5oz Dark Chili Powder $3.11",
+  "reason": "Posted at $3.11, but Amazon showed $3.88 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T13:09:18.794717Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "10.1\" WiFi Digital Calendar for $70 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T13:09:18.794717Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas Men's Cloudfoam Cuxxion Sock Shoes for $32 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T13:09:18.794717Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "*HOT* Up to 85% Off Swimwear on Walmart.com | Prices from $1.96",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T13:09:18.794717Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "3 pack, Armor All Ultra Shine Car Wash and Car Wax, $14.16, Amazon $14.15",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-17T13:03:53.035520Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Windstar 10-Night Canary Islands & Madeira Cruise for From $6,740 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T13:03:53.035520Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Greenworks 2500-PSI 2-GPM Cold Water Electric Pressure washer with 5 Spray Tips one_size | GPW2500 $199",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T13:03:53.035520Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Keds Women's Scout Boot III Sp Twill Lace Up Boots (Green) $24.95 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T13:03:53.035520Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$3.29 | 5-Oz Dr. Natural Castile Bar Soap (Lavender) at Amazon",
   "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-17T12:58:32.853828Z",
