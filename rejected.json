@@ -1,5 +1,37 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "New Balance Men's or Women's ABZORB 2000 Shoes for $77 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T21:09:15.453473Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Noah Kahan Stick Season Vinyl LP Record for $28 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T21:09:15.453473Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Harbor Freight coupon, FRANKLIN 150 lb. Capacity Foldable Hand Truck, $29.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T21:09:15.453473Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Leitz Ergo Adjustable Laptop Stand for 13\"-17\" Laptops (Grey) $4.85 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-17T21:09:15.453473Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "slickdeals",
   "raw_title": "LD Systems Maui 44 G2 Powered Column Array Speaker System with Subwoofer,Black $1799.99",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
