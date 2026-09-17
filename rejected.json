@@ -1,5 +1,53 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$2.99 | How to Stay Alive in the Woods: A Complete Guide to Food, Shelter and Self-Preservation Anywhere (eBook) by Bradford Angier",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-17T11:05:24.214491Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Gooloo G7 3000A 12000mAh Supersafe Car Jump Starter with 45W USB-C Cable $31.49",
+  "reason": "Posted at $31.49, but Amazon showed $62.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T11:05:24.214491Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Windstar 10-Night Tahiti Cruise with Flights for From $11,974 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T11:05:24.214491Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "REI Outlet Promo Code for Up to 66% off + extra $30 off $150 for members + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T11:05:24.214491Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Lefant M330 Pro LiDAR Robot Vacuum and Mop for $134 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T11:05:24.214491Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas Men's Hoops Classic Shoes (Cloud White / Cloud White / Grey Two) $29.25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T11:05:24.214491Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "REI Co-op Lifetime Membership: Free w/ $50 Purchase + free shipping",
   "reason": "Not evaluated",
