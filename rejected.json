@@ -1,5 +1,61 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "COSLUS ADA Accepted C20 Water Dental Flosser Pick, Professional Set Black, $7.99, Amazon",
+  "reason": "Posted at $7.99, but Amazon showed $35.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T17:21:36.790308Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Crocs Adult Baya Lined Clogs $30.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T17:21:36.790308Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "6-Piece Horsepower Waterproof Power Scrubber Gold Edition $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T17:21:36.790308Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Roxy Riviera Women's Sandals (Black) $16.80",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T17:21:36.790308Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Baby Trial Kit for $20 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T17:21:36.790308Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "First Alert Precision Detection, 10-year Battery Smoke and Carbon Monoxide Alarm, 2-pack $64.99 Free Shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T17:21:36.790308Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "First Alert Rechargeable Heavy Duty Fire Extinguisher UL Rated 3-A:40-BC $29.99 Free Shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T17:21:36.790308Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "cheapshark",
   "raw_title": "Alien Breed 2: Assault",
   "reason": "Not evaluated",
