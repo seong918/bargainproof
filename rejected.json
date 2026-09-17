@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "BEVA CAP02 Tire Inflator Portable Air Compressor, Fast Inflation Bike Pump with Digital Pressure Gauge and LED Light, 150PSI Portable Air Pump $14.99",
+  "reason": "Posted at $14.99, but Amazon showed $24.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T13:20:04.274272Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ecarke Cordless Cut Off Tool Compatible with DeWalt 20V Battery,3\" Circular Saw Brushless Motor with Blades $47.84",
+  "reason": "Posted at $47.84, but Amazon showed $54.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T13:20:04.274272Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas Men's Runfalcon 6 Wide Shoes for $29 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T13:20:04.274272Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Freestanding Fence-Style Garden Hose Holder for $18 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T13:20:04.274272Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "DYU M26 1000W Peak 26\" Electric Bike for $237 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T13:20:04.274272Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Pagani Design Men's Sports Multifunctional Quartz Watch Sapphire Stainless Steel Chronograph $58 + Free S/H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T13:20:04.274272Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Parker (Blu-ray) $5.00 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-17T13:14:42.769180Z",
