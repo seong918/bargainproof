@@ -1,6 +1,126 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Lisen Steel Gooseneck Adjustable Phone Holder Desk Mount $14.98 + Free S&H w/ Prime",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T14:19:15.261708Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Talix X7 Bluetooth 6.0 Water Resistant Open Ear Clip-On Earbuds $15.99",
+  "reason": "Posted at $15.99, but Amazon showed $29.74 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T14:19:15.261708Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Xroam 16.4ft x 1in Non-Abrasive Rubber Grip Tape (Hexagon) $3.49",
+  "reason": "Posted at $3.49, but Amazon showed $7.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T14:19:15.261708Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "ProsourceFit Exercise Weighted Training Vest 8lb $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T14:19:15.261708Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Quest Nutrition Ready To Drink Protein Shake Chocolate Non-Caffeinated 44 fl oz/4ct $6.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T14:19:15.261708Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Tone Fitness Black Weighted Vest, 12 Lbs $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T14:19:15.261708Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Taskstar Battery Powered Backpack Sprayer 4.2 Gallon $39.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T14:19:15.261708Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "SEESII Fuel Transfer Pump 1x4.0Ah Battery Auto-Stop Nozzle Cordless Pump Kit $80.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T14:19:15.261708Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Vivitar 4K Dual Sensor Dashcam with AI and Smart Alerts $49.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T14:19:15.261708Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "RARE Savings on Nike Air Force 1 Shoes | Popular Styles from $44.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T14:19:15.261708Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Round Trip Austin TX - Oahu Hawaii or Vice Versa $393 Airfares on Alaska/Hawaiian Airlines BE (Travel January - February 2027)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T14:19:15.261708Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Walmart – NULAS 27-Piece Griddle Accessories Kit - $23.49 w/ Code",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T14:19:15.261708Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Women's Madden Girl Georgiie Shoes from $19.60 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T14:19:15.261708Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Prime: Aaoyun Portable Charger Power Bank 20000mAh 22.5W PD Fast Charging $13.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T14:19:15.261708Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Prime: InnoGear 6 Pcs 27.36\" Faux Peonies Artificial Flowers for Vase $13.49 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T14:19:15.261708Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "3 Pack Teak Cutting Board Set for Kitchen Wood Charcuterie Board with Juice Groove Wooden Cutting Boards Non Toxic Heavy Duty Slip Over Sink Solid Thick Chopping Board FSC $29.49",
   "reason": "Posted at $29.49, but Amazon showed $58.98 when we checked — the deal is probably over",
   "rejected_at": "2026-09-17T14:13:52.647380Z",
