@@ -1,5 +1,77 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Snyder's of Hanover 11.25oz Cheddar Cheese Flavored Pretzel $2.72",
+  "reason": "Posted at $2.72, but Amazon showed $2.90 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T20:20:31.971634Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Amazon Basics Window Squeegee with Handle $5.58",
+  "reason": "Posted at $5.58, but Amazon showed $5.87 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T20:20:31.971634Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Vevor Commercial Under Counter & Freestanding Ice Maker Machine for $268 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T20:20:31.971634Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Gorilla Grip Garlic Peeler & Press Set for $14 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T20:20:31.971634Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Craftsman V20 20V Variable Speed Belt Sander (Tool Only) for $49 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T20:20:31.971634Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Squier Sonic Stratocaster Limited-Edition Electric Guitar for $175 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T20:20:31.971634Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "NEW Lowe’s Autumn Scent Candle Just $12.98 Shipped for Rewards Members (Early Access)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T20:20:31.971634Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Greenworks 24-volt 22-in Battery Hedge Trimmer- HT24B04 (tool only) $59.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T20:20:31.971634Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "20L Lovevook Women's Backpack w/ 15.6\" Laptop Compartment (Beige and Black) $13.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-17T20:20:31.971634Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "hip2save",
   "raw_title": "Stretchy Skeleton Toys 36-Count Only $7.49 on Amazon (Fun Trick-or-Treat Item)",
   "reason": "Not evaluated",
