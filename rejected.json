@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$40 FS AMAZON adidas Men's Daily 4.0 Sneakers in most popular sizes",
+  "reason": "Posted at $40.00, but Amazon showed $39.00 when we checked — the post is stale",
+  "rejected_at": "2026-09-17T13:41:34.982320Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "800W USB C Fast Charger Block Multi-port USB Charging Station $32.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T13:41:34.982320Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Little Tikes Easy Store Jr. Play Table with Umbrella $33.59",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T13:41:34.982320Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Comforter Sets from $13 on Amazon (Reg. $39)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T13:41:34.982320Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "828 Pcs LEGO Wednesday Thing’s Apartment Building Toy(76785) $53.99 + Free S&H at Amazon",
   "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
   "rejected_at": "2026-09-17T13:36:12.260079Z",

@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "f8a34dd70d09",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20027694-199-99-32-samsung-odyssey-g5-g50f-qhd-1440p-180hz-gaming-monitor-at-amazon",
+  "title": "32″ Samsung Odyssey G5 G50F QHD 1440p 180Hz Gaming Monitor",
+  "raw_title": "$199.99* | 32″ Samsung Odyssey G5 G50F QHD 1440p 180Hz Gaming Monitor at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0G1DZM5QW",
+  "deal_total_cents": 19999,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 19999,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 19999,
+  "amazon_url": "https://www.amazon.com/dp/B0G1DZM5QW",
+  "amazon_checked_at": "2026-09-17T13:41:45.322713Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0G1DZM5QW",
+  "image_url": null,
+  "published_at": "2026-09-17T13:41:34.982320Z"
+ },
+ {
   "deal_id": "931bceb10747",
   "source": "techbargains",
   "source_url": "https://www.amazon.com/gp/product/B004RZ63KK/ref=ox_sc_act_title_1",
