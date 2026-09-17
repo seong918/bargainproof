@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "6-Ct Four Candies 4-in-1 Multicolor 0.5mm Gel Ink Pens $5.84 & More w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T04:09:43.640286Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "15kPa, 500W DR.PREPARE Mattress Vacuum Cleaner, Corded Bed Vacuum, UV-C & Heat $42.99",
+  "reason": "Posted at $42.99, but Amazon showed $85.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T04:09:43.640286Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon – GrnOas.E 150-PSI Cordless Tire Inflator - $34.99 w/ Code",
   "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-17T04:04:19.434402Z",
