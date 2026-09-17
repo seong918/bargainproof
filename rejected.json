@@ -1,5 +1,77 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Mokuru 3-Mode RGB Switching Volume Adjustment Knob Wireless Mechanical Keyboard $39.19",
+  "reason": "Posted at $39.19, but Amazon showed $55.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T10:43:52.566378Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Kohl's Halloween Pet Costume Deals for From $5.94 + free shipping w/ $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T10:43:52.566378Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Macy's Best of the Season Watch Deals: Up to 77% off + extra 15% off + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T10:43:52.566378Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas Men's Daily 4.0 Shoes (Core Black / Cloud White / Gum) $27",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T10:43:52.566378Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$33.75: adidas Men's Questar 4 Running Shoes (Various) at adidas",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T10:43:52.566378Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Snyder's of Hanover Cheddar Cheese Flavored Pretzel Pieces, 11.25 Oz~$2.72 After Coupon & S&S @ Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T10:38:27.354028Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Amazon Essentials Men's Cotton Performance Cushioned No Show Socks (6-Pairs) $4.50",
+  "reason": "Posted at $4.50, but Amazon showed $4.74 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T10:38:27.354028Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Macy's Best of the Season Sale: Up to 77% off + extra 10% to 30% off + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T10:38:27.354028Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$29.25: adidas Men's Runfalcon 6 Cloudfoam Running Shoes (Black, Size 6.5 ~ 14) at adidas",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T10:38:27.354028Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$4.89* | 3\" Milwaukee Shockwave Magnetic Drive Guide at Amazon",
   "reason": "Posted at $4.89, but Amazon showed $8.55 when we checked — the deal is probably over",
