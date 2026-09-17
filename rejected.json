@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon – GrnOas.E 150-PSI Cordless Tire Inflator - $34.99 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T04:04:19.434402Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HOVERAir X1 PROMAX Standard, 8K Action Flying Camera, Foldable Follow Drone $489.3",
+  "reason": "Posted at $489.30, but Amazon showed $699.00 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T04:04:19.434402Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon – Osfvn 14\" Artificial Red Berry Stems, 12-Pack - $7.79 w/ Code",
   "reason": "Community score too low (+1) to pass without a price check — needs promo code, multi-pack, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-17T03:58:54.506231Z",
