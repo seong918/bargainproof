@@ -1,5 +1,37 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Silver Auctions on eBay Live for Deals from $1",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T08:50:47.196599Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$2.99 | Spanish English Illustrated Dictionary: A Bilingual Visual Guide to Over 10,000 Spanish Words and Phrases (eBook) by DK",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-17T08:50:47.196599Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Franklin Sports Outdoor Fun 5-Combo Set (Volleyball, Flip Toss & More) $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T08:45:23.279515Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "5 Plus 26\" and 20\" Windshield Wiper Blades (2-Pack) $9.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T08:45:23.279515Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "ZITY Men's Plaid Flannel Hoodie Shirt Jacket (Various Colors) $18.49 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
