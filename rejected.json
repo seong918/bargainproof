@@ -1,5 +1,125 @@
 [
  {
+  "source": "dealcatcher",
+  "raw_title": "WIHOLL Crewneck Sweatshirt Loose Fit Pullover $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T11:48:35.828839Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Sampeel Wide Leg Lounge Pants with Drawstring and Pockets $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T11:48:35.828839Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "SAMPEEL Lightweight Womens Sweaters Long Sleeve $6.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T11:48:35.828839Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Crewneck Long Sleeve Sweatshirt $11.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T11:48:35.828839Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ekouaer Womens Long Sleeve Lounge Set $11.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T11:48:35.828839Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Macy's Best of the Season Sectional Sofa Deals: Up to 78% off + extra 10% off + free delivery w/ $999",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T11:48:35.828839Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Open Box: LG 65” Class UA77 Series LED AI 4K UHD Smart webOS TV - $186.99 @ Best Buy",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T11:48:35.828839Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ekouaer Women's 2 Piece Matching Lounge Set $13.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T11:43:10.445592Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Nike Men's Burger Graphic Crewneck T-Shirt for $13 + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T11:43:10.445592Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas Men's JABBAR HI Shoes (2 Colors) $37.5",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T11:43:10.445592Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DreamWorks Dragons Trial of Flame Torch Tower Playset $5.71 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+3) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T11:37:46.230914Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$11-$18: Baby/Kids Toys @ Amazon (Fisher-Price, LeapFrog, Melissa & Doug, & VTech) $16.19",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-17T11:37:46.230914Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Chucky Dog Halloween Costume w/ Knife & Wig for $11 w/ Prime + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T11:37:46.230914Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DC/Batman 8-Game Universe Bundle (PC/Steam Digital Download) $12 via Green Man Gaming Bundles",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T11:37:46.230914Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "KPop Demon Hunters Vinyl - Amazon Exclusive Violet LP $22.07",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T11:37:46.230914Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$16.79: LeapFrog Prep for Preschool Activity Book",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
