@@ -1,5 +1,101 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Cool Maker PopStyle Expansion Pack Bracelet Making Kit $3.19 + Free Shipping w/ Prime or on orders over $35",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T18:04:54.645761Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "19-Oz Windex Fast Shine Foam Glass Cleaner Spray (Grapefruit) $2.97 + Free Shipping w/ Prime or on orders over $35",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T18:04:54.645761Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Totatuit Women 3/4 Sleeve Sweaters Crew Neck Lightweight Knit Sweater Top $5.99",
+  "reason": "Posted at $5.99, but Amazon showed $11.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T18:04:54.645761Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Simply Organic Ground Ceylon Cinnamon 2.08-Oz $5.48",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T18:04:54.645761Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Amazon Fire TV 55\" 4K UHD QLED Omni Series Smart TV $249.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T18:04:54.645761Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Yukicam Thermal Imaging Camera 240x240 TISR $103.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T18:04:54.645761Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Scenic 12-Day Bordeaux to London Cruise for From $22,538 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T18:04:54.645761Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Gochifix Cap Heat Press Machine for $70 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T18:04:54.645761Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Best-Selling Blackstone Tool Caddy Just $27.99 on Target.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T18:04:54.645761Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CAROTE 39-Pieces Ceramic Cookware Set, Nonstick Pots and Pans with Floral Detachable Handles, Induction Compatible, Diswasher Safe, Brown $119.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T18:04:54.645761Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Chane 740S on-wall SURROUND speakers with 92.5db sensitivity and Compression Driver tweeter, $499/pair",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T18:04:54.645761Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Northeast Region: 99 Restaurants - $8.99 Cheeseburger & Fries until 5pm on 9/18 Dine-In Only",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T18:04:54.645761Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "LEGO City: Airplane, Service Truck, & Hovercraft Mix & Match Remix (60505) 990-Pc $56.46",
   "reason": "Not evaluated",
