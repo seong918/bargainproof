@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Women's Textured V-Neck Cap Sleeve Top $5.54",
+  "reason": "Posted at $5.54, but Amazon showed $11.09 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T12:31:43.278045Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "6 Pcs Faux Silk Peony Artificial Flowers $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T12:31:43.278045Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Hontafe Under Cabinet Lighting 58 LED RGB $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T12:31:43.278045Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Monster 40W Portable Bluetooth Speaker $38.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T12:31:43.278045Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Cordless Weed Wacker & Weed Eater 2x4.0Ah Batteries $80.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T12:31:43.278045Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Electric Wire Welding Fixture for $1 + free shipping w/ $25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T12:31:43.278045Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "USB C Adapter Kit for $2 + free shipping w/ $25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T12:31:43.278045Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$15 WALMART Women's Avia Gel Running Sneakers in sizes 11, 7.5 and 8",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T12:31:43.278045Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$2.95 S&S Q Snyder's of Hanover Sourdough Nibblers Pretzels, 16 Oz",
   "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-17T12:26:23.855351Z",
