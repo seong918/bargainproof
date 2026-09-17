@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "dab7f3975f03",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20027508-ac-21-68-monopoly-star-wars-heroes-vs-villains-nintendo-switch-2-at-amazon",
+  "title": "Monopoly Star Wars Heroes vs. Villains (Nintendo Switch 2)",
+  "raw_title": "[AC] $21.68 | Monopoly Star Wars Heroes vs. Villains (Nintendo Switch 2) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0GSS8KWHW",
+  "deal_total_cents": 2168,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 2499,
+  "amazon_coupon_cents": 331,
+  "amazon_effective_cents": 2168,
+  "amazon_url": "https://www.amazon.com/dp/B0GSS8KWHW",
+  "amazon_checked_at": "2026-09-17T12:58:37.054560Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0GSS8KWHW",
+  "image_url": null,
+  "published_at": "2026-09-17T12:58:32.853828Z"
+ },
+ {
   "deal_id": "663c553900af",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20027469-new-ac-8-79-craftsman-tape-measure-25-foot-cmht37365s-at-amazon",

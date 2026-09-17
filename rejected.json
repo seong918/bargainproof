@@ -1,5 +1,101 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$3.29 | 5-Oz Dr. Natural Castile Bar Soap (Lavender) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-17T12:58:32.853828Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$6.97* | 4-Pk Fit + Fresh Cool Coolers Reusable Slim XL Ice Packs at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-17T12:58:32.853828Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Baseus MC1 Pro Open Ear Earbuds (3 Colors) $37 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-17T12:58:32.853828Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Dntorx Shoe Washing Machine Bags for Washer and Dryer (2-Piece) $9.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T12:58:32.853828Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Polywood Presidential Rocking Chair in Black $199.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T12:58:32.853828Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Tiny T. Rex Doll 8.5\" $10.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T12:58:32.853828Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Hayward DEX2400C DE Filter Top Collector Manifold $51.35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T12:58:32.853828Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Dune: Part Two Blu-Ray $8.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T12:58:32.853828Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "The Forgotten 500: The Untold Story of the Men Who Risked All for the Greatest Rescue Mission of World War II (Kindle eBook) $1.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T12:58:32.853828Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "OBX 8501 350W 36V Electric Scooter for $99 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T12:58:32.853828Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas Men's Terrex Eastrail 3 Shoes for $42 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T12:58:32.853828Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas Women's Response 2 Running Shoes (Pink Fusion / Purple Burst / Bliss Pink) $28.5",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T12:58:32.853828Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Catwoman: Hunted 4K Ultra HD + Blu-ray $11.49",
   "reason": "Not evaluated",
