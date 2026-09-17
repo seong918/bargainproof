@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "4ff157dc1b6f",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20027349-14-99-lady-gaga-harlequin-red-lp-at-amazon",
+  "title": "Lady Gaga: Harlequin (Red LP)",
+  "raw_title": "$14.99 | Lady Gaga: Harlequin (Red LP) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0DGYMQJ2W",
+  "deal_total_cents": 1499,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 1499,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1499,
+  "amazon_url": "https://www.amazon.com/dp/B0DGYMQJ2W",
+  "amazon_checked_at": "2026-09-17T12:26:28.573767Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0DGYMQJ2W",
+  "image_url": null,
+  "published_at": "2026-09-17T12:26:23.855351Z"
+ },
+ {
   "deal_id": "a576c60e2c2a",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20027310-new-128-homestyles-general-line-mobile-kitchen-cart-with-stainless-steel-top-and-drop-leaf-at-amazon",

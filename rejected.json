@@ -1,6 +1,78 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$2.95 S&S Q Snyder's of Hanover Sourdough Nibblers Pretzels, 16 Oz",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T12:26:23.855351Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Acebeam TAC AA 2.0 900-Lumen Ultra Long Range Tactical EDC Flashlight $23.08",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T12:26:23.855351Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Christmas Gnome Crewneck Long Sleeve Tops $11.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T12:26:23.855351Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas Men's Fall Shoe Deals for From $15, sneakers from $27 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T12:26:23.855351Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Stainless Steel NB1100 Deburring Tool Kit for $1 + free shipping w/ $25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T12:26:23.855351Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Nike NFL Salute to Service Deals at Fanatics: Up to 66% off + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T12:26:23.855351Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Firebat R3 AMD Ryzen 3 4300U Mini PC for $215 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T12:26:23.855351Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas Adult Germany Track Jacket $48",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T12:26:23.855351Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Sorel Women's ONA Ave Slip-On Sneaker, 3 colors, $24.99, FS Prime, Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T12:26:23.855351Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Prime Members: Acer Ergonomic Wireless BT Vertical Mouse w/ Side Scroll Wheel $16.99 + Free Shipping",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-17T12:21:02.605893Z",
