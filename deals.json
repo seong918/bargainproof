@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "2e32acedfafc",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20024355-amazon-vansoet-220v-to-110v-travel-voltage-converter-23-09-w-code",
+  "title": "Amazon – vansoet 220V-to-110V Travel Voltage Converter - w/ Code",
+  "raw_title": "Amazon – vansoet 220V-to-110V Travel Voltage Converter - $23.09 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0FGCP1JNF",
+  "deal_total_cents": 2309,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 3299,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 3299,
+  "amazon_url": "https://www.amazon.com/dp/B0FGCP1JNF",
+  "amazon_checked_at": "2026-09-17T06:46:47.691957Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 7,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0FGCP1JNF",
+  "image_url": null,
+  "published_at": "2026-09-17T06:46:43.981814Z"
+ },
+ {
   "deal_id": "1163b95bbca4",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20024436-90-x-90-seyfote-queen-cooling-comforter-gray-22-99-free-shipping-w-prime-or-on-35",
