@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "adidas Men's Lite Racer 4.0 Shoes (Various) $22",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T05:52:34.499381Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "RYOBI Hand Vacuum Accessory Kit w/ Crevice Tool, Floor Nozzle, Dust Brush & Flexible Hose $19.97 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T05:52:34.499381Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Mate Fruit Bars Variety Pack (40 Pack) - 100% Natural Real Fruit Snacks for Adults and Kids, $31.34",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-17T05:47:08.299468Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] Merach 3D Rocking Mini Stair Stepper w/ LCD Display (Black) $39.99 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T05:41:43.719342Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Elmer's Glue Stick 2pk 6G Disappearing Purple $0.5",
   "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-17T05:36:20.047314Z",
