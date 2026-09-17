@@ -1,5 +1,125 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Monoki Small Waterproof Travel First Aid Kit $6.29",
+  "reason": "Posted at $6.29, but Amazon showed $8.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T15:28:14.276860Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Gaiatop 4000mAh Rechargeable Electric Hand Warmers (Pair) $9.89",
+  "reason": "Posted at $9.89, but Amazon showed $14.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T15:28:14.276860Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Razer Tartarus V2 Left-Handed Gaming Keypad, 32 Programmable Keys $40.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T15:28:14.276860Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LEGO Super Mario: Mario Kart Baby Peach & Grand Prix Set Home Circuit - Nintendo Toy Building Set for Kids - Collectible Toy - 72036 $63.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T15:28:14.276860Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Linkind ST19 Dimmable Tunable White Smart LED Edison E26 Bulbs 4-Count $17.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T15:28:14.276860Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LEVEL8 - Adventure Carry-On 20 Inch Travel Bag $315 AC + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T15:28:14.276860Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "+11% Menard's rebate, Bristol 5 light chandelier, $11.22",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T15:28:14.276860Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Softsoap Hand Soap 50 oz Refill Bottle + $2 WMCB $5.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T15:28:14.276860Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ridgid Pneumatic 21-Degree 3-1/2\" Round Head Framing Nailer $179.00 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T15:28:14.276860Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2 Pack: Women's Long Sleeve Pajama Sets - V Neck Top and Pants Lounge sets $17.99",
+  "reason": "Posted at $17.99, but Amazon showed $37.88 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T15:22:50.785635Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ekouaer Fall Pajamas for Women Set Long Sleeve V Neck 2 Piece Lounge Sets $12.99",
+  "reason": "Posted at $12.99, but Amazon showed $19.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T15:22:50.785635Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon - Genmitsu Cubiko Desktop CNC Router w/ Enclosure - $299",
+  "reason": "Posted at $299.00, but Amazon showed $499.00 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T15:22:50.785635Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ekouaer Womens Pajamas Set Long Sleeve Loungewear Soft Joggers with Pockets $13.99",
+  "reason": "Posted at $13.99, but Amazon showed $34.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T15:22:50.785635Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Round Trip Houston - Long Beach CA or Vice Versa $199 Nonstop Airfares on Southwest Airlines BE (Travel December - February 2027)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T15:22:50.785635Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Best Buy Vinyl Sale: Childish Gambino \"Bando Stone And The New World\" $15; Lana Del Rey \"Born to Die\" $15 & Many More + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T15:22:50.785635Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Zeagoo Long Sleeve Tops for Women $5.99",
   "reason": "Posted at $5.99, but Amazon showed $11.99 when we checked — the deal is probably over",
