@@ -1,5 +1,117 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Prime Members: Acer Ergonomic Wireless BT Vertical Mouse w/ Side Scroll Wheel $16.99 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T12:21:02.605893Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Stainless Steel Nail Clippers for $1 + free shipping w/ $25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T12:21:02.605893Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Mini Glasses Cleaning Brush 5-Pack for $3 + free shipping w/ $25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T12:21:02.605893Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Blackhead Remover Tool 8-Piece Set for $3 + free shipping w/ $25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T12:21:02.605893Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "NFL Funko Pocket Pop! Advent Countdown Calendar for $55 + free shipping w/ code SHIP39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T12:21:02.605893Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "sz 6, 10.5, 9.5, Vans Women's Ashwood Hi Decon Shoe - High Top, $19.99, FS Prime, Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T12:21:02.605893Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "10-Piece Tasty Kitchen Knife Set w/ Block (White) $14.99 + Free Shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T12:21:02.605893Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] 2-Pack L LOHAS Rotating Acrylic Bubble LED Plug in Nightlight $9.59 + Free Shipping",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T12:15:37.638530Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Soleilwear 320RPM 2000mAh 2-Blade Rechargeable Cordless Cardboard Cutter $16.99",
+  "reason": "Posted at $16.99, but Amazon showed $29.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T12:15:37.638530Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Essential Oil Diffuser with Remote Control & Dual Mist Settings $15.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T12:15:37.638530Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Monster Open Ear AC336 Wireless Earbuds with Bluetooth 6.0 $29.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T12:15:37.638530Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Silicone Soda Can Lid 6-Pack for $2 + free shipping w/ $25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T12:15:37.638530Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "26\" SwissGear Cascade Hardside Large Checked Spinner Suitcase (Teal) $101.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T12:15:37.638530Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas Men's Samba Barstool Spikeless Golf Shoes (Sizes 11.5 - 15, Cloud White / Collegiate Green / Silver Green) $52.5",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T12:15:37.638530Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "SUPGALIY Dual Voltage Travel Hair Dryer $34.99",
   "reason": "Not evaluated",
