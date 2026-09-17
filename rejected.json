@@ -1,5 +1,37 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$349* | SKIL 10-1/4 In. Magnesium Worm Drive Circular Saw With Twist Lock- SPT70WM-71 at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-17T23:03:10.829638Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LAMTTO Wireless CarPlay Adapter 4GB+32GB $95.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T23:03:10.829638Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Tide PODS Laundry Detergent Downy April Fresh 4 x 32-Count $32.17",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T23:03:10.829638Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Tommy Hilfiger Men's Modern-Fit Seersucker Sport Coat for $50 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T23:03:10.829638Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "2 Pairs of Magnetic Holding Hands Socks for $13 + free shipping w/ Prime",
   "reason": "Not evaluated",
