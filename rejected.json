@@ -1,5 +1,181 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$31.90: Agave In The Raw Organic Agave Nectar, 18.5 oz, 8 Pack",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-17T15:06:49.213168Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Workpro 8\" Corrosion-Resistant Electrical Disconnect Pliers With Soft Ergonomic Handle $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $14.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T15:06:49.213168Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Foxvilla Water Skipping Ball Set $8.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T15:06:49.213168Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Headlight Restoration Kit 2-Pack $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T15:06:49.213168Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Samsung Galaxy Z Fold8 Unlocked Android Smartphone 256GB $1,649.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T15:06:49.213168Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Solar Torch Light 10-Pack $20.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T15:06:49.213168Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Tuxedo Sailor Inflatable Gymnastics Mat 10ft x 3.3ft x 4inch $47.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T15:06:49.213168Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "TaskStar Cordless Reciprocating Saw Kit $34.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T15:06:49.213168Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "50-Pack 9\" Round Aluminum Foil Pans with Clear Lids $18.89",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T15:06:49.213168Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "AIRTOK Pet Air Purifier for Home Large Room Up to 2240 Ft² $47.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T15:06:49.213168Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Open-Ear Bone-Conduction Headphones for $18 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T15:06:49.213168Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Craftsman V20 20V 2-Tool Cordless Drill/Driver & Impact Driver Combo Kit (w/ Battery & Charger) $79 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T15:06:49.213168Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "KEMIMOTO Dual 240W Motors ApexR Electric Golf Push Cart with Remote Control and 492ft Remote Range $768 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T15:06:49.213168Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HP OmniBook 17.3\" FHD Laptop w/ Core Ultra 7 255U 16GB DDR5 & 512GB SSD (Mica Silver) $899.00 + Free Shipping",
+  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-17T15:01:30.811922Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Cute Standing Ghosts with Pumpkin Buckets 2-Pack $35.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T15:01:30.811922Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Dr. Martens Womens Amaayah Hi Leather Bex Riding Boots Butterscotch $132.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T15:01:30.811922Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Halloween Candles 3-Pack $11.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T15:01:30.811922Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ozark Trail 50F Rectangular Sleeping Bag (33\" x 75\") $13.38",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T15:01:30.811922Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Lenovo 27\" QHD 100Hz USB-C Monitor $145.35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T15:01:30.811922Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Windstar 11-Night Leeward Islands Cruise for From $15,076 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T15:01:30.811922Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Gracie Oaks 14-Drawer Storage Cabinet for $63 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T15:01:30.811922Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "On Men's Cloudsurfer Max Running Shoes (Pelican/Limelight) $83.97 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T15:01:30.811922Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Instrodots Digital Circuit Breaker Finder with GFCI Outlet Tester $22.99",
   "reason": "Posted at $22.99, but Amazon showed $37.99 when we checked — the deal is probably over",
