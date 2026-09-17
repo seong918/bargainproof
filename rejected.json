@@ -1,6 +1,118 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$399.99* | 32GB Amazon Kindle Scribe (newest model) at Amazon",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-17T17:43:17.382869Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "SmartTrends 2-Pack Adjustable Stove Gap Covers $6.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T17:43:17.382869Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "AirWhisper 16-in-1 Indoor Air Quality Monitor $70.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T17:43:17.382869Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "EUARNE IPL Laser Hair Removal for Women with Ice Cooling $71.28",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T17:43:17.382869Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "EKoBRIT Washing Machine Cleaner Tablets 24-Count $8.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T17:43:17.382869Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "SWISSWELL Men's Waterproof Rain Jacket $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T17:43:17.382869Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Aaoyun Portable Charger Power Bank 20000mAh 22.5W PD Fast Charging $13.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T17:43:17.382869Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Bamboo Rayon Cooling Pillowcases - 2-Pack $4.92",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T17:43:17.382869Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Thomasville Davos Swivel Chairs 2-Pack for $380 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T17:43:17.382869Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Women's V-Neck Dry Fit Long Sleeve Workout Top for $7 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T17:43:17.382869Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "NCAA & NFL Clear Crossbody Bags Just $14.98 on SamsClub.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T17:43:17.382869Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "First Alert Z-Wave Battery Smoke and CO Alarm Works with Ring, 2-pack $79.99 Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T17:43:17.382869Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Round Trip Boston to Madrid Spain $366-$371 Airfares on Iberia Basic Economy (travel October 2026 - April 2027)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T17:43:17.382869Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] wegear 100W GaN 3-Port Slim Foldable USB-C Wall Charger $19.99 + Free Shipping",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-17T17:43:17.382869Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$6.71 | Men's Hanes EcoSmart Fleece Hooded Sweatshirt (Safety Green) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-17T17:37:54.372489Z",
