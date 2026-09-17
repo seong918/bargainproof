@@ -1,6 +1,102 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Zeagoo Long Sleeve Tops for Women $5.99",
+  "reason": "Posted at $5.99, but Amazon showed $11.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T15:17:31.354358Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Sour Patch Kids 3.6oz Soft & Chewy Candy (12-Pack) $6.59",
+  "reason": "Posted at $6.59, but Amazon showed $9.88 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T15:17:31.354358Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Pinspark Men's Lightweight Baggy Sweatpants with Pocket $10.99",
+  "reason": "Posted at $10.99, but Amazon showed $23.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T15:17:31.354358Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Pepperidge Farm 7.2oz Sausalito Crispy Milk Chocolate Macadamia Nut Cookies (8-Cookies) $3.39",
+  "reason": "Posted at $3.39, but Amazon showed $3.62 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T15:17:31.354358Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Apple Watch Series 12 GPS 42mm Smartwatch $389 | 46mm $489",
+  "reason": "Posted at $489.00, but Amazon showed $389.99 when we checked — the post is stale",
+  "rejected_at": "2026-09-17T15:17:31.354358Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Aveeno Skin Relief Fragrance-Free Moisturizing Body Lotion 33-Oz $11.67",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T15:17:31.354358Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "FreAire Bedroom Air Purifier for $18 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T15:17:31.354358Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "lululemon Underwear Specials for From $14, multipacks from $39 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T15:17:31.354358Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2/$10 AUTO ZONE PICK UP Gumout Fuel System Cleaner",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T15:17:31.354358Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Kobalt 50-Piece Titanium HSS Twist Drill Bit Set (89389) $19.98 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T15:17:31.354358Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2/$6 AUTO ZONE PICK UP ShopPro Fuel System Cleaner SPCFSC",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T15:17:31.354358Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Skil CB5196B-11 20V Lithium Battery & Charger Starter Kit $34.73",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T15:17:31.354358Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Ayura Retractable Garden Hose Reel 1/2 Inch x 100 ft,Automatic Slow Rewind System $63.99",
   "reason": "Posted at $63.99, but Amazon showed $79.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-17T15:12:10.483185Z",
