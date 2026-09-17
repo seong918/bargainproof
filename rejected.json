@@ -1,5 +1,45 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Technicians Choice TEC582 1-Gallon Automotive Ceramic Detail Spray $25.64",
+  "reason": "Posted at $25.64, but Amazon showed $28.49 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T11:16:08.827650Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Beipegin 3-Piece Mexican Dog Costume for $11 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T11:16:08.827650Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "New Balance Men's Fresh Foam Arishi v4 Shoes for $45 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T11:16:08.827650Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Incamity Electric Foot Callus Remover for $10 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T11:16:08.827650Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas Men's Grand Court 3.0 Shoes (Light Brown / Off White / Chalky Brown) $31.5",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T11:16:08.827650Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Tire Repair Rubber Nail 60-Piece Kit for $5 + free shipping w/ Prime",
   "reason": "Not evaluated",
