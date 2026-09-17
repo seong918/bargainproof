@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "2-Pack FINENUT Silicone Spoonula w/ Wood Handle & S-Hooks (Black & Gray) $8.24, More + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T10:00:46.961763Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "6.23\" Smith & Wesson ExtremeOps CK404 Folding Knife w/ 2.65\" Tanto Blade $10.89 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T10:00:46.961763Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Windstar 11-Night French Polynesia & Marquesas Cruise for From $11,804 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T10:00:46.961763Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Hanes Men's Moisture-Wicking Tagless Briefs 6-Pack for $19 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T10:00:46.961763Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$4.84 | 8-Count Energizer MAX AA Batteries at Amazon (60.5￠ each)",
   "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-17T09:55:24.043762Z",
