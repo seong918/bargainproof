@@ -1,5 +1,21 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$4.89* | 3\" Milwaukee Shockwave Magnetic Drive Guide at Amazon",
+  "reason": "Posted at $4.89, but Amazon showed $8.55 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T10:33:05.157672Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$28.5: adidas Women's Response 2 Running Shoes(Bliss Pink, Size 5 ~ 9.5) at adidas",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T10:33:05.157672Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Pepperidge Farm 6.9oz Farmhouse Thin & Crispy Toffee Chocolate Cookies $3.39",
   "reason": "Posted at $3.39, but Amazon showed $3.62 when we checked — the deal is probably over",
