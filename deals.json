@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "8c60cc0688d5",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20025531-24-99-metaphor-refantazio-launch-edition-playstation-5-at-amazon",
+  "title": "Metaphor: ReFantazio Launch Edition (PlayStation 5)",
+  "raw_title": "$24.99* | Metaphor: ReFantazio Launch Edition (PlayStation 5) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0D2FY9H73",
+  "deal_total_cents": 2499,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 2499,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 2499,
+  "amazon_url": "https://www.amazon.com/dp/B0D2FY9H73",
+  "amazon_checked_at": "2026-09-17T00:55:01.637746Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0D2FY9H73",
+  "image_url": null,
+  "published_at": "2026-09-17T00:54:57.166568Z"
+ },
+ {
   "deal_id": "620a0f1c4cc0",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20025177-34-99-metroid-prime-4-beyond-nintendo-switch-physical-at-amazon",
