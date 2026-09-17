@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Old Spice Antiperspirant Deodorant Invisible Solid, Swagger with Cedarwood Scent, 3.4 oz $3.77 with S/S",
+  "reason": "Posted at $3.77, but Amazon showed $3.97 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T23:19:28.334667Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Bestier 35\" W Power Lift Recliner Chair w/ 8-Point Massage & Heating for $399 + free delivery",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T23:19:28.334667Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Lowe's 5-Gallon Insulated Beverage Cooler for $28 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T23:19:28.334667Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LG 86\" UA9000 4K UHD TV 120Hz + 5‑Year Protection Plan Included $699.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T23:19:28.334667Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas Men's Daily 4.0 Shoes (Core Black / Cloud White / Gum) $25.2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T23:19:28.334667Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "IDL Packaging Round Packages Strapping Tool Set for 1/2\" Steel Strapping, 1100 lbs Break Strength – Tensioner, Sealer $214.66",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-17T23:14:02.949908Z",
