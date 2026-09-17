@@ -1,5 +1,21 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "LEGO Creator 3-in-1 Exotic Parrot Building Set (31136) $15.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T20:25:57.941031Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Active Pet Laundry Detergent 2-lb. Container for $15 via Sub & Save + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T20:25:57.941031Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Snyder's of Hanover 11.25oz Cheddar Cheese Flavored Pretzel $2.72",
   "reason": "Posted at $2.72, but Amazon showed $2.90 when we checked — the deal is probably over",
