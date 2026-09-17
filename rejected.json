@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS, AC] $6.54* | 12-Pack 3.5-Oz Gerber Stage 2 Baby Food (Apple Sweet Potato with Cinnamon) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, multi-pack, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T23:24:52.402839Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas Women's Terrex Free Hiker 2.0 Gore-Tex Hiking Shoes (Core Black / Core Black / Cloud White) $77",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T23:24:52.402839Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas Men's Daily 4.0 Shoes (Clay / Core Black / Core White) $27.3",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T23:24:52.402839Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Old Spice Antiperspirant Deodorant Invisible Solid, Swagger with Cedarwood Scent, 3.4 oz $3.77 with S/S",
   "reason": "Posted at $3.77, but Amazon showed $3.97 when we checked — the deal is probably over",
   "rejected_at": "2026-09-17T23:19:28.334667Z",
