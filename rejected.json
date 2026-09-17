@@ -1,5 +1,149 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "6-L adidas Excelerator Insulated Lunch Bag Lunchbox (Gradient Rose Tone Pink/Onix Grey) $13.26 + Free Shipping w/ Prime or on orders over $35",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T20:09:41.287608Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "8-Pack Chapou 12-Digit Solar & Battery Desktop Calculator (Blue) $11.89 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T20:09:41.287608Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Amazon Basics 60-Serving Creatine Monohydrate Powder for $9.58 w/ Subscribe & Save + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T20:09:41.287608Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "allen + roth Emerald Cove 2-Piece Patio Conversation Set for $175 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T20:09:41.287608Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Active Jetted Tub Cleaner Tablets 12-Pack for $16 via Sub & Save + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T20:09:41.287608Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Spalding Men's No-Show Socks 30-Pack for $8 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T20:09:41.287608Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Seat Iryanna Velvet Upholstered Loveseat (Pink) $127.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T20:09:41.287608Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$9.99* | 30-Oz Gatorade Gx Plastic Squeeze Bottle at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-17T20:04:15.574618Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Snclriao Solar Turtle Garden Decor Outdoor Statue, 7 Succulent LED Lights $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $19.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T20:04:15.574618Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Emerald Cruises 7-Night Caribbean Cruise for From $10,636 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T20:04:15.574618Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Wilson NCAA Street Shot Outdoor Basketball - Brown, Size 7 - 29.5\" $13.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T20:04:15.574618Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GymShark Last Chance Sale - Up to 50% off Last Chance Styles $36",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T20:04:15.574618Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DOWRY Toilet Bowl Brush and Holder for Bathroom, Silver – $11.99 at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-17T19:58:49.079085Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Bears in Space",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:58:49.079085Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Red Faction: Armageddon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:58:49.079085Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Hohner PentaHarp Harmonica 6-Pack for $100 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:58:49.079085Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Quest Zion Cross Vent 8 Person Tent $99.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:58:49.079085Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Call of Duty: Black Ops 7 (Xbox One / Series X) - $18.40 + Free S&H @ eBay",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:58:49.079085Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Bass Creek Outfitters Men's Duck Canvas Sherpa Lined Jacket for $18 + free shipping w/ $35",
   "reason": "Not evaluated",
