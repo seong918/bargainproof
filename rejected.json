@@ -1,5 +1,29 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Elmer's Glue Stick 2pk 6G Disappearing Purple $0.5",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-17T05:36:20.047314Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Countertop Self-Cleaning Ice Maker for $60 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T05:36:20.047314Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "2nd-Gen. Apple AirTag for $24, or 4 for $89 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T05:30:53.985156Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Huffy Vertis 27.5\" Electric Mountain Bike for $520 + free shipping",
   "reason": "Not evaluated",
