@@ -1,5 +1,21 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Peanuts Flying Ace Remote Control Toy for $6 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T01:11:11.668169Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$59.50 FS Get $10 KOHLS CASH Men's Nike Court Vision Low Sneakers sizes 9.5-13 (exc 12.5)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T01:11:11.668169Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$5.37 AMAZON FNTCASE for Galaxy A17/A16 5G Phone Case: Dual Layer Samsung A17 5G Cover (BLACK)",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
