@@ -1,5 +1,13 @@
 [
  {
+  "source": "hip2save",
+  "raw_title": "Stretchy Skeleton Toys 36-Count Only $7.49 on Amazon (Fun Trick-or-Treat Item)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T20:15:06.265572Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "6-L adidas Excelerator Insulated Lunch Bag Lunchbox (Gradient Rose Tone Pink/Onix Grey) $13.26 + Free Shipping w/ Prime or on orders over $35",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
