@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "4a04b1f81e34",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20028366-amazon-kades-grade-2-titanium-silicone-apple-watch-ultra-band-27-59-w-code",
+  "title": "Amazon - KADES Grade 2 Titanium/Silicone Apple Watch Ultra Band - w/ Code",
+  "raw_title": "Amazon - KADES Grade 2 Titanium/Silicone Apple Watch Ultra Band - $27.59 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0G8FM1P8R",
+  "deal_total_cents": 2759,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 4599,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 4599,
+  "amazon_url": "https://www.amazon.com/dp/B0G8FM1P8R",
+  "amazon_checked_at": "2026-09-17T21:03:55.637603Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0G8FM1P8R",
+  "image_url": null,
+  "published_at": "2026-09-17T21:03:50.773228Z"
+ },
+ {
   "deal_id": "38435f5efb28",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20029812-159-20-ego-psa1020-10-carbon-fiber-pole-saw-attachment-tool-only-at-amazon",
