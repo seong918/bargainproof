@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "3-Pack Solar Sunflower Garden Stake Lights w/ 18 Flower Heads & 54 LEDs $14.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T07:13:45.522904Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SWISSGEAR Energie Hardside Medium Checked Spinner Suitcase - Black $54.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T07:13:45.522904Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Lionsgate Digital Movies $3.99 wyb 3+",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T07:08:21.190744Z",
