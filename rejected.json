@@ -1,6 +1,86 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS, AC] $9.16 | 2 × 6-Pack 16.9-Oz Gold Peak Diet Tea (Zero Sugar Sweet Tea) ($4.58 each) at Amazon (76.3￠ each)",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, multi-pack, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T17:48:41.917456Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "ThermoMaven Rechargeable Salt & Pepper Grinder Set 110ml $20.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T17:48:41.917456Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Metroid Ravenous Nintendo Switch 2 $59.88",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T17:48:41.917456Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Soothfeel Women's High Rise Straight Leg Yoga Dress Pants $16.79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T17:48:41.917456Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "ORICO 128GB USB C Flash Drive 150MB/S $14.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T17:48:41.917456Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Nature's Way Rest & Restore Melatonin-Free Sleep Supplement 30-Count Capsules $5.87",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T17:48:41.917456Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Katerk Cordless Hot Glue Gun with 50 Mini Glue Sticks $12.46",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T17:48:41.917456Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Snackles Halloween Plush Toys Just $9.99 on Kohls.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T17:48:41.917456Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Astercook Large Bamboo Cutting Board for Kitchen | Natural Bamboo Cutting Board, 16 x 12 Inch, with Juice Groove and Handle for Kitchen Prep and Serving: Home & Kitchen $7.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T17:48:41.917456Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Supernova rise 3 running shoes $77",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T17:48:41.917456Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$399.99* | 32GB Amazon Kindle Scribe (newest model) at Amazon",
   "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-17T17:43:17.382869Z",
