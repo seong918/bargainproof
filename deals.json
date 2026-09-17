@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "eadd8f83a93f",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20029266-3-pack-8-oz-nutrail-nut-granola-cereal-variety-pack-11-25-3-75-each-w-s-s-free-shipping-w-prime-or-on-35",
+  "title": "3-Pack 8-Oz NuTrail Nut Granola Cereal Variety Pack w/ S&S + or on",
+  "raw_title": "3-Pack 8-Oz NuTrail Nut Granola Cereal Variety Pack $11.25 ($3.75 Each) w/ S&S + Free Shipping w/ Prime or on $35+",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1125,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "sns",
+   "prime",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-17T22:57:45.778532Z"
+ },
+ {
   "deal_id": "fddf6d600c75",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20028015-amazon-ekobrit-24-count-washing-machine-cleaner-tablets-8-99-w-code",
