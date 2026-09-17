@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "afdc403830bd",
+  "source": "techbargains",
+  "source_url": "https://www.amazon.com/gp/product/B0BVSRNZSB/ref=ox_sc_act_title_1",
+  "title": "ClearSpace Heavy Duty Moving Bags with Lids (29\"x13\"x14\", 6-Pack)",
+  "raw_title": "ClearSpace Heavy Duty Moving Bags with Lids (29\"x13\"x14\", 6-Pack) $19.99",
+  "merchant": "amazon",
+  "buy_url": "https://www.amazon.com/gp/product/B0BVSRNZSB/ref=ox_sc_act_title_1",
+  "deal_total_cents": 1999,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "qty"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 3999,
+  "amazon_coupon_cents": 2000,
+  "amazon_effective_cents": 1999,
+  "amazon_url": "https://www.amazon.com/dp/B0BVSRNZSB",
+  "amazon_checked_at": "2026-09-17T09:34:14.366077Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": null,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0BVSRNZSB",
+  "image_url": null,
+  "published_at": "2026-09-17T09:33:50.821032Z"
+ },
+ {
   "deal_id": "a156d7654ed4",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20026317-8-workpro-sk5-steel-bypass-pruning-shears-w-dual-size-opening-6-99-free-shipping-w-prime-or-on-35",

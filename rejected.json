@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "2-Pack 6' IDISON 3-in-1 Multi Charging Cable (Lightning, USB-C & Micro USB) $4.49 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+-2) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T09:33:50.821032Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $5.40 | Amazon Essentials Men's Long Sleeve Moisture Wicking Performance Tech Workout Crew Neck T-Shirt at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T09:33:50.821032Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Baseus 3-in-1 100W 3-Port USB-C GaN Compact Wall Charger $21.39",
+  "reason": "Posted at $21.39, but Amazon showed $34.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T09:33:50.821032Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Apron Maven Complete Sourdough Starter Kit (Glass Jar with Lid, Kitchen Scale and More) $18.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T09:28:26.690643Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Dell All-in-One Desktop PCs at Woot for From $500 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T09:28:26.690643Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Kohl's Sandals Deals: 40% off + free shipping w/ $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T09:23:01.973692Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "George Men's 100% Cotton Short Sleeve Slub Pocket Tee (Various, Sizes X-Small - Medium) from $2.21 + Free S&H w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T09:17:37.648670Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Kohl's Sephora Beauty Sale: 50% off + free shipping w/ $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T09:12:12.406362Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Citizen Men's Classic Addysen Eco-Drive Watch, 3-Hand Date, Sapphire Crystal, Stainless/ Gray Dial $212.5",
   "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-17T09:06:50.697885Z",
