@@ -1,5 +1,21 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "REI Co-op Lifetime Membership: Free w/ $50 Purchase + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T11:00:00.575462Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Floopi Men’s Microsuede Moccasin Slipper with Bow (Pick Color & Size) - $18.99 @ Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T11:00:00.575462Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Aootek 120-LED Outdoor Waterproof Solar Motion Sensor Lights (6-Pack) $15.49",
   "reason": "Posted at $15.49, but Amazon showed $30.99 when we checked — the deal is probably over",

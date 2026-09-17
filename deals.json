@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "92bc4f383960",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20027040-10-44-amazon-basics-height-adjustable-foldable-guitar-stand-at-amazon",
+  "title": "Amazon Basics Height Adjustable Foldable Guitar Stand",
+  "raw_title": "$10.44* | Amazon Basics Height Adjustable Foldable Guitar Stand at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0BG7JWCHV",
+  "deal_total_cents": 1044,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 1044,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1044,
+  "amazon_url": "https://www.amazon.com/dp/B0BG7JWCHV",
+  "amazon_checked_at": "2026-09-17T11:00:06.129287Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0BG7JWCHV",
+  "image_url": null,
+  "published_at": "2026-09-17T11:00:00.575462Z"
+ },
+ {
   "deal_id": "610832ef132a",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20027025-ac-6-66-dewalt-dw1611-3-8-inch-by-6-inch-aircraft-black-oxide-drill-bit-at-amazon",
