@@ -1,5 +1,37 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Pepperidge Farm 6.9oz Farmhouse Thin & Crispy Toffee Chocolate Cookies $3.39",
+  "reason": "Posted at $3.39, but Amazon showed $3.62 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T10:27:42.285531Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Traeger Grills Timberline Wood Pellet Grill for $760 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T10:27:42.285531Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bose Ultra Open Earbuds - Refurbished LIKE NEW 1 YEAR BOSE WARRANTY $159",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T10:27:42.285531Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Cinnamoroll Womens Molded Platform Slides (Sizes 8 & 9) - $3.50 @ Walmart",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T10:27:42.285531Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "[NEW] $50 | 3-Oz Gucci Guilty For Women Eau De Parfum Spray at Amazon",
   "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
