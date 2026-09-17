@@ -1,6 +1,78 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "G-GRADUAL Long Sleeve Workout V Neck Dry Fit Tops for Women $7.49",
+  "reason": "Posted at $7.49, but Amazon showed $12.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T19:26:17.979204Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Bissell Crosswave Turbo Vacuum Mop All in One Wet and Dry Vac Combo Hard Floor & Area Rug Cleaner, 3888A $169.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:26:17.979204Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Homicozy 2-in-1 Mermaid Magnetic Puzzle Book for Kids (72-Piece) $4.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:26:17.979204Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Active Ice Machine Cleaner Descaler Tablets 24-Pack for $15 via Sub & Save + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:26:17.979204Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "37\" Umbrella Hat for $8 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:26:17.979204Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Vevor 100-Foot x 3/8\" Auto Feed Drain Cleaning Machine for $270 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:26:17.979204Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Wrangler Men's Full-Zip Utility Sweater Hoodie for $14 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:26:17.979204Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Duxot / Islander collab auto watch $135",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T19:26:17.979204Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$32.49* | 40-Oz Owala FreeSip Insulated Stainless Steel Water Bottle w/ Straw (Very, Very Dark) at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-17T19:26:17.979204Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$5.99* | Bulex Golf Club Groove Sharpener (Various Colors) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-17T19:20:53.922643Z",
