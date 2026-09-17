@@ -1,5 +1,45 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "adidas FIFA World Cup 26 Trionda Soccer Ball Size 3 for $10 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T11:21:32.026368Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Monoki Mini Waterproof Portable First Aid Kit for $9 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T11:21:32.026368Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Makeup Sponge 5-Pack Only $2 Shipped on Amazon (40¢ Each)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T11:21:32.026368Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas Women's Terrex Free Hiker 2.0 Gore-Tex Hiking Shoes (Core Black / Core Black / Cloud White) $82.5",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T11:21:32.026368Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$33.75: adidas Men's JABBAR LO Shoe(Black, Size 5~14, no 13.5) at adidas",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T11:21:32.026368Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Technicians Choice TEC582 1-Gallon Automotive Ceramic Detail Spray $25.64",
   "reason": "Posted at $25.64, but Amazon showed $28.49 when we checked — the deal is probably over",
