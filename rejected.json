@@ -1,5 +1,21 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Aootek 120-LED Outdoor Waterproof Solar Motion Sensor Lights (6-Pack) $15.49",
+  "reason": "Posted at $15.49, but Amazon showed $30.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T10:54:38.792374Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Macy's Best of the Season Fragrance Deals: Extra 15% off + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T10:54:38.792374Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$494.99* | BOSCH GSH18V-5L SDS-max Demolition Hammer at Amazon",
   "reason": "Out of stock on Amazon when we checked",
