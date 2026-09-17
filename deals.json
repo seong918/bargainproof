@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "8ee4c53910ec",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20028126-amazon-cionum-2-pack-60w-usb-c-chargers-w-6-cables-13-49-w-code",
+  "title": "Amazon - Cionum 2-Pack 60W USB-C Chargers w/ 6' Cables - w/ Code",
+  "raw_title": "Amazon - Cionum 2-Pack 60W USB-C Chargers w/ 6' Cables - $13.49 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0GVDYYTMK",
+  "deal_total_cents": 1349,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 2699,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 2699,
+  "amazon_url": "https://www.amazon.com/dp/B0GVDYYTMK",
+  "amazon_checked_at": "2026-09-17T18:37:37.909471Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0GVDYYTMK",
+  "image_url": null,
+  "published_at": "2026-09-17T18:37:28.365108Z"
+ },
+ {
   "deal_id": "500dd56f166c",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20028729-sns-ac-6-38-12-pk-1-69-oz-luna-protein-snack-bars-lemon-zest-at-amazon",
