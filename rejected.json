@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "2-Pack BONLION Flickering Flame Hanging Solar Lanterns $13.49 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T03:21:06.618875Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Phomemo D30 Bluetooth Mini Thermal Label Maker Printer (Green, Pink or White) $9.78 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T03:21:06.618875Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Lefant Robot Vacuum and Mop, Smart Mapping and Obstacle Avoidance, Tangle-Free Pet Hair, Grey $89.99",
+  "reason": "Posted at $89.99, but Amazon showed $199.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T03:21:06.618875Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Assassin's Creed Shadows (PlayStation 5, Xbox Series X) - $29.99 @ Best Buy",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T03:21:06.618875Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "VTech Go! Go! Smart Wheels Dueling Spinning Spirals Raceway Playset $17.99 + Free S&H w/ Prime or $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T03:15:41.483111Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "50% off 4x6 prints $0.2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T03:15:41.483111Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Anself 61 Keys Kids Digital Music Electronic Keyboard Electric Piano Beginner Keyboard for Girls & Boys, Ages 4-8, 9-12, 13-19 with Microphone $20.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T03:15:41.483111Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "COOFANDY Men's 2-Piece Full-Zip Tracksuit (various) from $18.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-17T03:10:17.471747Z",
