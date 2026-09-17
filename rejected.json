@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$4.84 | 8-Count Energizer MAX AA Batteries at Amazon (60.5￠ each)",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-17T09:55:24.043762Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] 3-Pack 5' Mitesbony 240W USB-C to USB-C Cable w/ Built-in Phone Stand (Black) $9.99 ($3.33 each) + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T09:55:24.043762Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Celox Dish Brush with Soap Dispenser (2-Pack) $6.83",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T09:55:24.043762Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Kohl's NFL Fan Shop Deals: Up to 80% off + free shipping w/ $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T09:55:24.043762Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Kohl's Men's Suits Deals for From $30 + free shipping w/ $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T09:44:36.151808Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "2-Pack 6' IDISON 3-in-1 Multi Charging Cable (Lightning, USB-C & Micro USB) $4.49 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+-2) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-17T09:33:50.821032Z",
