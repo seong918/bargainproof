@@ -1,6 +1,118 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$25.29 ac FS AMZ Bruno Marc Men's Casual Dress Shoes Business Oxfords",
+  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-17T13:46:56.629485Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "The Train Robbers (Blu-ray) $7.77 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-17T13:46:56.629485Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "(8 Pack) KOOPER Solar Taller Solar Pathway Lights Outdoor, IP65 (Warm White) $29.99",
+  "reason": "Posted at $29.99, but Amazon showed $39.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T13:46:56.629485Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Geek Lighting Men's Sherpa Lined Flannel Shirt Jacket $19.99",
+  "reason": "Posted at $19.99, but Amazon showed $39.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T13:46:56.629485Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "NewGf 350ml 12oz Stainless Steel Milk Frothing Pitcher $12.49",
+  "reason": "Posted at $12.49, but Amazon showed $24.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-17T13:46:56.629485Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Nike Men's Vomero 18 Running Shoes $84.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T13:46:56.629485Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Reebok Boys' Hooded Packable Jacket $25.03",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T13:46:56.629485Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "JOYFY Mini Indoor Basketball Hoop Light Up Over The Door $15.07",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T13:46:56.629485Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Men's Sherpa Lined Full Zip Hoodie $16.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T13:46:56.629485Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "SONGMICS Foldable Lap Desk 15.7\"D x 23.6\"W x 10.6\"H Natural $25.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T13:46:56.629485Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "ECOFLOW River 3 Max 560 Portable Power Station $314.50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T13:46:56.629485Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Cheersonic Digital Torque Wrench 3/8\" Drive Set for $80 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T13:46:56.629485Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "The Black Crowes - Shake Your Money Maker (2020 Remaster) - Vinyl $19.58",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T13:46:56.629485Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$42.75 Shoe Warehouse/EBAY Men's Calvin Klein Acre Black Walking Sneakers Casual Shoes CMACRE Size 12",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-17T13:46:56.629485Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$40 FS AMAZON adidas Men's Daily 4.0 Sneakers in most popular sizes",
   "reason": "Posted at $40.00, but Amazon showed $39.00 when we checked — the post is stale",
   "rejected_at": "2026-09-17T13:41:34.982320Z",
