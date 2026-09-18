@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "65b3075946ad",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20033277-post-malone-austin-vinyl-lp-19-99-best-buy",
+  "title": "Post Malone - Austin - VINYL LP Best Buy",
+  "raw_title": "Post Malone - Austin - VINYL LP $19.99 Best Buy",
+  "merchant": "bestbuy.com",
+  "buy_url": "https://www.amazon.com/dp/B0C5MZVHSX",
+  "deal_total_cents": 1999,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 1999,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1999,
+  "amazon_url": "https://www.amazon.com/dp/B0C5MZVHSX",
+  "amazon_checked_at": "2026-09-18T16:08:58.784261Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 0,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0C5MZVHSX",
+  "image_url": null,
+  "published_at": "2026-09-18T16:08:50.707229Z"
+ },
+ {
   "deal_id": "0c01e5fa19ac",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20033106-sns-ac-prime-2-93-4-14-5-oz-amazon-grocery-petite-diced-tomatoes-73-4-each-at-amazon",
