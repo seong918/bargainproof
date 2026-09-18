@@ -1,6 +1,78 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Philips Norelco Portable Electric Shaver, Black $42.39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T07:37:31.682260Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SAMA A60 Series 265W TDP Dual Tower CPU Air Cooler Coolers (3-Variants) $24.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-18T07:32:05.547149Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Foldable Over-the-Door Drying Rack 2-Pack for $14 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T07:32:05.547149Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Asics Men's GEL-Venture 11 Trail Running Sneakers - $51 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T07:32:05.547149Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Pack 125-Count Berkley Jensen Maximum Strength Famotidine 20mg Acid Reducer Tablets (250 Tablets) $9.49 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-18T07:26:39.713573Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "obeoby Heatless Curls Overnight Set with Sleep Bonnet,Pink $8.39",
+  "reason": "Posted at $8.39, but Amazon showed $9.79 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-18T07:26:39.713573Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Purolator PurolatorONE Advanced Engine Air Filter for $6 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T07:26:39.713573Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Hey Dude Men's Wally Cru Stretch Canvas Casual Moccasins - $29.75",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T07:26:39.713573Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas women Adistar XLG 2.0 Shoes (Cloud White / Lucid Pink / Lucid Blue) $49.8",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T07:26:39.713573Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "10 Pack Replacement for Brother P-Touch TZe-231 Label Tape, Up to 60% Off $13.42",
   "reason": "Posted at $13.42, but Amazon showed $26.85 when we checked — the deal is probably over",
   "rejected_at": "2026-09-18T07:21:15.628720Z",
