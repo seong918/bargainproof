@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "20-Count 0.92-Oz Snyder's of Hanover Mini Pretzels & Pretzel Sticks Variety Pack $7.49 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-18T02:01:14.295124Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GT100 Electric Motorcycle $5699",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T02:01:14.295124Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$30 AMAZON Lee Men's Spencer Sneaker Boot sizes 6.5-13 Mens",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-18T01:55:46.640473Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – HMDecor 8-Pack Solar Pathway Lights - $20.99 w/ Code",
+  "reason": "Community score too low (+2) to pass without a price check — needs promo code, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-18T01:50:23.188461Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Black Crowes - Shake Your Money Maker (2020 Remaster)[LP] $19.99",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-18T01:44:57.789309Z",

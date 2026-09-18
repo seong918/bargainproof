@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "53974295bdf1",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20028315-amazon-olafus-4-pack-40w-rgb-flood-lights-w-remote-34-99-w-code-coupon",
+  "title": "Amazon - Olafus 4-Pack 40W RGB Flood Lights w/ Remote - w/ Code + Coupon",
+  "raw_title": "Amazon - Olafus 4-Pack 40W RGB Flood Lights w/ Remote - $34.99 w/ Code + Coupon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 3499,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 6,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0F1TKCMZ6",
+  "image_url": null,
+  "published_at": "2026-09-18T02:01:14.295124Z"
+ },
+ {
   "deal_id": "b08553e6054f",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20029998-prime-23-25-house-of-x-powers-of-x-paperback-at-amazon",
