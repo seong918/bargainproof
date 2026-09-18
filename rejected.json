@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Franklin Sports 30L Pickleball-X Elite Performance Sling Bag (Gray/Pink) $7.44 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-18T19:44:53.084864Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "TOPOINT Sleep Mask Bluetooth Headphones and Eye Mask $11.99 AC",
+  "reason": "Posted at $11.99, but Amazon showed $29.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-18T19:44:53.084864Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "761-Piece LEGO Iconic Up Scaled Santa Minifigure Set $47.98 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T19:44:53.084864Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Huk Men's Airweight Quarter-Zip Pullover (Stormy Blue Heather or Seagrass Heather) $29.98 + Free Shipping on $50+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T19:44:53.084864Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Google Pixel Watch 4 $230",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T19:44:53.084864Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$219.99* | Makita XJP03Z 18V LXT Lithium-Ion Cordless Plate Joiner at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
   "rejected_at": "2026-09-18T19:34:02.711492Z",
