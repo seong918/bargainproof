@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "17dd93b92cc4",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20032089-ac-13-49-craftsman-heavy-duty-reverse-squeeze-stapler-at-amazon",
+  "title": "CRAFTSMAN Heavy Duty Reverse Squeeze Stapler",
+  "raw_title": "[AC] $13.49* | CRAFTSMAN Heavy Duty Reverse Squeeze Stapler at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1349,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-18T14:15:52.275328Z"
+ },
+ {
   "deal_id": "2d43e8aa5bf3",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20032671-14-99-the-beatles-revolver-special-edition-vinyl-at-amazon",
