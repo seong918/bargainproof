@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[AC] $7.96* | 120-Ct VitBoost Magnesium Glycinate 500mg Sleep Support Capsules at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-18T19:55:40.414919Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Kitsch Full Sized Hair Perfume Only $5 (Reg. $20)+ More Hot Sale Deals!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T19:55:40.414919Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Baseus Docking Station Dual Monitor 10Gbps 10 in 1 USB C Hub with 2 HDMI $49.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T19:55:40.414919Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "QVC New Customer: 498-Piece LEGO Iconic Festive Gingerbread House Building Set $31.98 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T19:55:40.414919Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bosch Unlimited 10 Cordless Stick Vacuum Cleaner $449",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-18T19:55:40.414919Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$4.99 AT Amz Crest Pro-Health Gum Detoxify Toothpaste 4.8 oz - Anticavity, Antibacterial Fluoride Toothpaste, Clinically Proven Gum, Sensitive, & Enamel Protection, Plaque Control.",
   "reason": "Community score too low (+-2) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-18T19:50:17.094370Z",
