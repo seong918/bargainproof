@@ -1,5 +1,29 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Oceania 12-Night Caribbean Cruise for From $8,050 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T20:06:28.756819Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Hyper Bicycles 26\" Men's Electric Cruiser E-Bike for $398 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T20:06:28.756819Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "C4 Original Pre Workout Powder for $23 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T20:06:28.756819Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "[SnS] $11.87 | Clinique Almost Lipstick Tinted Lip Balm (Pink Honey) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
