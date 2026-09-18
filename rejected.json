@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Black Crowes - Shake Your Money Maker (2020 Remaster)[LP] $19.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-18T01:44:57.789309Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "15.6\" 1080P IPS Laptop Screen Extender, Travel Thin Triple Portable Monitor $159.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-18T01:44:57.789309Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Homestyles General Line Mobile Kitchen Cart with Stainless Steel Top and Drop Leaf $128.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T01:44:57.789309Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Sorel Women's ONA Ave Slip-On Sneakers for $25 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T01:44:57.789309Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Prime: OxyEnergy Milk Thistle Liver Support Supplement 90 Vegetarian Capsules with 80% Silymarin $19.56 + Free Shipping",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-18T01:39:32.030810Z",
