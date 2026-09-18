@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "88d6ef756d4e",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20031528-sns-ac-5-12-2-3-count-0-15-oz-blistex-lip-medex-sticks-2-56-each-at-amazon",
+  "title": "2 × 3-Count 0.15-Oz Blistex Lip Medex Sticks",
+  "raw_title": "[SnS, AC] $5.12* | 2 × 3-Count 0.15-Oz Blistex Lip Medex Sticks ($2.56 each) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 512,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-18T13:43:28.750703Z"
+ },
+ {
   "deal_id": "94416a5d18de",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20032548-cordless-rechargeable-mushroom-table-lamp-with-3-color-temps-led-dimmable-39-99",
