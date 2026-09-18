@@ -1,5 +1,69 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "The North Face Berkeley Crossbody Bag with Adjustable Strap $23.50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T08:25:29.627947Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas women Barreda Decode Shoes (Cloud White / Core Black / Grey Two) $19.2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T08:20:16.916338Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Umiboo Solid Bamboo Stove Top Cover w/ Handles for $20 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T08:15:03.802483Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$111.99 | Graco SnugRide Lite LX Infant Car Seat at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-18T08:09:48.833762Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas women Grand Court 2.0 Shoes (4 Colors) from $18",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T08:09:48.833762Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "G Gradual Women's Fleece Lined High Waist Tapered Joggers (various) $23.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-18T08:04:27.888864Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Preen 5.625lb Garden Weed Preventer (2-Pack) $25.07",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T08:04:27.888864Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Halloween Advent Calendar for $4.99 w/ Prime + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T08:04:27.888864Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Greenworks 40V 20\" Brushless Push Mower w/ 4.0Ah Battery for $255 + free shipping",
   "reason": "Not evaluated",
