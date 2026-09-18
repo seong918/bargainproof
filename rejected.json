@@ -1,6 +1,86 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon - OLEVS Men's Leather Chronograph Watch - $21.38 w/ Code",
+  "reason": "Community score too low (+2) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-18T02:49:49.657450Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon - OLEVS Men's Stainless Steel Analog Quartz Watch - $21.38 w/ Code",
+  "reason": "Community score too low (+2) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-18T02:49:49.657450Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Lukaree Wormwood Black Walnut Soursop Drops - Gut Health with L-Glutamine $7.34",
+  "reason": "Posted at $7.34, but Amazon showed $6.79 when we checked — the post is stale",
+  "rejected_at": "2026-09-18T02:49:49.657450Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men Inter Miami CF Away Authentic Jersey 2026 Size: Medium $36.00 at adidas eBay",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T02:49:49.657450Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Adidas women's Swift Run 1.0 Shoes ( Beige / Core Black / Cloud White) - $19.20 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T02:49:49.657450Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "BYOC - Bring Your Own Cup - Any size Slurpee for $1.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T02:49:49.657450Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LEGO Harry Potter: Magical Christmas! Activity Book w/ Minifigure $6.40 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-18T02:49:49.657450Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Monster N-Lite 203 AirLinks Wireless Earbuds w/ Bluetooth 5.3 & 30H Playback (Silver) $19.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-18T02:49:49.657450Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CURSOR FITNESS Magnetic Resistance Stationary Exercise Bike (Black/Orange) $142 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-18T02:44:26.033499Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Adidas men's Lite Racer Adapt 7.0 Shoes Cloud White/Core Black - $21 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T02:44:26.033499Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Smart Fitness Tracking Watch with calling and Alexa, $21.93 w/ coupon and code",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-18T02:38:59.957379Z",
