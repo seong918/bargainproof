@@ -1,6 +1,94 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$4 ac AMAZON 3 in 1 Charging Cable,Multi Charger Cable 12w USB Phone Multiple Charger Cord",
+  "reason": "Posted at $4.00, but Amazon showed $7.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-18T19:23:12.157111Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Snapple Zero Sugar Raspberry Tea 12-Pack $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T19:23:12.157111Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Jack Link's Peppered Beef Jerky 2-Pack 9-Oz $14.83",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T19:23:12.157111Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "ZKpilse 4000A Portable Car Jump Starter w/ 150 PSI Air Compressor & Flashlight $29.69",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T19:23:12.157111Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Stouchi Find My Trackable RFID-Blocking Wallet $10.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T19:23:12.157111Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Osprey Axis 24-Liter Laptop Backpack $62.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T19:23:12.157111Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Citizen Men's Classic Quartz Watch 40mm $104.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T19:23:12.157111Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$12 | 14-Item Trash Dwellers Bundle: A Plague Tale: Innocence, Brew, Trash Goblin, WAR RATS: The Rat em Up & More $15",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T19:23:12.157111Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Certified Refurbished Roborock Robot Vacuums: Qrevo S5V $368, Q10 S5+ $200, Saros 10 $640, Qrevo CurvX $640 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T19:23:12.157111Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Chaps Men's Chuck Ankle Boot - $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T19:23:12.157111Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "4-Pack: LaView F1 Indoor Wi-Fi Security Cameras with MicroSD Slot (White) $19.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T19:23:12.157111Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "2-Count L LOHAS LED 30/60-Lumen Plug-In Motion Sensor Night Lights (3000K) $7.19 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-18T19:17:48.684926Z",
