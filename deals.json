@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "24894d00b744",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20031294-94-99-greenworks-24v-starter-kit-2-x-4-0ah-usb-battery-dual-port-rapid-charger-at-amazon",
+  "title": "Greenworks 24V Starter Kit: 2 x 4.0Ah USB Battery + Dual Port Rapid Charger",
+  "raw_title": "$94.99* | Greenworks 24V Starter Kit: 2 x 4.0Ah USB Battery + Dual Port Rapid Charger at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B09NBVRH1M",
+  "deal_total_cents": 9499,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "qty"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 9499,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 9499,
+  "amazon_url": "https://www.amazon.com/dp/B09NBVRH1M",
+  "amazon_checked_at": "2026-09-18T05:38:03.732339Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B09NBVRH1M",
+  "image_url": null,
+  "published_at": "2026-09-18T05:37:59.818537Z"
+ },
+ {
   "deal_id": "48774507135c",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20031270-159-99-metabo-hpt-36v-multivolt-7-1-4-inch-rear-handle-circular-saw-tool-only-at-amazon",
