@@ -1,5 +1,133 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Invengo Cat Water Fountain Stainless Steel 108oz/3.2L Pet Fountain STARTING AT $16.49 AC + Free Shipping",
+  "reason": "Posted at $16.49, but Amazon showed $29.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-18T14:26:31.101483Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Skippy Chunky 16.3oz Peanut Butter Jar (8-Pack) $14.16",
+  "reason": "Posted at $14.16, but Amazon showed $14.91 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-18T14:26:31.101483Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Semdon 1.75mm Wood PLA 3D Printer Filament (4-Roll) $15.59",
+  "reason": "Posted at $15.59, but Amazon showed $25.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-18T14:26:31.101483Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Alplug Men's Solid Cologne Gift Set (6-Pack) $4.99",
+  "reason": "Posted at $4.99, but Amazon showed $9.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-18T14:26:31.101483Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "HoverAir X1 Promax 8K WiFi Foldable Action Flying Drone (Standard Kit) $489.30",
+  "reason": "Posted at $489.30, but Amazon showed $699.00 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-18T14:26:31.101483Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Apple Watch Series 12 GPS 42mm Smartwatch $389 | 46mm $439",
+  "reason": "Posted at $439.00, but Amazon showed $389.99 when we checked — the post is stale",
+  "rejected_at": "2026-09-18T14:26:31.101483Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Dyson Purifier Big+Quiet Formaldehyde $597.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T14:26:31.101483Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Wolverine x Valiant University of Michigan Floorhand Moc Toe Work Boot $79.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T14:26:31.101483Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Moen UTS33103BL Weymouth M-CORE 3-Series 1-Handle $620.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T14:26:31.101483Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Apple iPhone 13 Pro Max (Grade A Refurbished) (Open Box) $523.79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T14:26:31.101483Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Dell 16 16\" Touch Ryzen 7 250 16GB 1TB Laptop $789.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T14:26:31.101483Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Moen Weymouth Nickel Motionsense Touchless Kitchen Faucet $809.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T14:26:31.101483Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "GreenPan 10-in-1 Digital 6-Cup Nonstick Multi-Cooker w/ Glass Lid $59.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T14:26:31.101483Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "(NEW) Samsung HW-Q800H 5.1.2CH Dolby Atmos Soundsystem w/Subwoofer (2026) $599.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T14:26:31.101483Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Old Navy Sweatshirts & Hoodies from $10 – Today Only!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T14:26:31.101483Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas Women's Supernova Rise 2 Running Shoes $40.00-$45.00 on eBay + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T14:26:31.101483Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Nuu Garden 59.45-in. W Black Iron Traditional Bench $99.98",
   "reason": "Not evaluated",
@@ -22398,14 +22526,6 @@
   "rejected_at": "2026-09-16T16:26:33.816060Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Apple Watch Series 12 GPS 42mm Smartwatch $389 | 46mm $439",
-  "reason": "Posted at $439.00, but Amazon showed $389.99 when we checked — the post is stale",
-  "rejected_at": "2026-09-16T16:21:11.296345Z",
-  "code": "price_mismatch",
-  "public": true
  },
  {
   "source": "hip2save",
