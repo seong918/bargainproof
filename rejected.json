@@ -1,5 +1,61 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Lenovo T215 15.6\" Laptop Shoulder Bag for $11 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T08:41:05.327614Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Greenworks 24V Brushless 1\" Cordless Jig Saw (3,000 SPM / 4 Settings / LED Light), 4.0Ah USB Battery and Charger Included $79.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-18T08:35:54.235170Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Orgsta T001-Plus 4\"x6\" Thermal Shipping Label Printer $34.99",
+  "reason": "Posted at $34.99, but Amazon showed $69.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-18T08:35:54.235170Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Casio G-Shock Men's Dual Display Resin Strap Watch (DW9052-1V) $59.92",
+  "reason": "Posted at $59.92, but Amazon showed $59.29 when we checked — the post is stale",
+  "rejected_at": "2026-09-18T08:35:54.235170Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "iLiving 12\" Wall Mounted Shutter Exhaust Vent Fan for $57 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T08:35:54.235170Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas women Samba Shoes (Night Indigo / Night Indigo / Off White) $28.8",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T08:35:54.235170Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Soothfeel Women's Lightweight LS Workout Top (various) $9.85 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-18T08:30:41.223251Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
   "source": "techbargains",
   "raw_title": "The North Face Berkeley Crossbody Bag with Adjustable Strap $23.50",
   "reason": "Not evaluated",
