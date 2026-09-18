@@ -1,5 +1,117 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Amazon: Tripp Lite 18 AWG C14 to C13 Power Extension Cord (Red, 3 ft) $5.99 (Reg $10.45, ~43% Off) + FS w/ Prime",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-18T01:34:06.652108Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Back & Body Hurts Happy Birthday Candle for $13 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T01:34:06.652108Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Halloween Mini Bubble Wands 24-Pack Only $5.89 Shipped for Prime Members",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T01:34:06.652108Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $8.65 | The Little Prince (Hardcover) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-18T01:23:14.489103Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $14.82 | The Complete Brambly Hedge (Hardcover) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-18T01:23:14.489103Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Harbor Freight Tools Dollar Days for Deals from $1 + shipping from $7",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T01:23:14.489103Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$30: adidas men SL 72 RS SHOES(Size 4.5~6.5) at ebay",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T01:23:14.489103Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "15-Amp 3-1/4 HP Makita Corded Plunge Router & 6.5-Amp Corded Variable Speed Top Handle Jigsaw w/ Case $339 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T01:23:14.489103Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Dyson V15 Detect Total Clean Extra $399.97 - YMMV",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T01:23:14.489103Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $10.58 | Children's Illustrated Atlas: Revised and Updated Edition at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-18T01:17:47.547143Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Andromeda Insights Spectra Gaming PC Desktop: RX 9070 (16GB), Ryzen 5 9600X, 16GB DDR5, 1TB SSD, 650W $1489.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T01:17:47.547143Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men Supernova Ease Shoes (Core Black / Cloud White / Charcoal) $33",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T01:17:47.547143Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$72: adidas men ADIZERO GOUKANA SHOES(Size 7~12) at ebay",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T01:17:47.547143Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "PACKOUT 22 in. Modular 3-Drawer Tool Box with Metal Reinforced Corners 129 YMMV $129.35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T01:17:47.547143Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Polo Ralph Lauren Men's Classic-Fit Stripe T-Shirt (XL only) for $20 + free shipping w/ $39",
   "reason": "Not evaluated",
