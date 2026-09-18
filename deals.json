@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "915d893b79f4",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20031360-new-ac-17-58-craftsman-universal-nut-splitter-cmmt14117-at-amazon",
+  "title": "CRAFTSMAN Universal Nut Splitter (CMMT14117)",
+  "raw_title": "[NEW, AC] $17.58 | CRAFTSMAN Universal Nut Splitter (CMMT14117) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B07R96Z6LY",
+  "deal_total_cents": 1758,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 2198,
+  "amazon_coupon_cents": 440,
+  "amazon_effective_cents": 1758,
+  "amazon_url": "https://www.amazon.com/dp/B07R96Z6LY",
+  "amazon_checked_at": "2026-09-18T06:16:02.668198Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B07R96Z6LY",
+  "image_url": null,
+  "published_at": "2026-09-18T06:15:58.837046Z"
+ },
+ {
   "deal_id": "9358b75516c0",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20031354-new-60-01-bushnell-powerview-porro-prism-20x50mm-binoculars-at-amazon",
