@@ -1,6 +1,78 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$24.99* | 5.3\" Dragon Ball Z Awakened Blood Super Saiyan Vegeta Figure at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-18T21:11:00.906007Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Luxury Bubble Faux Rabbit Fur Throw Blanket for $38 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T21:11:00.906007Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Paramore Brand New Eyes Vinyl for $17 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T21:11:00.906007Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Stern Pinball Pokemon Home Edition Plus $4999.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T21:11:00.906007Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ecoflow River 3 Max Plus (River 3 Plus with eb600 add on battery) $285.06 plus tax, free ship, Temu",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T21:11:00.906007Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[NEW] $19.99 | Taylor Swift: 1989 (Taylor's Version) (2 LP) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-18T21:05:37.114794Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Insulin Peptide Cooler Travel Case for Vial, Up to 40% Off $8.3",
+  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-18T21:05:37.114794Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Oceania 14-Night Caribbean Cruise for From $9,750 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T21:05:37.114794Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Women's Plush Robe with Pockets for $40 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T21:05:37.114794Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$14.99 | Johnny Cash: Songwriter (180g Black Vinyl LP) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
   "rejected_at": "2026-09-18T21:00:13.030665Z",

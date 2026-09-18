@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "9f77ad8fefae",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20034333-amazon-meronte-mr5866-air-purifier-for-up-to-1690-sq-ft-49-99-w-code",
+  "title": "Amazon – MERONTE MR5866 Air Purifier for Up to 1690 Sq. Ft. - w/ Code",
+  "raw_title": "Amazon – MERONTE MR5866 Air Purifier for Up to 1690 Sq. Ft. - $49.99 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0HF7QB5MC",
+  "deal_total_cents": 4999,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 7999,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 7999,
+  "amazon_url": "https://www.amazon.com/dp/B0HF7QB5MC",
+  "amazon_checked_at": "2026-09-18T21:11:23.662249Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 6,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0HF7QB5MC",
+  "image_url": null,
+  "published_at": "2026-09-18T21:11:00.906007Z"
+ },
+ {
   "deal_id": "3677c156803a",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20034240-amazon-flytocca-15-6-laptop-screen-extender-65-99-w-code",
