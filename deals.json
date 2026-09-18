@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "7aac0bb8e0bf",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20028264-amazon-mesqool-noaa-weather-alert-emergency-radio-18-46-23-99-w-code",
+  "title": "Amazon - Mesqool NOAA Weather Alert Emergency Radio - - w/ Code",
+  "raw_title": "Amazon - Mesqool NOAA Weather Alert Emergency Radio - $18.46-$23.99 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1846,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B07YCCJ7X4",
+  "image_url": null,
+  "published_at": "2026-09-18T01:12:31.653149Z"
+ },
+ {
   "deal_id": "7530dbcd6118",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20029995-prime-20-84-marvel-encyclopedia-new-edition-hardcover-book-2024-at-amazon",
