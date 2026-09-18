@@ -1,5 +1,45 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "ORICO 5 Bay Hard Drive Enclosure Supports 2.5/3.5 inch Drives $76.99 after 30% off coupon $80.49",
+  "reason": "Posted at $76.99, but Amazon showed $114.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-18T10:16:15.422971Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Amazon Essentials Men's Heavyweight Stretch Jeans for $9 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T10:16:15.422971Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men Men's Emblem 2.0 Snapback $12.6 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T10:16:15.422971Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas kids Lite Racer Adapt 7.0 Shoes from $18 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T10:16:15.422971Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "34\"x22\" Under Sink Mat & 4-Pack Clear Storage Bins Organizer Set (Grey) $14.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-18T10:16:15.422971Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "dealnews",
   "raw_title": "Apple iPhone 18 Pro 256GB for AT&T: $0/mo. w/ trade-in & plan + free shipping",
   "reason": "Not evaluated",
