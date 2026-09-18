@@ -1,6 +1,86 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Teenage Mutant Ninja Turtles: The Last Ronin: Lost Years (Hardcover) $15.19 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-18T16:14:12.092586Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "FIT KING Air Compression Leg and Foot Massager with Heat for Circulation $50",
+  "reason": "Posted at $50.00, but Amazon showed $119.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-18T16:14:12.092586Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Joyroom 2-Port 125W USB-C Car Charger (2-Pack) $10.99",
+  "reason": "Posted at $10.99, but Amazon showed $16.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-18T16:14:12.092586Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Adidas Men's Supernova Rise 3 Running Shoes $64.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T16:14:12.092586Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Round Trip Chicago to Reykjavik Iceland Nonstop Airfares on Icelandair $389.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T16:14:12.092586Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Nine West Qazz Women's Sandals $25.50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T16:14:12.092586Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Sweetlove 12\" Gel Memory Foam Hybrid Pocket Spring Mattress In A Box Medium Firm Motion Isolation $119.39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T16:14:12.092586Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Aospence 9-Quart Knee Cold Therapy Machine for $84 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T16:14:12.092586Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Cvrpaor Smart Digital Kitchen Timer for $10 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T16:14:12.092586Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Reebok Men's City Ride Running Sneakers (Black/White) $35 + Free Pickup at Macys or Free Shipping on $39+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T16:14:12.092586Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "ZLX Inflatable Paddle Board, 11'6\"/10'6\" x 33\" Stable Stand Up Paddleboard $99",
   "reason": "Posted at $99.00, but Amazon showed $209.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-18T16:08:50.707229Z",
