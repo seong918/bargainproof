@@ -1,5 +1,77 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$79.99* | Greenworks 40V Cordless 135 CFM Leaf Blower w/ 2.0 Ah Battery & Charger at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-18T17:46:01.548250Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DEWALT 20V MAX XR Brushless Cordless 1/2 in. Drill/Driver (Tool Only) (DCD801B) $95.56",
+  "reason": "Posted at $95.56, but Amazon showed $130.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-18T17:46:01.548250Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "HMDecor 8-Pack Solar Pathway Lights $20.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T17:46:01.548250Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Lotus Biscoff Sandwich Cookies (Biscoff Cream) 9-Pack $17.36",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T17:46:01.548250Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Honeywell HEPA Air Purifier Filter Replacement Kit for HPA300, HPA3300, HPA5300, HPA8350 series (Value Combo Pack Includes 3 HEPA R & 4 A Carbon Pre-Cut Pre-Filters) $60.90",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T17:46:01.548250Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "The Doctor's BrushPicks Interdental Brushes & Dental Picks 275 Count $2.81",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T17:46:01.548250Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Victoria's Secret Big Fall Sale: Up to 50% off + Free Shipping w/ $100",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T17:46:01.548250Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "House of Marley Get Together 2 Mini 20W Portable Bluetooth Speaker (Brown) $19.97 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T17:46:01.548250Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Men's Sneakers (Dockers, Club Room, Reebok etc, Various Sizes): Dockers Men's Ignite Sneakers $20.99 & More + Free Pickup at Macys or Free Shipping on $39+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T17:46:01.548250Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "AstroAI 26\" Telescoping Windshield Cleaner & Car Interior Detailing Kit w/ 4 Microfiber Pads $10.49",
   "reason": "Not evaluated",
