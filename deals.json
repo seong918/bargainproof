@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "5f9df41a587d",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20030058-ac-4-43-2-16-oz-snyder-s-of-hanover-snaps-pretzels-2-21-each-at-amazon",
+  "title": "2 × 16-Oz Snyder's of Hanover Snaps Pretzels",
+  "raw_title": "[AC] $4.43 | 2 × 16-Oz Snyder's of Hanover Snaps Pretzels ($2.21 each) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 443,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-18T06:05:09.083877Z"
+ },
+ {
   "deal_id": "68731c9cd397",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20030754-10000mah-magnetic-fan-w-led-display-foldable-hook-18-49-free-shipping-w-prime-or-on-35",
