@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "a6f52cb2e523",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20031576-sns-ac-33-36-6-2-pack-5-1-oz-colgate-total-whitening-toothpaste-mint-5-56-each-at-amazon",
+  "title": "6 × 2-Pack 5.1-Oz Colgate Total Whitening Toothpaste (Mint)",
+  "raw_title": "[SnS, AC] $33.36* | 6 × 2-Pack 5.1-Oz Colgate Total Whitening Toothpaste (Mint) ($5.56 each) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 3336,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-18T15:52:42.557921Z"
+ },
+ {
   "deal_id": "d433cc1a7c5e",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20033067-prime-wegear-100w-3-port-gan-wall-charger-2-usb-c-1-usb-a-white-15-99-free-shipping",
