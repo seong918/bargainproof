@@ -1,5 +1,21 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "[NEW] $129.99 | Losi 1/12 NASCAR RC Race Car Ross Chastain No. 1 2025 Busch Light Chevrolet ZL1 2S AWD RTR Brushed On-Road Battery & Charger Included Blue LOS1122501 at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-18T21:54:09.387693Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "This GIANT Sorry! Board Game is Just $19.99 on Amazon (Reg. $55)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T21:54:09.387693Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Duratech Jumbo Combination Metric Wrench Set for $90 + free shipping",
   "reason": "Not evaluated",
