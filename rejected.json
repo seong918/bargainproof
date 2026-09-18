@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$4.99 AT Amz Crest Pro-Health Gum Detoxify Toothpaste 4.8 oz - Anticavity, Antibacterial Fluoride Toothpaste, Clinically Proven Gum, Sensitive, & Enamel Protection, Plaque Control.",
+  "reason": "Community score too low (+-2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-18T19:50:17.094370Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "FAILV Fort Building Kit for Kids Glow in The Dark 120 PCS Air Fort Builder Kids $26.39",
+  "reason": "Posted at $26.39, but Amazon showed $38.39 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-18T19:50:17.094370Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Franklin Sports 30L Pickleball-X Elite Performance Sling Bag (Gray/Pink) $7.44 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-18T19:44:53.084864Z",
