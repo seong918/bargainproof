@@ -1,6 +1,110 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "GTPLAYER Gaming Chair,Office Chair with Pocket Spring Lumbar Support $129.99",
+  "reason": "Posted at $129.99, but Amazon showed $259.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-18T16:03:25.971256Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GTPLAYER Big and Tall Gaming Chair 400lbs Heavy Duty Office Chair with Footrest, High Back Pocket Spring Lumbar Support $149.99",
+  "reason": "Posted at $149.99, but Amazon showed $225.52 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-18T16:03:25.971256Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Magnetic Resistance Stationary Exercise Bike $142.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T16:03:25.971256Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "ThermoMaven X2 Wireless Meat Thermometer w/ 2 Probes $39.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T16:03:25.971256Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "CVLIFE EagleTalon Compact Multi-Reticle Red/Green Dot & 3X Magnifier Combo 2.95in Eye Relief $92.79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T16:03:25.971256Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "WOSPORTS 1200-Yard Golf Rangefinder w/ Slope $29.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T16:03:25.971256Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "lululemon Men's Lunar New Year Steady State Relaxed-Fit Jogger $69.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T16:03:25.971256Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Oceania 12-Night Barcelona to Lisbon Cruise for From $6,240 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T16:03:25.971256Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Heel Grips & Liner Cushions for $2 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T16:03:25.971256Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "eSUN 1.75mm 1kg PETG 3D Printer Filament for $10 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T16:03:25.971256Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "FYTOO Eyewear Deal: Buy 2 Pairs, Get 1 Pair Free + free shipping w/ $69",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T16:03:25.971256Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Birkenstock Women's Florida Flex Platform Sandals (Sage) $51.82 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T16:03:25.971256Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC, Prime] $2.93* | 4 × 14.5-Oz Amazon Grocery Petite Diced Tomatoes (73.4￠ each) at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-18T16:03:25.971256Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Avidlove Women No Underwire Full Coverage Wireless Seamless Bra $9.99",
   "reason": "Posted at $9.99, but Amazon showed $19.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-18T15:58:05.184470Z",
