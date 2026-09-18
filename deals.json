@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "75e4b85293fe",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20032152-sns-ac-40-73-4-112-ct-tide-pods-3-in-1-laundry-detergent-pacs-spring-meadow-10-18-each-at-amazon",
+  "title": "4 × 112-Ct Tide PODS 3-in-1 Laundry Detergent Pacs (Spring Meadow)",
+  "raw_title": "[SnS, AC] $40.73* | 4 × 112-Ct Tide PODS 3-in-1 Laundry Detergent Pacs (Spring Meadow) ($10.18 each) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 4073,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-18T12:07:12.364090Z"
+ },
+ {
   "deal_id": "91bd231926fa",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20031645-29-99-starfield-playstation-5-at-amazon",
