@@ -1,5 +1,37 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "adidas Men's Fall Shoe Deals for From $14, sneakers from $25 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T08:56:37.281138Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Ntidova Smart Self Cleaning Cat Litter Box with 10 Safety Sensors $119.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T08:51:26.441886Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas women Adizero SL2 Shoes (Limited Sizes, 2 Colors) from $31.2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T08:51:26.441886Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Fanttik S1 APEX Deluxe Edition Electric Screwdriver Set $49.99 + Free Shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T08:51:26.441886Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Graco Travel Dome Lux Pack 'n Play Playard (Various Colors) $175.99 + Free Shipping",
   "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",

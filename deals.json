@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "990986e99ad8",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20031738-14-99-the-essential-johnny-cash-vinyl-w-autorip-mp3-at-amazon",
+  "title": "The Essential Johnny Cash (Vinyl w/ AutoRip MP3)",
+  "raw_title": "$14.99 | The Essential Johnny Cash (Vinyl w/ AutoRip MP3) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B01AEOM7DE",
+  "deal_total_cents": 1499,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 1499,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1499,
+  "amazon_url": "https://www.amazon.com/dp/B01AEOM7DE",
+  "amazon_checked_at": "2026-09-18T08:57:18.842171Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 2,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B01AEOM7DE",
+  "image_url": null,
+  "published_at": "2026-09-18T08:56:37.281138Z"
+ },
+ {
   "deal_id": "0147850eb880",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20031582-select-accounts-704-count-huggies-simply-clean-unscented-baby-wipes-11-pack-12-69-w-s-s-free-shipping-w-prime-or-on-35",
