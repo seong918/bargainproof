@@ -1,5 +1,69 @@
 [
  {
+  "source": "dealcatcher",
+  "raw_title": "Adidas Women Adistar XLG 2.0 Shoes (Cloud White / Lucid Pink / Lucid Blue) $49.80",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T18:45:26.908081Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Adidas women Mega Ghostride Shoes $48.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T18:45:26.908081Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "adidas Women's Ultraboost 5X Shoes $57.60",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T18:45:26.908081Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Garmin Approach G80 Handheld Golf GPS & Launch Monitor for $300 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T18:45:26.908081Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "LEGO Harry Potter Christmas Activity Book w/ Minifigure Just $6 on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T18:45:26.908081Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "(YMMV) ONN Soft Carrying Case for Nintendo Switch 2, Nintendo Switch, Nintendo Switch, Switch Lite, Black - $3",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T18:45:26.908081Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Under Armour Expanse Men's ColdGear Infrared Hoodie (Sm. to 2XL) $27.49 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T18:45:26.908081Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$34.99* | 771-Pc LEGO Botanical Collection Succulents at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-18T18:45:26.908081Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "techbargains",
   "raw_title": "Energizer MAX 9V Alkaline Batteries (4-Pack) $5.49",
   "reason": "Posted at $5.49, but Amazon showed $8.99 when we checked — the deal is probably over",

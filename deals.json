@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "70304c65a030",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20033817-34-99-771-pc-lego-botanical-collection-succulents-at-amazon",
+  "title": "771-Pc LEGO Botanical Collection Succulents",
+  "raw_title": "$34.99* | 771-Pc LEGO Botanical Collection Succulents at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 3499,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-18T18:45:26.908081Z"
+ },
+ {
   "deal_id": "27ce6ca17be8",
   "source": "techbargains",
   "source_url": "https://www.amazon.com/gp/product/B0GXGLPPTX/ref=ox_sc_act_image_1",
