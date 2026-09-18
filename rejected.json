@@ -1,5 +1,29 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "[NEW] $30.45 | ESTWING Gad Pry Bar, 18\" Geologist Prying Tool, GP-18 at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-18T21:32:32.520805Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[NEW] $99.50 | DERMAFLASH LUXE+ Sonic Dermaplaning Tool for Face Peach Fuzz Removal, Anti-Aging and Exfoliation at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-18T21:32:32.520805Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ACEMAGIC X3 Mini Gaming PC Ryzen 7 H 255 Radeon 780M 16GB 1TB Windows11 Pro $575",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-18T21:32:32.520805Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
   "source": "dealnews",
   "raw_title": "Waterdrop Gravity-Fed Water Filtration System for $100 + free shipping",
   "reason": "Not evaluated",
