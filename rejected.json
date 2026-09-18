@@ -1,6 +1,118 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "60-Count iMATCHME Vitamin D3 K2 Gummies (5,000 IU D3 + 200mcg MK-7, Strawberry) $7.59 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-18T04:32:51.851629Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Lightnigh Deal]33,000ft Women's Waterproof Rain Jackets Long Rain Coats with Hood $55.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-18T04:27:25.392083Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Hot Wheels Formula 1 Downhill Circuit Race Track Set w/ 3x Die-Cast Cars $54.67 + Free Shipping",
+  "reason": "Community score too low (+4) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-18T04:16:38.579164Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] LIGHT FLIGHT Mini Puffer Crossbody Hobo Bag (Various) $9.99 + Free Shipping",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-18T04:16:38.579164Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bosch 18V Brushless 2-1/2\" 15-Gauge Cordless Angled Finish Nailer + 18V Battery Kit $199 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T04:16:38.579164Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bixdo Glossonic PRO Rechargeable Electric Toothbrush for Adults, 460nm Whitening Blue Light Tech, 31,000VPM $104.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-18T04:11:10.993419Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bush League All-Stars Dirty Dozen 550 Robusto $22 & Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T04:11:10.993419Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bosch 18V Brushless 16-Gauge Cordless Angled Finish Nailer + FREE 4.0Ah Battery Kit $199 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T04:11:10.993419Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Levi’s Flash Sale Save up to 70% Off Select Styles ($100 off $250+, $75 off $200, $50 off $150. Applied at Checkout)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T04:11:10.993419Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Premium Dime Pack 10-Cigar Combo $22.99 & Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T04:11:10.993419Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bosch 18V Brushless 18-Gauge Cordless Brad Nailer + FREE 4.0Ah Battery Kit $199 + Free Shipping",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-18T04:11:10.993419Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "30-Count Nature's Way Rest & Restore Melatonin-Free Sleep Supplement Capsules $5.87 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-18T04:05:43.242638Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GIM Wireless Charging RGB Gaming Mouse Pad 15W, LED Mouse Mat 800x300x4MM, 10 Light Modes $18.49",
+  "reason": "Posted at $18.49, but Amazon showed $36.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-18T04:05:43.242638Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] 4-Pc 42-Oz vancasso Bohemian Large Ceramic Pasta Bowls $25.79 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-18T03:54:53.965232Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$15.98* | Klein Tools 44321 Folding Utility Compact EDC Hawkbill Pocket Knife (Orange) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-18T03:49:27.834916Z",
