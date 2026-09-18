@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Deyeek Men's Sweatpants Open Bottom Baggy Sweat Pants for Men with Pockets $10.99",
+  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-18T00:40:04.741533Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$132.99 | DEWALT 20V MAX Cordless 4 1/2 Inch Paddle-Switch Grinder, Bare Tool Only (DCG408B) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-18T00:40:04.741533Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men X_PLR Path Shoes (2 Colors) $23.4",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T00:40:04.741533Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men Samoa Shoes (3 colors) - from $30.60 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T00:40:04.741533Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Orbit B-hyve XR 8-Zone WiFi Smart Sprinkler Timer & Irrigation Controller (57985) $80.00 + Free Shipping",
   "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-18T00:34:38.852288Z",
@@ -57707,14 +57739,6 @@
   "source": "slickdeals",
   "raw_title": "[AC] $49.21 | Cooler Master 240 Core II AIO Liquid CPU Cooler, Infinity Mirror ARGB at Amazon",
   "reason": "Posted at $49.21, but Amazon showed $58.79 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-12T10:26:29.779768Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$132.99 | DEWALT 20V MAX Cordless 4 1/2 Inch Paddle-Switch Grinder, Bare Tool Only (DCG408B) at Amazon",
-  "reason": "Posted at $132.99, but Amazon showed $118.68 when we checked — the post is stale",
   "rejected_at": "2026-09-12T10:26:29.779768Z",
   "code": "price_mismatch",
   "public": true
