@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "36cc829c4c19",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20034411-amazon-1-x-16-4-ft-rubber-grip-tape-3-99-w-code",
+  "title": "Amazon – 1\" x 16.4-Ft Rubber Grip Tape - w/ Code",
+  "raw_title": "Amazon – 1\" x 16.4-Ft Rubber Grip Tape - $3.99 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0H7BMNWJJ",
+  "deal_total_cents": 399,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 999,
+  "amazon_coupon_cents": 200,
+  "amazon_effective_cents": 799,
+  "amazon_url": "https://www.amazon.com/dp/B0H7BMNWJJ",
+  "amazon_checked_at": "2026-09-18T21:22:06.296847Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0H7BMNWJJ",
+  "image_url": null,
+  "published_at": "2026-09-18T21:21:47.335570Z"
+ },
+ {
   "deal_id": "16f6f794cbda",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20033019-light-flight-quilted-nylon-travel-toiletry-makeup-bag-w-dual-handles-various-9-free-shipping-w-prime-or-on-35",
