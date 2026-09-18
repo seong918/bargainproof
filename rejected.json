@@ -1,5 +1,29 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Graco Travel Dome Lux Pack 'n Play Playard (Various Colors) $175.99 + Free Shipping",
+  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-18T08:46:15.182763Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Vevor 10\" 900CFM Wall Mounted Exhaust Fan with Variable Speed Controller $34.48",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T08:46:15.182763Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas women Superstar II Shoes (3 Colors) from $28.8",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T08:46:15.182763Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Lenovo T215 15.6\" Laptop Shoulder Bag for $11 + free shipping w/ Prime",
   "reason": "Not evaluated",

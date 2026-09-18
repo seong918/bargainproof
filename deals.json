@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "0147850eb880",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20031582-select-accounts-704-count-huggies-simply-clean-unscented-baby-wipes-11-pack-12-69-w-s-s-free-shipping-w-prime-or-on-35",
+  "title": "704-Count Huggies Simply Clean Unscented Baby Wipes (11-Pack) w/ S&S + or on",
+  "raw_title": "Select Accounts: 704-Count Huggies Simply Clean Unscented Baby Wipes (11-Pack) $12.69 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1269,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "sns",
+   "prime",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 6,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-18T08:46:15.182763Z"
+ },
+ {
   "deal_id": "81205722ee13",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20030961-prime-members-vanlgs-cordless-engraving-pen-kit-w-31-piece-bit-set-led-ring-light-19-99-free-shipping",
