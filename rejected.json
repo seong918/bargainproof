@@ -1,5 +1,69 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Duratech Jumbo Combination Metric Wrench Set for $90 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T21:48:45.414968Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Jordan Men's Brooklyn Fleece AJ6 Hoodie - 70% Off $26.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T21:43:22.731543Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$14.99 | Fall Out Boy: M A N I A (LP w/ AutoRip MP3) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-18T21:37:57.177250Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Olive Green Twin Quilt Bedding Set for $29 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T21:37:57.177250Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "NEW Ghost and Pumpkin-Shaped Pizzas Just $6 at Target",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T21:37:57.177250Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Holstein Housewares 10-Piece Knife Set $10 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T21:37:57.177250Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "YMMV Costco (in-warehouse): 24-ct Monster Energy Drink (Ultra Variety Pack) for $17.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T21:37:57.177250Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "TCL 98\" Q6 Class 4K UHD HDR QLED Smart TV with Google TV - Select Locations $999.91",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T21:37:57.177250Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "[NEW] $30.45 | ESTWING Gad Pry Bar, 18\" Geologist Prying Tool, GP-18 at Amazon",
   "reason": "Community score too low (+2) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
