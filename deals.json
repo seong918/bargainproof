@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "3677c156803a",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20034240-amazon-flytocca-15-6-laptop-screen-extender-65-99-w-code",
+  "title": "Amazon – FLYTOCCA 15.6\" Laptop Screen Extender - w/ Code",
+  "raw_title": "Amazon – FLYTOCCA 15.6\" Laptop Screen Extender - $65.99 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0GZK66KJL",
+  "deal_total_cents": 6599,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 11999,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 11999,
+  "amazon_url": "https://www.amazon.com/dp/B0GZK66KJL",
+  "amazon_checked_at": "2026-09-18T21:00:28.402565Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0GZK66KJL",
+  "image_url": null,
+  "published_at": "2026-09-18T21:00:13.030665Z"
+ },
+ {
   "deal_id": "f1b74d1c9b2f",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20034537-amazon-bltend-36mm-golf-hitting-mat-84-99-169-97",

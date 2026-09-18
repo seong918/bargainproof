@@ -1,5 +1,69 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$14.99 | Johnny Cash: Songwriter (180g Black Vinyl LP) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-18T21:00:13.030665Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$157.99* | Makita XGH02ZK 18V LXT® Lithium-Ion Cordless Variable Temperature Heat Gun, Tool Only at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-18T21:00:13.030665Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Fall Dresses for Women 2026 Trendy Long Sleeve Dress Cute Christmas Green L $12.99",
+  "reason": "Posted at $12.99, but Amazon showed $25.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-18T21:00:13.030665Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "3MP Wireless Outdoor Security Camera for $29 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T21:00:13.030665Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Adjustable Weighted Cordless Battle Ropes for Home Gym for $21 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T21:00:13.030665Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Hi-Tec Demolisher Mid Hiking Mens Boot, 4 colors, $19.95, FS, ebay",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T21:00:13.030665Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$12.99 | Starbucks Pour Over Set at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T21:00:13.030665Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Waterdrop MC-02M Semi-Automatic Espresso Machine for $90 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T20:54:50.141999Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Fender Mustang LT25 25W 1x8\" Guitar Combo Amp for $180 + free shipping",
   "reason": "Not evaluated",
