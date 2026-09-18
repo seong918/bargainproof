@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "68731c9cd397",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20030754-10000mah-magnetic-fan-w-led-display-foldable-hook-18-49-free-shipping-w-prime-or-on-35",
+  "title": "10000mAh Magnetic Fan w/ LED Display & Foldable Hook + or on",
+  "raw_title": "10000mAh Magnetic Fan w/ LED Display & Foldable Hook $18.49 + Free Shipping w/ Prime or on $35+",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1849,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "prime"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 6,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-18T05:48:51.321690Z"
+ },
+ {
   "deal_id": "24894d00b744",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20031294-94-99-greenworks-24v-starter-kit-2-x-4-0ah-usb-battery-dual-port-rapid-charger-at-amazon",
