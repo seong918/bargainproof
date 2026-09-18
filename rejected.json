@@ -1,5 +1,117 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "[AC] $27.80 | 4 × 12-Pack 16.9-Oz Diet Coke Caffeine Free Soda ($6.95 each) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-18T01:01:41.921346Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men RUN 70s 2.0 Shoes (Limited Sizes, 3 Colors) $27.6",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T01:01:41.921346Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$25.80: adidas women NY 90 W Shoes(4 Colors) at ebay",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T01:01:41.921346Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Yamaha F335 Acoustic Guitar for $150 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T00:56:20.421782Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Hydro Flask 5L Insulated Lunch Box for $15 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T00:56:20.421782Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men Daily 4.0 Shoes (Various) from $27",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T00:56:20.421782Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$22.80: adidas women Galaxy 7 Running Shoes(3 Colors) at ebay",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T00:56:20.421782Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Babyeap Electric Baby Swing for Infants, Motion Detection, 5 Swing Speeds, Remote Control, Bluetooth Music,Blue $75.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T00:56:20.421782Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nike CPFM Flea 1 Cactus Plant Flea Market Overgrown $249",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T00:56:20.421782Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men Purechill Shoes (2 Colors) $27",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T00:56:20.421782Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$12.91 AMAZON WORKPRO 2-Pack Garden Pruning Shears, 8\" Bypass & 6.25\" Straight Shears",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-18T00:50:54.060707Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Teenage Mutant Ninja Turtles: The Last Ronin Hardcover Book for $12 w/ Prime + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T00:50:54.060707Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$20.40: adidas women VL Court 3.0 Shoes(lce Gold Met./ Core Black/ Off White, Size 5~11) at ebay",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T00:50:54.060707Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men Lite Racer Adapt 7.0 Wide Shoes (2 Colors) from $23.4",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T00:50:54.060707Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "ACCO Brands Paper Clips, Jumbo, Smooth, Economy, 10 Boxes, 100/Box $7.98",
   "reason": "Not evaluated",
