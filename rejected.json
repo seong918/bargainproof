@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$219.99* | Makita XJP03Z 18V LXT Lithium-Ion Cordless Plate Joiner at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-18T19:34:02.711492Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $37.30 | 5 × 2-Pack 5.5-Oz Tom's of Maine Fluoride-Free Antiplaque & Whitening Natural Toothpaste (Peppermint) ($7.46 each) at Amazon ($3.73 each)",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, multi-pack, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-18T19:34:02.711492Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$4.50 ac AMAZON Apple Watch Charger 3 in 1 Multi Charging Cable 4FT Apple MFi Magnetic",
+  "reason": "Posted at $4.50, but Amazon showed $8.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-18T19:34:02.711492Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Fusion Select Halloween Trick or Treat Candy Lollipops 30-Count $3.79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T19:28:36.652540Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "StepTastic High Arch Support Inserts for Men & Women 220+ LBS $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T19:28:36.652540Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "MeatStick WiFi Travel Pack $19.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T19:28:36.652540Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$4 ac AMAZON 3 in 1 Charging Cable,Multi Charger Cable 12w USB Phone Multiple Charger Cord",
   "reason": "Posted at $4.00, but Amazon showed $7.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-18T19:23:12.157111Z",
