@@ -1,5 +1,53 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "dreame Matrix10 Ultra Robot Vacuum with LDS 240+ Obstacle Avoidance $1399.99",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-18T10:48:22.163785Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Giraffe Tools 2400 PSI Grandfalls Pressure Washer G20BPRO, Electric Power Washer $194",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T10:48:22.163785Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men Superlite 3.0 6-Pack Super-No-Show Socks $8.4 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T10:48:22.163785Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Tabounts 3-Step Headlight Restoration Kit $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T10:42:57.395156Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Energizer 1200mAh Ultimate Lithium AAA Batteries (8-Count) $11.39",
+  "reason": "Posted at $11.39, but Amazon showed $1.27 when we checked — the post is stale",
+  "rejected_at": "2026-09-18T10:42:57.395156Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Nnovaroom 72\" Adjustable Utility Rack for $26 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T10:42:57.395156Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Wendy's Dave's Single for $1.99 w/ purchase",
   "reason": "Not evaluated",
