@@ -1,5 +1,117 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$6.99 AC AMAZON LISEN Cell Phone Stand iPhone Holder for Desk, Pink",
+  "reason": "Posted at $6.99, but Amazon showed $9.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-18T19:01:39.825381Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "COSLUS ADA Accepted C20 Water Dental Flosser Pick, Professional Set Black $7.99",
+  "reason": "Posted at $7.99, but Amazon showed $35.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-18T19:01:39.825381Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Genmitsu Cubiko Desktop CNC Router with Enclosure $299.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T19:01:39.825381Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Cooler Master MasterHUB Freeform 2.0 Modular Platform Creator Kit $109.25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T19:01:39.825381Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Innqoo 22.6\" Modern Ceramic Bedside Lamps Set of 2 $29.58",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T19:01:39.825381Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Kobalt 50-Piece Titanium HSS Twist Drill Bit Set $19.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T19:01:39.825381Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Samsung 43\" 4K UHD Smart Monitor M7 $279.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T19:01:39.825381Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Oceania 12-Night Caribbean Cruise for From $5,280 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T19:01:39.825381Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Chef Power 10-Piece Ceramic Non-Stick Cookware Set for $41 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T19:01:39.825381Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Dove Beauty Bars 16-Pack Only $14.48 on Amazon (Just 91¢ Per Bar)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T19:01:39.825381Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Hifonics Colossus Mini 1500W Class D Mono Block Car Audio Amplifier (HCM-1500.1D) $168.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T19:01:39.825381Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DDPAI 4K Dash Cam Z60 Pro SONY STARVIS 2 Car DVR No SD Card $105.9 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T19:01:39.825381Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "PAGANI DESIGN PD-1639 Men's 43mm Automatic Diving Watch 100m Waterproof $88.3 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T19:01:39.825381Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "(YMMV) OFF! Backyard & Deep Woods DEET Insect Repellent Spray, Zevo repellant lotion, others., In-store clearance @ Walmart starting at $3",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T19:01:39.825381Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Adidas Women's Adizero SL2 Shoes $34.80",
   "reason": "Not evaluated",
