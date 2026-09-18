@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "cdfa8f95f51f",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20031465-10-off-with-40-spend-on-select-health-and-beauty-items-at-amazon",
+  "title": "off with spend on select Health and Beauty items",
+  "raw_title": "$10 off with $40 spend on select Health and Beauty items at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 4000,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 6,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-18T18:50:51.555514Z"
+ },
+ {
   "deal_id": "70304c65a030",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20033817-34-99-771-pc-lego-botanical-collection-succulents-at-amazon",
