@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$129.99 | Losi 1/12 NASCAR RC Race Car Kyle Larson No. 5 2025 Valvoline Chevrolet ZL1 2S AWD RTR Brushed On-Road Battery & Charger Included Red LOS1122505 at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-18T20:38:44.089565Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "FLYBIRD 3-in-1 Chest and Arm Exerciser with Ab Roller Wheel, Adjustable 22-440LBS Chest Trainer, Backpack & Pad Included $31.79",
+  "reason": "Posted at $31.79, but Amazon showed $59.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-18T20:38:44.089565Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Godinger Dublin 5-Piece Pitcher & Glasses Drink Bar Set for $37 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T20:38:44.089565Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Keds Scout Iv Switch Splash Lace Up Womens Green Casual Boots, free shipping, $19.95, ebay",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T20:38:44.089565Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Field & Stream 48 MP Trail Cameras, 2 pk., $59.99, Tractor Supply Compant",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-18T20:33:20.969325Z",
