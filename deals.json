@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "1916e5bcf8e2",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20031048-hdpe-outdoor-swivel-glider-rocking-chair-set-of-2-290-99",
+  "title": "HDPE Outdoor Swivel Glider Rocking Chair Set of 2",
+  "raw_title": "HDPE Outdoor Swivel Glider Rocking Chair Set of 2 $290.99",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0GKN87J4P",
+  "deal_total_cents": 29099,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 47999,
+  "amazon_coupon_cents": 18900,
+  "amazon_effective_cents": 29099,
+  "amazon_url": "https://www.amazon.com/dp/B0GKN87J4P",
+  "amazon_checked_at": "2026-09-18T09:03:10.437799Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0GKN87J4P",
+  "image_url": null,
+  "published_at": "2026-09-18T09:01:46.067735Z"
+ },
+ {
   "deal_id": "990986e99ad8",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20031738-14-99-the-essential-johnny-cash-vinyl-w-autorip-mp3-at-amazon",
