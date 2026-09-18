@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "6299b085b2f7",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20035050-35-97-hamilton-beach-4-slice-countertop-air-fryer-toaster-oven-combo-at-amazon",
+  "title": "Hamilton Beach 4 Slice Countertop Air Fryer Toaster Oven Combo",
+  "raw_title": "$35.97 | Hamilton Beach 4 Slice Countertop Air Fryer Toaster Oven Combo at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B08CW95ZFR",
+  "deal_total_cents": 3597,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 3597,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 3597,
+  "amazon_url": "https://www.amazon.com/dp/B08CW95ZFR",
+  "amazon_checked_at": "2026-09-18T23:26:16.211882Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B08CW95ZFR",
+  "image_url": null,
+  "published_at": "2026-09-18T23:26:02.163757Z"
+ },
+ {
   "deal_id": "31cfd425277b",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20034504-amazon-vancastle-10-5-ft-x-24-decorative-garden-fence-10-37-w-code",
