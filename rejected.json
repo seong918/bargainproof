@@ -1,6 +1,102 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[Prime] $8.99 | DreamWorks How to Train Your Dragon Toothless & Deadly Nadder 3” Plush Toys at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-18T10:27:00.332319Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "iVANKY 13-in-1 M6, M5 Pro, M4 Mac Mini Docking Station w/ M.2 SSD NVMe Enclosure $50 + Free Shipping",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-18T10:27:00.332319Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Wegear 100W 3-Port USB-C Foldable Wall Charger $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T10:27:00.332319Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Conwithna 9.8\" Stain-Proof Wall Mount Key Holder Organizer Hanger Rack $3.84",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T10:27:00.332319Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "MelodySusie Pen-Shaped 25000RPM Rechargeable Portable Cordless Nail Drill $6.99",
+  "reason": "Posted at $6.99, but Amazon showed $19.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-18T10:27:00.332319Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Grubhub National Cheeseburger Day Deals: No delivery or service fees + free delivery on $50+ orders",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T10:27:00.332319Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas kids Superlite 3.0 6-Pack Quarter Socks $6 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T10:27:00.332319Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "NFL Clean Up Adjustable Hat Licensed Team Logo (Various) Clearance from $7.62 $7.65",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T10:27:00.332319Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas women GOOD DRIVES 6 PANEL HAT $7.2 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T10:27:00.332319Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Frigidaire 6.5 Cu. ft. Garage Ready Upright Freezer . $218",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T10:27:00.332319Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Amazon Essentials Men's Regular-Fit Denim Shirt for $8 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T10:21:35.961686Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men LIFESTYLE LOW RIPSTOP HAT $7.8 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T10:21:35.961686Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "ORICO 5 Bay Hard Drive Enclosure Supports 2.5/3.5 inch Drives $76.99 after 30% off coupon $80.49",
   "reason": "Posted at $76.99, but Amazon showed $114.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-18T10:16:15.422971Z",
@@ -129581,14 +129677,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T13:22:26.882232Z",
   "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Wegear 100W 3-Port USB-C Foldable Wall Charger $19.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T13:17:07.901759Z",
-  "code": "lookup_failed",
   "public": false
  },
  {

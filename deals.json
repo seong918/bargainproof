@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "10b785e2d796",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20031936-22-19-bushnell-powerview-2-binoculars-at-amazon",
+  "title": "Bushnell PowerView 2 Binoculars",
+  "raw_title": "$22.19 | Bushnell PowerView 2 Binoculars at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B087YQ3VBH",
+  "deal_total_cents": 2219,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 2219,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 2219,
+  "amazon_url": "https://www.amazon.com/dp/B087YQ3VBH",
+  "amazon_checked_at": "2026-09-18T10:27:46.337683Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 2,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B087YQ3VBH",
+  "image_url": null,
+  "published_at": "2026-09-18T10:27:00.332319Z"
+ },
+ {
   "deal_id": "bb35cfa33b15",
   "source": "techbargains",
   "source_url": "https://www.amazon.com/gp/product/B0F3MMK1J4/ref=ox_sc_act_title_1",
