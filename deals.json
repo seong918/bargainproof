@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "8479bc23af78",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20034852-amazon-storehappily-2-pack-shoe-organizers-gray-19-99-w-coupon",
+  "title": "Amazon – StoreHappily 2-Pack Shoe Organizers (Gray) - w/ Coupon",
+  "raw_title": "Amazon – StoreHappily 2-Pack Shoe Organizers (Gray) - $19.99 w/ Coupon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0FQTN39LB",
+  "deal_total_cents": 1999,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "qty"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 2699,
+  "amazon_coupon_cents": 700,
+  "amazon_effective_cents": 1999,
+  "amazon_url": "https://www.amazon.com/dp/B0FQTN39LB",
+  "amazon_checked_at": "2026-09-18T22:10:23.642495Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0FQTN39LB",
+  "image_url": null,
+  "published_at": "2026-09-18T22:10:19.421214Z"
+ },
+ {
   "deal_id": "402fc6401a7a",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20034831-31-17-chef-iq-smart-wireless-probe-meat-thermometer-at-amazon",
