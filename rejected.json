@@ -1,5 +1,21 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$27.82* | DC Batman/Superman: World's Finest: The Deluxe Edition Vol. 1 (Hardcover Book) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-18T23:20:39.784856Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "with 2 batteries, WORX 20V 12\" 2-in-1 Cordless String Trimmer & Electric Lawn Edger, WG163, $79.99, Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T23:20:39.784856Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "WORX 20V 12\" 2-in-1 Cordless String Trimmer & Electric Lawn Edger for $80 + free shipping",
   "reason": "Not evaluated",
