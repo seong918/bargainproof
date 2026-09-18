@@ -1,5 +1,117 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "The North Face Jester Everyday Laptop Backpack for $50 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T11:31:02.378766Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Levi's Flash Sale for Up to 70% off + extra $50 to $100 off over $150 + free shipping w/ $75",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T11:31:02.378766Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "3-Piece Bedsure Queen Size Reversible Floral Comforter Set (Sage Green) $17.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-18T11:31:02.378766Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$17* | 16oz WoodWick Fraser Fir Holiday Candle w/ Crackling Wick at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-18T11:25:50.632353Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS] $38.64 | 3 × 16oz. Vanicream Moisturizing Skin Cream (Sensitive Skin) + $10 credit at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-18T11:25:50.632353Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "4 in 2 Multi Charging Cable w/Apple Watch Charger $6.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T11:25:50.632353Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Tilswall Cordless Hot Glue Gun, 30s Fast Heat, Auto-Off, 20 Sticks $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T11:25:50.632353Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Infrared Red Light Therapy Mask Ultra-Thin Cordless $46.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T11:25:50.632353Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Boar Bristle Hair Brush for Painless Detangling $13.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T11:25:50.632353Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "MERACH 14' Outdoor Pumpkin Trampoline w/ Basketball Station & Enclosure $199.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T11:25:50.632353Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Kids Toss and Catch Ball Outdoor Game Set $14.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T11:25:50.632353Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Earn Up to $175 in Amazon Credits Before Prime Day (Easy Ways to Score!)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T11:25:50.632353Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Cat Litter & Pet Odor Deodorizer Eliminator $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T11:20:28.431794Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Apple iPhone 18 Pro Max 256GB for T-Mobile for From $2.78/month w/ Experience Beyond Plan + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T11:20:28.431794Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Band Compatible with Google Fitbit Air Band Silicone $4.99",
   "reason": "Not evaluated",
