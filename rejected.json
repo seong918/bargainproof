@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "KUGUAOK Polarized Aviator Sunglasses for Women Sporty Style Running Sun Glasses $10.78",
+  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-18T16:30:18.678849Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Snyder's of Hanover Mini Pretzels & Pretzel Sticks Variety Pack 20-Count $7.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T16:30:18.678849Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Cionum 2-Pack 60W USB-C Chargers w/ 6' Cables $13.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T16:30:18.678849Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Victrix Pro FS-12 Fight Stick Arcade Controller $200.20",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T16:30:18.678849Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$250 Tractor Supply PICK UP ONLY Blackstone 2472 36 in. Omnivore Griddle",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T16:30:18.678849Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "MERACH Stair Stepper Machine $60 + Free S/H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T16:30:18.678849Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "VAESIDA Hat Organizer for Baseball Caps, 4 Pack Hat Storage Box, Holds up to 56 Caps $22.79",
   "reason": "Posted at $22.79, but Amazon showed $37.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-18T16:24:58.360732Z",
