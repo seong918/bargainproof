@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "6b03cd40c5d7",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20032419-new-14-99-bob-dylan-rough-and-rowdy-ways-vinyl-w-autorip-mp3-at-amazon",
+  "title": "Bob Dylan: Rough and Rowdy Ways (Vinyl w/ AutoRip MP3)",
+  "raw_title": "[NEW] $14.99 | Bob Dylan: Rough and Rowdy Ways (Vinyl w/ AutoRip MP3) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0889C42XF",
+  "deal_total_cents": 1499,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 1499,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1499,
+  "amazon_url": "https://www.amazon.com/dp/B0889C42XF",
+  "amazon_checked_at": "2026-09-18T15:42:00.452178Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0889C42XF",
+  "image_url": null,
+  "published_at": "2026-09-18T15:41:55.827075Z"
+ },
+ {
   "deal_id": "0d22fb903a4a",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20032587-nicpro-7-in-1-cp5000-magnetic-carpenter-pencils-sharpener-7-70-amazon-w-s-s",

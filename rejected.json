@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "60.7\" JUOIFIP Toy Storage Organizer w/ Bookshelf & Stuffed Animal Storage $74.99 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-18T15:41:55.827075Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "54\" x 95\" Threshold Light Filtering Textured Weave Window Curtain (Cream) $14.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T15:41:55.827075Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "ECO-WORTHY 12KW Hybrid Inverter + 6 Pack 48V 100AH Lithium Battery System $6,849.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T15:41:55.827075Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Toguardgo Wireless CarPlay AI Box for $60 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T15:41:55.827075Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Apple MacBook Pro M5 14\" Laptop w/ 24GB RAM (2025) for $1,899 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T15:41:55.827075Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Waterdrop 10UB-UF Ultra Filtration under Sink Water Filter System for $60 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T15:41:55.827075Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Brooks Men's Hyperion 3 Running Shoes for $70 + free shipping",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-18T15:41:55.827075Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$12.49: Schleich Eldrador Creatures Ice Dragon Action Figure with Movable Wings",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-18T15:36:33.790838Z",
