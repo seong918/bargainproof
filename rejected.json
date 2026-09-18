@@ -1,5 +1,149 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Zeagoo Long Sleeve T Shirts for Women Casual Fall Ribbed Tops Army Green $5.99",
+  "reason": "Posted at $5.99, but Amazon showed $9.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-18T13:05:59.359876Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Makita XLC07Z 18V Lithium-Ion Handheld Canister Vacuum $142.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:05:59.359876Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Thermomaven 3000' 6-Sensor Waterproof Smart Wireless Meat Thermometer $39.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:05:59.359876Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Minthouz 35W USB-C Dual-Port GaN Charger with Foldable Plug $7.79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:05:59.359876Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Tall Kitchen Drawstring Trash Bags, Unscented, 13 Gallon, 120 Count $9.57",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:05:59.359876Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Adidas X_PLRPATH WIDE SHOES White $29.40",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:05:59.359876Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Sharpie S-Note Creative Markers Pastel Highlighters 24-Count $9.11",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:05:59.359876Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "IN THE RAW Turbinado Cane Sugar Packets 2-Pack 200-Count $8.35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:05:59.359876Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "The North Face Berkeley Crossbody Bag $30.37",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:05:59.359876Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Men's Pajama Sets $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:05:59.359876Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Adidas women NY 90 W Shoes (4 Colors) $25.80",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:05:59.359876Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Adidas BARREDA MUNDIAL Men's Shoes $30.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:05:59.359876Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Woot Really Random Deals Clearance for Up to 83% off + extra $10 off $50 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:05:59.359876Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "24-Pack: Oral B Fresh and Clean Soft Toothbrush $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:05:59.359876Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "PUMA Inhale Lace Up Men's Yellow Sneakers Casual Shoes - $29.95 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:05:59.359876Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ZNLYRION 1:12 Scale 4x4 On/Off Road RC Monster Car - Hits 34 mph SG316MAX Brushless Motor (High Performance - Hobby Grade) $94 + Free S/H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:05:59.359876Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Stanley 1/4\" Drive SAE/Metric Mechanic's Tool Set $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:05:59.359876Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "PUMA Transport Running Men's Grey Sneakers Athletic Shoes - $24.95 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:05:59.359876Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Fanttik G9 Handy Cordless Electric Spin Scrubber with 5 Brush Heads and 2500mAh Battery $35.99",
   "reason": "Not evaluated",
@@ -2005,14 +2149,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-18T09:54:35.605800Z",
   "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Woot Really Random Deals Clearance for Up to 83% off + extra $10 off $50 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T09:54:35.605800Z",
-  "code": "no_signal",
   "public": false
  },
  {
