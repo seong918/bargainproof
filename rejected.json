@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "15-Count Vitafusion Hydraboost Wellness Drink Powder Packets (Watermelon Blast) $4.75 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-18T03:33:14.615925Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Magnesium Glycinate Complex - 12 Forms of Glycinate,Citrate & B6,120 Caps $9.43",
+  "reason": "Posted at $9.43, but Amazon showed $0.13 when we checked — the post is stale",
+  "rejected_at": "2026-09-18T03:33:14.615925Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Adidas men's Adilette Aqua Slides from $7.20 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T03:33:14.615925Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "YUHUO Smart Scale for Body Weight, 8-Electrode Digital Bathroom Scale with BMI, Body Fat, Muscle Mass, Segmental Full Body Composition Analyzer, 28 Metrics Bluetooth App $39.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T03:33:14.615925Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon - Stouchi Find My Trackable RFID-Blocking Wallet - $10.99 w/ Code",
   "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-18T03:27:49.127216Z",
