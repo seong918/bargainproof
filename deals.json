@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "bb56bace7a4c",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20030343-25-252-pc-lego-city-advent-calendar-2026-building-toy-at-amazon",
+  "title": "252-Pc LEGO City Advent Calendar 2026 Building Toy",
+  "raw_title": "$25* | 252-Pc LEGO City Advent Calendar 2026 Building Toy at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0G5QJP2BW",
+  "deal_total_cents": 2500,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 2500,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 2500,
+  "amazon_url": "https://www.amazon.com/dp/B0G5QJP2BW",
+  "amazon_checked_at": "2026-09-18T00:08:10.176881Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0G5QJP2BW",
+  "image_url": null,
+  "published_at": "2026-09-18T00:08:06.002325Z"
+ },
+ {
   "deal_id": "28907a13ce20",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20029143-anker-usb-c-to-usb-c-cable-100w-fast-charging-cable-2-pack-6-ft-black-9-99",
