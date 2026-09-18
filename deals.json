@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "1a27970bc936",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20031483-47-99-aidoly-adjustable-foldable-weight-bench-795-lbs-capacity-at-amazon",
+  "title": "Aidoly Adjustable Foldable Weight Bench (795-lbs Capacity)",
+  "raw_title": "$47.99* | Aidoly Adjustable Foldable Weight Bench (795-lbs Capacity) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0GFT9PHDP",
+  "deal_total_cents": 4799,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 4799,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 4799,
+  "amazon_url": "https://www.amazon.com/dp/B0GFT9PHDP",
+  "amazon_checked_at": "2026-09-18T07:10:27.249050Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0GFT9PHDP",
+  "image_url": null,
+  "published_at": "2026-09-18T07:10:23.425881Z"
+ },
+ {
   "deal_id": "a64d6b10de81",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20031420-46-34-bushnell-powerview-2-binoculars-10x42-at-amazon",
