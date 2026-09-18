@@ -1,6 +1,142 @@
 [
  {
   "source": "dealcatcher",
+  "raw_title": "6 Pack Solid Cologne Set $4.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T11:09:36.509965Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Bluvol T10 Apex Foldable Travel Hair Dryer with 200 Million AquaGlow Negative Ions $65.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T11:09:36.509965Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Frishantic Vitamin D3 K2 5000IU 120 Softgels $4.79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T11:09:36.509965Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Cordless Electric Lunch Box Warmer $39.89",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T11:09:36.509965Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HP OmniBook 3 17.3\" Touchscreen Laptop - AMD Ryzen 5 130 - FHD (1920 x 1080) - 16GB Memory - 1TB SSD - Windows 11 Home $649.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T11:09:36.509965Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HP OmniBook 7 Flip 16\" 2-in-1 AI Laptop - Intel Evo Platform Powered by Intel Core Ultra 7 258V - Copilot+ PC - 3K OLED Touchscreen - 32GB Memory - 1TB SSD $1099.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T11:09:36.509965Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Talix 240W PD3.2 EPR USB-C to USB-C Cable Charging Cord $6.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T11:04:25.431187Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "BUGANI Open Ear Earbuds $15.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T11:04:25.431187Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Tilswall Cordless Hot Glue Gun w/glue sticks $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T11:04:25.431187Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "GNCC 2K Light Bulb Security Camera 2-Pack $55.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T11:04:25.431187Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "RGB Motion Sensor Wall Lights (2-Pack) $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T11:04:25.431187Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Zdeer Electric Gua Sha & Facial Massager $20.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T11:04:25.431187Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "RORRY CharmGo 20000mAh Portable Charger $31.79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T11:04:25.431187Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Windstar 8-Night Bermuda Wellness Cruise for From $5,814 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T11:04:25.431187Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Acer Aspire 27\" All-in-One Desktop – AMD Ryzen 7 5825U - FHD 120Hz (1920 x 1080) - 16GB RAM - 1TB SSD - Windows 11 Home $699.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T11:04:25.431187Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Giraffe Tools Wet Dry Vacuum Cleaner with 30FT Retractable Hose Wall-mounted USA $252",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T11:04:25.431187Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HP OmniStudio 27\" Touchscreen All‑in‑One Desktop - Intel Core Ultra 7 Series 3 Processor - Copilot+ PC - FHD (1920 x 1080) - 32GB Memory - 1TB SSD - Windows 11 Home $1499.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T11:04:25.431187Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
   "raw_title": "BCAN SP3 48\" Exercise Rebounder Trampoline $79.19",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-18T10:59:05.333198Z",
@@ -11586,14 +11722,6 @@
  {
   "source": "dealcatcher",
   "raw_title": "SUPGALIY Dual Voltage Travel Hair Dryer $34.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T12:10:13.572722Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "BUGANI Open Ear Earbuds $15.95",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T12:10:13.572722Z",
   "code": "not_checked",
