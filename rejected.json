@@ -1,6 +1,86 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[Prime] $19.99* | 6-Pk KuBace Solar Outdoor LED Lily Flower Garden Lights at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-18T18:02:13.901346Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "EVFOFO Red Light Therapy for Face, Light Therapy Mask $35.09",
+  "reason": "Posted at $35.09, but Amazon showed $54.59 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-18T18:02:13.901346Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "24-Piece Minecraft Advent Calendar $12.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T18:02:13.901346Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Black Crowes - A Pound of Feathers Amazon Exclusive Edition Color vinyl LP $16.67",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T18:02:13.901346Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Oceania 10-Night Caribbean Cruise for From $9,280 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T18:02:13.901346Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Dot’s Pretzels Just $4.41 Shipped on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T18:02:13.901346Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Lbs Kinetic Sand Variety Case $5.28 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T18:02:13.901346Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "8-Piece Art & Cook Round Or Rectangle Nesting Bowl Set w/ Lids (Various Colors) $11.20 + Free Pickup at Macys or Free Shipping on $39+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T18:02:13.901346Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Refurbished: GameSir G7 Pro Wireless Controller w/ Charging Dock for Xbox, PC, Android $54.39 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T18:02:13.901346Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Crane True HEPA Air Purifier w/ Aroma Tray & Night Light (Up to 150 Sq. Ft.) $14.00 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T18:02:13.901346Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "AstroAI 27\" Snow Brush & Ice Scraper for Car Windshield Snow Remove, 2 Pack $11.39",
   "reason": "Posted at $11.39, but Amazon showed $18.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-18T17:56:48.458284Z",
