@@ -1,5 +1,133 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $7.96 | 3 × 22-Oz Dawn EZ-Squeeze Ultra Dish Soap (Original) ($2.65 each) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, multi-pack, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-18T12:55:18.563350Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Darkdawn D61 395nm Mini USB Rechargeable UV Flashlight $7.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T12:55:18.563350Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "The North Face Berkeley Crossbody Bag with Adjustable Strap $28.71",
+  "reason": "Posted at $28.71, but Amazon showed $33.24 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-18T12:55:18.563350Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Reebok Boys' Hooded Puffer Jacket $32.73",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T12:55:18.563350Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Outdoor Privacy Screen 2-Pack $92.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T12:55:18.563350Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "GYROOR Adjustable Stand Hammock 600lb Capacity $45.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T12:55:18.563350Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men Originals Santiago 3 Lunch Bag from $9.6 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T12:55:18.563350Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$9.99 | Willie Nelson: Last Man Standing (Vinyl w/ AutoRip MP3) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-18T12:49:55.729455Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Minthouz 3 in 1 Wireless Charger Stand $12.91",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T12:49:55.729455Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Mens Bomber Jackets $29.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T12:49:55.729455Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "SKYN Elite – 36 Count – Ultra-Thin, Lubricated Latex-Free Condoms $16.12",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T12:49:55.729455Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Performance Tools 3/8\" Drive Ratcheting Adapter for $6.40 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T12:49:55.729455Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "PUMA Scuderia Ferrari Trinity 2 Lace Up Men's Sneakers (Limited Sizes) $39.95 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T12:49:55.729455Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Brooks Women's Ghost Trail Running Shoes (Tan/White) $83.69 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T12:49:55.729455Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "PUMA BMW M Motorsport X Extent NITRO Lace Up Men's Sneakers - $44.95 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T12:49:55.729455Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Mould King Technical Motorized Excavator Building Block Set, Model #13112 (MOC-2513) $93 + Free S/H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T12:49:55.729455Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Umay 25mm Dual Slide 350lbs 16-Level Magnetic Resistance Rowing Machine $131.99",
   "reason": "Not evaluated",
