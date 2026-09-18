@@ -1,6 +1,342 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Skullcandy Jib Wired In-Ear Earbuds w/ Inline Microphone & 3.5mm AUX (Black or Red $7.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-18T13:27:13.109279Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "The Lost Boys (DVD) $7.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+4) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-18T13:27:13.109279Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "SKG 200mmHg Air Compression Cordless Rechargeable Calf and Foot Massager $449.99",
+  "reason": "Posted at $449.99, but Amazon showed $499.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-18T13:27:13.109279Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Monster N-Lite 203 AirLinks Bluetooth 5.3 Waterproof Wireless Earbuds $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:27:13.109279Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Maelstrom 50L Hiking Backpack with Rain Cover $39.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:27:13.109279Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "NTONPOWER Travel Power Strip with USB Ports $9.89",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:27:13.109279Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Dogcheer Dog Winter Coat with Harness Built in $15.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:27:13.109279Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Solar Halloween Eyeball Lights 6 Pack $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:27:13.109279Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Smart Scale for Body Weight 8-Electrode Dual-Frequency $45.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:27:13.109279Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "3D Contoured Sleep Mask with Earplug Keeper $3.51",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:27:13.109279Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Keurig K-Mini Mate Single Serve K-Cup Pod Coffee Maker $59.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:27:13.109279Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Adidas Men RUN 70s 2.0 Shoes $27.60",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:27:13.109279Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Outdoor LED String Lights for From $32 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:27:13.109279Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "PUMA King Pro Soccer Cleats Men's Red Sneakers Athletic Shoe - $59.95 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:27:13.109279Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$69.99: Hamilton Beach 4 Quart Electric Stand Mixer, 7 Speeds",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-18T13:21:45.380139Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "EPOCH Games Super Mario Mushroom Mania Balancing Game $10.45 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-18T13:21:45.380139Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Carhartt Men's Dearborn Loose Fit Long-Sleeve Logo T-Shirt (Carbon Heather) $22.86 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-18T13:21:45.380139Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[S&S] $60.90: Honeywell HEPA Air Purifier Filter Replacement Kit for HPA300, HPA3300, HPA5300, HPA8350 series (Value Combo Pack Includes 3 HEPA R & 4 A Carbon Pre-Cut Pre-Filters)",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-18T13:21:45.380139Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Acer Gadget Magnetic Golf Cart Phone Holder, 360° Rotation, Pocket-Sized $12.99",
+  "reason": "Posted at $12.99, but Amazon showed $19.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-18T13:21:45.380139Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Sharpie S-Gel Medium Point 0.7mm Retractable Gel Pens 8-Count $6.64",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:21:45.380139Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Resident Evil 3 - PlayStation 5 $15.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:21:45.380139Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Adidas Men's Lite Racer Adapt 7.0 Wide Shoes $16.80",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:21:45.380139Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Turtle Beach Rematch Wireless Controller Mario & Luigi Nintendo Switch 2 $49.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:21:45.380139Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "FunouHome Light Up Halloween Decor Boo Sign 8.5\" x 6.4\" $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:21:45.380139Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "CoverGirl Clean Fresh Tinted Lip Balm (I Cherry-Ish You) $4.93",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:21:45.380139Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Nike CPFM Flea 1 Cactus Plant Flea Market Overgrown $249.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:21:45.380139Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LED Display Screen Smart Caps $13.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:21:45.380139Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Apple AirPods 5 at Best Buy for From $129 + up to $130 off w/ trade-in + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:21:45.380139Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Unlocked Apple iPhone 18 Pro Max for RedPocket for From $1,199 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:21:45.380139Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Terrosor 26in Commuter Electric Mountain Bike 720W peak 48V 7-Speed Gears $309 + Free S/H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:21:45.380139Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "PUMA King Pro Soccer Cleats (3 colors) from $49.95 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:21:45.380139Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$3 S&S 40% off Q Efferdent Denture Cleaner Tablets, Minty Fresh & Clean, 126 Count",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-18T13:16:24.620550Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$3.98 S&S 40% off Q Debrox Earwax Removal Aid, 0.5 oz Earwax Removal Drops",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-18T13:16:24.620550Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "COSYGLOW Travel Makeup Mirror with Light, Portable Hexagon Vanity Mirror $6.99",
+  "reason": "Posted at $6.99, but Amazon showed $9.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-18T13:16:24.620550Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Suzume Portable Metric and SAE Flex Head Ratcheting Wrench Set (24-Piece) $58.73",
+  "reason": "Posted at $58.73, but Amazon showed $97.88 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-18T13:16:24.620550Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Adidas men Purechill Shoes $18.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:16:24.620550Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Adidas Men's Lite Racer Adapt 7.0 Shoes Cloud White/Core Black $21.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:16:24.620550Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "NFL Teams Adjustable Hat $7.65",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:16:24.620550Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Runfalcon 6 CLOUDFOAM Running Shoes $30.10",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:16:24.620550Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Google Pixel Watch 5 41mm LTE Smartwatch (Matte Black / Obsidian) $422.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:16:24.620550Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "PUMA All Pro Nitro Gold Rush Basketball Men's Gold Sneakers Athletic Shoes (Select - $59.95 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:16:24.620550Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Brooks Men's Hyperion Max 3 Running Shoes (2 Colors) $95.54 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:16:24.620550Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$2.29 or less S&S 40% off Q DenTek Floss Picks, Advanced Clean, Plaque Remover, 150 Count",
   "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-18T13:11:06.756289Z",
