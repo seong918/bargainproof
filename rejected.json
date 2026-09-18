@@ -1,6 +1,94 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Casio FX-300ESPLSB-BU Scientific Calculator $9.79 + Free Shipping w/ Prime or on orders over $35",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-18T17:51:24.682513Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Coostar Mens Slip On Walking Shoes Cushioning Running Tennis Sneakers $29.69",
+  "reason": "Posted at $29.69, but Amazon showed $53.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-18T17:51:24.682513Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Seventh Generation EasyDose Laundry Detergent 23.1-Oz (Clean Scent) $5.38",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T17:51:24.682513Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Coostar Men's Slip-On Canvas Loafers for $30 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T17:51:24.682513Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Bestway SleepSupport Premium Queen 20\" Air Mattress w/ Built-In Pump for $57 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T17:51:24.682513Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Victoria's Secret Big Fall Sale Panties Deal for 5 for $20 + Free Shipping w/ $100",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T17:51:24.682513Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Stock Your Closet w/ Target’s Basic Tees Starting at Just $4.50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T17:51:24.682513Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Round Trip New Jersey to Athens Greece $490-$494 Airfares on SAS Scandinavian Airlines BE (Travel December - March 2027)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T17:51:24.682513Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M18 FUEL 18V 4-1/2\"/5\" Variable Speed Slide Switch Brushless Cordless Angle Grinder w/ 6.0Ah Battery $279.00 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T17:51:24.682513Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "4.5-Quart The Cellar 9.5\" Stainless Steel Colander $7.69 + Free Store Pickup at Macy's or Free Shipping on $39+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T17:51:24.682513Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Range Kleen Half-Sheet Silicone Baking Mat (11.6\" x 16.5\") $3.09 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T17:51:24.682513Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$79.99* | Greenworks 40V Cordless 135 CFM Leaf Blower w/ 2.0 Ah Battery & Charger at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-18T17:46:01.548250Z",

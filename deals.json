@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "e6c23f1038e3",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20032743-sns-ac-11-48-12-pk-4-oz-lenny-larry-s-protein-cookie-birthday-cake-at-amazon",
+  "title": "12-Pk 4-Oz Lenny & Larry's Protein Cookie (Birthday Cake)",
+  "raw_title": "[SnS, AC] $11.48* | 12-Pk 4-Oz Lenny & Larry's Protein Cookie (Birthday Cake) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1148,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-18T17:51:24.682513Z"
+ },
+ {
   "deal_id": "690d089605ef",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20033664-19-99-war-greatest-hits-2-0-vinyl-w-autorip-mp3-at-amazon",
