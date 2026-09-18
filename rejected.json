@@ -1,6 +1,78 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "C4 Ripped Sport Pre Workout Powder 30 Servings for $20 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T20:17:15.562231Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Target One4all Gift Card Deals for $10 Target GiftCard + email delivery",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T20:17:15.562231Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Certified Refurbished: Hisense PX3-PRO 4K UHD Triple Laser Home Theater UST Projector (Up to 150\") $1610 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T20:17:15.562231Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Pack 2.3-Oz Laneige Water Sleeping Mask EX $32.79 ($16.39 Each) + Free Shipping w/ Prime or $6 Fee per Order",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T20:17:15.562231Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$84.99 | Greenworks PowerAll 24V Cordless Brushless 1/2\" 400 in-lbs Drill/Driver at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-18T20:11:50.663742Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS] $24.70* | Estée Lauder Double Wear Stay-in-Place Foundation Makeup at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-18T20:11:50.663742Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SHINE WELL Leg Massager with Heat and Compression for Circulation, 3 Heat 3 Modes 3 Intensities for Pain Relief and Swelling $65",
+  "reason": "Posted at $65.00, but Amazon showed $169.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-18T20:11:50.663742Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "NEW Elf on the Shelf Marvel & Disney Accessories Starting at Just $10.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T20:11:50.663742Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Certified Refurbished WYZE Outdoor Floodlight Security Camera Pro w/ 2.5K HD 3000LM LED & 180° Wide View (White) $64 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T20:11:50.663742Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
   "raw_title": "Oceania 12-Night Caribbean Cruise for From $8,050 for 2",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-18T20:06:28.756819Z",
