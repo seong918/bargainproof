@@ -1,5 +1,21 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "GORILLA GRIP® XL 4-Sided Stainless Steel BPA-Free Cheese Grater, Black, $12.58, Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-18T09:06:53.178837Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas Men's Terrex Eastrail 3 Mid Climaproof Hiking Shoes (sizes from 10) for $49 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T09:06:53.178837Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Seabourn 14-Night Sea of Japan & Plum Blossoms Cruise for From $16,470 for 2",
   "reason": "Not evaluated",

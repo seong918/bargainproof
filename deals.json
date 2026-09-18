@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "3e24079abf30",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20031573-sns-ac-32-41-6-6-pack-7-5-oz-softsoap-liquid-hand-soap-fresh-breeze-5-40-each-at-amazon-90-each",
+  "title": "6 × 6-Pack 7.5-Oz Softsoap Liquid Hand Soap (Fresh Breeze) at Amazon (90￠ each)",
+  "raw_title": "[SnS, AC] $32.41* | 6 × 6-Pack 7.5-Oz Softsoap Liquid Hand Soap (Fresh Breeze) ($5.40 each) at Amazon (90￠ each)",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 3241,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-18T09:06:53.178837Z"
+ },
+ {
   "deal_id": "1916e5bcf8e2",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20031048-hdpe-outdoor-swivel-glider-rocking-chair-set-of-2-290-99",
