@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "b28a0184d03a",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20030475-sns-ac-2-10-13-oz-chips-ahoy-original-chocolate-chip-cookies-at-amazon",
+  "title": "13-Oz Chips Ahoy! Original Chocolate Chip Cookies",
+  "raw_title": "[SnS, AC] $2.10* | 13-Oz Chips Ahoy! Original Chocolate Chip Cookies at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 210,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-18T07:59:03.154068Z"
+ },
+ {
   "deal_id": "c5cc78c06516",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20031132-sns-14-16-8-pack-16-3-oz-skippy-creamy-peanut-butter-at-amazon",
