@@ -1,6 +1,262 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$9.90 S&S Q Essentia Ionized Alkaline Water, 9.5+ pH, 99.9% Pure, 12 x 1L",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-18T14:37:20.414200Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Snyder's of Hanover Sticks Pretzels, 16 Oz~$2.90 After Coupon @ Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-18T14:37:20.414200Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Bedsure 25\"x35\" Lightweight Small Dogs Cooling Blanket $8.46",
+  "reason": "Posted at $8.46, but Amazon showed $15.39 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-18T14:37:20.414200Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Freehill 6-Zone Heating Men's Heated Puffer Vest (Built for -22°F Work) $95.99",
+  "reason": "Posted at $95.99, but Amazon showed $135.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-18T14:37:20.414200Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Lavazza House Blend Perfetto Whole Bean Coffee 12oz Bag, Medium Roast, Full-bodied, Intensity 3/5, 100% Arabica, Ideal for Drip Brewers, (Pack of 1) - Package May Vary $6.59",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T14:37:20.414200Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "CTOLITY 2048Wh 2400W Peak 4800W Portable Power Station $519.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T14:37:20.414200Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "TICONN 6 Pack Extra Large Moving Bags Heavy Duty with Zippers & Carrying Handles, Durable Storage Bags Moving Boxes for Closet Organizers and Storage (6 Pack, Blue) $22.94",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T14:37:20.414200Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "belVita Breakfast Bars Biscuits, Blueberry, 30 Packs $12.59",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T14:37:20.414200Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Bissell CrossWave HydroSteam Deluxe 3-in-1 Steam Mop, 3515G $279.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T14:37:20.414200Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Pop-Tarts Toaster Pastries, Breakfast Foods, Kids Snacks, Value Pack, Frosted Strawberry (4 Boxes, 64 Pop-Tarts) $13.19",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T14:37:20.414200Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Men's Calvin Klein Acre Black Walking Sneakers Casual Shoes CMACRE Size 12 $42.75",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T14:37:20.414200Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Shark FlexStyle, Air Multi-Styler & Drying System $199.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T14:37:20.414200Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "On Men's Cloudsurfer Max Running Shoes (Pelican/Limelight) $83.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T14:37:20.414200Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "WYBOT C1 Cordless Robotic Pool Vacuum for Inground Pools, Professional | 4-in-1 Robotic Pool Cleaner for Above Ground Pool, 160 Mins Runtime, APP Countrol, Smart Navigation with Powerful Suction $399.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T14:37:20.414200Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Nesugar G3 Pro Smart Handheld Clothes Steamer for $20 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T14:37:20.414200Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Morrerfresh Air Ionizer for $20 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T14:37:20.414200Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Philips Bluetooth & WiFi Stereo System for Home with CD Player, Spotify, Internet Radio, FM Radio, MP3 Playback, 100W, Remote Control Included $289.99",
+  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-18T14:31:53.280713Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$14.99 | Kiss: KISSWORLD - The Best Of KISS (Vinyl w/ AutoRip MP3) at Amazon",
+  "reason": "Out of stock on Amazon when we checked",
+  "rejected_at": "2026-09-18T14:31:53.280713Z",
+  "code": "amazon_oos",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Garmin vivofit jr 3 Kid's Fitness Tracker (Peach Leopard) $40.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T14:31:53.280713Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "McAfee Total Protection 1YR 2026 Antivirus Software for 5 Devices | Auto-Renews $27.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T14:31:53.280713Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Milwaukee PACKOUT 22 inch Modular 3-Drawer Tool Box with Metal Reinforced Corners (In-Store Clearance Price) $129.35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T14:31:53.280713Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Selkirk Sport SLK Neo Pickleball Paddles Set of 2 + Pickleballs + Sling Bag | Pickle Ball Rackets 2 Pack in Graphite or Fiberglass, with an Expanded Sweet Spot $67.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T14:31:53.280713Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "New Balance Classics 530 Unisex $59.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T14:31:53.280713Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "roborock Saros 10R Robot Vacuum and Mop, 22000Pa, Edge Cleaning | 3.14\" Slim Design Reaches Under Furniture, Zero-Tangle System, Self-Cleaning Dock With Hot-Water Mop Washing for Hands-Free $999.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T14:31:53.280713Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Lenox Porcelain Halloween Figural Pumpkin Candy Bowl $33.59",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T14:31:53.280713Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Play-Doh Barbie Ruffles and Bows Set $9.93",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T14:31:53.280713Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Tommy Hilfiger Women's Lenian T-Strap Flat Slingback Sandal $24.15",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T14:31:53.280713Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Beats Powerbeats Fit Wireless Earbuds - Jet Black $169.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T14:31:53.280713Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Soothfeel Women's Athletic Workout Shorts for $10 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T14:31:53.280713Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Clinique Black Honey Almost Lipstick Only $11.87 Shipped on Amazon (Reg. $25)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T14:31:53.280713Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bionic Bay (PC Game) $1.79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T14:31:53.280713Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Adidas Men's Essentials Fleece Hoodie (2 Colors, S or 2XL) $12.00 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T14:31:53.280713Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Invengo Cat Water Fountain Stainless Steel 108oz/3.2L Pet Fountain STARTING AT $16.49 AC + Free Shipping",
   "reason": "Posted at $16.49, but Amazon showed $29.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-18T14:26:31.101483Z",
