@@ -1,6 +1,94 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$2.29 or less S&S 40% off Q DenTek Floss Picks, Advanced Clean, Plaque Remover, 150 Count",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-18T13:11:06.756289Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$27.25.-$28.46 ac Amazon Essentials Men's Waterproof Hiking Boot with Memory Foam Insole (size 9, 10, 11, 12) (gray-olive)",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-18T13:11:06.756289Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Liver Health & Lymphatic Drainage Drops with Milk Thistle & Artichoke -60ml $10.79",
+  "reason": "Posted at $10.79, but Amazon showed $22.79 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-18T13:11:06.756289Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "NFL Team Hoodies $21.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:11:06.756289Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Hydro Flask Kids’ Insulated Hard Sided Lunch Box $10.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:11:06.756289Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Adidas Women's Swift Run 1.0 Shoes (Beige / Core Black / Cloud White) $19.20",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:11:06.756289Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Johnny Mathis: Merry Christmas (Vinyl) $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:11:06.756289Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "20 Pack Christmas Gift Bags Assorted Sizes $15.59",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:11:06.756289Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "The North Face Women's ThermoBall Traction Booties $21.93",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:11:06.756289Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Unlocked Apple iPhone 18 Pro for RedPocket for From $1,099 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:11:06.756289Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Adidas Women's VL Court 3.0 Shoes (lce Gold Met/ Core Black/ Off White, Sizes: 5-11) $18 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T13:11:06.756289Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Zeagoo Long Sleeve T Shirts for Women Casual Fall Ribbed Tops Army Green $5.99",
   "reason": "Posted at $5.99, but Amazon showed $9.98 when we checked — the deal is probably over",
   "rejected_at": "2026-09-18T13:05:59.359876Z",
