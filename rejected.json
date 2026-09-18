@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[S&S] Lunakai USA Made Hair Growth Supplement for Women, 90 Capsules $12.32",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-18T03:11:34.546281Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Imagine Dragons \"Loom\" (Translucent Coke Bottle Green Vinyl LP) $14.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-18T03:11:34.546281Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas women Galaxy 7 Running Shoes (Onix / Glow Purple / Aurora Onix) $18",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T03:11:34.546281Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon - G Gradual Men's Mesh Workout Sweatpants - $14.81 w/ Code",
   "reason": "Community score too low (+-1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-18T03:06:08.044896Z",
