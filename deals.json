@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "13b85d0b29c6",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20032767-the-incredibles-4k-uhd-blu-ray-digital-21-18-amazon-com",
+  "title": "The Incredibles [4K UHD] + Blu Ray + Digital Amazon.com",
+  "raw_title": "The Incredibles [4K UHD] + Blu Ray + Digital $21.18 Amazon.com",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 2118,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-18T17:56:48.458284Z"
+ },
+ {
   "deal_id": "e6c23f1038e3",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20032743-sns-ac-11-48-12-pk-4-oz-lenny-larry-s-protein-cookie-birthday-cake-at-amazon",
