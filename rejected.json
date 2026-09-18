@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "23.1-Oz Seventh Generation Ultra Concentrated EasyDose Liquid Laundry Detergent, Free & Clear (66 Loads) $6.34 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-18T16:35:42.431445Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Dbfit H13 Auto-Mode Washable Filter HEPA Air Purifier (Up to 2590sq ft) $47.99",
+  "reason": "Posted at $47.99, but Amazon showed $69.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-18T16:35:42.431445Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "HPBS 5000A Jump Starter w/ 150 PSI Air Compressor $31.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T16:35:42.431445Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "ILIFE V2 Robot Vacuum Cleaner $69.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T16:35:42.431445Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "DenTek Floss Picks 150-Count Only $2.29 Shipped on Amazon (Reg. $6)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T16:35:42.431445Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Capri Sun 10-Pack Just $2 Shipped on Amazon (Great for Lunch Boxes)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T16:35:42.431445Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "KUGUAOK Polarized Aviator Sunglasses for Women Sporty Style Running Sun Glasses $10.78",
   "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
   "rejected_at": "2026-09-18T16:30:18.678849Z",
