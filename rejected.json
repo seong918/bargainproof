@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "from $40.60* | 4-Pk Sunlu Shiny Silk PLA+ 1kg Spool 3D Printer Filament Bundle at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-18T18:07:39.265272Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "VitBoost Magnesium Glycinate 500mg Sleep Support Capsules 120-Count $7.96",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T18:07:39.265272Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Spindrift Sparkling Water 20-Pack 12-Oz (4 Flavor Original Variety Pack) $9.62",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T18:07:39.265272Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "UNARK Upright Christmas Tree Storage Bag for 6'-7.5' Trees $29.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T18:07:39.265272Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Franklin Sports MLB Anti-Tip Adjustable Kids Batting Tee (23\"-33\") $6 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T18:07:39.265272Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[Prime] $19.99* | 6-Pk KuBace Solar Outdoor LED Lily Flower Garden Lights at Amazon",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-18T18:02:13.901346Z",
