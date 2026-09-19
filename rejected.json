@@ -1,6 +1,14 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "COMHOMA Big and Tall Office Chair,Heavy Duty Gaming Chair with Foot Rest, Leather Black $114.99",
+  "reason": "Posted at $114.99, but Amazon showed $169.16 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-19T03:18:30.774598Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Eivikga 3 Channel Dash Cam, 4K+2.5K+2.5K, WiFi GPS, for Rideshare and Taxi $56.99",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-19T03:13:04.727869Z",

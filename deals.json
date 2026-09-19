@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "f6aa5b05947b",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20034633-amazon-soothfeel-women-s-5-running-shorts-10-99-w-code",
+  "title": "Amazon – Soothfeel Women’s 5\" Running Shorts - w/ Code",
+  "raw_title": "Amazon – Soothfeel Women’s 5\" Running Shorts - $10.99 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0GS5FTBD6",
+  "deal_total_cents": 1099,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 2199,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 2199,
+  "amazon_url": "https://www.amazon.com/dp/B0GS5FTBD6",
+  "amazon_checked_at": "2026-09-19T03:18:39.169892Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0GS5FTBD6",
+  "image_url": null,
+  "published_at": "2026-09-19T03:18:30.774598Z"
+ },
+ {
   "deal_id": "13e21cfa9bc7",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20034447-amazon-g-gradual-men-s-7-athletic-shorts-11-99-w-code",
