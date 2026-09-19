@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "398c6b36e1fc",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20036331-sns-ac-4-58-12-pk-12-oz-dr-pepper-zero-sugar-soda-at-amazon-38-2-each",
+  "title": "12-Pk 12-Oz Dr Pepper Zero Sugar Soda at Amazon (38.2￠ each)",
+  "raw_title": "[SnS, AC] $4.58* | 12-Pk 12-Oz Dr Pepper Zero Sugar Soda at Amazon (38.2￠ each)",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 458,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 6,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-19T10:49:01.775036Z"
+ },
+ {
   "deal_id": "722c5af6f97e",
   "source": "techbargains",
   "source_url": "https://www.amazon.com/gp/product/B0FBYQHQH1/ref=ox_sc_act_title_1",
