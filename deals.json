@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "bd28b65e9c6d",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20036577-new-ac-23-19-difficult-people-the-complete-series-blu-ray-at-amazon",
+  "title": "Difficult People: The Complete Series (Blu-ray)",
+  "raw_title": "[NEW, AC] $23.19 | Difficult People: The Complete Series (Blu-ray) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0GZ2N7ZN2",
+  "deal_total_cents": 2319,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 3865,
+  "amazon_coupon_cents": 1546,
+  "amazon_effective_cents": 2319,
+  "amazon_url": "https://www.amazon.com/dp/B0GZ2N7ZN2",
+  "amazon_checked_at": "2026-09-19T12:30:03.824519Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 2,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0GZ2N7ZN2",
+  "image_url": null,
+  "published_at": "2026-09-19T12:29:57.426298Z"
+ },
+ {
   "deal_id": "86a06ea875d2",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20036508-157-50-zojirushi-nl-eac18ba-micom-rice-cooker-warmer-10-cups-black-at-amazon",
