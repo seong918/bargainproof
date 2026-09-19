@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Woot! 2-Pack EXQUISLIFE Migraine Headache Relief Cap (various Colors) $11.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T06:02:59.243323Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Fanttik Slim V10 Lite 0.98-Lb Cordless Handheld Vacuum $59.99 + Free Shipping",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-19T05:46:35.262242Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LG - 85\" Class 91A Series QNED evo AI Mini LED 4K UHD Smart webOS TV (2025) $1399.99 Bestbuy.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T05:46:35.262242Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$152.99 | Milwaukee 48-59-1809 M18 18V 6-Port Rapid Charger at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T05:46:35.262242Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $16.10* | 60-Count Garden of Life Organics Women's Once Daily Multivitamin at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T05:35:43.295881Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$215: Milwaukee 2863-20 M18 FUEL ONE-KEY 18V Lithium-Ion Brushless Cordless 1/2 in. Impact Wrench with Friction Ring (Tool-Only) at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T05:35:43.295881Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$112.49: Milwaukee 2952-20 M18 Bluetooth Jobsite Radio Tool Only at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T05:35:43.295881Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "28L Lovevook Backpack w/ 15.6\" Laptop Pocket (Black) $9.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-19T05:30:22.754373Z",
@@ -141734,189 +141790,5 @@
   "rejected_at": "2026-09-05T06:15:29.090958Z",
   "code": "low_score",
   "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "0.35-Oz Burt's Bees Rescue Lip Relief Lip Balm (Honey Vanilla) $3.22 + Free Shipping w/ Prime or on orders over $35",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically",
-  "rejected_at": "2026-09-05T06:09:52.865290Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "42-Count FLOW SMILE Travel Wipes for Sensitive Skin w/ 99.5% Water (Unscented) $4.89 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically",
-  "rejected_at": "2026-09-05T06:04:17.085253Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "YINEYA Slow Feeder Dog Bowl (Black, Medium) $3.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically",
-  "rejected_at": "2026-09-05T05:58:41.623885Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "SpongeBob SquarePants: Titans of the Tide (Nintendo Switch 2) $29.97 + Free Shipping w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T05:58:41.623885Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS, AC] $16.72* | 3 × 51.5-Oz Dawn Ultra Original Dish Soap Refill Jug ($5.57 each) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs clip coupon, multi-pack, Subscribe & Save, which we can't reproduce automatically",
-  "rejected_at": "2026-09-05T05:58:41.623885Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$79.97* | Logitech G733 Lightspeed Wireless Gaming Headset at Amazon",
-  "reason": "Out of stock on Amazon when we checked",
-  "rejected_at": "2026-09-05T05:53:05.208946Z",
-  "code": "amazon_oos",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Keter Quik-Fold Side Table(Various Colors, 19.62'' H X 17.4'' D X 15.1'' W) $23.07 + Free S&H on $35 at Wayfair",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T05:53:05.208946Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "PGA Tour 2K25 (PS5) $10 + Free Shipping w/ Prime or on orders over $35",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically",
-  "rejected_at": "2026-09-05T05:53:05.208946Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "SwimWays Barbie Inflatable Boat Water Vehicle $4.13 + Free Shipping w/ Prime or on orders over $35",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically",
-  "rejected_at": "2026-09-05T05:53:05.208946Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[AC] $15.09* | 3 × 12-Pk 12-Oz Dr Pepper Blackberry Zero Sugar Soda ($5.03 each) at Amazon (41.9￠ each)",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it",
-  "rejected_at": "2026-09-05T05:53:05.208946Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "iPhone 17 Case Clear, with Magnetic Shockproof Protective Phone Bumper $7",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T05:53:05.208946Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Danzig Vinyl $19.58",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T05:47:31.087801Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Katy Perry: Teenage Dream Vinyl w/ AutoRip MP3 $23.09",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T05:47:31.087801Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "The Weeknd: Dawn FM (2 LP w/ AutoRip MP3) $27.28",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T05:47:31.087801Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Rubble & Crew Launch & Spin Spaceship Playset $5.44 + Free Shipping w/ Prime or on orders over $35",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically",
-  "rejected_at": "2026-09-05T05:47:31.087801Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[AC]Keter Comfy 71 Gallon Durable Resin Outdoor Storage Deck Box(Black) $44.69 + Free S&H at Wayfair",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T05:47:31.087801Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "20000 mAh Aaoyun Power Bank w/ Built-in 22.5W USB-C Cable $14",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T05:47:31.087801Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Tangkula 8.5 FT Outdoor Patio Umbrella $36.54",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T05:36:19.740198Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Pyle 6.5\" Waterproof Outdoor Speakers (Pair) $39.99 + Free S&H w/ Prime at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T05:36:19.740198Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ProsourceFit Exercise Weighted Training Vest - 10lb, Black $9.99 + Free S&H w/ Prime at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T05:36:19.740198Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$11.99 | Otterbox 30W Lightning to USB-C Car Charging Kit at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T05:30:44.677252Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$7.99 | 6.6' Otterbox Premium Pro Fast Charge Lightning to USB-C Cable at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T05:30:44.677252Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$16.99 | Yes4All Adjustable Weighted Vest 11-20lbs at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T05:30:44.677252Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
