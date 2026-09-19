@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Microsoft Surface Laptop 5 Refurb 13.5\" Intel i5-1245U 10-Core 16GB LPDDR5 5200mhz 256GB SSD w/Warranty $359.29",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T18:20:05.240391Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DJI Flip Fly More Combo Drone with DJI RC 2 $588.05 (pretax) + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T18:20:05.240391Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Royale High Dorm Room Playset w/ Doll & 5 Accessories $4.21 + Free Shipping w/ Prime or on orders over $35",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-19T18:09:23.564145Z",
@@ -141564,14 +141580,6 @@
   "raw_title": "$19.99 Sale for Star Trek 1-10 Movie Bundle",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T18:24:02.688913Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "YMMV Suncast 6x5 resin shed $549",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T18:18:25.076948Z",
   "code": "not_checked",
   "public": false
  }
