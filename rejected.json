@@ -1,5 +1,21 @@
 [
  {
+  "source": "hip2save",
+  "raw_title": "Up to 80% Off Walmart Athletic Works Clothing | Prices from $1.65",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T16:42:51.199350Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Dick's Sporting Goods - Callaway Women's Elyte Max Fast Driver - $199.98 FS",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T16:42:51.199350Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$7.50 FS WALMART+ 6-Panel Telescopic Auto-Open Umbrella – Hello Kitty, Mario, or Avengers",
   "reason": "Not evaluated",
@@ -142068,54 +142084,6 @@
   "raw_title": "Google Cloud 90-Day Free Trial Offer: $350 in Free Trial Credits and Free Usage of 20+ Products",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T16:48:20.605688Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Sour Patch Kids Soft & Chewy Gummy Halloween Candy, 22 Trick or Treat Bags $3.20",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T16:42:42.374165Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Sourdough Bread Baking Kit Just $17.49 Shipped for Prime Members (Reg. $40)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T16:37:04.915952Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "The Last of Us Part II Remaster Video Game (Playstation 4) $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T16:37:04.915952Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Assassin's Creed Shadows (Playstation 5, Xbox Series X) with Bonus Lithograph $69.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T16:37:04.915952Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "12min Micro Book Lifetime Subscription Plan $34.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T16:37:04.915952Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Norton Antivirus Deals: Up to 58% off your First Year | Norton Anitvirus Plus $30 | Norton 360 Deluxe $40",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T16:37:04.915952Z",
   "code": "not_checked",
   "public": false
  }
