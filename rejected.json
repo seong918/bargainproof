@@ -1,6 +1,14 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$19.99 | Best Of Bruce Springsteen (Vinyl) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-19T00:47:05.718775Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$77.70* | Costzon 6V Ride on Chopper Kids Motorcycle with Horn, Headlight (Pink) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
   "rejected_at": "2026-09-19T00:41:41.650993Z",
