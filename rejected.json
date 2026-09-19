@@ -1,6 +1,14 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$219.99* | Greenworks 80V 16\" Brushless Cordless Chainsaw w/ 2.5Ah Battery & Charger at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-19T01:34:51.778011Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Kistore Womens Long Sleeve Striped Soft Button Up Collared Shirt $12.99 AC",
   "reason": "Posted at $12.99, but Amazon showed $25.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-19T01:29:42.764314Z",
