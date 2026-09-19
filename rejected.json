@@ -1,5 +1,21 @@
 [
  {
+  "source": "hip2save",
+  "raw_title": "WOW! Shutterfly Photo Magnets Only $1 Shipped!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T19:02:58.541345Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Up to 66% Off + Extra $30 Off $150: REI Outlet Promo Code on Apparel, Camping, Hiking & More",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T19:02:58.541345Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "SKIL Twist 2.0 Rechargeable 4V Screwdriver with Pivoting Head, Torque Setting, USB-C Charging Cable & 2PC Bit Set-SD5619-01 $20.69",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
@@ -141566,29 +141582,5 @@
   "rejected_at": "2026-09-05T19:03:19.558932Z",
   "code": "price_mismatch",
   "public": true
- },
- {
-  "source": "hip2save",
-  "raw_title": "Plush Throw Blanket Only $7.50 Shipped for Prime Members",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T18:57:44.515198Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Caravelle Light Up Quartz 39mm - 4 colorways $132",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T18:57:44.515198Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Tennessee Titans New Era Youth Knit Hat $3.79 at fanatics",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T18:57:44.515198Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
