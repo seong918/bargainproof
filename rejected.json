@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Lukaree 2 Pack Wormwood Black Walnut Drops- Gut Support with L-Glutamine $8.77",
+  "reason": "Posted at $8.77, but Amazon showed $4.35 when we checked — the post is stale",
+  "rejected_at": "2026-09-19T02:46:21.452026Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "FLYBIRD WB5 Weight Bench, ASTM-Certified 800LBS Adjustable Weight Bench Workout Bench Foldable, 90° to -30° FID and 30in Extended Backrest for $109.97",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-19T02:43:45.127496Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men Train Essentials Training Tee $10.2 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T02:38:32.348970Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "MattressFIRM - Sleepys Any Size Matress Same Price King STARTING AT $249.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T02:38:32.348970Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "YMMV Asylum 4K UHD $22.49 less $6.75 coupon = $15.74 Amazon.com coupon maybe region specific",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-19T02:33:14.206719Z",
