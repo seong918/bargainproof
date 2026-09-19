@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon – ZITY Men’s Hidden-Placket Long-Sleeve Dress Shirt - $9.49 w/ Code",
+  "reason": "Community score too low (+0) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T11:26:25.737829Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Labiim 110,000-RPM Ionic Hair Dryer (Gray) - $19.99 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T11:26:25.737829Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – ANCOBER 20W Portable Bluetooth Speaker - $18.40 w/ Code + Deal",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T11:26:25.737829Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Soyee 32-Piece Magnetic Tile Building Set - $9.99 w/ Code + Deal",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T11:26:25.737829Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[NEW] $5.47 | 5-Pound King Arthur 100% Organic All-Purpose Flour, Unbleached at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-19T11:26:25.737829Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Prime: 5-Pairs MORECOO Women's Thick Wool Soft Warm Cozy Crew Socks $4.99 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T11:26:25.737829Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Omoton T2 Adjustable Aluminum Tablet Stand with Anti-Slip Silicone Pads $9.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T11:26:25.737829Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon – Little Beauty Women’s Fleece-Lined Zip Hoodie - $17.49 w/ Code",
   "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-19T11:20:59.247395Z",
@@ -141757,14 +141813,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T11:28:35.799316Z",
   "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Orbit Pro Flo 14\" 7-Pattern Watering Wand with Ergonomic Thumb Control $8.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T11:23:19.614444Z",
-  "code": "lookup_failed",
   "public": false
  }
 ]
