@@ -1,5 +1,13 @@
 [
  {
+  "source": "cheapshark",
+  "raw_title": "War Hospital",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T17:42:34.173660Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "[SnS, AC] $6.47* | 2-Pk 8-Oz Hawaiian Tropic SPF 4 Island Tanning Lotion at Amazon",
   "reason": "Community score too low (+2) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
@@ -141684,14 +141692,6 @@
   "raw_title": "SheLucki Men's Button-Down Hawaiian Shirt (Various) from $7.50",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T17:44:39.359966Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Samsung S90f 65\" 999.97 YMMV $999.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T17:39:01.577385Z",
   "code": "not_checked",
   "public": false
  }
