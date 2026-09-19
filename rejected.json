@@ -1,6 +1,78 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "Tommy Hilfiger Men's Modern-Fit Linen Blend Blazer for $50 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T13:32:23.312952Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Fleece-Lined Maternity Leggings Just $5.99 on Amazon (Reg. $10)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T13:32:23.312952Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men Essentials 3-Stripes Fleece Hoodie from $14.4 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T13:32:23.312952Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Refurb: HP Probook Fortis G10: 14\" FHD IPS Touch, i5-1240U, 16GB LPDDR4X, 256GB SSD, Win 11 Pro $291.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T13:32:23.312952Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $3.47 | 12-Pack 2.25-Oz Maruchan Instant Lunch (Hot & Spicy Shrimp) at Amazon (28.9￠ each)",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-19T13:32:23.312952Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Milwaukee 150-lb. Fold-Up Hand Truck for $39 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T13:26:57.588545Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Lowe's Fall Hand Tool Deals: Up to 46% off + free shipping w/ $25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T13:26:57.588545Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men Essentials Fleece Hoodie $15.6 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T13:26:57.588545Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Whirlpool 24.6 Cu. Ft. Side-by-Side Refrigerator w/ Ice Maker for $1,149 w/ free installation + free delivery",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T13:21:46.833156Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
   "raw_title": "adidas Men's Daily 4.0 Shoes for $23 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-19T13:16:36.696085Z",
@@ -50712,14 +50784,6 @@
   "public": false
  },
  {
-  "source": "dealnews",
-  "raw_title": "Tommy Hilfiger Men's Modern-Fit Linen Blend Blazer for $50 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T23:10:24.051542Z",
-  "code": "not_checked",
-  "public": false
- },
- {
   "source": "slickdeals",
   "raw_title": "Hugo Boss Sunglasses (Various Styles) $38 + Free Shipping",
   "reason": "Not evaluated",
@@ -70258,14 +70322,6 @@
  {
   "source": "dealcatcher",
   "raw_title": "Turrella 41.3\" Brown Rectangle Wood Console Table $81.19",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T15:31:15.922335Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Milwaukee 150-lb. Fold-Up Hand Truck for $39 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-12T15:31:15.922335Z",
   "code": "not_checked",
@@ -141444,94 +141500,6 @@
   "raw_title": "ThermoPro TP07SW Wireless Meat Thermometer for Cooking, Digital Grill Thermometer with Temperature Probe, Smart LCD Screen BBQ Thermometer for Grilling - $16.48 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T13:33:27.351171Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Eufy C28 15,000Pa Mapping Robot Vacuum & HydroJet Mop $499.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T13:27:55.987846Z",
-  "code": "lookup_failed",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Hefty Storage Bins w/ Stackable Lids from $5 on Target.com – Today Only!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T13:27:55.987846Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "UPlee GS3 14in Folding Electric Bike 48V 500W 15-20 mph 8AH for $171; 10AH for $179; 15AH for $198 + Free S/H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T13:27:55.987846Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "SERWALL 2 Pack Oversized Outdoor Rocking Chair with Footrest(Black) $137.18 + Free S&H at Walmart",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T13:27:55.987846Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "HP OmniBook 7 Laptop Next Gen AI PC 17t-dc000, 17.3\" Touch Screen $769",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T13:27:55.987846Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Solar Lantern Just $7.98 on Amazon (Reg. $22)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T13:22:26.882232Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$69 - SKIL PWRCORE 12V 1/4-Inch Multi-Cutter Kit, Includes 2.0Ah Battery and 20W USB-C PD Charger - ES4651A-1C",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T13:22:26.882232Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$54.99: HAIMULI 2 Pack Zero Gravity Chair with Cup Holder & Removable Pillows(Various Colors) at Walmart.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T13:22:26.882232Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Intex Kids Travel Air Mattress Inflatable Bed w/ Raised Sides and Hand Pump - $27.96",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T13:22:26.882232Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Hoover SmartWash Pet Automatic Upright Carpet Washer (FH53010) $187 + Free S&H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T13:22:26.882232Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Apple M4 Pro Mac mini Z1JV00027 (Late 2024) 12-Core CPU; 48GB Unified Memory; 512GB Solid State Drive; 16-Core GPU/16-Core Neural Engine $1899.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T13:17:07.901759Z",
   "code": "not_checked",
   "public": false
  }

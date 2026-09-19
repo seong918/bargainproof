@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "6b395dc9f5e5",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20036619-sns-ac-3-47-12-pack-2-25-oz-maruchan-instant-lunch-hot-spicy-shrimp-at-amazon-28-9-each",
+  "title": "12-Pack 2.25-Oz Maruchan Instant Lunch (Hot & Spicy Shrimp) at Amazon (28.9￠ each)",
+  "raw_title": "[SnS, AC] $3.47 | 12-Pack 2.25-Oz Maruchan Instant Lunch (Hot & Spicy Shrimp) at Amazon (28.9￠ each)",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 347,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-19T13:32:23.312952Z"
+ },
+ {
   "deal_id": "f821a26ccb26",
   "source": "techbargains",
   "source_url": "https://www.amazon.com/gp/product/B0BCF5QYYB/ref=ox_sc_act_title_1",
