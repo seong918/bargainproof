@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "5fe68046bb86",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20037807-25-211-piece-lego-friends-advent-calendar-2026-42698-2026-at-amazon",
+  "title": "211-Piece LEGO Friends Advent Calendar 2026 (42698, 2026)",
+  "raw_title": "$25 | 211-Piece LEGO Friends Advent Calendar 2026 (42698, 2026) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0G5QNVMLT",
+  "deal_total_cents": 2500,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 2500,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 2500,
+  "amazon_url": "https://www.amazon.com/dp/B0G5QNVMLT",
+  "amazon_checked_at": "2026-09-19T20:28:42.075507Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0G5QNVMLT",
+  "image_url": null,
+  "published_at": "2026-09-19T20:28:38.123977Z"
+ },
+ {
   "deal_id": "79879af14f61",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20037492-1-99-the-new-yorker-encyclopedia-of-cartoons-a-semi-serious-a-to-z-archive-ebook-by",
