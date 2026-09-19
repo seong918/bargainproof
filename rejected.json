@@ -1,6 +1,30 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "adidas Men's Daily 4.0 Shoes for $23 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T13:16:36.696085Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas Women's Cloudfoam Flex Slounge Shoes for $23 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T13:16:36.696085Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $2.88 | 100-Count Nature Made Vitamin D3 1000 IU / 25 mcg Softgels (100 Day Supply) at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-19T13:16:36.696085Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "dealnews",
   "raw_title": "adidas Men's Cloudfoam Cuxxion Sock Shoes for $25 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-19T13:11:13.471182Z",
