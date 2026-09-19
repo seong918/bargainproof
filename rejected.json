@@ -1,5 +1,101 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Solary 12V DC EVAP Automotive Portable Smoke Machine Leak Detector $44.24",
+  "reason": "Posted at $44.24, but Amazon showed $58.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-19T14:53:45.429126Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "G Gradual Men's Lightweight Long Sleeve Pullover Shirt $14.99",
+  "reason": "Posted at $14.99, but Amazon showed $19.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-19T14:53:45.429126Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "SNOWCLAD Pots and Pans Set Non Stick Stainless Steel Kitchen Cookware $115.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:53:45.429126Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Phomemo D30 Bluetooth Mini Thermal Label Maker Printer $9.78",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:53:45.429126Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "VTOMAN X7 4250A Jump Starter w/ 160PSI Air Compressor $47.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:53:45.429126Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LAUSAINT Home 10x12\" Gazebo Canopy with Netting, Curtains & Double Roof $199.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:53:45.429126Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Soyee 32-Piece Magnetic Tile Building Set $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:53:45.429126Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "TuyLuxe IP65 Solar Pathway Lights w/ Retro Filament Bulb Design 8-Pack $26.51",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:53:45.429126Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "TuyLuxe Solar Hanging Lanterns w/ Hooks 2-Pack $13.85",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:53:45.429126Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Labiim 110,000-RPM Ionic Hair Dryer (Gray) $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:53:45.429126Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Kohl’s Women’s Graphic Tees from $5.99 | Disney, Winnie the Pooh, Gilmore Girls, & More",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:53:45.429126Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "JOYRACER 24V 400W 2-Seater Electric Ride On Dump Truck Pink $123.1 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:53:45.429126Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Ultra-Bright Bike Tail Light with Dual-Button Control, Up to 58% Off $8.49",
   "reason": "Community score too low (+-1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
@@ -141748,62 +141844,6 @@
   "raw_title": "Joola Pro IV Pickleball Paddles $149.95",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T15:02:43.641825Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$50: The North Face 27L Vault Everyday Laptop Pack, Mid Gy Dk Hth/TNF Blk-NPF at Amazon",
-  "reason": "Posted at $50.00, but Amazon showed $50.15 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-05T14:51:49.879583Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Teskyer Men's Leather Wallet, Luggage Tag, and Keychain Gift Set for $14 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T14:51:49.879583Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$79.49ac FS Walmart by CRUA CRUA 24\" FHD 100Hz Curved Computer Monitor,1080P Narrow Bezel Office Monitor,99% SRGB,FreeSync, HDMI,White",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T14:51:49.879583Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$149.99: COWSAR 239.7-Sq. in 16000 BTUStainless steel Portable Liquid propane Grill at Lowe's, Free S&H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T14:51:49.879583Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$149 FS WALMART Acer Nitro 31.5\" Curved Full HD Gaming Monitor (1920 x 1080) with AMD FreeSync Premium Technology, 240Hz",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T14:51:49.879583Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Maui Jim Lighthouse Men's Polarized Black Sunglasses (and others) $90 + Free S/H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T14:51:49.879583Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "10\" Energy ESW-C10 Powered Subwoofer $169 + Free S/H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T14:51:49.879583Z",
   "code": "not_checked",
   "public": false
  }
