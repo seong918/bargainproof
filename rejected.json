@@ -1,6 +1,30 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "Walmart Tire Rollback Deals for From $46 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T13:37:48.894748Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Old Navy Graphic Tees Only $4 for Kids & $7 for Adults",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T13:37:48.894748Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$1.99 | The Politics Book: Big Ideas Simply Explained (DK Big Ideas) (eBook) by DK",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-19T13:37:48.894748Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "dealnews",
   "raw_title": "Tommy Hilfiger Men's Modern-Fit Linen Blend Blazer for $50 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-19T13:32:23.312952Z",
@@ -141492,14 +141516,6 @@
   "raw_title": "In-Store: HP 15.6\" FHD AI Laptop, Intel Core Ultra 5 225U (2025), 8GB RAM, 512GB SSD, +9 Hour Battery, Windows 11 Home $439.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T13:39:02.071536Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ThermoPro TP07SW Wireless Meat Thermometer for Cooking, Digital Grill Thermometer with Temperature Probe, Smart LCD Screen BBQ Thermometer for Grilling - $16.48 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T13:33:27.351171Z",
   "code": "not_checked",
   "public": false
  }
