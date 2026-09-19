@@ -1,5 +1,85 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Discovery™ Kids Neon Glow Drawing Easel w/ 6 Color Markers, Built-in Kickstand/Wall Mount, 5 Light Modes, Easy Clean/Washable, Wide Screen $8.26",
+  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-19T14:15:48.200904Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Tuyluxe 800mAh Waterproof Outdoor Solar Lanterns (4-Pack) $23.39",
+  "reason": "Posted at $23.39, but Amazon showed $35.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-19T14:15:48.200904Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Quilted Puffer Jackets $23.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:15:48.200904Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Frigidaire 6.5 Cu. ft. Garage Ready Upright Freezer $218.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:15:48.200904Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Nike G.T. Cut 3 Turbo 'Dallas' Basketball Shoes $84.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:15:48.200904Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "adidas Women's Supernova Rise 2 Running Shoes $40.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:15:48.200904Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Automotive Smoke Machine Leak Detector 12V DC EVAP Vacuum Diagnostic Tester $44.24",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:15:48.200904Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "GeeBom 24QT 2-Pack Clear Craft Organizers and Storage with Trays $24.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:15:48.200904Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Garmin Quatix 7X Solar Edition Marine GPS Smartwatch for $550 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:15:48.200904Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Round Trip Pittsburgh - Houston or Vice Versa $175 Nonstop Airfares on United Airlines BE (Travel October - March 2027)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:15:48.200904Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "25oz. Stardrops The Pink Stuff Miracle Toilet Gel Cleaner $2.18",
   "reason": "Not evaluated",
@@ -141420,46 +141500,6 @@
   "raw_title": "AOVOPRO 500W 22MPH 22Miles 10\" Solid Tire Foldable Electric Scooter $148.2 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T14:18:13.251989Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "BJs Members: Wellsley Farms USDA Choice NY Strip Steak (2.75-3.5 lbs) $7.99/lb",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T14:12:38.967705Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "RVPOZWER 48V 100Ah Lithium LiFePO4 Battery $403 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T14:12:38.967705Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Round Trip Philadelphia - Atlanta or Vice Versa $38 Nonstop Airfares on Frontier Airlines BE (Travel September - December 2026)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T14:12:38.967705Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Royal Gourmet 23-Inch Gas Griddle 2 -Burner Liquid propane Flat Top Grill, $149.99, FS, Lowe's, Wayfair",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T14:12:38.967705Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "S24 ULTRA 1TB Unlocked - excellent condition $640.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T14:12:38.967705Z",
   "code": "not_checked",
   "public": false
  }
