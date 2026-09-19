@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "d5bb5781b450",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20037681-11-93-midwest-homes-for-pets-rabbit-cage-wire-extension-at-amazon",
+  "title": "MidWest Homes for Pets Rabbit Cage Wire Extension",
+  "raw_title": "$11.93 | MidWest Homes for Pets Rabbit Cage Wire Extension at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B01E0RWM9U",
+  "deal_total_cents": 1193,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 1193,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1193,
+  "amazon_url": "https://www.amazon.com/dp/B01E0RWM9U",
+  "amazon_checked_at": "2026-09-19T19:45:56.686623Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B01E0RWM9U",
+  "image_url": null,
+  "published_at": "2026-09-19T19:45:52.099729Z"
+ },
+ {
   "deal_id": "cf30970448a0",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20037522-699-optoma-photon-life-pk32-4k-uhd-60hz-led-projector-at-amazon",

@@ -1,5 +1,141 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$7.34 | 32-Oz Rejuvenate Professional Wood Floor Restorer at Amazon",
+  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-19T19:45:52.099729Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Up to 65% Off Indoor/Outdoor Rugs on Walmart.com | 5×7 Rugs from $45 Shipped (Reg. $133)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T19:45:52.099729Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Walmart – POKINI 12-Piece Stoneware Dinnerware Set for 4 - $39.99 w/ Code",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T19:45:52.099729Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Acer Aspire Go 15: 15.6\" FHD IPS, Ryzen 7 5825U, 48GB DDR4, 512GB SSD $649.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T19:40:30.448441Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$2.70 S&S CLIP Q Dickinson's Witch Hazel Pore Perfecting Toner | 16 Fl Oz",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T19:35:08.672441Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "New Balance ABZORB 2000 Shoes (Limelight / Dry Lime) $69.27",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T19:35:08.672441Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $7.86* | 4-Pack 10-Count Country Time Strawberry Lemonade Pouches at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T19:29:47.982001Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$9.39* | VEEKTOMX 10000mAh 22.5W Fast Charging Mini Power Bank at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-19T19:29:47.982001Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC] $20.39* | 2 × 40\" x 50\" Lesure ApexCloud Cooling Blanket for Dogs & Cats ($10.20 each) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-19T19:29:47.982001Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – GOTOUR All-in-One Fishing Tackle Kit - $14.50 at Checkout",
+  "reason": "Posted at $14.50, but Amazon showed $28.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-19T19:29:47.982001Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $36.05* | 3 × 24-Pack 3.7-Oz Irish Spring Bar Soap for Men (Original) ($12.02 each) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T19:24:27.541780Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Merrell Aurora Belt Bag (3 Colors) $10.19 + Free Shipping on $75+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T19:19:04.641644Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[YMMV In-Store Clearance] Walmart Lawn & Garden Clearance Sale (Blackstone Supplies, Plants, Lawn Care, Tools, & More) $12.5",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T19:19:04.641644Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$5.53 | Blue Marble Santa's Amazing Gift Workshop w/ 15 Holiday Kids' Crafts at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-19T19:13:42.653760Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$53.99* | Nioh 3: SteelBook Launch Edition (PS5) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-19T19:08:19.726394Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC] $60.68* | The North Face 20L Isabella 3.0 Backpack w/ 16\" Laptop Sleeve at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-19T19:08:19.726394Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "All Tees are $10 at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T19:08:19.726394Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "hip2save",
   "raw_title": "WOW! Shutterfly Photo Magnets Only $1 Shipped!",
   "reason": "Not evaluated",
@@ -141430,157 +141566,5 @@
   "rejected_at": "2026-09-05T19:48:25.747210Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "WRC 9 FIA World Rally Championship",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T19:42:51.563112Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Mother Russia Bleeds",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T19:42:51.563112Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Citizen Eco-Drive Corso Men's Watch, Stainless Steel $277.95",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T19:42:51.563112Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "BDK 16 Inch Hubcaps Set of 4 $24.04",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T19:42:51.563112Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "HolyPoint 110,000 RPM Cordless Electric Air Duster for $20 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T19:37:12.366003Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Whirlpool 24.6-cu ft Standard-Depth 36-in Wide Side-by-Side Refrigerator with Ice Maker $1149",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T19:37:12.366003Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "WRC 10 FIA World Rally Championship",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T19:31:33.281738Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Ad Infinitum",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T19:31:33.281738Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Walmart Halloween Doormats Just $9.97 | Ghosts, Pumpkins & More!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T19:31:33.281738Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Fandango: Hunger Games 4-film digital collection $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T19:31:33.281738Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[Refurbished] HP EliteBook 830 G8 Laptop Intel Core i7-1185G7 32GB RAM 256GB SSD 13.3\" FHD Touchscreen Windows 11 Pro $399.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T19:25:56.745430Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "AMD Ryzen 5 5500 AM4 CPU w/ Wraith Stealth Cooler + Rosewill Cordless Air Duster $74 + Free S&H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T19:25:56.745430Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Ryobi 18V ONE+ Powered Brush Hand Vacuum [Factory Blemished] $58.50 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T19:20:18.509937Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "FLISSA KÖSMO 4.5\" G10 Handle D2 Steel Flipper Pocket Knife (Black) $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T19:14:38.706746Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon Resale - Star Wars The Black Series Clone Commander Cody, Revenge of the Sith Premium Electronic Roleplay Helmet $55",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T19:08:57.542259Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Athletic Works Women's ButterCore Compression Midi Dress, Sizes XS-XXXL $9.84",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T19:08:57.542259Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "CERTINA DS Podium Chronograph Chronometer Men's Watch $290",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T19:08:57.542259Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "MSR PocketRocket 2 Camping and Backpacking Stove $36.90 + 10% Back w/ Prime Visa + Free S&H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T19:08:57.542259Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "SYINTAO Slushie Machine for Home, No Ice Needed, Soft Serve Ice Cream Maker $119.77",
-  "reason": "Posted at $119.77, but Amazon showed $225.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-05T19:03:19.558932Z",
-  "code": "price_mismatch",
-  "public": true
  }
 ]
