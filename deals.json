@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "b79ccf6c77d7",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20036880-vans-men-s-atwood-canvas-trainers-sneaker-29-99-amazon",
+  "title": "Vans Men's Atwood Canvas Trainers Sneaker, , Amazon",
+  "raw_title": "Vans Men's Atwood Canvas Trainers Sneaker, $29.99, Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B009353A2S",
+  "deal_total_cents": 2999,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 2999,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 2999,
+  "amazon_url": "https://www.amazon.com/dp/B009353A2S",
+  "amazon_checked_at": "2026-09-19T14:32:08.291468Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B009353A2S",
+  "image_url": null,
+  "published_at": "2026-09-19T14:32:04.002865Z"
+ },
+ {
   "deal_id": "15fe16fc0c7f",
   "source": "techbargains",
   "source_url": "https://www.amazon.com/gp/product/B0DCZHPM7K/ref=ox_sc_act_image_1",
