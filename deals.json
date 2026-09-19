@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "f108b4a5539e",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20037768-amazon-homehacks-100l-moving-bags-10-pack-blue-21-59-w-code",
+  "title": "Amazon – HomeHacks 100L Moving Bags, 10-Pack (Blue) - w/ Code",
+  "raw_title": "Amazon – HomeHacks 100L Moving Bags, 10-Pack (Blue) - $21.59 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0C27PZ59C",
+  "deal_total_cents": 2159,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 3599,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 3599,
+  "amazon_url": "https://www.amazon.com/dp/B0C27PZ59C",
+  "amazon_checked_at": "2026-09-19T22:58:45.927283Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 6,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0C27PZ59C",
+  "image_url": null,
+  "published_at": "2026-09-19T22:58:38.021248Z"
+ },
+ {
   "deal_id": "b0772fd70c79",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20037780-amazon-conodo-32gb-bluetooth-5-3-mp3-player-16-99-w-code",

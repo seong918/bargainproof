@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Mens Short Sleeve Moisture Wicking Dry Fit Performance Polo Shirts STARTING AT $11.37 AC",
+  "reason": "Posted at $11.37, but Amazon showed $18.95 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-19T22:58:38.021248Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LG 83-Inch OLED evo AI 4K W6 Wallpaper Series Smart TV, 2026 Model $6499.99",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-19T22:53:16.591974Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "6 Pack VEVOR Flood Barrier, 2.7 x 1.4 ft Activated by Water $23.31 + Free S&H w/ Prime or $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T22:47:55.133744Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Woot Mazzup Massage Chair $736.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-19T22:42:34.050609Z",
@@ -141388,62 +141412,6 @@
   "raw_title": "Whirlpool Deep Water Wash High Efficiency Agitator Small ( 3.5-cu ft ) Top-Load Washer ( White ), $479, Lowe's",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T22:59:36.789399Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Arcedo 51-Inch Grill Cover $13.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T22:53:57.246583Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Oz - Complete Series $14.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T22:53:57.246583Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Acer 2.4GHz Wireless USB Mouse w/ Adjustable DPI (Black) $9.99 + Free Store Pickup at Best Buy",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T22:53:57.246583Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Ninja UltraCrush Professional Kitchen System Blender (Machine Gray) $149.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T22:53:57.246583Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Ninja Air Fryer 8-in-1 Toaster Oven Combo $150 + Free S&H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T22:48:17.936029Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Dying Light 1: Essentials Edition (Xbox One/Series X|S Digital Download) $2.50",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T22:42:41.965062Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "2-Pack ECO-WORTHY 10W Solar Battery Charger Maintainer $32 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T22:42:41.965062Z",
   "code": "not_checked",
   "public": false
  }
