@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "573a2c086050",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20036682-12-15-12-pk-15-oz-realemon-100-lemon-juice-at-amazon-1-01-each",
+  "title": "12-Pk 15-Oz ReaLemon 100% Lemon Juice at Amazon",
+  "raw_title": "$12.15* | 12-Pk 15-Oz ReaLemon 100% Lemon Juice at Amazon ($1.01 each)",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1215,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-19T13:11:13.471182Z"
+ },
+ {
   "deal_id": "eb33ec00a2e8",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20036691-new-14-99-tyler-the-creator-call-me-if-you-get-lost-vinyl-w-autorip-mp3-at-amazon",
