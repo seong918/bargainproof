@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "86a06ea875d2",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20036508-157-50-zojirushi-nl-eac18ba-micom-rice-cooker-warmer-10-cups-black-at-amazon",
+  "title": "Zojirushi NL-EAC18BA Micom Rice Cooker & Warmer 10 Cups, Black",
+  "raw_title": "$157.50* | Zojirushi NL-EAC18BA Micom Rice Cooker & Warmer 10 Cups, Black at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0FKQVMWHQ",
+  "deal_total_cents": 15750,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 15750,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 15750,
+  "amazon_url": "https://www.amazon.com/dp/B0FKQVMWHQ",
+  "amazon_checked_at": "2026-09-19T12:19:19.085690Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 2,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0FKQVMWHQ",
+  "image_url": null,
+  "published_at": "2026-09-19T12:19:14.988616Z"
+ },
+ {
   "deal_id": "6031be963b65",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20036559-new-ac-40-18-thermaltake-smart-power-supply-600w-80-plus-white-active-pfc-s-cable-at-amazon",

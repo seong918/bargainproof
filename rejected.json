@@ -1,6 +1,30 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "adidas Men's Adilette Aqua Slides for $7.20 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T12:19:14.988616Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Art & Cook 10-Piece Plastic Food Storage Set for $11 + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T12:19:14.988616Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Uberflex 50' 3100PSI Kink Resistant Pressure Washer Hose $37.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T12:13:59.618948Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "dealnews",
   "raw_title": "Nike Sportswear RPM Backpack for $28 + free shipping w/ $49",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-19T12:03:41.580173Z",
@@ -141692,22 +141716,6 @@
   "raw_title": "Bosch 18-volt Cordless Brushless 2 -Amp Variable speed 6 -Piece Oscillating Multi-Tool with Soft ( Battery Included and Charger Included ) $109",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T12:22:16.736649Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "AOVOPRO TMAX Electric Scooter 500W 42v 10.5AH 22mph 10in Solid Tires Front/Rear Shock Absorption $158 + Free S/H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T12:17:02.825568Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Hoover Oxy Portable Spot Carpet Cleaning Formula, Fresh Air Scent, for Carpet and Upholstery, Premixed, Removed Colored Stains, AH31711, 32oz. $8.29",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T12:11:46.499756Z",
   "code": "not_checked",
   "public": false
  }
