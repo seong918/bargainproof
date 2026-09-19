@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "4213491cc494",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20037747-large-portable-monitor-23-8inch-120hz-usb-c-monitor-laptop-screen-extender-119-25",
+  "title": "Large Portable Monitor 23.8inch 120Hz USB-C Monitor, Laptop Screen Extender",
+  "raw_title": "Large Portable Monitor 23.8inch 120Hz USB-C Monitor, Laptop Screen Extender $119.25",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0GZZRXBML",
+  "deal_total_cents": 11925,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 15900,
+  "amazon_coupon_cents": 3975,
+  "amazon_effective_cents": 11925,
+  "amazon_url": "https://www.amazon.com/dp/B0GZZRXBML",
+  "amazon_checked_at": "2026-09-19T20:02:06.089535Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 0,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0GZZRXBML",
+  "image_url": null,
+  "published_at": "2026-09-19T20:01:53.990758Z"
+ },
+ {
   "deal_id": "e249d88f1865",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20037723-30l-the-north-face-women-s-recon-everyday-backpack-white-metallic-m-lange-mid-grey-49-46",
