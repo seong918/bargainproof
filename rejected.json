@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "SKIL Twist 2.0 Rechargeable 4V Screwdriver with Pivoting Head, Torque Setting, USB-C Charging Cable & 2PC Bit Set-SD5619-01 $20.69",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-19T18:52:15.083745Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "FOUR Amazon Grocery Diced Tomatoes Only $2.97 Shipped for Prime Members (Just 76¢ Each)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T18:52:15.083745Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "YMMV SAMSUNG Galaxy Watch Ultra 2025 Blue international model open box NEW $237.49 on Woot",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-19T18:46:54.463438Z",
@@ -141572,14 +141588,6 @@
   "raw_title": "Tennessee Titans New Era Youth Knit Hat $3.79 at fanatics",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T18:57:44.515198Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "DeWALT 20V MAX Battery Starter Kit w/ 5.0Ah + 4.0Ah + Charger $101.15 + Free S&H w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T18:52:09.445079Z",
   "code": "not_checked",
   "public": false
  }
