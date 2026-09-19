@@ -1,5 +1,29 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Bedsure Fluffy Wearable Blanket Hoodie (Grey, Standard) - $14.99 w/ Code",
+  "reason": "Community score too low (+2) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T09:54:47.136185Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Circle Joy Rechargeable 6-Level Electric Salt and Pepper Grinder Set $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T09:54:47.136185Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Lowe's Daily Deals: Up to 50% off tools, fans, appliances, more + free shipping w/ $25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T09:54:47.136185Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "LG gram Book Core Ultra 5 115U 15\" Laptop for $460 + free shipping",
   "reason": "Not evaluated",
@@ -141668,14 +141692,6 @@
   "raw_title": "38-Pc RYOBI Precision Screwdriver Set $10 + Free S&H",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T09:55:13.164753Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "WorkPro 9-Piece Impact Socket Driver Extension Bar Set for $12 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T09:49:35.311423Z",
   "code": "not_checked",
   "public": false
  }
