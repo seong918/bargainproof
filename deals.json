@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "6031be963b65",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20036559-new-ac-40-18-thermaltake-smart-power-supply-600w-80-plus-white-active-pfc-s-cable-at-amazon",
+  "title": "Thermaltake Smart Power Supply - 600W, 80 Plus, White, Active PFC, S/Cable",
+  "raw_title": "[NEW, AC] $40.18 | Thermaltake Smart Power Supply - 600W, 80 Plus, White, Active PFC, S/Cable at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B01ER2A5X8",
+  "deal_total_cents": 4018,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 5842,
+  "amazon_coupon_cents": 1824,
+  "amazon_effective_cents": 4018,
+  "amazon_url": "https://www.amazon.com/dp/B01ER2A5X8",
+  "amazon_checked_at": "2026-09-19T12:08:54.560689Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B01ER2A5X8",
+  "image_url": null,
+  "published_at": "2026-09-19T12:08:50.299268Z"
+ },
+ {
   "deal_id": "8db076e747fa",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20036553-ac-17-04-poppy-playtime-triple-pack-playstation-5-at-amazon",
