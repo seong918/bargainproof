@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "28\"-70\" Bonpally No Drilling Room Separator Adjustable Curtain Rods $16.49 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T11:04:43.389797Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Indoor 4K Smart TV Antenna for $13 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T11:04:43.389797Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS] $12.04* | 25.4-Oz Chosen Foods 100% Pure Avocado Oil at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-19T11:04:43.389797Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Amazon Basics Twin Camping Cot w/ 350-lb. Weight Capacity for $25 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T10:59:25.814114Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HOKA Men's Clifton 10 Running Shoes(Black and More, Size 8 ~ 13 ) $91.57 at Dick's Sporting Goods",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T10:59:25.814114Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$27.28 S&S 25% off Q or less Maxwell House K-Cup Coffee Pods, 84 ct Box, Breakfast Blend Mild Roast",
   "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-19T10:54:13.366698Z",
@@ -141718,45 +141758,5 @@
   "rejected_at": "2026-09-05T11:07:29.465671Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "(Certified Refurbished) Logitech G Pro X Superlight 2c Wireless Gaming Mouse (Black) $75.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T11:02:12.053530Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "RYOBI Screwdriver Set (12-Piece) with Cushion Grip Handles $15.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T11:02:12.053530Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Forza Horizon 6 Limited Edition Xbox Controller $65",
-  "reason": "Posted at $65.00, but Amazon showed $74.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-05T10:56:55.104217Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "NFL Sunday Ticket $234 or with Red Zone $276 Verizon Customers",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T10:56:55.104217Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS, AC] $0.65 | REVLON PhotoReady Eye Contour Kit Purple Palette at Amazon",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-05T10:56:55.104217Z",
-  "code": "duplicate",
-  "public": true
  }
 ]
