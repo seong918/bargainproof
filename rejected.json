@@ -1,5 +1,157 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Ultra-Bright Bike Tail Light with Dual-Button Control, Up to 58% Off $8.49",
+  "reason": "Community score too low (+-1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-19T14:48:20.035993Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "AstroAI Pencil Stainless Steel Tire Pressure Gauge 2-Pack (10-75 PSI) $2.69",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:48:20.035993Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "First Aid Beauty Ultra Repair Intense Hydration Cream 6-Oz $16.80",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:48:20.035993Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Luseta Purple Shampoo & Conditioner Set 16.9-Oz Each $17.39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:48:20.035993Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "SEESII 1.4\" Cordless Pruning Shears w/ 2x 2Ah Batteries $39.14",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:48:20.035993Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Pure Protein Chocolate Deluxe Protein Bars, 21g Protein, 12 Ct $12.90",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:48:20.035993Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Scotch Magic Tape w/ Desktop Dispenser 6-Pack $10.43",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:48:20.035993Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "VOOPNU Air Purifier for Up to 1076 Sq. Ft. $19.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:48:20.035993Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Dove Cool Moisture Beauty Bar Soap (Cucumber & Green Tea) 72-Pack 3.75-Oz $65.16",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:48:20.035993Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "6-Piece 3/8\" DEWALT MM Socket Set $7.99 or less at Bomgaars w/ Free Store Pickup",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:48:20.035993Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Drazivon Casual Relaxed Corduroy Long Sleeve Cotton Flannel Shirt $12.99",
+  "reason": "Posted at $12.99, but Amazon showed $25.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-19T14:42:53.780064Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Chosen Foods Refined Avocado Oil Glass Bottle (25.4oz) $12.04",
+  "reason": "Posted at $12.04, but Amazon showed $12.67 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-19T14:42:53.780064Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Dockers Men's Tobias Rugged Lace-Up Boots $56.53",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:42:53.780064Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Typhur Dome 2 Air Fryer 5.6-Qt $284.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:42:53.780064Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Asics Men's Gel-Venture 11 Wide-Width Trail Running Sneakers $51.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:42:53.780064Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "SwissGear Wanderlust Pro Plus Lightweight Hardside Expandable Luggage Set $119.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:42:53.780064Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Skechers Men's Uno - Suited On Air Memory Foam Casual Sneakers $34.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:42:53.780064Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Hey Dude Men's Wally Cru Stretch Canvas Casual Moccasin Sneakers $29.75",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:42:53.780064Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "At Staples - No Purchase Fee when you buy a $200 VISA Gift Card In Store Only (a $7.95 value) - Starts from 9/20-9/26 - Limit 9 per customer per day",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:42:53.780064Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Walmart Precious Metals and Coins Flash Sale for Deals from $11 + free shipping",
   "reason": "Not evaluated",
@@ -141653,22 +141805,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T14:51:49.879583Z",
   "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Women’s Perfect-for-Fall Tops UNDER $10 on Amazon",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T14:46:12.298550Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Apple MacBook Air 13.6\" M5 Chip Laptop (16GB/512GB) $1299 | 15.3\" Laptop from $1499",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T14:40:40.742916Z",
-  "code": "lookup_failed",
   "public": false
  }
 ]
