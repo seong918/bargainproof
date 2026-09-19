@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "0f899a9b787e",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20037519-sns-3-16-8-oz-toll-house-nestle-100-pure-cocoa-at-amazon",
+  "title": "8-Oz Toll House Nestle 100% Pure Cocoa",
+  "raw_title": "[SnS] $3.16* | 8-Oz Toll House Nestle 100% Pure Cocoa at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 316,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "sns"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-19T21:06:07.724581Z"
+ },
+ {
   "deal_id": "a952418a190b",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20037657-amazon-caditex-men-s-7-inch-2-in-1-swim-trunks-5-99-w-code",

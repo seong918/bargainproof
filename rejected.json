@@ -1,5 +1,93 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$38.68 | Casio W-738H Series Digital Sports Watch for Men at Amazon",
+  "reason": "Out of stock on Amazon when we checked",
+  "rejected_at": "2026-09-19T21:06:07.724581Z",
+  "code": "amazon_oos",
+  "public": true
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "WRC 6 FIA World Rally Championship",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T21:06:07.724581Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Selling or buying a USED CAR? Get 3 VIN Reports (like Carfax) for $1.95 at ZILO CAR",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T21:06:07.724581Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Adidas Response Runner Shoes, $31.50, FS, adidas",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T21:06:07.724581Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $33.72* | 4 × 16-Oz CeraVe Baby Wash & Shampoo ($8.43 each) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T21:00:44.558328Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Adidas Lite Racer 4.0 Shoes, Cloud White / Lucid Blue / Lucid Blue, $27.30, FS, adidas",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T21:00:44.558328Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "2Dark",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T20:55:22.037383Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "College Students: Get 4 FREE Months of ChatGPT Plus – Even If You Already Subscribe! ($80 Value)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T20:55:22.037383Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Men's Adidas Dropset Control Training Shoes, $37.80, FS, Adidas",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T20:55:22.037383Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Used-DJI Osmo Action 6 Standard Combo 8K Action Camera 1/1.1\" $286",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T20:44:37.836262Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "YMMV BISSELL CrossWave Hard Floor Expert, Corded, Multi-Surface Hard Floor Cleaner, Wet Dry Vacuum, Two Tank Technology, Self Cleaning Cycle, 3831 $98.87",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T20:44:37.836262Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "hip2save",
   "raw_title": "These Cute Halloween Earrings Are Just $5 at Kohl’s!",
   "reason": "Not evaluated",
@@ -141388,222 +141476,6 @@
   "raw_title": "TCL 20\" Caged Low Profile Ceiling Fan Light for $59 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T21:18:09.491863Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Forging Mount No Stud TV Wall Mount for 26\" to 100\" TVs for $20 w/ Prime + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T21:01:13.217484Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "STANLEY Quencher H2.0 Flow State Tumbler, 30 oz, Cranberry $20.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T20:55:34.908679Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "DEWALT Spector In-Viz Bifocal Safety Glass - Black/Yellow Frame - Clear Lens $8.65",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T20:55:34.908679Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Greenworks 40V 13 in String Trimmer & 350 CFM Blower Combo, 2.0 Ah Battery $124.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T20:55:34.908679Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "3.5-Oz Laffy Taffy Chewy Candy Mini Bars (Banana) $1.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T20:55:34.908679Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Grand patio 9FT Patio Umbrella with Fringe $49.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T20:55:34.908679Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Baby Einstein My First Library Board Book Block 12-Book Set $9.36",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T20:55:34.908679Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Tylenol Extra Strength Coated Tablets 500 mg Acetaminophen 100 Count $10.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T20:55:34.908679Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Pureology Color Fanatic Leave-In Conditioner & Detangling Anti-Frizz Spray $18.50",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T20:55:34.908679Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Keter Marvel 71 Gal Outdoor Storage Box $54.59",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T20:55:34.908679Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Optimum Nutrition Gold Standard Whey Protein Extreme Milk Chocolate 5 LB $79.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T20:55:34.908679Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Tosewever Cotton Canvas Cross Back Chef Apron M to XXL $14.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T20:55:34.908679Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Carhartt Men's Firm Duck Apron, Black, One Size $39.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T20:55:34.908679Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Laffy Taffy Mini Banana Bars 3.5 oz 2-Pack $2.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T20:55:34.908679Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Bioré Witch Hazel Ultra Strength Blackhead Remover Pore Strips 18 Count $12.12",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T20:55:34.908679Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Hydro Flask Insulated Stainless Steel Wide Mouth Flex Lid Water Bottle 40 Oz $37.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T20:55:34.908679Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Smith & Wesson SWBG10S 3.5\" Tanto Folding Pocket Knife w/ G10 Handle $16.45",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T20:55:34.908679Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "DJI Mini 5 Pro Ultra-Light Drone w/ Camera $683.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T20:55:34.908679Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Franklin Sports NHL Hockey Goal, Ball, and Stick Set $23.67",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T20:55:34.908679Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Smith & Wesson 24/7 8.25in Stainless Steel Ultra-Glide Folding Knife with 3.5in Tanto Blade and G10 Handle $20.37",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T20:55:34.908679Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ASUS ROG Flow Z13 Tablet (Cert. Refurb): 13.4” QHD+ IPS 180Hz, Ryzen AI MAX 390, 32GB LPDDR5X 8000MHz, 1TB SSD $1550",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T20:55:34.908679Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$12.97 FS Walmart+ Franklin Sports Official Football - Extra Grip 1000 - Brown - 1 Inflated Ball",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T20:55:34.908679Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Tork Matic H1 Hand Towel Roll Dispenser Stainless Steel $117.95",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T20:49:57.659970Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "edx Electric Standing Desk, Height Adjustable Desk, 55 x 24 Inches - White Color - $81",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T20:49:57.659970Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Poofzy 200-Foot Permanent Outdoor RGB+IC Smart Lights for $72 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T20:44:19.478393Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "VEVOR 4' x 100' Heavy Duty Weed Barrier Fabric, 5.8 OZ $25.77 Shipped",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T20:44:19.478393Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "VEVOR 3-Ton Triple Bag Air Jack, 6600 lbs, 17.7\" Lift $55.04 Shipped",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T20:44:19.478393Z",
   "code": "not_checked",
   "public": false
  }
