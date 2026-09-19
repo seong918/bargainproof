@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS, AC] $56.20* | 5 × 16-Ounce CeraVe Acne Control Cleanser w/ 2% Salicylic Acid ($11.24 each) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T23:20:04.215548Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Pawz 20\"x20\" Plush Fleece Decorative Throw Pillow (Red, Green or Navy Blue) $4.89 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T23:20:04.215548Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nike Kids' Tiempo Legend 10 Club Indoor Soccer Shoes - $15.27 @ Dick's Sporting Goods",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T23:20:04.215548Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas Men's JABBAR LO Shoe (Core Black / Cloud White / Off White) $31.5",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T23:20:04.215548Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CITIZEN Men's Quartz Classic 42mm Stainless Steel AN8194-51L $196.16",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-19T23:20:04.215548Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "New Balance Men's or Women's 740 Running Shoes (Cortado/Thunder Brown) $59.37 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T23:14:40.661402Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Hoover Spotless Portable Carpet & Upholstery Spot Cleaner w/ 5-Oz Pet Solution $65 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T23:14:40.661402Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Mainstays Weatherproof Metal Garden Stake (Gnome, Mushroom, Sunflower & More) $0.97 + Free Shipping w/ Walmart+ or on $35+ $0.94",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-19T23:03:58.654910Z",
@@ -141396,22 +141452,6 @@
   "raw_title": "TCL 85\" Class $599.97 Q77K Series - 4K UHD QLED Costco *IN STORE*",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T23:22:06.774274Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "WeGofly 13\" 4 in 1 Cordless Electric Weed Wacker with Steel Gears, 2×21V 6.0Ah Batteries & Charger, 5.2 $64.99",
-  "reason": "Posted at $64.99, but Amazon showed $89.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-05T23:16:29.400114Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Wolverine Men's Overpass CarbonMAX 6\" Boot $94.47 and More + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T23:10:51.764954Z",
   "code": "not_checked",
   "public": false
  }
