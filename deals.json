@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "204bfe724bc1",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20036511-new-14-99-batman-the-dark-knight-returns-deluxe-edition-blu-ray-dvd-at-amazon",
+  "title": "Batman: The Dark Knight Returns - Deluxe Edition (Blu-ray + DVD)",
+  "raw_title": "[NEW] $14.99 | Batman: The Dark Knight Returns - Deluxe Edition (Blu-ray + DVD) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B00DP9RYDY",
+  "deal_total_cents": 1499,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 1499,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1499,
+  "amazon_url": "https://www.amazon.com/dp/B00DP9RYDY",
+  "amazon_checked_at": "2026-09-19T11:47:54.484864Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B00DP9RYDY",
+  "image_url": null,
+  "published_at": "2026-09-19T11:47:50.232752Z"
+ },
+ {
   "deal_id": "933bd5a8d8ed",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20036478-new-61-97-safavieh-amy-table-lamp-set-of-2-24-modern-green-lit4087g-at-amazon",

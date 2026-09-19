@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "4-Pk EZVALO Rechargeable Magnetic Mount Motion Sensor Night Lights w/ Charging Station $17 + Free S&H w/ Prime",
+  "reason": "Community score too low (+3) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T11:47:50.232752Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – HAPBEAR Swim Fins & Hand Paddles Set - $18.19 w/ Code + Deal",
+  "reason": "Community score too low (+2) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T11:47:50.232752Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon – HEEYCEM 2L Cool Mist Humidifier - $7.00 w/ Code",
   "reason": "Community score too low (+0) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-19T11:42:25.353288Z",
@@ -141876,30 +141892,6 @@
   "raw_title": "Ambrose Solar 6 Lumens Matte Black Integrated LED Modern Flicker Flame Torch Path Light (2-Pack); Weather Resistant $19.97",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T11:50:41.321513Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Maruchan Ramen Beef Flavor Instant Ramen Noodles (3oz, 24-Count) $6.70",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T11:45:25.041207Z",
-  "code": "lookup_failed",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "adidas Men's Terrex Anylander Rain.Rdy Hiking Shoes for $53 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T11:45:25.041207Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$12.99 | Amazon Basics 120W 3-Port GaN Wall Charger (2x USB-C, 1x USB-A; 2 colors) at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T11:45:25.041207Z",
   "code": "not_checked",
   "public": false
  }
