@@ -1,6 +1,14 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Woot Mazzup Massage Chair $736.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T22:42:34.050609Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Bosch 800 Series Fully Automatic Coffee, Espresso Machine- Stainless Steel $1698.96",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-19T22:31:50.959610Z",
@@ -141436,14 +141444,6 @@
   "raw_title": "2-Pack ECO-WORTHY 10W Solar Battery Charger Maintainer $32 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T22:42:41.965062Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Jackery HomePower 1000 V2 Portable Power Station + SolarSaga 200W Solar Panel $599 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T22:37:04.713158Z",
   "code": "not_checked",
   "public": false
  }

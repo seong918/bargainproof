@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "b0772fd70c79",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20037780-amazon-conodo-32gb-bluetooth-5-3-mp3-player-16-99-w-code",
+  "title": "Amazon – CONODO 32GB Bluetooth 5.3 MP3 Player - w/ Code",
+  "raw_title": "Amazon – CONODO 32GB Bluetooth 5.3 MP3 Player - $16.99 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0HFRNX729",
+  "deal_total_cents": 1699,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 3399,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 3399,
+  "amazon_url": "https://www.amazon.com/dp/B0HFRNX729",
+  "amazon_checked_at": "2026-09-19T22:42:38.543491Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0HFRNX729",
+  "image_url": null,
+  "published_at": "2026-09-19T22:42:34.050609Z"
+ },
+ {
   "deal_id": "a510704aa36b",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20037726-sns-ac-13-49-13-52-oz-la-roche-posay-purifying-foaming-cleanser-at-amazon",
