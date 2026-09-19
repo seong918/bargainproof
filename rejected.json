@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "4-count Pefei Tweezers Set $4 @ Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-19T01:40:00.504700Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "FS Plus or Pick Up $12,97 get $3 Walmart Cash limit 2 Dr. Scholl's Work Massaging Gel Advanced Insoles for Men, Size 8-14",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T01:40:00.504700Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$219.99* | Greenworks 80V 16\" Brushless Cordless Chainsaw w/ 2.5Ah Battery & Charger at Amazon",
   "reason": "Same deal was already posted from another source",
   "rejected_at": "2026-09-19T01:34:51.778011Z",
