@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Humidifiers for Bedroom Cool Mist Ultrasonic Small Humidifier with Humidity Sensor Auto Shut Off (Pink) $7",
+  "reason": "Posted at $7.00, but Amazon showed $13.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-19T04:19:25.024320Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Shutterfly - 4” x 5.5” Photo Magnets - $1 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T04:19:25.024320Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Gaming PC Desktop: i7-9700KF, AMD RX 580 (8GB), 16GB RAM, 512GB SSD + 1TB HDD, Wi-Fi 6 + BT 5.4, w/ Keyboard & Mouse $599.88",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T04:19:25.024320Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$69: 2 Pack Milwaukee M12 REDLITHIUM XC4.0 Extended Capacity Battery at Fasteners Inc",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-19T04:14:00.382422Z",
