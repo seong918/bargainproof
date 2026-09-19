@@ -1,6 +1,94 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Eivikga 3 Channel Dash Cam, 4K+2.5K+2.5K, WiFi GPS, for Rideshare and Taxi $56.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-19T03:13:04.727869Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "90-Count DenTek Kids Wild Fruit Flavored Floss Picks $1.48 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T03:13:04.727869Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "COCOMARTS Jelly Bras for Women No Underwire Push Up Bra Semolina,L $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $19.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-19T03:13:04.727869Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HUANUO FlowLift Pro Dual Monitor Mount for 13–27\" Screens, Tool-Free VESA Mount, Max Load 15.4 lbs $34.99",
+  "reason": "Posted at $34.99, but Amazon showed $49.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-19T03:13:04.727869Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Snapple Kiwi Strawberry Juice Drink, 16 Fl Oz Recycled Plastic Bottle, Pack Of 12, All Natural, No Artificial Flavors Or Sweeteners, Contains 3% Real Juice~$9.48 With S&S @ Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T03:07:36.689624Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Benson Boone \"American Heart\" (Red/White/Blue Vinyl LP) $14.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T03:07:36.689624Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Galaxy Of Terror (Limited Edition Steelbook) [Blu-ray] $22.76 Amazon.com",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-19T03:07:36.689624Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Select Accounts: 1.6-Oz Prada Paradoxe Men Eau de Parfum Refillable Spray $59.46 w/ S&S + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T03:07:36.689624Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "COCOMARTS Jelly Bras for Women No Underwire Wireless Push Up Bra TeaRed,M $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $19.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-19T03:07:36.689624Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Solar Rope Lights Outdoor Waterproof, 33FT 100 LED Solar String Lights Christmas Decor $7.99",
+  "reason": "Posted at $7.99, but Amazon showed $14.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-19T03:07:36.689624Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Damiano David \"FUNNY little FEARS\" (Vinyl LP) $13.93 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T03:02:11.741731Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Nuremberg Blu Ray $22.96 Amazon.com",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-19T02:51:29.991791Z",
