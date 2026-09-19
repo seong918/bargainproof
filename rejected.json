@@ -1,5 +1,69 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "[NEW, SnS] $18.52 | Peter Thomas Roth | Instant FIRMx® Eye Temporary Eye Tightener Easy-Wear Formula at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T00:03:48.480391Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "I Wore a $35 Smart Ring Next to My $350 Oura Ring… and the Results Shocked Me",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T00:03:48.480391Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "L.L.Bean Outerwear Sale: Up to 60% off + free shipping w/ $75",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T23:58:24.424358Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CRAFTSMAN Red 6 -Piece 3-1/2-in Multi-Bit Replaced Screwdriver one_size | CMHT68000 $6.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T23:58:24.424358Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$7.26* | 2-Pounds Kinetic Play Sand w/ 5 Tools & Reusable Storage at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-18T23:53:01.100422Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Bluey's Quest for the Gold Pen Nintendo Switch Game for $30 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T23:53:01.100422Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Dr Pepper Zero Sugar 12-Pack Just $4.58 Shipped on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T23:42:10.754280Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "40mm Citizen Men's Classic Quartz Watch (SS w/ Blue Sunray Dial) $99 + FS @ Jomashop",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-18T23:42:10.754280Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Real Relax Electric Zero Gravity Full Body Massage Recliner Chair for $630 + free shipping",
   "reason": "Not evaluated",
