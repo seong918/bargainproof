@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "ae941147421a",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20035179-14-99-ozzy-osbourne-patient-number-9-vinyl-at-amazon",
+  "title": "Ozzy Osbourne: Patient Number 9 (Vinyl)",
+  "raw_title": "$14.99 | Ozzy Osbourne: Patient Number 9 (Vinyl) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0B46X16BS",
+  "deal_total_cents": 1499,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 1499,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1499,
+  "amazon_url": "https://www.amazon.com/dp/B0B46X16BS",
+  "amazon_checked_at": "2026-09-19T00:09:16.524501Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0B46X16BS",
+  "image_url": null,
+  "published_at": "2026-09-19T00:09:12.821257Z"
+ },
+ {
   "deal_id": "662dc9a6cb7f",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20033556-urmywo-tummy-time-high-contrast-newborn-baby-toy-6-29-free-shipping-w-prime-or-on-35",
