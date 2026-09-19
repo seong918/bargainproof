@@ -1,5 +1,29 @@
 [
  {
+  "source": "dealcatcher",
+  "raw_title": "Taylor Swift: 1989 (Taylor's Version) (2 LP) $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T00:52:28.443089Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "EcoNour Car Windshield Sun Shade for $12 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T00:52:28.443089Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Graco Extend2Fit 3-in-1 Convertible Car Seat, Cullen $202",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T00:52:28.443089Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$19.99 | Best Of Bruce Springsteen (Vinyl) at Amazon",
   "reason": "Community score too low (+2) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
