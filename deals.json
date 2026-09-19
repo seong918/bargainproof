@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "195528f4b96c",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20034810-amazon-wandf-18x14x8-personal-item-travel-backpack-19-99-w-code",
+  "title": "Amazon – WANDF 18x14x8 Personal Item Travel Backpack - w/ Code",
+  "raw_title": "Amazon – WANDF 18x14x8 Personal Item Travel Backpack - $19.99 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0BYHND7Z8",
+  "deal_total_cents": 1999,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 3999,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 3999,
+  "amazon_url": "https://www.amazon.com/dp/B0BYHND7Z8",
+  "amazon_checked_at": "2026-09-19T04:03:39.122995Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0BYHND7Z8",
+  "image_url": null,
+  "published_at": "2026-09-19T04:03:35.487022Z"
+ },
+ {
   "deal_id": "c4d1adb2ad0a",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20033721-13-oz-baby-dove-derma-care-soothing-wash-fragrance-free-3-53-w-s-s-free-shipping-w-prime-or-on-35",

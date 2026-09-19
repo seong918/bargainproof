@@ -1,5 +1,85 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Men's Breathable Quick-Dry Drawstring Pants for 2 Pairs for $10 + $18 shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T04:03:35.487022Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ottocast Car Camera & Wireless CarPlay Adapter for $99 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T04:03:35.487022Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Men's Geometric Zipped Sweatshirt for $15 + $9 shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T04:03:35.487022Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Fanttik G9 Cordless Electric Spin Scrubber for $36 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T04:03:35.487022Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "GKU 4K Dual Front and Rear Dash Cam for $70 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T04:03:35.487022Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "https://fastenersinc.net/product/dewalt-dce592b-20v-max-grabo-lifter-tool-only $169",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T04:03:35.487022Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DEWALT 20V MAX Cordless/Corded Inflator (Tool Only) $115",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T04:03:35.487022Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $15.75 | Levy Rozman: How to Win at Chess: The Ultimate Guide for Beginners and Beyond (Hardcover) at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T03:58:23.284930Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Wonder Nation Baby and Toddler Fisherman Sandals $2.71+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T03:53:11.443653Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Klein Tools Combustible Gas Leak Detector (ET190) $26.50 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T03:47:59.155114Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
   "source": "slickdeals",
   "raw_title": "COCOMARTS Jelly Bras for Women No Underwire Push Up Bra Coffee S $24.99",
   "reason": "Posted at $24.99, but Amazon showed $19.98 when we checked — the post is stale",
