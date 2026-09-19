@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Nuremberg Blu Ray $22.96 Amazon.com",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-19T02:51:29.991791Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SCCVEE USB C Wall Charger, 40W 4-Port USB C Charger Block, Fast Charging Block Dual Port PD+QC Wall Plug Multiport Type C $6.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-19T02:51:29.991791Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men Essentials 3-Stripes Track Suit $25.2 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T02:51:29.991791Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Lukaree 2 Pack Wormwood Black Walnut Drops- Gut Support with L-Glutamine $8.77",
   "reason": "Posted at $8.77, but Amazon showed $4.35 when we checked — the post is stale",
   "rejected_at": "2026-09-19T02:46:21.452026Z",
