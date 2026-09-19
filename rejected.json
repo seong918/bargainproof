@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$105.49-$105.99 in Pink or Gray: FS Walmart Marketplace Babyeap 5-in-1 Baby Bassinet with Playard Mode & Changing Table,Bedside Sleeper for Newborns and Infant",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T07:18:37.521154Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$20-$23 FS WALMART+ Marketplace: Babyeap Baby Gym Play Mat 3 in 1 Fitness Rack with Music and Lights Baby Activity Center,Pink or Blue",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T07:18:37.521154Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Bedsure 7-Piece Queen Comforter Set (Sage Green Floral) $24.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-19T07:13:20.858071Z",
@@ -141628,38 +141644,6 @@
   "raw_title": "Keurig K-4500 Large Business Single Serve Coffee and Specialty Beverage Café System, Plumbed, Silver/Black $1999",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it",
   "rejected_at": "2026-09-05T07:22:37.821417Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Anker 633 10,000mAh Magnetic Power Bank for $35 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T07:17:02.721209Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS, AC] $5.99* | 220-Count Nature Made Vitamin D3 2000 IU (50mcg) Tablets at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs clip coupon, Subscribe & Save, which we can't reproduce automatically",
-  "rejected_at": "2026-09-05T07:17:02.721209Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$8* | Hanes Men's EcoSmart Fleece Pullover Hooded Sweatshirt (Heather Navy) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it",
-  "rejected_at": "2026-09-05T07:17:02.721209Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS, AC] $12.44 | 36-Count TROJAN ENZ Lubricated Condoms at Amazon (34.6￠ each)",
-  "reason": "Community score too low (+1) to pass without a price check — needs clip coupon, Subscribe & Save, which we can't reproduce automatically",
-  "rejected_at": "2026-09-05T07:17:02.721209Z",
   "code": "low_score",
   "public": true
  }
