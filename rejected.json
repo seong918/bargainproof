@@ -1,5 +1,77 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "LG B6E Series OLED55B6EUA 55\" 4K OLED Smart TV for $800 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T10:21:53.115675Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "RIG 300 PRO HC Universal Multiplatform Wired Gaming Headset(Purple) $20.99 + Free S&H w/ Prime or $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T10:21:53.115675Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bruno Marc Men's Lace-Up Derby Oxford Dress Shoes (Brown or Black) $25.29 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T10:16:26.697363Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "On 1-Day Flash Deals at Dick's Sporting Goods: Up to 75% off + free shipping w/ $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T10:16:26.697363Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Life is Good Men's Graphic T-Shirts for From $9.99 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T10:16:26.697363Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Little Beauty Women’s Fleece-Lined Zip Hoodie - $17.49 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T10:11:00.734582Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – KOOPER 2-Pack Metal Solar Hanging Lanterns - $12.99 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T10:11:00.734582Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Kooper 2-Mode Halloween Decorations Waterproof Solar Lanterns $14.57",
+  "reason": "Posted at $14.57, but Amazon showed $26.49 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-19T10:11:00.734582Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Life is Good End of Season Sale: Up to 40% off + extra 20% off + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T10:11:00.734582Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Amazon – Flantree 75\" x 28\" x 2\" Foam Camping Sleeping Pad - $36.59 w/ Code",
   "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
@@ -141700,46 +141772,6 @@
   "raw_title": "Teenage Mutant Ninja Turtles: The Last Ronin -- The Covers (Hardcover) $8 + $6 S/H",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T10:28:53.670582Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Lisen 6.6' 240W USB-C to USB-C Cable (2-Pack) $5.60",
-  "reason": "Posted at $5.60, but Amazon showed $9.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-05T10:17:38.828311Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Firebat F1 AMD Ryzen 7 Mini Desktop PC w/ 16GB RAM & 512GB SSD for $329 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T10:17:38.828311Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Kingroon 1.75mm 3D Printer Filament 10-Pack for $58 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T10:12:01.107105Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Monmee Wrapping Paper Holder with 2 Adjustable Clamps $14.99",
-  "reason": "Posted at $14.99, but Amazon showed $24.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-05T10:06:24.465578Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Squishmallows 8\" Zootopia 2 Plush Toys for $3 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T10:06:24.465578Z",
   "code": "not_checked",
   "public": false
  }
