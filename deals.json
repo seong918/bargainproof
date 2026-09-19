@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "fc123ef89f3a",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20037354-88-92-the-north-face-surge-commuter-laptop-backpack-at-amazon",
+  "title": "The North Face Surge Commuter Laptop Backpack",
+  "raw_title": "$88.92* | The North Face Surge Commuter Laptop Backpack at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0F1Q943GW",
+  "deal_total_cents": 8892,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 8892,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 8892,
+  "amazon_url": "https://www.amazon.com/dp/B0F1Q943GW",
+  "amazon_checked_at": "2026-09-19T17:37:16.041561Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0F1Q943GW",
+  "image_url": null,
+  "published_at": "2026-09-19T17:37:11.498021Z"
+ },
+ {
   "deal_id": "54506c9b0533",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20036931-cosy-homeer-bathroom-rugs-24x17-grey-5-39-more-free-shipping-w-prime-or-orders-35",
