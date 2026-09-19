@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon – TuyLuxe 4-Pack Multicolor Solar Spot Lights - $23.99 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T11:31:51.401891Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – KOOPER 2-Pack 210-LED Solar Motion Flood Lights - $14.24 w/ Code",
+  "reason": "Community score too low (+2) to pass without a price check — needs promo code, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T11:31:51.401891Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – TuyLuxe 2-Pack Solar Hanging Lanterns w/ Hooks - $13.85 w/ Code",
+  "reason": "Community score too low (+3) to pass without a price check — needs promo code, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T11:31:51.401891Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – ATHMILE Women’s Pointed-Toe Knit Ballet Flats - $9.99–$18.49 w/ Code",
+  "reason": "Community score too low (+2) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T11:31:51.401891Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$29.95* | Bandai 30MM Armored Core VI Fires of Rubicon RaD CC-2000 Orbiter Nightfall Model Kit at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-19T11:31:51.401891Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Greenworks 24V 270CFM Handheld Leaf Blower (Tool Only) $52.66",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T11:31:51.401891Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Method 28oz All-Purpose Cleaner Spray (2-Pack, Pink Grapefruit) $3.60",
+  "reason": "Posted at $3.60, but Amazon showed $0.14 when we checked — the post is stale",
+  "rejected_at": "2026-09-19T11:31:51.401891Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon – ZITY Men’s Hidden-Placket Long-Sleeve Dress Shirt - $9.49 w/ Code",
   "reason": "Community score too low (+0) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-19T11:26:25.737829Z",
@@ -141805,14 +141861,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T11:33:52.533547Z",
   "code": "lookup_failed",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Body Glove Angler Fishing Vest Life Jacket (Medium) $24.50",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T11:28:35.799316Z",
-  "code": "not_checked",
   "public": false
  }
 ]
