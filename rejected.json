@@ -1,5 +1,21 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "DEWALT 20V MAX XR Oscillating Tool Kit with Blades, 3 Speed Cordless Brushless Multitool, Up to 20,000 OPM, LED Light, Battery and Charger Included (DCS356C1), $99, Amazon $98.97",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-19T12:35:06.665778Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Aneebart 6-Mode Rechargeable Electric Toothbrush (2-Pack) with 12x Brush Heads $7.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T12:35:06.665778Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "adidas Men's Adilette Aqua Slides for $7.20 + free shipping",
   "reason": "Not evaluated",
@@ -141670,29 +141686,5 @@
   "rejected_at": "2026-09-05T12:38:42.163448Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Airseekers Tron .59 Acre Robotic Lawn Mower for $899 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T12:33:05.003622Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Rolex Datejust Boiler Dial Gold & Steel 36mm Automatic Men’s Watch $6495",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T12:33:05.003622Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$21.49 | Carhartt Men's 106573 Force Sun Defender Relaxed 1/2-Zip at Amazon",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-05T12:33:05.003622Z",
-  "code": "duplicate",
-  "public": true
  }
 ]
