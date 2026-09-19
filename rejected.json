@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "IN'VOLAND Women's Plus-Size LS Button-Down Plaid Flannel Shacket (various) $13.99 + Free Shipping w/ Prime or on $35+ $22.79",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T07:51:00.309430Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "iRobot Roomba Max 705 Robot Vacuum with AutoEmpty Dock, Powerful Suction, Dual Rubber Anti-Tangle Brushes, LiDAR Navigation $499.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-19T07:51:00.309430Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SUPVAN E11 Keyboard & Bluetooth Label Maker Machine with 4 Tapes $18 + Free Shipping w/ Prime or orders $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T07:51:00.309430Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Gaiam Studio Select 6mm Recycled Hybrid Yoga Mat (Green or Blue) $19.99 + Free Store Pickup at Target or Free Shipping on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T07:51:00.309430Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "ULG 5-Pocket Over Door Organizer w/ 10 Mesh Side Pockets & Clear Windows (Dark Grey) $10.49 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-19T07:45:37.040069Z",
@@ -141518,29 +141550,5 @@
   "rejected_at": "2026-09-05T07:55:39.530233Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "The Secret Life of Pets (4K UHD + Blu-ray) $12.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically",
-  "rejected_at": "2026-09-05T07:50:22.347686Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Garden Winds Reinforced RipLock 350 Replacement Canopy Top Cover Compatible with Ozark Trail 4' x 6' Outdoor Pop Up Canopy Model FGA64S1, various colors $31.49",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it",
-  "rejected_at": "2026-09-05T07:50:22.347686Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Shark ZU102 Rotator Pet Upright Vacuum with PowerFins HairPro & Odor Neutralizer Technology, Charcoal, 2.9 L Dust Cup $219.99",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it",
-  "rejected_at": "2026-09-05T07:50:22.347686Z",
-  "code": "low_score",
-  "public": true
  }
 ]
