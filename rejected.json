@@ -1,5 +1,61 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Kistore Womens Long Sleeve Striped Soft Button Up Collared Shirt $12.99 AC",
+  "reason": "Posted at $12.99, but Amazon showed $25.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-19T01:29:42.764314Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Sertapedic CopperLoft King Size Pillow w/ Copper Infused Cover $3.50 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T01:29:42.764314Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Acer 3 in 1 Magnetic Palm-Sized Foldable Fast Charger Stand Compatible with MagSafe $33.57",
+  "reason": "Community score too low (+2) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-19T01:19:13.249158Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Garbage Can Rubber Bands Cord Lock Adjustable Design Trash Can Bands Fits 4-33 Gallon Trash Cans Multifunction Bands Litter Box Bands $6.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-19T01:19:13.249158Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Hope for Animals and Their World: How Endangered Species Are Being Rescued from the Brink by Jane Goodall Kindle book $2 and more @ Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-19T01:13:47.748832Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "O-Cedar EasyWring Machine Washable Microfiber Spin Mop Head Replacement for $9 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T01:13:47.748832Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$6.05 or less AMZ TOPS Legal Pads, 12 Pack, 50 Jr. Legal Ruled 5\" x 8\" Sheets, Bright White Paper with Firm Back, Small Portable Notepads,",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-19T01:08:22.520969Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
   "source": "hip2save",
   "raw_title": "Portable White Noise Sound Machine Only $10.49 on Amazon (Reg. $33)",
   "reason": "Not evaluated",
