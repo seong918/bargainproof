@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Satin Lined Beanie for Women Soft Satin Lining Slouchy Winter Hats $6.6",
+  "reason": "Posted at $6.60, but Amazon showed $8.20 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-19T12:40:15.465135Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Dewalt 20V MAX Cordless 3/8 in. Right Angle Drill/Driver (Tool Only) $99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T12:40:15.465135Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "DEWALT 20V MAX XR Oscillating Tool Kit with Blades, 3 Speed Cordless Brushless Multitool, Up to 20,000 OPM, LED Light, Battery and Charger Included (DCS356C1), $99, Amazon $98.97",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-19T12:35:06.665778Z",
@@ -141660,30 +141676,6 @@
   "raw_title": "Gretsch Soprano Long-Neck Ukulele with Gig Bag $69 + Free S/H",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T12:44:20.808362Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Ryobi ONE+ 18V Cordless 3/8\" Drill/Driver Kit for $50 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T12:38:42.163448Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Ryobi USB Lithium 2.0Ah Rechargeable Battery: Free w/ tool purchase as low as $40 + free shipping w/ $25",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T12:38:42.163448Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "iVANKY 4-in-1 Wireless Charging Station w/ Night-Lamp $15 + Free S&H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T12:38:42.163448Z",
   "code": "not_checked",
   "public": false
  }
