@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "417db9b2ed42",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20034807-amazon-as-fairy-wireless-jelly-bra-6-65-8-54-w-code-deal",
+  "title": "Amazon – As Fairy Wireless Jelly Bra - – w/ Code + Deal",
+  "raw_title": "Amazon – As Fairy Wireless Jelly Bra - $6.65–$8.54 w/ Code + Deal",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0GT8X5C8D",
+  "deal_total_cents": 665,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 1329,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1329,
+  "amazon_url": "https://www.amazon.com/dp/B0GT8X5C8D",
+  "amazon_checked_at": "2026-09-19T04:14:04.141210Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0GT8X5C8D",
+  "image_url": null,
+  "published_at": "2026-09-19T04:14:00.382422Z"
+ },
+ {
   "deal_id": "bdba62a52fd5",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20034780-2-pack-1000-lumen-banral-rechargeable-led-zoomable-flashlight-w-pocket-clip-9-79-free-shipping-w-prime-or-on-35",
