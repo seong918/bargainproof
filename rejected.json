@@ -1,5 +1,45 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Nike Sportswear RPM Backpack for $28 + free shipping w/ $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T12:03:41.580173Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$25.79 | 2 Pack 5 Ft Large Light Up Ghost Decor - Halloween Decorations Outdoor at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T12:03:41.580173Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$2 | 6-Pack Paper Mate InkJoy Bright Gel Pens (Medium Point, 0.7mm, Assorted Opaque Ink) at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T12:03:41.580173Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC] $22.29** | 8Bitdo 64 Bluetooth Wireless Controller w/ Hall Effect Joysticks (Black) at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-19T12:03:41.580173Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$5* | Metallica: The Black Album Remastered (Audio CD w/ AutoRip MP3) at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-19T12:03:41.580173Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$107.99 | 2-Pack Milwaukee M12 REDLITHIUM HIGH OUTPUT XC5.0 Battery (48-11-2450) at Woot!",
   "reason": "Not evaluated",
@@ -141684,14 +141724,6 @@
   "raw_title": "Creality Falcon2 22W Laser Engraver & Cutter with Rotary $539 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T12:06:31.131529Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Hampton Bay Terrace Park 10 Lumen Black LED Weather Resistant Outdoor Solar Path Light with Plastic Lens (10-Pack) $24.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T12:01:14.489767Z",
   "code": "not_checked",
   "public": false
  }
