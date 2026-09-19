@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon – Barjneel Men’s Fleece-Lined Thermal Underwear Bottoms - $7.99 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T08:34:20.155575Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – AMOAMI Thin Quick-Dry Bath Mat - $9.99-$28.79 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T08:34:20.155575Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon – RESARE Chenille Bath Mat - $9.99-$28.99 w/ Code",
   "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-19T08:28:55.501430Z",
@@ -141524,22 +141540,6 @@
   "raw_title": "Duratech 3 PIECES 6\" 10” 15\" Breaker Bar Set 1/4\" 3/8\" 1/2\" Drive 180° Rotatable Head, $19.43, free shipping, ebay",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T08:36:38.589101Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Lepuler 32dB High Fidelity Earplugs for $20 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T08:31:02.162902Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Kobalt 302-Piece Metric / SAE Mechanics Tool Set for $99 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T08:31:02.162902Z",
   "code": "not_checked",
   "public": false
  }
