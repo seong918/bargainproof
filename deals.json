@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "35a43b09e108",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20035743-sns-ac-6-57-12-pk-3-6-oz-sour-patch-kids-original-soft-chewy-candy-at-amazon",
+  "title": "12-pk 3.6-oz Sour Patch Kids Original Soft & Chewy Candy",
+  "raw_title": "[SnS, AC] $6.57* | 12-pk 3.6-oz Sour Patch Kids Original Soft & Chewy Candy at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 657,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-19T06:24:40.066508Z"
+ },
+ {
   "deal_id": "0e85829ae463",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20034375-amazon-50-ft-stainless-steel-garden-hose-w-10-function-nozzle-17-09-w-code",
