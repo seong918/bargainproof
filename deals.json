@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "1d8aa8b743a7",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20036286-129-46-2-pack-dewalt-20v-max-xr-powerpack-battery-4ah-lithium-ion-dcb2104-2-at-amazon",
+  "title": "2-Pack DEWALT 20V MAX XR POWERPACK™ Battery, 4Ah Lithium Ion (DCB2104-2)",
+  "raw_title": "$129.46 | 2-Pack DEWALT 20V MAX XR POWERPACK™ Battery, 4Ah Lithium Ion (DCB2104-2) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0FNX8TZ2S",
+  "deal_total_cents": 12946,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "qty"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 12946,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 12946,
+  "amazon_url": "https://www.amazon.com/dp/B0FNX8TZ2S",
+  "amazon_checked_at": "2026-09-19T09:11:46.732433Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0FNX8TZ2S",
+  "image_url": null,
+  "published_at": "2026-09-19T09:11:41.831760Z"
+ },
+ {
   "deal_id": "d394f9851636",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20036274-6-98-oxo-good-grips-plastic-utility-cutting-board-at-amazon",

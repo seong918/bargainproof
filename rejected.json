@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon – Vilanva Women’s Walking/Tennis Shoes - $34.44 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T09:11:41.831760Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – 34-Piece STEM Soft Building Blocks Set - $18.49 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T09:11:41.831760Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – VOOPNU Air Purifier for Up to 1076 Sq. Ft. - $19.96 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T09:06:14.759697Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – CADITEX Women’s Long-Sleeve Henley Shirt - $3.99-$4.99 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T09:06:14.759697Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Leafigure Women’s High-Waisted Leggings - $3.59-$5.99 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T09:06:14.759697Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon – OLILAWN 110-lb Foldable Patio Umbrella Base - $49.99 w/ Code",
   "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-19T09:00:50.894628Z",
@@ -141588,30 +141628,6 @@
   "raw_title": "$39.99 | 25-lb Fitvids Rubber Encased Hex Dumbbell (Pair) at Woot!",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T09:15:54.388428Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "T-Fal Easy Care 4.5\" Nonstick One Egg Wonder Pan for $7 + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T09:10:17.499849Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Echelon Row Sport 2 Smart Home Rower for $200 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T09:10:17.499849Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Dick's Sporting Goods Epic End of Summer Sale: Up to 50% off, extra 25% off clearance + free shipping w/ $49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T09:04:40.181471Z",
   "code": "not_checked",
   "public": false
  }
