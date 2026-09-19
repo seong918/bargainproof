@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "7da20f817fb6",
+  "source": "techbargains",
+  "source_url": "https://www.amazon.com/gp/product/B08MXTHRWQ/ref=ox_sc_act_title_1",
+  "title": "Greenlife 12\" 5QT 5-in-1 Electric Skillet (Turquoise)",
+  "raw_title": "Greenlife 12\" 5QT 5-in-1 Electric Skillet (Turquoise) $31.99",
+  "merchant": "amazon",
+  "buy_url": "https://www.amazon.com/gp/product/B08MXTHRWQ/ref=ox_sc_act_title_1",
+  "deal_total_cents": 3199,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 3199,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 3199,
+  "amazon_url": "https://www.amazon.com/dp/B08MXTHRWQ",
+  "amazon_checked_at": "2026-09-19T10:54:17.179335Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": null,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B08MXTHRWQ",
+  "image_url": null,
+  "published_at": "2026-09-19T10:54:13.366698Z"
+ },
+ {
   "deal_id": "398c6b36e1fc",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20036331-sns-ac-4-58-12-pk-12-oz-dr-pepper-zero-sugar-soda-at-amazon-38-2-each",

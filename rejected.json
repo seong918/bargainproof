@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$27.28 S&S 25% off Q or less Maxwell House K-Cup Coffee Pods, 84 ct Box, Breakfast Blend Mild Roast",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T10:54:13.366698Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "7 FREE Kindle eBooks – The Spirits’ Files™ Series ($0.00 on Amazon)",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-19T10:54:13.366698Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "2-Pack CELOX Heavy Duty Scrub Brush $5.59 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-19T10:49:01.775036Z",
@@ -141742,29 +141758,5 @@
   "rejected_at": "2026-09-05T10:56:55.104217Z",
   "code": "duplicate",
   "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Queen 3\" Firm Memory Foam Mattress Topper for $52 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T10:51:20.879157Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "YMMV Pony 2-in-1 Work Bench Portable with 4pc Clamp 4pc Bench Dog, 2pc Safety Strap $99.69",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T10:51:20.879157Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Giro Caden II Adult Urban Bike Helmet (Trail Green, Medium) $25.30",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T10:51:20.879157Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
