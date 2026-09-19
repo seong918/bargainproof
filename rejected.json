@@ -1,5 +1,21 @@
 [
  {
+  "source": "hip2save",
+  "raw_title": "Waterproof Kids Binoculars Only $7.99 on Amazon (Reg. $19)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T19:51:13.310628Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Walmart – NULAS 4-Piece Bamboo Cutting Board Set w/ Holder - $19.99 w/ Code",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T19:51:13.310628Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$7.34 | 32-Oz Rejuvenate Professional Wood Floor Restorer at Amazon",
   "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
@@ -141550,21 +141566,5 @@
   "rejected_at": "2026-09-05T20:05:06.769524Z",
   "code": "duplicate",
   "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Thule 100D Nylon Lightweight Garment Folder Bags $24.95",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T19:48:25.747210Z",
-  "code": "lookup_failed",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Birthday Cards 20-Pack Just $5.85 on Amazon – Way Cheaper Than Buying One!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T19:48:25.747210Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
