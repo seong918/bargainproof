@@ -1,5 +1,45 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Bosch 800 Series Fully Automatic Coffee, Espresso Machine- Stainless Steel $1698.96",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-19T22:31:50.959610Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bosch 800 Series Fully Automatic Coffee, Espresso Machine - Silver $1498.96",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-19T22:31:50.959610Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $20.62 | Nioxin Scalp Recovery Anti-Dandruff System Kit at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T22:31:50.959610Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Lenovo USA ThinkPad Thunderbolt 3 Dock Gen 2 135W (40AN0135US) Dual UHD 4K Display Capability, 2 HDMI, 2 DP, USB-C, USB 3.1, Black $162.4",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-19T22:26:29.050012Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Insta 360 X5 bundle at Costco. YMMV as they have been selling out as people have been finding them at their local warehouse $399.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T22:26:29.050012Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "hip2save",
   "raw_title": "Physician’s Choice Fiber Gummies 60-Count Just $8.99 Shipped on Amazon (Reg. $17)",
   "reason": "Not evaluated",
@@ -141404,30 +141444,6 @@
   "raw_title": "Jackery HomePower 1000 V2 Portable Power Station + SolarSaga 200W Solar Panel $599 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T22:37:04.713158Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Even Embers 6-Burner Propane Gas Grill, Silver, With Side and Sear Burners, $399.99, Tractor Supply",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T22:31:28.285724Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "COCOMARTS Jelly Bras for Women No Underwire Wireless Push Up Bra Nude,M $9.99",
-  "reason": "Posted at $9.99, but Amazon showed $19.98 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-05T22:25:49.933730Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "CITIZEN Promaster Professional Diver 200 Meters Eco-Drive Men's Watch $219",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T22:25:49.933730Z",
   "code": "not_checked",
   "public": false
  }
