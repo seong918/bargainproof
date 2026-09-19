@@ -1,6 +1,102 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "COCOMARTS Jelly Bras for Women No Underwire Full Coverage Push Up Bra XL $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $19.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-19T15:10:04.807791Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Brookstone 3-In-1 MagSafe Curved Wireless Charging Stand $15.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T15:10:04.807791Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Anova 850W Precision Sous Vide Cooker Mini $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T15:10:04.807791Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Gotham Steel 5-Quart Ceramic Nonstick Dutch Oven $39.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T15:10:04.807791Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Tommy Bahama High Tide Hibiscus Yarn Dyed Beach Towel 36\" x 68\" $17.43",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T15:10:04.807791Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "4-Piece Wood Toddler Playroom Set - Table, 2 Chairs & Toy Bin $49.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T15:10:04.807791Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2500W High-Temp Steam Cleaner 110V Portable Handheld $26.4 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T15:10:04.807791Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Costco - Philips Sonicare Brilliant Clean Sonic Electric Rechargeable Toothbrush, 2 Settings, (Black or Purple) $29.97 in store only YMMV",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T15:10:04.807791Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Hegent Carry-On Luggage 20'' $211",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T15:10:04.807791Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Costco deal - Salomon Women’s XA PRO 3D V9 Shoe $99.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T15:10:04.807791Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Airfares Oakland CA - Las Vegas or Vice Versa $19 One-Way or $38 Round Trip on Frontier Airlines BE (Limited Travel October - December 2026)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T15:10:04.807791Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Grill Brush and Scraper Bristle Free with 3 Replacement Heads $14.99 AC + Free Shipping",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-19T15:10:04.807791Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "HIZONE 3 in 1 135A MIG Welder,with FLUX MIG/Stick/Lift TIG Multi-Process $65.69",
   "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
   "rejected_at": "2026-09-19T15:04:38.286051Z",
@@ -141948,22 +142044,6 @@
   "raw_title": "Creativity for Kids Mini Garden Terrariums Only $5 on Amazon (Reg. $12)",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T15:13:41.150949Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Under Armour Shirts from $6.61 (Regularly $30)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T15:08:08.645001Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$159.49 ac FS WALMART by CRUA 34\" WQHD 165Hz Utrawide Gaming Monitor,3440x1440 21:9 IPS Gaming Monitor,Build-in Speakers,120% sRGB",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T15:08:08.645001Z",
   "code": "not_checked",
   "public": false
  }
