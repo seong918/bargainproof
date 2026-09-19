@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "668b0256dd48",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20035035-amazon-comfyinlove-memory-foam-knee-pillow-blue-12-79-w-code-prime",
+  "title": "Amazon – ComfyInLove Memory Foam Knee Pillow (Blue) - w/ Code + Prime",
+  "raw_title": "Amazon – ComfyInLove Memory Foam Knee Pillow (Blue) - $12.79 w/ Code + Prime",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1279,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code",
+   "prime"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0FQNP6VM2",
+  "image_url": null,
+  "published_at": "2026-09-19T07:13:20.858071Z"
+ },
+ {
   "deal_id": "46ef144aff42",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20035920-sns-9-49-6-pack-18-oz-nature-s-path-organic-old-fashioned-oats-instant-oatmeal-at-amazon-1-58-each",
