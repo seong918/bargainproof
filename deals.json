@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "444b5eb3b220",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20034861-amazon-fun-gift-21-piece-reusable-halloween-stencil-set-4-99-w-code",
+  "title": "Amazon – Fun Gift 21-Piece Reusable Halloween Stencil Set - w/ Code",
+  "raw_title": "Amazon – Fun Gift 21-Piece Reusable Halloween Stencil Set - $4.99 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0H365KKXP",
+  "deal_total_cents": 499,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 999,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 999,
+  "amazon_url": "https://www.amazon.com/dp/B0H365KKXP",
+  "amazon_checked_at": "2026-09-19T07:45:40.822081Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0H365KKXP",
+  "image_url": null,
+  "published_at": "2026-09-19T07:45:37.040069Z"
+ },
+ {
   "deal_id": "ce2b1f90b408",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20034471-amazon-smart-fingerprint-keyless-door-lock-w-handle-34-99-w-code",
