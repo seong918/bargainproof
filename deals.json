@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "0aab51e16b8a",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20037465-leopard-sweatshirt-1",
+  "title": "Leopard sweatshirt",
+  "raw_title": "Leopard sweatshirt $1",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0HJCVT54X",
+  "deal_total_cents": 100,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 100,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 100,
+  "amazon_url": "https://www.amazon.com/dp/B0HJCVT54X",
+  "amazon_checked_at": "2026-09-19T18:36:16.510116Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 0,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0HJCVT54X",
+  "image_url": null,
+  "published_at": "2026-09-19T18:36:12.303334Z"
+ },
+ {
   "deal_id": "427212a44008",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20037201-6-74-s-s-ac-hair-cutting-scissors-ulg-professional-hair-scissors-6-5-inch-right-hand-razor-edge-barber-shears",
