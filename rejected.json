@@ -1,6 +1,398 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "28L Lovevook Backpack w/ 15.6\" Laptop Pocket (Black) $9.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T05:30:22.754373Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LG - gram Book 15\" Touch-screen Laptop FHD Intel Core Ultra 5 115U Processor with 8GB RAM - 512GB SSD - Titan Black $459.99 Bestbuy.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T05:30:22.754373Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Philips 242S1AE 24\" 16:9 Full HD IPS WLED LCD Monitor (Refurbished) $55.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T05:30:22.754373Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "VIZIO 65\" Class Quantum Series QLED Smart TV (VQD65R-10) w/ 5 Year Warranty - $328 @ Sam's Club",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T05:30:22.754373Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee 2521-20 5.37 in. M12 Fuel Circular Saw Tool Only $107.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T05:24:55.996901Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bell Cocoon 300 Rear Mount Child Bike Seat — 5-Point Harness, Spoke Guard, Fits 26–27 in Bikes, Up to 40 lbs, Ages 1+ $39",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-19T05:19:27.309932Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Google - Qi2 Wireless Charger - Snow - Best Buy - Clearance - $18.99 Free Shipping $18.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T05:19:27.309932Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$71.99 | Milwaukee 2457-20 M12 Ratchet w/Variable Speed at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T05:19:27.309932Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee 2579-20 M12 12-Volt Lithium-Ion Cordless 9 GPM 0 hp. Submersible Stick Water Transfer Pump (Tool Only) $105.29",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T05:19:27.309932Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee 2447-20 M12 12-Volt Lithium-Ion Cordless 3/8 in.Crown Stapler - Tool Only $80.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T05:19:27.309932Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$105.29 | Milwaukee 2579-20 M12 Stick Water Transfer Pump at Woot!",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-19T05:19:27.309932Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LG 65\" Class 7S Series QNED AI Mini LED 4K Smart webOS TV (2026) - $429.99 @ Best Buy",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T05:13:59.347475Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LG - 3.1.3 Channel SC9S Soundbar with Wireless Subwoofer, Dolby Atmos, WOW Orchestra - Black $599.99 Bestbuy.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T05:13:59.347475Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee 0820-20 M12 12-Volt Lithium-Ion Cordless Jobsite Fan (Tool-Only) $89.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T05:13:59.347475Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "from $4.99 | Books! Books! Books! at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T05:13:59.347475Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LG - gram Pro 16\" 120Hz 3K OLED Laptop Intel Core Ultra X7 Processor 358H with 32GB RAM - 1TB SSD - Copilot + PC - Aerominum Black $1999.99 Bestbuy.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T05:13:59.347475Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$89.99 | Milwaukee M12 FUEL HATCHET 6\" Pruning Saw (Tool-Only) at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T05:13:59.347475Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LG - 75” Class NU85 Series LED Nano 4K UHD Smart webOS TV (2026) $469.99 Bestbuy.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T05:13:59.347475Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$26.99 | Milwaukee 48-22-8436 Packout Compact Organizer at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T05:08:33.095271Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$89.99 | Milwaukee M12 12V Cordless Rotary Tool (Tool Only) at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T05:08:33.095271Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LG - 24\" IPS FHD 120Hz Monitor with HDR10 (HDMI) - Black $99.99 Bestbuy.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T05:08:33.095271Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee Red Lithium 2.0 Compact Battery Pack 48-11-1820 $26.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T05:08:33.095271Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LG - 65\" Class B6 Series OLED AI 4K Smart webOS TV (2026) - $1299.99 @ Best Buy",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T05:08:33.095271Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LG - 30-in Wide 6.9 Cu. Ft. Smart Slide-In Double Oven Gas True Convection Range with 5 Burners, EasyClean and InstaView - Stainless Steel $2199.99 Bestbuy.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T05:08:33.095271Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LG - 83\" Class B6 Series OLED AI 4K Smart webOS TV (2026) $3299.99 Bestbuy.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T05:08:33.095271Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$24.99 | Wireless iPhone Gaming Controller at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T05:08:33.095271Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LG - gram Pro 16\" 144Hz 2.5K Laptop AMD Ryzen AI 7 Processor 450 with 32GB RAM - 2TB SSD - Copilot + PC - Aerominum White $1799.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T05:08:33.095271Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DEWALT DCS590B Kit with DCB203 Battery, DCB107 Chgr, 12' Bag & 16\" Toughbuilt Bag $109.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T05:08:33.095271Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LG - 55\" Class G6 Series OLED evo AI 4K Smart webOS TV with Gallery Design and Flush Wall Mount (2026) $1949.99 Bestbuy.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T05:08:33.095271Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LG - 34\" WQHD 100Hz 5ms Smart Monitor with HDR10 (HDMI, USB-A) - Black $319.99 Bestbuy.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T05:08:33.095271Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$109.99: DEWALT DCS590B Kit with DCB203 Battery, DCB107 Chgr, 12' Bag & 16\" Toughbuilt Bag at Woot!",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-19T05:08:33.095271Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$62.95 | 24-Liter Osprey Axis Laptop Backpack at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-19T05:03:04.879837Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$549.99 | 6838-Pc LEGO Pokémon Venusaur, Charizard & Blastoise & More at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T05:03:04.879837Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LG - 100\" Class 84B Series QNED evo AI Mini LED 4K Smart webOS TV (2026) $2999.99 Bestbuy.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T05:03:04.879837Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LG - 55\" Class B6E Series OLED AI 4K Smart webOS TV $799.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T05:03:04.879837Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$150* | ASUS TUF Gaming BE6500 WiFi 7 Dual-Band Router + NordVPN 6 Months at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-19T04:57:37.870137Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "New Bee 6.35mm (1/4 Inch) TRS to XLR Female Cable 6FT $3.99",
+  "reason": "Posted at $3.99, but Amazon showed $7.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-19T04:57:37.870137Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Warping Point Pickleball Sling Bag w/ Fence Hook & Wet Pocket (Grey or Black) $17.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T04:52:09.980275Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$269.99 | Samsung 43” Smart Monitor M7 (M70F) 4K UHD Display at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T04:52:09.980275Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "6-Count Criusia Foldable Bed Sheet Organizer Boxes w/ Clear Windows & Label Slots (Grey) $23.18 ($3.86 each) + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+3) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T04:46:40.826595Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Merach Q1S Magnetic Rowing Machine $160 + Free S/H",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-19T04:46:40.826595Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas women Adizero Adios OG Shoes (2 Colors) $43.20 + Free S&H at ebay",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T04:46:40.826595Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Kids Handheld Microscope Bug Catcher, STEM Educational Exploration Toy $15.99",
+  "reason": "Posted at $15.99, but Amazon showed $35.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-19T04:41:14.208929Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DEWALT 20-volt Max Cordless Brushless 3-speed 4 -Piece Oscillating Multi-Tool ( Battery Included and Charger Included ) | DCS356P1 $149",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T04:41:14.208929Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[S&S] Lunakai USA Made GLP-1 Supplement - Natural GLP 1 Support with Probiotics & Resveratrol – Supports Weight Management, Cravings & Metabolism, 60ct $15.96",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T04:35:47.823722Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$15.49 AMAZON Zerex Original Green Low Silicate Concentrate Antifreeze/Coolant 1 GA, 128 Fl Oz (Pack of 1) (UNDILUTED)",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-19T04:30:18.982099Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC] $10.77* | 2-Quart Victoria Cast Iron Saucepan at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-19T04:30:18.982099Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "-ymmv= 12-pack Essential Oil Foot Bath Bombs $2 @ Amazon",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-19T04:30:18.982099Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DieHard Gold 6-in-1 Portable Power Station and 1200A Jump Starter: Air Compressor, Inverter $66.45 free store pickup advanced auto parts",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T04:30:18.982099Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[S&S] Saw Palmetto with Pumpkin Seed Extract Prostate Health for Men, 120 Count $9.99",
   "reason": "Community score too low (+-1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-19T04:24:52.495542Z",
@@ -141524,254 +141916,6 @@
   "raw_title": "$16.99 | Yes4All Adjustable Weighted Vest 11-20lbs at Woot!",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T05:30:44.677252Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$8.99 | OtterBox iPhone 17e/16e/15/14/13 Symmetry Series C at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T05:25:07.288533Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$9.99 | OtterBox 20W USB-C Wall Charger w/ 3.2' USB-C Cable at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T05:25:07.288533Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$9.99: Belkin 37W Dual USB Car Charger - 25W USB-C PD & 12W USB-A at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T05:25:07.288533Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Samsung Galaxy S26 256GB Mint Mobile Android Smartphone: Free w/ trade-in + Year of Unlimited for $15/month + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T05:19:22.944034Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$199.99 | Echelon Row Sport 2 Smart Home Rower at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T05:19:22.944034Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "3 Pack 20W Dual Port USB C Charger Block $5.99 + Free S&H w/ Prime at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T05:17:37.816312Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "COZEER Garden Water Hose Holder Freestanding w/ Storage Basket $16.98 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically",
-  "rejected_at": "2026-09-05T05:17:37.816312Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Enjoywood 48\" Adjustable Height Workbench for $99 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T05:17:07.179103Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "1080P HD Webcam with Microphone, Noise Cancellation, Privacy Cover, Wide-Angle Lens, Auto Light Correction, Plug & Play USB Webcam (Black) $17.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T05:17:07.179103Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$1839.99 | Hisense PX3-PRO 4K Triple Laser UST Projector at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T05:17:07.179103Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$21.99 | 3-Pack Apple USB-C 3.3' Woven Charge Cable (Black or White) at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T05:17:07.179103Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Lenovo - Chromebook Plus 14\" OLED 2K Touchscreen Laptop with Gemini - MediaTek Kompanio Ultra 910 - 16GB Memory - 256GB Storage - Seashell $649 Bestbuy.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T05:17:07.179103Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Toro 60 -Volt, 10 Ah 1 -Pack Lithium Ion (Li-ion) Battery | 66810 $173.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T05:17:07.179103Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$12.99 | OtterBox iPhone 17 Pro Symmetry Case Black at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T05:17:07.179103Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$5.99 | OtterBox 20W Fast Charging USB-C Wall Charger at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T05:17:07.179103Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$49.99: Fitvids 61LB 4-in-1 Portable Changeable Adjustable Dumbbell Set at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T05:17:07.179103Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$49.99 | Philips H8000 Noise Cancelling Headphones at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T05:17:07.179103Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "SOUNDBOKS - 4 – Bluetooth Speaker – USB-C Swappable Battery – Party Speaker w/ 40 Hours of Battery – Wireless & Portable – 126dB - Black $899 Bestbuy.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T05:17:07.179103Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$39.99 | Samsung Galaxy Buds Core ANC Earbuds (2025, International Model) at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T05:17:07.179103Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$22.99: CROSS101 Adjustable Weighted Vest with Shoulder Pads (40lbs) at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T05:17:07.179103Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "12\"x 18\" HSHFAMIIY Welcome Fall Garden Flag Decor $3.59 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically",
-  "rejected_at": "2026-09-05T05:17:07.179103Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$17.99: ZFOsports 30lbs Womens Adjustable Weighted Vest with Phone Pocket & Water Bottle Holder at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T05:17:07.179103Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Frigidaire - Gallery 30 in. Wide 5 Burners Built-In Gas Cooktop with 18K Quick Boil and Low Simmer Burner - Stainless Steel $649.99 Bestbuy.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T05:17:07.179103Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$99.99 | Seauto Crab Cordless Robotic Pool Vacuum at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T05:17:07.179103Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$6.99 | OtterBox Samsung Galaxy S25 Ultra Defender Series at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T05:17:07.179103Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$69.95 | Sennheiser ACCENTUM Special Edition Hybrid ANC Wireless Headphones (Black/Copper) at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T05:17:07.179103Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "UGREEN - MagFlow 2-in-1 Wireless Charger for iPhone 12-17 Series and AirPods, Compact Foldable Charging Station (No Adapter) - Black $15.99 Bestbuy.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T05:17:07.179103Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$149.99 | Le Creuset Enameled Cast Iron Signature Everyday Pan at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T05:17:07.179103Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$16.99 | Amazon Basics High-Capacity Portable Charger Power Bank with 3-Port Output, 20,000 mAh, Black at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T05:17:07.179103Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Package - Whirlpool - 4.7-4.8 Cu. Ft. Top Load Washer with 2 in 1 Removable Agitator and 7.0 Cu. Ft. Electric Dryer $999.98",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T05:17:07.179103Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$64.99 | Anker 15W 3-in-1 MagSafe Wireless Charging Cube at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T05:17:07.179103Z",
   "code": "not_checked",
   "public": false
  }
