@@ -1,5 +1,21 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "[NEW, AC] $159.11 | 44mm Bulova Men's Classic Sport 6-Hand Chronograph Quartz Watch at Amazon",
+  "reason": "Posted at $159.11, but Amazon showed $145.32 when we checked — the post is stale",
+  "rejected_at": "2026-09-19T12:50:34.505690Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men Essentials 3-Stripes Fleece Hoodie from $19.2 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T12:50:34.505690Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Banral 1000-Lumen 4-Mode Rechargeable Waterproof Mini LED Flashlight (2-Pack) $9.79",
   "reason": "Posted at $9.79, but Amazon showed $19.59 when we checked — the deal is probably over",
@@ -141604,46 +141620,6 @@
   "raw_title": "Oceaneva GMT TITANIUM Automatic Deep Marine Explorer 1250M Ceramic Bezel $329",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T12:55:13.112691Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Ubroo IPL Laser Hair Removal Device, 21J Energy, 96% Hair Reduction, 41°F Ice Cooling for Women & Men, Face Bikini Underarm, Safe & Painless, At-Home Professional Results $36",
-  "reason": "Posted at $36.00, but Amazon showed $72.00 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-05T12:49:56.261383Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "SucceBuy Wall Mounted 48-Piece Storage Bins Panel for $20 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T12:49:56.261383Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Qlife Hunter 1200W 20\"×3\" Fat Tire Foldable Electric Bike for $340 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T12:49:56.261383Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Toro 60-volt Multi-Head System Pole saw attachment - $29",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T12:49:56.261383Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Energy ESW-C8 Subwoofer $119 + Free S/H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T12:49:56.261383Z",
   "code": "not_checked",
   "public": false
  }
