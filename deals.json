@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "77b71d266412",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20036613-prime-22-85-art-the-definitive-visual-guide-dk-definitive-cultural-histories-at-amazon",
+  "title": "Art: The Definitive Visual Guide (DK Definitive Cultural Histories)",
+  "raw_title": "[Prime] $22.85 | Art: The Definitive Visual Guide (DK Definitive Cultural Histories) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/1465474757",
+  "deal_total_cents": 2285,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "prime"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 2285,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 2285,
+  "amazon_url": "https://www.amazon.com/dp/1465474757",
+  "amazon_checked_at": "2026-09-19T15:48:30.987860Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "1465474757",
+  "image_url": null,
+  "published_at": "2026-09-19T15:48:15.933755Z"
+ },
+ {
   "deal_id": "aa91b745b65d",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20036337-28-44-avatar-the-last-airbender-legend-of-korra-complete-series-collection-blu-ray-at-amazon",

@@ -1,5 +1,69 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Beva Cap02 150PSI 7.4V Tire Inflator Portable Air Compressor $14.99",
+  "reason": "Posted at $14.99, but Amazon showed $24.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-19T15:48:15.933755Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DEWALT XR POWERPACK Battery Kit $90 at Bomgaars w/ Free Store Pickup",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T15:48:15.933755Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas Men's Runfalcon 6 Cloudfoam Running Shoes (Core Black / Cloud White / Carbon) $23.1",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T15:48:15.933755Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Free Assembly Men's Oxford Shirt for $7.10 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T15:42:48.227524Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "The North Face Women's Recon Everyday Backpack for $49 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T15:42:48.227524Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Justice League: Season 2 [Blu-ray] $10.99 plus extra 15% Off for new Gruv Account with code FIRSTGRUV15",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T15:42:48.227524Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas Men's Hoops Classic Shoes (Cloud White / Cloud White / Grey Two) $23.1",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T15:42:48.227524Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Apple iPhone 16 Pro Max 1 TB (White Box - Exceptionally Refurbished) (Open Box) $1163.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T15:42:48.227524Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "New Balance ABZORB 2000 Shoes for $69 + free shipping",
   "reason": "Not evaluated",
@@ -41349,14 +41413,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T20:49:14.824012Z",
   "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Free Assembly Men's Oxford Shirt for $7.10 + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T20:49:14.824012Z",
-  "code": "not_checked",
   "public": false
  },
  {
@@ -142196,30 +142252,6 @@
   "raw_title": "RYOBI Precision Screwdriver 38-Piece Set Just $9.97 Delivered on HomeDepot.com (Reg. $15)",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T15:52:14.203358Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "BJs Members: Philips Sonicare Optimal Plaque Control Replacement Brush Heads (soft), 8 ct. $26.98 YMMV",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T15:46:41.622991Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "NEIKO 02629A Number and Letter Punch Set with Heat-Treated Steel Punches $13.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T15:41:05.013494Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Gua Sha & Jade Roller Set Only $3.99 on Amazon | Over 3K 5-Star Reviews",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T15:41:05.013494Z",
   "code": "not_checked",
   "public": false
  }
