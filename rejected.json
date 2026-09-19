@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon – HEEYCEM 2L Cool Mist Humidifier - $7.00 w/ Code",
+  "reason": "Community score too low (+0) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T11:42:25.353288Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – seeclean 130,000 RPM Rechargeable Air Duster - $14.30 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T11:42:25.353288Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – FUTUREHOPE 114\" Modular Sectional Sofa - $295.00 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T11:42:25.353288Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Jordan Men's Brooklyn Fleece AJ6 Hoodie for $27 + free shipping w/ $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T11:42:25.353288Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[NEW] $16.74 | 3.4-Oz Lattafa Petra Eau de Parfum Long-Lasting Fragrance for Unisex at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-19T11:42:25.353288Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$13.45* | 10-Pack 6\" BOSCH Phillips #3 Impact Tough Screwdriving Power Bits at Amazon",
+  "reason": "Posted at $13.45, but Amazon showed $25.12 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-19T11:36:59.848101Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Panasonic W85 Series TN-75W85CPS 75\" 4K UHD QD-Mini LED Smart TV for $760 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T11:36:59.848101Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon – TuyLuxe 4-Pack Multicolor Solar Spot Lights - $23.99 w/ Code",
   "reason": "Community score too low (+1) to pass without a price check — needs promo code, multi-pack, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-19T11:31:51.401891Z",
@@ -141845,22 +141901,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T11:45:25.041207Z",
   "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Bowers & Wilkins Zeppelin Pro Wireless Bluetooth Speaker $639",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T11:33:52.533547Z",
-  "code": "lookup_failed",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Mora Pets 24\"X18\" Self-Warming Cat Bed Pad $17.39",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T11:33:52.533547Z",
-  "code": "lookup_failed",
   "public": false
  }
 ]
