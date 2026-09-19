@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "e3bf2e599a85",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20036181-sns-ac-3-08-2-100-ct-nature-made-30mg-zinc-tablets-1-54-each-at-amazon",
+  "title": "2 × 100-Ct Nature Made 30mg Zinc Tablets",
+  "raw_title": "[SnS, AC] $3.08 | 2 × 100-Ct Nature Made 30mg Zinc Tablets ($1.54 each) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 308,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-19T10:00:13.327941Z"
+ },
+ {
   "deal_id": "5d7d11d858d3",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20036322-14-03-6-pocket-yobobo-roll-up-tool-bag-organizer-army-green-at-amazon",
