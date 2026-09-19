@@ -1,5 +1,45 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "The Passion of the Christ (4K UHD) $5",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T21:38:16.203577Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "The Pink Stuff Laundry Stain Remover Spray Only $3.58 Shipped on Amazon (Reg. $6)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T21:32:54.749673Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "6 pc Kobalt mini plier set, $16.98, Lowe's",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T21:32:54.749673Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "House-of-Marley-Get-Together-2-Waterproof-Wireless-Bluetooth-Portable-Speaker-Black-EM-JA030-SB $49.80",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T21:22:11.116946Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Andromeda Insights V3 ELITE AMD - Ryzen 7 9800X3D, RX 9070XT 16GB, 32GB DDR5-6000, 2TB Gen4 SSD, 850W Gold PSU, ARGB Fans, Wi-Fi + BT | $2249.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T21:22:11.116946Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Mosiech 7-Piece Ceramic Nonstick Cookware Set for From $46 + free shipping",
   "reason": "Not evaluated",
@@ -141462,45 +141502,5 @@
   "rejected_at": "2026-09-05T21:40:44.753263Z",
   "code": "duplicate",
   "public": true
- },
- {
-  "source": "hip2save",
-  "raw_title": "Swiss Miss Hot Chocolate 50-Count Just $6.51 Shipped on Amazon (Cheaper Than Sam’s Club!)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T21:35:06.025896Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Eucos 62\" Magnetic Phone Tripod for $11 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T21:29:26.671456Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Milwaukee 15-pc Metric or ASE Flex Ratcheting Wrench Set at Home Depot for $219",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T21:29:26.671456Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Hoperan 21\" Heated Stadium Seat for $56 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T21:23:48.605178Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "TCL 20\" Caged Low Profile Ceiling Fan Light for $59 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T21:18:09.491863Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
