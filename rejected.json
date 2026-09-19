@@ -1,5 +1,53 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Walmart Precious Metals and Coins Flash Sale for Deals from $11 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:37:29.315816Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Nike Cheapest Shoe Deals for All under $50 + free shipping w/ $50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:37:29.315816Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Costco - Bose QuietComfort SC Noise Canceling Headphones (white or black) $169.97 in store only YMMV",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:37:29.315816Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ROCKBROS Cycling Helmet Lightweight Integrated Helmet TT-16-Z M/L $22.29 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:37:29.315816Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Prime Members: AstroAI 3-250 PSI Digital Tire Pressure Gauge w/ Inflator, Air Chuck & Compressor Accessories $12.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:37:29.315816Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "KUNPHY Ultrasonic Retainer Cleaner Machine, 48KHz Dental Cleaning Pod $21.59 AC",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:37:29.315816Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Water Filter Kit $19.99",
   "reason": "Not evaluated",
@@ -95913,14 +95961,6 @@
  },
  {
   "source": "dealnews",
-  "raw_title": "Nike Cheapest Shoe Deals for All under $50 + free shipping w/ $50",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T09:46:16.120838Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
   "raw_title": "Apple Watch Ultra 4 GPS + Cellular 49mm Smartwatch at Amazon for Preorders from $799 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-10T09:46:16.120838Z",
@@ -141629,14 +141669,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T14:40:40.742916Z",
   "code": "lookup_failed",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Echelon Indoor Exercise Bike Only $156.80 Shipped on Walmart.com (Reg. $448)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T14:35:04.983178Z",
-  "code": "not_checked",
   "public": false
  }
 ]
