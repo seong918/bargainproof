@@ -1,5 +1,13 @@
 [
  {
+  "source": "hip2save",
+  "raw_title": "100-Piece Halloween Bat Wall Decor Set Only $3.99 on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T11:10:09.289772Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "28\"-70\" Bonpally No Drilling Room Separator Adjustable Curtain Rods $16.49 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
@@ -141748,14 +141756,6 @@
   "raw_title": "Costway Foldable Lightweight 5-Point Safety System Baby Stroller (2 colors) $79.19 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T11:12:47.065134Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Certified Refurb eufy S220 SoloCam 2K Solar Wireless Outdoor Security Camera for $37 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T11:07:29.465671Z",
   "code": "not_checked",
   "public": false
  }

@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "5a31647d1a78",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20036433-8-99-furiosa-a-mad-max-saga-blu-ray-digital-hd-at-amazon",
+  "title": "Furiosa: A Mad Max Saga (Blu-ray + Digital HD)",
+  "raw_title": "$8.99 | Furiosa: A Mad Max Saga (Blu-ray + Digital HD) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0D3VGRXYM",
+  "deal_total_cents": 899,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 899,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 899,
+  "amazon_url": "https://www.amazon.com/dp/B0D3VGRXYM",
+  "amazon_checked_at": "2026-09-19T11:10:14.259939Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0D3VGRXYM",
+  "image_url": null,
+  "published_at": "2026-09-19T11:10:09.289772Z"
+ },
+ {
   "deal_id": "949c277c3a77",
   "source": "techbargains",
   "source_url": "https://www.amazon.com/gp/product/B0FCMHJBMW/ref=ox_sc_act_image_1",
