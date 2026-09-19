@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "45bbb812fab2",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20037774-amazon-fitbeast-5-pack-adjustable-grip-strengthener-kit-9-89",
+  "title": "Amazon – FitBeast 5-Pack Adjustable Grip Strengthener Kit",
+  "raw_title": "Amazon – FitBeast 5-Pack Adjustable Grip Strengthener Kit - $9.89",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B07G824Z3V",
+  "deal_total_cents": 989,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "qty"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 989,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 989,
+  "amazon_url": "https://www.amazon.com/dp/B07G824Z3V",
+  "amazon_checked_at": "2026-09-19T20:07:27.844476Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 2,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B07G824Z3V",
+  "image_url": null,
+  "published_at": "2026-09-19T20:07:13.126767Z"
+ },
+ {
   "deal_id": "4213491cc494",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20037747-large-portable-monitor-23-8inch-120hz-usb-c-monitor-laptop-screen-extender-119-25",
