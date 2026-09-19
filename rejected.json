@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "YMMV Asylum 4K UHD $22.49 less $6.75 coupon = $15.74 Amazon.com coupon maybe region specific",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-19T02:33:14.206719Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "JDicton Rock Glue for Landscaping 1 Gallon - Concentrated Mulch Binder for Landscaping $19.99",
+  "reason": "Posted at $19.99, but Amazon showed $0.24 when we checked — the post is stale",
+  "rejected_at": "2026-09-19T02:33:14.206719Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas Men's Athletic Cushioned 6-Pack Crew Socks from $9 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T02:33:14.206719Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "The Elder Scrolls V: Skyrim Anniversary Edition (Switch 2 CIB) $49.99 + Free Shipping",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-19T02:27:48.844702Z",
