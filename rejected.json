@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "COCOMARTS Jelly Bras for Women No Underwire Push Up Bra Coffee S $24.99",
+  "reason": "Posted at $24.99, but Amazon showed $19.98 when we checked — the post is stale",
+  "rejected_at": "2026-09-19T03:40:18.028474Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "M MAELREG Golf Polo Shirts for Men Soft Lightweight Cotton Blend with Pocket $9.99 AC",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T03:40:18.028474Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "YMMV Kobalt Ultimate Output 24 -Volt 1 -Pack Battery ( 4 Ah Lithium ) | KXB 424-03 $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T03:34:54.463996Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "COCOMARTS Jelly Bras for Women No Underwire Seamless Push Up Bra Nude, XL $9.98",
+  "reason": "Posted at $9.98, but Amazon showed $17.95 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-19T03:29:25.801862Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "COMHOMA Big and Tall Office Chair,Heavy Duty Gaming Chair with Foot Rest, Leather Black $114.99",
   "reason": "Posted at $114.99, but Amazon showed $169.16 when we checked — the deal is probably over",
   "rejected_at": "2026-09-19T03:18:30.774598Z",
