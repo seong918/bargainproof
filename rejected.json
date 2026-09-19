@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Madden NYC Little and Big Girls Mesh Casual Sneakers (Red) - $11.01 @ Walmart",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T23:25:25.844425Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas Men's Barreda Decode Shoes (Tent Green / Off White / Gum) $31.5",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T23:25:25.844425Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[SnS, AC] $56.20* | 5 × 16-Ounce CeraVe Acne Control Cleanser w/ 2% Salicylic Acid ($11.24 each) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-19T23:20:04.215548Z",
@@ -141444,14 +141460,6 @@
   "raw_title": "Disney Zoom Ride-On w/ Zoom Car Just $34.98 at Sam’s Club",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T23:33:24.278642Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "TCL 85\" Class $599.97 Q77K Series - 4K UHD QLED Costco *IN STORE*",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T23:22:06.774274Z",
   "code": "not_checked",
   "public": false
  }
