@@ -1,5 +1,61 @@
 [
  {
+  "source": "cheapshark",
+  "raw_title": "WRC 8 FIA World Rally Championship",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T20:23:16.688391Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "The Evidence Study Bible: NKJV: All You Need to Understand and Defend Your Faith [Kindle] $0.99",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-19T20:17:54.650133Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Warhammer: Chaosbane",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T20:12:32.495943Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Styx: Shards of Darkness",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T20:12:32.495943Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Peggle Deluxe",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T20:12:32.495943Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Toro Flex-Force 60v 605-CFM 120-MPH Cordless Battery Handheld Leaf Blower Battery and Charger Not Included one_size | 51820T $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T20:12:32.495943Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Toro Flex-Force 60-volt max 15-in Straight Shaft Battery String Trimmer one_size | 51831T $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T20:12:32.495943Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Amazon – Orlian 128GB USB-C/USB-A SSD Flash Drive, Up to 450MB/s - $34.19 at Checkout",
   "reason": "Posted at $34.19, but Amazon showed $35.99 when we checked — the deal is probably over",
@@ -141540,46 +141596,6 @@
   "raw_title": "Samsung Galaxy S26 Ultra (256GB,12GB RAM) - Brand New - GSM Unlocked- $893",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T20:38:42.130929Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "LEGO Super Mario: Mario Kart – Bowser’s Castle - Set# 72039 - $65",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T20:21:49.439464Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Slow Feeder Pet Bowls Only $2.44 on Walmart.com (Reg. $7)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T20:16:10.296617Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Blink Outdoor 2K+ and Video Doorbell – Two-year battery life, smart detection, Sync Module Core included – 1 Camera + Video Doorbell (Black) $54.99",
-  "reason": "Community score too low (+4) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-05T20:10:30.949322Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Rogue Lords",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T20:10:30.949322Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "DELL Latitude 5420 Laptop Intel Core i7-1165G7 32GB Memory 256GB SSD 14.0\" FHD (Refurbished) $343.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T20:10:30.949322Z",
   "code": "not_checked",
   "public": false
  }
