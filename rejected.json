@@ -1,5 +1,29 @@
 [
  {
+  "source": "hip2save",
+  "raw_title": "These Cute Halloween Earrings Are Just $5 at Kohl’s!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T20:39:16.365980Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Astercook 4-Piece Bamboo Cutting Board Set w/ Holder & Juice Grooves $23.99 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T20:39:16.365980Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $6.50* | 1.7-Oz L'Oreal Paris Collagen Moisture Filler Face Moisturizer (Fragrance-Free) at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-19T20:39:16.365980Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Dockers Men's Straight Fit Pleated Chino Pants (Various Colors) from $10.92 + Free Shipping w/ Walmart+ or on $35+",
   "reason": "Not evaluated",
@@ -141580,30 +141604,6 @@
   "raw_title": "VEVOR 3-Ton Triple Bag Air Jack, 6600 lbs, 17.7\" Lift $55.04 Shipped",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T20:44:19.478393Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$3.98 Walmart Pick Up Prestone Windshield Washer Fluid , Cleaner/De-Icer, -34 Degrees, 1 Gallon",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T20:38:42.130929Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Nike Men's Winflo 12 Road Running Shoes in | HV9272-001N $90",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T20:38:42.130929Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Samsung Galaxy S26 Ultra (256GB,12GB RAM) - Brand New - GSM Unlocked- $893",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T20:38:42.130929Z",
   "code": "not_checked",
   "public": false
  }
