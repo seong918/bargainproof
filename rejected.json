@@ -1,6 +1,182 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "FREEHILL Men's Heated Puffer Vest, -22°F Outdoor Work Hunting Ice Fishing,L $95.99",
+  "reason": "Community score too low (+-1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-19T14:26:40.000592Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Extra Tall Heavy-Duty Portable Closet $39.19",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:26:40.000592Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "KOOPER 2-Pack Metal Solar Hanging Lanterns $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:26:40.000592Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Lefant Robot Vacuum and Mop Combo $119.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:26:40.000592Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Portable Carpet Upholstery Cleaner $54.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:26:40.000592Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "ThermoMaven Bristle-Free BBQ Grill Brush w/ 3 Replaceable Heads $20.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:26:40.000592Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "10-Oz Kicking Horse Organic Medium Roast Ground Coffee (Smart Ass) $5.08",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:26:40.000592Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Under Desk Running and Walking Pad $79.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:26:40.000592Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Skechers Men's Summits - Louvin Slip-On Training Sneakers - Black $42.50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:26:40.000592Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Collapsible Storage Ottomans from $26 Shipped (Reg. $55) – Today Only!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:26:40.000592Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$7.60* | 5′ Beats USB-C to USB-C 60W Woven Fast Charging Cable at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-19T14:26:40.000592Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ENOMIR Smart Watch for Kids Boys, Health Monitor & 80+ Modes Fitness Watch $18.99",
+  "reason": "Posted at $18.99, but Amazon showed $31.15 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-19T14:21:13.285741Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "adidas kids Estro 19 Shorts $4.80",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:21:13.285741Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "SATA 210° Articulating Borescope Inspection Camera $69.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:21:13.285741Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Soundcore Boom 2 Pro Outdoor IPX68 Waterproof Bluetooth Speaker $139.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:21:13.285741Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Lefant M3 Max Robot Vacuum and Mop $199.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:21:13.285741Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Skechers Men's Summits Comfort Slip-On Lifestyle Sneakers $34.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:21:13.285741Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Long Sleeve Lounge/PJ Set $13.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:21:13.285741Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "adidas Kids Lite Racer Adapt 7.0 Shoes $18.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:21:13.285741Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Long Sleeve Workout Tops $5.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:21:13.285741Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Yoga Pants Leggings with Pockets $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:21:13.285741Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Firstness 2.4GHz Remote Control Car Halloween Inflatable Pumpkin Spider, 360° Rotation, 3 Music and LED Lights (Aged 3+) $37.89",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T14:21:13.285741Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Discovery™ Kids Neon Glow Drawing Easel w/ 6 Color Markers, Built-in Kickstand/Wall Mount, 5 Light Modes, Easy Clean/Washable, Wide Screen $8.26",
   "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
   "rejected_at": "2026-09-19T14:15:48.200904Z",
@@ -74417,14 +74593,6 @@
  },
  {
   "source": "slickdeals",
-  "raw_title": "ENOMIR Smart Watch for Kids Boys, Health Monitor & 80+ Modes Fitness Watch $18.99",
-  "reason": "Posted at $18.99, but Amazon showed $31.15 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-12T00:55:45.959803Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
   "raw_title": "[SnS] $73.53 | 3.3-Oz Calvin Klein Euphoria Bold Elixir Parfum Intense at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-12T00:50:13.628259Z",
@@ -113432,14 +113600,6 @@
   "public": false
  },
  {
-  "source": "dealcatcher",
-  "raw_title": "Portable Carpet Upholstery Cleaner $54.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:30:43.322329Z",
-  "code": "not_checked",
-  "public": false
- },
- {
   "source": "dealnews",
   "raw_title": "La Tourangelle 8.45-oz. Basil Oil for $5.48 via Sub & Save + free shipping w/ Prime",
   "reason": "Not evaluated",
@@ -141436,70 +141596,6 @@
   "raw_title": "[Travelzoo Members] Royal Lahaina Resort & Bungalows Maui Reduced Rates on 3+ Night Stays; Daily Breakfast; $100 Daily Resort Credit; 2 Luau Tickets with Buffet",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T14:29:27.917983Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Toro Flex-Force 60-volt max 15-in Straight Shaft Battery String Trimmer - $49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T14:23:47.818492Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Toro Flex-Force 60v 605-CFM 120-MPH Cordless Battery Handheld Leaf Blower Battery and Charger Not Included Lowes.com - $49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T14:23:47.818492Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Toro Flex-Force 60-volt max 24-in Battery Hedge Trimmer - $59",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T14:23:47.818492Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[AC]Costway 20000BTU Stainless Steel Propane Grill with Lid(2 Burners) $147.19 + Free Shipping at Costway",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T14:23:47.818492Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Ozark Trail 10′ x 10′ Instant Screen House Only $25.90 on Amazon (Reg. $59) – Will Sell Out!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T14:18:13.251989Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Aqua Water Doodle Mat Just $15.99 Shipped for Amazon Prime Members (Regularly $29!)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T14:18:13.251989Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "REDTIGER VC70 4K+2.5K Front and Rear Dash Cam Night Vision GPS $149.98 + Free Shipping $149.96",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T14:18:13.251989Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "AOVOPRO 500W 22MPH 22Miles 10\" Solid Tire Foldable Electric Scooter $148.2 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T14:18:13.251989Z",
   "code": "not_checked",
   "public": false
  }
