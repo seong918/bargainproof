@@ -1,5 +1,35 @@
 [
  {
+  "deal_id": "6e8bf6b00c86",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20035104-amazon-grocery-diced-tomatoes-no-salt-added-14-5-oz-x-4-2-93-with-multibuy-s-s-amazon",
+  "title": "Amazon Grocery, Diced Tomatoes, No Salt Added, 14.5 Oz x 4~ With Multibuy & S&S",
+  "raw_title": "Amazon Grocery, Diced Tomatoes, No Salt Added, 14.5 Oz x 4~$2.93 With Multibuy & S&S @ Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B07TYTL6HT",
+  "deal_total_cents": 293,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "sns"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 86,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 86,
+  "amazon_url": "https://www.amazon.com/dp/B07TYTL6HT",
+  "amazon_checked_at": "2026-09-19T00:20:04.969839Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B07TYTL6HT",
+  "image_url": null,
+  "published_at": "2026-09-19T00:20:01.060299Z"
+ },
+ {
   "deal_id": "ae941147421a",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20035179-14-99-ozzy-osbourne-patient-number-9-vinyl-at-amazon",

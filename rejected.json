@@ -1,5 +1,21 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Women's Memory Foam Fuzzy Slippers Fluffy Plush Indoor Outdoor Non-Slip Thin Sole Winter House Shoes Black, size 5-6 Women's $4.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T00:20:01.060299Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon Grocery, Diced Tomatoes, No Salt Added, 14.5 Oz x 4~$2.93 With Multibuy & S&S @ Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-19T00:20:01.060299Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "dealnews",
   "raw_title": "L.L.Bean Men's Comfort Slip On Boat Shoes for $40 + free shipping w/ $99",
   "reason": "Not evaluated",
