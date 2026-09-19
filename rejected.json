@@ -1,5 +1,45 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "COSY HOMEER Bathroom Rugs 24x17 (Grey) $5.39 & More + Free Shipping w/ Prime or orders $35+",
+  "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T10:32:45.035322Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "8-Pack TuyLuxe IP65 Solar Pathway Lights w/ Retro Filament Bulb Design $26.51 ($3.31 Each) + Free Shipping",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-19T10:32:45.035322Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "DeWalt ToughCase Bi-Metal Reciprocating Saw Blade 16-Pack for $20 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T10:27:18.000525Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "LG 34\" WQHD 100Hz Smart Monitor for $300 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T10:27:18.000525Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "TODAY! Old Navy Tee's For Kids $4, Adults $7 free pick up where available (short and long sleeve)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T10:27:18.000525Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "LG B6E Series OLED55B6EUA 55\" 4K OLED Smart TV for $800 + free shipping",
   "reason": "Not evaluated",
@@ -141764,14 +141804,6 @@
   "raw_title": "14 oz Stanley Classic Legendary Insulated Food Jar + Spork (Spring Green) $13.44 + Free Shipping on Orders $75+",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T10:34:30.804645Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Teenage Mutant Ninja Turtles: The Last Ronin -- The Covers (Hardcover) $8 + $6 S/H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T10:28:53.670582Z",
   "code": "not_checked",
   "public": false
  }
