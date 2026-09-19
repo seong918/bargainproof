@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon – RESARE Chenille Bath Mat - $9.99-$28.99 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T08:28:55.501430Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$5.39* | DARKBEAM USB-C Rechargeable LED Headlamp at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-19T08:28:55.501430Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – 1:18 All-Terrain Remote Control Car w/ 2 Batteries - $17.39 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T08:23:28.233334Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Booms Fishing 6.5\" Stainless Steel Fishing Pliers - $6.99-$19.49 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T08:23:28.233334Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DEWALT TOUGHSERIES Construction Jack $69.99 or less at Bomgaars w/ Free Store Pickup",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T08:23:28.233334Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – RESOVO 2-Pack Tank Top & Bra Hangers - $5.99 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T08:18:02.248291Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nautica Admiral 15\" Laptop Backpack (Grey/Black) $19.60 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-19T08:18:02.248291Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "RIDGID 18V Cordless 3/8 in. Crown Stapler Kit with 2.0 Ah Battery and Charger $104",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-19T08:18:02.248291Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon – FEILERN Wall-Mount Toilet Paper Holder - $11.99 w/ Code",
   "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-19T08:12:37.811806Z",
@@ -141476,78 +141540,6 @@
   "raw_title": "Kobalt 302-Piece Metric / SAE Mechanics Tool Set for $99 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-05T08:31:02.162902Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Grat 1.5HP Cold Plunge Tub Chiller for $599 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T08:25:29.639226Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Lowe's Labor Day Hand Tool Deals: Up to 50% off + free shipping w/ $25",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T08:25:29.639226Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Disney Princess Cinderella's Carriage 3D Sculpted Mug $6.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T08:25:29.639226Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Harry Potter Mug Gift Set $8.7",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T08:25:29.639226Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "TALIX 140W USB-C Port Laptop Power Bank, 20000mAh 3-Port $38.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T08:25:29.639226Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Urban Shop Jumbo Mushroom Squishy Color-Changing Mood Light $5.25",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T08:20:12.283992Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "JUOVI 65W Portable Charger for Laptop Power Bank 20000mAh $30.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T08:14:40.846696Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Shark Pet Cordless Stick Vacuum, Grey, IX141 $169",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T08:14:40.846696Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Arch Studio 3-Piece Dishwasher-Safe Cutting Board Set $15.93 + Free Store Pickup at Macy's or Free Shipping on $39+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-05T08:14:40.846696Z",
   "code": "not_checked",
   "public": false
  }
