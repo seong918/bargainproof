@@ -1,5 +1,29 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Open-Box HP OmniBook 5 Ryzen AI 7 445 16\" Laptop for $666 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T22:51:50.204559Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Amazon Grocery Au Gratin or Scalloped Potatoes Only $1 Shipped",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T22:46:35.789279Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Bear Archery Apprentice Youth Bow Set for $8 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T22:41:22.787271Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "hip2save",
   "raw_title": "You Won’t Believe These Disney + Harry Potter Stained Glass-Style Halloween Decorations Are Under $10!",
   "reason": "Not evaluated",
@@ -138692,38 +138716,6 @@
   "raw_title": "LEGO Star Wars 2026 Advent Calendar for $35 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T23:03:21.595072Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Queen Size Mattress Medium Firm 12 Inch, Gel Memory Foam Mattress in Box $199.99",
-  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-06T22:52:13.898916Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "adidas Women's Jump Hook Shoes for $32 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T22:52:13.898916Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$48 FS WALMART 2 Folding Chairs and Small Patio Glass Bistro Table in Beige or Red",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T22:46:38.491914Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Diablo 9\" Reciprocating Saw Blade 6-Piece Set for $9 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T22:41:01.179151Z",
   "code": "not_checked",
   "public": false
  }
