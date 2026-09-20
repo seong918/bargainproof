@@ -1,6 +1,86 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[S&S] $15.79: Mike's Hot Honey Original & Extra Hot Variety Pack, 10oz, 2 Pack",
+  "reason": "Community score too low (+-1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-20T13:20:26.242899Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SHOPRITE B&M Digital Q: Coca Cola Family 6 ct/16.9 Oz Plastic Bottles 4/$10 (lmit 4 offers) to 9/26",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T13:20:26.242899Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "VEVOR 48-Piece 3/8\" Drive Impact Socket Set, SAE/Metric $29.06 Shipped",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T13:20:26.242899Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "VEVOR 3-Ton 12V Electric Car Scissor Jack w/ Remote Control $38.31 Shipped",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T13:20:26.242899Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$13.99: Vichy Mineral 89 Booster Hyaluronic Acid Serum, 1oz",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-20T13:14:56.711225Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Klipsch The Austin IP67 Portable Bluetooth Speaker (Black) $54.00 + Free Shipping",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-20T13:09:22.600552Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Duck Color Duct Tape Only $3.50 on Amazon (Regularly $6)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T13:09:22.600552Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Lenovo 100e 2nd Gen 11.6\" Laptop - $69.99 free SH",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T13:09:22.600552Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Apple TV 4K 128GB with Ethernet MN893LL/A $149 @ Walmart",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T13:09:22.600552Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas Kids' Grade School Minecraft Superstar II Shoes(Black, Size 4~7) $24.97 at Dick's Sporting Goods",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T13:09:22.600552Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$7.52 S&S Progresso Rich & Hearty New England Clam Chowder Canned Soup, 18.5 oz, 4 pk",
   "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-20T13:03:49.616197Z",
@@ -140510,13 +140590,5 @@
   "rejected_at": "2026-09-06T13:23:44.134881Z",
   "code": "duplicate",
   "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Creality K2 Plus Combo Multi-color 3D Printer w/ CFS (OB w/ 1-YR Warranty) $791 + free s/h AC",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T13:18:08.214151Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
