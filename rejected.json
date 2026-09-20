@@ -1,5 +1,37 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Acer Nitro 23.8\" 144Hz FHD Gaming Monitor with AMD FreeSync IPS $79.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T20:51:58.745424Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Firstness 6ft Tall Christmas Inflatables, Gingerbread Man and Christmas Tree Blow ups with LED Lights for Outdoor Yard Lawn Decorations $39.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T20:51:58.745424Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LTANGOLD Motorcycle Cover for Harley Davidson, Waterproof Heavy Duty All Weather Outdoor Storage Cover $50.99",
+  "reason": "Posted at $50.99, but Amazon showed $67.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-20T20:46:28.153700Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Merrell Gannet Rib Knit Beanie w/ Leather Patch for $11 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T20:46:28.153700Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
   "source": "hip2save",
   "raw_title": "Hidden Valley Ranch Seasoning 4-Pack Just $3 Shipped on Amazon",
   "reason": "Not evaluated",
@@ -138924,54 +138956,6 @@
   "raw_title": "72\" Heavy Duty Adjustable Garage Storage Shelf for $26 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T21:00:06.951035Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$2.99 | Sapiens [Tenth Anniversary Edition]: A Brief History of Humankind – The #1 New York Times Bestseller Exploring Evolution and Ancient Socieities (eBook) by Yuval Noah Harari",
-  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-06T20:49:02.300076Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$0.99 | Johnny Carson: A Taut Portrait of a Complex Man Revealing the True Johnny Carson (eBook) by Henry Bushkin",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-06T20:49:02.300076Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Target Home Improvement Sale: Extra 10% off + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T20:49:02.300076Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Audio-Technica ATH-M40x Closed-Back Professional Studio Monitor Headphones - Black $109 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T20:49:02.300076Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "140W Insignia USB-C GaN Wall Charger (White) $19.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T20:43:36.186204Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Lexar 1TB Professional Go USB 3.2 Gen 2 Portable SSD with Hub $199.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T20:43:36.186204Z",
   "code": "not_checked",
   "public": false
  }
