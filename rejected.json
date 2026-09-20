@@ -1,6 +1,22 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "George Men's Knit Fleece Shirt Jacket for $13 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T23:28:41.543345Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "REFURB with 2 yr warranty, Hunter Fan 52 inch Fresh White Outdoor Ceiling Fan with Remote and No Light, $35, FS, ebay",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T23:28:41.543345Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
   "raw_title": "Hanes Men's Knit Sleep Pants 4-Pack (L only) for $19 + free shipping w/ $35",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-20T23:12:47.667812Z",
@@ -138660,14 +138676,6 @@
   "raw_title": "adidas Team Issue Duffel Bag Medium for $22 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T23:30:48.623061Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "On Cloudrunner 3 Road-Running Shoes - Men's for $119 $119.93",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T23:25:13.825604Z",
   "code": "not_checked",
   "public": false
  }
