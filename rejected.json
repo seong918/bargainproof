@@ -1,5 +1,77 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Portable 4-Pocket Trading Card Binder for $13 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T19:46:05.800304Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Nutter Butter King Size Cookies 10-Pack Just $7.70 Shipped on Amazon (Reg. $16)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T19:46:05.800304Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Sta-Green Premium 2-cu ft Brown, Black Or Red Mulch $2.5",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T19:40:34.221303Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Jordan Men's Flight Court Sneakers (Green) $47.18 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T19:40:34.221303Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Click365 High Back Ergonomic Office Chair for $60 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T19:35:02.474549Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Cinnabon Classic Cinnamon Roll Just $1 on October 4th!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T19:35:02.474549Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Krispy Kreme Dozen Glazed Donuts egift card - $16",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T19:35:02.474549Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Brondell Swash CL1700 Bidet Toilet Seat $249.99 Elongated or Round Free shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T19:35:02.474549Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Shark FlexBreeze Rechargeable Cordless Indoor/Outdoor Oscillating Fan, Pedestal/Tabletop, InstaCool Misting Attachment $99.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T19:35:02.474549Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Today Only 09/20 Ann Taylor Cyberflash Sale 40% Off everything plus $50 Off $200 Purchase",
   "reason": "Not evaluated",
@@ -139364,94 +139436,6 @@
   "raw_title": "Lark Manor 73.2\" Wide Modern Soft Upholstered Power Reclining Sofa w/ USB Port (Beige) $480 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T19:47:44.130319Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Breville BES881DBL Barista Touch Impress, various colors $1199.95",
-  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-06T19:42:06.997115Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Amazon Essentials Men's Relaxed-Fit Carpenter Utility Pants for $15 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T19:42:06.997115Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Purex Laundry Detergent Only $1.99 at Walgreens (Reg. $9)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T19:42:06.997115Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Shark Rotator Lift-Away Upright Vacuum with HEPA Filter, White/Red, NV501 $199 + Free S&H at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-06T19:36:30.007900Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Aquaman by Geoff Johns Omnibus (Hardcover) $42.71 + Free Shipping",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-06T19:36:30.007900Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Beautyrest Silver BRS900 12” Extra Firm Twin Mattress, Cooling Technology, Supportive, CertiPUR-US, 100-Night Sleep Trial, 10-Year Limited Warranty, White $368.1",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-06T19:36:30.007900Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "JOYTUTUS Overland Aluminum Hard Shell Rooftop Camping Tent $950 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T19:36:30.007900Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "JHS Pedals Pulp 'N' Peel V4 Compressor/Preamp Guitar Pedal $160.30 - Woot",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T19:36:30.007900Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Bissell CleanView Upright Vacuum(4438) $79.99 + Free S&H at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-06T19:30:52.838545Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Shark Rocket Pro DLX Corded Stick Vacuum, XL Cup, Handheld, Fuchsia, HV371 $139.99",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-06T19:30:52.838545Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "hip2save",
-  "raw_title": "Fireball Chili Seasoning Mix Just $1.33 Shipped on Amazon",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T19:30:52.838545Z",
   "code": "not_checked",
   "public": false
  }
