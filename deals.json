@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "334544a17414",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20039628-innerspace-blu-ray-7-99-amazon-com?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "Innerspace [Blu-ray] Amazon.com",
+  "raw_title": "Innerspace [Blu-ray] $7.99 Amazon.com",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 799,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-20T21:08:29.020813Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "5a0fbf57695e",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20040417-4-71-munchkin-fishin-magnetic-toddler-bath-toy-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
