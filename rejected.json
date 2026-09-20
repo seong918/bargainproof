@@ -1,5 +1,85 @@
 [
  {
+  "source": "dealcatcher",
+  "raw_title": "Wide Leg Sweatpants w/Side Tie $14.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T14:36:26.816963Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Textured Cowl Neck Long Sleeve Mini Dress $14.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T14:36:26.816963Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Kids Bib Adjustable Windproof Ski/Snowpants $36.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T14:36:26.816963Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Women Zip Up Long Sleeve Bomber Jacket $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T14:36:26.816963Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Women Crew Neck Raglan Sleeve Color Block Top $13.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T14:36:26.816963Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Women One Shoulder Christmas Mini Dress $13.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T14:36:26.816963Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Womens Cardigan with Pockets $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T14:36:26.816963Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Womens Wide Leg Sweatpants Elastic Waist $11.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T14:36:26.816963Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ninja CrushBOSS Intelligent Blender Duo 1850W w/ BlendBOSS Tumbler (Midnight Blue) $179.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T14:36:26.816963Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[S&S]MANN-FILTER W 610/3 Oil Filter $10.63 + Free S&H w/ Prime or $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T14:36:26.816963Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "adidas women Essentials Oversized Fleece Hoodie $16.8 + Free Shipping",
   "reason": "Not evaluated",
@@ -140364,46 +140444,6 @@
   "raw_title": "Apple iPhone Secure Attachment Air Bumper $12.60",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T14:40:46.411969Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$7.08: Con-Tact Brand Cork Roll, Self-Adhesive, 12\" x 4'",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-06T14:35:09.432501Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$14.00: Benefit Gimme Brow Volumizing Fiber Gel, Warm Auburn Brown, 0.1 oz",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-06T14:35:09.432501Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Switch Wireless Handheld Controller $35.81",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T14:35:09.432501Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "SEESII Flathead Brushless Angle Grinder with 5.0Ah Battery $62.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T14:35:09.432501Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "QUINEAR Cordless Calf Massager with Heat and Compression, Leg Massager for Circulation and Pain Relief, 3 Intensities & 3 Modes $48",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T14:35:09.432501Z",
   "code": "not_checked",
   "public": false
  }
