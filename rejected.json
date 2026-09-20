@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Manker E02 III Everyday-Carry Flashlight, Pocket EDC Flashlight with Magnetic Tail, Reversible Clip (Cool White, Blue) possible YMMV $13.59",
+  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-20T05:33:20.931991Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$5.68* | Kohler Kitchen Sink Squeegee & Countertop Brush at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-20T05:33:20.931991Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$12.60 | FHI Heat UNbrush Plus Ultra-Light Detangling Brush for Fine & Fragile Hair at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-20T05:33:20.931991Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Grade A Refurb: Apple iPhone 15 Pro (Unlocked) $509.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-20T05:22:24.761384Z",
@@ -140980,22 +141004,6 @@
   "raw_title": "Under Armour Kids' Lockdown 7 Grade School Basketball Shoes $29.73 + Free Shipping on $50+ or Free Store Pickup at Under Armour",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T05:35:01.294594Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Utilitech Qi2 2-in-1 Foldable Wireless Charging Station $11.42 + Free Store Pickup at Lowe's or Free Shipping on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T05:29:23.402360Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "IRWIN SPEEDBOR MAX 1/2\" x 16\" Wood Boring Installer Drill Bit $4.98 + Free Store Pickup at Lowe's or Free Shipping on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T05:29:23.402360Z",
   "code": "not_checked",
   "public": false
  }
