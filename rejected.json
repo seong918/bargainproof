@@ -1,5 +1,29 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$29.99: Lasko 32\" 3-Speed Oscillating, Remote, 8-Hour Timer Tower Fan T32200 at Walmart.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T12:15:23.020795Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Multifunctional Home Gym System Workout Station with Leg Extension, Preacher Curl, Pushup, Dip, Situp Stand, Leg Press and Squat Stand, 122.5LB Weight Stack, M950, Steel $479.99",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-20T12:15:23.020795Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "PUCACHI 2 Pack 3000 LM Solar Outdoor Light $15.99 + Free S&H w/ Walmart+ or $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T12:10:07.879280Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Refurb Apple iPhone & Watch Grade A Deals at Woot for From $90 + free shipping w/ Prime",
   "reason": "Not evaluated",
@@ -140646,29 +140670,5 @@
   "rejected_at": "2026-09-06T12:23:15.020333Z",
   "code": "duplicate",
   "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$39.99: Wade Logan® 5-Position Adjustable Aidean Portable Reclining Chaise Lounge Chair(Black) at Wayfair",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T12:12:05.370245Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$35.99 | 1000ct Blue 4MIL Nitrile Gloves at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T12:12:05.370245Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Wyler’s Italian Ice Freezer Bars 96-Count Variety Pack Only $9.41 Shipped on Amazon",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T12:06:48.573715Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
