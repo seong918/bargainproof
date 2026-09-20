@@ -140678,37 +140678,5 @@
   "rejected_at": "2026-09-06T11:24:20.476001Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "EasyGo Product FLIP Patio Chaise Lounger Chair for Tanning with Face & Arm Holes 4 Legs Support Textilene Material 6 Position, various colors $67.77",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-06T11:13:16.884208Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon ~ Modern Gold Pendant Kitchen Island Light w/Seeded Glass $11.38",
-  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-06T11:07:38.195118Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "SayTale Medium Firm 8 inch Full Mattress Memory Foam Mattress in a Box $159.99",
-  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-06T11:07:38.195118Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$14.99 | Verizon Slim 65W GaN USB-C Wall Charger at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T11:07:38.195118Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
