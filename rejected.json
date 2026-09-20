@@ -1,5 +1,13 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Today Only 09/20 Ann Taylor Cyberflash Sale 40% Off everything plus $50 Off $200 Purchase",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T19:29:31.798297Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Spriak 1500-Lumen 7-Mode 1500mAh Rechargeable Waterproof LED Pocket Flashlight (2-Piece) $11.54",
   "reason": "Posted at $11.54, but Amazon showed $23.09 when we checked — the deal is probably over",
@@ -139446,37 +139454,5 @@
   "rejected_at": "2026-09-06T19:30:52.838545Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "YITAHOME Portable Round Folding Table $51.99",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-06T19:25:15.877916Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Shark Clean & Empty Cordless Stick Vacuum & Auto-Empty System, BU3521 $279.99",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-06T19:25:15.877916Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "hip2save",
-  "raw_title": "UNDER $12 for 10 Personal Care Products at Walgreens",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T19:25:15.877916Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS, AC] $6.38* | 12-Pack 1.69oz. Luna Whole Nutrition Protein Snack Bars (Lemon Zest) at Amazon",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-06T19:25:15.877916Z",
-  "code": "duplicate",
-  "public": true
  }
 ]
