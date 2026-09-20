@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "1138-Piece LEGO Friends Plant Café & Flower Shop Building Set (42671) $68 + Free Shipping",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-20T13:41:57.011436Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Avidlove Sexy Lingerie for Women V-Neck Lace Babydoll Mesh Chemise Green $4.99",
+  "reason": "Posted at $4.99, but Amazon showed $9.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-20T13:41:57.011436Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon - Heated Knee Massager, 3 Heat & Vibration Settings for Knee Shoulder Elbow - $ $22.54",
+  "reason": "Posted at $22.54, but Amazon showed $36.57 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-20T13:41:57.011436Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "TCL QM8K 65\" QLED TV $899 at Best Buy $900",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T13:41:57.011436Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas Men's or Women's Predator Freestyle Indoor Soccer Shoes(White/Green, Size 7.5~10) at Dick's Sporting Goods $38.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T13:41:57.011436Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Soundcore Select 4 Go IP67 Portable Bluetooth Shower Speaker by Anker (Black) $21.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-20T13:30:58.719952Z",
@@ -140580,30 +140620,6 @@
   "raw_title": "65\" TCL QM9K Series - $999 (75\" $1499)",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T13:45:53.560133Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "The Boy on the Bridge $1.99",
-  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-06T13:40:36.258389Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Sand & Stable™ Calhoun 4 Piece Sofa Seating Group with Cushions(Gray Frame/Beige Cushion) $237.99 + Free S&H at Wayfair",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T13:40:36.258389Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "9/9 Only - Free Big Mac sandwich with $2 purchase (App deal)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T13:40:36.258389Z",
   "code": "not_checked",
   "public": false
  }
