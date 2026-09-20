@@ -1,5 +1,45 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Spriak 1500-Lumen 7-Mode 1500mAh Rechargeable Waterproof LED Pocket Flashlight (2-Piece) $11.54",
+  "reason": "Posted at $11.54, but Amazon showed $23.09 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-20T19:24:00.993958Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Aukey MagFusion 3-in-1 15W Qi 2.0 Magnetic Wireless Charging Station for $32 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T19:24:00.993958Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Dunkin’ Milk Bone Dog Treats Just $2 Shipped on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T19:24:00.993958Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "New Balance Men's or Women's New Balance 740 Shoes (Various) $52.78 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T19:24:00.993958Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CuZN 200-- 5 Year water filter 80% off. 50,000 Gallons $65",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T19:18:28.494333Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "[SnS, AC] $9.44* | 22-Pk 3-oz Maruchan Ramen Fire Noodle Soup (Spicy Beef) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
@@ -139438,85 +139478,5 @@
   "rejected_at": "2026-09-06T19:25:15.877916Z",
   "code": "duplicate",
   "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "KANAGAWA 90% Sun Shade Cloth 12'X 20' Outdoor Pergola Shade Cover Canopy with Grommets UV Block Privacy Screen for Patio, Backyards, Outdoor, Carport, Garden, Black $29.31",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-06T19:19:38.948805Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$0.99 | The Treason Of Isengard: A History of the Writing of Middle-earth (History of Middle-earth Book 7) (eBook) by J. R. R. Tolkien",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-06T19:19:38.948805Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Vevor 14\" Shutter Exhaust Fan for $47 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T19:19:38.948805Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "IXS Trigger AM Helmet - MIPS $49.99 + $7.50 shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T19:19:38.948805Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Ninja - Prestige Smart XL Air Fryer & Countertop Oven + Pro Cook - Stainless Steel $249.99 Bestbuy.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T19:19:38.948805Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[AC] $76.99* | 2 × Philips HUE Motion-Sensing Battery Powered LED Black Smart-Enabled Security Light ($38.49 each) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-06T19:14:02.638502Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "hip2save",
-  "raw_title": "Expandable 3-Tier Shoe Rack Just $11.86 on Amazon (Reg. $22)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T19:14:02.638502Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "CVS Photo: 4\"x6\" Photo Magnet (Portrait or Landscape) $1 + free store pickup",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T19:14:02.638502Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ONE+ 18V 18-Gauge Cordless AirStrike Brad Nailer with 2.0 Ah HIGH PERFORMANCE Battery $149",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T19:14:02.638502Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "RIDGID 18V Brushless 12 in. Electric Battery Chainsaw with 6.0 Ah MAX Output Battery and Charger $219",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T19:14:02.638502Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
