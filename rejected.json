@@ -1,5 +1,21 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "AstroAI 10-75 PSI Stainless Steel Pencil Tire Pressure Gauge (2-Pack) with 4x Valve Stem Caps $2.69",
+  "reason": "Posted at $2.69, but Amazon showed $5.49 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-20T11:31:50.983845Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$284: Sweetnight Twilighty 16\" Cooling Gel Memory Foam Medium Firm Supportive Hybrid Mattress,Queen Size at Walmart.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T11:31:50.983845Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "2660-Piece LEGO Harry Potter Hogwarts Castle and Grounds Building Set $136.99 + Free Shipping",
   "reason": "Same deal was already posted from another source",
