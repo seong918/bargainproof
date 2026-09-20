@@ -1,5 +1,85 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "WOSPORTS WiFi Trail Camera 48MP Solar Game Camera with 7800mAh Built-in Battery, 0.1s Trigger IP66 Waterproof Wildlife Cameras with 8 AA Batteries & 64GB SD Card $34.99 AC",
+  "reason": "Posted at $34.99, but Amazon showed $39.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-20T15:15:16.386544Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "XClifes 6.69\" 450lb Labor Saving Arm Jack Handle (2-Pack) $21.63",
+  "reason": "Posted at $21.63, but Amazon showed $36.05 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-20T15:15:16.386544Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "TikTok Viral Trendy Treats Freeze-Dried Candy Only $3.59 Shipped on Amazon (Reg. $5)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T15:15:16.386544Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "RYOBI Lithium 3-Port USB Charger w/ Cordless Clamp Fan $39.97 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T15:15:16.386544Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Batman vs. Two-Face (Blu-ray/DVD/Digital) $7.99 Amazon.com",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-20T15:09:42.931288Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Monster Jam Mini Jams Crash & Crumble Skull Escape Monster Truck Playset $11.5",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-20T15:09:42.931288Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M12 FUEL 1.6-Gal Cordless Wet/Dry Vacuum w/ 2x M12 High Output 5.0Ah Batteries & Charger $199 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T15:09:42.931288Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Firstness 8FT Halloween Inflatable Pumpkins Outdoor Decorations, Five Pumpkins with LED Lights $36.79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T15:09:42.931288Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "MOVESPEED 10000mAh USB-C Power Bank 22.5W $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T15:04:09.880848Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "NFL Men’s Tees from $11 at Walmart (Reg. $25) | Will Sell Out",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T15:04:09.880848Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Cat Litter Odor Deodorizer $17.99",
   "reason": "Not evaluated",
@@ -140252,70 +140332,6 @@
   "raw_title": "$37.99: Latitude Run® Outdoor Foldable Wood Privacy Screen with Planter Box(3 Planters), 47.3“ x 55.2”, Natural at Wayfair",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T15:19:59.976535Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Jamo Speakers: 2x S 809 + 2x S 803 + 2x S 8 + S 81 + S 810 $449 + Free S&H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T15:14:22.832527Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Kobalt 24V Brushless 2-Tool Combo Kit w/ 1/2\" Drill/Driver, 1/4\" Impact Driver, Battery & Charger $129.00 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T15:14:22.832527Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "New Balance 30% off $75, 40% off $100+: Coco CG2 Tennis Shoes $72 & More + Free Shipping $99+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T15:14:22.832527Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Encool Leak Proof 24oz Stainless Steel Insulated Water Bottle with Straw $8.49",
-  "reason": "Posted at $8.49, but Amazon showed $19.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-06T15:08:45.325977Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "hip2save",
-  "raw_title": "Cordless Hot Glue Gun w/ 20 Glue Sticks Only $12.99 on Amazon (Reg. $20)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T15:08:45.325977Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$39.59: Costway Solid Wood Planter Box with Trellis Weather-Resistant Outdoor 25''x11''x30'' at Walmart.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T15:08:45.325977Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Kellogg’s Snacks 30-Count Variety Pack Just $7.87 Shipped on Amazon",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T15:03:08.855333Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "27\" MSI MAG 274QPCT QD-OLED X24 1440p 240Hz $329.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T15:03:08.855333Z",
   "code": "not_checked",
   "public": false
  }
