@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Anker Soundcore 2 12W Portable Bluetooth Speaker w/ 24-Hour Playtime & IPX7 Waterproof $29.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-20T01:36:50.111288Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "805-Piece LEGO Technic Dodge Viper GTS-R Sports Car Building Set (42234) $49.97 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T01:31:37.570442Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "SKECHERS Fall Preview Sale: All Noted SKU's at Links, TWO for $100, Free Pick up at Local Skechers where available",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-20T01:26:25.676795Z",
@@ -141318,37 +141334,5 @@
   "rejected_at": "2026-09-06T01:41:19.028509Z",
   "code": "duplicate",
   "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$1* | 2-Rolls Scotch 3M Transparent Adhesive Tape (3/4\"x250\") at Amazon",
-  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-06T01:35:41.858982Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Pixel fold 256 GB refurbished/open box $291 woot",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T01:35:41.858982Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "85\" Insignia F50 4K UHD LED Smart Fire TV (2025 Model) $599.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T01:35:41.858982Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Braun Series 9 Sport + Electric Shaver with Clean and Charge Station and Travel Case $149.99 + $9.99 Shipping Costco.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T01:30:02.910210Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
