@@ -1,6 +1,14 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "Hanes Men's Knit Sleep Pants 4-Pack (L only) for $19 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T23:12:47.667812Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
   "raw_title": "Open-Box HP OmniBook 5 Ryzen AI 7 445 16\" Laptop for $666 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-20T22:51:50.204559Z",
@@ -138684,38 +138692,6 @@
   "raw_title": "Men's Merrell Wrapt Waterproof Suede Leather Barefoot Shoes (Dark Ivy or Dusk) $45 + Free S&H on $75+",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T23:13:58.471785Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "98\" TCL QM7K 4K 144Hz HDR QD-Mini LED Smart Google TV (2025) $1899.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T23:08:39.217742Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Shark StainStriker Portable Spot & Stain Cleaner, 2 Tools, PX221BRN $109.99",
-  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-06T23:03:21.595072Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Craftsman Versastack 71-Piece Mechanics Tool Set for $50 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T23:03:21.595072Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "LEGO Star Wars 2026 Advent Calendar for $35 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T23:03:21.595072Z",
   "code": "not_checked",
   "public": false
  }

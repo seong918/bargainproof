@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "f9b19196fb63",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20040321-sns-4-27-6-pack-8-oz-v8-energy-drink-pomegranate-blueberry-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "6-Pack 8-Oz V8 Energy Drink (Pomegranate Blueberry)",
+  "raw_title": "[SnS] $4.27 | 6-Pack 8-Oz V8 Energy Drink (Pomegranate Blueberry) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 427,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-20T23:12:47.667812Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "62e8936c9c9b",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20040270-3-pc-klein-tools-d5073-adjustable-wrench-set-6-8-10-32-98-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
