@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Samsung 75-Inch Class The Frame Pro LS03FW 4K Neo QLED Mini LED Smart TV $1699.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-20T22:14:20.237943Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "832-Piece Lego Harry Potter Book Nook Hogwarts Express Toy Building Set $76.99 + Free Shipping",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-20T22:14:20.237943Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "207-Piece LEGO Star Wars Cobb Vanth’s Speeder Kids Toy $27.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+3) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-20T22:14:20.237943Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "413 pcs LEGO Technic Deep-Sea Research Submarine Toy $28.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+3) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-20T22:08:51.648582Z",
@@ -138676,38 +138700,6 @@
   "raw_title": "EGOHOME ChillWeave 12 Inch Queen Mattress, Medium, Euro Top, Hybrid Mattress in a Box, $158, FS, Walmart",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T22:18:35.007089Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Flame King Y-Splitter Valve for $15 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T22:12:58.213803Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Serta SleepTrue Sparkling Sky 5\" Dual-Sided Crib & Toddler Mattress - Sustainably Sourced Fiber Core - Waterproof - Lightweight - GREENGUARD Gold Certified - 5 Year Warranty, $59",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T22:12:58.213803Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "EGOHOME StarryRest 12 inch Queen Mattress, Medium, Euro Top, Hybrid Mattress in a Box, $154, FS, Walmrt",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T22:12:58.213803Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Intex Dura-Beam Deluxe 20\" Raised Air Mattress, with Built-in Pump, Queen $76.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T22:12:58.213803Z",
   "code": "not_checked",
   "public": false
  }

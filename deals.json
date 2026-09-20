@@ -1,5 +1,38 @@
 [
  {
+  "deal_id": "1785b43e65ce",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20040678-sns-ac-7-50-2-17-oz-takis-hot-chili-pepper-lime-spicy-rolled-tortilla-chips-fuego-3-75-each-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "2 × 17-Oz Takis Hot Chili Pepper & Lime Spicy Rolled Tortilla Chips (Fuego)",
+  "raw_title": "[SnS, AC] $7.50* | 2 × 17-Oz Takis Hot Chili Pepper & Lime Spicy Rolled Tortilla Chips (Fuego) ($3.75 each) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 750,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 6,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-20T22:14:20.237943Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "1e2aa432f599",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20040375-37-39-573-pc-lego-one-piece-buggy-the-clown-s-circus-tent-75637-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
