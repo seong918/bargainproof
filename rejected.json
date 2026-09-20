@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Makita SK700GDNAJ 12V max CXT® Lithium-Ion Cordless Self-Leveling 360° 3-Plane Green Laser Kit (2.0Ah), Class II, 510-530 nm, <2 mW $477.89",
+  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-20T22:25:24.477638Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "NETGEAR Orbi 870 Series WiFi 7 Mesh System, Up to 9,000 sq ft., 3 Pack $899.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-20T22:25:24.477638Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ASUS ExpertCenter D701 Desktop, Intel Core i7, 32GB DDR5 RAM, 1TB SSD, Windows 11 Pro, Bundled Wired Keyboard and Mouse, D701SER-XS706 $1119.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-20T22:25:24.477638Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men Athletic Cushioned Crew 6 Pairs, medium or large, $15 FS @ adidas via EBay",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T22:25:24.477638Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – GIGALUMI 2-Pack Solar Firework Lights - $9.74 w/ Code + Points",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-20T22:25:24.477638Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Grocery Deals at Target for $10 off $50, more + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T22:19:52.524784Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "M&M’s Fun Size 50-Pack Just $14.24 Shipped on Amazon (Great for Halloween!)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T22:19:52.524784Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Samsung 75-Inch Class The Frame Pro LS03FW 4K Neo QLED Mini LED Smart TV $1699.99",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-20T22:14:20.237943Z",
@@ -138660,46 +138716,6 @@
   "raw_title": "My Texas House Cambria Rectangular Steel Outdoor Coffee Table, Black, $77, FS, Walmart",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T22:29:49.699154Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Best Choice Products Folding Adirondack Chair for $60 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T22:24:12.622966Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Kobalt 40\" Fiberglass Handle Digging Shovel for $23 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T22:24:12.622966Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "EGOHOME StarryRest 14 inch Queen Mattress, Medium, Euro Top, Hybrid Mattress in a Box, $188, FS, Walmart",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T22:24:12.622966Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ANBERNIC RG CubeXX Handheld Game 3.95\" IPS Screen Console 64G Retro Gaming Player $58 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T22:24:12.622966Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "EGOHOME ChillWeave 12 Inch Queen Mattress, Medium, Euro Top, Hybrid Mattress in a Box, $158, FS, Walmart",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T22:18:35.007089Z",
   "code": "not_checked",
   "public": false
  }
