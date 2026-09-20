@@ -1,5 +1,38 @@
 [
  {
+  "deal_id": "9a8e37cb22ec",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20039145-sns-ac-17-88-18-pack-2-12-oz-clif-bloks-energy-chews-black-cherry-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "18-Pack 2.12-Oz Clif Bloks Energy Chews (Black Cherry)",
+  "raw_title": "[SnS, AC] $17.88 | 18-Pack 2.12-Oz Clif Bloks Energy Chews (Black Cherry) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1788,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-20T09:38:08.627545Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "ff9a9861c278",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20038608-watchmen-chapter-i-4kuhd-digital-14-99-amazon-com?utm_source=rss&utm_content=ht&utm_medium=RSS2",
