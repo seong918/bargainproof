@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS, AC] $10.73 | 3-Pack 50-Oz Seventh Generation Hand Dish Wash Refill (Lavender Floral & Mint) at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-20T01:52:25.662847Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Mens Air Jordan 6 Rings Basketball Shoes Space Jam color only $60 Free shipping on $75 or more",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T01:47:12.603981Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "839-Piece LEGO Creator 3-in-1 Wild Animals: Majestic Lion Building Set (31386) $48 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T01:42:02.445303Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Anker Soundcore 2 12W Portable Bluetooth Speaker w/ 24-Hour Playtime & IPX7 Waterproof $29.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Same deal was already posted from another source",
   "rejected_at": "2026-09-20T01:36:50.111288Z",
@@ -141294,45 +141318,5 @@
   "rejected_at": "2026-09-06T01:57:07.550867Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$79.88 WALMART Tracfone Motorola Moto G2025, 5G, 128GB, Gray, Includes 1 Year $125 Service Plan",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T01:51:52.236410Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Bosch 18 -Volt 1 -Pack Battery and Charger ( 8 Ah Lithium-ion ) + Get Free Bosch 2.6-Gallon 7 HP Cordless Wet/Dry Shop Vacuum $199",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T01:51:52.236410Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Brand New HIFIMAN SUNDARA Over-Ear Full-Size Planar Magnetic Headphones (Black) $92.17 less $4 Coupon ( LDUS04) Free Shipping Within USA Aliexpress.com $88.17",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T01:46:35.805979Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Rabbit Wine Decanter $29.99 free Shipping Costco.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T01:41:19.028509Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "To Kill a Mockingbird 60th Anniversary (4K UHD + Blu-ray + Digital) $12.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-06T01:41:19.028509Z",
-  "code": "duplicate",
-  "public": true
  }
 ]
