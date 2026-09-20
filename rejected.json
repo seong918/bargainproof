@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS, AC] $9.44* | 22-Pk 3-oz Maruchan Ramen Fire Noodle Soup (Spicy Beef) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-20T19:12:58.532082Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Next Side Dock Charging Station for Xbox Series S w/ 2 Batteries for $6 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T19:12:58.532082Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Progresso Lasagna-Style Soup Only $1.58 on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T19:12:58.532082Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "New Balance Men's or Women's 530 Shoe (Various) $48.78 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T19:12:58.532082Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$14.98* | 1kg 1.75mm ELEGOO Silk PLA 3D Printer Filament (Dual Color Yellow Purple) at Amazon",
   "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-20T19:07:27.228576Z",
@@ -139484,22 +139516,6 @@
   "raw_title": "RIDGID 18V Brushless 12 in. Electric Battery Chainsaw with 6.0 Ah MAX Output Battery and Charger $219",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T19:14:02.638502Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$29.99 | Mafia: The Old Country (PS5) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-06T19:08:25.034921Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Motorola Moto G Power 5G 128GB for Tracfone w/ 1-Year Service Plan for $50 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T19:08:25.034921Z",
   "code": "not_checked",
   "public": false
  }
