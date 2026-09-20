@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Prime Members: Aerlang Deep Tissue Muscle Massage Gun w/ Heat $22.79 + Free Shipping",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-20T09:01:15.572690Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Batman: Return of the Caped Crusaders Blu Ray $8.99 Amazon.com",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-20T08:56:00.420944Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$1.99 | Simply AI (DK Simply) (eBook) by DK",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-20T08:45:16.459599Z",
@@ -140724,30 +140740,6 @@
   "raw_title": "$27.99 | BalanceFrom Bike Trainer Stand at Woot!",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T09:05:32.076007Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$13.71 AMAZON Franklin Sports Adult 1000 Junior Youth Football",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-06T08:54:47.231439Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Bosch 14 -Piece Assorted Assorted Black oxide coated HSS Jobber length Twist Drill Bit Set one_size | BL14 $12.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T08:49:29.610643Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$36.48 ac TARGET: Charmin Ultra Soft Toilet Paper - 12 Mega XXL Rolls AND Bounty Select-A-Size Paper Towels - 6 Mega XL Rolls",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T08:49:29.610643Z",
   "code": "not_checked",
   "public": false
  }
