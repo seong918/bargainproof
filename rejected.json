@@ -1,5 +1,29 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "FREEHILL Merino Wool Rechargeable Heated Socks, Full Sole Heating, Black L $35.99",
+  "reason": "Posted at $35.99, but Amazon showed $56.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-20T21:19:26.777914Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Rubik's Cube Black Panther Cuber for $9 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T21:19:26.777914Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Pre-Order: Nintendo Switch Sports Resort (Nintendo Switch 2) - $49.94 @ Walmart",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T21:19:26.777914Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "hip2save",
   "raw_title": "Moroccanoil 5-Piece Sample Set Only $15 on Amazon",
   "reason": "Not evaluated",
@@ -138756,22 +138780,6 @@
   "raw_title": "Rokr 3D Wooden Typewriter Puzzle Kit for $63 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T21:28:02.323914Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$249.99: Shark Detect Pro Lift-Away ADV Vacuum, DuoClean Detect, Evergreen, LA802 at Amazon, Free S&H",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-06T21:16:53.348734Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "25/26 season Snowboards on sale (Lib Tech, Gnu, Never Summer, Jones, several others) $485",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T21:16:53.348734Z",
   "code": "not_checked",
   "public": false
  }
