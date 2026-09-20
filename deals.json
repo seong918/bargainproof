@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "125fa6ee17e8",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20040642-sns-ac-13-30-2-2-lb-lavazza-super-crema-whole-bean-coffee-medium-espresso-roast-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "2.2-lb Lavazza Super Crema Whole Bean Coffee (Medium Espresso Roast)",
+  "raw_title": "[SnS, AC] $13.30* | 2.2-lb Lavazza Super Crema Whole Bean Coffee (Medium Espresso Roast) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1330,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-20T19:56:53.341107Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "7e38615d3ecc",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20040093-s-s-aveeno-baby-sensitive-all-over-wipes-fragrance-free-64-ct-pack-of-3-3-78?utm_source=rss&utm_content=ht&utm_medium=RSS2",
