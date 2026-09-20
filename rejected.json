@@ -1,6 +1,94 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "ORICO M2PVM M.2 NVMe & SATA SSD Enclosure w/ USB 3.1 Gen 2 10Gbps $11.53 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-20T04:44:01.711147Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ninja® Crispi™ Microwave & Air Fryer with FusionCrisp, Silver, MW101 $349.99",
+  "reason": "Community score too low (+-2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-20T04:15:52.702823Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Under $50 Nike Shoes for Men, Women and Kids",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T04:10:14.690099Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ticonn Wall Mounted 5-Hook Coat Rack for $5 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T04:04:37.122788Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Romech 350W Dual-Temp Heat Gun with 2 Nozzles for $8 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T04:04:37.122788Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ticonn Extra Large Moving Bags 6-Pack for $16 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T04:04:37.122788Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Baleine 12\" x 20-Foot Non-Adhesive Shelf Liner for $9 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T04:04:37.122788Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ticonn High Visibility Reflective Safety Vest 2-Pack for $5 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T04:04:37.122788Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ibeed Kids' AI Drawing Robot for $68 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T04:04:37.122788Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Outdoor Dog House with Insulated Liner for $120 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T04:04:37.122788Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Renpho Elis Nova - WiFi Smart Body Composition Scale (Manufacturer Refurbished) $70",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T03:53:21.001743Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "LEGO Icons Eiffel Tower Building Set (10307) $524.99 + Free Shipping w/ Prime or $6 Fee per Order",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-20T03:37:25.993153Z",
@@ -70242,22 +70330,6 @@
  {
   "source": "dealnews",
   "raw_title": "Ranzzran Women's Ribbed Strapless Bandeau Top for $6 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T04:03:50.992499Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Ibeed Kids' AI Drawing Robot for $68 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T04:03:50.992499Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Ticonn High Visibility Reflective Safety Vest 2-Pack for $5 + free shipping w/ Prime",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-13T04:03:50.992499Z",
   "code": "no_signal",
@@ -140884,238 +140956,6 @@
   "raw_title": "Crescent 2-Piece 1/4\" x 3-1/2\" Phillips Impact Driver Bit Set $0.98 + Free Store Pickup at Lowe's or Free Shipping on $35+",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T04:44:36.305837Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "5-Pack Bosch Edge 12\" Bi-Metal Reciprocating Saw Blades w/ Turbo-Teeth (5/8 TPI, Wood w/ Nails) $9.98 + Free Store Pickup at Lowe's or Free Shipping on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T04:38:57.933519Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "2 PACK Husky 4000 sq. ft. Poly Base Oscillating Sprinkler $19.2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T04:38:57.933519Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "DEWALT 7\" Silicon Carbide Masonry Cutting & Grinding Wheel $2.98 + Free Store Pickup at Lowe's or Free Shipping on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T04:33:19.943255Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon HOSHANHO Carving Knife 12 Inch, Razor Sharp Japanese Brisket Slicing Knife $38.99 50% off list price",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-06T04:27:42.867613Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "DEWALT Tough Grip 2-Pack 2\" T25 Torx Screwdriver Bits $2.48 + Free Store Pickup at Lowe's or Free Shipping on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T04:27:42.867613Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Bosch Bulldog Tough 1/4\" x 6\" 4-Cutter SDS-Plus Masonry Drill Bit $4.98 + Free Store Pickup at Lowe's or Free Shipping on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T04:27:42.867613Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "34-Piece Bosch Drilling & Driving Mixed Bit Set $4.98 + Free Store Pickup at Lowe's or Free Shipping on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T04:22:03.354746Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Bosch Edge 12\" 5/8 TPI Bi-Metal Wood w/ Nails Demolition Reciprocating Saw Blade $3.98 + Free Store Pickup at Lowe's or Free Shipping on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T04:16:25.672719Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "IRWIN 6\" 1/4\" Hex Lock-n-Load Quick Connect Drill Bit Extension $4.98 + Free Store Pickup at Lowe's or Free Shipping on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T04:16:25.672719Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "DeWALT 6\" Magnetic Screwdriving Bit Drive Guide Set w/ 3 Bits $4.98 + Free Store Pickup at Lowe's or Free Shipping on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T04:16:25.672719Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "12-Pack LENOX PowerBlast Bi-Metal Demolition Reciprocating Saw Blade Set $19.98 + Free Store Pickup at Lowe's or Free Shipping on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T04:10:47.000758Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "10-Pack Bosch T-Shank High-Carbon Steel Jigsaw Blade Set $9.98 + Free Store Pickup at Lowe's or Free Shipping on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T04:10:47.000758Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Craftsman 14-Piece Gold Oxide Jobber Length Twist Drill Bit Set $9.98 + Free Store Pickup at Lowe's or Free Shipping on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T04:10:47.000758Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Craftsman 3-Pack Socket Adapter Set (1/4\", 3/8\" & 1/2\") $4.98 + Free Store Pickup at Lowe's or Free Shipping on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T04:10:47.000758Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Baleine 15\"x 11\"x 9.5\" Fabric Storage Bins 3-Pack for $16 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T04:05:09.730661Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Ticonn Extra Large Moving Bags 6-Pack for $19 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T04:05:09.730661Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Ticonn Wall Mounted 5-Hook Coat Rack for $5 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T04:05:09.730661Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Apexup 5-lb. Weighted Vest for $10 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T04:05:09.730661Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Baleine 2x3-Foot Felt and Rubber Rug Pad for $6 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T04:05:09.730661Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Bluvol SonicDry H10 Apex Travel Hair Dryer for $56 w/ Prime + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T04:05:09.730661Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Baleine Waterproof Patio Table Cover for $21 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T04:05:09.730661Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Ticonn 3\" Office Chair Caster Wheels 5-Pack for $16 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T04:05:09.730661Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Baleine Utility Tote Bag for $14 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T04:05:09.730661Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Kenmore 5.2 cu. ft. Rear-Control Electric Range -White $979.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T04:05:09.730661Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Toro Flex-Force 60-volt, 330-Watts Portable Power Station (Battery Not Included) $34.99 Item #5657236 | Model #51860T",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T04:05:09.730661Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Bluey Kids 27\" Saucer Chair $25 + Free S&H w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T04:05:09.730661Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Sennheiser HD 800 S Over-the-Ear Audiophile Reference Headphones at Woot! NEW OPEN BOX $1223.16",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T03:59:31.383660Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Refurb: Microsoft Surface Laptop 4 Intel Core i5-1145G7 16GB 256GB SSD 13.5\" Touch W11P $289.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T03:53:52.377215Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Refurb: Acer Aopen 27MGA0U X2 27\" 2560x1440 180Hz 250Nit IPS $117.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T03:48:12.910716Z",
   "code": "not_checked",
   "public": false
  }
