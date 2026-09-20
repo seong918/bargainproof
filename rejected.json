@@ -1,5 +1,21 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Levi Strauss Signature Men's Loose Cargo Shorts for from $10 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T22:30:54.805911Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "1917 4K UHD + Blu Ray + Digital $12.99 Amazon.com or Gruv.com ( extra 15% Off for new Gruv Account)",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-20T22:30:54.805911Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Makita SK700GDNAJ 12V max CXT® Lithium-Ion Cordless Self-Leveling 360° 3-Plane Green Laser Kit (2.0Ah), Class II, 510-530 nm, <2 mW $477.89",
   "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
@@ -138708,14 +138724,6 @@
   "raw_title": "Refurb: Sony WH-1000XM6 Wireless Noise-Cancelling Over-the-Ear Headphones (Black, Silver, Blue) $226.79",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T22:35:24.211658Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "My Texas House Cambria Rectangular Steel Outdoor Coffee Table, Black, $77, FS, Walmart",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T22:29:49.699154Z",
   "code": "not_checked",
   "public": false
  }
