@@ -1,6 +1,14 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS] $13.29* | 24-Pack 5.5-Oz A Strong Heart Wet Dog Food at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-20T21:30:23.835680Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Nike Toddlers Fleece Jacket | Nordstromrack $16.97 + Free Instore Pickup",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-20T21:24:52.721969Z",
@@ -138780,14 +138788,6 @@
   "raw_title": "Milwaukee M12 2460-20 Cordless Rotary Tool, 12.0V Tool Only $80",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T21:33:40.228046Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Rokr 3D Wooden Typewriter Puzzle Kit for $63 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T21:28:02.323914Z",
   "code": "not_checked",
   "public": false
  }

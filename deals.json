@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "0d2a2f8fa2c0",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20040483-new-sns-5-11-25-oz-amazon-grocery-smoked-bbq-rub-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "25-Oz Amazon Grocery Smoked BBQ Rub",
+  "raw_title": "[NEW, SnS] $5.11 | 25-Oz Amazon Grocery Smoked BBQ Rub at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 511,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "sns"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-20T21:30:23.835680Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "c11849c10a5f",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20040561-108-95-brooks-men-s-hyperion-max-3-neutral-running-shoes-2-colors-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
