@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$1.99 | Simply AI (DK Simply) (eBook) by DK",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-20T08:45:16.459599Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$229.99* | 42mm Garmin vívoactive 6 Smartwatch (Various Colors) at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-20T08:45:16.459599Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas World Cup Gazelle Indoor Shoes (Collegiate Royal/Core Black/Supplier Colour) - $40.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T08:39:45.976383Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "PUMA x LAMELO BALL MB.05 'Metallic' Basketball Shoes (Gray/Silver) - $41.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T08:39:45.976383Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Nike Men's Jordan Session Shoes (phantom) - $59.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-20T08:34:15.570989Z",
@@ -140716,14 +140748,6 @@
   "raw_title": "$36.48 ac TARGET: Charmin Ultra Soft Toilet Paper - 12 Mega XXL Rolls AND Bounty Select-A-Size Paper Towels - 6 Mega XL Rolls",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T08:49:29.610643Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Air Wick Plug-In Kit Lavender & Chamomile, Warmer + 1 Refill, 1.0 set - $1.34",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T08:44:12.239804Z",
   "code": "not_checked",
   "public": false
  }
