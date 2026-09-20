@@ -1,6 +1,30 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "Amazon Essentials Men's Straight-Fit Cargo Pants for $9.99 w/ Prime + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T20:30:01.140630Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SOLIX S2000 Portable Power Station, 1,500-watt Solar Generator, Push Button Start, for Home Backup, Power Outages $649.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T20:30:01.140630Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SKIL Corded Multi-Function Detail Sander with Micro-Filter Dust Box 3 Additional Attachments & 12pc Sanding Sheet- SR232301 $35",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-20T20:24:28.962071Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
   "raw_title": "adidas Men's or Women's Predator Freestyle Indoor Soccer Shoes for $39 + free shipping w/ $49",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-20T20:18:57.666549Z",
@@ -138980,46 +139004,6 @@
   "raw_title": "ReadyWise 94 Serving Emergency Protein Bucket (94Total Servings) $99.99 free shipping Costco.xom",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T20:32:33.072669Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Ebern Designs Dorrough Velvet Tufted Storage Platform Bed (Queen) $153.89 Beige, $155.79 Gray + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T20:26:54.750810Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$1.99 | Free To Choose: A Personal Statement (eBook) by Milton Friedman, Rose Friedman",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-06T20:21:17.675887Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "hip2save",
-  "raw_title": "Walmart Patio Furniture Sale: 6-Piece Dining Set w/ Umbrella Just $97 Shipped",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T20:21:17.675887Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$5 in Walmart cash w/ Persil Deep Clean Liquid Laundry Detergent, Original, 126 fl oz, 96 loads $19.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T20:21:17.675887Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Latitude Run 4-seater Chenille Oversized Power Recliner Sectional Sofa w/ Charger & Cup Holder: $1500 Gray, $1540 Green $1500 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T20:21:17.675887Z",
   "code": "not_checked",
   "public": false
  }
