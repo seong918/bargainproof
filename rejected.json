@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "206-Piece LEGO Disney and Pixar’s Toy Story Celebration Train & RC Car Toddler Toy $31.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-20T22:03:21.689576Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Cuphead PC/Steam - $11 at Green Man Gaming via GMG XP Offer",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T22:03:21.689576Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "MSI G274QPF WHQD 180Hz Gaming Monitor $150 @ Costco in-store",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-20T21:57:53.341652Z",
@@ -138692,14 +138708,6 @@
   "raw_title": "6-Pc WORKPRO Magnetic Screwdriver Set w/ Slotted & Phillips Drivers (Pink) $10.95",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T22:07:21.100299Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Hart 20V Brushless Reciprocating Saw (Tool Only) for $38 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T22:01:44.440901Z",
   "code": "not_checked",
   "public": false
  }
