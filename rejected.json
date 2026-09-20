@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Soundcore Select 4 Go IP67 Portable Bluetooth Shower Speaker by Anker (Black) $21.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-20T13:30:58.719952Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$9.97: adidas Kids' Goletto VIII FG Soccer Cleats, Grass(Pink/Black, Size 5/5.5/6) at Dick's Sporting Goods",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T13:30:58.719952Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Shark Vertex Pet Powered Lift-Away Upright Vacuum (AZ2502, Hawaiian Grey) $299.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T13:30:58.719952Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Creality SPARKX I7 Combo 3D Printer OPEN BOX $263.2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T13:30:58.719952Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas Kids' Grade School Adizero Aruku Shoes(Black, Size 4~7) $27.97 at Dick's Sporting Goods",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T13:25:42.067648Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Sherpani Raven Getaway Travel Backpack (Black) $65.97 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T13:25:42.067648Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[S&S] $15.79: Mike's Hot Honey Original & Extra Hot Variety Pack, 10oz, 2 Pack",
   "reason": "Community score too low (+-1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-20T13:20:26.242899Z",
@@ -140558,37 +140606,5 @@
   "rejected_at": "2026-09-06T13:40:36.258389Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Klein Tool Ratcheting Modular Crimper, $26.99, FS Prime, Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T13:35:00.588608Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Samsung 75-Inch Class M70H Series, Mini LED, 4K, Smart TV, 2026 Model $547.99",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-06T13:35:00.588608Z",
-  "code": "duplicate",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$111.99: Lark Manor™ Hollifield 4 Person Patio Dining Set with Square Table, Chairs & Umbrella at Wayfair",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T13:29:22.855448Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$13.67: WORKPRO 9 PCS Impact Driver Extension Bar Set, 1/4\", 3/8\" and 1/2\" Drive at Amazon",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-06T13:23:44.134881Z",
-  "code": "duplicate",
-  "public": true
  }
 ]
