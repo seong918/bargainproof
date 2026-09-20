@@ -1,5 +1,21 @@
 [
  {
+  "source": "hip2save",
+  "raw_title": "Hidden Valley Ranch Seasoning 4-Pack Just $3 Shipped on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T20:41:01.809412Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Dual-Sided Stainless Steel Cutting Board Only $11.99 Shipped for Prime Members",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T20:35:31.821212Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Amazon Essentials Men's Straight-Fit Cargo Pants for $9.99 w/ Prime + free shipping",
   "reason": "Not evaluated",
@@ -138956,54 +138972,6 @@
   "raw_title": "Lexar 1TB Professional Go USB 3.2 Gen 2 Portable SSD with Hub $199.00",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T20:43:36.186204Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$232.66* | Husqvarna 135 Mark II Gas Powered Chainsaw, 38-cc 2.1-HP, 16 inch at Amazon",
-  "reason": "Posted at $232.66, but Amazon showed $205.10 when we checked — the post is stale",
-  "rejected_at": "2026-09-06T20:38:05.820698Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "hip2save",
-  "raw_title": "Collapsible Laundry Hamper 2-Pack Only $9.99 on Amazon (Only $5 Each)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T20:38:05.820698Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Diapers & Wipes Deals at Amazon for $25 Amazon Credit w/ $100 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T20:32:33.072669Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "DJI OSMO 5 ACTION PRO STANDARD (Refurbished) $231.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T20:32:33.072669Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ReadyWise 2 Day Adventure Kit With Dry Bag, 2-pack (24 Servings Each) $59.99 Free Shipping Costco.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T20:32:33.072669Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ReadyWise 94 Serving Emergency Protein Bucket (94Total Servings) $99.99 free shipping Costco.xom",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T20:32:33.072669Z",
   "code": "not_checked",
   "public": false
  }
