@@ -1,5 +1,53 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "adidas x Coca-Cola Men's or Women's Samba OG Leather Shoes for $55 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T18:17:39.687413Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bose SoundLink Micro Speaker Gen 1 Black $44 @ Microcenter",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T18:17:39.687413Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "origimagic C4 AIR Mini PC Ryzen 5 3500U with 8GB DDR4 256GB SSD - $185.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T18:17:39.687413Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$8.99 | Ernie Ball Titan Slinky Nickel Wound Electric Guitar Strings at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-20T18:12:08.859948Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Firstness 8ft Christmas Inflatable Santa Snowman Xmas Tree Penguin Dog with LED Lights $39.89",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T18:12:08.859948Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "owltron Hydroponics Growing System Kit, 12 Pods Indoor Herb Garden with 24W LED Grow Light, Matte Black $59.99+ Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-20T18:06:36.423904Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Bluetooth Headphone for Running Cycling Workouts | Bluetooth 5.3 Wireless Air Conduction Headphones Sport Earbuds $23.99",
   "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
@@ -139676,134 +139724,6 @@
   "raw_title": "Sams Club Members: earn $5 Sam's Cash on a $15+ curbside pick up order to 9/30 **YMMV** Limit 1 EMAIL INVITE",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T18:18:19.539180Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS] $14.23 | simplehuman Odorsorb® Pod Starter Pack, Trash Can Odor Eliminator with Plant-Based Oils at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-06T18:12:43.602567Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$14.99* | Coghlan's Cast Iron Double Camp Cooker at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-06T18:12:43.602567Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Amazon Essentials Men's Water-Resistant Packable Puffer Jacket for $9.99 w/ Prime + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T18:12:43.602567Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "HART 8 Gallon Wet/Dry Vacuum, 6 Peak HP Motor, Stainless Steel Tank, Convertible to Blower, On-Board Storage, 17 ft Cleaning Reach $54.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T18:12:43.602567Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "GameSir Cyclone 2 TMR Joystick Hall Linear Trigger Wireless Controller Cyclone 2 White only $35.50 / Cyclone 2 White set $40.30 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T18:12:43.602567Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$79.99* | Epson Workforce Pro WF-3823 Wireless All-in-One Printer at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
-  "rejected_at": "2026-09-06T18:07:08.975964Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$79.95* | JBL Flip 6 - Portable Waterproof Speaker - Camo at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-06T18:07:08.975964Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Nickelodeon All-Star Brawl 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T18:07:08.975964Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "10′ Lightning Charging Cables 3-Pack Only $3.49 on Amazon",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T18:07:08.975964Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Apple AirPods Max 2 USB-C New $449 Various Colors From $391.99 Open Box (Good) $399.99 (Excellent) Bestbuy.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T18:07:08.975964Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS, AC] $7.20 | 12-Pack 16-Oz BODYARMOR Sports Drink (Zero Fruit Punch) at Amazon (60￠ each)",
-  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-06T18:01:34.644921Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS] $13.30 | tarte tartelette XL tubing mascara at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-06T18:01:34.644921Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Woot Spooky Shirts Sale for 3 for $24 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T18:01:34.644921Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ASUS VivoBook S14: 14\" FHD+ OLED, Intel Ultra 7 256V, 16GB LPDDR5, 1TB SSD $799.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T18:01:34.644921Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Efferdent Denture Cleaner Tablets, Minty Fresh & Clean, 90 Count $2.5",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T18:01:34.644921Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Workpro 28\" 2-Shelf Lockable Rolling Garage Storage Cabinet $139.65",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T18:01:34.644921Z",
   "code": "not_checked",
   "public": false
  }
