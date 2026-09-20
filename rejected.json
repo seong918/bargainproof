@@ -1,5 +1,53 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Amazon Essentials Men's Relaxed-Fit Stretch Cotton Utility Jacket for $15 w/ Prime + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T21:52:22.173972Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Metallic Photo Posters Only $5 at CVS (Reg. $24) + Free Same-Day Pickup",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T21:52:22.173972Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Amazon Grocery Broth 32oz Just $1 Shipped",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T21:46:47.650927Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Amazon Essentials Men's Quilted Midweight Jacket for $15 w/ Prime + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T21:41:20.326809Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Blue Buffalo Cat Treats Just $4 Shipped on Amazon (Reg. $12)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T21:41:20.326809Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "TCL 75\" Class QM8K Series 4K UHD HDR QD-Mini LED Smart TV with Google TV - $1399.99 @ Best Buy",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T21:41:20.326809Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "[SnS] $13.29* | 24-Pack 5.5-Oz A Strong Heart Wet Dog Food at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
@@ -138668,126 +138716,6 @@
   "raw_title": "2-pack Combo 60 fl. oz. Triple-Acting Liquid Refill Fabric Stain Remover $6.85",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T21:56:06.322121Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "DEWALT FLEXVOLT 60V MAX Cordless 21\" Single-Stage Snow Blower (Tool only) (DCSNP2142B) $814",
-  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-06T21:50:28.946587Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Certified Refurb Anker Soundcore 2 Bluetooth Speaker for $23 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T21:50:28.946587Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Windex 19 oz. Glass Cleaner Fast Shine Foam, Rainshower Scent 6-Pack $12.69",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T21:50:28.946587Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$100 Visa virtual gift card, $90 + $5.95 activation fee, GiftCards.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T21:50:28.946587Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "94-Ct Finish Power Dishwasher Detergent Pods $13.65 w/ S&S",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T21:50:28.946587Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Tons of Hoodies UNDER $8 on Walmart.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T21:44:52.311249Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Fender Jim Root Jazzmaster V4 Electric Guitar $1099 + Free S/H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T21:44:52.311249Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Fender 30th Anniv Screamadelica Stratocaster Electric Guitar $599 + Free S/H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T21:44:52.311249Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$14 | tarte lights, camera, lashes platinum volumizing mascara at Amazon",
-  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-06T21:39:16.814871Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS, AC] $9.51* | 2 × 12-Count Sharpie Ultra Fine Point Permanent Markers (Black) ($4.75 each) at Amazon",
-  "reason": "Community score too low (+0) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-06T21:39:16.814871Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Fender FA-235E Concert Acoustic Electric Guitar $179 + Free S/H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T21:39:16.814871Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Tilswall Paint Sprayer, Lightweight HVLP Spray Gun, High Power Electric Spray Paint Gun, 4 Nozzles & 3 Patterns, $22.99, FS Prime, Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T21:39:16.814871Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "lululemon - We made too much under $50 sale! $29",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T21:39:16.814871Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Nespresso 50-Count Pods Only $26.64 Shipped on Amazon (Just 53¢ Per Cup!)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T21:33:40.228046Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Milwaukee M12 2460-20 Cordless Rotary Tool, 12.0V Tool Only $80",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T21:33:40.228046Z",
   "code": "not_checked",
   "public": false
  }
