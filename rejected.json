@@ -1,5 +1,37 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Batman: The Killing Joke (Blu-ray + DVD) $6.92 Walmart.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T12:52:47.536782Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas Kids' Grade School Handball Spezial Shoes(Semi Lucid Red, Size 4~6) $36.97 at Dick's Sporting Goods",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T12:47:33.289842Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Kung Fu Panda (Blu-ray) $7.66 Walmart.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T12:47:33.289842Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon - 10-in-1 Cruise Travel Power Strip $13.19",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T12:47:33.289842Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "ULG 6.5\" Right-Hand Razor Edge Hair Cutting Scissors $7.49",
   "reason": "Posted at $7.49, but Amazon showed $14.99 when we checked — the deal is probably over",
@@ -140548,62 +140580,6 @@
   "raw_title": "Grand patio Wicker Outdoor Chaise Lounge, 3 Adjustable Positions, Cream $100",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T12:55:41.106735Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Ticonderoga pencils(180ct) $18.45",
-  "reason": "Posted at $18.45, but Amazon showed $18.83 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-06T12:50:03.279777Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Verizon Fios 300/300Mbps Internet (New & Existing) $30.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T12:50:03.279777Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Wolverine Men's Overpass CarbonMAX 6\" Boot $94.47",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T12:50:03.279777Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "eufy X10 Pro Omni Robot Vacuum $429.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T12:50:03.279777Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Weber Works Organizer Kit with Paper Towel Holder, Garbage Bag Holder & Hooks $34.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T12:50:03.279777Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Bosmere 14\" Plant Caddie, Heavy-Duty Rolling Plant Stand, Locking Wheels, 500 lb Capacity, Adobe $21.22",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T12:50:03.279777Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "LIMITED STOCK: Weber Original Kettle 22 in. Charcoal Grill American Flag in Green $99.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T12:44:26.107841Z",
   "code": "not_checked",
   "public": false
  }
