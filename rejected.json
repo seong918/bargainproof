@@ -1,5 +1,29 @@
 [
  {
+  "source": "hip2save",
+  "raw_title": "Up to 70% Off Wayfair Chairs | Barrel Chair w/ Storage Ottoman Only $246.99 Shipped",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T14:19:50.127052Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas women Essentials Small Logo Flared Leggings $8.4 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T14:19:50.127052Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men adidas Adicolor Spacer Oversized Hoodie $21 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T14:19:50.127052Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "(8 Pack) ELECLINK Adjustable Solar Powered Garden Lights with Bigger LED Lens $27.49",
   "reason": "Posted at $27.49, but Amazon showed $54.99 when we checked — the deal is probably over",
@@ -140396,30 +140420,6 @@
   "raw_title": "BCAN SP2 40\" Foldable Mini Rebounder Trampoline for Adults, 330/440 lbs Capacity, Black $60.29",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T14:23:57.117882Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "The Untethered Soul: The Journey Beyond Yourself (Paperback) $10.23 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-06T14:18:20.771139Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Lowe's Majesty Palm House Plant 1.94 Gallon Pot $14.98",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T14:18:20.771139Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$3 get $2 Walmart Cash Crest Pro Heath Toothpaste 3.0 oz",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T14:18:20.771139Z",
   "code": "not_checked",
   "public": false
  }
