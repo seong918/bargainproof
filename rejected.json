@@ -1,5 +1,13 @@
 [
  {
+  "source": "hip2save",
+  "raw_title": "Moroccanoil 5-Piece Sample Set Only $15 on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T21:13:59.377142Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "HolyPoint Compressed Air Duster, 110000RPM Ultra-Powerful Electric Air Duster $14.99",
   "reason": "Posted at $14.99, but Amazon showed $29.99 when we checked — the deal is probably over",
@@ -138764,14 +138772,6 @@
   "raw_title": "25/26 season Snowboards on sale (Lib Tech, Gnu, Never Summer, Jones, several others) $485",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T21:16:53.348734Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "GaiaRay 500W 460Wh Portable Solar Power Station for $170 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T21:11:22.232116Z",
   "code": "not_checked",
   "public": false
  }
