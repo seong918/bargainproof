@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "f4ca898d4830",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20038968-15-99-4-pack-3-17-oz-skinnydipped-dark-chocolate-peanut-butter-cups-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "4-Pack 3.17-Oz SkinnyDipped Dark Chocolate Peanut Butter Cups",
+  "raw_title": "$15.99 | 4-Pack 3.17-Oz SkinnyDipped Dark Chocolate Peanut Butter Cups at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1599,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-20T07:55:28.116268Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "77541b1ca713",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20039112-11-99-akira-4k-uhd-blu-ray-blu-ray-at-amazon?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
