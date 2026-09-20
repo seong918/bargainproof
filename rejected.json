@@ -1,6 +1,14 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Kids Smart Watch, No Phone Needed, $19.49 w/ code",
+  "reason": "Community score too low (+2) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-20T02:19:14.541578Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Post Malone - Austin - VINYL LP $19.99 Best Buy",
   "reason": "Correction: this was a Best Buy offer. We mistakenly treated its Amazon comparison link as the seller and marked the price as confirmed. That verification is withdrawn.",
   "rejected_at": "2026-09-20T02:18:33.687688Z",
