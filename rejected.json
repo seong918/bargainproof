@@ -1,5 +1,29 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "MSI G274QPF WHQD 180Hz Gaming Monitor $150 @ Costco in-store",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T21:57:53.341652Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Mancera Unisex Red Tobacco $99.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T21:57:53.341652Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Dimur Women's Long-Sleeve Tunic Top - $5.99 w/ Code",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-20T21:57:53.341652Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "dealnews",
   "raw_title": "Amazon Essentials Men's Relaxed-Fit Stretch Cotton Utility Jacket for $15 w/ Prime + free shipping",
   "reason": "Not evaluated",
@@ -138676,46 +138700,6 @@
   "raw_title": "Hart 20V Brushless Reciprocating Saw (Tool Only) for $38 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T22:01:44.440901Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "adidas Men's Runfalcon 5 Running Shoes for $21 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T21:56:06.322121Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Welch’s Fruit Snacks 40-Count Just $3.49 Shipped on Amazon",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T21:56:06.322121Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Rain Defender® Loose Fit Heavyweight Quilted Snap Front Shirt Jacket $44.62",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T21:56:06.322121Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "WORKPRO 22-Piece Ratcheting Combination Wrench Set 72 Teeth CR-V Metric & SAE, $46.39, FS, ebay $18.87",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T21:56:06.322121Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "2-pack Combo 60 fl. oz. Triple-Acting Liquid Refill Fabric Stain Remover $6.85",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T21:56:06.322121Z",
   "code": "not_checked",
   "public": false
  }

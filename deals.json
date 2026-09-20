@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "430ce7e96c4b",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20040981-amazon-dimur-women-s-long-sleeve-tunic-top-5-99-w-code?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
+  "title": "Amazon – Dimur Women's Long-Sleeve Tunic Top - w/ Code",
+  "raw_title": "Amazon – Dimur Women's Long-Sleeve Tunic Top - $5.99 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 599,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0CBP5HGPB",
+  "image_url": null,
+  "published_at": "2026-09-20T21:57:53.341652Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "e1822073d462",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20040663-ninja-fit-compact-personal-blender-700w-2-16oz-cups-qb3001ss-54-98?utm_source=rss&utm_content=ht&utm_medium=RSS2",
