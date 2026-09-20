@@ -1,5 +1,13 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "XXFLOWER 2-Pack Broom & Dustpan Combo Set for $16 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T11:37:05.281767Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "AstroAI 10-75 PSI Stainless Steel Pencil Tire Pressure Gauge (2-Pack) with 4x Valve Stem Caps $2.69",
   "reason": "Posted at $2.69, but Amazon showed $5.49 when we checked — the deal is probably over",
@@ -140692,14 +140700,6 @@
   "raw_title": "Welch’s Halloween Fruit Snacks 70-Count Variety Pack Just $8.99 Shipped on Amazon",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T11:40:16.132377Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "It’s Bring Your Own Bucket Day at Cinemark | Fill ANY Container w/ Popcorn for Just $5!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T11:34:56.121684Z",
   "code": "not_checked",
   "public": false
  }
