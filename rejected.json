@@ -1,6 +1,110 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "4 Pack Filament Storage Box Set with Dry Desiccants, Moisture & Dust-Proof $33.99+Free Shipping w/Prime",
+  "reason": "Community score too low (+-3) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-20T15:31:53.577460Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "BooKoo A9 4000A 12V 20000mAh 3-Mode Portable Jump Starter (12L Gas Engine) $22.19",
+  "reason": "Posted at $22.19, but Amazon showed $36.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-20T15:31:53.577460Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Firstness 6ft Christmas Inflatables, Snowmen Penguin Christmas Tree Gift Box with LED Lights Xmas Blow ups for Outdoor Yard Party Decorations $38.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T15:31:53.577460Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Jetson Pixel Hoverboard - White $74.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T15:31:53.577460Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Insta360 X5 - 8K 360° Action Camera Bundle - $399.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T15:31:53.577460Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "COOFANDY Men's Quarter Zip Pullover Mock Neck Fleece 1/4 Sweatshirt Winter $14.99",
+  "reason": "Posted at $14.99, but Amazon showed $22.49 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-20T15:26:20.445585Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ekouaer Family Christmas Onesie Pajamas Matching Sets Hooded One Piece Pjs $12.99",
+  "reason": "Posted at $12.99, but Amazon showed $26.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-20T15:26:20.445585Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Little Beauty 9\" Fast Dry Men's Athletic Shorts (Pack of 3) $14.99",
+  "reason": "Posted at $14.99, but Amazon showed $29.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-20T15:26:20.445585Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon - EUHOMY Espresso Machine with Grinder and Milk Frother, 20 Bar Pressure $210.54",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-20T15:20:47.405644Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ekouaer Womens Pajamas Sets Short Sleeve Tops and Shorts Pjs Soft Sleepwear $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $17.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-20T15:20:47.405644Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Webeauty Travel Mini High-Speed 200 Million Negative Ions Blow Dryer with Diffuser, 110,000RPM Brushless Motor for Fast Drying $18.74",
+  "reason": "Posted at $18.74, but Amazon showed $37.49 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-20T15:20:47.405644Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "PATIOPIA Solar Halloween Lights (4Pack 40LED), Green Outdoor Halloween Decor $9.99 AC",
+  "reason": "Posted at $9.99, but Amazon showed $19.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-20T15:20:47.405644Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "*NEW* Hallmark Grinch Christmas Countdown Calendar Just $34.99 on Kohls.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T15:20:47.405644Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "WOSPORTS WiFi Trail Camera 48MP Solar Game Camera with 7800mAh Built-in Battery, 0.1s Trigger IP66 Waterproof Wildlife Cameras with 8 AA Batteries & 64GB SD Card $34.99 AC",
   "reason": "Posted at $34.99, but Amazon showed $39.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-20T15:15:16.386544Z",
@@ -140268,70 +140372,6 @@
   "raw_title": "Round Trip Nashville - Denver or Vice Versa $177 Nonstop Airfares on Southwest or United Airlines BE (Travel October - March 2027)",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T15:36:45.873434Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Coostar Men's Orthopedic Arch Support Non Slip Breathable Walking Shoes $29.99",
-  "reason": "Posted at $29.99, but Amazon showed $51.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-06T15:31:09.897396Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Kobalt 24V 2-Pack 4.0Ah Lithium-Ion Batteries w/ 85W Charger (KBCD) $99.00 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T15:31:09.897396Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Pittman Truck Bed Air Mattress with Portable 12V DC Pump – Fits Ford, Chevy, GMC, RAM & Toyota Trucks 6'-6.5' beds | AirBedz Lite - $119.43 with Shipping",
-  "reason": "Posted at $119.43, but Amazon showed $174.59 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-06T15:25:34.274637Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Energy Speakers: 2x CF-70 Floors + CC-10 Center + CB-20 Bookshelves + C10 Sub $499 + Free S/H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T15:25:34.274637Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "4.2-Oz Clinique Dramatically Different Moisturizing Gel Oil-Free Face Moisturizer $16.15 w/ S&S + Free Shipping w/ Prime or on $35+",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-06T15:25:34.274637Z",
-  "code": "duplicate",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Corsair RMe RM850e 850W 80 Plus Gold Fully Modular Low Noise Certified Refurb $54.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T15:19:59.976535Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Corsair SF1000 1000W 80 Plus Platinum SFX Power Supply ATX 3.1 Certified Refurb $136.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T15:19:59.976535Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$37.99: Latitude Run® Outdoor Foldable Wood Privacy Screen with Planter Box(3 Planters), 47.3“ x 55.2”, Natural at Wayfair",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T15:19:59.976535Z",
   "code": "not_checked",
   "public": false
  }
