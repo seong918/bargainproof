@@ -138670,29 +138670,5 @@
   "rejected_at": "2026-09-06T23:25:13.825604Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "adidas Men's Microfiber Long Boxer Briefs 3-Pack for $18 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T23:19:36.625987Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Shark HydroVac MessMaster Wet Dry Vacuum & Mop Combo, AW261 $219.98",
-  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-06T23:13:58.471785Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Men's Merrell Wrapt Waterproof Suede Leather Barefoot Shoes (Dark Ivy or Dusk) $45 + Free S&H on $75+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T23:13:58.471785Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
