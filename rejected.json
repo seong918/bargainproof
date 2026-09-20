@@ -1,6 +1,14 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$37 FS AMAZON (most popular sizes) Spenco Max Shoe Insoles(FSA&HSA Eligible)Orthotic Metatarsal Arch Support Inserts, Absorbs Shock,Reduces Over-Pronation,",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-20T12:25:51.012073Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$29.99: Lasko 32\" 3-Speed Oscillating, Remote, 8-Hour Timer Tower Fan T32200 at Walmart.com",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-20T12:15:23.020795Z",
@@ -140660,14 +140668,6 @@
   "raw_title": "Swissgear 1900 Scansmart TSA-Friendly Backpack (Fits 17\" Laptop, Black) $61.73 + Free Shipping",
   "reason": "Same deal was already posted from another source",
   "rejected_at": "2026-09-06T12:28:30.823598Z",
-  "code": "duplicate",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "3-Piece Klein Tools Adjustable Wrench Set (6\", 8\" & 10\") $32.98 + Free Shipping w/ Prime or on $35+",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-06T12:23:15.020333Z",
   "code": "duplicate",
   "public": true
  }
