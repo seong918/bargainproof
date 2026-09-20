@@ -1,6 +1,78 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[AC] $35* | Wanlipo Dual Channel 4K Front + 2.5K Rear Dash Cam w/ 64GB microSD at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-20T17:28:03.064357Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$6.60* | 17.5 x 17.5\" Modway Outdoor Indoor All Weather Patio Throw Pillow at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-20T17:28:03.064357Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "ThermoMaven 110ml Electric Salt & Pepper Grinder Set with 6-Adjustable Coarseness (2-Pack) $19.99",
+  "reason": "Posted at $19.99, but Amazon showed $39.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-20T17:28:03.064357Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Monument Grills 4+1 Burner Gas Grill + Free Smoker Box & Free Assembly (Stainless Steel) $339 + Free Shipping on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T17:28:03.064357Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[launch sale] Wurkkos TS11 V2 Rechargeable Flashlight, 545-yard Beam, 1600 Lumens, Anduril 2, RGB Aux, Constant-Current Buck Driver, free S&H; $33.24",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T17:28:03.064357Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "DEWALT Oscillating Multi-Tool Kit Only $99 Shipped on Amazon (Reg. $179)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T17:22:31.237819Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Night Owl 10 Channel, 10 AC Plug-in 4K Camera Wi-Fi 2TB NVR Security Camera System $549.99 free shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T17:22:31.237819Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Royal Gourmet 4-Burner Gas 49,000 BTU Grill w/ Side Burner (Black) $209 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T17:22:31.237819Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SimpliSafe Security System with 2 Outdoor Camera Series 2, 13-piece $199.99 Free Shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T17:22:31.237819Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "682-Piece LEGO City Yellow Bulldozer Building Set (60466) $51.99 + Free Shipping",
   "reason": "Same deal was already posted from another source",
   "rejected_at": "2026-09-20T17:17:02.283684Z",
@@ -140036,14 +140108,6 @@
   "raw_title": "Amazon Essentials Men Lightweight Water-resistant Packable Puffer Jacket (Prime Exclusive Deal) $9.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T17:28:22.701464Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "WORKPRO 9PC Impact Socket Driver Extension Bar Set 1/4\" 3/8\" 1/2 Drive Extension, $10.94, free shipping, ebay",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T17:17:18.956700Z",
   "code": "not_checked",
   "public": false
  }
