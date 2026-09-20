@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "413 pcs LEGO Technic Deep-Sea Research Submarine Toy $28.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+3) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-20T22:08:51.648582Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Wilton Pipe & Bench Vise, 6\" Jaw Width, 9\" Max Jaw Opening, 6-5/8\" Throat (Model C-3) $1799.92",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-20T22:08:51.648582Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$19.96 | PAW Patrol: Ultimate Film & TV Collection (DVD) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-20T22:08:51.648582Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "206-Piece LEGO Disney and Pixar’s Toy Story Celebration Train & RC Car Toddler Toy $31.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-20T22:03:21.689576Z",
@@ -138684,30 +138708,6 @@
   "raw_title": "Intex Dura-Beam Deluxe 20\" Raised Air Mattress, with Built-in Pump, Queen $76.99 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T22:12:58.213803Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Walmart’s Insulated Beach Tote Bags Are Just $9.98 (Reg. $20)!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T22:07:21.100299Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Hisense 55\" M7 Mini-LED QLED 4K UHD Google Smart TV (55M7SG, 2026 Model) $284",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T22:07:21.100299Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "6-Pc WORKPRO Magnetic Screwdriver Set w/ Slotted & Phillips Drivers (Pink) $10.95",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T22:07:21.100299Z",
   "code": "not_checked",
   "public": false
  }
