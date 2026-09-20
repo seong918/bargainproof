@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Ekouaer Long Nightgowns for Women Soft House Dress Plus Size Moo Moos $12.49",
+  "reason": "Posted at $12.49, but Amazon showed $29.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-20T13:47:14.732417Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LG 24\" IPS FHD 100Hz LCD Monitor (Matte Black, 24BR400-B) $94.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T13:47:14.732417Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "1138-Piece LEGO Friends Plant Café & Flower Shop Building Set (42671) $68 + Free Shipping",
   "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-20T13:41:57.011436Z",
@@ -140612,14 +140628,6 @@
   "raw_title": "$249: EGO POWER+ 56V Cordless String Trimmer & Leaf Blower Combo Kit, 2.5Ah Battery & Charger(ST6151LB) at Lowe's",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T13:51:10.414757Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "65\" TCL QM9K Series - $999 (75\" $1499)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T13:45:53.560133Z",
   "code": "not_checked",
   "public": false
  }
