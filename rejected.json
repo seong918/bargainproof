@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon – FEILERN 10-Piece Black Bathroom Hardware Set - $33.49 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-20T07:33:13.411223Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$11.99* | Akira (4K UHD Blu-ray + Blu-ray) at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-20T07:33:13.411223Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – JUSTFASHIONNOW Women’s Long-Sleeve Mock-Neck Tunic Tops - $7.79–$11.39 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-20T07:27:39.070692Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – WPW 21-Oz 8-in-1 Water-Based Fire Extinguishers - $17.99–$23.99 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-20T07:27:39.070692Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Apasiri Beef-Flavored Dog Chew Bone - $5.99 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-20T07:27:39.070692Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Chefman - Iceman Mini Portable Black Personal Fridge Cools Or Heats and Provides Compact Storage For Skincare, Snacks, Or 6 12oz Cans $44.04",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-20T07:27:39.070692Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "McCormick Lemon & Pepper Seasoning, 3.5 oz (Pack of 6) $10.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-20T07:27:39.070692Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon – Nikoglly 2-Pack 4MP Wireless Outdoor Security Cameras - $35.99 w/ Code",
   "reason": "Community score too low (+1) to pass without a price check — needs promo code, multi-pack, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-20T07:22:05.457948Z",
@@ -140692,38 +140748,6 @@
   "raw_title": "Dreame FloorX 301 Self-Propelled Wet Dry Vacuum Mop Combo w/ Auto Self-Cleaning (Black) $129.99 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T07:38:26.930005Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Classic Accessories 55-461-031501-00 Veranda Water-Resistant 70 Inch Round Patio Table & Chair Set Cover with Umbrella Hole,Pebble,Medium, Outdoor Table Cover $54.99",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-06T07:32:50.444849Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$21.59 Walgreens PICK UP AC Gillette Fusion5 Razor Blades for Men, Refills No scent - 8.0 ea",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T07:32:50.444849Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$9.74 Target Pick up Intex Durabeam 10\" Twin Size Air Mattress",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T07:27:14.258405Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$199.99 ($190 Target red card) Apple AirPods Pro 3 Wireless Earbuds with Active Noise Cancellation",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T07:27:14.258405Z",
   "code": "not_checked",
   "public": false
  }
