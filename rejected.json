@@ -1,5 +1,21 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$63.69 | Bose SoundLink Micro Speaker Gen 1, Stone Blue (Certified Renewed) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-20T19:51:28.967486Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Arizona Diet Green Tea Bottles 12-Pack Just $8.64 Shipped on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T19:51:28.967486Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Portable 4-Pocket Trading Card Binder for $13 + free shipping w/ Prime",
   "reason": "Not evaluated",
@@ -139404,38 +139420,6 @@
   "raw_title": "Nike Men's Club Heavyweight Balloon Pants (2 Colors) from $20.37",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T19:53:17.165165Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$58.07: VEVOR 4-Person 4-Season Hot Tent with Stove Jack, Waterproof M Size at Amazon",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-06T19:47:44.130319Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Shark ChillPill 3-in-1 Personal Cooling System w/ Cooling Plate for $120 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T19:47:44.130319Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "TRINITY 18\" x 16\" x 13\" Stainless Steel Utility Sink with Pull-out Faucet $259.99 free Shipping Costco.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T19:47:44.130319Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Lark Manor 73.2\" Wide Modern Soft Upholstered Power Reclining Sofa w/ USB Port (Beige) $480 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T19:47:44.130319Z",
   "code": "not_checked",
   "public": false
  }
