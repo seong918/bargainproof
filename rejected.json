@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon – Gymdin 3-Piece Carbon Steel Baking Sheet Set - $16.49 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-20T08:06:33.651738Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – LitBear Rechargeable 10X/1X Lighted Travel Makeup Mirror - $16.49 w/ Code",
+  "reason": "Community score too low (+2) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-20T08:06:33.651738Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – PUREAMOR 2-Pack Pheromone Perfume Oil Roll-Ons - $9.99–$59.99 w/ Code",
+  "reason": "Community score too low (+3) to pass without a price check — needs promo code, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-20T08:06:33.651738Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Revopoint MIRACO Plus All in One 3D Scanner $1,682.23 + Free Shipping",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-20T08:06:33.651738Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – SmartTrends 2-Pack 110ml Rechargeable Electric Salt & Pepper Grinders - $18.84 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-20T08:00:59.960804Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$29.83: Columbia Men's PFG Tamiami II Long Sleeve Shirt, White or Cool Grey (Various Sizes XS-5X Tall)",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-20T08:00:59.960804Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon – Teexpert 1.3-Gal Concentrated Mulch Glue - $18 w/ Code",
   "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-20T07:55:28.116268Z",
@@ -140676,46 +140724,6 @@
   "raw_title": "$49.88 Walmart Tracfone Motorola Moto G Power 2024, 5G, 128GB, Black, Includes 1 Year $125 Service Plan",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-06T08:11:14.160297Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas men Runfalcon 5 Running Shoes $21 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T08:05:58.310818Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$180 FS STAPLES Sansui 34\" Curved WQHD 165Hz LED AMD FreeSync Gaming Monitor",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T08:05:58.310818Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$199.99 FS STAPLES Acer Aspire Lite 15.6\" Student Laptop, Intel Core N150 (2025), 4GB RAM, 128GB SSD, Win 11 S, 1 Year of M365",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T08:05:58.310818Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Microsoft Surface Laptop 4 (Refurb): 13.5\" 3:2 IPS Touch, i5-1145G7, 16GB LPDDR5, 256GB SSD, Win 11 Pro w/ 1-year Allstate warranty $295.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T08:00:41.445654Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Multi Charging Cable, USB C Splitter Cable, 3 in 1 Fast Charging Cord with 3 Type-C Male Port Compatible with Cell Phones Tablets and More - 2Pack 4FT Silver $5",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T08:00:41.445654Z",
   "code": "not_checked",
   "public": false
  }
