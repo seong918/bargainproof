@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Snapple Zero Sugar Half 'n Half Tea, 16 fl oz recycled plastic bottle, Pack of 12~$9.99 With S&S @ Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-20T12:31:13.897786Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Nature Made 30mg Zinc Dietary Supplement (100-Tablets) $3.08",
+  "reason": "Posted at $3.08, but Amazon showed $4.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-20T12:31:13.897786Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CURT Manufacturing 45260 Class III 2\" Ball Mount(Pull Force: 7500 pounds) $19.99 + Free S&H w/ Prime or $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T12:31:13.897786Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$37 FS AMAZON (most popular sizes) Spenco Max Shoe Insoles(FSA&HSA Eligible)Orthotic Metatarsal Arch Support Inserts, Absorbs Shock,Reduces Over-Pronation,",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-20T12:25:51.012073Z",
@@ -140652,22 +140676,6 @@
   "raw_title": "Hoover Spotless Mini Portable Spot Cleaner FH12300, Carpet and Upholstery Cleaner for Stairs, Furniture, Pet Messes and Cars, Compact Design, Easy Fill Tank, $79.99",
   "reason": "Same deal was already posted from another source",
   "rejected_at": "2026-09-06T12:33:48.962125Z",
-  "code": "duplicate",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$1.49 Walgreens Clearance Paper Mate Profile Ballpoint Pen 1.0MM Business, 4.0 ea FPU at $10 YMMV",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T12:28:30.823598Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Swissgear 1900 Scansmart TSA-Friendly Backpack (Fits 17\" Laptop, Black) $61.73 + Free Shipping",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-06T12:28:30.823598Z",
   "code": "duplicate",
   "public": true
  }
