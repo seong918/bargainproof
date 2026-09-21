@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[Resale] $19.99* | Google Nest Temperature Sensor (2nd Gen) (Used - Like New) at Amazon",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-21T20:12:04.005803Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Russound In Ground 10\" Subwoofer AW10-LSUB-BR 8 ohm $119.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T20:12:04.005803Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$8* | Tara Toys 3-in1 Disney Stitch Activity Set (Pixel Art Set, Pour N Paint Set & Design A Vinyl Set) at Amazon",
   "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-21T20:06:33.534146Z",
@@ -101384,14 +101400,6 @@
   "public": true
  },
  {
-  "source": "slickdeals",
-  "raw_title": "[Resale] $19.99* | Google Nest Temperature Sensor (2nd Gen) (Used - Like New) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-10T23:54:57.226391Z",
-  "code": "low_score",
-  "public": true
- },
- {
   "source": "dealcatcher",
   "raw_title": "SKILSAW SPT79-00 15-Amp Medusaw Worm Drive Saw for Concrete, 7\" $246.24",
   "reason": "Not evaluated",
@@ -138804,54 +138812,6 @@
   "raw_title": "BJs Members: 75\" Hisense QD65SR Series Hi-QLED Quantum Dots 4K Smart Roku TV w/ 3-Year Warranty $499.99 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T20:13:48.757676Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Astercook 22-Piece Nonstick Cookware Set for $33 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T20:08:13.108055Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Mr. Sketch Scented Markers 8-Count Just $6 Shipped on Amazon",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T20:08:13.108055Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Postmates $10 off $25+ Nationwide",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T20:08:13.108055Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Insignia 45W USB-C Wall Charger (White) $9.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T20:08:13.108055Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "AMD Ryzen Threadripper PRO 5955WX 16-Core 4.0GHz Socket sWRX8 280W Desktop Processor $779.99 or less + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T20:08:13.108055Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Lowe's Kobalt XTR 3-1/2-in 21 -Degree Cordless Clip head/Roundhead Framing Nailer $259",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T20:08:13.108055Z",
   "code": "not_checked",
   "public": false
  }
