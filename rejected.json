@@ -1,5 +1,21 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Kooper 800mAh Taller Solar Pathway LED Lights (Warm White, 8-Pack) $29.99",
+  "reason": "Posted at $29.99, but Amazon showed $39.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-21T04:10:24.162919Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Lehom 4-Tier Slim Rolling Storage Cart (7.08\" x 15.35\" x 36.02\") $19.79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T04:10:24.162919Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Women's Marino Wool Blend Socks 5Pk BOGO ±$9@ Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
@@ -138052,14 +138068,6 @@
   "raw_title": "Metabo HPT 3-1/2\" Pneumatic Palm Nailer $24.50 + Free Store Pickup at Lowe's or Free Shipping on $35+",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T04:11:19.514644Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Potensic ATOM SE 4K GPS Drone Under 249g Gray $135.2 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T04:05:42.235570Z",
   "code": "not_checked",
   "public": false
  }
