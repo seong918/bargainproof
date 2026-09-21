@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "d57a236b0b1a",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20040879-amazon-cooncxen-65w-usb-c-charger-block-set-17-99-w-code?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "Amazon – COONCXEN 65W USB-C Charger Block Set - w/ Code",
+  "raw_title": "Amazon – COONCXEN 65W USB-C Charger Block Set - $17.99 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0GV78HVKM",
+  "deal_total_cents": 1799,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 3599,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 3599,
+  "amazon_url": "https://www.amazon.com/dp/B0GV78HVKM",
+  "amazon_checked_at": "2026-09-21T02:36:28.752197Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0GV78HVKM",
+  "image_url": null,
+  "published_at": "2026-09-21T02:36:24.620927Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "c810565a49b1",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20041518-2-75-smith-wesson-m-p-bodyguard-clip-point-folding-knife-black-10-31-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
