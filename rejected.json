@@ -1,5 +1,61 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "adidas Men's Lite Racer Adapt 8.0 Wide Shoes for $34 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T11:16:02.456055Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas Men's Jabbar Lo Shoes for $32 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T11:16:02.456055Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas x Coca-Cola Men's Superstar II Shoes for $65 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T11:16:02.456055Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Army 250th Anniversary Gold-Plated 1.57\" Challenge Coin for $9 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T11:16:02.456055Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Prime Only: Cooler Master MASTERLIQUID 240 Core II 9.4\" (240 mm) Simple Water Cooling CPU Radiator Cooler $41.30",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T11:16:02.456055Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "eufy Security SoloCam S340 3K Dual-Lens Solar Wireless Outdoor Security Camera – $159.99 (Free S&H / Prime)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T11:16:02.456055Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "6-Pack 10.5-Oz Vacplus Moisture Absorber for Small Spaces (Fragrance Free) $9.89 & More w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-21T11:16:02.456055Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$39.99 | Transformers Toys CYBERWORLD Bumblebee Power Spark Energon Surge at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
