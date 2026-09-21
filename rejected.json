@@ -1,5 +1,13 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Jogrytece 3-in-1 4ft USB Multi Charging Cable (2-Pack) $4.99",
+  "reason": "Posted at $4.99, but Amazon showed $9.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-21T04:21:24.528693Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
   "source": "slickdeals",
   "raw_title": "701-Piece LEGO Star Wars: The Mandalorian and Grogu Anzellan Starship $61.99 + Free Shipping",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
@@ -138028,22 +138036,6 @@
   "raw_title": "$19.99 Sale for Ugly Betty: The Complete Series",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T04:22:32.812224Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$14.99 Sale for the Complete Box Set of X-Men: The Animated Series (1992)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T04:16:56.842924Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Kobalt 25' x 3/8\" 300-PSI Hybrid PVC/Rubber Air Compressor Hose $16.98 + Free Store Pickup at Lowe's or Free Shipping on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T04:16:56.842924Z",
   "code": "not_checked",
   "public": false
  }
