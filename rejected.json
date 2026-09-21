@@ -1,6 +1,14 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "LISEN Qi2.2 25W MagSafe Car Mount Charger w/ Cooling Fan (W116 PRO) $23 + Free Shipping",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-21T23:39:40.932478Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "GAIARENA Outdoor Indoor Rug Turf Mat, 75.6 * 49.6 in (6.3 * 4.13ft, 0.71 in Thick) $45",
   "reason": "Posted at $45.00, but Amazon showed $89.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-21T23:34:17.957568Z",
@@ -138004,22 +138012,6 @@
   "raw_title": "Waist Tool Belts with 13 Pockets,Waxed Canvas Tool Apron,Nail Apron,Woodworking Pouch for Men and Women,Adjustable Length from 28 to 45 Inches (Black) $8.97",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T23:43:58.738092Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "BalanceFrom Bike Trainer Stand for $28 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T23:38:22.364899Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "WALMART $4.47 get $1.50 Walmart Cash all Free Clear Liquid Laundry Detergent, 30 oz, 24 Loads",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T23:38:22.364899Z",
   "code": "not_checked",
   "public": false
  }
