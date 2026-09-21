@@ -1,5 +1,37 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "GAIARENA Golf Training Aid Wrist Hinge Trainer Brace, Effective Golf Swing Training Aids $13",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-21T00:07:06.955146Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "NEW McCormick Finishing Sugars Just $3.67 on Walmart.com (Reg. $6.27)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T00:01:33.763274Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Amazon Grocery Smoked BBQ Rub & Seasoning 25-oz. Jar for $3.76 via Sub & Save + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T23:56:00.819149Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Dockers Men's 5-Pocket Straight Fit Stretch Pants for from $11 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-20T23:39:24.723414Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "George Men's Knit Fleece Shirt Jacket for $13 + free shipping w/ $35",
   "reason": "Not evaluated",
@@ -138588,94 +138620,6 @@
   "raw_title": "DEWALT 20V AC/DC Drum Fan, DXF1850B, 18 IN $127.49",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T00:09:44.526135Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "(pair) Energy CF-30 Floorstanding Speakers $149 + Free S/H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T23:58:31.452037Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Mainstays Resort Sling Fabric Beach Chair, 2 Pack, Beige with Blue Stripe $33.18",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T23:58:31.452037Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Fireball Sweet Heat Chili Seasoning Mix 1.25 oz $1.40",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T23:52:55.599028Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Hisense M7 55M7SG 55\" 4K QLED Smart TV for $284 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T23:52:55.599028Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "USDA Choice Black Angus Filet Mignon 16 Total count, 5 Lbs. $10.62 per filet!! $169.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T23:52:55.599028Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$3.97 get $2 Walmart Cash 5.2 oz Crest Premium w/Scope TP or 5.2 oz Deep Clean Foaming Toothpaste FS Plus or pick up",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T23:52:55.599028Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "USDA Choice Black Angus Filet Mignon, 16 Total count, 5 Lbs. $169.99",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-06T23:52:55.599028Z",
-  "code": "duplicate",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Select Crest Toothpaste Products + $2 Walmart Cash from $2.65 + Free Pickup",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T23:41:41.188707Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Primula Brew Buddy Portable Pour Over Coffee Filter for $7 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T23:36:05.938901Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "8' x 5.5' DuraMate Double Door Metal Reinforced Plastic Vinyl Storage Shed w/ Foundation (Floor Not Included) $449 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T23:36:05.938901Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "adidas Team Issue Duffel Bag Medium for $22 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-06T23:30:48.623061Z",
   "code": "not_checked",
   "public": false
  }
