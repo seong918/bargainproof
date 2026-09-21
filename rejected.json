@@ -1,6 +1,86 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Escape Plan 2: Hades (Blu-Ray + DVD + Digital) $9 Amazon.com",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-21T14:21:00.092822Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Top Treasures Christmas Village Library $28.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T14:21:00.092822Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Milwaukee SAWZALL Wood/Metal Cutting Reciprocating Saw Blade 10-Piece Set + 5 pc TORCH blades $19.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T14:21:00.092822Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "10-Piece Tasty Kitchen Knife Set w/ Block (White) $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T14:21:00.092822Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Three Posts Lorraine 54\" TV Stand w/ Sliding Barn Doors $76.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T14:21:00.092822Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Igloo Playmate KoolTunes 14 QT Hardsided Cooler with Built-In Bluetooth Speaker $69.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T14:21:00.092822Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Greenworks 60V 21\" Cordless Battery Self-Propelled Lawn Mower w/ Two 4.0Ah Batteries & Dual Port Charger $382.50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T14:21:00.092822Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "DCA 20V 22\" Cordless Hedge Trimmer for $35 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T14:21:00.092822Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Members Only: MSI Raider 16 Max HX (2026): 16\" QHD+ 240Hz OLED, Intel Ultra 9 290HX Plus, RTX 5070Ti, 32GB DDR5, 1TB SSD $1999.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T14:21:00.092822Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bose QuietComfort Ultra Earbuds - Refurbished $149 ( 5 Colors) Bose.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T14:21:00.092822Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "4K+4K Dash Cam Front and Rear, Enhanced Night Vision, Included 128GB Card $88.93",
   "reason": "Posted at $88.93, but Amazon showed $178.86 when we checked — the deal is probably over",
   "rejected_at": "2026-09-21T14:15:47.218914Z",
@@ -138468,54 +138548,6 @@
   "raw_title": "ORICO 10Gbps Magnetic M.2 NVMe Enclosure with Card Reader for iPhone $32.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T14:22:19.411741Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Mpatiby 4-in-1 USB-C 5' Charging Cable $4.67",
-  "reason": "Posted at $4.67, but Amazon showed $8.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-07T14:17:02.821666Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Michael Kors Jet Set Travel Small Signature Logo Wristlet $26.10",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T14:17:02.821666Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "JD Sports Flash Sale: Up to 50% off + extra 25% off + free shipping w/ $75",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T14:17:02.821666Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Sol de Janeiro Perfume Mist Only $12 Shipped on Amazon (Regularly $26)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T14:17:02.821666Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Nike Sportswear RPM Backpack $39.57",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T14:17:02.821666Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$1275: HP HyperX Omen 15 (2026) Gaming Laptop: (Wohoo it's AMD Ryzen 7 8745HX Not Intel), NVIDIA RTX 5060, 512GB PCIe SSD",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T14:17:02.821666Z",
   "code": "not_checked",
   "public": false
  }
