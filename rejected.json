@@ -1,5 +1,13 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "701-Piece LEGO Star Wars: The Mandalorian and Grogu Anzellan Starship $61.99 + Free Shipping",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-21T04:15:52.939670Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
   "source": "techbargains",
   "raw_title": "Kooper 800mAh Taller Solar Pathway LED Lights (Warm White, 8-Pack) $29.99",
   "reason": "Posted at $29.99, but Amazon showed $39.99 when we checked — the deal is probably over",
@@ -69393,14 +69401,6 @@
  },
  {
   "source": "slickdeals",
-  "raw_title": "701-Piece LEGO Star Wars: The Mandalorian and Grogu Anzellan Starship $61.99 + Free Shipping",
-  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-13T23:22:31.725661Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
   "raw_title": "Sojag 8' x 5' Denali Outdoor Lockable Steel Storage Building with Windows, Anthracite $465.12",
   "reason": "Same deal was already posted from another source",
   "rejected_at": "2026-09-13T23:12:02.725931Z",
@@ -138044,30 +138044,6 @@
   "raw_title": "Kobalt 25' x 3/8\" 300-PSI Hybrid PVC/Rubber Air Compressor Hose $16.98 + Free Store Pickup at Lowe's or Free Shipping on $35+",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T04:16:56.842924Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "OVLLAN Office Chair Wheels, Outstanding Replacement Roller Blade Wheels for Office Gaming Desk Chairs $11.99",
-  "reason": "Posted at $11.99, but Amazon showed $16.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-07T04:11:19.514644Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$40-50 Sam's Cash on Oura Ring 5",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T04:11:19.514644Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Metabo HPT 3-1/2\" Pneumatic Palm Nailer $24.50 + Free Store Pickup at Lowe's or Free Shipping on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T04:11:19.514644Z",
   "code": "not_checked",
   "public": false
  }
