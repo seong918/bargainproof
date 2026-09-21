@@ -1,6 +1,70 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "Toro Universal Gutter Cleaner Kit for $34 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T22:24:10.032988Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SCUF Envision Pro V2 Wireless PC Gaming Controller (Various Colors) $117 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T22:24:10.032988Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SanDisk 512gb Switch memory card - $50@Walmart (regularly $98) - IN STORE ONLY - YMMV",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T22:24:10.032988Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SimpliSafe Video Doorbell Pro Wired Camera (White) $49.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T22:24:10.032988Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "126-Piece LEGO Sonic the Hedgehog Sonic: Speedster Lightning $7.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-21T22:18:38.931951Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Roku Pro Series 65\" OLED 4K 120Hz Smart TV $799.99",
+  "reason": "Posted at $799.99, but Amazon showed $1,199.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-21T22:18:38.931951Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "007 First Light - PC [Steam Online Gde] $49.99 st Newegg.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T22:18:38.931951Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Open-Box] Lenovo Legion Go S 8\" Gaming Handheld: 120Hz IPS Touchscreen, AMD Ryzen Z2 Go CPU, 16GB RAM, AMD Radeon GPU, 512GB SSD from $450 + Free Store Pickup",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T22:13:08.881541Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
   "raw_title": "NFL 5-Gallon Bucket for $9 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-21T22:07:38.892824Z",
@@ -138100,86 +138164,6 @@
   "raw_title": "Panasonic W85 Series TN-75W85CPS 75\" 4K UHD Smart TV for $800 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T22:27:17.106563Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Alba Leather Power Reclining Sofa w/ Power Headrests for $1,000 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T22:21:43.230951Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Set of 2 Winston Porter 18.9\" Wooden 2 Drawer Nightstand (Multiple Colors) $139.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T22:21:43.230951Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "TERRO Ant Dust, Ant Powder Killer for Indoors and Outdoors $5.49 or less",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T22:21:43.230951Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$1.99 | How to Get Rich: One of the World's Greatest Entrepreneurs Shares His Secrets (eBook) by Felix Dennis",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-07T22:16:25.778887Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Vego Garden 14\" Tall 10-in-1 Modular Metal Raised Garden Bed Kit for $120 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T22:16:25.778887Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Score a Dairy Queen Dipped Cone for Just $1",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T22:16:25.778887Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Craftsman 1/3 HP Thermoplastic Submersible Water Pump for $55 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T22:11:08.577901Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Five Auntie Anne's Restaurant $15 Gift Cards ($75 Value) for $60 + email delivery",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T22:11:08.577901Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Target YMMV Clearance: Apple iPhone 16 (128GB) - Pink $464.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T22:11:08.577901Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Set of 2 Latitude Run Storage End Table w/ 2 Drawer Unit & Charging Ports & Plugs (Walnut) $159.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T22:11:08.577901Z",
   "code": "not_checked",
   "public": false
  }
