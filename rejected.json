@@ -1,5 +1,21 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "HmDecor Solar Pathway Lights 8-Pack for $21 w/ Prime + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T10:20:46.982125Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas Men's Adizero Select 3.0 Shoes for $54 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T10:20:46.982125Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Casio W-738H Series 100M Water-Resistant 10-Year Battery Digital Sports Watch $38.68",
   "reason": "Out of stock on Amazon when we checked",
@@ -138004,14 +138020,6 @@
   "raw_title": "Dobyns 7'1'' Rods Kaden Spinning Rod, 1-Piece, Fast Action $69.99 + Free S&H w/ Prime at Woot!",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T10:21:19.840499Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "KFC Family Feast Box for $25",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T10:15:42.969358Z",
   "code": "not_checked",
   "public": false
  }
