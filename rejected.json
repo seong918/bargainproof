@@ -1,6 +1,30 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "AstroAI Men's Windproof Balaclava Ski Mask for $7 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T09:42:08.688502Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Leagend 1,000A Permanent Mount Super Capacitor Jump Starter for $120 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T09:42:08.688502Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "547-Piece Stainless Steel Metric Flat Washer Assortment Set w/ Storage Case $4.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-21T09:42:08.688502Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "dealnews",
   "raw_title": "Macy's Monday Markdowns Clearance Sale: Up to 80% off + free shipping w/ $39",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-21T09:36:40.519167Z",
@@ -56637,14 +56661,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T09:18:03.611326Z",
   "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Leagend 1,000A Permanent Mount Super Capacitor Jump Starter for $120 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T09:18:03.611326Z",
-  "code": "not_checked",
   "public": false
  },
  {
