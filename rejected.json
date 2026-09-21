@@ -1,5 +1,13 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "24-Pack Energizer MAX AAA Alkaline Batteries $6.76 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-21T11:54:42.256881Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "dealnews",
   "raw_title": "Maklulu Hooded Long Velvet Cloak Cape Costume for $10 + free shipping w/ Prime",
   "reason": "Not evaluated",
@@ -137932,22 +137940,6 @@
   "raw_title": "$4.58 Dearfoams Papa Bear Comfort Slippers (size 9-10 only)",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T11:56:33.437009Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Intex Dura-Beam Standard Downy Twin Air Mattress for $13 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T11:50:56.011504Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Alpine Design Multiwear Sling Bag (Faded Evergreen) $10.48 + Free Shipping on $49 $8.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T11:50:56.011504Z",
   "code": "not_checked",
   "public": false
  }
