@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "FETIONS Air Cleaner with Fragrance Sponge Sleep Mode 3-in-1 Filtration System, Compact with H13 Filter for Pet Dander Pollen Smoke Dust Odor, White,1 Pack $17.99",
+  "reason": "Posted at $17.99, but Amazon showed $35.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-21T03:09:33.763442Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "The Lord of the Rings: The Fellowship of the Ring Collector's Edition (Hardcover) $12.21 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-21T03:09:33.763442Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "VTech Drill & Learn Toolbox Pro $13.43 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-21T02:58:31.090478Z",
