@@ -1,5 +1,181 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$10.97 | Transformers CYBERWORLD Megatron Cyber Changers 4-Inch Action Figure at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-21T12:22:01.470169Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "MOESAPU 1200/1500Yards Golf Rangefinder with Slope, 7X Magnification with Flag Lock Vibration, Rechargeable, Magnetic Mount, IP54 Waterproof $29.39",
+  "reason": "Posted at $29.39, but Amazon showed $41.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-21T12:22:01.470169Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Head Country Bar-B-Q Sauce (Original) 4-Pack 160-Oz $59.92",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T12:22:01.470169Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Endless Summer Hydrangea Bloomstruck, 2 Gallon $26.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T12:22:01.470169Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "VEVOR Food Dehydrator Machine, 6 Stainless Steel Trays, 400W $71.90",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T12:22:01.470169Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "roborock Qrevo S5V Robot Vacuum and Mop with FlexiArm Edge Mopping $499.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T12:22:01.470169Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Roboseal Electric Mason Jar Vacuum Sealer Kit with 50 Lids $24.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T12:22:01.470169Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "DARKBEAM USB-C Rechargeable LED Headlamp $5.39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T12:22:01.470169Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Jet 10\" 1HP Benchtop Drum Sander w/ Variable-Speed Control $694.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T12:22:01.470169Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Lesure ApexCloud Cooling Blanket for Dogs & Cats 2-Pack $20.39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T12:22:01.470169Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Meykwod Heavy Duty Garden Hose Holder 150FT Capacity $15.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T12:22:01.470169Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Cricut Premium Fine-Point Replacement Blade 5-Count $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T12:22:01.470169Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "TECKNET TK-BS004 IP67 Portable Bluetooth 5.4 Speaker with TWS Pairing & 30H Playtime $11.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T12:22:01.470169Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Panasonic 55 inch 4K QD-Mini LED Google TV $449.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T12:22:01.470169Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LEGO Creator Fierce Shark w/ a Treasure Chest 379-Piece Building Toy $27.89",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T12:22:01.470169Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Maelstrom Travel Backpack w/ Shoe Compartment for $20 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T12:22:01.470169Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Dog Car Seat Cover for Back Seat, PU Leather with Full Door Protection $29.99",
+  "reason": "Posted at $29.99, but Amazon showed $49.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-21T12:16:30.197702Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "300T Thickened Automotive Glass Sunshade for $6 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T12:16:30.197702Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Wfiia 9+3 Pack Vacuum Storage Bags for $10 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T12:16:30.197702Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Cuisinart Griddler w/ Smoke-Less Mode $77.97 + Free Store Pickup at Bloomingdale's",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T12:16:30.197702Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Target Halloween Costumes Deals: Up to 60% off + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T12:10:58.279455Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Spy Cedros Crystal Happy Bronze Gold Mirror $22.99 + Free S&H w/ Prime at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T12:10:58.279455Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "8-Night Bangkok, Krabi & Phuket Hotel and Tour Vacation for From $2,298 for 2",
   "reason": "Not evaluated",
@@ -137804,126 +137980,6 @@
   "raw_title": "Owala 40oz FreeSip Stainless Steel Water Bottle - Sandy Shores $32.49",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T12:23:07.544503Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Hoxida 3-in-1 1000-Lumen Waterproof Rechargeable EDC Flat Flashlight $7.19",
-  "reason": "Posted at $7.19, but Amazon showed $25.19 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-07T12:17:50.519577Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Michael Kors Jet Set Small Signature Logo Camera Crossbody Bag - Powder Blush $44.10",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T12:17:50.519577Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Olive Garden Never-Ending Pasta Bowl Deal for $15",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T12:17:50.519577Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "NULAS Airtight Food Storage Containers with Lids, 4pcs BPA-Free Plastic Meal Prep Containers & Kitchen Pantry Organization Canisters $19 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T12:17:50.519577Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Costco Members: Timber Ridge Butterfly Padded Folding Loveseat $29.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T12:17:50.519577Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Certified Refurb Garmin epix Gen 2 Sapphire 47mm Smartwatch for $256 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T12:12:33.128174Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "The North Face Recon Everyday Laptop Backpack for $94 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T12:12:33.128174Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Refurb Unlocked Samsung Galaxy S23+ 256GB Smartphone for $220 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T12:12:33.128174Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Lyca Mobile Labor Day Deals for Unlimited Plus for $13 for 9 months, more",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T12:12:33.128174Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "We Want All of These $18.98 Sam’s Club Halloween Sweaters!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T12:12:33.128174Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ymmv. nioh 3 ps5 walmart (wheeling, IL) $25",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T12:12:33.128174Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Leverage, The Librarians complete series $19.99, The Lazarus Project $14.99 (vudu/fandango)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T12:12:33.128174Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Certified Refurb Sony ULT Field 1 Wireless Portable Bluetooth Speaker for $40 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T12:07:14.962584Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Carhartt Men's C003 Arctic Traditional Quilt Lined Coat (M only) for $74 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T12:07:14.962584Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Electric Foot File Just $11.99 on Amazon (Reg. $27) – Includes Foot Cream!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T12:07:14.962584Z",
   "code": "not_checked",
   "public": false
  }
