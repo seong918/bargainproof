@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Greenworks 40V (AC/DC) 2000-Lumen LED Work Light, 360° Head Rotation, Tripod Mountable, Portable, Indoor/Outdoor Light, Flood Light, Tool-Only $49.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-21T07:29:28.238021Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M12 FUEL 12V Lithium-Ion Brushless Cordless Hammer Drill/Impact Driver Combo Kit 2-Tool w/High Output 5.0Ah Battery $219",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T07:29:28.238021Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "M12 FUEL 12-Volt Lithium-Ion Brushless Cordless HACKZALL Reciprocating Saw Kit with XC High Output 5.0 Ah Battery $199",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-21T07:23:56.020012Z",
@@ -68290,14 +68306,6 @@
  {
   "source": "slickdeals",
   "raw_title": "2-Piece Ozark Trail Wayfarer 5'6\" Fiberglass Spinning Rod & Reel Combo (Orange) $9.97 + Free Shipping w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T07:21:51.444476Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Milwaukee M12 FUEL 12V Lithium-Ion Brushless Cordless Hammer Drill/Impact Driver Combo Kit 2-Tool w/High Output 5.0Ah Battery $219",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-14T07:21:51.444476Z",
   "code": "not_checked",
@@ -137884,14 +137892,6 @@
   "raw_title": "Labor Day (9/7/26) Only - Pampers Swaddlers Ultra Diapers Sizes 3-7, $36.79 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T07:38:37.330966Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "LEGO Harry Potter Hogwarts Express Book Nook Building Set for $77 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T07:27:29.457150Z",
   "code": "not_checked",
   "public": false
  }
