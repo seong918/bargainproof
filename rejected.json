@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "MacBook Pro 14\" MGDQ4LL/A (Early 2026) 14.2\" Laptop Computer - Silver Apple M5 Max 18-Core CPU; 36GB Unified Memory; 2TB Solid State Drive; 32-Core GPU $2999.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T06:39:36.887987Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[NEW] $11.47 | Cuisipro Stainless Steel Egg Poacher, Set of 2 at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-21T06:34:04.366778Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$8.99 | Justice League: Crisis on Infinite Earths, Part Two (Blu-ray + Digital HD) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-21T06:28:32.149811Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS] $16.23 | 12-Pack 8.5-Oz SEEDS OF CHANGE Organic Jasmine Rice at Amazon ($1.35 each)",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-21T06:28:32.149811Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $31.34 | 4 × 6-Pack 11.25-Oz Softsoap Antibacterial Liquid Hand Soap (Cool Splash) ($7.84 each) at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-21T06:22:58.760832Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$29.99 | Ingenuity Baby Base 2-in-1 Booster Feeding & Floor Seat, Self-Storing Tray at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-21T06:22:58.760832Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $2.84 | 8-Oz Aveeno Baby Calming Comfort Moisturizing Body Lotion at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-21T06:22:58.760832Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$1999.99 | Lenovo 16\" ThinkPad T16 Gen 5 Multi-Touch Laptop Copilot+ PC (32GB LPDDR5x | 512GB M.2 SSD) at Amazon",
   "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-21T06:17:27.860611Z",
@@ -137718,133 +137774,5 @@
   "rejected_at": "2026-09-07T06:59:31.546075Z",
   "code": "price_mismatch",
   "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Bissell PowerClean DualBrush 280W Self-Standing Vacuum, 4196K $259.99",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-07T06:48:19.217361Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "60-Piece Black Silverware Set - Stainless Steel Silverware Set for 12 for Home Kitchen Restaurant $31.99",
-  "reason": "Posted at $31.99, but Amazon showed $63.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-07T06:48:19.217361Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Eureka Lightweight Cordless Vacuum Cleaner, Rose Red, NEC101 $72.99",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-07T06:42:41.911848Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Ingersoll Rand 10P Edge Series Premium Air Tool Oil $11.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T06:42:41.911848Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "KS6 Washlet Electric Heated Bidet Seat for Elongated Toilet in Cotton White $523.28",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T06:42:41.911848Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Vertuoline Vertuo Compatible Discovery Sampler Coffee & Gran Lungo - Dark Roast (36-Pack) $36.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T06:42:41.911848Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$19.99 | 6-Pack NESCAF Espresso Concentrate Sweet Vanilla Flavored at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T06:42:41.911848Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Middle Earth: Shadow of War (PSDD) PlayStation 4 5 $4.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T06:37:05.769482Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Vampire: The Masquerade Bloodlines 2 (PS5) $15 + Free Shipping w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T06:37:05.769482Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Scott Toilet Paper, Family Rolls Unscented, Family Rolls, 173.0 ea, 12 pack - 2 for $5.50 + AND MORE",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T06:37:05.769482Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "The Precinct (PS5) $16 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T06:37:05.769482Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$149.64 | Thermaltake Toughpower PT 1200W; ATX 3.1; x2 Native PCIe 5.1 12V-2x6 at Amazon",
-  "reason": "Community score too low (+2) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
-  "rejected_at": "2026-09-07T06:31:28.754674Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Stoke Wood Fired Outdoor Pizza Oven 13\"inches - Portable Stainless Steel Pizza Grill, Wood Pellet Outdoor Cooking Pizza Maker $99.99",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-07T06:31:28.754674Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Beurer Deluxe 600 Upper Arm Blood Pressure Monitor Bluetooth $19.67 w/ W+ s/h",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T06:25:51.405946Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[AC] $19.18 | Maxwell’s Urban Hang Suite (30th Anniversary) (Vinyl w/ AutoRip MP3) at Amazon",
-  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-07T06:20:14.264686Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "iPad Magic Keyboard Case for iPad Pro 11-inch (M5), Great Typing Experience, Built-in Trackpad, Function Row, US English - White $225",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T06:20:14.264686Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
