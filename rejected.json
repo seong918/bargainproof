@@ -1,5 +1,21 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Kraft Ranch Dressing 1 Gallon, $7.92, FS Prime, Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T09:20:06.791945Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Chemical Guys Tire Kicker Extra Glossy Tire Shine - 16oz, $4.99, FS Prime, Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T09:20:06.791945Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Merrick Mint Semiquincentennial 250th Anniversary of the US $2 Bill w/ 1976 Four Stamp Strip Panel for $17 + free shipping",
   "reason": "Not evaluated",
@@ -137957,30 +137973,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T09:25:20.554580Z",
   "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$8.39 PRIME 40% off HMCITY Solar Lights Outdoor 120 LED with 3 Lighting Modes, Motion Sensor Wall Lights,IP65 Waterproof Solar Powered for Garden Patio (Back Button 2Packs",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-07T09:19:43.020203Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Cook with Color Glass Mini Low Carb Rice Cooker for $35 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T09:19:43.020203Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Vevor Tools & Garden Sale at Woot for Deals from $15 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T09:19:43.020203Z",
-  "code": "no_signal",
   "public": false
  }
 ]
