@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Ultra-Bright Bike Tail Light, Saddle Mounted, Up to 58% Off $8.49",
+  "reason": "Posted at $8.49, but Amazon showed $16.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-21T09:25:38.910066Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "$50 2025 Half Ounce Gold Superman Coin for $3,995 + shipping varies",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T09:25:38.910066Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Biotene Fluoride Toothpaste for Dry Mouth Symptoms, Fresh Mint, 4.3 oz, $3.19, FS Prime, Woot! $3.15",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T09:25:38.910066Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Drive Medical Two-Button Folding Walker with Wheels, $13.59, FS Prime, Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T09:25:38.910066Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Kraft Ranch Dressing 1 Gallon, $7.92, FS Prime, Woot!",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-21T09:20:06.791945Z",
@@ -137924,54 +137956,6 @@
   "raw_title": "45-Lb VEVOR Rolling Magnetic Sweeper w/ Wheels $29.99 + Free Shipping w/ Prime",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T09:36:34.638440Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Under Armour Women's ColdGear Base 4.0 Leggings $55.77",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T09:30:57.349726Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Under Armour Women's ColdGear Base 3.0 Leggings - Black $48.77",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T09:30:57.349726Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "VEVOR 180° Foldable 2-Tube Shoe Dryer w/ Timer $19.99 + Free Shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T09:30:57.349726Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Under Armour Men's ColdGear Base 4.0 Half Zip Long Sleeve Shirt $61.77",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T09:30:57.349726Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Canon RF-S 10-18mm f/4.5-6.3 IS STM Lens $199.99 + Free Shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T09:30:57.349726Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Under Armour Women's Tech Casual Leggings - Charcoal Light Heather/Black $27.77",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T09:25:20.554580Z",
   "code": "not_checked",
   "public": false
  }
