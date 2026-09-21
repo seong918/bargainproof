@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$12.66 | Singles To Go! Starburst Water Drink Mix, Blue Raspberry, 72 Packets at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-21T17:27:14.039797Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Ayura 100'x1/2\" Metal Shaft Retractable Garden Hose Reel $63.99",
+  "reason": "Posted at $63.99, but Amazon showed $79.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-21T17:27:14.039797Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Zenvid 28-Metric 8-Electrode BIA Digital Smart Scale (BMI, Muscle Mass, More) $43.19",
+  "reason": "Posted at $43.19, but Amazon showed $79.19 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-21T17:27:14.039797Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Aerlang Deep Heat 20-Level Speed 3200RPM Battery Powered Percussion Massage Gun $19.99",
+  "reason": "Posted at $19.99, but Amazon showed $37.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-21T17:27:14.039797Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LETMY Outdoor Solar LED Stake Spot Lights (6-Pack) $19.46",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T17:27:14.039797Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Spenco Max Shoe Insoles Orthotic Metatarsal Arch Support Inserts $37.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T17:27:14.039797Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Lincoln Electric 10 -Pack Contact tip one_size in Copper | KH710 $13.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T17:27:14.039797Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Bruno Marc Men’s Dress Oxfords Casual Derby Sneakers $30.79-$35.98 + Free Shipping w/ Prime",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-21T17:21:43.645802Z",
@@ -139014,61 +139070,5 @@
   "rejected_at": "2026-09-07T17:31:32.071198Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Round Trip New York to Denpasar Bali Indonesia Airfares on Korean Air/Asiana Airlines with 2 Free Checked Bags $818.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T17:25:57.344803Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Round Trip Boston to Paris France Airfares on Icelandair BE $512.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T17:25:57.344803Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "adidas Men's Lite Racer Adapt 7.0 Shoes for $28 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T17:25:57.344803Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Kizik Men's London Hands Free Slip On Sneakers for $80 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T17:25:57.344803Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Viral Anthropologie Advent Calendar Just $88 Shipped ($300 Value) | Will Sell Out Again",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T17:25:57.344803Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "3 Goldfish Cracker Bags Only $4.59 Shipped on Amazon (Just $1.53 Each)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T17:25:57.344803Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – Tineco FLOOR ONE i6 Stretch Wet/Dry Vacuum - $259 w/ Code",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-07T17:25:57.344803Z",
-  "code": "duplicate",
-  "public": true
  }
 ]
