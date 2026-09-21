@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "mnikopE 19'' Caged Ceiling Fans with Lights, Fandelier Semi Flush Mount Ceiling Fan with Light and Remote $65.44",
+  "reason": "Posted at $65.44, but Amazon showed $98.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-21T23:50:44.936882Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Sprite Lemon Lime 12-oz. Soda 8-Pack for $3 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T23:50:44.936882Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "LISEN Qi2.2 25W MagSafe Car Mount Charger w/ Cooling Fan (W116 PRO) $23 + Free Shipping",
   "reason": "Same deal was already posted from another source",
   "rejected_at": "2026-09-21T23:39:40.932478Z",
@@ -137934,85 +137950,5 @@
   "rejected_at": "2026-09-07T23:55:09.927812Z",
   "code": "duplicate",
   "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Arcane: League of Legends - Season Two [Blu-ray] $16.99 + Free S&H w/ Prime or $35+",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-07T23:49:34.224631Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "SAMSUNG 25\" Odyssey G4 Series FHD Gaming Monitor, IPS, 240Hz, 1ms $199.99",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-07T23:49:34.224631Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Persil Liquid 34oz (Various) $4.88 get $2 Walmart cash",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T23:49:34.224631Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "PERSIL 126oz in Deep Clean or OXI, $19.97 get $5 walmart cash",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T23:49:34.224631Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "WorkPro 9-Piece Impact Socket Driver Extension Bar Set for $11 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T23:43:58.738092Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Alestor 12-Outlet 4-USB Surge Protector for $17 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T23:43:58.738092Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ZKH Small Parts Organizer Box, Clear Tackle Box Organizer with 4x12 Compartments, Removable Dividers, Stackable $19.12",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T23:43:58.738092Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Tacta Strategic Shape Matching Card Game $5.09 + Free Store Pickup at Target or Free Shipping on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T23:43:58.738092Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Hummingbirds Board Game $8 at Target w/ Free Shipping on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T23:43:58.738092Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Waist Tool Belts with 13 Pockets,Waxed Canvas Tool Apron,Nail Apron,Woodworking Pouch for Men and Women,Adjustable Length from 28 to 45 Inches (Black) $8.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T23:43:58.738092Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
