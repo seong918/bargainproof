@@ -1,6 +1,126 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon – Foki 4-Season Reusable Sticker Book Set - $8.50 w/ Code",
+  "reason": "Community score too low (+2) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-21T07:46:06.807079Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – DIPUG Girls' Long Sleeve Ballet Leotard w/ Removable Skirt - $7.49/$8.49 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-21T07:46:06.807079Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$32.84: Samsill 0.5 Inch 3 Ring Binders, Economy Round Ring, Clear View Cover, 100 Sheet Capacity, Black (12 Pack)",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-21T07:46:06.807079Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – HSHFAMIIY 24-Piece Christmas DIY Sticker Set - $3.59 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-21T07:46:06.807079Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – JUSTFASHIONNOW Women's Mock Turtleneck Tunic Sweater - $7.79–$11.39 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-21T07:46:06.807079Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Stormcraft Sirius Core i5-14400F RTX 5060 Gaming Desktop for $1,000 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T07:46:06.807079Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Dntorx Shoe Washing Machine Bags 2-Pack for $9 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T07:46:06.807079Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$8.65: Augason Farms Bread and Roll Mix, 48 Servings, 10 Year Shelf Life",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-21T07:40:33.408386Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Perfect Plants Thuja Green Giant Arborvitae Liner Privacy Trees 18-Pack for $49 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T07:40:33.408386Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Graco Ready2Grow 2.0 Double Stroller, Rafa $239.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-21T07:35:00.188477Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ridgid 18V Cordless 3-Tool Lighting Combo Kit with Magnetic Light, 360° Area Light, and Spotlight (Tools Only) $127",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T07:35:00.188477Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee SHOCKWAVE 1/2 in. Drive Metric Deep Well 6 Point Impact Socket Set (14-Piece) $69.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T07:35:00.188477Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M18 18V Lithium-Ion Brushless Cordless Compact Drill/Impact Combo Kit (2-Tool) w/(3) 2.0Ah Batteries $229",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T07:35:00.188477Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M18 FUEL 18V Lith-Ion Brushless Cordless 1/2 in. Hammer Drill/Driver w/ 5.0 Ah Battery $199",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T07:35:00.188477Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M18 FUEL Gen-2 18V Lithium-Ion Brushless Cordless Mid Torque 1/2 in. Impact Wrench w/Friction Ring w/ Safety Glasses $199",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T07:35:00.188477Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Greenworks 40V (AC/DC) 2000-Lumen LED Work Light, 360° Head Rotation, Tripod Mountable, Portable, Indoor/Outdoor Light, Flood Light, Tool-Only $49.99",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-21T07:29:28.238021Z",
@@ -68152,14 +68272,6 @@
   "public": false
  },
  {
-  "source": "slickdeals",
-  "raw_title": "Milwaukee SHOCKWAVE 1/2 in. Drive Metric Deep Well 6 Point Impact Socket Set (14-Piece) $69.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T07:54:53.822037Z",
-  "code": "not_checked",
-  "public": false
- },
- {
   "source": "dealnews",
   "raw_title": "Rerdeim 5-Piece Putty Knife Set for $6 + free shipping w/ Prime",
   "reason": "Not evaluated",
@@ -68274,14 +68386,6 @@
  {
   "source": "slickdeals",
   "raw_title": "Ridgid 18V Brushless Cordless 6-1/2 in. Circular Saw Kit with 4.0 Ah MAX Output Battery and Charger $129",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T07:32:51.358406Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Ridgid 18V Cordless 3-Tool Lighting Combo Kit with Magnetic Light, 360° Area Light, and Spotlight (Tools Only) $127",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-14T07:32:51.358406Z",
   "code": "not_checked",
@@ -115417,14 +115521,6 @@
  },
  {
   "source": "slickdeals",
-  "raw_title": "Milwaukee M18 FUEL Gen-2 18V Lithium-Ion Brushless Cordless Mid Torque 1/2 in. Impact Wrench w/Friction Ring w/ Safety Glasses $199",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T07:34:44.336907Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
   "raw_title": "EcoFlow TRAIL 200 DC Portable Power Station $89",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-09T07:34:44.336907Z",
@@ -137828,70 +137924,6 @@
   "raw_title": "$2.99 | The Little Book of Common Sense Investing: The Only Way to Guarantee Your Fair Share of Stock Market Returns (Little Books. Big Profits) (Kindle eBook) by John C. Bogle",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T07:49:50.013228Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$64.99: Joseph Joseph Extend Steel Plus Extendable Dish Rack Steel, Dish Drainer with Wine Glass Holder & Drain Spout, Black",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-07T07:44:13.180977Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[AC] $9.79 | INIU Magnetic Wireless Charger, Qi2 15W Fast Charging Pad Travel Charger at Amazon",
-  "reason": "Posted at $9.79, but Amazon showed $19.19 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-07T07:38:37.330966Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "iLiving 12\" Wall Mounted Shutter Exhaust Vent Fan for $59 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T07:38:37.330966Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Barbie Signature Miley Cyrus Posable Collectible Doll for $48 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T07:38:37.330966Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Men's Mountain Winter Coat for $20 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T07:38:37.330966Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "850W VEVOR 2-Tier Commercial Food Warmer Display w/ Tempered Glass and Steam Heating $174.99 + Free Shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T07:38:37.330966Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Labor Day (9/7/26) Only - Pampers Swaddlers Ultra Diapers Sizes 1 or 2 - $32.99 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T07:38:37.330966Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Labor Day (9/7/26) Only - Pampers Swaddlers Ultra Diapers Sizes 3-7, $36.79 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T07:38:37.330966Z",
   "code": "not_checked",
   "public": false
  }
