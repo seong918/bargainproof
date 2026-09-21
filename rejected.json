@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$8.99 | The Omega Man (Blu-ray) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-21T17:32:41.783271Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $6.05 | 2-Pack 0.85-Oz Harry's Face Lotion with SPF Face Moisturizer (Daytime SPF 15) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-21T17:32:41.783271Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$7.67 | 8-Pack Munchkin Wild Animal Baby and Toddler Bath Toy Squirts at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-21T17:32:41.783271Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LC-dolida USA Flag Bluetooth Sports Headband $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T17:32:41.783271Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Soundcore Select 4 Go IP67 Portable Bluetooth Shower Speaker $22.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T17:32:41.783271Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Woot - Clear Power 2-Pack Indoor Timer, 1 Polarized Outlet, 24 Hour Mechanical Timer - $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T17:32:41.783271Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$12.66 | Singles To Go! Starburst Water Drink Mix, Blue Raspberry, 72 Packets at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-21T17:27:14.039797Z",
@@ -138924,150 +138972,6 @@
   "raw_title": "Mac Sports XL Folding Wagon with Brakes $69.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T17:37:05.723178Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[AC] $23.99 | 4-Tier 23-Qt Plastic Stackable Storage Bins Organizer (White) at Amazon",
-  "reason": "Posted at $23.99, but Amazon showed $47.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-07T17:31:32.071198Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "MoAcey 5000mAh Heated Vibration Cordless Lower Back Massager $32.98",
-  "reason": "Posted at $32.98, but Amazon showed $53.28 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-07T17:31:32.071198Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "cheapshark",
-  "raw_title": "MotoGP24",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T17:31:32.071198Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Little Kids Inc. Bluey No Spill Bubble Mower $13.98",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T17:31:32.071198Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Wera Kraftform Plus 334/6 Screwdriver Set $30.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T17:31:32.071198Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Adidas Men Lite Racer 4.0 Shoes $22.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T17:31:32.071198Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Clue Classic Board Game $9.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T17:31:32.071198Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "REDTIGER F7N Pro 4K Dash Cam Front and Rear with STARVIS 2 Sensor and 64GB Card $59.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T17:31:32.071198Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "GLYCINE Combat Sub Automatic Charcoal Dial Men's Watch $344.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T17:31:32.071198Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Round Trip Denver to Seattle Nonstop Airfares on Delta, Southwest, Alaska or United Airlines $157.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T17:31:32.071198Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "$100 Fandango at Home Gift Card for $85 + digital delivery",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T17:31:32.071198Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Diamond Supply Co. Men's YC Runner Skate Shoes for $15 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T17:31:32.071198Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Rivers Edge Bowman™ LS 19' 1-Person Ladder hunting Treestand menards $133",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T17:31:32.071198Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "FED Fitness Adjustable Power Tower, 360 lb Pull Up Bar & Dip Station for Home Gym $114.15",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T17:31:32.071198Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Nexgrill 4-Burner Gas Grill w/ Side Burner (Black) $229 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T17:31:32.071198Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "SANOXIS ADA Smart Bidet Toilet w/ Auto Open/Close Lid, MAP 1000 Tankless Bidet Wash, Heated Seat, 1.28 Gpf Auto Flush $399.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T17:31:32.071198Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "2-Pack 25-ft Expandable Garden Hose w/ Nozzle $19.20 + Free S/H w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T17:31:32.071198Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "DYU C3-14Mini Folding e-Bike 500W 36V 7.8Ah 20mph 15.5 mile range UL2849 integrated head/tail lights $158 + Free S/H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T17:31:32.071198Z",
   "code": "not_checked",
   "public": false
  }
