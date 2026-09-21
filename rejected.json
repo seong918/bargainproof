@@ -1,5 +1,125 @@
 [
  {
+  "source": "hip2save",
+  "raw_title": "Weatherproof Outdoor Cat House Only $29.99 Shipped on Amazon (Reg. $53)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T21:45:39.890667Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Samsung EPP/EDU: 32\" M9 QD-OLED 4K 165Hz G-Sync Compatible Smart Monitor w/ Remote, Speakers $680 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T21:45:39.890667Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Meykwod Heavy Duty Garden Hose Holder $15.99 – 150FT Capacity, Free Prime Shipping or $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-21T21:40:08.387265Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "SteelSeries Apex 3 TKL Wired Membrane Gaming Keyboard for $35 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T21:40:08.387265Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "ASICS Men's GEL-Venture 11 Trail Running Sneakers for $51 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T21:34:37.905324Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Betty Crocker Sugar Cookie Mix 9-Pack Just $7.60 Shipped on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T21:34:37.905324Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Creality Falcon A1 Pro 20W Dual-laser Engraver $791.10 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T21:34:37.905324Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Sam's Club, Wayfair $100 Email Delivery Gift Card, $81.48",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T21:34:37.905324Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$50 Adidas gift card, $40, Paypal",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T21:34:37.905324Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Champion Men's Physical Education Sweatshirt (Various Colors, S-2XL) $15.33 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T21:34:37.905324Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$1.99 | Fight Club: A Novel (Kindle eBook) by Chuck Palahniuk",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T21:34:37.905324Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Yiger 88-LED Dimmable USB-Rechargeable Wireless Under Cabinet Lights (2-Pack) $13.19",
+  "reason": "Posted at $13.19, but Amazon showed $23.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-21T21:29:07.483087Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Bonsenkitchen 4-in-1 2-Speed 300W 700ml Hand Immersion Blender $19.83",
+  "reason": "Posted at $19.83, but Amazon showed $31.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-21T21:29:07.483087Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$50 Applebee's eGift Card, $42.50, Paypal $42.45",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T21:29:07.483087Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$5 giftcards.com gift card with purchase of select $50 cards, $10 GC with $100, Lego, TJ Maxx and more",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T21:29:07.483087Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Eastsport Fortress Top Loader Backpack for $10 + free shipping w/ $35",
   "reason": "Not evaluated",
@@ -138108,86 +138228,6 @@
   "raw_title": "Afterdeath HD appletv $1.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T21:49:00.977933Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Ice Age Collection (5 Movies) (Blu-ray + Digital) $18.53 Walmart.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T21:43:25.789244Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Thermaltake Toughpower GT 1000W ATX 3.1 Native PCIe 5.1 12V-2x6 Full Modular PSU $99.99 + Free Shipping",
-  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-07T21:37:49.467283Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Gorilla Mounting Tape Squares 24-Pack for $5 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T21:37:49.467283Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "50% Off Bluey Toys at Target | Games from $4.99 & Playsets from $24.99!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T21:37:49.467283Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Certified Refurbished Garmin epix Gen 2 Sapphire 47mm Smartwatch (White Titanium) $255.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T21:32:13.894894Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Ninja Deluxe Blender & Kitchen System with 88-oz. Pitcher, 9-Cup Processor & Auto-iQ $134.99 + $4.99 Shipping Costco.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T21:32:13.894894Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Labor Day Sale Only 09/07 Onin Room Divider with 8 Storage Bins $129.99 White or Dark Brown free shipping Costco.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T21:32:13.894894Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Karson Leather Power Reclining Sofa w/ Power Headrests for $1,500 + free delivery",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T21:26:37.451082Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Snack Pack Pudding 12-Packs Just $2.98 Shipped on Amazon (25¢ per Cup)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T21:26:37.451082Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "BISSELL PowerClean FurGuard Deluxe 280W Cordless Vacuum with Extra Battery $169.99 + $4.99 Shipping Costco.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T21:26:37.451082Z",
   "code": "not_checked",
   "public": false
  }
