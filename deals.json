@@ -1,5 +1,38 @@
 [
  {
+  "deal_id": "47492e6c5695",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20042328-sns-ac-8-91-2-16-oz-dot-s-homestyle-pretzels-seasoned-pretzel-twists-parmesan-garlic-4-46-each-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "2 × 16-Oz Dot's Homestyle Pretzels Seasoned Pretzel Twists (Parmesan Garlic)",
+  "raw_title": "[SnS, AC] $8.91 | 2 × 16-Oz Dot's Homestyle Pretzels Seasoned Pretzel Twists (Parmesan Garlic) ($4.46 each) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 891,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-21T12:49:38.341351Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "52b99856d276",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20042295-8-17-valuemax-6-pack-5-flush-cutters-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
