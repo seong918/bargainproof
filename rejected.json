@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "525-Piece LEGO Star Wars AT-AT Walker Building Set 75440 $51.99 + Free Shipping",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-21T11:32:34.871986Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Igloo BMX Cooler | Insulated Hard Shell Ice Chest (Oil Green) $57.52 (after coupon) + Free Shipping",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-21T11:32:34.871986Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "adidas Women's Adizero Adios OG Sneakers (Silver) $33 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-21T11:21:32.968080Z",
@@ -138004,22 +138020,6 @@
   "raw_title": "$11.99: Tasty 600W Mini Sandwich Maker w/ Dual-Sided Nonstick Cooking Surface(Red) at Woot!",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T11:34:09.943633Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "TP-Link AXE16000 Quad-Band WiFi 6E Router (Archer AXE300) $199.99 + Free S&H w/ Prime at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T11:28:37.152139Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "T-fal Stainless Steel Compact Sandwich Maker 625 Watts(Black) $13.99 + Free S&H w/ Prime at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T11:28:37.152139Z",
   "code": "not_checked",
   "public": false
  }
