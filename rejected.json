@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$53.91* | GTRACING Ergonomic Office Chair w/ Flip-up Armrests (black) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-21T19:17:03.399441Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Clair Obscur Expedition 33 PS5 $32.2",
+  "reason": "Posted at $32.20, but Amazon showed $46.00 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-21T19:17:03.399441Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Yonida 12\" Induction & Oven-Safe Non Stick Frying Pan with Lid $23.99",
+  "reason": "Posted at $23.99, but Amazon showed $39.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-21T19:17:03.399441Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "TAMASHII NATIONS Mobile Suit Gundam GQuuuuuuX White Gundam Metal Robot Spirits Figure $91.23",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T19:17:03.399441Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$99.98* | UGREEN Nexode Pro 160W Charger w/ Retractable Cable at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-21T19:11:32.784139Z",
@@ -138828,94 +138860,6 @@
   "raw_title": "Costco Members: Roborock QX Revo PLUS Robot Vacuum & Mop w/ Multifunctional Dock 3.0 (White) $479.99 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T19:17:48.317626Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$34.98* | 3-Port GaN Anker Prime Up to 67W Compact Fast Wall Charger (2x USB-C + 1x USB-A) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-07T19:12:12.304883Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "EasyFlex No-Dig Landscape Edging with Anchoring Spikes, 2.7 in. Tall Decorative Stone-Look Garden Border, 90 Foot Kit, Slate Gray (3602S-90C) $137.4",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-07T19:12:12.304883Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Pack of 12 Jarrow Formulas Hyaluronic Acid 120 mg, Dietary Supplement, Skin Health Support, 120 Veggie Capsules, Up to 60 Day Supply $157.8",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-07T19:12:12.304883Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "VEVOR Rolling Magnetic Sweeper 45-Lb $29.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T19:12:12.304883Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "RYOBI ONE+ 18V Cordless Telescoping Soap Dispensing Scrubber (Tool Only) $99.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T19:12:12.304883Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Hogwarts Legacy PC Digital Download Steam $4.80",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T19:12:12.304883Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Owala FreeSip Stainless Steel Water Bottle 40oz $32.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T19:12:12.304883Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "New Balance FuelCell Flite-D Track and Field Shoes $28.87",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T19:12:12.304883Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "adidas Men's Labor Day Shoe Deals for Slides from $17, sneakers from $27 + Free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T19:12:12.304883Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Hellmann’s Flavored Mayo Only $2 Shipped on Amazon",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T19:12:12.304883Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Sleepy's By Sealy Slumber Firm Mattress $269",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T19:12:12.304883Z",
   "code": "not_checked",
   "public": false
  }
