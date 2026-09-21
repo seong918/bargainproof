@@ -1,5 +1,101 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Scott ComfortPlus Toilet Paper (48x Triple Rolls) $18.37",
+  "reason": "Posted at $18.37, but Amazon showed $19.39 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-21T15:04:43.042519Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Wooden Light Up Bat $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:04:43.042519Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Kobalt 6-Piece Mini Plier Set $16.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:04:43.042519Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Spider-Man 6 Panel Telescopic Umbrella with Auto Open Button $4.73",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:04:43.042519Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Adizero EVO SL Shoes $75.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:04:43.042519Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Adilette Comfort 2.0 Mexico Slides $23.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:04:43.042519Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Topexplore 9\" Carplay Screen $55.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:04:43.042519Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Solar Hanging Ghost Swing Halloween Decoration Set $63.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:04:43.042519Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "11-Night Morocco Flight, Hotel, and Tour Vacation for From $8,698 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:04:43.042519Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Talix 125W 12,800mAh Power Bank for $22 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:04:43.042519Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ENDS TODAY! Sams Club $26.78 PICK UP HERSHEY'S Full Size Candy Bars Variety Pack, Milk Chocolate Candy, 30 pk.",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:04:43.042519Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "(Refurbished) Triangle AIO 3 Wifi & Bluetooth Speaker (Green) $299 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:04:43.042519Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Fringe Studio Plush Cat Toy Set, Purr-FECT Weather, Mini 3 Piece Set, Pet Shop Collection (904032) $5.03",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
@@ -138812,62 +138908,6 @@
   "raw_title": "Ainfox 10'x10'Pop Up Canopy Tent w/ 4 Removable Walls & SandBag(Pink) $71.99 + Free S&H at Walmart",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T15:06:39.884818Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "VTOMAN X7 Jump Starter with Air Compressor, 160PSI Auto-Off Tire Inflator $90.99",
-  "reason": "Posted at $90.99, but Amazon showed $129.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-07T15:01:06.579987Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "BLNAN 52 Inch Ceiling Fan with Lights and Remote, Caged Ceiling Fans Dual Finish 5 Blades, 6 Speeds + Natural Wind, Quiet <35dB, Flush Mount Ceiling Fan $40",
-  "reason": "Posted at $40.00, but Amazon showed $79.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-07T15:01:06.579987Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "9-Night Greece Hotel and Tour Vacation for From $3,998 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:01:06.579987Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Mini Tabletop Soccer Game Just $13.99 on Amazon (Reg. $28)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:01:06.579987Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "(refurb) GE Profile Opal 1.0 Nugget Countertop Ice Maker w/ Side Tank $200 + Free S/H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:01:06.579987Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Small dipped cone for $1 at DQ",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:01:06.579987Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "YMMV DeWalt 20V XR DCD801QQ2 1/2 in. Drill/Driver Kit with (2) 4.0 Ah Powerpack Batteries and Charger Lithium-Ion Cordless Brushless $134.5",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:01:06.579987Z",
   "code": "not_checked",
   "public": false
  }
