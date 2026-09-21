@@ -1,6 +1,222 @@
 [
  {
   "source": "techbargains",
+  "raw_title": "Apple MacBook Air 13.6\" M5 Chip Laptop (16GB/512GB) $1234 | 15.3\" Laptop from $1732",
+  "reason": "Posted at $1,732.00, but Amazon showed $1,234.00 when we checked — the post is stale",
+  "rejected_at": "2026-09-21T16:04:54.788001Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "KabLuver 5ft 65W 2-in-1 90-Degree Elbow Foldable Stand Charging Cable $4.49",
+  "reason": "Posted at $4.49, but Amazon showed $8.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-21T16:04:54.788001Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Mokuru 4-Button Win/Mac Wireless Vertical Mouse $13.99",
+  "reason": "Posted at $13.99, but Amazon showed $27.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-21T16:04:54.788001Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Samsung Galaxy S25 Edge Smartphone 256 GB or 512 GB Unlocked $549.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T16:04:54.788001Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "PUMA Voltaic Evo Fast Men's Shoes White/Black/Red $34.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T16:04:54.788001Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Light Up Ghost Decor 2-Pack 5 Ft $25.79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T16:04:54.788001Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Adidas Men HERITAGE BELT $18.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T16:04:54.788001Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "PUMA All Pro Nitro Gold Rush Basketball Men's Gold Sneakers Athletic Shoes $59.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T16:04:54.788001Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Klke Z3 Open-Ear Bone Conduction Headphones for $19 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T16:04:54.788001Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "9-Night Kenya & Tanzania Flight, Hotel, and Safari Vacation for From $13,498 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T16:04:54.788001Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Target’s Cute Halloween Plates, Bowls & Serving Dishes Start at $2!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T16:04:54.788001Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "lululemon Women's Wunder Puff Mini Boot $79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T16:04:54.788001Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "10' Insignia Lightning USB-C Charge-and-Sync Cable (Moon Gray) $4.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T16:04:54.788001Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "KODA Hardwire Motion Activated LED Security Floodlight $29.99 online $19.99 In store Costco",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T16:04:54.788001Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nike Women's Air Superfly Shoes (Silver/Black) $63 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T16:04:54.788001Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Men's Super Stretch Slim-Fitting Chino Pants (3-Pack, Various Sizes) $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T16:04:54.788001Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Select Accts[AC,S&S]Hawaiian Tropic Island Tanning Lotion, SPF 4, 8 Fl Oz (2 Pack) $6 + Free S&H w/ Prime or $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-21T15:59:27.412090Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Sunex Tools 7-Inch Flush Cutters, Rust-Resistant $6.91",
+  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-21T15:59:27.412090Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Outdoor Faucet Covers for Winter, Actgan 8.3\"H x 6\"W Thickened Outside Garden Faucet Socks for Freeze Protection, Reusable Insulated Faucet Covers, 2 Pack, Black $3.99",
+  "reason": "Posted at $3.99, but Amazon showed $7.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-21T15:59:27.412090Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$3.59 ac AMAZON Chuya Bath Loofah Sponges 70 Grams Large Size,4 Pack Shower Sponge",
+  "reason": "Posted at $3.59, but Amazon showed $5.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-21T15:59:27.412090Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Adidas Men Ultimate365 Anorak Jacket $26.40",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:59:27.412090Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Adidas Women's VL Court 3.0 Shoes (lce Gold Met/ Core Black/ Off White) $21.60",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:59:27.412090Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ayieyill 3 Pcs Woven Christmas Tree Decor $26.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:59:27.412090Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Giraffe Tools Grandfalls Pressure Washer G20BPRO 2400 PSI $194.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:59:27.412090Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Men's Breathable Quick-Dry Drawstring Pants for 2 for $10 + $10 shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:59:27.412090Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Trudeau Structure Muffin Pans, 2-pack $19.99 free shipping Online $9.99 In store price Costco",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:59:27.412090Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nioh 3 for PC [Steam Code,United States] $32.99 at Newegg.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:59:27.412090Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
   "raw_title": "Pastigio 10.1\" 1280x800 Touch Screen Frameo Smart Digital Frame $39.51",
   "reason": "Posted at $39.51, but Amazon showed $56.45 when we checked — the deal is probably over",
   "rejected_at": "2026-09-21T15:54:00.287942Z",
@@ -138804,358 +139020,6 @@
   "raw_title": "Dell 16 AMD Ryzen 7 250 8-Core 16\" FHD+ IPS Laptop (16GB RAM, 512GB SSD) $1049.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T16:07:56.348498Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Traeger Grills HDW152 Grease Bucket For Wood Pellet BBQ(5.6 ounces) $9.99 + Free S&H w/ Prime or $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-07T16:02:19.668888Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Energy CF-30 Floorstanding Speakers 2-Pack $149.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T16:02:19.668888Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "On Cloudrunner 3 Road-Running Shoes - Men's $119.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T16:02:19.668888Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "EGOHOME ChillWeave 12 Inch Queen Mattress $158.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T16:02:19.668888Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "EGOHOME StarryRest 12 inch Queen Medium Euro Top Hybrid Mattress in a Box $154.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T16:02:19.668888Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Hisense 55\" 4K UHD Mini-LED QLED Google Smart TV $284.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T16:02:19.668888Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "25/26 Season Snowboards $420.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T16:02:19.668888Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "RYOBI ONE+ 18V Cordless Telescoping Soap Dispensing Scrubber Kit with 2.0 Ah Battery $129.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T16:02:19.668888Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Fender 30th Anniv Screamadelica Stratocaster Electric Guitar Custom Graphic $599.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T16:02:19.668888Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Victoria's Secret Panty Party for 10 for $40, ending today + free shipping w/ $50",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T16:02:19.668888Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "5-Night Finland Hotel and Tour Vacation for From $2,558 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T16:02:19.668888Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Victoria's Secret Clearance Sale: Up to 85% off + extra 25% off in cart, ends today + free shipping w/ $50",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T16:02:19.668888Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Up to 85% Off LOFT Clothes + Free Shipping | Styles Start UNDER $5 Shipped",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T16:02:19.668888Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Free $10 on Grubhub",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T16:02:19.668888Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Katerk W4 Ace 3-Temp Cordless Plastic Welder with 400-Staples $21.49",
-  "reason": "Posted at $21.49, but Amazon showed $42.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-07T15:56:46.689225Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Qijiaa 1500W 3-Level Adjustable Handheld Portable Steam Cleaner with 18-Piece Accessories $34.99",
-  "reason": "Posted at $34.99, but Amazon showed $69.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-07T15:56:46.689225Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Dgxinhong Aluminum 2\"x 65' Waterproof Foil Duct Tape $6.10",
-  "reason": "Posted at $6.10, but Amazon showed $6.24 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-07T15:56:46.689225Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Tilswall HVLP Paint Sprayer with 4 Nozzles & 3 Patterns $22.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:56:46.689225Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "3-Pack Cotton Waffle Henley Thermal Hoodies $17.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:56:46.689225Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "50-Ct 1.0mm Pentonic Ballpoint Pens In Organizer $8.29",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:56:46.689225Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Hercule Poirot: The Complete Short Stories Kindle Edition $1.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:56:46.689225Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Greenworks POWERALL 24V Cordless Brushless 1/2\" Hammer Drill 530 in-lbs. with 2.0Ah Battery and Charger $54.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:56:46.689225Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "U Brands Bulletin Board 23x17\" $21.21",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:56:46.689225Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "The Anarchy: The East India Company, Corporate Violence, and the Pillage of an Empire (Kindle eBook) $2.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:56:46.689225Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "30-Oz STANLEY Quencher H2.0 Flow State Tumbler (Frost Sprinkle) $24.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:56:46.689225Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "GEARWRENCH 44-Piece SAE/Metric 1/4 in. Drive 6 and 12-Point Standard and Deep Mechanics Tool Set $59.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:56:46.689225Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Alpine Design Multiwear Sling Bag Faded Evergreen $8.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:56:46.689225Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Arcane: League of Legends: Season 1 Limited Edition Steelbook 4K UHD $26.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:56:46.689225Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Fit & Fresh Connor Insulated Kids Lunch Box (Boulder Gray) $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:56:46.689225Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "20 Pack Mini Chalkboards Signs Food Labels $4.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:56:46.689225Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Mute Witness: Limited Edition (4K Ultra HD) $19.94",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:56:46.689225Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Wilson NBA DRV Series Basketball Mini Size 3 $6.78",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:56:46.689225Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Schrade Delta Class Divergent Knife 7.4\" $18.27",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:56:46.689225Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Invasion of the Body Snatchers 4K Ultra HD + Blu-ray $19.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:56:46.689225Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Unwelcome Gothic Bat Halloween Garden Flag $3.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:56:46.689225Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "H Is for Hawk Kindle eBook $1.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:56:46.689225Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Ninja Nutri Personal & Countertop Blender 1200W $119.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:56:46.689225Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Stanley Legendary Classic Bottle 48-Oz $27.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:56:46.689225Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Citizen Men's Eco-Drive Sport Casual Watch $196.85",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:56:46.689225Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "The Little Book of Common Sense Investing: The Only Way to Guarantee Your Fair Share of Stock Market Returns (Kindle eBook) $2.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:56:46.689225Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Tapo MagCam 4K Outdoor Wireless Security Camera $84.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:56:46.689225Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Eddie Bauer Clearance Sale: Up to 71% off + extra 25% off + free shipping w/ $99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:56:46.689225Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Office Depot/Office Max: $15 off $300 VISA; extra 10% off clearance in-store + more",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:56:46.689225Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "18-Oz Ozark Trail Insulated Stainless Steel Thermal Water Bottle w/ Cup (2 Colors) $6.47 + Free S&H w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:56:46.689225Z",
   "code": "not_checked",
   "public": false
  }
