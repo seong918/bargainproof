@@ -1,5 +1,85 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "As Fairy Wireless Bras for Women Jelly Push Up Scalloped Bra $7.49",
+  "reason": "Posted at $7.49, but Amazon showed $14.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-21T14:37:16.740924Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Wegear TW9 Hybrid Active Noise Cancelling Bluetooth 5.4 Wireless Earbuds $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $21.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-21T14:37:16.740924Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Rorry 10000mAh 22.5W Fast Charging 3-in-1 Portable Power bank w/ Cable & Wall Plug $19.49",
+  "reason": "Posted at $19.49, but Amazon showed $29.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-21T14:37:16.740924Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Amazon Basics RFID-blocking Passport Wallet $6.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T14:37:16.740924Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Puma Womens Suede XL Putty Shoes $31.20",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T14:37:16.740924Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Men’s PFG Slack Tide Camp Shirt $25.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T14:37:16.740924Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "VEVOR 2-in-1 Hot Air Soldering Station 820W Digital Display $74.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T14:37:16.740924Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CyberPowerPC Gaming PC, Intel Core Ultra 9 285K, NVIDIA GeForce RTX 5080 16GB, 32GB DDR5, 1TB SSD, SLC8600WST - $2399",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T14:37:16.740924Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "BOOJO 7 Pack Men's Athletic Shorts with Pockets Quick Dry from $23 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T14:37:16.740924Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "WINIX C710 4-Stage True HEPA Air Purifier with Wi-Fi and Additional Filter $99.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T14:37:16.740924Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Dreamegg Portable Noise Machine for Baby $10.49",
   "reason": "Not evaluated",
@@ -138652,30 +138732,6 @@
   "raw_title": "COOK WITH COLOR Glass Mini Low Carb Rice Cooker Holds 2 Cups Raw/Makes 6 Cups Cooked with Auto Lift Filter $34.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T14:38:42.154055Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Ace Hardware Labor Day Savings: Up to $200 off + free shipping w/ $50",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T14:33:06.136855Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Marsail Wheeled Armless Vanity Desk Chair for $40 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T14:33:06.136855Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "YMMV Samsung galaxy S11 Ultra tablet starting at $620 no trade-in required on discount stores Edu or EPP or Working advantage stores",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T14:33:06.136855Z",
   "code": "not_checked",
   "public": false
  }
