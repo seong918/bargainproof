@@ -1,6 +1,30 @@
 [
  {
   "source": "dealcatcher",
+  "raw_title": "2x AMC Movie Tickets & Regular Popcorn Bundle $23.56",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T18:44:03.018741Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Disney Toy Story Toy Takedown Game for $18 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T18:44:03.018741Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HAPPRUN Smart Projector (720P) with Wi-Fi and Bluetooth, Roku TV Built-in $149.95 AC + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T18:44:03.018741Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
   "raw_title": "adidas Men's Gazelle Indoor Sneakers (Aurora Ivy/White/Gum) $39.00",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-21T18:38:34.204402Z",
@@ -138972,70 +138996,6 @@
   "raw_title": "LG 36\" Wide 27.7 Cu. Ft. French Door Smart Refrigerator w/ External Ice & Water for $1,650 + free delivery",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T18:44:16.398668Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS] $20.93* | 10-lbs Miracle-Gro Water Soluble All Purpose Plant Food at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-07T18:38:42.220653Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Teexpert 170oz Viscosity Landscaping Mulch Glue $18",
-  "reason": "Posted at $18.00, but Amazon showed $59.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-07T18:38:42.220653Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "cheapshark",
-  "raw_title": "City of Brass",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T18:38:42.220653Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Energy Connoisseur 4.1 Home Theater Pack with 2x CF-30 Floors + CC-5 Center + CB-5 Bookshelves + ESW-C8 Sub $349.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T18:38:42.220653Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Miele C3 Complete Kona Powerline Vacuum Cleaner $779.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T18:38:42.220653Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Fit & Fresh Connor Insulated Lunch Box for $10 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T18:38:42.220653Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$1.99 | How to make the best coffee at home: Sunday Times bestseller from world-class barista (eBook) by James Hoffmann",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T18:38:42.220653Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Cert. Refurb: eufy S220 SoloCam Solar Security Camera 2K Wi-Fi Wireless Outdoor $37 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T18:38:42.220653Z",
   "code": "not_checked",
   "public": false
  }
