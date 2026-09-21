@@ -1,5 +1,125 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "32\" Furinno 5-Tier Wide Wooden Shoe Rack: French Oak Grey $20, Grey Oak, $21.93 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-21T13:22:35.872933Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Baking Sheet Set of 3 - Carbon Steel Cookie Sheet for Baking, 17/15/13 Inch, Nonstick Baking Pan with Dual Handles $16.49",
+  "reason": "Posted at $16.49, but Amazon showed $29.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-21T13:22:35.872933Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2 Packs Freela Kids Swim Goggles, Swimming Goggles for Kids 3-14 Anti Fog UV Protection No Leaking $5.99",
+  "reason": "Posted at $5.99, but Amazon showed $11.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-21T13:22:35.872933Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Coofandy Men's Lightweight Long Sleeve Pullover Sweater (Various Sizes) $14.99",
+  "reason": "Posted at $14.99, but Amazon showed $19.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-21T13:22:35.872933Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "ULG 5-Pocket Over Door Organizer w/ 10 Mesh Side Pockets & Clear Windows $10.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T13:22:35.872933Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "SUPVAN E11 Keyboard & Bluetooth Label Maker Machine with 4 Tapes $18.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T13:22:35.872933Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Men’s Fleece-Lined Thermal Underwear Bottoms 2-Pack $11.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T13:22:35.872933Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Google Fitbit Inspire 3 Midnight Zen/Black $79.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T13:22:35.872933Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Berrcom Fingertip Pulse Oximeter Blood Oxygen Saturation Monitor (Black) $5.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T13:22:35.872933Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "SHINE WELL Leg Massager with Heat and Compression $65.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T13:22:35.872933Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Dr Pepper Soda $15.09",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T13:22:35.872933Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Lavazza Super Crema Whole Bean Coffee 2.2-lb $13.39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T13:22:35.872933Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "5-Gal Seesii Battery Powered Backpack Sprayer w/ Dual Battery w/ 7 Nozzles $69.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T13:22:35.872933Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "V8 Energy Drink Peach Mango 6-Pack 8-Oz $4.27",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T13:22:35.872933Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ainfox 12'x12' Pop-Up Canopy Tent w/ 4 Removable Walls & 1-Push Center (Pink) $110 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T13:22:35.872933Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Wireless Security Camera Battery Powered $24.99",
   "reason": "Not evaluated",
@@ -138268,62 +138388,6 @@
   "raw_title": "Dell 16S AMD Ryzen AI 7 445 16\" FHD+ Laptop (16GB RAM, 1TB SSD) $1449.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T13:27:24.061994Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "ALSO GO 16 Inch 1350W Electric Chainsaw Cordless $76.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T13:21:56.397218Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "CVLIFE 2.5-10x40e Red & Green Illuminated Scope with 20mm Mount $29.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T13:21:56.397218Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Endoscope Snake Borescope Inspection Camera 16.5 FT/5M $10.46",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T13:21:56.397218Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Vevor 12-Piece 20\" x 20\" Artificial Boxwood Panel Plant Wall for $79 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T13:21:56.397218Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Bluvol Nest 10 Ultra Cordless Heated Neck Massager for $80 w/ Prime + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T13:21:56.397218Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$4.44 Walmart Hyper Tough 4 in. Barrel Bolt, Zinc Plated with mounting screws, 1 Pack",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T13:21:56.397218Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$28 FS WALMART+ by GreatStar WORKPRO Mini Metal Tool Box with 2 Drawers and Top Storage, Small Tool Chest with PVC Liners and PP Feet Pads",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T13:21:56.397218Z",
   "code": "not_checked",
   "public": false
  }
