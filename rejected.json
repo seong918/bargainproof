@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "412-Piece LEGO Looney Tunes Sweetheart Tweety Bird Building $25.00 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-21T00:40:14.301458Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Mouse P.I. For Hire (PC Digital Download) Steam - $22.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T00:40:14.301458Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Aquaman (4K Ultra HD) $14.99 Amazon.com",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-21T00:34:43.664914Z",
@@ -138606,13 +138622,5 @@
   "rejected_at": "2026-09-07T00:43:28.472596Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "TCL 65 Inch Class QM7L Series | SQD-Mini-LED QLED Smart TV | 65QM7L, 2026 Model | 144Hz | Ultimate Color Ultra Brightness & Contrast | Google AI Bang & Olufsen $897.99",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-07T00:37:50.878180Z",
-  "code": "low_score",
-  "public": true
  }
 ]
