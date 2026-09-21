@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "38893dd2e6e8",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20045784-sns-14-24-12-pk-16-9-oz-ghost-zero-sugar-hydration-drink-welch-s-grape-at-amazon?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
+  "title": "12-Pk 16.9-Oz GHOST Zero Sugar Hydration Drink (Welch's Grape)",
+  "raw_title": "[SnS] $14.24* | 12-Pk 16.9-Oz GHOST Zero Sugar Hydration Drink (Welch's Grape) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1424,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 6,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-21T23:07:47.714410Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "c90875a53c21",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20044128-amazon-tiluck-10-pc-measuring-cups-spoons-set-4-94-5-50-w-code?utm_source=rss&utm_content=ht&utm_medium=RSS2",
