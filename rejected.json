@@ -1,5 +1,69 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "MTKOALA High Power Cordless Leaf Blower 450CFM 150MPH Brushless Battery Powered Green $42.99 + Free Shipping",
+  "reason": "Posted at $42.99, but Amazon showed $66.47 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-21T13:49:02.591847Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "2-Pack ECO-WORTHY 10W Solar Battery Charger Maintainer 12V $27.19",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T13:49:02.591847Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Holstein Housewares 10-Piece Knife Set $10.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T13:49:02.591847Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ultra Push up Sticky Bra Pads Inserts $4.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T13:49:02.591847Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Sterilite 1.5 Gallon Oval Vanity Trash Can $0.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T13:49:02.591847Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Adidas WORKOUT ESSENTIALS FEELREADY T-SHIRT $6.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T13:49:02.591847Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Resident Evil Requiem Deluxe Edition (PC Digital Download) $47.55",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T13:49:02.591847Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Certified Refurbished: NARWAL Freo Z10 Robot Vacuum & Mop Combo w/ Self-Emptying Station $344 + Free Shipping $343",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T13:49:02.591847Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Hopopro 3000-Gallon 8-Stage Shower Water Filter $10.99",
   "reason": "Posted at $10.99, but Amazon showed $25.99 when we checked — the deal is probably over",
@@ -138484,46 +138548,6 @@
   "raw_title": "Starship Troopers: Extermination Xbox Galactic Victory Digital Edition $19.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T13:49:13.346436Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "DESLOC C110 Fingerprint Keyless Entry Door Lock, Visual Display, Auto Lock $29.99",
-  "reason": "Posted at $29.99, but Amazon showed $49.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-07T13:43:49.631311Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Refurb Unlocked Samsung Galaxy S21 Ultra 5G 128GB Phone for $220 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T13:43:49.631311Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "5-Tier Adjustable Metal Shelving Unit for $37 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T13:43:49.631311Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Duluth Trading Labor Day Sale: 25% off + free shipping w/ $99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T13:43:49.631311Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$49.99 | Star Wars: The Skywalker Saga 9-Movie Collection (4K UHD Digital Films; MA) at AppleTV",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T13:43:49.631311Z",
   "code": "not_checked",
   "public": false
  }
