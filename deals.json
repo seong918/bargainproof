@@ -1,5 +1,38 @@
 [
  {
+  "deal_id": "58e2fe36d252",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20041998-sns-ac-13-75-4-6-pack-16-9-oz-coca-cola-soda-3-44-each-at-amazon-57-3-each?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "4 × 6-Pack 16.9-Oz Coca-Cola Soda at Amazon (57.3￠ each)",
+  "raw_title": "[SnS, AC] $13.75 | 4 × 6-Pack 16.9-Oz Coca-Cola Soda ($3.44 each) at Amazon (57.3￠ each)",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1375,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-21T07:23:56.020012Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "ac274d0ef57d",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20040810-amazon-mpatiby-2-pack-5-4-in-2-multi-charging-cables-7-50-w-code?utm_source=rss&utm_content=ht&utm_medium=RSS2",
