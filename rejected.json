@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$39.99 | Transformers Toys CYBERWORLD Bumblebee Power Spark Energon Surge at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-21T11:10:30.466630Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS] $4.72 | 12-Oz Dove Treats Liquid Hand Wash (Cinnamon Pumpkin Pie) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-21T11:04:58.602464Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "11-Night Thailand Bangkok, Khao Lak, Phuket & Chiang Mai Hotel and Tour Vacation for From $3,098 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T11:04:58.602464Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$62.04* | 1,161-Pc LEGO Botanicals Flower Arrangement Building Set (10345) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-21T10:59:29.693895Z",
@@ -137972,30 +137996,6 @@
   "raw_title": "35-Oz Yeti Rambler Mug w/ Straw Lid (4 Colors) $16.97 + Free Shipping on $49",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T11:17:23.237602Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Best Buy Labor Day Gift Cards & Subscriptions Deals for Deals from $20, ending today + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T11:06:10.094591Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "5-Night Dublin & Galway Flight, Hotel, and Rail Vacation for From $2,148 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T11:06:10.094591Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Lucid 2\" Cooling Gel with Aloe Plush Memory Foam Mattress Topper (Twin) $16.94",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T11:06:10.094591Z",
   "code": "not_checked",
   "public": false
  }
