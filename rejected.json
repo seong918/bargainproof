@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$8* | Tara Toys 3-in1 Disney Stitch Activity Set (Pixel Art Set, Pour N Paint Set & Design A Vinyl Set) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-21T20:06:33.534146Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Insulated Leakproof Backpack Cooler $15.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T20:06:33.534146Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "8-Night Madrid to Barcelona Hotel and Tour Vacation for From $5,398 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T20:06:33.534146Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Levi's Men's 557 Western Straight Fit Boot Cut Jeans for $27 + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T20:06:33.534146Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$249.99 | Shark Matrix Plus 2-in-1 Robot Vacuum & Mop, Black/Mocha Silver, AV2620WA at Amazon",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-21T20:01:03.108500Z",
@@ -138820,38 +138852,6 @@
   "raw_title": "Lowe's Kobalt XTR 3-1/2-in 21 -Degree Cordless Clip head/Roundhead Framing Nailer $259",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T20:08:13.108055Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "8-Night Spain Hotel and Tour Vacation for From $3,798 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T20:02:36.701008Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Open Box TCL NXTPAPER 11 Plus 11\" 256GB Android Tablet for $153 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T20:02:36.701008Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "31.5\" VEVOR Square Farmhouse Coffee Table w/ Open Storage (Grey & White) $54.99 + Free Shipping w/ Prime or $6 Fee per Order",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T20:02:36.701008Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Kobalt 40-Volt 40-volt 9-in Handheld Attachment Capable Battery Lawn Edger ( Tool Only) $99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T20:02:36.701008Z",
   "code": "not_checked",
   "public": false
  }
