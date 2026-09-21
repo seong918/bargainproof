@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Aquaman (4K Ultra HD) $14.99 Amazon.com",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-21T00:34:43.664914Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$48.74 | Perfect Plants Thuja Green Giant Arborvitae, Liner (18-Pack), Privacy Trees at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-21T00:34:43.664914Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Furinno Turn-N-Tube 5-Tier Shoe Rack for $20 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T00:23:40.283716Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "YMMV - Home Depot In Store Only - ROVR RollR 45 qt. Wheeled Hard Cooler $129",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T00:23:40.283716Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Crocs Dylan Clog Men's Women's Black or Cognac - $22.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T00:23:40.283716Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Crocs Dylan Platform Clog (Cargo Green) - $29.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-21T00:18:09.834101Z",
@@ -138573,38 +138613,6 @@
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-07T00:37:50.878180Z",
   "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Certified Refurb RedTiger F7N Pro 4K Dash Cam w/ 64GB Card for $60 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T00:32:12.919776Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$7.26 get $2.50 Walmart Cash Palmolive Ultra Oxy Liquid Dish Soap, Grease Cutting, 70 fl oz EZ-Pour Refill Bottle",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T00:32:12.919776Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Bona Spray Mop Air Multi-Surface Cleaning Kit with Reusable Pad $19.97 + $10.00 Walmart Cash",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T00:26:34.879697Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS, AC] $1.05* | 14-Oz Heinz Yellow Mustard at Amazon",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-07T00:20:57.994218Z",
-  "code": "duplicate",
   "public": true
  }
 ]
