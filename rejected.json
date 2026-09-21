@@ -1,6 +1,14 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Odorless Aged Black Garlic Extract 700mg, Aged Black Garlic Supplements $8.09 AC and Subscribe and Save",
+  "reason": "Posted at $8.09, but Amazon showed $26.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-21T22:40:44.219472Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Toddler Girls Wide Toe Box Barefoot Glitter Sneakers $9.99",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-21T22:35:14.550391Z",
@@ -138133,22 +138141,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T22:43:28.384842Z",
   "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "David Gilmour - Live at the Circus Maximus [Blu-ray] $23.55",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-07T22:38:11.794958Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Ninja Deluxe Blender & Kitchen System for $135 + $4.99 shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T22:38:11.794958Z",
-  "code": "not_checked",
   "public": false
  }
 ]
