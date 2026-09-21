@@ -1,5 +1,37 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "JOCRELA 4K+4K Dash Cam Front and Rear, Free 128GB Card, Dash Cam for Car $65.79",
+  "reason": "Posted at $65.79, but Amazon showed $99.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-21T17:16:14.710006Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Super Mario Hatchin’ Yoshi Interactive Figure $40.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T17:16:14.710006Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Obsession by calvin klein for men - 4.2 oz edt spray $27.88",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T17:16:14.710006Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC] $23.36* | Baseus Enercore CG11 6-in-1 45W GaN Travel Adapter w/ Retractable Cable + Baseus USB C Cable at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-21T17:16:14.710006Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Adidas Adipure Shift Running Shoes (Dark Blue / Cloud White / Dark Blue) $39.20",
   "reason": "Not evaluated",
@@ -139076,62 +139108,6 @@
   "raw_title": "BrizLabs Smart Outdoor Halloween Fence Lights, 6 Lamps 32.8 ft Deck Light $19.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T17:20:22.517114Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Klein Tools MODbox 18 Pocket Tool Pouch $19.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T17:14:50.673385Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "JHK Zero Gravity Portable Recliner Camping Chair Black 2-Pack $30.37",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T17:14:50.673385Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Garden Hose 50FT, Stainless Steel Metal Water Hose with 10-Function Nozzle $19.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T17:14:50.673385Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Kung Fu Panda 2 (Blu-ray + Digital) $7.86",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T17:14:50.673385Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Wayfair $100 Digital Gift Card for $85 + digital delivery",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T17:14:50.673385Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Lenovo Idea Tab Pro Gen 2 tablet - 13\" 3.5K, Snapdragon 8s Gen 4, 8GB DDR5, 128 GB UFS 3.1 - $314.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T17:14:50.673385Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Hisense 100\" Class QD7 Series 4K Hi-QLED Smart TV w/ Allstate 3-Year Protection Plan Bundle Included for 5 Years of Total Coverage $1499.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T17:14:50.673385Z",
   "code": "not_checked",
   "public": false
  }
