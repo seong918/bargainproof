@@ -1,6 +1,14 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Women's Marino Wool Blend Socks 5Pk BOGO ±$9@ Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-21T03:59:21.296854Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Google Fi: Pixel 11 Pro 256GB Effectively FREE — 24-Mo Service + $300 Off + $799 Credits",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-21T03:48:17.420147Z",
@@ -138054,29 +138062,5 @@
   "rejected_at": "2026-09-07T04:05:42.235570Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "OREI 3 in 1 Australia/NZ Travel Adapter Plug with USB $2.95",
-  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-07T03:54:29.476840Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Outdoor Faucet Covers for Winter, Actgan 8.3 Inch H x 6 Inch W Thickened Outside Garden Faucet Socks 2 Pack, Black $4 + Free Shipping",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-07T03:54:29.476840Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "3M Over-the-Glasses Safety Eyeglass Protectors w/ Anti-Scratch Clear Lens & Side Shields $6.26 + Free Shipping w/ Prime or on $35+",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-07T03:54:29.476840Z",
-  "code": "duplicate",
-  "public": true
  }
 ]
