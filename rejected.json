@@ -1,6 +1,86 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "8-Pack Angel Soft Mega Roll Toilet Paper (320 2-Ply Sheets per Roll) $6 + Free Shipping w/ Prime or on orders over $35",
+  "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-21T16:43:18.393991Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SKILSAW 15-Amp 7-1/4-Inch Aluminum Worm Drive Circular Saw $117.49 Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-21T16:43:18.393991Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Pravish 200W GaN USB 6-Port Desktop Charger $16.49",
+  "reason": "Posted at $16.49, but Amazon showed $32.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-21T16:43:18.393991Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Vondior 102-oz Stainless Steel Airpot Coffee Dispenser w/ Pump $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T16:43:18.393991Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Boys Baggy Jeans $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T16:43:18.393991Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LETMY Solar LED Pathway Lights 8-Pack $17.80",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T16:43:18.393991Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Milwaukee M18 FUEL 18V 1 in. SDS-Plus Rotary Hammer with 5.0 Ah Battery $323.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T16:43:18.393991Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Sisosock Women's Fuzzy Socks 5-Pair Pack for $7 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T16:43:18.393991Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2x AMC Movie Tickets & Regular Popcorn Bundle from $23.56",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T16:43:18.393991Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "COCOMARTS Jelly Bras for Women No Underwire Wireless Push Up Bra (Various Colors & Sizes) $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T16:43:18.393991Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "NESLAKO Folding Sofa Bed, Flannel Futon Couch Bed with Pillow and Blanket $37.99",
   "reason": "Posted at $37.99, but Amazon showed $75.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-21T16:37:48.458551Z",
@@ -138988,38 +139068,6 @@
   "raw_title": "SucceBuy 8- x 7-Foot Water-Resistant Manual Retractable Awning for $110 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T16:47:05.181518Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS, AC] $7.20 | 12-Pack 16-Oz BODYARMOR Sports Drink (Zero Lemon Lime) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-07T16:41:29.491593Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Uineer 4-Adjustable DPI 500mAh Rechargeable 6-Button Wireless Vertical Mouse $11.49",
-  "reason": "Posted at $11.49, but Amazon showed $22.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-07T16:41:29.491593Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Kohler Highline Round Chair 12\" Height Rough-In WaterSense 1.28 GPF Soft Close Toilet $189.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T16:41:29.491593Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Energy Connoisseur 4.1 Home Theater Pack with 2x CF-70 Floors + CC-10 Center + CB-20 Bookshelves + C10 Sub $499.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T16:41:29.491593Z",
   "code": "not_checked",
   "public": false
  }
