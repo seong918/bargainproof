@@ -1,5 +1,61 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "1/2\" x 100 ft Retractable Garden Hose Reel, Automatic Slow Rewind System $63.99",
+  "reason": "Posted at $63.99, but Amazon showed $79.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-21T10:42:54.699896Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Cruxer 110dB Anti-Theft Bike Alarm with Seatpost Bracket, USB-C Recharge with Remote $13.99",
+  "reason": "Posted at $13.99, but Amazon showed $19.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-21T10:42:54.699896Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "America 250th Anniversary Commemorative Coin for $5 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T10:42:54.699896Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Outdoor Junction Box, IP66 Waterproof Electrical Project ABS Plastic Boxes, Up to 40% Off $7.74",
+  "reason": "Posted at $7.74, but Amazon showed $12.91 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-21T10:37:21.331305Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "AIGLUN LED Light Up Mask w/ Gesture Sensing $19.19",
+  "reason": "Posted at $19.19, but Amazon showed $31.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-21T10:31:50.488856Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas Fall Sale Men's T-Shirts for from $9.10 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T10:31:50.488856Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Acer Chromebook Plus Spin 514 MediaTek 14\" Touch Laptop for $499 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T10:26:16.520943Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "HmDecor Solar Pathway Lights 8-Pack for $21 w/ Prime + free shipping w/ Prime",
   "reason": "Not evaluated",
@@ -137958,69 +138014,5 @@
   "rejected_at": "2026-09-07T10:43:42.577663Z",
   "code": "low_score",
   "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Popeyes Labor Day Wings or Tenders Deal for $12",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T10:38:07.913980Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Instant Pot 4Qt VORTEX 6-in-1 Mini Air Fryer(Rosewater) $56.99 + Free S&H w/ Prime at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T10:38:07.913980Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "2-Pack DeWalt Impact Ready 1/16 in. X 2-1/4 in. L Titanium Nitride Drill Bit Hex Shank $4.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-07T10:38:07.913980Z",
-  "code": "duplicate",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "1.7L Gourmia Electric Glass Kettle w/ Digital Touch Display, Black $26.99 + Free S&H w/ Prime at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T10:26:54.193667Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Pursuit 5-in-1 130000RPM Multi-Function Jump Starter with Air Duster $49.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T10:26:54.193667Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "McDonald's Breakfast Sandwich for $2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T10:21:19.840499Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$44.99: Elite Gourmet EPM-250 Kettle Popcorn Popper, Retro-Style Tabletop, Red at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T10:21:19.840499Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Dobyns 7'1'' Rods Kaden Spinning Rod, 1-Piece, Fast Action $69.99 + Free S&H w/ Prime at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T10:21:19.840499Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
