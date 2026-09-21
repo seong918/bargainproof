@@ -1,6 +1,30 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "Patagonia Black Hole 25L Pack for $77 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T01:30:03.429401Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Fitness Gear Fixed Flat Weight Bench $79.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T01:30:03.429401Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC] $5.06* | Performance Tools 3/8\" Ratcheting Drive Adapter Socket at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-21T01:30:03.429401Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "dealnews",
   "raw_title": "Patagonia P-6 Logo LoPro Trucker Hat for $19 + free shipping w/ $60",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-21T01:19:02.026846Z",
@@ -138484,30 +138508,6 @@
   "raw_title": "Costco Members: Dyson V15 Detect Total Clean Extra Cordless Stick Vacuum + $569.99 + Shipping $9.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T01:34:03.618830Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$99.99 AMZ Timber Ridge Oversized Folding Rocking Patio, Camping Chair, Padded Outdoor Rocker with High Back",
-  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-07T01:28:25.564015Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$162 AMAZON PHI VILLA Patio Table for 6, Black Metal Dining Table w/Umbrella Hole",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-07T01:28:25.564015Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "2-Pack: Aukey MixFlex Sling 30W PD 10,000mAh Power Banks $25 + shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T01:28:25.564015Z",
   "code": "not_checked",
   "public": false
  }
