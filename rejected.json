@@ -1,6 +1,182 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$88.97* | 27\" Sceptre 1080p 100Hz 1500R VA Curved Monitor w/ Speakers at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-21T18:05:37.444456Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Beyond: Two Souls",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T18:05:37.444456Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Heavy Rain",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T18:05:37.444456Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Absolver",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T18:05:37.444456Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Scorn",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T18:05:37.444456Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Remnant: From the Ashes",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T18:05:37.444456Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Fahrenheit: Indigo Prophecy Remastered",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T18:05:37.444456Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Hand of Fate 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T18:05:37.444456Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Revlon ColorStay Pressed Powder Face Makeup, Longwearing, Fragrance-Free, Noncomedogenic, 830 Light Medium, 0.3 oz $8.47",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T18:05:37.444456Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "11.8\" Ceramic Nonstick Frying Pan $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T18:05:37.444456Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Revlon ColorStay Overtime Lipcolor, 350 Bare Maximum, 0.07 fl oz | Dual-ended liquid lipstick with clear lip gloss. Moisturizing ingredients. Won't smudge, bleed or feather. $9.48",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T18:05:37.444456Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "48MP AI Animal Detection 2K Live Cellular Trail Camera $29.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T18:05:37.444456Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Cuisinart 11\" x 11\" Non-Stick Grill Wok, Perforated BBQ Grill Basket for Grilling Veggies, Meat & Stir-Fry, Outdoor Grilling Basket for Charcoal and Gas Grills $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T18:05:37.444456Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "1.9Qt Pressurized Portable Handheld Steamer $37.78",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T18:05:37.444456Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Cuisinart Coffee Maker, Programmable, 14-Cup Glass Carafe, DCC-3200 | Stainless steel PerfecTemp coffee machine with 1-4 cup settings, strength control, auto-off, reusable gold tone filter $105.78",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T18:05:37.444456Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Cordless Vacuum Cleaner Set 600W 55KPa $69.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T18:05:37.444456Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "EASTPAK TRANS4 M – 68L Medium Checked Luggage Bag $64.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T18:05:37.444456Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Nespresso Vertuo Pop+ Samra Origin Coffee and Espresso Maker $99.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T18:05:37.444456Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "8-Night Tanzania Small-Group Flight, Hotel, and Safari Vacation for From $12,898 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T18:05:37.444456Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Team & Reader Fave Tek Gear Women’s Jackets from $13.80 on Kohls.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T18:05:37.444456Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Walmart – NULAS 48-Piece Stainless Steel Flatware Set - $25.99 w/ Coupon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T18:05:37.444456Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ergonomic Ekift Cervical Memory Foam Neck Support Pillow (Khaki) $9.99 + Free Shipping w/ Prime or $6 Fee per Order",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T18:05:37.444456Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "1 Bare Home Sheet Set, Twin XL, PINK %41 Off $40.99 $23.99",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-21T18:00:08.292401Z",
@@ -138852,86 +139028,6 @@
   "raw_title": "Linkind Linkind Matter Smart Light Bulb, LED RGBTW Color Changing Bulbs Music Sync, Dotis Ai, A19 E26 60W 800LM 2.4G WiFi, 4 Pack $18.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T18:10:42.549515Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Charbroil Classic Series 2-Burner Propane Gas Grill with Warming Rack $128.61",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T18:05:01.840700Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Homfan Rocking Egg Chair with Extra-Thick Cushions and 450 lb Capacity $199.63",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T18:05:01.840700Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Benro CLT203 2-Series Induro Classic Carbon Fiber Tripod for $130 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T18:05:01.840700Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Yeti 35-oz. Rambler Mug with Straw Lid for $17 + free shipping w/ $49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T18:05:01.840700Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Holland America 7-Night Western Caribbean Cruise for From $1,598 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T18:05:01.840700Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Halloween Monster Party Game Just $2.99 on Amazon (Reg. $6)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T18:05:01.840700Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "72\" Garage Shelving Storage Shelves $26.47",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T18:05:01.840700Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Mad Max (PC Digital Download) Steam - $1.59",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T18:05:01.840700Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Linkind Matter Smart Light Bulbs, Work with Apple Home, Alexa, Siri, Google $24.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T18:05:01.840700Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Round Trip Los Angeles - San Francisco or Vice Versa $19 OW or $38 RT Nonstop Airfares on Frontier Airlines BE (Limited Travel October - December 2026)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T18:05:01.840700Z",
   "code": "not_checked",
   "public": false
  }
