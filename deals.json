@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "c0f3d843a6e8",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20044044-amazon-charmount-10-disposable-blue-paper-plates-300-count-24-99-w-code?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "Amazon – Charmount 10\" Disposable Blue Paper Plates, 300-Count - w/ Code",
+  "raw_title": "Amazon – Charmount 10\" Disposable Blue Paper Plates, 300-Count - $24.99 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0GSTM2THJ",
+  "deal_total_cents": 2499,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 4999,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 4999,
+  "amazon_url": "https://www.amazon.com/dp/B0GSTM2THJ",
+  "amazon_checked_at": "2026-09-21T18:49:44.122797Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0GSTM2THJ",
+  "image_url": null,
+  "published_at": "2026-09-21T18:49:32.255516Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "c982281e09d6",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20045001-versace-pour-homme-dylan-blue-for-men-6-7-oz-eau-de-toilette-spray-74-93?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
