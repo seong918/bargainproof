@@ -1,6 +1,70 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "Lock n Lock Easy Essentials Twist Two-Way 12-Piece Food Storage Container Set for $14 + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T20:50:36.032259Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$14.99* | 5-Count Cricut Premium Fine-Point Replacement Blade at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-21T20:45:03.846344Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Dawn of Andromeda",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T20:39:34.036412Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ACEMAGIC AM18 Mini PC: Ryzen 7 7640HS, 16GB DDR5, 512GB PCIe SSD, USB4, OCuLink, 2.5G Dual Lan, Win11P @ $399 + F/S",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T20:39:34.036412Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "9-Day Ireland Weeklong Trip with Air & Guide $1,499.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T20:34:03.918242Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Joseph Joseph Nest Peel Set for $9 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T20:34:03.918242Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Magnetic Building Blocks 36-Piece Set Just $7.99 on Amazon (Reg. $19)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T20:34:03.918242Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$10 off on XBOX Wireless Controllers (various colors), Save on controllers designed for unparalleled comfort and precision. Offer ends 10/4. $49.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T20:34:03.918242Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
   "raw_title": "Joseph Joseph CleanTech 3-in-1 Detail Cleaning Brush for $6 + free shipping w/ $39",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-21T20:23:04.655941Z",
@@ -138556,110 +138620,6 @@
   "raw_title": "Today Only 09/97 Henckels Paradigm Ceramic 3-piece Fry Pan Set $79.99 Free shipping Costco.com",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T20:53:01.114398Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "PowerSmart 144cc 18\" Gas Push Lawn Mower w/ Steel Deck & 5-Position Height Adjustment $169.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T20:47:25.935833Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "DeWalt Atomic 20V 1/2\" Hammer Drill Kit w/ 5.0 Ah Battery & Charger for $129 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T20:41:49.313697Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "OVER $35 Worth of Tide, Gain, Downy, & Charmin JUST $10.47 at CVS (70% Savings!)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T20:41:49.313697Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "C&C California Soft Microfiber Comforter (King, Twin, or Full/Queen) $22.99 + Free Pickup at Macys or Free Shipping on $39+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T20:41:49.313697Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Jumanji: The Next Level - 4K + Blu Ray + Digital $15 Bestbuy.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T20:41:49.313697Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "LEGO Marvel Advent Calendar 2026 for $35 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T20:36:12.867176Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Coca-Cola Stock Up on Amazon: Over $50 of Soda Only $31 Shipped",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T20:36:12.867176Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Pure Garden 39 in Stand Up Weed Puller Tool Weeder, $14.49, FS, Home Depot",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T20:36:12.867176Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Fender Malibu Player Acoustic Electric Guitar $229 + Free S/H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T20:36:12.867176Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "The Magnificent Seven - 4K Blu-Ray [Standard] [4K Ultra HD Blu-ray] $13.24 Bestbuy.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T20:36:12.867176Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Baseus Bass BP1 Pro Noise Cancelling Wireless Earbuds for $24 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T20:30:37.838133Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas Messi mini soccer ball, $8.40, free shipping, adidas",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T20:30:37.838133Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "4-Pack Calvin Klein Men's Microfiber Stretch Boxer Briefs Underwear (2 Colors, S-L, 1X) $21 + Free Pickup at Macys or Free Shipping on $39+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T20:30:37.838133Z",
   "code": "not_checked",
   "public": false
  }
