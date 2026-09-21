@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "ac274d0ef57d",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20040810-amazon-mpatiby-2-pack-5-4-in-2-multi-charging-cables-7-50-w-code?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "Amazon – MPATIBY 2-Pack 5' 4-in-2 Multi Charging Cables - w/ Code",
+  "raw_title": "Amazon – MPATIBY 2-Pack 5' 4-in-2 Multi Charging Cables - $7.50 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0F8Q65NRD",
+  "deal_total_cents": 750,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 1498,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1498,
+  "amazon_url": "https://www.amazon.com/dp/B0F8Q65NRD",
+  "amazon_checked_at": "2026-09-21T07:07:24.446792Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0F8Q65NRD",
+  "image_url": null,
+  "published_at": "2026-09-21T07:07:20.039970Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "6b04d308b3c4",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20041635-lenox-blue-bay-porcelain-12-piece-dinnerware-dessert-set-for-4-53-98?utm_source=rss&utm_content=ht&utm_medium=RSS2",
