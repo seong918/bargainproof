@@ -1,5 +1,21 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Eastsport Fortress Top Loader Backpack for $10 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T21:23:38.302477Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Costway Kids Full Length Mirror with 360 Degree Rotatable Design and Shelf (White) $57 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T21:23:38.302477Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "DORESshop 3000K 3-level LED Night Lights Plug into Wall (2-Pack) $5.99",
   "reason": "Posted at $5.99, but Amazon showed $9.98 when we checked — the deal is probably over",
@@ -138172,38 +138188,6 @@
   "raw_title": "BISSELL PowerClean FurGuard Deluxe 280W Cordless Vacuum with Extra Battery $169.99 + $4.99 Shipping Costco.com",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T21:26:37.451082Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "LEGO Star Wars R2-D2 Building Set for $80 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T21:21:00.728907Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Skil 10-Piece Hex Shank Carbide Hammer Drill Bit Set for $13 + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T21:21:00.728907Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Refurbished Good: Samsung Galaxy S23+ 256GB Unlocked Smartphone (Phantom Black) $219.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T21:21:00.728907Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Today Only 09/07 Morton's The Steakhouse Two Restaurant $50 eGift Cards ($100 Value) $74.99 email Delivery Costco.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T21:21:00.728907Z",
   "code": "not_checked",
   "public": false
  }

@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "becd5dba441d",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20044944-amazon-gooloo-gt4000s-4000a-jump-starter-w-100w-charging-79-99-w-code?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "Amazon – GOOLOO GT4000S 4000A Jump Starter w/ 100W Charging - w/ Code",
+  "raw_title": "Amazon – GOOLOO GT4000S 4000A Jump Starter w/ 100W Charging - $79.99 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B09M9HQG73",
+  "deal_total_cents": 7999,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 9999,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 9999,
+  "amazon_url": "https://www.amazon.com/dp/B09M9HQG73",
+  "amazon_checked_at": "2026-09-21T21:23:43.424752Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 6,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B09M9HQG73",
+  "image_url": null,
+  "published_at": "2026-09-21T21:23:38.302477Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "fbe9580ca7ca",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20045400-2-pack-34-x22-pawtners-non-slip-waterproof-silicone-cat-litter-mat-19-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
