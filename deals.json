@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "fd2855edf156",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20040525-sns-ac-3-27-20-3-oz-johnson-s-calming-baby-shampoo-w-naturalcalm-aromas-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "20.3-Oz Johnson's Calming Baby Shampoo w/ NaturalCalm Aromas",
+  "raw_title": "[SnS, AC] $3.27* | 20.3-Oz Johnson's Calming Baby Shampoo w/ NaturalCalm Aromas at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 327,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-21T03:04:01.769549Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "c57a67121316",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20041038-amazon-cvlife-3-26-vg10-damascus-folding-pocket-knife-31-14-w-code?utm_source=rss&utm_content=ht&utm_medium=RSS2",
