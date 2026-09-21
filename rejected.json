@@ -1,5 +1,37 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Patagonia P-6 Logo LoPro Trucker Hat for $19 + free shipping w/ $60",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T01:19:02.026846Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men Relaxed Modern Hat, olive green with embroidered logo, $12 FS @ adidas via EBay",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T01:19:02.026846Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$7.76 FS WALMART+ or Pick Up Great Value Dry Sweeping Cloth Refills, 52 Count for Swiffer Mops",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T01:19:02.026846Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ryobi Speed Bench Mobile Workstation w/ 6-Compartment Small Parts Organizer for $179 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T01:13:28.903732Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$40 FS AMAZON Carrera GO Mario Kart Slot Car Race Track Set - Battery Powered (Ages 5+)",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
@@ -138486,77 +138518,5 @@
   "rejected_at": "2026-09-07T01:22:48.796098Z",
   "code": "low_score",
   "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Shark ZU561 Navigator Lift-Away Speed Self Cleaning Brushroll Lightweight Upright Vacuum with HEPA Filter, Red Peony $199.99",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-07T01:17:11.781260Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[NEW] $200.38 | Husqvarna 130 Gas Powered Chainsaw, 16 Inch at Amazon",
-  "reason": "Posted at $200.38, but Amazon showed $193.55 when we checked — the post is stale",
-  "rejected_at": "2026-09-07T01:17:11.781260Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Shark Navigator Lift-Away ADV Upright Vacuum, HEPA Filter, Blue Jean, LA301 $179.99",
-  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-07T01:11:34.640635Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Lacoo 110\" U-Shaped Chenille Sofa with Chaise for $317 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T01:11:34.640635Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "FDW | 12 Inch King Mattress | Medium Firm | Gel Memory Foam | White $217.86",
-  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-07T01:05:57.567846Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Zep House and Siding Pressure Wash Cleaner Concentrate 1-Gallon 4-Pack for $12 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T01:05:57.567846Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Monoprice Electric Dual Motor 3-Stage Height Adjustable Sit-Stand Desk Frame V2 $133",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T01:05:57.567846Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$199.99 AMAZON Apple AirPods Pro 3 Wireless Earbuds with Active Noise Cancellation",
-  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-07T01:00:20.108077Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "DuraTech 3-Piece Breaker Bar Set for $19 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T01:00:20.108077Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
