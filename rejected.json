@@ -1,5 +1,29 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Macy's Monday Markdowns Clearance Sale: Up to 80% off + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T09:36:40.519167Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "RT Flights from Denver (DEN) - Prague, Czech Republic (PRG) on Icelandair (Travel Nov/Dec 2026) $421",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T09:36:40.519167Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Cinnabon: $1 Classic Roll on October 4",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T09:36:40.519167Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Ultra-Bright Bike Tail Light, Saddle Mounted, Up to 58% Off $8.49",
   "reason": "Posted at $8.49, but Amazon showed $16.99 when we checked — the deal is probably over",
@@ -137940,22 +137964,6 @@
   "raw_title": "CyberPowerPC Gaming Desktop (Customized): Ryzen 5 9500F, RX 9070 (16GB), 16GB DDR5, 1TB SSD, 850W $1303.4",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T09:42:11.263156Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Pursuit R55 5-in-1 Jump Starter for $50 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T09:36:34.638440Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "45-Lb VEVOR Rolling Magnetic Sweeper w/ Wheels $29.99 + Free Shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T09:36:34.638440Z",
   "code": "not_checked",
   "public": false
  }
