@@ -1,5 +1,173 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$18.22 | Bosch 4x Vacuum Cleaner Bags PowerProtect Type G at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-21T19:50:02.925480Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$32.38* | Antarctic Star Small Compact Refrigerator With LED Light, 4L Capacity/6 Cans at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-21T19:50:02.925480Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Amazon Essentials Men's Active Performance Sleeveless Shirt (Various Sizes) $5.01",
+  "reason": "Posted at $5.01, but Amazon showed $5.57 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-21T19:50:02.925480Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LEVEL8 Adventure Carry-On 20 Inch Travel Bag $315.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T19:50:02.925480Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ThermoPro TP920W Bluetooth Wireless Meat Thermometer w/ Dual Probes $24.99 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T19:50:02.925480Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Lysfanga: The Time Shift Warrior",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T19:44:31.539376Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "La Roche-Posay Purifying Foaming Cleanser 13.52-Oz $13.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T19:44:31.539376Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "PUREAMOR Pheromone Perfume Oil Roll-Ons 2-Pack $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T19:44:31.539376Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Belk One Day Sale: Up to 75% off + up to 50% off, ending today + free shipping w/ $99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T19:44:31.539376Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "The North Face Men's USA 100% Cotton T-Shirt for $14 + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T19:44:31.539376Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "HOT Free Assembly Clearance on Walmart.com | Styles from $3",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T19:44:31.539376Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Trule 33\"Compression Chenille Memory Foam Accent Chair & Ottoman Set (Black Chenille) $165.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T19:44:31.539376Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nautica Men's Modern-Fit Plaid Stretch Sport Coat (Various) $49.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T19:44:31.539376Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Corsair K55 CORE RGB Membrane Wired Gaming Keyboard $34.99 + Free Shipping w/ Prime or on orders over $35",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-21T19:39:00.457741Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $4.54* | 2-Pack Vacplus Pumice Stone Toilet Bowl Cleaner at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-21T19:39:00.457741Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC] $5.93* | 57\" x 32\" Aokdom Automotive Windshield Sunshade w/ Storage Bag at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-21T19:39:00.457741Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GIGALUMI Solar Elephant Garden Statue $11.99 AC",
+  "reason": "Posted at $11.99, but Amazon showed $23.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-21T19:39:00.457741Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Progresso Rich & Hearty New England Clam Chowder Canned Soup, 18.5 oz, 4 pk $7.52",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T19:39:00.457741Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Columbia Men's PFG Tamiami II Long Sleeve Shirt $28.51",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T19:39:00.457741Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "SmartTrends 2-Pack 110ml Rechargeable Electric Salt & Pepper Grinders $18.84",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T19:39:00.457741Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "The North Face Men's Terra Peak Puffer Jacket (Smoked Pearl, Sizes: S-2XL), $104.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T19:39:00.457741Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "ICEIVY 5-Pair Women’s Warm Vintage Socks $9.99",
   "reason": "Not evaluated",
@@ -138676,142 +138844,6 @@
   "raw_title": "Amazon Essentials Men's Water-resistant Packable Puffer Coat $9.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T19:51:22.877687Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[AC] $3.99* | 41-Oz Mr. Clean All Purpose Cleaner (Ocean) at Amazon",
-  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-07T19:45:47.387565Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Defender Sentinel AI 16-Camera 4K Security Camera System for $1,720 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T19:45:47.387565Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Keter Store-It-Out MIDI Outdoor Resin Storage Shed – Weather-Resistant Horizontal Cabinet for Trash Cans, Easy-Lift Lid, 30 Cu. Ft. Capacity, Beige $179",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-07T19:40:10.637428Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Kobalt Air Tool Accessory Kit 18-pc $14.48",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T19:40:10.637428Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Amazon Basics Hearing Aid Size 675 Zinc-Air Batteries 60-Pack $3.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T19:40:10.637428Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Metabo HPT 3-1/2\" Pneumatic Palm Nailer for $25 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T19:40:10.637428Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Kobalt 40V 1800W Portable Power Station for $399 + pickup",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T19:40:10.637428Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Duncan Hines Family Size Brownie Mix Only $1.33 Shipped on Amazon",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T19:40:10.637428Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Fandango At Home: $4 Movie Mega Blowout + $20 series ONE DAY ONLY",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T19:40:10.637428Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Reebok Soft Woven Quilted Hooded Jacket - Men's $17.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T19:40:10.637428Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Franklin Soccer Goal12' x 6' Tournament Goal $132",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-07T19:34:33.401437Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Samsung Galaxy S11 Ultra Tablet 256GB (EDU/EPP Deal) $620.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T19:34:33.401437Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "adidas Men's Colombia EQT Track Top for $44, Pants for $36 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T19:34:33.401437Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Iced Coffee Sleeve 3-Pack Only $4.99 on Amazon (Keeps Drinks Cold!)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T19:34:33.401437Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "PRETTYGARDEN Womens Long Sleeve Quarter Zip Pullover Sweater with Thumb hole + $7.40 WMCB $36.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T19:34:33.401437Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "65W Monoprice Compact 3‑Port 65W GaN Charger $17.49 + FS",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T19:34:33.401437Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "IFNOW Kids Wearable Blanket (Grey) $10.99 + Free Shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T19:34:33.401437Z",
   "code": "not_checked",
   "public": false
  }
