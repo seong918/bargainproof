@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Google Fi: Pixel 11 Pro 256GB Effectively FREE — 24-Mo Service + $300 Off + $799 Credits",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T03:48:17.420147Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Google Fi: Pixel 11 Pro 256GB FREE w/ 24-Mo Service — $300 Off + $799 Credits",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T03:42:45.835864Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "VTech Sit-to-Stand Ultimate Alphabet Train, Blue $41.24 + Free S&H at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-21T03:31:42.240416Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "* YMMV * TCL - 75\" Class F35-Series 4K UHD LED Smart Fire TV (2025) - Open Box - Excellent $221.99 + Free In-Store Pickup",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-21T03:20:37.527448Z",
@@ -138054,77 +138078,5 @@
   "rejected_at": "2026-09-07T03:54:29.476840Z",
   "code": "duplicate",
   "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Husqvarna 130 Gas Powered Chainsaw 16 Inch $200.38",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T03:48:53.713329Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ZenVid 8-Electrode Smart Body Fat Scale, Dual-Frequency BIA Body Analyzer $45.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T03:48:53.713329Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "JusArt 36-Count Dual Tip Acrylic Paint Markers w/ Storage Box $8.07 w/ S&S + Free Shipping w/ Prime or on $35+",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-07T03:48:53.713329Z",
-  "code": "duplicate",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Bear Archery Apprentice 27\" Youth Bow Set (Flo Green) $14 + Free Shipping w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T03:37:40.807610Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Energy Connoisseur Speakers: 2x CF-30 Floors + CC-5 Center + 2x CB-5 Bookshelf + Sub $349 + Free S&H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T03:32:04.030159Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "5.75\" United Airlines Die-Cast Toy Airplane Model (RT6264-2) $6.96 + Free Shipping w/ Prime or on $35+",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-07T03:26:26.455610Z",
-  "code": "duplicate",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Suikoden I & II HD Remastered Gate Rune and Dunan Unification Wars (Xbox Series X) $22.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-07T03:26:26.455610Z",
-  "code": "duplicate",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Blackstone 5228 Griddle Grill Tongs, 14\", Black/Silver $9.02 + Free S&H w/ Prime or $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T03:20:48.566060Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "302-Pc Kobalt Metric & SAE Mechanics Tool Set w/ Hard Case $99 + Free Pickup",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T03:20:48.566060Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
