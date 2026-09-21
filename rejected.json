@@ -1,6 +1,14 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "261-Pc LEGO Creator 3 in 1 Retro Camera Building Set $15.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-21T11:38:07.004034Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "525-Piece LEGO Star Wars AT-AT Walker Building Set 75440 $51.99 + Free Shipping",
   "reason": "Same deal was already posted from another source",
   "rejected_at": "2026-09-21T11:32:34.871986Z",
@@ -137988,38 +137996,6 @@
   "raw_title": "$16.99: Total Chef 1.7L Electric Glass Kettle LED Light, Auto Shut-Off, Boil-Dry Protection at Woot!",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T11:39:45.364824Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Mermaid Toy Gift Set Just $13.99 on Amazon (Reg. $28)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T11:34:09.943633Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$14.99: Thermacell Mosquito Repellent Radius Zone, Gen 2.0 at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T11:34:09.943633Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Walter Hagen Men's Club House Sweater Vest (Dark Green) $8.98 + Free Shipping on $49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T11:34:09.943633Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$11.99: Tasty 600W Mini Sandwich Maker w/ Dual-Sided Nonstick Cooking Surface(Red) at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T11:34:09.943633Z",
   "code": "not_checked",
   "public": false
  }
