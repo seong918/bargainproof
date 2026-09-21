@@ -1,5 +1,21 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Goodstoworld Unisex 3D Fake Abs Printed Short Sleeve Novelty T-Shirt (Large) for $10 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T12:00:13.742597Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$149.99: PHILIPS 5-Stage Countertop RO Water Filter with Aquaporin Technology at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T12:00:13.742597Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "24-Pack Energizer MAX AAA Alkaline Batteries $6.76 w/ S&S + Free Shipping w/ Prime or on $35+",
   "reason": "Same deal was already posted from another source",
@@ -137900,46 +137916,6 @@
   "raw_title": "15 Cool & Trendy Gifts for Tween Girls (All Under $40)",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T12:01:56.556274Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ocioc 42 Inch Black Ceiling Fans with Lights and Remote $38.94",
-  "reason": "Posted at $38.94, but Amazon showed $62.80 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-07T11:56:33.437009Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Orajel Mouth Sore Medicated Rinse, Mint, 16 Oz, 3-Pack $19.04",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T11:56:33.437009Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "The Who \"Who Hits 50\" (2LP Vinyl) $24.48",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T11:56:33.437009Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Nickelodeon Extreme Tennis: Next! (Xbox Series X) $19.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T11:56:33.437009Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$4.58 Dearfoams Papa Bear Comfort Slippers (size 9-10 only)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T11:56:33.437009Z",
   "code": "not_checked",
   "public": false
  }
