@@ -1,5 +1,69 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Rubbermaid 123-Gallon Weather Resistant Decorative Lockable Outdoor Storage Cabinet $178",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T16:15:49.858567Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Philips Sonicare C3 Two-in-One Genuine Replacement Electric Toothbrush Heads (4-Pack) $17.59",
+  "reason": "Posted at $17.59, but Amazon showed $21.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-21T16:15:49.858567Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "WayLite 6ft 25W Qi2 Magnetic Wireless Charger (2-Pack) $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $19.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-21T16:15:49.858567Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Adidas Men's JABBAR LO Shoe Core Black / Cloud White / Off White $31.50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T16:15:49.858567Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Toro Flex-Force 60-volt max 15-in Straight Shaft Battery String Trimmer $49.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T16:15:49.858567Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Scott Toilet Paper 48-Count Triple Rolls Just $15 Shipped on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T16:15:49.858567Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "KOHLS FS or Pick up: $55.99 LEGO Star Wars The Mandalorian Helmet 75328 Building Kit earn $10 Kohls Cash and $12.60 in rewards",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T16:15:49.858567Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Air Purifiers (225 SF) for Bedroom and Home - 2 Pack Grey $38.75 AC + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T16:15:49.858567Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Bosch 18V PROFACTOR 1/2\" Brushless Cordless Impact Wrench (Bare Tool) $189.00",
   "reason": "Not evaluated",
@@ -138982,29 +139046,5 @@
   "rejected_at": "2026-09-07T16:19:09.081113Z",
   "code": "duplicate",
   "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Milwaukee SHOCKWAVE Impact Duty Alloy Steel Screw Driver Drill Bit Set (40-Piece) $14.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T16:13:32.739010Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Milwaukee Shockwave Assorted Drill and Driver Bit Set Alloy Steel 54 pc $24.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T16:13:32.739010Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Kobalt 24V Brushless 2-Tool Combo Kit w/ 1/2\" Drill/Driver, 1/4\" Impact Driver $129.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T16:13:32.739010Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
