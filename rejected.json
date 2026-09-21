@@ -1,5 +1,21 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Husky LED Rechargeable Detachable Tripod Work Light for $15 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T23:18:27.407567Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "PNY NVIDIA GeForce RTX™ 5070 OC Triple Fan Graphics Card 12GB GDDR7 $679.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T23:18:27.407567Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Black+Decker, Dustbuster AdvancedClean Handheld Vacuum Cordless $44.93",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
@@ -138068,22 +138084,6 @@
   "raw_title": "Ghosthorn Fishing Vest for $24 + free shipping w/ $35",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T23:22:00.559153Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "TCL 85\" NXTVISION Series Picture Frame TV, Google Smart TV QLED 4K, 85A300W $1497.99",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-07T23:16:27.206275Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Polk Audio T15 Bookshelf Speakers Pair for $125 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T23:16:27.206275Z",
   "code": "not_checked",
   "public": false
  }
