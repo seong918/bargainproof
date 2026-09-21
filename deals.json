@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "ee4ed9fa5e06",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20044107-amazon-walifrey-women-s-high-waisted-yoga-leggings-4-54-w-code?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "Amazon – Walifrey Women's High-Waisted Yoga Leggings - w/ Code",
+  "raw_title": "Amazon – Walifrey Women's High-Waisted Yoga Leggings - $4.54 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0GS8PDF4N",
+  "deal_total_cents": 454,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 699,
+  "amazon_coupon_cents": 70,
+  "amazon_effective_cents": 629,
+  "amazon_url": "https://www.amazon.com/dp/B0GS8PDF4N",
+  "amazon_checked_at": "2026-09-21T20:28:41.339878Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0GS8PDF4N",
+  "image_url": null,
+  "published_at": "2026-09-21T20:28:35.486208Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "cfd3ed04481b",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20044023-amazon-lovinpet-xl-dog-pajamas-wild-horses-print-13-49-w-code?utm_source=rss&utm_content=ht&utm_medium=RSS2",
