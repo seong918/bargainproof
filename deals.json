@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "9e7e74846b98",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20044038-amazon-velybrin-50-ft-non-expanding-garden-hose-w-nozzle-17-09-w-code?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "Amazon – Velybrin 50-Ft Non-Expanding Garden Hose w/ Nozzle - w/ Code",
+  "raw_title": "Amazon – Velybrin 50-Ft Non-Expanding Garden Hose w/ Nozzle - $17.09 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0DQLBKM5R",
+  "deal_total_cents": 1709,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 2849,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 2849,
+  "amazon_url": "https://www.amazon.com/dp/B0DQLBKM5R",
+  "amazon_checked_at": "2026-09-21T18:16:41.542385Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0DQLBKM5R",
+  "image_url": null,
+  "published_at": "2026-09-21T18:16:36.733790Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "d42cd296ca3b",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20044557-cronos-nintendo-switch-2-game-key-card-24-49-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
