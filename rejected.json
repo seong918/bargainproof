@@ -1,6 +1,14 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "Husky 4500-Sq. Ft. Turbo Oscillating Sprinkler for $20 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T23:23:42.782607Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
   "raw_title": "Husky LED Rechargeable Detachable Tripod Work Light for $15 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-21T23:18:27.407567Z",
@@ -138070,21 +138078,5 @@
   "rejected_at": "2026-09-07T23:27:35.157042Z",
   "code": "duplicate",
   "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "JBL Live Beam 3 - True wireless noise-cancelling stick-closed earbuds, 48Hrs total playback, Wireless Charging, IP55 waterproof and dustproof (Silver or Black) $129.95",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-07T23:22:00.559153Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Ghosthorn Fishing Vest for $24 + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T23:22:00.559153Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
