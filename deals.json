@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "478edd0372a0",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20044050-amazon-beforalla-outdoor-halloween-skull-projector-18-49-w-code?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "Amazon – Beforalla Outdoor Halloween Skull Projector - w/ Code",
+  "raw_title": "Amazon – Beforalla Outdoor Halloween Skull Projector - $18.49 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0DB89Y23G",
+  "deal_total_cents": 1849,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 3699,
+  "amazon_coupon_cents": 370,
+  "amazon_effective_cents": 3329,
+  "amazon_url": "https://www.amazon.com/dp/B0DB89Y23G",
+  "amazon_checked_at": "2026-09-21T19:11:37.182080Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0DB89Y23G",
+  "image_url": null,
+  "published_at": "2026-09-21T19:11:32.784139Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "65dd3fc2a687",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20043762-kasa-smart-hs200-single-pole-wi-fi-light-switch-white-11-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
