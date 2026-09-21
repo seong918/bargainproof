@@ -1,5 +1,101 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$24.50: Truly Beauty Glazed Donut After Shave Oil Jumbo, Razor Bump Treatment",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-21T15:21:09.432536Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Adidas Women SAMBA SHOES $34.80",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:21:09.432536Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Round Trip Pittsburgh to Houston Nonstop Airfares on United Airlines BE $175.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:21:09.432536Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "VTech Learn & Zoom 2-in-1 Three-Wheel Motorbike $30.37",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:21:09.432536Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Adidas Men Essentials Fleece Hoodie $15.60",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:21:09.432536Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ainfox 12-Foot Pop Up Canopy Tent for $110 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:21:09.432536Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "HomyHomey Modular 3-Seater Cloud Sectional Sofa for $430 w/ Prime + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:21:09.432536Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Scott ComfortPlus Scented Tube Toilet Paper Mega Roll 12-Pack for $5.40 via Sub. & Save + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:21:09.432536Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "RUN! lululemon Scuba Skirts, Shorts & More from $24 Shipped (Reg. $68)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:21:09.432536Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$23.24, get $11.62 Walmart Cash: Hydroxycut Hardcore Ultra Shred Weight Loss Drink Mix, Thermogenic Supplement, 20 count.Tangerine",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:21:09.432536Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Edifier G1000 2.0 Bluetooth Gaming Speakers w/ RGB Lighting (White or Black) $39.99 + Free Store Pickup at Best Buy",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:21:09.432536Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Tommy Bahama Destination Relaxation XL Jumbo Padded Club Chair $69.99 Brown or Green Free Shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:21:09.432536Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Acer Prime 3-in-1 15W Smart Magnetic Wireless Charging Station $39.98",
   "reason": "Not evaluated",
@@ -138972,78 +139068,6 @@
   "raw_title": "Wine Insiders Labor Day Wine Sale for $10 + free shipping w/ 6+ bottles",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T15:23:23.756059Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Pudolla Men's 7\" Casual Hybrid Golf Shorts with 3-Pockets $9.99",
-  "reason": "Posted at $9.99, but Amazon showed $19.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-07T15:17:50.126113Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Windex Fast Shine Foam Glass Cleaner (19oz, 6-Pack) $11.73",
-  "reason": "Posted at $11.73, but Amazon showed $12.35 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-07T15:17:50.126113Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Zity Men's Flannel Warm Fleece Lined Winter Hoodie $19.79",
-  "reason": "Posted at $19.79, but Amazon showed $29.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-07T15:17:50.126113Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "AtlanTec 2,300W Portable Inverter Generator for $223 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:17:50.126113Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Klke Z3 Open-Ear Bone Conduction Headphones for $18 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:17:50.126113Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Open-box Apple AirPods Pro 3 (2025) for $170 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:17:50.126113Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Babyeap Baby Swing for Infants, Bluetooth Control 5-point Harness Newborn Swing, 5 Sway Speed, 10 Lullabies, Gray $82.98",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:17:50.126113Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Walmart – NULAS 14-Pc Knife Block Set w/ Built-in Sharpener, Cream - $28.99 w/ Coupon",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:17:50.126113Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Takeya 24-Oz Tritan Protein Shaker (Cloud White) $12.99 + Free Store Pickup at Best Buy",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:17:50.126113Z",
   "code": "not_checked",
   "public": false
  }
