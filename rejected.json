@@ -1,5 +1,53 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Pastigio 10.1\" 1280x800 Touch Screen Frameo Smart Digital Frame $39.51",
+  "reason": "Posted at $39.51, but Amazon showed $56.45 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-21T15:54:00.287942Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Marriotto EDR1RXD1 Refrigerator Water Filter (3-Count) $13.99",
+  "reason": "Posted at $13.99, but Amazon showed $27.18 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-21T15:54:00.287942Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Brooks Men's Hyperion Max 3 Running Shoes $95.54",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:54:00.287942Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "The Fellowship of the Ring Collector's Edition Book for $12 w/ Prime + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:54:00.287942Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "USA Pan Half Baking Sheets, Set of 2 $24.99 online free shipping $16.99 in store Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:54:00.287942Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$12.99 FS PRIME WOOT Meguiar's Ultimate Interior Detailer 450ml for a satin finish",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:54:00.287942Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "SKG W9 Pro FSA Lower Back Massager for Strain Relief Deep Tissue $90",
   "reason": "Posted at $90.00, but Amazon showed $139.99 when we checked — the deal is probably over",
@@ -139108,78 +139156,6 @@
   "raw_title": "18-Oz Ozark Trail Insulated Stainless Steel Thermal Water Bottle w/ Cup (2 Colors) $6.47 + Free S&H w/ Walmart+ or on $35+",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T15:56:46.689225Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Heyface 11.8\"x11\" Compressed Disposable Towel Tablet (50-Pieces) $5.49",
-  "reason": "Posted at $5.49, but Amazon showed $9.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-07T15:51:12.414186Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Yeti Rambler Mug 35-Oz w/ Straw Lid $16.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:51:12.414186Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "T-fal Stainless Steel Compact Sandwich Maker 625 Watts $13.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:51:12.414186Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Tasty 600W Mini Sandwich Maker w/ Dual-Sided Nonstick Cooking Surface $11.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:51:12.414186Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "TP-Link AXE16000 Quad-Band WiFi 6E Router $199.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:51:12.414186Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Leaonme Cooling Comforter for From $40 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:51:12.414186Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Inflatable Stand Up Paddleboard Sets from $79.77 Shipped on Amazon (Reg. $180)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:51:12.414186Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "100ft Permanent Outdoor Lights, RGB Eaves String Lights with 36LED, Remote/APP Control $35.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:51:12.414186Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$97.75: Dprodo Heavy Duty Inversion Table, 300-Lb Capacity, Foldable Steel Back Stretcher at Walmart.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:51:12.414186Z",
   "code": "not_checked",
   "public": false
  }
