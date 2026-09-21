@@ -1,6 +1,222 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon – BGment 84\" Chenille Floral Curtains, 2 Panels - $11.69–$21.99 at Checkout",
+  "reason": "Posted at $11.69, but Amazon showed $23.39 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-21T15:37:38.383474Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Apple Watch Series 12 GPS 42mm Smartwatch $389 | 46mm $439",
+  "reason": "Posted at $439.00, but Amazon showed $389.99 when we checked — the post is stale",
+  "rejected_at": "2026-09-21T15:37:38.383474Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Jiaozimifan 115-in-1 Magnetic Tip Precision Screwdriver Set $14.99",
+  "reason": "Posted at $14.99, but Amazon showed $29.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-21T15:37:38.383474Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "HAMILTON Khaki Navy Scuba 37mm White Dial Unisex Quartz Watch $367.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:37:38.383474Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Anker 332 5-in-1 USB-C Hub w/ HDMI, 2x USB A, 2x USB-C $17.50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:37:38.383474Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Osaki AmaMedic Astoria 3D Massage Chair $1,299.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:37:38.383474Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Stio Women's Trax Power Grid Crew Pullover $23.83",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:37:38.383474Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Fanatics NFL Sale: Up to 60% off + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:37:38.383474Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Walgreens Wellness & Beauty Deals for Extra 20% off $40 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:37:38.383474Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[YMMV Open-Box Excellent] 2-in-1 Best Buy essentials Magnetic Wireless Charger $5.99 + Free Store Pickup",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:37:38.383474Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Lightning Deal]Coobiiya 10L Insulated Cooler LunchBox Tote (Beige) $5.09 + Free S&H w/ Prime or $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:37:38.383474Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Centr Weighted Vest 20 lb. with 3-Month Centr Membership $39.99 free shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:37:38.383474Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Men's Adidas Men's Run 70s 2.0 Shoes (3 Colors) $23 + F/S New Customers Or $4.95 Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:37:38.383474Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Questar 4 Running Shoes (4 Colors) $31.50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:32:08.528860Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Adidas Women's LOVE UNITES GAZELLE LO PRO SHOES Clear Pink / Cloud White / Gum $30.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:32:08.528860Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Fanatics Men's MLB Sale and Clearance: Up to 70% off + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:32:08.528860Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Puuqii 8W Solar Panel 2-Pack for Ring Cameras for $27 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:32:08.528860Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Crayola Swirl Colored Pencils 12-Count Only $1.99 Shipped for Prime Members",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:32:08.528860Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Harry's Chrome Edition Razor Set 16 Cartridges + 1 Handle $21.99 Free Shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:32:08.528860Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "lululemon Women's Softstreme High-Rise 4\" Shorts (Black, Size 0 or 2) From $19 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:32:08.528860Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "YaaFen 2-Mode Waterproof Outdoor Solar Garden Lights (2-Pack) $8.99",
+  "reason": "Posted at $8.99, but Amazon showed $17.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-21T15:26:37.500238Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Comfypil White Ergonomic Contour Memory Foam Pillow with Cooling Pillowcase $36.70",
+  "reason": "Posted at $36.70, but Amazon showed $62.31 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-21T15:26:37.500238Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "adidas Men's Daily 4.0 Shoes (Clay / Core Black / Core White) $27.30",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:26:37.500238Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Adidas Women's Terrex Free Hiker 2.0 Gore-Tex Hiking Shoes $77.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:26:37.500238Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Rust-Oleum Stops Rust Custom 5-in-1 Satin Black Spray Paint 6-Pack for $27 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:26:37.500238Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "SKG W9 Pro Lower Back Massager for $90 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:26:37.500238Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Samsung HW-Q60CF 3.1.2 Ch Soundbar with Wireless Subwoofer $299.99 free shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T15:26:37.500238Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$24.50: Truly Beauty Glazed Donut After Shave Oil Jumbo, Razor Bump Treatment",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-21T15:21:09.432536Z",
@@ -21387,14 +21603,6 @@
   "source": "techbargains",
   "raw_title": "HoverAir X1 Promax 8K WiFi Foldable Action Flying Drone (Standard Kit) $489.30",
   "reason": "Posted at $489.30, but Amazon showed $699.00 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-18T14:26:31.101483Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Apple Watch Series 12 GPS 42mm Smartwatch $389 | 46mm $439",
-  "reason": "Posted at $439.00, but Amazon showed $389.99 when we checked — the post is stale",
   "rejected_at": "2026-09-18T14:26:31.101483Z",
   "code": "price_mismatch",
   "public": true
@@ -138950,125 +139158,5 @@
   "rejected_at": "2026-09-07T15:40:01.852473Z",
   "code": "duplicate",
   "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$1.99 ac AMAZON Vitamin D3 K2 5000IU, All-Trans MK-7 100mcg, 120 Softgels",
-  "reason": "Posted at $1.99, but Amazon showed $9.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-07T15:34:27.321903Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$7.78 ac AMAZON Vabogu Cat 8 Ethernet Cable 15FT, 40Gbps 2000MHz High Speed Network Cable",
-  "reason": "Posted at $7.78, but Amazon showed $15.97 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-07T15:34:27.321903Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "BillConch Biometric Safe for $40 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:34:27.321903Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Costco Members: First Alert Rechargeable Heavy Duty Fire Extinguisher (3-A:40-BC) $29.99 + Free S&H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:34:27.321903Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "#1 Rated Gaming Laptop Brand/Line: $1,399 Lenovo Legion 5a (2026) AMD Ryzen 7 250 NVIDIA RTX 5060 16GB DDR5-5600 512GB SSD 15.3\" OLED Screen $1399",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:34:27.321903Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "BEVIGOR AA Rechargeable Batteries 16 Pack, 2800 mAh High Capacity AA Rechargeable Batteries $10.99",
-  "reason": "Posted at $10.99, but Amazon showed $19.94 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-07T15:28:56.386709Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Househerb Tens Unit 3-in-1 28-Mode Dual Channel Muscle Stimulator with 8 Pads $14.84",
-  "reason": "Posted at $14.84, but Amazon showed $26.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-07T15:28:56.386709Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Merach 53\"-62\" Height Adjustable Punching Bag Stand (No Boxing Gloves) $59.99",
-  "reason": "Posted at $59.99, but Amazon showed $79.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-07T15:28:56.386709Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Uskeyvision MPT-03 360-Degree Rotation Magnetic Phone Mount Holder $12.49",
-  "reason": "Posted at $12.49, but Amazon showed $17.49 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-07T15:28:56.386709Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Refurb Unlocked Samsung Galaxy S25 Ultra 512GB Phone for $672 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:28:56.386709Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "8\" x 4\" Holland Stone Rectangle Concrete Paver (Gray, Red or Tan) $0.39 + Free Store Pickup at Lowe's",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:28:56.386709Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "CAP 2-Piece Olympic Curl Bar with Collars, Black $39.94 + Free S&H at Walmart",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:28:56.386709Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Pavestone 8\" x 4\" x 1\" Rectangle Concrete Paver (Sierra/Smooth) $0.34 + Free Store Pickup at Lowe's",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:28:56.386709Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Snapple Zero Sugar Raspberry Tea, 16 fl oz recycled plastic bottle, Pack of 12~$9.99 With S&S @ Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-07T15:23:23.756059Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Wine Insiders Labor Day Wine Sale for $10 + free shipping w/ 6+ bottles",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T15:23:23.756059Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
