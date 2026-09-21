@@ -1,5 +1,109 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Casio W-738H Series 100M Water-Resistant 10-Year Battery Digital Sports Watch $38.68",
+  "reason": "Out of stock on Amazon when we checked",
+  "rejected_at": "2026-09-21T10:15:16.637283Z",
+  "code": "amazon_oos",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "1.2 Cubic-Foot Biometric Fingerprint Security Safe for $54 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T10:15:16.637283Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Pack 3000K LED Dimmable Plug-In Night Light w/ Dusk-to-Dawn Sensor (Black) $5.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-21T10:15:16.637283Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Vankyo Leisure 470 Pro Native 1080p Wireless Mini Projector for $100 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T10:09:47.011719Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Clax Original Collapsible Folding Cart for $242.10 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T10:04:15.601794Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "4-Night Costa Mujeres All-Inclusive Flight and Resort Vacation for From $1,558 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T10:04:15.601794Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Vevor House Floor Jacks 4-Pack for $29 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T10:04:15.601794Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Vevor 3-Tier Hidden Wall Safe for $75 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T09:58:44.143469Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "72W Starlink Mini 3-in-1 Car Charger for $13 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T09:58:44.143469Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Alienware 16X Aurora 16\" 2.5K OLED Gaming Laptop for $1,675 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T09:58:44.143469Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Lavazza Super Crema Medium Espresso Roast Whole Bean Coffee (35.2oz) $13.30",
+  "reason": "Posted at $13.30, but Amazon showed $24.18 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-21T09:53:11.856684Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Lenovo IdeaPad Slim 3i 15.6\" Laptop for $270 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T09:47:40.519597Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "5-Tier Alden Design Boltless Adjustable Steel Storage Shelf Unit (Black) $29.08 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-21T09:47:40.519597Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "AstroAI Men's Windproof Balaclava Ski Mask for $7 + free shipping w/ Prime",
   "reason": "Not evaluated",
@@ -137908,78 +138012,6 @@
   "raw_title": "KFC Family Feast Box for $25",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-07T10:15:42.969358Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "AlkiVision 2K Solar Wireless Outdoor Security Camera for $20 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T10:10:06.877728Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Ticonn Over the Door Hook Rack for $7 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T10:04:31.883930Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "KFC Cookies 4-Pack for $3",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T10:04:31.883930Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "6-Night Norway Fjords Hotel and Tour Vacation for From $3,998 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T10:04:31.883930Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Krispy Kreme Glazed Dozen for $2 w/ purchase + shipping varies",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T09:53:21.159304Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Tamoria for iPhone 16/16 Plus/iPhone 17 Camera Lens Protector Clear 3-Pack $3.49 AC + Free Shipping",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-07T09:47:45.463362Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Merrell Women's Moab 3 Low Hiking Shoes $104.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T09:47:45.463362Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "YMMV: Osprey Women's Kyte 68 Liter Backpacking Pack - Black, Medium/Large $156.92",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T09:42:11.263156Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "CyberPowerPC Gaming Desktop (Customized): Ryzen 5 9500F, RX 9070 (16GB), 16GB DDR5, 1TB SSD, 850W $1303.4",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-07T09:42:11.263156Z",
   "code": "not_checked",
   "public": false
  }
