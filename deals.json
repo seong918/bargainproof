@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "36752a36fdf8",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20046831-queen-mattress-crown-hybrid-mattress-in-a-box-medium-firm-mattress-14-in-199-99?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
+  "title": "Queen Mattress, Crown Hybrid Mattress in a box, Medium Firm Mattress(14 in)",
+  "raw_title": "Queen Mattress, Crown Hybrid Mattress in a box, Medium Firm Mattress(14 in) $199.99",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0H1W2RGPG",
+  "deal_total_cents": 19999,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 38999,
+  "amazon_coupon_cents": 19000,
+  "amazon_effective_cents": 19999,
+  "amazon_url": "https://www.amazon.com/dp/B0H1W2RGPG",
+  "amazon_checked_at": "2026-09-22T04:27:21.560300Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 0,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0H1W2RGPG",
+  "image_url": null,
+  "published_at": "2026-09-22T04:27:17.772708Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "63a5ce149a54",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20046270-34-x-82-magnetic-screen-door-for-sliding-glass-french-doors-black-5-74-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",

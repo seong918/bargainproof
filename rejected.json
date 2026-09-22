@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Vera Bradley Women's Outlet Harry Potter Cotton Large Hipster Crossbody Bag Honeydukes $27.3",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T04:27:17.772708Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] JOYROOM Starlink 3-Ports Mini Car Cigarette Lighter Charger w/ 10' Waterproof Charging Cable $15.36, 16.4' $17.97 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T04:21:46.686833Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $7.42* | 180-Ct Nature Made Vitamin D3 125 mcg 5000 IU Softgels at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T04:21:46.686833Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GTPLAYER Gaming Chair,Office Chair with Pocket Spring Lumbar Support $129.99",
+  "reason": "Posted at $129.99, but Amazon showed $259.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-22T04:21:46.686833Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Renogy Flex ShadowFlux 100watt anti shading N-type Solar Panel Black $152.24",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T04:21:46.686833Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – ARPHA Video Smart Lock w/ Handle & Doorbell - $64.99 w/ Code",
+  "reason": "Community score too low (+0) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T04:16:13.539971Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – GAOKASE 4-Pack Stackable Wire Storage Baskets - $19.49 w/ Code",
+  "reason": "Community score too low (+2) to pass without a price check — needs promo code, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T04:16:13.539971Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Beautysaid 12\" x 10-Ft EVA Shelf Liner - $9.09 w/ Code",
+  "reason": "Community score too low (+2) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T04:16:13.539971Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon – THE BLOOM TIMES 20\" Orange Fall Wreath - $14.47–$18.99 w/ Code",
   "reason": "Community score too low (+4) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-22T04:10:43.441235Z",
@@ -24734,14 +24798,6 @@
   "rejected_at": "2026-09-18T16:08:50.707229Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "GTPLAYER Gaming Chair,Office Chair with Pocket Spring Lumbar Support $129.99",
-  "reason": "Posted at $129.99, but Amazon showed $259.98 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-18T16:03:25.971256Z",
-  "code": "price_mismatch",
-  "public": true
  },
  {
   "source": "slickdeals",
@@ -137652,22 +137708,6 @@
   "raw_title": "ASRock PRO Series PRO-750G 750 W ATX 3.1 Compatible 80 PLUS GOLD Certified Power Supply $54.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T04:28:45.310490Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$24.09 AMAZON Fiskars 30-Gallon Kangaroo Collapsible Pop Up Garden Bag for Yard Waste",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-08T04:17:41.569350Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Undertale (PC Game) $2.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T04:17:41.569350Z",
   "code": "not_checked",
   "public": false
  }
