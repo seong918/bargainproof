@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Compact Travel Umbrella for Rain & Sun, 42\" Folding Small Umbrella, Black $7.79 AC",
+  "reason": "Posted at $7.79, but Amazon showed $12.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-22T00:34:58.820414Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Kershaw Blur USA Flag Folding Pocket Knife for $39 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T00:34:58.820414Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "GIGABYTE - AERO X16 - Copilot+ PC - 16\" 2560×1600 WQXGA AMD Ryzen Al 7 350 - 1TB SSD - 32GB DDR5 RAM GeForce RTX 5060 - Space Gray $1199",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-22T00:29:27.682634Z",
@@ -137933,30 +137949,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T00:39:52.862909Z",
   "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$58.71: iLIVING 12\" Wall-Mounted Exhaust Fan, 3-Speed, Thermostat, 960 CFM at Amazon",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-08T00:34:15.703010Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ZITY Men's Short Sleeve Golf Polo Collared Shirts Light Blue Large $7.49 AC (Various Colors) + Free Shipping",
-  "reason": "Posted at $7.49, but Amazon showed $14.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-08T00:34:15.703010Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "LEGO Creator 3 in 1 Space Shuttle Building Set for $8 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T00:34:15.703010Z",
-  "code": "no_signal",
   "public": false
  }
 ]
