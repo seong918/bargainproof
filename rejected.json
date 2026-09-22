@@ -1,6 +1,118 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$1.99 | The Sociology Book: Big Ideas Simply Explained (DK Big Ideas) (eBook) by Sarah Tomley, Mitchell Hobbs, Megan Todd, Marcus Weeks, DK",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-22T18:15:17.610292Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$2.99 | Surprise, Kill, Vanish: The Secret History of CIA Paramilitary Armies, Operators, and Assassins (eBook) by Annie Jacobsen",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-22T18:15:17.610292Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Ftocase GL1 Open-Ear Audio Bluetooth Smart Sunglasses $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $19.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-22T18:15:17.610292Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Golf Advent Calendar $22.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T18:15:17.610292Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "(Resale) Logitech G305 Lightspeed Wireless Gaming Mouse (Black) $17.12",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T18:15:17.610292Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "HTM Vibration Plate Exercise Machine $38.92",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T18:15:17.610292Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Briarwood Lane Pittsburgh Steelers Garden Flag $7.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T18:15:17.610292Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "HW 3500mAh 1.5V Non-Rechargeable AA Lithium Batteries 12-Pack $9.96",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T18:15:17.610292Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "HOTO 12-in-1 Electric Screwdriver Rechargeable $27.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T18:15:17.610292Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Nike Men's Winflo 12 Running Sneakers for $60 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T18:15:17.610292Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Bosch 18V 8Ah Lithium-Ion Battery & Charger for $199 + free Bosch Bosch 2.6-Gallon Wet/Dry Vac + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T18:15:17.610292Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Popular Board Books from $3.52 on Amazon (Reg. $8)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T18:15:17.610292Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "6 Pack Solar Spot Lights Outdoor Waterproof With 14 Big LEDs（2 Modes）$18.99 with coupon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T18:15:17.610292Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Perry Ellis Portfolio Men's Modern-Fit Stretch Dress Pants (Black Check Pattern) $19.99 + Free Store Pickup at Macy's or Free Shipping on $39+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T18:15:17.610292Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[YMMV, AC] $4.80* | 5-Pack Zebra Pen Mildliner Double-Ended Highlighter (Fluorescent Colors) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-22T18:09:45.647368Z",
@@ -138108,70 +138220,6 @@
   "raw_title": "[Samsung EPP/EDU] 37\" ViewFinity S70D 4K UHD HDR10 60Hz VA Monitor $249.99 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T18:19:41.729582Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "85\" Hisense 65E7SF Hi-QLED 4K 144Hz Mini-LED Fire TV $997.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:14:10.164747Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Crayola Marker Airbrush Spray Art Kit with 8 Washable Markers and 5 Stencils $17.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:14:10.164747Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "6' Portable Folding Bench $29.09",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:14:10.164747Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Heavy Duty Toenail Clippers 8-Piece Set for $19 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:14:10.164747Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "J.Crew Factory Waffle-Knit Hoodie for $27 + free shipping w/ $75",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:14:10.164747Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Adorable Wooden Ghost Decor Set Just $19.97 at Walmart",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:14:10.164747Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Fosi Audio PHO5 5-Channel Headphone Amplifier $35 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:14:10.164747Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "80-Piece H & B Drawing Sketching Kit $11.99 + Free Shipping w/ Prime or $6 Fee per order",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:14:10.164747Z",
   "code": "not_checked",
   "public": false
  }

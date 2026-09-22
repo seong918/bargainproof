@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "6eb7579878b1",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20048658-amazon-bsrgms-2-pack-knee-compression-sleeves-6-49-w-code?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "Amazon – BSRGMS 2-Pack Knee Compression Sleeves - w/ Code",
+  "raw_title": "Amazon – BSRGMS 2-Pack Knee Compression Sleeves - $6.49 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0H45KBZPV",
+  "deal_total_cents": 649,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 1299,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1299,
+  "amazon_url": "https://www.amazon.com/dp/B0H45KBZPV",
+  "amazon_checked_at": "2026-09-22T18:15:26.499625Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0H45KBZPV",
+  "image_url": null,
+  "published_at": "2026-09-22T18:15:17.610292Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "b9877b2dfd89",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20048352-husqvarna-power-axe-225i-14-battery-powered-cordless-chainsaw-w-battery-charger-264-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
