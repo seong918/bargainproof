@@ -1,5 +1,21 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$14.99 John Fogerty Legacy: The Creedence Clearwater Revival Years [Translucent Cobalt 2 LP] [Only @ Best Buy] [LP] [VINYL]",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T01:13:47.986154Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas Women's Lightblaze Shoes (Core Black / Matte Silver / Off White) $35.00 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T01:13:47.986154Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Christopher Knight Home Tina Outdoor 3-Seater Acacia Wood Daybed for $288 + free shipping",
   "reason": "Not evaluated",
@@ -137702,21 +137718,5 @@
   "rejected_at": "2026-09-08T01:19:07.230825Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ThermoPro Dual Probe Wireless BBQ & Grilling Meat Thermometer (Red, TP828BW) $29.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T01:13:31.380371Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "8\" 2-in-1 Long Handle Weed Puller Tool w/ 6-Tine Rake & Garden Hoe $9.89 + Free Shipping w/ Prime or on $35+",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-08T01:13:31.380371Z",
-  "code": "duplicate",
-  "public": true
  }
 ]
