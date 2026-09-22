@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "3d8bc6452069",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20048304-prime-13-88-the-hobbit-a-graphic-novel-hardcover-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "The Hobbit: A Graphic Novel (Hardcover)",
+  "raw_title": "[Prime] $13.88 | The Hobbit: A Graphic Novel (Hardcover) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1388,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "prime"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 6,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-22T14:29:07.098907Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "440d64c30c7c",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20047587-3-in-1-percussion-massage-gun-w-detachable-extension-handle-12-massage-heads-9-49-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",

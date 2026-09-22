@@ -1,6 +1,166 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$59.99 | Frigidaire FF05DISPC1 1/2 HP Corded Garbage Disposal for Kitchen Sinks at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-22T14:29:07.098907Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "SABRENT 3.5 Inch 74 in 1 Internal Flash Media Card Reader/Writer with USB Port $4.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T14:29:07.098907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Merten & Storck 10\" Pre-Seasoned Carbon Steel Frying Pan Skillet $34.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T14:29:07.098907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "6-Quart DUMOS Enameled Cast Iron Dutch Oven Pot w/ Lid (Gradient Blue) $29.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T14:29:07.098907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "BOOJO Men's Compression Sleeveless Shirts 5-Pack $16.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T14:29:07.098907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "The New York Times Cooking No-Recipe Recipes Cookbook Hardcover $13.12",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T14:29:07.098907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "STANLEY IceFlow Fast Flow Jug 40 oz $29.96",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T14:29:07.098907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "I Love You to the Moon and Back Board Book $3.52",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T14:29:07.098907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "PEANUTS 2027 Day-to-Day Calendar $13.67",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T14:29:07.098907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "CONGRU 3 Pcs Spider Web Costume for Women $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T14:29:07.098907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Aircraft: The Definitive Visual History (DK Definitive Transport Guides) $15.63",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T14:29:07.098907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Curad Large Neoprene Pull-Over Closed Patella Knee Support $3.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T14:29:07.098907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Frigidaire FF05DISPC1 1/2 HP Corded Garbage Disposal $59.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T14:29:07.098907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Amazon Basics 25W Qi2.2 Certified Wireless Charging Pad $9.71",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T14:29:07.098907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Baseus 240W USB-C Retractable Cable 2-Pack $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T14:29:07.098907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "44-Piece Amazon Basics Student Success Back to School Supply Kit $9.39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T14:29:07.098907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "UK Bonitoys Quad 15.6\" Laptop Screen Extender for $228 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T14:29:07.098907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Upcoming: McDonald's Monopoly Game for From $2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T14:29:07.098907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "StackSocial Microsoft Office Deals for From $9.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T14:29:07.098907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "1200W Phanteks AMP GH 80 Plus Platinum Fully Modular ATX 3.1 PSU (Black) $129.99 w/ $10 Rebate + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T14:29:07.098907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Curad Large Neoprene Pull-Over Closed Patella Knee Support (Black) $3.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-22T14:23:36.081823Z",
@@ -137524,54 +137684,6 @@
   "raw_title": "Durafly D.H.100 Vampire V3 PNF \"RAF Camo Edition\" 70mm EDF Jet EPO 1100mm $147.19",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T14:31:22.569742Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "SONGMICS Duet Piano Bench with Padded Cushion and Storage Compartment $65.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T14:25:47.934780Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "SONGMICS Office Chair Swivel Makeup Vanity Desk Chair $52.69",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T14:25:47.934780Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "SONGMICS 100L 1-Section Laundry Basket with Lid $31.96",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T14:25:47.934780Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "SONGMICS Wooden Suit Hangers 10 Pack Extra-Wide Shoulder $27.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T14:25:47.934780Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Fraggle Rock: The Complete Series - Apple TV - $19.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T14:25:47.934780Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Mini Karaoke Machine with 2 Wireless Microphones, 2026 TOP Kids Portable Bluetooth Karaoke Machine $10 AC + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T14:25:47.934780Z",
   "code": "not_checked",
   "public": false
  }
