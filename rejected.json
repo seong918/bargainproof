@@ -1,6 +1,62 @@
 [
  {
   "source": "dealcatcher",
+  "raw_title": "Anflag Peak 6000A 12V 16800mAh Portable Car Jump Starter $35.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T17:03:28.865482Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Zeagoo Long Sleeve Square Neck Basic Striped Ribbed Knit Tshirts $5.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T17:03:28.865482Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "13-Night Costa Rica & Panama Flight, Hotel, and Tour Vacation for From $5,638 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T17:03:28.865482Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ball 12-Count 16-oz. Regular Mouth Mason Jars w/ Lids & Bands for $13 + pickup",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T17:03:28.865482Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "AMD Ryzen 9 9900X Desktop Processor + Rosewill FROSTMAX 240mm Digital ARGB AIO CPU Cooler $373",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T17:03:28.865482Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "QVC Deals: Blackstone 22\" Griddle Bundle $195, Dr. Scholl's Clogs $35, Laura Geller 4-Pc Palette Set $30 + New Customers $15 Off $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T17:03:28.865482Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$3.98 Walmart Pick up (regional) Prestone Windshield Washer Fluid , Cleaner/De-Icer, -34 Degrees, 1 Gallon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T17:03:28.865482Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
   "raw_title": "G Gradual Men's Athletic Workout T-Shirts Moisture Wicking Running Shirts $9.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-22T16:57:59.521068Z",
@@ -138044,54 +138100,6 @@
   "raw_title": "10-Night Italy Flight, Hotel, and Tour Vacation for From $6,196 for 2",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T17:07:22.092554Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Kicking Horse Coffee Smart Ass Medium Roast Organic Kosher Coffee (10oz) $9.35",
-  "reason": "Posted at $9.35, but Amazon showed $15.59 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-08T17:01:47.674829Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Tineco FLOOR ONE i6 Stretch Wet/Dry Vacuum $259.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:01:47.674829Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Wilton Perfect Results Premium Non-Stick Fluted Tube Pan 9.51\" $10.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:01:47.674829Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Domino's Four $25 eGift Cards ($100 Value) for $80 + email delivery",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:01:47.674829Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Extra 30% Off Spanx Sale - AirEssentials Collection from $27.30",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:01:47.674829Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Select Walmart Stores: Disney Baby Boys Winnie the Pooh & Tigger Plush Slippers $1.85 [Limited Availability]",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:01:47.674829Z",
   "code": "not_checked",
   "public": false
  }
