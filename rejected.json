@@ -1,5 +1,69 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$6.37* | 19-Oz Frost King ACF19 Air Conditioner Coil Foaming Cleaner at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-22T17:09:00.287303Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Zeagoo Women's Turtleneck Sweater $12.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T17:09:00.287303Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ekouaer Womens Pajama Sets Long Sleeve Button Down 2 Piece Lounge Set Green $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T17:09:00.287303Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "ACEMAGIC M5 Mini PC Core 5 220H, 24GB RAM, 512GB SSD $539.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T17:09:00.287303Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "20% Off + $10 Off $50 Select Styles: Kohl's LEGO Extravaganza",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T17:09:00.287303Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$10 FS WALMART+ or Pick up LEGO Classic Creative Suitcase 10713 - Includes Sorting Storage Organizer Case with Fun Colorful Building Bricks, Preschool Learning Toy for Kids",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T17:09:00.287303Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "XFX AMD Radeon RX 9070 OC (white) $619.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T17:09:00.287303Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "20-Piece Lock & Lock Easy Essentials Food Storage Container Set $21.96 + Free Store Pickup at Macy's or Free Shipping on $39+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T17:09:00.287303Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Anflag Peak 6000A 12V 16800mAh Portable Car Jump Starter $35.99",
   "reason": "Not evaluated",
@@ -138052,54 +138116,6 @@
   "raw_title": "Best Buy: DESLOC B200 Smart Lock Keyless Entry Fingerprint Deadbolt with Handle/Lever Set Black $79.99 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T17:12:56.584480Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS] $23.75 | 32-Oz DevaCurl No-Poo Original Non-Lathering Cleanser at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-08T17:07:22.092554Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Rapsakemoh Wooden Bread Bow Knife $6",
-  "reason": "Posted at $6.00, but Amazon showed $9.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-08T17:07:22.092554Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Lysol Disinfectant Wipes Lemon & Lime Blossom 4-Pack 80-Count $12.08",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:07:22.092554Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "AFLYDOG 2-in-1 Apple Watch & iPhone Wall Charger w/ Built-In Retractable Lightning Cable $9.40",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:07:22.092554Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "J.Crew Heritage Cotton Crewneck Sweater for $59 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:07:22.092554Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "10-Night Italy Flight, Hotel, and Tour Vacation for From $6,196 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:07:22.092554Z",
   "code": "not_checked",
   "public": false
  }
