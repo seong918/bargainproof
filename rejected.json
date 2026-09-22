@@ -1,5 +1,77 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Christopher Knight Home Tina Outdoor 3-Seater Acacia Wood Daybed for $288 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T01:02:43.732634Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Halloween Costumes from $15 on Target.com | Disney, KPop Demon Hunters & More",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T01:02:43.732634Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "EgoHome StarryRest 12\" Queen Hybrid Mattress for $154 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T00:51:36.659689Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "KUNPHY Ultrasonic Retainer Cleaner Machine, 48kHz Dental Cleaning Pod $17.99 AC",
+  "reason": "Posted at $17.99, but Amazon showed $29.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-22T00:46:04.333457Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$79 Walmart Acer 27\" Full HD (1920 x 1080) Gaming Monitor, AMD FreeSync Technology, 144Hz, 1ms (VRB), sRGB 99%, Black, SA273 P0bi",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T00:46:04.333457Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$2.19: Children of Morta @ Steam",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T00:46:04.333457Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$139 Walmart Acer Nitro 31.5\" Curved Full HD Gaming Monitor (1920 x 1080) with AMD FreeSync Premium Technology, 240Hz, ED320Q W0biip",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T00:46:04.333457Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$699.99 | Samsung 27\" Odyssey G8 (G80HF) Gaming Monitor - 5K Resolution, Fast IPS at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-22T00:40:30.303649Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$1700 Walmart MSI Codex Z2 Gaming Desktop AMD Ryzen 7 8700F NVIDIA RTX 5070TI 16GB - 16GB DDR5 1 TB SSD Win 11 Black",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T00:40:30.303649Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Compact Travel Umbrella for Rain & Sun, 42\" Folding Small Umbrella, Black $7.79 AC",
   "reason": "Posted at $7.79, but Amazon showed $12.99 when we checked — the deal is probably over",
@@ -137685,270 +137757,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T01:07:54.751849Z",
   "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$6 AC AMAZON COSLUS C30 Electric Toothbrush for Adults, Effective Yet Gentle Ultra-Clean | 3 Intensities & 5 Modes, 2 Types Soft or Medium Firm Heads,",
-  "reason": "Posted at $6.00, but Amazon showed $9.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-08T01:02:17.443876Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Latitude Run Aanay Dimmable Bathroom Vanity Light for $54 in cart + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T01:02:17.443876Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Red Barrel Studio Harlow Solid Wood Platform Bed for $150 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T01:02:17.443876Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "R1 Concepts Front Brake Kit for 2017-2020 Hyundai Elantra $125.60",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T00:56:42.877990Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "GORILLA GRIP® Slip Resistant Rug Gripper Pads 2ft by 3ft Cream $6.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T00:56:42.877990Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "ZKH Small Parts Organizer Box, Clear Tackle Box Organizer with 4x12 Compartments $19.12",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T00:56:42.877990Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "WEIZE 10x10 Slant Legs Pop Up Canopy Tent 8x8 Top $59.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T00:56:42.877990Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "STANLEY Quencher H2.0 Flow State Tumbler, 40 oz, Cobalt $27.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T00:56:42.877990Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Bedsure King Size Comforter Set, Beige 3 Pcs $27.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T00:56:42.877990Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Rakukiri 60x29x11 in. Oval Raised Garden Bed, 68 Gallons $16.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T00:56:42.877990Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Keychron P6 Ultra $143.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T00:56:42.877990Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Sun Joe SPX100-GO 1800 PSI 13-Amp Electric Pressure Washer $99.96",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T00:56:42.877990Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "TERRO Ant Dust Ant Powder Killer $5.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T00:56:42.877990Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Waist Tool Belts with 13 Pockets, Waxed Canvas, Adjustable Length 28 to 45 Inches $8.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T00:56:42.877990Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Starting a Business 101 by Michele Cagan CPA $3.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T00:56:42.877990Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Black Cable Zip Ties 400-Pack $5.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T00:56:42.877990Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Manhattan Toy Snuggle Pod Hunny Bunny Beige First Baby Doll with Cozy Sleep Sack $14.22",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T00:56:42.877990Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "GORILLA GRIP Cat Litter Box Mat 24x17 Gray $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T00:56:42.877990Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "ZUZUAN 17L Foldable Waterproof Cleaning Supply Caddy with 6 Pockets $12.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T00:56:42.877990Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "VEVOR 22-Drawer Storage Organizer $19.10",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T00:56:42.877990Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Abba Patio Lyon Market Umbrella w/ Crank Lift for $32 + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T00:56:42.877990Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Calvin Klein Women's Coats at Macy's for $40 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T00:56:42.877990Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$160AC FS EBAY REFURB ac Samsung Galaxy A17 5G 2025 A176U Smartphone - 128GB - Unlocked",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T00:56:42.877990Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Bluey Pass the Parcel Electronic Game $5.49 + Free Store Pickup at Target or Free Shipping on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T00:56:42.877990Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Citizen Men's Sport Casual Brycen Eco-Drive Chronograph Stainless Steel Watch for $193 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T00:51:05.959329Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Bluey Keepy Uppy Action Game $4.99 + Free Store Pickup at Target or Free Shipping on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T00:51:05.959329Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Samsung EDU/EPP Bespoke AI 4 door French door 29 inch full depth Refrigerator $2009",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T00:51:05.959329Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$28 FS AMAZON AC Wavytalk Hair Dryer with Diffuser, Blown Away Ionic Hair Dryer for Curly Hair with Comb, 1875W Fast Drying Blow Dryer with Ceramic Technology,",
-  "reason": "Posted at $28.00, but Amazon showed $49.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-08T00:45:28.991231Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Beistle Glittered Microphone - Silver $3.35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T00:45:28.991231Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Suitmeister Men's Light-Up Christmas Suit for $35 + free shipping w/ $39",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T00:45:28.991231Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas Men's or Women's Busenitz Vintage Shoes (Aurora Coffee / Wonder Clay / Gum) $35.70 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T00:45:28.991231Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "AMC $50 Gift Card for $40",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T00:45:28.991231Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Popeyes Louisiana Kitchen Offer: 2-Pc Signature Chicken or 3-Pc Tenders Big Box $6",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T00:39:52.862909Z",
-  "code": "not_checked",
   "public": false
  }
 ]
