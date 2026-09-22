@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "512 Tiles (128 x 4 Packs) Rubber-Cal ReUz Rubber Tiles - 6mm x 20\" x 20\" - Tan/White Speckle $4236.68",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-22T08:19:52.155936Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "30\" Lawn Leveling Rake for $16 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T08:19:52.155936Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ugreen Nexode 100W 4-Port GaN Desktop Charging Station for $30 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T08:19:52.155936Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$219.24 | Citizen Eco-Drive Ladies' Disney Aladdin 30th Anniversary, Princess Jasmine Teal Leather Strap Watch and Pin Gift Set, Mother-of-Pearl Dial, Crystals, 30mm at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-22T08:14:20.941038Z",
@@ -137342,29 +137366,5 @@
   "rejected_at": "2026-09-08T08:23:52.060323Z",
   "code": "no_signal",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "16-Lb Kibbles 'n Bits Small Breed Mini Bits Savory Beef & Chicken Dry Dog Food $8.23 w/ S&S + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-08T08:18:15.923674Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "32-Piece MulWark Precision Hobby Knife Set w/ Interchangeable Blades & Sharpening Stone $11.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-08T08:18:15.923674Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Aqueon Aquarium Silicone Sealant Clear, 3 Ounces $8.54 or less",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-08T08:18:15.923674Z",
-  "code": "low_score",
-  "public": true
  }
 ]

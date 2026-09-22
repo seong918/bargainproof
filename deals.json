@@ -1,5 +1,38 @@
 [
  {
+  "deal_id": "6c5e2166d592",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20047257-sns-ac-13-88-4-6-pack-16-9-oz-coca-cola-zero-sugar-soda-3-47-each-at-amazon-57-8-each?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "4 × 6-Pack 16.9-Oz Coca-Cola Zero Sugar Soda at Amazon (57.8￠ each)",
+  "raw_title": "[SnS, AC] $13.88 | 4 × 6-Pack 16.9-Oz Coca-Cola Zero Sugar Soda ($3.47 each) at Amazon (57.8￠ each)",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1388,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-22T08:19:52.155936Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "1ebce9a899cd",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20047293-1-99-what-if-2-additional-serious-scientific-answers-to-absurd-hypothetical-questions-ebook-by-randall-munroe?utm_source=rss&utm_content=ht&utm_medium=RSS2",
