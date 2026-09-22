@@ -1,5 +1,21 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "[YMMV, SnS, AC] $9.29* | 16-Ct BIC Gel-ocity Ocean Themed Gel Pen Set (0.7mm, Med Point, Assorted) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T23:19:33.657466Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "KOOPER Hanging Solar Lanterns Outdoor Waterproof 2 pack $12.99 after coupon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T23:19:33.657466Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Nike Men's or Women's Air Diamond Turf 2 Shoes for $103 + free shipping",
   "reason": "Not evaluated",
@@ -137821,22 +137837,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T23:29:51.146111Z",
   "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "East Oak Cordless Electric Lunch Box for $63 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T23:18:59.650640Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Mafia: The Old Country for PlayStation 5 for $30 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T23:18:59.650640Z",
-  "code": "not_checked",
   "public": false
  }
 ]
