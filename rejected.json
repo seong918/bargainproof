@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[AC] $43.99* | 2 × 4-Pk Diomart Wireless Under Cabinet Lighting w/ Motion Sensor, RGB & Remote ($22 each) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-22T02:03:37.178704Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ATTACANTO II Men's Turf Soccer Cleats $22.39 AC",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T02:03:37.178704Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Prime: Rrtizan Handheld Misting Fan Portable Mister 5000mAh Rechargeable Foldable 3-in-1 (Pink) $13.19 + Free Shipping",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-22T01:58:05.609589Z",
