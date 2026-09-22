@@ -1,5 +1,38 @@
 [
  {
+  "deal_id": "e3a77992aac0",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20046348-2-pack-50-oz-ecos-free-clear-liquid-laundry-detergent-100-loads-9-49-w-s-s-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "2-Pack 50-Oz ECOS Free & Clear Liquid Laundry Detergent (100 Loads) w/ S&S + or on",
+  "raw_title": "2-Pack 50-Oz ECOS Free & Clear Liquid Laundry Detergent (100 Loads) $9.49 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 949,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "sns",
+   "prime",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-22T05:28:05.971343Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "ccc3bd9385dc",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20046414-34-99-merten-storck-10-pre-seasoned-carbon-steel-frying-pan-skillet-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
