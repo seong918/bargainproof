@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon – Walifrey Women's Wide-Leg Sweatpants w/ Pockets - $5.99 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T03:54:07.829808Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "278-Piece LEGO Super Mario Interactive LEGO Mario & Kart (72043) $41.99 + Free Shipping",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-22T03:54:07.829808Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon – IVOODi 4.5kPa Rechargeable Air Pump w/ 4 Nozzles - $11.99 w/ Code",
   "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-22T03:48:37.328469Z",
@@ -128408,14 +128424,6 @@
   "public": false
  },
  {
-  "source": "slickdeals",
-  "raw_title": "278-Piece LEGO Super Mario Interactive LEGO Mario & Kart (72043) $41.99 + Free Shipping",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-08T21:23:21.540271Z",
-  "code": "low_score",
-  "public": true
- },
- {
   "source": "techbargains",
   "raw_title": "Orico 10-in-1 Apple Mac Mini M4 & M6 Desktop Docking Station (M.2 SSD Slot, 4K HDMI, Card Reader, More) $24.99",
   "reason": "Posted at $24.99, but Amazon showed $49.99 when we checked — the deal is probably over",
@@ -137589,14 +137597,6 @@
   "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-08T04:01:07.940158Z",
   "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Metabo HPT 18V MultiVolt Brushless Pro 16-GA Straight Finish Nailer Kit, 16 Gauge Finish Nailer, Power Tool with 2.0Ah Lithium Ion Battery, Brushless Motor, NT1865DSA $273.69",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-08T03:49:56.055829Z",
-  "code": "duplicate",
   "public": true
  }
 ]
