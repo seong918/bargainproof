@@ -1,6 +1,86 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$1.88 S&S AMAZON Progresso French Onion, Italian Wedding or Pot Roast w Veggies Canned Soup, 18.5 oz",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T16:41:21.528385Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Makolle Kids Digital Camera $16.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T16:41:21.528385Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Amazon Basics Flextra Tall Kitchen Drawstring Trash Bags 13 Gallon 90 Count $7.55",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T16:41:21.528385Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Blackstone Griddle Cleaning Kit, 8 Pieces $14.96",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T16:41:21.528385Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Ticonderoga Pencils 180-Count Just $20 Shipped on Amazon (Reg. $39)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T16:41:21.528385Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Apple MacBook Pro: 16.2\", M5 Max (18C CPU/40C GPU), 64GB RAM, 2TB SSD $4299.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T16:41:21.528385Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$20.69 FS WALMART+ Marketplace Lixada 10 Ltr Multifunctional Bicycle Rear Seat Bag Waterproof Cycling Bike Rack Trunk Cargo Bag",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T16:41:21.528385Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nike Air Jordan Skyline Low Shoes (Iced Carmine/Sail/Lawn) $59.97 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T16:41:21.528385Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Round Trip Boston - Orlando FL or Vice Versa $159 Nonstop Airfares on Major Airlines BE (Travel October - November 2026)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T16:41:21.528385Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "xBloom 5th Anniversary Coffee Machine $599",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T16:41:21.528385Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "luxeflow 24.5\" Ceramic Table Lamps Set of 2, Modern Farmhouse Bedside Lamps (2 LED Bulbs Included) $34.99",
   "reason": "Posted at $34.99, but Amazon showed $69.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-22T16:35:50.489425Z",
@@ -137972,70 +138052,6 @@
   "raw_title": "As Fairy 2026 Deep V Wireless Push Up Bras (various) from $7.50",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T16:45:05.588947Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "PhatroyYee 4-in-1 4500V Solar USB-Rechargeable 4000mAh Outdoor Bug Zapper $29.99",
-  "reason": "Posted at $29.99, but Amazon showed $59.98 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-08T16:39:30.777693Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Shop Fox W1849 Resaw Bandsaw 14\" $1,271.27",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T16:39:30.777693Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Briignite Dimmable Plug-In Night Lights w/ Dusk-to-Dawn Sensor 2-Count $5.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T16:39:30.777693Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Snomd Digital Oral Thermometer DT007 $3.59",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T16:39:30.777693Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Fall & Halloween Balloon Arch Kits from $4 on Amazon (Reg. $10)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T16:39:30.777693Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Kate Spade End of Summer Sale: Wink Wristlet (English Sea) $46.08, Breezy Mesh Tote $65.40 + Free Shipping $21.6",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T16:39:30.777693Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$19.99 Sale for Watson: The Complete Series",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T16:39:30.777693Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Adidas Women's Adizero SL2 Running Shoes (Core Black/Cloud White/Grey Five) $38.00 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T16:39:30.777693Z",
   "code": "not_checked",
   "public": false
  }
