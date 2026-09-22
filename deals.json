@@ -1,5 +1,38 @@
 [
  {
+  "deal_id": "bec407c0b99e",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20047278-sns-ac-3-71-2-14-5-oz-barilla-proteinplus-multigrain-penne-pasta-1-86-each-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "2 × 14.5-oz Barilla ProteinPLUS Multigrain Penne Pasta",
+  "raw_title": "[SnS, AC] $3.71* | 2 × 14.5-oz Barilla ProteinPLUS Multigrain Penne Pasta ($1.86 each) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 371,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-22T13:12:51.987262Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "4fa158c4182d",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20047083-91-95-dewalt-20v-max-heat-gun-w-flat-hook-nozzle-attachments-tool-only-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
