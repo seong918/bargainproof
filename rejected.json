@@ -1,6 +1,94 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Prime members, GEARWRENCH 2 Pc. Indexing Pry Bar Set, 8\" & 16\" - 82300, $43.90",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T11:00:13.394418Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "eBay America's 250th Anniversary Collectibles Deals for From $3.79 + shipping varies",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T11:00:13.394418Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$4.99: SABRENT 3.5 Inch 74 in 1 Internal Flash Media Card Reader/Writer with USB Port (CR-USNT) at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T11:00:13.394418Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Vtoman X7 4250A 160PSI Air Compressor 10-Layer Safety Car Jump Starter Kit $46.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T10:54:41.997522Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Zity Men's Adjustable Hood Windproof 4-Pocket Lightweight Packable Raincoat $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T10:54:41.997522Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "27L The North Face Women's Borealis Backpack (Gardenia White/Black) $59.43 + Free Shipping",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-22T10:49:08.484351Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "28\" W x 12\" D x 60\" H Yaheetech 5-Tier Heavy Duty Storage (Black) $35.61 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-22T10:49:08.484351Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas Men's Terrex Rockadia Shoes for $42 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T10:49:08.484351Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas Men's GameCourt 3 All Court Shoes for $42 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T10:49:08.484351Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "UGREEN Nexode 20000mAh 67W Built-in USB-C Power Bank $53 & More + Free Shipping",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-22T10:43:36.159795Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$49.99: Harbor Breeze Mazon 44-in Brushed Nickel Flush Mount Indoor Ceiling Fan at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T10:43:36.159795Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "KPop Demon Hunters (Soundtrack from the Netflix Film) (Vinyl LP + MP3 Album) $20.48 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+4) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-22T10:38:04.373365Z",
@@ -137396,14 +137484,6 @@
   "raw_title": "GORILLA GRIP® Slip Resistant Rug Gripper Pads for Hardwood Floor, 2ft by 3ft Cream $6.99",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-08T11:00:19.360007Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "LS Apparel Compact Vacuum Sealer for Food, 75Kpa Food Sealer Machine $11",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-08T10:43:30.499580Z",
   "code": "low_score",
   "public": true
  }
