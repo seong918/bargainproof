@@ -1,5 +1,77 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "250th Anniversary Commemorative Coin for $5.70 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:23:06.412927Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Yaheetech 5-Tier 28\" W Heavy Duty Storage Shelf for $32 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:23:06.412927Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Volisun Solar Pathway Lights 12-Pack for $40 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:23:06.412927Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Mountain Dew 24-Pack Only $8 on Walmart.com (Just 33¢ Per Can!)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:23:06.412927Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Jordan Unisex Cordura Crossbody Logo Bag (4 Colors) $16 + Free Pickup at Macys or Free Shipping on $39+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:23:06.412927Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$34.99 | Tornado 20\" Outdoor Ceiling Fan at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:23:06.412927Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC]edx Collapsible Camping Adult Cot, Khaki(73\" x 36\") $32.95 + Free S&H at Walmart",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:23:06.412927Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "MSI Codex Z2 AMD Ryzen 7 8700F Gaming Desktop with GeForce RTX 5070 Ti $1699",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:23:06.412927Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $10.73 | 3-Pack 50-Oz Seventh Generation Dish Liquid Refill (Clementine Zest & Lemongrass) at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-22T12:23:06.412927Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Ultimate Ears WONDERBOOM 4 Portable Bluetooth Speaker (Blue) $51.44 + Free Shipping",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
@@ -137286,13 +137358,5 @@
   "rejected_at": "2026-09-08T12:26:45.797673Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "GRACE KARIN Womens Boho Mesh Tops Long Sleeve Dressy Blouse $7.42",
-  "reason": "Posted at $7.42, but Amazon showed $13.49 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-08T12:21:20.885895Z",
-  "code": "price_mismatch",
-  "public": true
  }
 ]
