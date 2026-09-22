@@ -1,6 +1,14 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Prime: Rrtizan Handheld Misting Fan Portable Mister 5000mAh Rechargeable Foldable 3-in-1 (Pink) $13.19 + Free Shipping",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T01:58:05.609589Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Prime: Kesguar Portable Neck Fan 20H RunTime 6 Speeds 360° Airflow Rechargeable Hands Free $13.99 + Free Shipping",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-22T01:52:35.007146Z",
@@ -137654,13 +137662,5 @@
   "rejected_at": "2026-09-08T02:09:33.606231Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "The Man I Love [Blu-ray] $12.99 + Free S&H w/ Prime or $35+",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-08T01:52:43.741910Z",
-  "code": "low_score",
-  "public": true
  }
 ]
