@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$18.99ac Free Pick Up Walgreens Gillette MACH3 Razor Blade Refills for Men with Lubrication Strip 3 Blade, 12.0 ea (YMMV)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T00:07:21.992829Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Amazon Grocery Whole Cloves 2-oz. Jar for $1.84 via Sub & Save + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T00:01:49.101237Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "NEW Halloween Mugs Just $5 at Target",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T00:01:49.101237Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "New Customers: Olight Imini 2 (Dream Blue) + i3E EOS Keychain Flashlight $14 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T00:01:49.101237Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SANNCE 4K 8MP UHD Wireless NVR Security System w/ 4x Dual-band Outdoor Bullet WiFi IP Cameras + 16 CH NVR $164.30 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T00:01:49.101237Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$37.49 COSTCO Ensure Original Nutrition Shake, Vanilla or Milk Chocolate, 8 fl. oz, 30-pack",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T00:01:49.101237Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Hyper Tough 3-Piece Rotary Tool Cutting Set $3.58 + Free Shipping w/ Walmart+ or on $35+",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-21T23:56:16.044775Z",
@@ -137886,53 +137934,5 @@
   "rejected_at": "2026-09-08T00:11:47.687009Z",
   "code": "duplicate",
   "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$1.99 | The Four Tendencies: The Indispensable Personality Profiles That Reveal How to Make Your Life Better (and Other People's Lives Better, Too) (eBook) by Gretchen Rubin",
-  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-08T00:06:14.157015Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Target Shoes for All Sale: Up to 40% off + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T00:06:14.157015Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Ortho Home Defense Insect Killer for Indoor & Perimeter Refill, 1 gal. $6.94",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T00:06:14.157015Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "3/8 in. FNPT x 3/8 in. Body Automotive Coupler $9.97 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+-2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-08T00:00:42.098975Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Costco: $130 off ($80 instant+$50 Shop Card) w/ 4 Bridgestone Tires + Installation Included, Today Only 9/7",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T00:00:42.098975Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Sun Joe SPX100-GO 1800 PSI Electric Pressure Washer, 13-Amp, 4 Nozzles, Foam Cannon $99.96",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T00:00:42.098975Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
