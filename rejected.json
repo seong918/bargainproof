@@ -1,5 +1,45 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "7.5' Halloween Inflatable Ghost Green Car Yard Decoration w/ LED Lights $39.99 + Free Shipping",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-22T13:18:22.209277Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Peru Weeklong Tour Package including Flights $1,299.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T13:18:22.209277Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Outdoor Clip-On Outdoor Solar Lights (2-Pack) $15.39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T13:18:22.209277Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Kids Rolling Stool Chair with Backrest $79.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T13:18:22.209277Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Nesugar G3 Pro Smart Handheld Clothes Steamer for $13 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T13:18:22.209277Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Phixero 100W 3.3ft USB-C to USB-C Charging Cable $5.99",
   "reason": "Posted at $5.99, but Amazon showed $11.99 when we checked — the deal is probably over",
@@ -137532,62 +137572,6 @@
   "raw_title": "Join AARP for Just $11/Year and Score a Free Bonus Membership (Any Age Can Join!)",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T13:20:22.783449Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Vans Women's Authentic Check Casual Shoe (Racing Red/White) $30.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T13:14:48.284142Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Lightweight V Neck Long Sleeve Shirt $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T13:14:48.284142Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Sampeel Wide Leg Sweatpants $11.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T13:14:48.284142Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "OFEEFAN Crewneck Sweatshirt Oversized Long Sleeve Shirts $11.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T13:14:48.284142Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "WIHOLL Crewneck Long Sleeve Sweatshirt $8.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T13:14:48.284142Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "X-Sense Fall Sale: Up to 50% off + an extra 10% off + free shipping w/ $49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T13:14:48.284142Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Mechanical Colored Pencil 36-Piece Set Just $11 Shipped on Amazon (Reg. $21)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T13:14:48.284142Z",
   "code": "not_checked",
   "public": false
  }
