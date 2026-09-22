@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "JOYRIDE Assorted Candy Box, Sour Blue Raspberry Strips & Cherry Berry Ropes, 1.7 oz., 10 pk. $13.48",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T04:49:28.311360Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$95.99* | 787-Piece LEGO Disney: Disney Princess - Princess Castle & Royal Pets (43267, 2025) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-22T04:43:53.833558Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[NEW, SnS] $6.62 | 6.8-Oz L'Oreal Paris Sulfate Free Bond Repair+ Conditioner at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T04:43:53.833558Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Oz Lukaree Wormwood Black Walnut & Clove Gut Cleanse Tincture $6.49 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T04:38:20.304413Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LEGO Albus Dumbledore Plush $8.09",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T04:38:20.304413Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Smart Baby Monitor with 2 Cameras and Phone App, 5\" HD Display Multi-Room Video Baby Monitor $84.99",
+  "reason": "Posted at $84.99, but Amazon showed $169.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-22T04:32:48.692731Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "High Test Gummies Sitewide Sale: Extra 20% off + free shipping w/ $50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T04:32:48.692731Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Refurbished Ray-Ban Meta Gen 1 Glasses for From $179 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T04:32:48.692731Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Vera Bradley Women's Outlet Harry Potter Cotton Large Hipster Crossbody Bag Honeydukes $27.3",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-22T04:27:17.772708Z",
@@ -78848,14 +78912,6 @@
   "public": false
  },
  {
-  "source": "dealnews",
-  "raw_title": "High Test Gummies Sitewide Sale: Extra 20% off + free shipping w/ $50",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T04:25:13.576464Z",
-  "code": "not_checked",
-  "public": false
- },
- {
   "source": "slickdeals",
   "raw_title": "72\"x35\"x16\" Nnovaroom Metal Storage Shelves $19.86 + Free Shipping",
   "reason": "Not evaluated",
@@ -126304,14 +126360,6 @@
   "public": true
  },
  {
-  "source": "dealnews",
-  "raw_title": "Refurbished Ray-Ban Meta Gen 1 Glasses for From $179 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T04:30:46.712459Z",
-  "code": "not_checked",
-  "public": false
- },
- {
   "source": "slickdeals",
   "raw_title": "$12.99 | Sylvania Proscan CD Clock Radio with USB Charger at Woot!",
   "reason": "Not evaluated",
@@ -137644,70 +137692,6 @@
   "raw_title": "Orvis Tough Trail Graphite Dog Collar $19.77",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T04:51:07.544423Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – AOUNQ 10-Pack Solar Flickering Flame Torch Lights - $22.99 w/ Code",
-  "reason": "Community score too low (+-1) to pass without a price check — needs multi-pack, promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-08T04:39:55.028245Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – Metal Squirrel Baffle for Bird Feeder Pole - $13.19 w/ Code",
-  "reason": "Community score too low (+0) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-08T04:39:55.028245Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon: Revlon ColorStay Flex Wear Full Cover Concealer (070 Nutmeg) $3.74 (Reg $12.99, ~71% Off) + FS w/ Prime",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-08T04:39:55.028245Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "10% Off Select Gift Cards (Various): Nintendo, adidas, Columbia Sportswear, Uber & More (Digital Delivery) $180",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T04:39:55.028245Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "12-Pack 4\"x24\" BOSHCRAFT Aluminum Oxide Sanding Belts (60/80/120/180/240/400 Grit) $7.65 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-08T04:28:45.310490Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Get Well Gifts for Women After Surgery: 10-Piece Gift Box w/ plush flannel blanket, ceramic mug with gold spoon, elegant gold pen, scented candle, crocheted sunflow $19.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T04:28:45.310490Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Milwaukee M12 Fuel 1/4 Dr Impact Driver $76",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T04:28:45.310490Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ASRock PRO Series PRO-750G 750 W ATX 3.1 Compatible 80 PLUS GOLD Certified Power Supply $54.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T04:28:45.310490Z",
   "code": "not_checked",
   "public": false
  }
