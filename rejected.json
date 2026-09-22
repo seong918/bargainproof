@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "SUNGAIT Men's or Women's Polarized Vintage Round Sunglasses from $6.71 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T08:36:26.834121Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "G Gradual Women's Athletic Track Pants for $20 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T08:36:26.834121Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Rammus Women's Wide Leg Pull-On High Waisted Denim Jeans for $25 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T08:36:26.834121Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Beelink SER8 Ryzen 7 8745HS 32GB 512GB Mini Desktop for $769 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T08:36:26.834121Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Men's Columbia Holston Ridge Polarized Square Sport Sunglasses $26 + Free S&H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T08:36:26.834121Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $3.41* | 20.3oz Johnson's Baby Shampoo with Tear-Free Formula at Amazon",
+  "reason": "Community score too low (+3) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T08:30:54.176510Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Vanlgs Pro Engraving Pen for $40 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T08:30:54.176510Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Audrey Hepburn 7 movie collection $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T08:30:54.176510Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "URMYWO Ballerina Bunny Plush Doll Dress-Up Set w/ Outfits & Plush Bag $14.84 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+3) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-22T08:25:22.843360Z",
@@ -18,14 +82,6 @@
  {
   "source": "dealnews",
   "raw_title": "IPYNBAP Outdoor Chair Cushions 4-Pack for $46 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-22T08:25:22.843360Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Audrey Hepburn 7 movie collection $14.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-22T08:25:22.843360Z",
   "code": "not_checked",
@@ -137350,37 +137406,5 @@
   "rejected_at": "2026-09-08T08:40:36.995282Z",
   "code": "low_score",
   "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Victory '45: The End of the War in Eight Surrenders $1.99",
-  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
-  "rejected_at": "2026-09-08T08:35:04.568072Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "238-Pc LEGO Minecraft The Baby Pig House Building Set (21268) $12.79 + Free Shipping w/ Prime or on orders over $35",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-08T08:29:28.680163Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Dog Allergy Relief Soft Chews - Skin & Gut Health, Chicken, 90 Ct $8.94",
-  "reason": "Posted at $8.94, but Amazon showed $15.65 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-08T08:29:28.680163Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Utron 60pc Clear Plastic Coin Capsules w/ Adjustable Gasket for $7 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T08:29:28.680163Z",
-  "code": "no_signal",
-  "public": false
  }
 ]
