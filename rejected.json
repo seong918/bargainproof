@@ -1,5 +1,21 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Towel Off Sale at Woot for Deals from $4.99 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T09:31:45.203068Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Time and Tru Women's 100% CVotton Spaghetti Strap Midi Dress (Sizes XS-XXXL) from $6.24 + Free S&H w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T09:31:45.203068Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "3-Pack Ekouaer Womens Long Sleeve Shirts (various colors/sizes) $13 + Free Shipping w/ Prime or orders $35+",
   "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",

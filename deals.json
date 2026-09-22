@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "eb11036eb918",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20047110-8-pack-angel-soft-mega-roll-toilet-paper-320-2-ply-sheets-per-roll-6-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "8-Pack Angel Soft Mega Roll Toilet Paper (320 2-Ply Sheets per Roll) + or on orders over",
+  "raw_title": "8-Pack Angel Soft Mega Roll Toilet Paper (320 2-Ply Sheets per Roll) $6 + Free Shipping w/ Prime or on orders over $35",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 600,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "prime",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 6,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-22T09:31:45.203068Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "da7424b24a46",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20047329-701-pc-lego-star-wars-anzellan-starship-75445-60-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
