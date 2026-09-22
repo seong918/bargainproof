@@ -1,6 +1,166 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Schylling NeeDoh Nice Cube - Sensory Squeeze Toy with Super Solid Squish - 2.25\" Cube - Color May Vary (Pack of 1) $31.99",
+  "reason": "Community score too low (+-22) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-22T15:46:07.106708Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Kick Scooter for Kids Ages 6-12 & or Teens 12 Years and Up, Collapsible Portable Kids Push Scooter $24.99",
+  "reason": "Posted at $24.99, but Amazon showed $59.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-22T15:46:07.106708Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Gooloo GT4000S 4000A 20000mAh 12V Jump Starter (12L Gas, 10L Diesel) $79.97",
+  "reason": "Posted at $79.97, but Amazon showed $99.96 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-22T15:46:07.106708Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Spacekey 7000rpm Rechargeable Wet/Dry Ceramic Blade Electric Body Hair Trimmer $12.99",
+  "reason": "Posted at $12.99, but Amazon showed $25.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-22T15:46:07.106708Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "3-Pack 50-Oz Seventh Generation Dish Liquid Refill (Clementine Zest & Lemongrass) $10.73",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T15:46:07.106708Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Amazon Basics Wood-Cased #2 Pencils (Yellow) 150-Count $9.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T15:46:07.106708Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ammassage Shiatsu Neck Massager with Heat $29.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T15:46:07.106708Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Samsung P9 Express microSD Express Card 512GB $99.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T15:46:07.106708Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "2 PC Large Airtight Food Storage Containers $25.83",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T15:46:07.106708Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Aveeno Baby Cleansing Therapy Moisturizing Wash 8-Oz $2.55",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T15:46:07.106708Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Michael Kors Williamsburg Small Bowling Satchel $189.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T15:46:07.106708Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Funny Christmas Wrapping Paper Roll $5.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T15:46:07.106708Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "12-Pack Scott ComfortPlus Toilet Paper Mega Rolls (Soft Lavender) $5.40",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T15:46:07.106708Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "The North Face Vault Everyday Laptop Backpack $39.15",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T15:46:07.106708Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Christmas Gift Tag Stickers 500-Pack $5.59",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T15:46:07.106708Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "McCormick Grill Mates Unique Blends Grilling Variety Pack $9.80",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T15:46:07.106708Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nikon Refurbished Days Nikon Z30 with Power Zoom Lens $599.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T15:46:07.106708Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "14 Pack Linkind Outdoor Smart Solar Spotlights with Light and Music Sync via App $129.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T15:46:07.106708Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "EyePop 3-in-1 Interchangeable Kids' Swim Goggle Set $1.78 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T15:46:07.106708Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Beat Saber (PCVR Game) $15",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T15:46:07.106708Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Beet Root Gummies with Grape Seed & CoQ10 for Heart & Circulation Support $8.09",
   "reason": "Posted at $8.09, but Amazon showed $26.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-22T15:40:35.263602Z",
@@ -138012,62 +138172,6 @@
   "raw_title": "Urbanista Phoenix Hybrid Active Noise Cancelling Earbuds with Solar Charging $24.99 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T15:49:19.126347Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Golf Rangefinder with Slope 1500 Yards | Laser Range Finder $29.99",
-  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
-  "rejected_at": "2026-09-08T15:43:43.235185Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "GEARWRENCH 1/4 Inch Drive Gimbal Ratchet, 72 Tooth - 81027 $22.97",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-08T15:43:43.235185Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Boytond Ultra Open Ear Bone Conduction Earbuds $29.88",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T15:43:43.235185Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Retro Metal Solar Hanging Lanterns w/ Wall Hooks 2-Pack $14.84",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T15:43:43.235185Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Kids Tape Measure 2-Pack w/ Protractor & Eraser Only $9.99 on Amazon (Reg. $25)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T15:43:43.235185Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Sunbeam ReviveSystem 3-in-1 Steamer Iron & Fabric Shaver $19.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T15:43:43.235185Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "19\" x 12\" Vibrant Life Medium Silicone Pet Feeding Mat (Various Colors) $2.44 + Free Shipping w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T15:43:43.235185Z",
   "code": "not_checked",
   "public": false
  }
