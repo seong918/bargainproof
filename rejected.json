@@ -1,6 +1,78 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[YMMV, AC] $9.37 | Performance Tool 1/2\" Drive Ratcheting Breaker Bar Adapter at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-22T15:02:04.852935Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Aucleia Pet Air Purifiers for Home Large Room 2100 Ft², True HEPA Filter $47.81",
+  "reason": "Posted at $47.81, but Amazon showed $79.69 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-22T15:02:04.852935Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ekouaer Womens Lounge Sets Long Sleeve Casual Pajama Fall Sleepwear Pockets $10.99",
+  "reason": "Posted at $10.99, but Amazon showed $35.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-22T15:02:04.852935Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "ASUS TUF Gaming K3 Gen II Hatsune Miku Edition Wired USB Gaming Keyboard $74.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T15:02:04.852935Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "6-Night Italy Hotel and Guided Tour Vacation for From $3,998 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T15:02:04.852935Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "AstroAI 40\" 2-in-1 Snow Brush and Ice Scraper for $11 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T15:02:04.852935Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas Fall Sale Men's Slides for from $14 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T15:02:04.852935Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Oibath 35,000-BTU Full Inverter Pool Heat Pump for $550 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T15:02:04.852935Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LOMON 2 Piece Sweat Lounge Sets for Women Matching Sweatsuits Fall Outfits as low as $17.49 after coupon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T15:02:04.852935Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "BEDELITE Halloween Sherpa Blanket Orange & Black, 50\"x60\" $10.49",
   "reason": "Posted at $10.49, but Amazon showed $20.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-22T14:56:37.323100Z",
@@ -137940,78 +138012,6 @@
   "raw_title": "Light Therapy Lamp Only $19.99 Shipped on Amazon (Great for Changing Seasons)",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T15:04:45.690539Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Avidlove Women Lace Crop Top V Neck Long Sleeve Sheer Lace Fringe Hem Tops $6.99",
-  "reason": "Posted at $6.99, but Amazon showed $13.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-08T14:59:12.251873Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Aroma Room PM2.5 Monitor Smart Auto Mode Large Room Air Purifier $29.99",
-  "reason": "Posted at $29.99, but Amazon showed $49.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-08T14:59:12.251873Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Orico 7-Port USB 3.0 Hub with 1.64Ft Cable $9.87",
-  "reason": "Posted at $9.87, but Amazon showed $15.19 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-08T14:59:12.251873Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "KIWIBIRD K5 Sonic Electric Toothbrush 1.5X Wider Brush Head $29.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T14:59:12.251873Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Amazon Fresh Sliced Turkey, Chicken or Ham 9 oz. $1.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T14:59:12.251873Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "SereneLife 3-Wheel Golf Push Cart $99.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T14:59:12.251873Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Talking to Strangers: What We Should Know about the People We Don't Know eBook $1.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T14:59:12.251873Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Starter NFL Clothing and Jackets at Fanatics: Up to 71% off + free shipping w/ $39",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T14:59:12.251873Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Dairy Queen Small Dipped Cone for $1",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T14:59:12.251873Z",
   "code": "not_checked",
   "public": false
  }
