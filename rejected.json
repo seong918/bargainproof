@@ -1,5 +1,45 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "[AC] $22.39 | 2-Pack Levoit Vital 100 Air Purifier Replacement Filter at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-22T17:31:06.068313Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Optoma Photon Life PK32 4K UHD 60Hz LED Projector $499.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T17:31:06.068313Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Adidas Men Lite Racer Adapt 7.0 Shoes $19.20",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T17:31:06.068313Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "BSRGMS 2-Pack Knee Compression Sleeves $6.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T17:31:06.068313Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Marvel Spider-Man 6-Panel Telescopic Umbrella for $4 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T17:31:06.068313Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Addlon 106' 54-LED Bulbs 5000mAh Waterproof Solar String Outdoor Lights $17.99",
   "reason": "Posted at $17.99, but Amazon showed $29.99 when we checked — the deal is probably over",
@@ -137996,150 +138036,6 @@
   "raw_title": "Prime: 2-Ct Briignite Dimmable LED Plug-In Night Light w/ Dusk-to-Dawn Sensor from $5.45 & More + Free S&H",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T17:35:12.088085Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$109 or less get $45 Amazon Credit 5 x Pampers Diapers - Cruisers 360° - Size 5, 56 Count",
-  "reason": "Posted at $109.00, but Amazon showed $22.97 when we checked — the post is stale",
-  "rejected_at": "2026-09-08T17:29:38.323784Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Iwela Water Plantar Fasciitis Pain Relief High Arch Support Insoles (Size-XL) $9.99",
-  "reason": "Posted at $9.99, but Amazon showed $29.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-08T17:29:38.323784Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Bedsure 3-In-1 Travel Blanket Set with Inflatable Neck Pillow & Eye Mask $9.99",
-  "reason": "Posted at $9.99, but Amazon showed $19.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-08T17:29:38.323784Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "RayNeo GT Max AR/XR Glasses 267\" 59° FOV Native 3DoF Audio by B&O $399.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:29:38.323784Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Ninja NeverDull 17-Pc Knife Block Set $299.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:29:38.323784Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Hisense 65\" 4K 144Hz Mini-LED Fire TV $599.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:29:38.323784Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Shure MoveMic 88+ Wireless Stereo Microphone for iPhone & Android with 4 Polar Patterns $132.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:29:38.323784Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "BOOST High Protein with Fiber Complete Nutritional Drink 24-Pack 8-Oz $22.15",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:29:38.323784Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Directive 8020 Deluxe Edition (Xbox Series X) $39.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:29:38.323784Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "KYEHD 3-Pack 10' 60W USB C to USB C Fast Charging Cable $3.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:29:38.323784Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Uineer 2.4GHz Wireless USB Mouse w/ Adjustable DPI $7.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:29:38.323784Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "J.Crew Factory Clearance Sale: Up to 50% off + extra 70% off + free shipping w/ $75",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:29:38.323784Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Dealworthy 175-Count College Ruled Loose Leaf Paper: 89 cents + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:29:38.323784Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Kobalt 24V 1/2\" Keyless Brushless Cordless Drill w/ Battery & Charger for $79 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:29:38.323784Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "J.Crew Berkeley Large Suede Shoulder Bag for $119 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:29:38.323784Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "New Disney Christmas Wrapping Paper Just $6 at Target",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:29:38.323784Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "TRESemmé Shampoo & Conditioner Just $3.97 After Walmart Cash",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:29:38.323784Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Timberland Men's Westmore Casual Suede Boots $22.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:29:38.323784Z",
   "code": "not_checked",
   "public": false
  }
