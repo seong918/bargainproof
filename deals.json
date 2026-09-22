@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "1fe6c48cd398",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20045754-kepeak-130000rpm-cordless-electric-air-duster-w-brushless-motor-4-speed-settings-23-79-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "KEPEAK 130000RPM Cordless Electric Air Duster w/ Brushless Motor & 4-Speed Settings + or on",
+  "raw_title": "KEPEAK 130000RPM Cordless Electric Air Duster w/ Brushless Motor & 4-Speed Settings $23.79 + Free Shipping w/ Prime or on $35+",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 2379,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "prime"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-22T01:24:52.172278Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "4ac5e9589ae2",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20045307-guild-surfliner-electric-guitar-catalina-blue-299-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
