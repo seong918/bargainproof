@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "128 oz Handy Art Little Masters Washable Tempera Paint(Violet/Blue) $15.12 + Free S&H w/ Prime or $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T00:18:26.481069Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "6-Pk HW CR123A 3V 1700mAh High Capacity Lithium Batteries $4.49 + Free Shipping w/ Prime",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T00:18:26.481069Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$9.99* | Ed Sheeran: - (Subtract) (Limited Edition Yellow Vinyl w/ AutoRip MP3) at Amazon",
+  "reason": "Community score too low (+-2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-22T00:18:26.481069Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$6AC Amazon Evshine Women's Chenille Knit Fuzzy Slippers Memory Foam Warm House Shoes",
+  "reason": "Posted at $6.00, but Amazon showed $11.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-22T00:18:26.481069Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$1057.46 | 85\" Hisense 65E7SF Hi-QLED 4K 144Hz Mini-LED Fire TV + 10% Back w/ Prime Visa Card at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-22T00:12:53.438135Z",
@@ -137918,21 +137950,5 @@
   "rejected_at": "2026-09-08T00:23:00.672135Z",
   "code": "low_score",
   "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Target Pet Toys & Accessories Sale: Buy 1 get 1 30% off + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T00:17:24.268275Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas Women's Cloudfoam Cuxxion Sock Shoes (Various) $34.30 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T00:17:24.268275Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
