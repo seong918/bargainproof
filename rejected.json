@@ -1,6 +1,86 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon – Soothfeel Men's 7-Inch Golf Shorts w/ 5 Pockets - $9.89 w/ Code",
+  "reason": "Community score too low (+2) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T04:05:11.527792Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$139.99* | Uniden Floating Handheld IPX8 Marine VHF Radio w/ GPS & NOAA Alerts at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-22T04:05:11.527792Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "12-Month Microsoft 365 Family (6-Users) + 1-Year NordVPN Basic (10 Devices) $85 & More",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T04:05:11.527792Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – BOOJO Men's Athletic Gym Shorts, 5-Pack - $16.19–$27.53 w/ Code",
+  "reason": "Community score too low (+2) to pass without a price check — needs promo code, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T03:59:38.927005Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Aakrosh [Blu-Ray] $5.28 + Free S&H w/ Prime or $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T03:59:38.927005Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – CAMPSNAIL Women's Fleece-Lined Wide-Leg Sweatpants - $16.98 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T03:59:38.927005Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – RAPSAKEMOH Horsehair Brush Shoe Shine Kit - $7.99–$9.43 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T03:59:38.927005Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Schylling NeeDoh Nice Ice Baby 4 Pack - Sensory Squeeze Toy - 1.5\" Cube - Colors May Vary $31.99",
+  "reason": "Posted at $31.99, but Amazon showed $12.99 when we checked — the post is stale",
+  "rejected_at": "2026-09-22T03:59:38.927005Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "TCL - 65\" Class S55LR Series 4K UHD HDR LED Smart TV with Roku TV (2026) -$369 Best Buy FS $369.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T03:59:38.927005Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Hisense - 65\" Class A6 4K UHD Series LED HDR Smart Fire TV (2025) - $329 BEST BUY FS",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T03:59:38.927005Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon – Walifrey Women's Wide-Leg Sweatpants w/ Pockets - $5.99 w/ Code",
   "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-22T03:54:07.829808Z",
@@ -137590,13 +137670,5 @@
   "rejected_at": "2026-09-08T04:06:40.207300Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS, AC] $5.19 | 32-Oz Chemical Guys Professional Spray Bottle at Amazon",
-  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-08T04:01:07.940158Z",
-  "code": "low_score",
-  "public": true
  }
 ]
