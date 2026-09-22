@@ -1,6 +1,14 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "Fanttik R11 Pro Cordless Reciprocating Saw 5-Blade Kit for $70 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T10:10:30.859431Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
   "raw_title": "Princess 10-Night Japan Explorer Cherry Blossoms Cruise for From $4,362 for 2",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-22T10:04:59.503114Z",
@@ -137373,14 +137381,6 @@
   "reason": "Same deal was already posted from another source",
   "rejected_at": "2026-09-08T10:15:31.686355Z",
   "code": "duplicate",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Borderlands 4 (PS5) $29 + Free S&H w/ Prime or $35+",
-  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-08T10:09:55.249490Z",
-  "code": "low_score",
   "public": true
  }
 ]
