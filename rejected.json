@@ -1,6 +1,118 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[YMMV, SnS, AC] $7.99* | 12-Pk 275-Ct The Doctor's BrushPicks Interdental Tooth Pick at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T17:58:44.247277Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "8.37-Oz Sour Patch Kids Glow Ups Ghosts Halloween Gummy Candy: 2 for $5.38 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T17:58:44.247277Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Seed Starter Trays with 12-LED Grow Lights, Clear, 5 Pack $17.98 + Free Shipping w/Prime",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T17:58:44.247277Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[YMMV, AC] $7.97* | 50\" x 60\" Eddie Bauer Reversible Sherpa & Brushed Fleece Blanket (Edgewood Plaid Khaki) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-22T17:58:44.247277Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[YMMV, SnS, AC] $12.35* | 8-Pack 3.25-Oz Jack Link's DUOs Beef Jerky (Original and Teriyaki) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T17:58:44.247277Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[YMMV, AC] $13.99* | 64-Oz Thermos Foam Insulated Hydration Bottle at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-22T17:58:44.247277Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[YMMV, AC] $14.08* | 2-Pack VUSIGN 2-Tier Under Sink / Cabinet Pull Out Organizers at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-22T17:58:44.247277Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Cotiar 6-Mode Anti-Fall Window Cleaner Robot with Auto Spray, Remote Control $83.97",
+  "reason": "Posted at $83.97, but Amazon showed $139.95 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-22T17:58:44.247277Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Makita XDT13Z 18V 34000RPM LXT Lithium-Ion Brushless Cordless Impact Driver $79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T17:58:44.247277Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Women's Fanatics NFL Philadelphia Eagles Home Logo V-Notch Tee $32.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T17:58:44.247277Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Philadelphia Eagles House Flag $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T17:58:44.247277Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Dooney & Bourke Philadelphia Eagles Top Zip Crossbody $103.60",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T17:58:44.247277Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Dooney & Bourke Philadelphia Eagles Large Zip Around Wristlet $145.60",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T17:58:44.247277Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "3-PACK: Natural Gear Caps (Twill, Mesh & Canvas) $14.50 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T17:58:44.247277Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[YMMV, AC] $16.61* | Victorinox Swiss Classic 6\" Boning Knife at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-22T17:53:12.138897Z",
@@ -138044,142 +138156,6 @@
   "raw_title": "Fender Custom Shop - 8 Models from $2905 + Free S/H",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T18:03:01.440263Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Suzume 6-Pc Extra Long Flex Head Ratcheting Wrench Set (8-19mm) $36.32",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:57:27.860643Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "LAUSAINT HOME Oversized Outdoor Wicker Rocking Chair 1-Piece (Beige) $91.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:57:27.860643Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "ORICO 7-Port USB 3.0 5Gbps Extender Splitter Hub $9.87",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:57:27.860643Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Aegend Diving Mask Anti-Fog Comfort Snorkel Goggles $7.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:57:27.860643Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "QualiLife Persimmon Deodorant Body Wipes 3-Pack 20-Count Fragrance-Free $7.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:57:27.860643Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "BLNAN 52 Inch Ceiling Fan with Lights and Remote $40.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:57:27.860643Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "BEVA Desk Clamp Power Strip 10 AC Outlets 4 USB Ports $17.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:57:27.860643Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Tom Petty & the Heartbreakers: The Best Of Everything (2 CD Set) $10.91",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:57:27.860643Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Anker Nano Laptop Docking Station 13-in-1 with Detachable 6-in-1 USB-C Hub $111.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:57:27.860643Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "HipHop Panda Caddy Organizer 2-Pack (Grey/Oatmeal) $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:57:27.860643Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "KNIPEX 13 76 200 ME Multifunction Electrician's Pliers 200 mm $55.13",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:57:27.860643Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Cold Steel Mini Tac Bowie Fixed Blade Knife w/ 3-5/8\" Blade $13.14",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:57:27.860643Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "How To Raise Successful People: Simple Lessons for Radical Results eBook $0.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:57:27.860643Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Greenworks 13 Amp 14-Inch Corded Dethatcher / Scarifier $151.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:57:27.860643Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "GLORIOUS GHS Eternal RGB Stereo Gaming Headset $59.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:57:27.860643Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "50-Piece MAGNA-TILES Builder XL Magnetic Construction $55.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:57:27.860643Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Popular Nike Shoes from $50.97 Shipped",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:57:27.860643Z",
   "code": "not_checked",
   "public": false
  }
