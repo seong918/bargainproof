@@ -1,5 +1,45 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Nike Men's or Women's Air Diamond Turf 2 Shoes for $103 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T23:14:02.243234Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Signature Design by Ashley Bolanburg Farmhouse End Table for $150 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T23:08:29.155350Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Stanley IceFlow Flip Straw 2.0 24-oz. Bottle for $24 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T23:08:29.155350Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Tall Solar Lights Outdoor, 8 Pack Bright Pathway Lights Solar Powered $28.49 AC",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T23:08:29.155350Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Mens Dress Shirts Linen Long Sleeve Button Down Casual Shirt for Men $9.99 after coupon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T23:08:29.155350Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "TCL 85\" GM6k Pro -$899.99 + 5 YR Warranty",
   "reason": "Not evaluated",
@@ -137796,70 +137836,6 @@
   "raw_title": "Mafia: The Old Country for PlayStation 5 for $30 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T23:18:59.650640Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Sportsroyals Adjustable Dip Bar for Home,400lbs Cap Calisthenics Equipment $36.53",
-  "reason": "Posted at $36.53, but Amazon showed $62.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-08T23:13:43.702560Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Open-Box 2nd-Gen. Polaroid Go Instant Film Camera for $50 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T23:13:43.702560Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "WorkPro 2-in-1 48\" Workbench & Cabinet Combo w/ Light for $98 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T23:08:27.468689Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Gruv.com 4K Deals - Double the Magic 2 for $24",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T23:08:27.468689Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Virgin Voyages (Adults-Only Cruises) Semi-Annual Sale From $99 Per Sailor or Up To $400 OBC; 70% Off 2nd Sailor + Instant Savings - Book by September 7, 2026",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T23:08:27.468689Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[NEW] $17.99 | Canon CLI-281 XL Genuine Cyan Ink Tank at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-08T23:03:04.222619Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Target Hair Care & Tools Sale: Up to 40% off + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T23:03:04.222619Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "OVER 50% Off e.l.f. Lip Stain Set (Just $11.40 Shipped on Amazon!)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T23:03:04.222619Z",
   "code": "not_checked",
   "public": false
  }
