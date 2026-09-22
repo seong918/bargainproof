@@ -1,5 +1,53 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$6.99: Cooler Master MM310 Wired Gaming Mous Adjustable 12,000 DPI (White) at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T10:32:34.607118Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "DC Direct Superman Movie (2025) 1/6 Scale Resin Statue Collectible for $248 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T10:27:01.247281Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HICOBER 3-in-1 USB-C SD Card Reader w/ USB 2.0 Port $4.99 + Free S&H w/ Prime at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T10:27:01.247281Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Hot Wheels City Mega Loop Car Wash Playset & Color Shifters Vehicle $31.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T10:21:28.181980Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Pre-Order] EPiC: Elvis Presley in Concert Deluxe Steelbook (4K UHD + Blu-ray) $34.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T10:21:28.181980Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Rainmr Memory Foam Orthopedic Dog Bed, Medium (35\"x23\"x3\") $17.99 w/ code + Free Shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T10:21:28.181980Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Fanttik R11 Pro Cordless Reciprocating Saw 5-Blade Kit for $70 + free shipping",
   "reason": "Not evaluated",
@@ -137340,14 +137388,6 @@
   "raw_title": "AppleTV's Complete Digital TV Series: Suits, Battlestar Galactica $19.99, Daria, Rookie Blue, Leave It to Beaver, Halt and Catch Fire $14.99, Mad Men $12.99 & Many More",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T10:37:53.872389Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "LEGO Deals: Up to 70% off + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T10:21:03.872323Z",
   "code": "not_checked",
   "public": false
  }
