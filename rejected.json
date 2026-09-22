@@ -137718,45 +137718,5 @@
   "rejected_at": "2026-09-08T01:13:31.380371Z",
   "code": "duplicate",
   "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$129.99: DUMOS King Bed Frame with Headboard Drawers, RGB Light & Charging Station at Amazon, Free Shipping",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-08T01:07:54.751849Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Rain-Mate Windproof Compact Travel Umbrella for $9 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T01:07:54.751849Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Hanes Men's Comfort Flex Fit Boxer Briefs 3-Pack for $8 + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T01:07:54.751849Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Trent Austin Design Rambo Geometric 7'10\" x 10' Area Rug for $119 in cart + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T01:07:54.751849Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Vevor Chainsaw Mill for $16 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T01:07:54.751849Z",
-  "code": "no_signal",
-  "public": false
  }
 ]
