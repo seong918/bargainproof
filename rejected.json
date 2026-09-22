@@ -1,5 +1,13 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Mini Brass Figurine 50-Piece Sets for $14 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T11:38:54.535178Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$34.99: Tornado 20-Inch Outdoor Downrod Mount Ceiling Fan(3000 CFM, 10-Foot Cord) at Woot!",
   "reason": "Not evaluated",
@@ -137470,29 +137478,5 @@
   "rejected_at": "2026-09-08T11:43:21.159128Z",
   "code": "duplicate",
   "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Acer Aspire Go 15 Ryzen 7 5825U 15.6\" Laptop for $700 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T11:38:07.610078Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$151.99* | 1135-Pc LEGO Technic Lamborghini Revuelto Super Sports Car Toy w/ Remote Control at Amazon",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-08T11:38:07.610078Z",
-  "code": "duplicate",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "HZG M500 Ryzen 5 5600 Radeon RX 6600 Gaming Desktop PC for $769 w/ $35 Newegg Gift Card + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T11:32:52.940987Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
