@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[Prime] $8.56 | Daredevil: Born Again [Marvel Premier Collection] at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T03:15:30.315910Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Deyeek Men's Thick Cargo Sweat Pants Straight Leg Fleece Pants with Pockets $12.99",
+  "reason": "Posted at $12.99, but Amazon showed $24.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-22T03:15:30.315910Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Rubio’s $5 off $25 any purchase Use code 5OFF",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T03:15:30.315910Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$1.99 | Same as Ever: A Guide to What Never Changes (eBook) by Morgan Housel",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T03:15:30.315910Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Costnzo BL39 Noise Cancelling Wireless Sleep Earbuds for Side Sleepers $19.49",
+  "reason": "Posted at $19.49, but Amazon showed $38.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-22T03:09:58.663691Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Untisu 5-Speed 20,000mAh Portable USB-C Rechargeable Fan with LED Lantern $15.59",
+  "reason": "Posted at $15.59, but Amazon showed $40.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-22T03:09:58.663691Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[S&S] Lubriderm 0528004884650-DAILY MOISTURE BODY AND HAND LOTION WITH VITAMIN $4.99",
   "reason": "Same deal was already posted from another source",
   "rejected_at": "2026-09-22T03:04:26.868510Z",
@@ -137574,61 +137622,5 @@
   "rejected_at": "2026-09-08T03:16:42.695362Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Darn Tough Men's No Show Ultra Lightweight Running Socks $14.25",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T03:11:06.686666Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Champion Men Lightweight Active Soft Shell Jacket Stand Collar (Small) - $17",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T03:11:06.686666Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "GE 30 in. 4 Burner Element Free-Standing Electric Range in Stainless Steel w/Stainless Knobs $649",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T03:11:06.686666Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Darn Tough Men's John Henry Work Socks $19.5",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T03:11:06.686666Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Costco Wholesale Alba Leather Power Reclining Sofa with Power Headrests $999.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T03:11:06.686666Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Darn Tough Men's Light Hiker Quarter Hiking Socks $16.5",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T03:11:06.686666Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Quest Nutrition Chocolate Protein Shake, 30g Protein, 12 Count 4g Net Carbs, 1g Sugar, Creamy Chocolate Flavor, 11 fl oz, 3 Packs of 4 Count Cartons~$19.86 With S&S @ Amazon",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-08T03:05:34.236001Z",
-  "code": "duplicate",
-  "public": true
  }
 ]
