@@ -1,5 +1,61 @@
 [
  {
+  "source": "dealcatcher",
+  "raw_title": "UTRAI 12V 8000A Portable Jump Starter with 150PSI Air Compressor $67.59",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T17:14:30.752371Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "BOSGAME P6 Neo Mini PC: Ryzen 7 6800H, 24GB LPDDR5x RAM, 512GB PCIe SSD, 680M Graphics, USB4 $447.80",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T17:14:30.752371Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Hart 10-Gallon Wet/Dry Vacuum for $44 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T17:14:30.752371Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Byseng Car Seat Protector 2-Pack Waterproof Car Seat Cover for $22 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T17:14:30.752371Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Toddler Trampoline Just $42.75 Shipped w/ Amazon Prime (Reg. $89)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T17:14:30.752371Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Skechers Men's Hands Free Slip-ins Arch Fit Superior Talbert Slip-On Shoes (Chocolate Brown, Sizes: 8-13) $39.98 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T17:14:30.752371Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Brondell Swash CS1000 Bidet Toilet Seat $399.99 Elongated or Round free shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T17:14:30.752371Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$6.37* | 19-Oz Frost King ACF19 Air Conditioner Coil Foaming Cleaner at Amazon",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
@@ -138060,62 +138116,6 @@
   "raw_title": "Select Stores: 2-Ct 16-Oz Dawn Powerwash Spray Dish Soap Refill + $4 Walmart Cash $7.90 & More + Free Pickup",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T17:18:30.365559Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Sprinkler Timer for Garden Hose, Water Timer with Rain Delay, Fits Standard 3/4\" $19.25",
-  "reason": "Posted at $19.25, but Amazon showed $33.25 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-08T17:12:56.584480Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "YoungsTex Floral Linen-Blend Curtain Panels $11.98",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:12:56.584480Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Kobalt 24V 4 Ah Lithium-ion Battery 2-Pack for $79 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:12:56.584480Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Frito-Lay 21-Count Variety Pack Just $8.92 Shipped on Amazon",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:12:56.584480Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Spooky, Cute & Just $5! Target’s Halloween Birds Have Landed",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:12:56.584480Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Round Trip Los Angeles to Kaohsiung Taiwan $780 Airfares on United Airlines BE with 1 Free Checked Bag (Travel January - May 2027)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:12:56.584480Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Best Buy: DESLOC B200 Smart Lock Keyless Entry Fingerprint Deadbolt with Handle/Lever Set Black $79.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:12:56.584480Z",
   "code": "not_checked",
   "public": false
  }
