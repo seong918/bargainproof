@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Outdoor Chair Cushions Set of 4 - Waterproof Outdoor Seat Cushions for Patio Furniture $22.99 AC + Free Shipping",
+  "reason": "Posted at $22.99, but Amazon showed $45.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-22T01:30:25.281211Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ozark Trail Men's Waterproof Leather Snow Boots for $21 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T01:30:25.281211Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "EA Sports FC 26 (Physical, PS5) $25.49 + Free Store Pickup at Target or Free Shipping on $35+",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-22T01:24:52.172278Z",
@@ -137661,22 +137677,6 @@
   "reason": "Same deal was already posted from another source",
   "rejected_at": "2026-09-08T01:35:53.479676Z",
   "code": "duplicate",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Windex Fast Shine Foam Glass Cleaner, All-Purpose Cleaning Spray, 19 oz $2.82",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-08T01:30:17.721859Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ORAFLIPP Sonic Electric Toothbrush - 40,000 VPM Power Toothbrush with 5 Modes 89 Brush Heads, IPX7 Waterproof, 30 Day Battery Life, Inductive Charger (Black) $24 + Free S/H",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-08T01:30:17.721859Z",
-  "code": "low_score",
   "public": true
  }
 ]

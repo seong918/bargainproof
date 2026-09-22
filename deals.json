@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "d73851a731c0",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20045892-amazon-grocery-whole-cloves-2-oz-2-18-with-s-s-amazon-buy-4-save-more?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "Amazon Grocery, Whole Cloves, 2 Oz~ With S&S @ Amazon~Buy 4 & Save More!",
+  "raw_title": "Amazon Grocery, Whole Cloves, 2 Oz~$2.18 With S&S @ Amazon~Buy 4 & Save More!",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 218,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-22T01:30:25.281211Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "1fe6c48cd398",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20045754-kepeak-130000rpm-cordless-electric-air-duster-w-brushless-motor-4-speed-settings-23-79-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
