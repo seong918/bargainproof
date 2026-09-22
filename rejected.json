@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "3/4\" Bulk 144 Pc. Mini Peanuts® Snoopy & Woodstock Rubber Erasers $7.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T03:21:01.223166Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Women's Castle Dale Full Zip Fleece Jacket $41.25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T03:21:01.223166Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[Prime] $8.56 | Daredevil: Born Again [Marvel Premier Collection] at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-22T03:15:30.315910Z",
@@ -137588,38 +137604,6 @@
   "raw_title": "Darn Tough Women's Lightweight Quarter Hiking Socks - Slate $16.5",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T03:22:19.944932Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "20-Pack 3.2-Oz Mott's No Sugar Added Applesauce Variety Pack (Apple, Strawberry & Mixed Berry) $7.78 w/ S&S + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-08T03:16:42.695362Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Darn Tough Women's Light Hiker Lightweight No Show Hiking Socks $15",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T03:16:42.695362Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Darn Tough Women's No Show Tab Ultra-Lightweight Running Socks $14.25",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T03:16:42.695362Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Darn Tough Men's Light Hiker No Show Lightweight Hiking Sock $15",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T03:16:42.695362Z",
   "code": "not_checked",
   "public": false
  }

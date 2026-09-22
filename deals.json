@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "47abc062ec4c",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20046588-ymmv-ac-33-74-290-piece-lego-star-wars-the-clone-wars-ahsoka-s-jedi-interceptor-spaceship-more-at-amazon?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
+  "title": "290-Piece LEGO Star Wars: The Clone Wars Ahsoka's Jedi Interceptor Spaceship & More",
+  "raw_title": "[YMMV, AC] $33.74* | 290-Piece LEGO Star Wars: The Clone Wars Ahsoka's Jedi Interceptor Spaceship & More at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 3374,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-22T03:21:01.223166Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "2a4a801fedeb",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20044827-1-99-sho-gun-part-one-the-asian-saga-ebook-by-james-clavell?utm_source=rss&utm_content=ht&utm_medium=RSS2",
