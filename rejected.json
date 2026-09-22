@@ -1,5 +1,29 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "DEWALT 20V MAX 1/2\" Cordless Impact Wrench (Tool Only) $199.99 + Free Shipping",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-22T22:51:56.565852Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $61.97* | 4 × 85-Count Tide 4-in-1 Ultra Oxi PODS Laundry Detergent Pacs (Original) ($15.49 each) at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T22:51:56.565852Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Makera Carvera Air Desktop CNC + Free Anniversary Milling Bit Kit $2199 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T22:51:56.565852Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Cold Steel Mini Leatherneck Tanto Point Fixed Blade Knife for $18 + free shipping w/ Prime",
   "reason": "Not evaluated",
@@ -137804,38 +137828,6 @@
   "raw_title": "$29.99 Sale for SpongeBob SquarePants: Seasons 11-15 Bundle",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T22:57:27.053330Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Nintendo Switch 2 System with Nintendo Switch 2 Pro Controller Bundle $538",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T22:51:50.892680Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$29.99 Sale for SpongeBob SquarePants: Seasons 1-10 Bundle",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T22:51:50.892680Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$248 FS WALMART VIZIO 55 in Mini LED Quantum 4K QLED HDR Smart TV, 2026 Model, VQM55C-10",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T22:51:50.892680Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$228 FS WALMART VIZIO 50 in Mini LED Quantum 4K QLED HDR Smart TV, VQM50C-10",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T22:51:50.892680Z",
   "code": "not_checked",
   "public": false
  }
