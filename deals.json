@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "679c28b5333f",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20044938-amazon-ansody-20-000mah-45w-power-bank-w-retractable-usb-c-cable-29-99-w-code?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "Amazon – Ansody 20,000mAh 45W Power Bank w/ Retractable USB-C Cable - w/ Code",
+  "raw_title": "Amazon – Ansody 20,000mAh 45W Power Bank w/ Retractable USB-C Cable - $29.99 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0GTZ7LBPX",
+  "deal_total_cents": 2999,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 4599,
+  "amazon_coupon_cents": 600,
+  "amazon_effective_cents": 3999,
+  "amazon_url": "https://www.amazon.com/dp/B0GTZ7LBPX",
+  "amazon_checked_at": "2026-09-22T03:48:47.675726Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0GTZ7LBPX",
+  "image_url": null,
+  "published_at": "2026-09-22T03:48:37.328469Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "0d98ac265975",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20044455-ac-86-71-worx-20v-6-jawsaw-cordless-chainsaw-w-2-0ah-battery-charger-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
