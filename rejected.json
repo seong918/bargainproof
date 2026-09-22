@@ -1,6 +1,134 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS, AC] $6* | 3-Oz Stella & Chewy's Freeze-Dried Raw Single Ingredient Beef Heart Dog Treats at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T18:04:14.829660Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[YMMV, AC] $7.51* | 8-Piece Neiko 10065A Hex Shank Magnetic Power Impact Nut Driver Set at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-22T18:04:14.829660Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $6.66* | 24-Pk 0.5-Oz Pirate's Booty Cheese Puffs (Aged White Cheddar) at Amazon (27.8￠ each)",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T18:04:14.829660Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "maikun Womens Dark Brown Belt Leather, Fashion Casual Dress Waist Belt $9.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-22T18:04:14.829660Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Seventh Generation 50oz Clementine Zest & Lemongrass Dish Liquid Refill (3-Pack) $11.04",
+  "reason": "Posted at $11.04, but Amazon showed $17.88 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-22T18:04:14.829660Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "TOPSKY Smart Ceiling TV Mount w/ 150 Degree Swivel $90.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T18:04:14.829660Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "GobiDex Lava & Cave Dinosaur Magnetic Tiles Building Set $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T18:04:14.829660Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Briarwood Lane Philadelphia Eagles Garden Flag $7.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T18:04:14.829660Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "(Resale) CUCKOO Micom Fuzzy Logic Rice Cooker 12-Cup Cooked $53.75",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T18:04:14.829660Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ticonderoga Wood-Cased Pencils Pre-Sharpened 180 Count $19.30",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T18:04:14.829660Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Dimur Womens Lightweight Button Down Long Sleeve Pullover Shirts $5.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T18:04:14.829660Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Oceania Cruises 14-Night Caribbean Cruise for From $9,750 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T18:04:14.829660Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "St. Ives Face Scrub Just $2.37 Shipped on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T18:04:14.829660Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Under Armour Men's Expanse Scout Fleece 1/2 Snap (Black or Sierra Taupe) Sm to XXXL $44 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T18:04:14.829660Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HTH Pool Care Shock Advanced All-in-one $29.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T18:04:14.829660Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Briarwood Lane Retro Philadelphia Eagles Garden Flag $7.99",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-22T18:04:14.829660Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[YMMV, SnS, AC] $7.99* | 12-Pk 275-Ct The Doctor's BrushPicks Interdental Tooth Pick at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-22T17:58:44.247277Z",
@@ -138052,110 +138180,6 @@
   "raw_title": "(Restored: Like New) HP OMEN 45L Gaming Desktop: Intel Ultra 7 265K, RTX 5070 Ti, 32GB DDR5, 1TB SSD, Win 11 Pro $1709.05",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T18:08:36.756887Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Bonsaii 9-Sheet Crosscut Paper Shredder P-4 Security Level $39.09",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:03:01.440263Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "HW 9 Volt 12-Pack USB-C Lithium Rechargeable Batteries $32.40",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:03:01.440263Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Volam CarPlay Voice Control Touch Screen 9\" with Built-In Netflix & YouTube and 1080p Backup Camera $72.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:03:01.440263Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Nrqyon 45kHz Ultrasonic Retainer & Denture Cleaner Machine w/ UV Light & 200ML Stainless Steel Tank $11.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:03:01.440263Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "AUTO-VOX Solar Wireless Backup Camera w/ 7.2\" HD Split-Screen Monitor $71.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:03:01.440263Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "DenTek Floss Picks Advanced Clean Plaque Remover 20 Count 6-Pack $2.29",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:03:01.440263Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "TuyLuxe Hanging Solar Lanterns, IP65 Waterproof $13.67",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:03:01.440263Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "10-Night Costa Rica Flight, Hotel, and Tour Vacation for From $4,796 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:03:01.440263Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "George Men's Modern Fit Poplin Button Up Short Sleeve Shirt for $3 + pickup",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:03:01.440263Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "New England Patriots Gear at Fanatics: Up to 76% off + free shipping w/ $39",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:03:01.440263Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "443-Count Pimple Patches for $5.39 w/ Subscribe & Save + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:03:01.440263Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Fosi Audio DS1 Dongle DAC Headphone Amplifier $48 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:03:01.440263Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Fender Custom Shop - 8 Models from $2905 + Free S/H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:03:01.440263Z",
   "code": "not_checked",
   "public": false
  }
