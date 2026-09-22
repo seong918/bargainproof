@@ -1,5 +1,109 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$7.99 | Post-it Flags, .47 x 1.7 in, Multicolor, 1 Dispenser, 320 Flags/Dispenser at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-22T18:59:25.955572Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "GTPLAYER Adustable Recline Gaming Chair with Outward Fixed Soft Armrests and Footrest $129.99",
+  "reason": "Posted at $129.99, but Amazon showed $259.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-22T18:59:25.955572Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Johnson's Baby Lotion with Coconut Oil, Aloe Vera & Vitamin B5 13.6 fl oz $2.55",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T18:59:25.955572Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Calvin Klein Men's Matte Logo Zip Bomber Jacket $77.40",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T18:59:25.955572Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Nabisco Crackers Variety Pack, 3 Flavors, 40 Snack Packs | RITZ Toasted Chips, Wheat Thins Snacks Whole Grain Wheat Crackers,Triscuit Minis Whole Grain Wheat Vegan Crackers $16.22",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T18:59:25.955572Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Calvin Klein Women's Modern Cotton Lightly Lined Triangle Wireless Bralette $24.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T18:59:25.955572Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Norton 360 Deluxe Antivirus, 3 Devices, Auto-Renews [Download] | Includes AI Scam Protection, Advanced VPN, Dark Web Monitoring, & PC Cloud Backup $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T18:59:25.955572Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Popilush Women's Long-Sleeve Athletic Jumpsuit $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T18:59:25.955572Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "FYC Women's Wool Blend Cozy Crew Socks 5-Pairs $5.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T18:59:25.955572Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Hamilton Jazzmaster Performer 42mm Anthracite Dial Men's Automatic Watch for $999 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T18:59:25.955572Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SCODI Hoodies for Men Heavyweight Fleece Sweatshirt Zip Up Thick Jacket M $18.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T18:59:25.955572Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Teenage Mutant Ninja Turtles: Shredder's Revenge - Ultimate Edition PC/Steam - $5 at Loaded $4.79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T18:59:25.955572Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Bitdefender Total Security 2026 (1-Year, 5-Devices, Digital Download) $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T18:59:25.955572Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Scotch Heavy Duty Shipping Packing Tape, Clear, Shipping and Packaging Supplies, 1.88 in. x 54.6 yd., 6 Tape Rolls $19.98",
   "reason": "Not evaluated",
@@ -138148,150 +138252,6 @@
   "raw_title": "4-Port DeWALT 12V/ 20V/ 60V MAX Simultaneous Fast Charger $154.40 + Free S&H w/ Prime",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T19:04:05.433027Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Garmin fēnix® 8, 47mm, Black $799.99",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-08T18:58:30.710041Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "American Bass King 15\" 1 Ohm 15000 Max Watts Car Subwoofer $1457.83",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-08T18:58:30.710041Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "JanSport Main Campus Backpack 32L w/ 15\" Laptop Sleeve $29.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:58:30.710041Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Gothic 1 Remake (PlayStation 5) $48.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:58:30.710041Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Google Pixelsnap Phone Case Pixel 10 Pro XL - Silicone - Obsidian $20.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:58:30.710041Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Rainspire Swivel Vegetable Peeler w/ Non-Slip Rubber Handle (Black) $0.98",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:58:30.710041Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "TP-Link 8-Port 2.5 Multi-Gigabit Unmanaged Network Switch $54.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:58:30.710041Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "House of Psychotic Women Rarities Collection: Footprints on the Moon, The Other Side of the Underneath, Identikit, I Like Bats (Blu-ray) $52.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:58:30.710041Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Ecarke 220W Portable Power Inverter for Milwaukee 18V Battery $20.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:58:30.710041Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "LEGO City Advent Calendar 2026 (60510, 252-Piece) $25.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:58:30.710041Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "BLACK+DECKER dustbuster Cordless Handheld Vacuum $24.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:58:30.710041Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Lego Ninjago Kai's Mech Storm Rider Action Figure Building Toy 333-Piece $35.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:58:30.710041Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "MERACH Ab Machine Ab Workout Equipment $49.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:58:30.710041Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Altec Lansing Nanobuds 3.0 Wireless Sport Earbuds $17.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:58:30.710041Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Fanatics NFL Tailgate Sale: Up to 76% off + free shipping w/ $39",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:58:30.710041Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Nike Air Max Summer Ready Shoe Deals: Extra 20% to 25% off in cart + free shipping w/ $50",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:58:30.710041Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "These Tiny Halloween Bogg Bags Are Going Viral (But $15 for a Keychain?!)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:58:30.710041Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "RedHead Men's Grayson Deconstructed Sneakers (Tobacco, Denim or Fog) $24.98 + Free Shipping on $50+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:58:30.710041Z",
   "code": "not_checked",
   "public": false
  }
