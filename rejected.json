@@ -1,5 +1,45 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Multisize Mesh Zipper Pouches 21-Pack for $9.49 w/ Subscribe & Save + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T23:35:56.191478Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$11.35 ac AMZ ULG 1-Pack Over Door Organizer w 5 Large Pockets 10 Side Pockets, 44 lbs Weight Capa Hanging Storage Organizer with Clear Window Bedroom Bathroom Kitchen",
+  "reason": "Posted at $11.35, but Amazon showed $24.35 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-22T23:30:40.472496Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Corona ComfortGel 4\" Bypass Lopper for $22 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T23:30:40.472496Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas Women's Lightblaze Shoes for $35 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T23:25:06.258797Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "HP OfficeJet Pro 9125e Wireless AI-Enabled AiO Inkjet Printer for $190 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T23:25:06.258797Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "[YMMV, SnS, AC] $9.29* | 16-Ct BIC Gel-ocity Ocean Themed Gel Pen Set (0.7mm, Med Point, Assorted) at Amazon",
   "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
@@ -137797,46 +137837,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T23:40:39.822675Z",
   "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$135 Free Pick up Tractor Supply GEARWRENCH SAE/Metric Mechanics Hand Tool Set, 185 pc.",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T23:35:06.710060Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$6.99* | 65-pc LEGO City Police Motorcycle Chase Building Toy (60455) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-08T23:29:51.146111Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Vantrue Power T150 Compressed Air Duster for $30 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T23:29:51.146111Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Sunny Health & Fitness Resistance Tube Set for $28 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T23:29:51.146111Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Bella 12-Piece Non-Stick Cookware Set for $25 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T23:29:51.146111Z",
-  "code": "no_signal",
   "public": false
  }
 ]
