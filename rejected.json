@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "1-Oz L'Oreal Paris Revitalift Triple Power Anti-Aging Face Serum w/ Tri-Peptides, Hyaluronic Acid & Vitamin C $12.99 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T02:58:55.413066Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[NEW] $14.99 | Cool Maker Stack'd Heishi Studio Bracelet Making Kit, Ages 7+ at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-22T02:53:22.356278Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[NEW] $10.19 | 8-Oz Aleene's Liquid Fusion Glue at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-22T02:53:22.356278Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$1.59 | 13.5-Ounce Cantu Shea Butter Sulfate-Free Cleansing Cream Shampoo at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T02:53:22.356278Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Woot! App: $11.99 | 2-Panel 52\"x84\" Nicetown 100% Blackout Linen Curtains w/ Grommet at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T02:53:22.356278Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ELEMUSE Twin XL Memory Foam Mattress Topper $29.49 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T02:53:22.356278Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Owala bottles with 15% discount at Target $27.62",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T02:53:22.356278Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[NEW, SnS] $14.24 | Stasher Premium Reusable Silicone Leak-Free Food Storage Bowl, Clear, 4-Cup at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-22T02:47:50.553868Z",
@@ -137590,29 +137646,5 @@
   "rejected_at": "2026-09-08T02:59:58.641742Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Nylavee 14W RMS Bluetooth 5.0 & AUX RGB Desktop Computer Speakers $29.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-08T02:54:22.173434Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ROCT Outdoors Upland Field Dog Collar $4.77",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T02:54:22.173434Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "**LIVE ON Sep 7** 6800mAh LISEN 22.5W USB-C Mini Portable Charger w/ Display (Grey) $15.29 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-08T02:48:49.017199Z",
-  "code": "low_score",
-  "public": true
  }
 ]
