@@ -1,5 +1,61 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "180 Dixie 8.5\" Disposable Paper Plates for $9.89 via Sub & Save + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T22:24:17.232549Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Timex Men's Marlin 40mm Watch for $173 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T22:18:45.557709Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Wrangler Workwear Men's Mock Neck Jacket for $19 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T22:18:45.557709Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "5-in-1 USB 3.0 Hub Adapter Hub with 3 USB 3.0 Ports, SD and microSD Card Reader, USB A to USB C Adapter. $5.39 at checkout",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T22:18:45.557709Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "KAMRUI Gaming Mini PC Ryzen 7 7735HS 16GB LPDDR5 RAM 512GB SSD (8C/16T, 4.75GHz) $409.64",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T22:18:45.557709Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "KAMRUI 4K Mini PC AK1Plus, Intel N5030 12GB LPDDR4 256GB M.2 SSD Win11 PRO WIFI5 $174.04",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T22:18:45.557709Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ACEMAGIC K1 Mini PC, AMD Ryzen Embedded R2544(4C/8T),8GB DDR4 256GB SSD W-11 Pro $196.84",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T22:18:45.557709Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Prebuilt Gaming PC, RTX 3060 Ti 8GB, AMD Ryzen 7 5700X, 32GB RAM, 1TB SSD $1199",
   "reason": "Posted at $1,199.00, but Amazon showed $1,199.99 when we checked — the deal is probably over",
@@ -137838,21 +137894,5 @@
   "rejected_at": "2026-09-08T22:24:40.785412Z",
   "code": "duplicate",
   "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Adjustable Height Folding Camping Table for $30 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T22:19:06.699769Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Insignia 3.7 Cu. Ft. High Efficiency 12-Cycle Top-Loading Washer (white) $400 + Free S&H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T22:13:32.681613Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
