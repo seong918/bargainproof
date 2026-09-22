@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$1057.46 | 85\" Hisense 65E7SF Hi-QLED 4K 144Hz Mini-LED Fire TV + 10% Back w/ Prime Visa Card at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T00:12:53.438135Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Thor: Love and Thunder (4K Ultra HD + Blu-ray + Digital Code) $10.31 Walmart.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T00:12:53.438135Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ainfox 7.5' Beach Round Patio Umbrella (Yellow/White/No Tilt) $18.99 + Free Shipping w/ Walmart+ or $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T00:12:53.438135Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Dune: Awakening (PC Game) $21.19",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T00:12:53.438135Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$18.99ac Free Pick Up Walgreens Gillette MACH3 Razor Blade Refills for Men with Lubrication Strip 3 Blade, 12.0 ea (YMMV)",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-22T00:07:21.992829Z",
@@ -137902,37 +137934,5 @@
   "rejected_at": "2026-09-08T00:17:24.268275Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Citizen Men's Eco-Drive Boba Fett 44mm Watch for $268 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T00:11:47.687009Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "TP-Link Omada Fusion Gateway 2.5 - $130",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T00:11:47.687009Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "3-Port wegear 67W USB-C GaN Fast Charger w/ Foldable Plug (2x USB-C, 1x USB-A) $11.30",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T00:11:47.687009Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Nirvana: In Utero 30th Anniversary $13.98 + Free Shipping w/ Prime or on $35+",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-08T00:11:47.687009Z",
-  "code": "duplicate",
-  "public": true
  }
 ]
