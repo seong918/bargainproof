@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "bcf93a5c465e",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20048712-amazon-pizazz-rose-purple-short-bob-wig-w-bangs-8-80?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
+  "title": "Amazon – Pizazz Rose/Purple Short Bob Wig w/ Bangs",
+  "raw_title": "Amazon – Pizazz Rose/Purple Short Bob Wig w/ Bangs - $8.80",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0GCCQJNPP",
+  "deal_total_cents": 880,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 880,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 880,
+  "amazon_url": "https://www.amazon.com/dp/B0GCCQJNPP",
+  "amazon_checked_at": "2026-09-22T14:51:31.409697Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0GCCQJNPP",
+  "image_url": null,
+  "published_at": "2026-09-22T14:51:07.455378Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "9634a824f67e",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20047470-prime-16-66-world-war-ii-map-by-map-dk-history-map-by-map-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
