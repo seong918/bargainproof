@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "3-Pack Ekouaer Womens Long Sleeve Shirts (various colors/sizes) $13 + Free Shipping w/ Prime or orders $35+",
+  "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T09:26:14.010771Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$38.52 | Invincible VS (PlayStation 5) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-22T09:26:14.010771Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "YLZKIX Ryzen 5 5600 Radeon RX 5700XT Desktop PC for $800 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T09:26:14.010771Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] Gyroor H40 Kids Electric Scooter 180W 10MPH w/ LED Lights $89.99 + Free Shipping",
+  "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T09:20:42.780023Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Zmishibo Low Profile 19.7\" 3000-6000K Dimmable Lights Ceiling Fan $39.95",
+  "reason": "Posted at $39.95, but Amazon showed $66.59 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-22T09:20:42.780023Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Refurb MSI Gaming Laptops Deals at Woot for from $900 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T09:20:42.780023Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Husky 800 Lumen LED USB C Rechargeable Detachable Tripod Work Light, $14.88, Free shipping, Home Depot",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T09:20:42.780023Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ozark Trail Men's Lace Up 400G Thinsulate Snow Boot, $21.11, Walmart",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T09:20:42.780023Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "18L Xsuioy Quilted Puffer Backpack Purse (Beige) $9.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-22T09:15:09.583626Z",
@@ -137372,54 +137436,6 @@
   "raw_title": "Garanimals Baby & Toddler Girls Flare Leg Jeans (Limited Sizes) $2.69 + Free S&H w/ Walmart+ or on $35+",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T09:36:39.362877Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "CELOX Dish Brush w/ Built-In Soap Dispenser & 2 Brush Refills (2 colors) $7.81 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-08T09:25:31.151626Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Ninja Slushi Max 150oz 6-Program Frozen Drink Maker (12+ Servings) $329.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T09:25:31.151626Z",
-  "code": "lookup_failed",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Rakukiri 5' GRS Certified Galvanized Oval Rot-Resistant Metal Garden Bed $16.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T09:25:31.151626Z",
-  "code": "lookup_failed",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Barnes & Noble Vinyl Records Sale for 3 for $50 + free shipping w/ $60",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T09:25:31.151626Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "GROWATT 3686Wh Extra Battery for HELIOS 3600 Portable Power Station, LiFePo4 Expansion Battery, 9 DC Outlets for Cell Phone, PC, Tablets or Other Devices, $1098.99",
-  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-08T09:19:55.296294Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "DEWALT ATOMIC 20V MAX Cordless Brushless Compact 1/4 in. Impact Driver, (2) 20V 1.3Ah Batteries, Charger, and Bag, $119, FS, Home Depot",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T09:19:55.296294Z",
   "code": "not_checked",
   "public": false
  }
