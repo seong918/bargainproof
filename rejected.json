@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Massage Gun with Heat Massager Deep Tissue Muscle Massager Gifts for Men $19.99",
+  "reason": "Posted at $19.99, but Amazon showed $37.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-22T03:26:32.159823Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Peanuts® Charlie Brown & Snoopy Thanksgiving Pleated Plastic Table Skirt $5.87",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T03:26:32.159823Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "3/4\" Bulk 144 Pc. Mini Peanuts® Snoopy & Woodstock Rubber Erasers $7.98",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-22T03:21:01.223166Z",
@@ -137580,30 +137596,6 @@
   "raw_title": "Darn Tough Women's Sobo Micro Crew Lightweight Hiking Socks $18.75",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T03:27:52.765483Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – VTOMAN X7 4250A Jump Starter w/ 160 PSI Air Compressor - $90.90 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-08T03:22:19.944932Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – GOOLOO F3 150,000-RPM Rechargeable Compressed Air Duster - $29.91 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-08T03:22:19.944932Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Darn Tough Women's Lightweight Quarter Hiking Socks - Slate $16.5",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T03:22:19.944932Z",
   "code": "not_checked",
   "public": false
  }
