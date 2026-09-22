@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Vansoet 400W Car Power Inverter DC 12V to 110V AC (PD 30W/15W USB C + 2*USB A Ports & 2 AC Outlets) $21 + Free Shipping w/ Prime or orders $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T01:35:57.302267Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Patio Kingdom Folding Adirondack Chairs Set of 4, $229.6 (brand promotion applied), less than $60 per chair",
+  "reason": "Posted at $229.60, but Amazon showed $255.14 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-22T01:35:57.302267Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Pack HART 11-Piece 1/2\" Drive Deep SAE Socket Set w/ Storage Case $24.88 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T01:35:57.302267Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Outdoor Chair Cushions Set of 4 - Waterproof Outdoor Seat Cushions for Patio Furniture $22.99 AC + Free Shipping",
   "reason": "Posted at $22.99, but Amazon showed $45.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-22T01:30:25.281211Z",
@@ -137654,29 +137678,5 @@
   "rejected_at": "2026-09-08T01:41:29.609449Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "adidas Men's Messi Training Jersey for $16 + free shipping w/ $39",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T01:35:53.479676Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Nike Women's Astrograbber Textile Sneakers (Ocean Cube/Ocean Cube Smo) $59.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T01:35:53.479676Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$8.08 - S&S Amazon Bragg Organic Apple Cider Vinegar with the Mother 64 oz - Raw Unfiltered",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-08T01:35:53.479676Z",
-  "code": "duplicate",
-  "public": true
  }
 ]
