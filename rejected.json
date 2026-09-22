@@ -1,6 +1,102 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "HOTO 12-in-1 Electric Screwdriver Rechargeable, Cordless Screwdriver Set $27.99",
+  "reason": "Posted at $27.99, but Amazon showed $49.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-22T16:46:54.100579Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Aromvel Rechargeable Handheld Milk Frother, 3 Speeds $6.88 AC",
+  "reason": "Posted at $6.88, but Amazon showed $12.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-22T16:46:54.100579Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "ANTELOPE 12-Ft Retractable Ratchet Straps 4-Pack $35.19",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T16:46:54.100579Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "AOUNQ Outdoor Solar Hanging Lanterns, 4-Pack $24.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T16:46:54.100579Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Beelicious Pro 75kPa Cordless Handheld Vacuum Sealer $24.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T16:46:54.100579Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Eastsport Cyclone 18.5\" Sport Backpack for $9 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T16:46:54.100579Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "NCAA Hoodie Deals at Walmart for From $14 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T16:46:54.100579Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Walmart Matching Family Grinch Christmas Pajamas from $9.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T16:46:54.100579Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Merrell Men's MTL Skyfire 2 Matryx Shoes (Various) $79.19 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T16:46:54.100579Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Blackstone Stainless Steel Griddle Spatula w/ Bottle Opener $9.85 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T16:46:54.100579Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Piece Forever 21 Women's Tie Front Tank Top and Maxi Skirt Set (Pink, Brown) $6.00 + Free S&H w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T16:46:54.100579Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "JBL BAR 700MK2 780W 7.1-Channel Dolby Atmos Soundbar System $499",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T16:46:54.100579Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$1.88 S&S AMAZON Progresso French Onion, Italian Wedding or Pot Roast w Veggies Canned Soup, 18.5 oz",
   "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-22T16:41:21.528385Z",
@@ -138014,45 +138110,5 @@
   "rejected_at": "2026-09-08T16:50:39.770681Z",
   "code": "duplicate",
   "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Gorilla Tough & Clear Double Sided Tape Squares 24-Count $4.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T16:45:05.588947Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Wironlst 22-Inch Fall Maple-Leaf Wreath $12.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T16:45:05.588947Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Plush Throw Blanket Only $8 Shipped for Amazon Prime Members",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T16:45:05.588947Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Chewy $20 eGift Card w/ $80+ Order On Select Cat Favorites + Free Shipping on $49+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T16:45:05.588947Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "As Fairy 2026 Deep V Wireless Push Up Bras (various) from $7.50",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T16:45:05.588947Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
