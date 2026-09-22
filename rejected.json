@@ -1,5 +1,85 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$1.99 | Filthy Rich: A Powerful Billionaire, the Sex Scandal that Undid Him, and All the Justice that Money Can Buy (eBook) by James Patterson, John Connolly",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-22T19:43:48.113158Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $14.98 | Wine Folly: Magnum Edition: The Master Guide (Hardcover) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T19:43:48.113158Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $14.38 | Sapiens [Tenth Anniversary Edition]: A Brief History of Humankind (Paperback) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T19:43:48.113158Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $19.42 | The Flavor Bible: The Essential Guide to Culinary Creativity, Based on the Wisdom of America's Most Imaginative Chefs at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T19:43:48.113158Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Round Trip Boston - Orlando FL Nonstop Airfares $159.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T19:43:48.113158Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Party Animal NFL Squeezymate Gift Set $8.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T19:43:48.113158Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "DREAME X40 Ultra Black Robotic Vacuum $299.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T19:43:48.113158Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Merrell Men's World Legend 2 Moc Remat Slip-On Shoes for $54 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T19:43:48.113158Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DIYtoolifz Grease Gun Accessory Kit, Includes Quick-Release Coupler $18.89 after coupon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T19:43:48.113158Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "VEVOR Garden Pot Mover, Max 143 LBS Weight Capacity $33.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T19:43:48.113158Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Woomada Adjustable Travel Duffel Bag with Shoes Compartment, Toiletry Bag $21.99",
   "reason": "Posted at $21.99, but Amazon showed $43.98 when we checked — the deal is probably over",
@@ -138276,86 +138356,6 @@
   "raw_title": "Tablo - 4th Gen, 2-Tuner, 128GB Over-The-Air DVR for $59.95 or $49.95 with GOVX",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T19:48:38.438711Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Community Coffee 12oz Signature Blend Whole Bean Coffee (Pack of 6) $33.55",
-  "reason": "Posted at $33.55, but Amazon showed $40.74 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-08T19:43:05.895580Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Handlebar Extenders $39.50",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:43:05.895580Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Finish Powerball Power Dishwasher Pods 94-Count $13.63",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:43:05.895580Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Filtrete 14x24x1 Air Filter, MERV 8, MPR 700, 6-Pack HVAC Filters $24.09",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:43:05.895580Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "3-Pack 10-Oz Method Foaming Hand Soap (Green Tea + Aloe) $8.69",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:43:05.895580Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Banana Republic Factory Men's Standard-Fit Pique Polo for $18 + free shipping w/ $50",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:43:05.895580Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "2026 Under Wraps Autographed MLB Emanates Single Mystery Box for $300 App-Only + free shipping w/ $29",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:43:05.895580Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Adidas Men's Washed Loose Fit Fleece Hoodie: Cardboard (S-L) $16.97, Collegiate Green (S-L) $18.97 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:43:05.895580Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Philips 55\" Class 144Hz QLED+ 4K UltraHD (2160p) Google + Gaming Smart TV (55PUG7675/F7) for $248",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:43:05.895580Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Maison Francis Kurkdjian Baccarat Rouge 540 Extrait – 3×10ml Travel Sprays (30ml Total) Buy 2 Get 1 Free $149.90 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:43:05.895580Z",
   "code": "not_checked",
   "public": false
  }
