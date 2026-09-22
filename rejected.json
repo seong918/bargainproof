@@ -1,5 +1,37 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Prebuilt Gaming PC, RTX 3060 Ti 8GB, AMD Ryzen 7 5700X, 32GB RAM, 1TB SSD $1199",
+  "reason": "Posted at $1,199.00, but Amazon showed $1,199.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-22T22:13:15.253151Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ACEMAGIC K1 Mini PC AMD Ryzen 7 7730U (up to 4.5Ghz) 16GB LPDDR4X RAM 512GB SSD $479",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T22:13:15.253151Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Makera Z1 Desktop CNC Machine (Pre-Order) $1099 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T22:13:15.253151Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "27L Eastsport Ascend 18.5\" Bungee Backpack (Pelican, Nine Iron or Rose Taupe) $9.99 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T22:13:15.253151Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Car Seat Organizer w/ Cup Holders & Cooler Compartment for $20 + free shipping",
   "reason": "Not evaluated",
@@ -137822,61 +137854,5 @@
   "rejected_at": "2026-09-08T22:13:32.681613Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "UGREEN 2K Webcam for PC $20.74",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T22:07:57.162252Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "UGREEN Magsafe Tripod Stand for iPhone 17 $18.69",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T22:07:57.162252Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Star Wars Retro Collection Star Wars: A New Hope Figure Multipack for $32 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T22:07:57.162252Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Football Party Table Runner for $8 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T22:07:57.162252Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "47.5\" Red Barrel Studio Albrecht 2 Drawers Solid Wood TV Stand: Gray $120, White/Brown $124 + Free Shipping $119.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T22:07:57.162252Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "BedJet 3 Climate Comfort Sleep System $284.5",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T22:07:57.162252Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "GECENinov 67W 3-Port GaN USB-C Wall Charger w/ Foldable Plug & 5' Cable (Bronze) $4.19 + Free Shipping w/ Prime or on $35+",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-08T22:07:57.162252Z",
-  "code": "duplicate",
-  "public": true
  }
 ]
