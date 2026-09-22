@@ -1,5 +1,29 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Mini Projector, Portable Projector with Wifi and Bluetooth, Built in Apps $38.49 AC + Free Shipping",
+  "reason": "Posted at $38.49, but Amazon showed $69.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-22T22:29:49.694285Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Time and Tru Women's 100% Cotton Spaghetti Strap Midi Dress for $6 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T22:29:49.694285Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Everyfun Double Hammock with Stand for 2 Person, 600 lb Capacity, Rainbow $49.50 with coupon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T22:29:49.694285Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "180 Dixie 8.5\" Disposable Paper Plates for $9.89 via Sub & Save + free shipping w/ Prime",
   "reason": "Not evaluated",
@@ -137878,21 +137902,5 @@
   "rejected_at": "2026-09-08T22:30:09.571672Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Compact Vacuum Sealer w/ Bags Just $11.99 on Amazon (Reg. $90)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T22:24:40.785412Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[Prime] 10000mAh Baseus Picogo MagSafe Slim Magnetic Power Bank w/ 27W Fast Charging (Cosmic Black) $15.99 + Free Shipping",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-08T22:24:40.785412Z",
-  "code": "duplicate",
-  "public": true
  }
 ]
