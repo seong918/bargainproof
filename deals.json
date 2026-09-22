@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "a8f334dd4bf3",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20050191-bedsure-100-cotton-herringbone-weave-queen-size-blanket-15-49-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "Bedsure 100% Cotton Herringbone Weave Queen Size Blanket + or on",
+  "raw_title": "Bedsure 100% Cotton Herringbone Weave Queen Size Blanket $15.49 + Free Shipping w/ Prime or on $35+",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1549,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "prime"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-22T20:33:37.284024Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "7e41b81ff45d",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20048751-amazon-walifrey-women-s-capri-joggers-w-pockets-5-49-w-code?utm_source=rss&utm_content=ht&utm_medium=RSS2",
