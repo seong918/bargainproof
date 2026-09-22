@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "GIGABYTE - AERO X16 - Copilot+ PC - 16\" 2560×1600 WQXGA AMD Ryzen Al 7 350 - 1TB SSD - 32GB DDR5 RAM GeForce RTX 5060 - Space Gray $1199",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T00:29:27.682634Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Olight Warrior Ultra 2500 Lumen Tactical Flashlight + i3E EOS Keychain Flashlight $79 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T00:29:27.682634Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[NEW] $15.99 | Masters of the Universe Origins 200X Roboto Deluxe Action Figure at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-22T00:23:58.196638Z",
@@ -137941,30 +137957,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T00:34:15.703010Z",
   "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon - Smart Watch for Women/Men for iPhone & Android, Make Call, 1.85\" AMOLED Screen - $19.19",
-  "reason": "Posted at $19.19, but Amazon showed $41.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-08T00:28:40.010630Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "LEGO Creator 3-in-1 Retro Gaming Console for $16 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T00:28:40.010630Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Nike Women's Air Jordan 1 Mid Shoes (Hibiscus/Hibiscus, 6.5-8) $56.98 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T00:28:40.010630Z",
-  "code": "not_checked",
   "public": false
  }
 ]

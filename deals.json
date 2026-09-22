@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "8d962fb21731",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20045511-20-amazon-credit-when-you-spend-75-on-select-pet-products-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "Amazon credit when you spend on Select Pet Products",
+  "raw_title": "$20 Amazon credit when you spend $75 on Select Pet Products at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 2000,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-22T00:29:27.682634Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "4667129843a7",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20046063-usb-c-to-usb-c-cable-2-pack-type-c-60w-fast-charging-cable-nylon-braided-for-home-office-travel-compatible-with-iphone-17-16-15-ipad-laptop-3-3ft-5ft-4-99?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
