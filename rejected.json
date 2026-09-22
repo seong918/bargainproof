@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$1.99 | Being You: A New Science of Consciousness (eBook) by Anil Seth",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-22T19:32:44.649943Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Parrot Uncle 100 Inch Ceiling Fan with Light and Remote $339.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T19:32:44.649943Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "xBloom 5th Anniversary Coffee Machine $599.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T19:32:44.649943Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "AstroAI T1 Digital Tire Pressure Gauge with Inflator 3-250 PSI $9.83",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T19:32:44.649943Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Drizzilicious Pumpkin Spice Bites Just $4.98 at Sam’s Club (These Are SO Addictive!)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T19:32:44.649943Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Cordless Fuel Transfer Pump Compatible with DeWalt 20V & Milwaukee $38.23 with coupon18V",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T19:32:44.649943Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "YMMV X White Cognac $19.99 at local Costco Warehouse",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T19:32:44.649943Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "16\" ASUS ZenBook A16 Laptop: 3K OLED 120Hz, Snapdragon X2E-94-100, 48GB, 512GB - Best Buy $1369.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T19:32:44.649943Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$8.98* | 6-Pk Homaxy 100% Cotton Waffle Weave Kitchen Dish Cloths (Dark Grey) at Amazon",
   "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-22T19:27:12.718766Z",
@@ -138252,70 +138316,6 @@
   "raw_title": "HOKA Men's Clifton 10 Road-Running Shoes for $100 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T19:37:30.777387Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[AC] $6.79 | Voltaren Arthritis Pain Gel, Diclofenac Pain Relief Cream, 100 g at Amazon",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-08T19:31:58.732299Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$9.99* | Travelon RFID Blocking Waist Pouch (Gray) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-08T19:31:58.732299Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Black+Decker 12A Blower/Vacuum/Mulcher for $40 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:31:58.732299Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "REI Past Season Backpacks & Bags Deals: Up to 60% off + free shipping w/ $60",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:31:58.732299Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Banana Republic Sale: Up to 40% off + free shipping w/ $50",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:31:58.732299Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Maree Collagen Face Mask 6-Pack Just $7.99 Shipped on Amazon",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:31:58.732299Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Nike Men's Nike Club Fleece Hoodie (2 Colors) $24.99 + Free Shipping $75+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:31:58.732299Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Nivea Creme Body, Face and Hand Care (Glass Jar, 13.5-oz) $7.29 + Free Store Pick-up on $10 +",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:31:58.732299Z",
   "code": "not_checked",
   "public": false
  }

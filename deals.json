@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "a1beb6d129de",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20049117-6-pack-6-oz-lubriderm-fragrance-free-daily-moisture-body-lotion-17-77-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "6-Pack 6-Oz Lubriderm Fragrance-Free Daily Moisture Body Lotion + or on",
+  "raw_title": "6-Pack 6-Oz Lubriderm Fragrance-Free Daily Moisture Body Lotion $17.77 + Free Shipping w/ Prime or on $35+",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1777,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "prime",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-22T19:32:44.649943Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "ab93bd81b732",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20050188-wangdo-men-s-baggy-sweatpants-wide-leg-lounge-cotton-casual-jogging-pants-14-99?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
