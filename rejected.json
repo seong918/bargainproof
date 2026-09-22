@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "QUINEAR Cordless Calf Massager with Heat and Compression, Leg Massager for Circulation and Pain Relief, w/ 3 Intensities & 3 Modes $50",
+  "reason": "Posted at $50.00, but Amazon showed $119.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-22T13:23:52.994572Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Fanttik R11 Pro Cordless Mini Reciprocating Saw 0–2200 SPM $69.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T13:23:52.994572Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "MSTJRY 130W 6 Port GaN Fast USB C Charger Station $12.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T13:23:52.994572Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "AirJet X5 Electric Toothbrush $127.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T13:23:52.994572Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "HVAC Waterless Diffuser for Large Space $64.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T13:23:52.994572Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Creality Ender 5 Max 3D Printer 700mm/s (400x400x400mm): OB w/ 1-YR Warranty $470 + free s/h",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T13:23:52.994572Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "7.5' Halloween Inflatable Ghost Green Car Yard Decoration w/ LED Lights $39.99 + Free Shipping",
   "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-22T13:18:22.209277Z",
@@ -137484,94 +137532,6 @@
   "raw_title": "My Best Buy members get a $50 certificate with Grand Theft Auto VI pre-order and purchase of eligible console (Includes Refurbished Consoles)",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T13:25:45.445274Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "MZK 13-Inch Electric Dethatcher Scarifier, 13-Amp Lawn Tool(RED) $69.97",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-08T13:20:22.783449Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – ANFLAG 8000A Jump Starter w/ 160 PSI Tire Compressor - $57.59 at Checkout",
-  "reason": "Posted at $57.59, but Amazon showed $62.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-08T13:20:22.783449Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$15 AC FS for ALL AMAZON DONAMA Cervical Pillow for Neck and Shoulder,Contour Memory Foam Pillow,",
-  "reason": "Posted at $15.00, but Amazon showed $44.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-08T13:20:22.783449Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "WIHOLL Women’s V Neck Long Sleeve Tunic Tops $7.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T13:20:22.783449Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Ekouaer Womens Pajama Sets - 2 Piece $13.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T13:20:22.783449Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Zeagoo Long Sleeve Slim Fit Top $5.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T13:20:22.783449Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "BEHOST 10 inch Memory Foam Mattress Queen Size $159.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T13:20:22.783449Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Women’s Activewear Sets $14.62",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T13:20:22.783449Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Sampeel Womens Tops Long Sleeve Shirts $6.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T13:20:22.783449Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Academy Sports + Outdoors Clearance Sale: Up to 80% off + free shipping w/ $25",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T13:20:22.783449Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Join AARP for Just $11/Year and Score a Free Bonus Membership (Any Age Can Join!)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T13:20:22.783449Z",
   "code": "not_checked",
   "public": false
  }
