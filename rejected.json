@@ -1,6 +1,190 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[YMMV, AC] $21.38 | Triangle of Sadness (The Criterion Collection 4K Ultra HD + Blu-ray) at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-22T17:47:41.766063Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC] $32.96* | Casio Men's Analog Watch w/ Stainless Steel Bezel & LED Illuminator Backlight at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-22T17:47:41.766063Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[YMMV, AC] $34.96* | 10\" Cuisinart Contour Stainless Steel Open Skillet (422-24) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-22T17:47:41.766063Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC] $38.96* | 48mm Casio AQS800W Series Analog Digital Watch (Green) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-22T17:47:41.766063Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[YMMV, AC] $28.23* | 617-Piece MEGA G.I. Joe Skystriker XP-14F vs. Cobra H.I.S.S. Building Set at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-22T17:47:41.766063Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$4.99ac AMAZON Toughergun Slim Wallet for Men RFID Blocking Money Clip, Minimalist Front Pocket Credit Card Holder,",
+  "reason": "Posted at $4.99, but Amazon showed $9.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-22T17:47:41.766063Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Samsung P9 Express 512GB microSDXC Express Card (Switch 2 Compatible, 800MB/s) $99.99",
+  "reason": "Posted at $99.99, but Amazon showed $149.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-22T17:47:41.766063Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Drazivon Casual Relaxed Fit Long Sleeve Cotton Flannel Shirt $12.99",
+  "reason": "Posted at $12.99, but Amazon showed $25.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-22T17:47:41.766063Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Surgeon Simulator 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T17:47:41.766063Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Round Trip Chicago to Bengaluru India Airfares on Etihad Airways BE $757.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T17:47:41.766063Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Kobalt 302-Piece Metric & Standard (SAE) Mechanics Tool Set w/ Hard Case for $99 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T17:47:41.766063Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Two $50 Dave & Buster's Gift Cards for $80 + email delivery",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T17:47:41.766063Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "5-Minute Stories Books from $6 Shipped for Amazon Prime Members (Reg. $15)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T17:47:41.766063Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$2 | Scotch-Brite Deep Clean Brush For Tile at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T17:47:41.766063Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Gerber Gerber Oatmeal Baby Cereal, 8oz $1.91",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T17:47:41.766063Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nike Men's Air Monarch IV Cross-Training Shoes (4-Colors) + $10 Kohl's Cash $59.50 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T17:47:41.766063Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $469.99* | dreame L40s Ultra Robot Vacuum and Mop, 19,000Pa Suction & Auto Empty at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T17:42:09.652880Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$94.99* | UGREEN Nexode Pro 160W Charger w/ Retractable Cable at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-22T17:42:09.652880Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon - Bluetooth Speaker, 20W HD Stereo, Portable Wireless, IPX4, 30H Playtime - $12.99",
+  "reason": "Posted at $12.99, but Amazon showed $19.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-22T17:42:09.652880Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "KODA Multi-Directional LED Work Light with 2500 Lumens $19.79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T17:42:09.652880Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "VEVOR 1.4x50FT 3.2oz Weed Barrier Fabric Heavy Duty $7.92",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T17:42:09.652880Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Amazon Basics Dual Bin Trash Can Just $33.99 Shipped for New Customers",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T17:42:09.652880Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Girl's Moana Halloween Costume $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T17:42:09.652880Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[YMMV, AC] $76.99* | 24\" Amazon Basics 165Hz 1080p 1ms IPS Adaptive Sync Gaming Monitor at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-22T17:36:37.413682Z",
@@ -137908,126 +138092,6 @@
   "raw_title": "Levoit Core 400S-P Smart Air Purifier for Large Rooms (White) $171 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T17:51:55.513472Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS, AC] $17.92 | 8-Pack 10-Count Nuun Daily Hydration Energy Electrolyte Tablets (Berry Blast) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-08T17:46:20.895913Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "DESLOC C110 Fingerprint Keyless Entry Door Lock with Visual Display $29.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:46:20.895913Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Scrubbing Bubbles Toilet Bowl Cleaner Kit Only $5.98 Shipped on Amazon",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:46:20.895913Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Hurry! Walmart Clearance Dresses from Only $5",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:46:20.895913Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "MERACH Stair Stepper, Black, Compact Foldable Vertical Climber $69.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:46:20.895913Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Sanmadrola Waterproof Anti-Slip Sofa Slipcover (Dark Gray) $22.92 + Free Shipping w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:46:20.895913Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Nesmar G4 Pro Clip Travel Steamer for Clothes, 110-240V Portable Steamer $22.69",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:46:20.895913Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Avatar 3 Movie Bundle $27.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:46:20.895913Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "SHINE WELL Leg Recovery Compression System, Professional Foot and Leg Air Compression Boots $119",
-  "reason": "Posted at $119.00, but Amazon showed $259.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-08T17:40:47.161899Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Pinspark Men's Lightweight Quick Dry Joggers (Various Sizes) $11.99",
-  "reason": "Posted at $11.99, but Amazon showed $26.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-08T17:40:47.161899Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Dawn Platinum Plus Lemon Scent Dish Spray 16-Oz $2.29",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:40:47.161899Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Kesguar Portable Charger 20000mAh 22.5W PD Fast Charging Power Bank Built-in Cable Metal Case $13.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:40:47.161899Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "J.Crew Factory Short-Sleeve Textured Camp Shirt for Men for $21 + free shipping w/ $75",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:40:47.161899Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon Essentials Sling Bag (White/Black) $20.30 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:40:47.161899Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$97.67 or less get $45 Amazon Credit 1620 ea (3 x 540) WaterWipes Sensitive+ Newborn & Baby Wipes, 3-In-1 Cleans, Cares, Protects, 99.9% Water,",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T17:40:47.161899Z",
   "code": "not_checked",
   "public": false
  }
