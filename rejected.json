@@ -137350,37 +137350,5 @@
   "rejected_at": "2026-09-08T10:21:03.872323Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Vintage Turkish Oushak 4x7-Foot Hand-Knotted Wool Area Rug for $105 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T10:15:31.686355Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "George Men's 100% Cotton Short Sleeve Slub Pocket Tee (Various) from $4.20 + Free S&H w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T10:15:31.686355Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$54.99: American Lawn Mower 1304-14GC 14\" 5-Blade Reel Mower with Grass Catcher at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T10:15:31.686355Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Bosch 18V Compact Brushless 1/2\" Drill/Driver Kit + 2Ah Battery, Charger & Bag $79.00 + Free Shipping",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-08T10:15:31.686355Z",
-  "code": "duplicate",
-  "public": true
  }
 ]
