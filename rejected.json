@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Catchmaster Max-Catch Glue Traps 72pk, Sticky Mouse Traps Indoor for Home - $28 @ Amazon AC + S&S",
+  "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T09:53:55.384144Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "22\" Boxwood Fall Greenery Wreath w/ Sash for Front Door $11.39 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T09:53:55.384144Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SuydanBox Magnetic for iPhone 18 Pro Case/iPhone 17 Pro Case Silicone $7.29",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-22T09:53:55.384144Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Motorola - Refurbished Excellent - razr 2025 256GB (Unlocked) - PANTONE Gibraltar Sea $359.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T09:53:55.384144Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CHIQUERID Outdoor Papasan Rocking Chair (Small): Wicker Rattan Rocker with Cushion $99.99 w/ code + Free Shipping at Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T09:53:55.384144Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS] $13.02 | 24-Pack 2-Oz Sour Patch Kids Soft & Chewy Candy (Watermelon) at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-22T09:53:55.384144Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "5-Outlet Power Strip with 4 USB Ports - Surge Protector for Home, Office, School - ETL Listed $8.99",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-22T09:48:22.578586Z",
@@ -137396,30 +137444,6 @@
   "raw_title": "Hoffree Gaming Office Message Chair for $120 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T09:58:55.855779Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "luvamia Women's Long Sleeve Distressed Button-Down Denim Jackets (Various) from $14.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-08T09:53:19.644546Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[S&S] $14.74: 4-Pack Bob's Red Mill Organic Thick Rolled Oats, 32oz",
-  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-08T09:53:19.644546Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "2-Pack EDX Zero Gravity Outdoor Lounge Chairs (Black) $54.87 + Free Shipping w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T09:53:19.644546Z",
   "code": "not_checked",
   "public": false
  }
