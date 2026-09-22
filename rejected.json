@@ -1,5 +1,61 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Joyroom 3600mAh Battery Portable Electric Air Pump for Inflatables $12.95",
+  "reason": "Posted at $12.95, but Amazon showed $23.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-22T14:12:40.864860Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "(NEW) Apple iPad Air 13-inch 128GB with M3 Chip (Wifi + Cellular) $849.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T14:12:40.864860Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Meguiar's Ultimate Interior Detailer 450ml $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T14:12:40.864860Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "(NEW) Apple Watch Series 10 42mm Smartwatch [GPS + Cellular] $279.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T14:12:40.864860Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "X-Sense Wi-Fi Thermometer Hygrometer for Home $18.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T14:12:40.864860Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Mucar CS6 OBD2 Diagnostic Scanner for $160 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T14:12:40.864860Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CALIA Women's TrueLight 15\" Golf Skort (Purple, Size 00-18) $9.97 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T14:12:40.864860Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Osprey 10003685 O/S Osprey Fairview 40L Women's Travel Ba (Open Box) $105.36",
   "reason": "Not evaluated",
@@ -137540,22 +137596,6 @@
   "raw_title": "Lefant M2S Plus Robot Vacuum and Mop Combo 10000Pa Suction 75-Day Self-Emptying $130 + Free Shipping $469.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T14:14:47.937685Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "850W ASRock PRO-850G 80 Plus Gold ATX 3.1 & PCIe 5.1 Non-Modular Power Supply (Black) $59.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T14:09:15.619302Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Dell New XPS 13 Intel Core 5 320 (Series 3) 13.4\" 2.5K Display Touch Laptop $699.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T14:09:15.619302Z",
   "code": "not_checked",
   "public": false
  }
