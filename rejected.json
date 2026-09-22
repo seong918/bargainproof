@@ -1,5 +1,21 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Cold Steel Mini Leatherneck Tanto Point Fixed Blade Knife for $18 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T22:40:53.403272Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "ADAM Audio Sub8 8\" Powered Studio Subwoofer for $700 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T22:40:53.403272Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Gyroor KS2 Kids Electric Scooter, 5 MPH, LED Light-Up Wheels, Aqua Blue $59.99 with coupon",
   "reason": "Not evaluated",
@@ -137836,30 +137852,6 @@
   "raw_title": "$198 FS WALMART VIZIO 43 in Mini LED Quantum 4K QLED HDR Smart TV, 2026 Model, VQM43C-10",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T22:46:18.023594Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Granite Gold 32-oz. Stone & Tile Floor Concentrated Cleaner for $6.64 via Sub & Save + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T22:40:42.374312Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$12.83* | 1-Lb Augason Farms Dehydrated Diced Bell Peppers Can at Amazon",
-  "reason": "Community score too low (+4) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-08T22:35:26.287028Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "VIZIO VQD65R-10 65\" 4K QLED HDR UHD Smart TV for $328 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T22:35:26.287028Z",
   "code": "not_checked",
   "public": false
  }
