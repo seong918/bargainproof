@@ -1,5 +1,53 @@
 [
  {
+  "source": "dealcatcher",
+  "raw_title": "JOYROOM Magnetic Fast Charging Apple Watch Stand Dock $5.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T16:02:38.002152Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Amazon Grocery Smoked BBQ Rub 25-Oz $3.76",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T16:02:38.002152Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Johnson's Baby Shiny & Soft Kids' Shampoo 13.6-Oz $3.20",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T16:02:38.002152Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Swedish Fish and Friends Candy 12-Pack $9.71",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T16:02:38.002152Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "11-Night Madagascar Flight, Hotel, and Tour Vacation for From $9,638 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T16:02:38.002152Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ASUS ROG G700 (2026) Gaming Desktop PC: Intel Ultra 7 265KF, RTX 5060 TI (8GB), 32GB DDR5, 1TB SSD $1349",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T16:02:38.002152Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Amazon Grocery 25oz Smoked BBQ Rub & Seasoning $3.76",
   "reason": "Posted at $3.76, but Amazon showed $5.38 when we checked — the deal is probably over",
@@ -138132,94 +138180,6 @@
   "raw_title": "1.6 cu. ft. GE 1000W Over-the-Range Microwave (Stainless Steel) $229.99 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T16:06:02.466857Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon Grocery, Chamomile Herbal Tea Bags, 20 Ct~$1.89 With S&S @ Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-08T16:00:27.319248Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Interactive Cat Ferris Wheel Toy Rotating Treat Dispenser Puzzle $11.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T16:00:27.319248Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "JOFIOS Solar Powered Fence Lights 12-Pack w/ 9 Colors & 12 Lighting Modes $36.89",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T16:00:27.319248Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "TALIX 12800mAh 125W 3-Port Laptop Power Bank w/ 240W USB-C Cable $21.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T16:00:27.319248Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "BIGOTTERS 200 PCS Cotton Compressed Disposable Face Towels $10.79",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T16:00:27.319248Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Energizer MAX AAA Batteries 24 Pack $7.30",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T16:00:27.319248Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Solar Post Caps 6-Pack $16.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T16:00:27.319248Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Fleece Heated Jackets with Battery $64.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T16:00:27.319248Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "AOSEED AI 3D Printer for Kids $299.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T16:00:27.319248Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Mott’s Apple Juice 32-Pack Just $7.74 Shipped on Amazon (Reg. $14)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T16:00:27.319248Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Original Natural Wood Cedar Rectangle Elevated Garden Raised Bed with Legs (48 in. L x 24 in. W x 7.5 in. H) $73.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T16:00:27.319248Z",
   "code": "not_checked",
   "public": false
  }
