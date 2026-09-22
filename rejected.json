@@ -1,5 +1,101 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Jogrytece 4-in-2 Multi USB Fast Charging Phone Cable (Pink) $5.49",
+  "reason": "Posted at $5.49, but Amazon showed $8.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-22T18:48:22.263122Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Intel Ultra 7 270K Plus LGA1851 Unlocked Processor $199.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T18:48:22.263122Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Rock Solid Flag and 7v7 Football Headgear (Various) $8.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T18:48:22.263122Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Merrell Men's MTL Skyfire 2 Matryx Shoes $79.19",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T18:48:22.263122Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Mens Fleece Hoodies Zip Up Warm Thick Winter Jacket $24 with coupon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T18:48:22.263122Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LG - 85” Class NU85 Series LED Nano 4K UHD Smart webOS TV (2026) $799.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T18:48:22.263122Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "1-Ct Multipet 5\" Mirror Belly Animal Assortment Cat Toy $1.08 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T18:48:22.263122Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Creality K1C 2025 $183.20",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T18:42:50.037133Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Holiday Comforter Sets in ANY Size Just $24.99 on Macys.com (Reg. $80)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T18:42:50.037133Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$9.99 | Farscape: The Complete Series (1999-2004) at AppleTV",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T18:42:50.037133Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Aqua Culture Gassy Diver Bubbling Aquarium Ornament $2.84 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T18:42:50.037133Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$9.99 | Snowpiercer, The Complete Series (2020-2024) at AppleTV",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T18:42:50.037133Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Dimur Resort Wear Women Business Casual Outfits V Neck Basic Tops Beige M $5.99",
   "reason": "Posted at $5.99, but Amazon showed $10.99 when we checked — the deal is probably over",
@@ -138084,118 +138180,6 @@
   "raw_title": "DEWALT 20V MAX Cordless String Trimmer & Brushless Blower Combo Kit $180 + Free Pickup",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T18:52:55.562602Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Hillman Magnetic Key Case $2.24",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:47:21.990870Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Dyson Ball Animal Total Clean Upright Vacuum $399.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:47:21.990870Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "adidas Men Lite Racer Adapt 7.0 Shoes $28.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:47:21.990870Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Lacoste Men's Chaymon Suede Sneakers for $62 + free shipping w/ $75",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:47:21.990870Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "233-Pc LEGO Minecraft Chicken Farm (21585) $16 + Free Shipping w/ Prime or on orders over $35",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-08T18:41:49.408410Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Origlive 16.9oz Rapid Ceramic Paint Sealant Kit $9.99",
-  "reason": "Posted at $9.99, but Amazon showed $17.79 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-08T18:41:49.408410Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Samsung Galaxy Z Flip7 FE Smartphone 256GB $569.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:41:49.408410Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "2-Qt Paris Hilton Enameled Cast Iron Heart-Shaped Dutch Oven w/ Lid (Cream) $16.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:41:49.408410Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "4-Pack 12-Oz C4 Performance Energy Drink (Frozen Bomb) $4.29",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:41:49.408410Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Apple AirPods Pro 3 Wireless Earbuds with Active Noise Cancellation $199.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:41:49.408410Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Bluey Books Advent Calendar Only $14.99 on Amazon (Reg. $30)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:41:49.408410Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "My Texas House Outdoor Rugs from $39.97 Shipped on Walmart.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:41:49.408410Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Borderlands 3 Ultimate Edition (Xbox One/Series X|S) Digital Code $18.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:41:49.408410Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Round Trip Boston - Tampa FL or Vice Versa $179 Nonstop Airfares on Delta Air Lines BE (Limited Travel October - November 2026)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T18:41:49.408410Z",
   "code": "not_checked",
   "public": false
  }
