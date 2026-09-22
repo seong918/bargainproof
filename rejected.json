@@ -1,5 +1,29 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Don Knotts 5-Film Collection [Blu-ray] $27.99 Amazon.com",
+  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-22T12:06:33.463860Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Princess 7-Night Italy, Turkey & Greece Mediterranean Cruise for From $2,558 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:06:33.463860Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime, AC] $19.99 | 2 × 3.3' Baseus 240W USB-C Retractable Cable ($9.99 each) at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-22T12:06:33.463860Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "dealnews",
   "raw_title": "Crimson Templar Figurine Statue Ornament for $103 + free shipping",
   "reason": "Not evaluated",
@@ -137254,37 +137278,5 @@
   "rejected_at": "2026-09-08T12:10:19.722068Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Snomd Digital Oral Thermometer (DT007) $3.59 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-08T12:04:48.373420Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "7-Night Peru Flight, Hotel, and Tour Vacation for From $3,996 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T12:04:48.373420Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "GoFit Massage Polar Exercise Roller, Cold Rolling Ball for Post-Workout Massage Recovery & More $7.49 + Free Shipping on $25+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T12:04:48.373420Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$5.99* | Mattel Games UNO Junior Marvel Spidey & His Amazing Friends Card Game at Amazon",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-08T12:04:48.373420Z",
-  "code": "duplicate",
-  "public": true
  }
 ]
