@@ -1,6 +1,54 @@
 [
  {
   "source": "techbargains",
+  "raw_title": "Spriak 1200-Lumen Rechargeable Flat Flashlight (2-Pcs) $11.99",
+  "reason": "Posted at $11.99, but Amazon showed $14.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-22T20:55:45.733917Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Uni-Ball 207 0.7mm Medium Point Retractable Gel Pens (8-Count) $5.69",
+  "reason": "Posted at $5.69, but Amazon showed $5.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-22T20:55:45.733917Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Tac-Force Pocket Folding Knife for $5.50 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T20:55:45.733917Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "BIC Glide Original Medium Point Pens 4-Pack for $3 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T20:55:45.733917Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Insignia 20W USB-C Car Charger Kit w/ 4-Ft Lightning Cable $4.99 or less + Free Store Pickup",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T20:55:45.733917Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Filtrete Air Filter 4”, MPR 1550 MERV 12, Ultra Allergen, Bacteria, and Virus Deep Pleat Filter, 2-pack Various Sizes $33.99 free shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T20:55:45.733917Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
   "raw_title": "Lisen Qi2 25W Magsafe Car Mount Wireless Charger for iPhone $20.99",
   "reason": "Posted at $20.99, but Amazon showed $32.98 when we checked — the deal is probably over",
   "rejected_at": "2026-09-22T20:50:13.775343Z",
@@ -138028,46 +138076,6 @@
   "raw_title": "Skechers: Extra 20% Off: Skechers Men's Go DRI All-Day Performance 1/4 Zip Top (2 Colors) $15.99 & More + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T21:01:06.504778Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "La Tourangelle Infused High Oleic Sunflower Oil 8.45-Oz $5.48",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T20:55:32.388811Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Verizon NFL Sunday Ticket Deals: From $0 w/ phone or Home Internet plan",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T20:55:32.388811Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Beef Tallow Honey Cream Only $4.80 Shipped on Amazon (Reg. $16)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T20:55:32.388811Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "DeerValley DV-1S0159-V3 Smart Toilet Bidet w/ Auto Open, Warm Water and LED Display $461.23 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T20:55:32.388811Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Henckels Modernist 20-piece Self-Sharpening Knife Block Set $199.99 Free shipping Costco.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T20:55:32.388811Z",
   "code": "not_checked",
   "public": false
  }
