@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$219.24 | Citizen Eco-Drive Ladies' Disney Aladdin 30th Anniversary, Princess Jasmine Teal Leather Strap Watch and Pin Gift Set, Mother-of-Pearl Dial, Crystals, 30mm at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-22T08:14:20.941038Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Hisense 85“ Hi-QLED 4K S7 CanvasTV Series Google Smart Art TV (85S7SG, 2026 New) - 144Hz, Art Gallery, Dolby Vision HDR, Anti-Glare Panel $2199.99",
+  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-22T08:14:20.941038Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ASUS ROG XG27ACMES 27 Inch 1440p 255Hz Fast IPS G-SYNC HDR Gaming Monitor $229",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-22T08:08:49.196838Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "dreame D20 Pro Plus Robot Vacuum and Mop, Detangling DuoBrush for Pet Hair $303.96",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-22T08:08:49.196838Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Hanes Men's X-Temp Polo Shirt for $5 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T08:08:49.196838Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Flantree Thick Foam Camping Sleeping Pad for $47 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T08:08:49.196838Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "$25 Red Robin Gift Card for $20",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T08:08:49.196838Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Dewalt dcs570p1 $317.26",
   "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-22T08:03:16.988294Z",
@@ -137310,45 +137366,5 @@
   "rejected_at": "2026-09-08T08:18:15.923674Z",
   "code": "low_score",
   "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "3-Pack 18-Oz Harry's Solstice Men's Body Wash (Solstice Mandarin & Musk) $12.62 w/ S&S + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-08T08:12:38.898483Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Swingline Cub Compact Metal Desktop Stapler (Red) $6.85 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-08T08:07:01.421158Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "3-in-1 Mini Bag Sealer w/ Cutter & Flashlight for $15 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T08:07:01.421158Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$14.99 | Minions Despicable Me 4 Ultimate Fart Blaster Toy at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T08:07:01.421158Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$7.49 | 48-Piece Tile Town Pet Vet Magnetic Tiles Set w/ Sound and Lights at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T08:07:01.421158Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
