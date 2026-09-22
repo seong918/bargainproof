@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "7e41b81ff45d",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20048751-amazon-walifrey-women-s-capri-joggers-w-pockets-5-49-w-code?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "Amazon – Walifrey Women's Capri Joggers w/ Pockets - w/ Code",
+  "raw_title": "Amazon – Walifrey Women's Capri Joggers w/ Pockets - $5.49 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0GD66VFHM",
+  "deal_total_cents": 549,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 999,
+  "amazon_coupon_cents": 100,
+  "amazon_effective_cents": 899,
+  "amazon_url": "https://www.amazon.com/dp/B0GD66VFHM",
+  "amazon_checked_at": "2026-09-22T20:28:10.456016Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0GD66VFHM",
+  "image_url": null,
+  "published_at": "2026-09-22T20:28:05.426349Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "a8cb869bd1d4",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20049798-wavlink-7-in-1-laptop-docking-station-w-dual-4k-hdmi-2-5g-lan-140w-windows-25-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
