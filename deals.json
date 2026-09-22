@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "d489523ac153",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20046861-sns-10-10-4-pk-24-oz-bob-s-red-mill-steel-cut-oats-at-amazon-2-52-each?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "4-Pk 24-Oz Bob's Red Mill Steel Cut Oats at Amazon",
+  "raw_title": "[SnS] $10.10* | 4-Pk 24-Oz Bob's Red Mill Steel Cut Oats at Amazon ($2.52 each)",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1010,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-22T06:01:20.870881Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "e7faa75b014c",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20046897-4-pack-32-oz-riceselect-arborio-rice-jars-6-30-1-58-each-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
