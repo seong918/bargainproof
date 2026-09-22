@@ -1,5 +1,85 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "5-Outlet Power Strip with 4 USB Ports - Surge Protector for Home, Office, School - ETL Listed $8.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-22T09:48:22.578586Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Soothfeel Men's 7\" Golf Shorts for $10 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T09:48:22.578586Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Granicell AA NiMH Rechargeable Batteries 16-Pack for $13 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T09:48:22.578586Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Amazon Essentials Men's Cotton Canvas Zip-Front Trucker Jacket for $15 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T09:48:22.578586Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$237.97 | Klipsch Reference Next-Generation R-50M Horn-Loaded Bookshelf Speakers with 5.25” Spun-Copper Woofers at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-22T09:42:50.161355Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "12.6' Aokudoni 350-LED Star Waterfall Christmas Lights w/ 8 Lighting Modes (Multicolor) $14.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T09:42:50.161355Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Seesii 1.4\" Cutting 2-Mode Battery Powered Cordless Pruner w/ 2x 2000mAh Batteries $37.19",
+  "reason": "Posted at $37.19, but Amazon showed $44.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-22T09:42:50.161355Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Pudolla Women's Quick-Dry Cargo Capri Hiking Pants for $13 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T09:42:50.161355Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Dr.Prepare Air Purifier for $45 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T09:42:50.161355Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Wall Charger, Surge Protector, QINLIANF 5 Outlet Extender with 4 USB Ports $9.98",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-22T09:37:17.209928Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
   "source": "dealnews",
   "raw_title": "Towel Off Sale at Woot for Deals from $4.99 + free shipping w/ Prime",
   "reason": "Not evaluated",
@@ -69497,14 +69577,6 @@
  },
  {
   "source": "slickdeals",
-  "raw_title": "Wall Charger, Surge Protector, QINLIANF 5 Outlet Extender with 4 USB Ports $9.98",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-15T00:15:54.017015Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
   "raw_title": "Vivicreate Tri Ply Stainless Steel Stock Pot with Lid 5 Quart Hammered Stockpot Induction Cooking Pot Soup Pot Compatible with All Stovetops (5QT) $16.99",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-15T00:15:54.017015Z",
@@ -137348,110 +137420,6 @@
   "raw_title": "2-Pack EDX Zero Gravity Outdoor Lounge Chairs (Black) $54.87 + Free Shipping w/ Walmart+ or on $35+",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T09:53:19.644546Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "BOSCH CO21 21-Piece Assorted Set with Included Case Cobalt Metal Drill Bit with Three-Flat Shank for Drilling Applications in Stainless Steel, Cast Iron, Titanium $60.53",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-08T09:47:47.420478Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Suzume Extra Long 180-Degree Flexible Head Ratcheting Wrench Set (6-Piece, 8-19mm) $36.32",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T09:47:47.420478Z",
-  "code": "lookup_failed",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Mitclear 2-in-1 Heavy-Duty Curved Weed Puller Tool with 58\" Long Handle $9.89",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T09:47:47.420478Z",
-  "code": "lookup_failed",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Draco Lighters Pistol Shape Butane Torch Lighter for $27 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T09:47:47.420478Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[Prime] 3-Port TALIX 12800mAh 125W Laptop Power Bank w/ 240W USB-C Cable $21.99 + Free Shipping",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-08T09:42:11.125289Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Songmics 55\" TV Stand for $59 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T09:42:11.125289Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "KitchenAid Food Processor Attachment for $55 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T09:42:11.125289Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[Prime] 2-Port wegear 45W USB-C GaN Fast Charger w/ Foldable Plug $9.99 + Free Shipping",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-08T09:36:39.362877Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Skittles 8.47oz Shriekers Sour Fun Size Halloween Chewy Candy Bag (2-Pack) $5.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T09:36:39.362877Z",
-  "code": "lookup_failed",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Olight 75 Lumens RGB Ambient Magnetic Sphere Smart Night Light $13.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T09:36:39.362877Z",
-  "code": "lookup_failed",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "KitchenAid Leave-In Meat Thermometer for $10 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T09:36:39.362877Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "The Before Trilogy: Criterion Collection on Blu-ray for $55 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T09:36:39.362877Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Garanimals Baby & Toddler Girls Flare Leg Jeans (Limited Sizes) $2.69 + Free S&H w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T09:36:39.362877Z",
   "code": "not_checked",
   "public": false
  }
