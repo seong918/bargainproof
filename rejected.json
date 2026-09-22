@@ -1,5 +1,181 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Christopher Knight Home Collinston Outdoor Bench for $82 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T20:05:56.736037Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Oceania Cruises 12-Night Caribbean Cruise for From $5,280 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T20:05:56.736037Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Levi's Men's Sale: Up to 65% off + free shipping w/ $75",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T20:05:56.736037Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Amazon Essentials Men's Regular-Fit Poplin Shirt for $5 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T20:05:56.736037Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "6.5\" Kenwood KFC-P710PS Car Audio Component Speaker System $99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T20:05:56.736037Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GOOLOO GT160 DUAL Heavy-Duty Tire Inflator Portable Air Compressor $39.89 after coupon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T20:05:56.736037Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Jousen mens casual dress shoes($34.98-$39.99 + Free Shipping w/ Prime)",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T20:00:23.468526Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "8-Night Japan Trip with Air & Bullet Train $1,999.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T20:00:23.468526Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "JLab Audio JBuds Air Executive True Wireless Bluetooth Earbuds w/ Charging Case $15.50 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T20:00:23.468526Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Creality Ender 5 Max 3D Printer 400x400x400mm $470.13",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T19:54:50.370659Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "VRST Men's Recovery Joggers Warm Pewter $20.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T19:54:50.370659Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Belk Anniversary Sale: Up to 75% off + free shipping w/ $99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T19:54:50.370659Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Hurran Kitchen Sink Faucet with Pull Down Sprayer, Brushed Nickel $25.99 after coupon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T19:54:50.370659Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Open-Box: GoPro MAX 2 8K 360 Action Camera $261 or less + Free S/H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T19:54:50.370659Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "VEVOR 40\" Manual Tile Cutter w/ Infrared Positioning $76.38",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T19:49:18.812997Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Lenovo Legion 7a Gen 11 AMD Ryzen AI MAX+ 388 Radeon 8060S 32GB RAM 1TB SSD 15.3\" QHD+ OLED $1,765.03",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T19:49:18.812997Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Tracfone MOTO G2026 1500 Talk & Text 1 Year Service $119.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T19:49:18.812997Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "3-Piece Captiva Designs Outdoor Wicker Patio Sofa Conversation Set $299.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T19:49:18.812997Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Merrell Unisex Cham Redux Storm GORE-TEX Shoes for $76 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T19:49:18.812997Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Costco - Zipfizz 30ct tubes - $23.99 after discount - Save even more with Buy More, Save More Promotion $17.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T19:49:18.812997Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Kohl's: Select Fisher-Price Toys $10 Off $50 + Free Store Pickup or Free Shipping $49+ $41.07",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T19:49:18.812997Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "12-Piece No Boundaries Goldtone Jewelry Advent Calendar $3.11 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T19:49:18.812997Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$1.99 | Filthy Rich: A Powerful Billionaire, the Sex Scandal that Undid Him, and All the Justice that Money Can Buy (eBook) by James Patterson, John Connolly",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
@@ -138020,342 +138196,6 @@
   "raw_title": "KOHLER Purewash E750 Electric Bidet Seat (Elongated Toilets) w/ Touchscreen Remote $351.35 + Free S&H",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T20:10:57.496178Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Adidas Women's Adizero SL2 Running Shoes Core Black/Cloud White/Grey Five $38.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T20:05:22.414336Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Epiphone Les Paul Custom Bats in Flight Electric Guitar for $749 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T20:05:22.414336Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "9-Night Peru Flight, Hotel, and Tour Vacation for From $8,698 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T20:05:22.414336Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Agio Menlo Woven Patio Swing $499.99 Free Shipping Costco.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T20:05:22.414336Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "LEGO Disney Moana’s Adventure Canoe Fantasy Toy Boat Building Set 43270 $23.69",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T20:05:22.414336Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "(pair) Energy CF-50 Floorstanding Speakers $199 + Free S/H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T20:05:22.414336Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Reyoll 2-in-1 Men's Ceramic Blade Waterproof Body Hair Trimmer $11.99",
-  "reason": "Posted at $11.99, but Amazon showed $19.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-08T19:59:47.294976Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Frigidaire 24\" Built-In Top Control Dishwasher w/ MaxDry & DishSense $399.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:59:47.294976Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Apple iPhone 14 Pro Deep Purple (Refurbished - Scratch & Dent) $384.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:59:47.294976Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Dyson V8 Origin Extra Cordless Vacuum Blue $169.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:59:47.294976Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "SJK Daybreak 4 3-Season 4-Person Tent $75.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:59:47.294976Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Sterling by Music Man StingRay RAY34 Electric Bass Guitar for $550 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:59:47.294976Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Pierson 76” Bookcase $99.99 free shipping Costco.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:59:47.294976Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "2-Pk Milwaukee 7\" Rafter Square $19.95 + Free S&H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:59:47.294976Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "iPhone Charger Fast Charging USB C Charger Block with 6FT C Chargers Cord $6.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:54:13.941715Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Adidas Men Daily 4.0 Shoes $28.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:54:13.941715Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Greenes Fence Original Natural Wood Cedar Rectangle Elevated Garden Raised Bed with Legs (48 in. L x 24 in. W x 7.5 in. H) $73.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:54:13.941715Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Women's Cloudsurfer Next Running Shoes Glacier White $90.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:54:13.941715Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Steam & Go Laundry Sheets 6-Pack (180 sheets / 360 loads) $24.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:54:13.941715Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Amazon Basics 14-Piece Nylon Spring Clamp Set, 6 Pack 3-3/8-inch, 4 Pack 4-1/2-inch, 4 Pack 6-1/2-inch $10.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:54:13.941715Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Reno's Full House Kindle eBook $0.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:54:13.941715Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Greatest Game Ever Played, The: Harry Vardon, Francis Ouimet, and the Birth of Modern Golf (Kindle eBook) $1.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:54:13.941715Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Frosted Toaster Pastries, Cherry, 13.5 Oz, 8 Ct $1.27",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:54:13.941715Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Goldlife F4 Pond Fountain Aerator 1HP 750W 100FT 4 RGB Lights $399.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:54:13.941715Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Effortless: Make It Easier to Do What Matters Most (eBook) $1.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:54:13.941715Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "This Is Your Brain on Birth Control: The Surprising Science of Women, Hormones, and the Law of Unintended Consequences (eBook) $1.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:54:13.941715Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Soft Scrub 4-in-1 Rim Hanger Toilet Bowl Cleaner, Sapphire Waters, 2 Count $2.46",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:54:13.941715Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Vevor 18\" Folding Campfire Grill for $20 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:54:13.941715Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "College Football Hoodie & Sweatshirt Deals at Fanatics: Up to 75% off + free shipping w/ $39",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:54:13.941715Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "UNO Advent Calendar Just $24.99 on Amazon",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:54:13.941715Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$4.99 Sale for The Fighter + The Gambler Double Feature",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:54:13.941715Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Fanflix Digital 4K UHD House of the Dragon Season 1-3 $31.49 with code SEPTSAVINGS",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:54:13.941715Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "2-Pc No Boundaries Women's Woven Cami Top and Shorts Sleep Set (various) from $6.80",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:54:13.941715Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas Men's Essentials French Terry 3-Stripes Full-Zip Hoodie (limited sizes) $23 + Free S&H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:54:13.941715Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$10.12* | 32-fl-oz Scotts Liquid Turf Builder Lawn Food (2,000-sq-ft) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-08T19:48:38.438711Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$2.99 | House of Earth and Blood (Crescent City Book 1) (eBook) by Sarah J. Maas",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-08T19:48:38.438711Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Round Trip Miami to Grand Cayman Island Nonstop Airfares on American Airlines $287.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:48:38.438711Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Sunbeam ReviveSystem 3-in-1 Steamer Iron & Fabric Shaver $19.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:48:38.438711Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Columbia Sportswear $100 Gift Card for $90 + digital delivery",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:48:38.438711Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Banana Republic Factory Standard-Fit Oxford Shirt for $30 + free shipping w/ $50",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:48:38.438711Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Patagonia Past Season Jackets Deals at REI: Up to 60% off + free shipping w/ $60",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:48:38.438711Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Tablo - 4th Gen, 2-Tuner, 128GB Over-The-Air DVR for $59.95 or $49.95 with GOVX",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T19:48:38.438711Z",
   "code": "not_checked",
   "public": false
  }
