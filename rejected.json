@@ -1,5 +1,349 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "iMATCHME Mushroom Coffee, 10 Adaptogens Blend, Medium Roast, 50 Servings $8.39",
+  "reason": "Posted at $8.39, but Amazon showed $23.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-22T12:45:12.696035Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Lovevook 15.6\" Waterproof Lightweight Laptop Backpack $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:45:12.696035Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Cool Maker Stack'd Heishi Studio Bracelet Making Kit $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:45:12.696035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Five Star Spiral Notebook + Study App, 5 Subject, College Ruled, 200 Sheets $6.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:45:12.696035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Thule EnRoute 21-L Laptop Backpack $62.96",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:45:12.696035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Paper Mate InkJoy 300RT Retractable Ballpoint Pens 24-Count 1mm Medium Black $6.52",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:45:12.696035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Rubbermaid Decorative Outdoor Storage Cabinet 123 Gallon $178.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:45:12.696035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "365 by Whole Foods Market Pitted Prunes 8-Oz $2.85",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:45:12.696035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Carhartt Men's Iconic K87 Pocket T-Shirt $13.68",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:45:12.696035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Men Quarter Zip Hoodie Fleece $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:45:12.696035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Nothing Ear (3a) Wireless ANC Earbuds $79.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:45:12.696035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Samsung 27\" Odyssey G8 (G80HF) Gaming Monitor 5K Resolution Fast IPS $699.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:45:12.696035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LEGO Snowman Ornaments 3-Pack $9.88",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:45:12.696035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Perfect Plants Thuja Green Giant Arborvitae Liner 18-Pack $48.74",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:45:12.696035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ninja Fit Compact Personal Blender, 700W, (2) 16oz Cups $54.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:45:12.696035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Transformers Toys CYBERWORLD Bumblebee Power Spark Energon Surge $39.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:45:12.696035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Shark HV302 Rocket Pet Corded Stick Vacuum $129.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:45:12.696035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "VTech KidiZoom Smartwatch DX4, Blue $18.54",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:45:12.696035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Men's Cargo Joggers $11.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:45:12.696035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Disney Tim Burton's The Nightmare Before Christmas Jack Skellington Amigurumi Crochet Kit $10.28",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:45:12.696035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LEGO Creator 3 in 1 Retro Camera Building Set 261-Pc $15.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:45:12.696035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Black+Decker Dustbuster AdvancedClean Handheld Vacuum Cordless $44.93",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:45:12.696035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LEGO Sonic the Hedgehog Sonic: Speedster Lightning 126-Piece $7.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:45:12.696035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "FREEHILL 7.4V Ultimate Wool Heated Socks with 16H Battery $59.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:45:12.696035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Care Bears x Wicked Fun Size Plush - Funshine Bear as The Scarecrow $6.57",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:45:12.696035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LEGO Marvel Spider-Man vs. Ghost Rider Motorcycle (76335) 72 pcs $7.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:45:12.696035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "eufy Security SoloCam S340 3K Dual-Lens Solar Wireless Outdoor Security Camera $159.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:45:12.696035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LEGO Art LOVE 791-Piece Building Set $63.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:45:12.696035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Workout Sets $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:45:12.696035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Lightweight Dress Pants $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:45:12.696035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Amazon Essentials Women's Cotton Spandex Bikini Brief Underwear 6-Pack $7.92",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:45:12.696035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Filthy Rich: A Powerful Billionaire, the Sex Scandal that Undid Him, and All the Justice that Money Can Buy (eBook) $1.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:45:12.696035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "FNTCASE for iPhone 18 Pro / 17 Pro Clear Case with Screen Protector $6.29",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:45:12.696035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Avery File Folder Labels 2/3\" x 3-7/16\", 252 Labels $3.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:45:12.696035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "SUPFINE Magnetic Case for iPhone 18 Pro/17 Pro Black $6.58",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:45:12.696035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "524-Piece LEGO Disney Maleficent's & Cruella De Vil's Dresses Fashion Building Set (43262) $33.57",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:45:12.696035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Lecoolife 10-in-1 Indoor Air Quality Monitor for $66 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:45:12.696035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Dyeetic 6000A 12V Jump Starter w/ Air Compressor for $42 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:45:12.696035Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2.2-Lb Lavazza Crema e Aroma Medium Roast Whole Bean Coffee $11.55 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+-2) to pass without a price check — needs Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T12:39:39.421886Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Digital Calendar Wall Planner 10.1 Inch Touch Screen WiFi $39.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:39:39.421886Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Workout Tops UPF 50+ $5.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:39:39.421886Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "OFEEFAN Two Piece Lounge Sets $13.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:39:39.421886Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "PopSockets MagSafe 5,000 mAh PowerPack 15W Wireless Charger (Black) $23.99 + Free Store Pickup at Best Buy",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T12:39:39.421886Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "OFEEFAN Long Sleeve Tunic Tops $6.99",
   "reason": "Not evaluated",
@@ -14778,14 +15122,6 @@
  {
   "source": "dealcatcher",
   "raw_title": "Chair Lumbar Support Pillow $15.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-20T14:53:06.060448Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Digital Calendar Wall Planner 10.1 Inch Touch Screen WiFi $39.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-20T14:53:06.060448Z",
   "code": "not_checked",
@@ -81345,14 +81681,6 @@
  },
  {
   "source": "dealcatcher",
-  "raw_title": "365 by Whole Foods Market Pitted Prunes 8-Oz $2.85",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T02:57:00.148755Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
   "raw_title": "Cuisinart CNP-650 Non-Stick Rectangular Grill Topper $19.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-14T02:57:00.148755Z",
@@ -116185,14 +116513,6 @@
  },
  {
   "source": "slickdeals",
-  "raw_title": "iMATCHME Mushroom Coffee, 10 Adaptogens Blend, Medium Roast, 50 Servings $8.39",
-  "reason": "Posted at $8.39, but Amazon showed $19.19 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-10T04:02:01.859548Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
   "raw_title": "ORICO Portable Fan Rechargeable, 3-In-1 Handheld Desk Neck Fan, ReFan White $5.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-10T04:02:01.859548Z",
@@ -137316,86 +137636,6 @@
   "raw_title": "Wonder Nation Kids Backpacks Only $2.98 on Walmart.com (Reg. $5)",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T12:47:52.005769Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "VEHLIVE Dual-Hole Spark Plug Tester & Simulator $10.49 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-08T12:42:34.543278Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Blackmagic Design Cinema Camera 6K Full-Frame (Leica L) $1,755.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T12:42:34.543278Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "IFNOW Kids Wearable Blanket (Grey) $10.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T12:42:34.543278Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "KitchenAid Artisan 10-Speed Stand Mixer $379.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T12:42:34.543278Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Gold Bond Healing Hydrating Lotion With Aloe, 5.5 oz $3.94",
-  "reason": "Posted at $3.94, but Amazon showed $-1.07 when we checked — the post is stale",
-  "rejected_at": "2026-09-08T12:37:17.876593Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Talix Ultra X6 Wireless Bluetooth 5.4 Open Ear Earbuds $12.50",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T12:37:17.876593Z",
-  "code": "lookup_failed",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "TWO NERDS Juicy Gummy Clusters Bags Only $5.55 Shipped on Amazon",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T12:37:17.876593Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Luseta Keratin Shampoo & Conditioner Set Just $15.59 Shipped on Amazon | Restores Damaged Hair",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T12:37:17.876593Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$12 FS Walmart+ by ONDOG Multi Plug Outlet - 12-Outlet Extender Surge Protector, 3 USB Ports Wall Mount for Home, Office, White",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T12:37:17.876593Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon - Soursop Graviola Liquid Drops 2 Fl Oz $7.66",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T12:37:17.876593Z",
   "code": "not_checked",
   "public": false
  }
