@@ -1,5 +1,77 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "NCAA Men's Stacked Cotton Fleece Pullover Hoodie for $14 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T21:06:50.828972Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "BestMassage Shiatsu Massage Chairs Full Body and Recliner Zero Gravity Massage Chair Electric with Built-in Heart Foot Roller Air Massage Easy to Move for Home Office,Black $499.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T21:06:50.828972Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Test drive an Equinox EV or a Blazer EV. Receive a $50 reward card",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T21:06:50.828972Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GIGABYTE Gaming A16 Pro 16\" Laptop, Intel Core 7 240H, 16GB x 2 (32GB) RAM, 1TB SSD, GeForce RTX 5080, IPS 165Hz, Titanium Black, DYHG5USCC4SH $1799",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T21:06:50.828972Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Act of Valor (Blu-ray) [2012] $7.97 Walmart.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T21:06:50.828972Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Windstar Cruises 10-Night Canary Islands Cruise for From $6,340 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T21:01:18.715153Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Kenneth Cole Reaction Men's Slim Fit Tonal Stripe Dress Shirt for $17 + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T21:01:18.715153Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "WaterPik Aquarius Water Flosser for $60 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T21:01:18.715153Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Happy Nuts Comfort Cream Just $9.74 Shipped on Amazon (Reg. $20)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T21:01:18.715153Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Spriak 1200-Lumen Rechargeable Flat Flashlight (2-Pcs) $11.99",
   "reason": "Posted at $11.99, but Amazon showed $14.99 when we checked — the deal is probably over",
@@ -137996,86 +138068,6 @@
   "raw_title": "Laura Geller Tinted Jelly Lip Balm Just $8.64 Shipped on Amazon (Reg. $24)",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-08T21:12:13.581191Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Weeklong Mediterranean Cruise to Greece $1,254.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T21:06:40.194454Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "YouTube TV NFL Sunday Ticket Student Plan for $119 for Students",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T21:06:40.194454Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Acacia Elara Solid Wood Carved Wood Grain 2-Drawer Nightstand/End Table (Natural Oak) $165.81 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T21:06:40.194454Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "119-Piece LEGO Star Wars: Death/Night Trooper Battle Pack Building Set $18.39 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-08T21:01:06.504778Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Sunchers 500-CFM 2-Speed Portable Cordless Leaf Blower with 2x 2.0Ah Batteries & Charger $39.19",
-  "reason": "Posted at $39.19, but Amazon showed $55.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-08T21:01:06.504778Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "ZITY Men's Sherpa-Lined Flannel Hooded Jacket $19.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T21:01:06.504778Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Ucanfeel Plantar Fasciitis High Arch Support Insoles $8.90",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T21:01:06.504778Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "14-Night Bhutan & Nepal Flight, Hotel, and Tour Vacation for From $21,398 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T21:01:06.504778Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "RUN!!! Birkenstock EVA Clogs from $21.98 Shipped (Reg. $60)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T21:01:06.504778Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Skechers: Extra 20% Off: Skechers Men's Go DRI All-Day Performance 1/4 Zip Top (2 Colors) $15.99 & More + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T21:01:06.504778Z",
   "code": "not_checked",
   "public": false
  }
