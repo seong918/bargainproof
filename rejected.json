@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "KPop Demon Hunters (Soundtrack from the Netflix Film) (Vinyl LP + MP3 Album) $20.48 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+4) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T10:38:04.373365Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $36.06 | 3 × 3-Pack 3-Oz Colgate Optic White Pro Series High Impact White Toothpaste ($12.02 each) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T10:38:04.373365Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "eBay Pokemon 30th Celebration Deals for From $10 + shipping varies",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T10:38:04.373365Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Dell Active Pen PN5122W - Black Stylus $11.99 + Free S&H w/ Prime or $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T10:38:04.373365Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$6.99: Cooler Master MM310 Wired Gaming Mous Adjustable 12,000 DPI (White) at Woot!",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-22T10:32:34.607118Z",
@@ -137374,21 +137406,5 @@
   "rejected_at": "2026-09-08T10:43:30.499580Z",
   "code": "low_score",
   "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Popeyes Big Box for $6",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T10:37:53.872389Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "AppleTV's Complete Digital TV Series: Suits, Battlestar Galactica $19.99, Daria, Rookie Blue, Leave It to Beaver, Halt and Catch Fire $14.99, Mad Men $12.99 & Many More",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T10:37:53.872389Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
