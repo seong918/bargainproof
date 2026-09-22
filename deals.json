@@ -1,5 +1,38 @@
 [
  {
+  "deal_id": "4f45fb38ffbe",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20047281-sns-ac-1-84-10-pack-0-5-oz-betty-crocker-fruit-roll-ups-fruit-flavored-snacks-tropical-tie-die-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "10-Pack 0.5-Oz Betty Crocker Fruit Roll-Ups Fruit Flavored Snacks (Tropical Tie-Die)",
+  "raw_title": "[SnS, AC] $1.84 | 10-Pack 0.5-Oz Betty Crocker Fruit Roll-Ups Fruit Flavored Snacks (Tropical Tie-Die) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 184,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-22T08:47:29.701222Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "ffca10e56494",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20047305-2-99-man-s-search-for-meaning-ebook-by-viktor-e-frankl?utm_source=rss&utm_content=ht&utm_medium=RSS2",

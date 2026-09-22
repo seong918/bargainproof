@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$30* | DRAGON QUEST I & II HD-2D Remake (PS5) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-22T08:47:29.701222Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Dowinx Ergonomic Gaming Chair w/ Footrest & Massage Lumbar Support for $77 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T08:47:29.701222Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "4-Speed FAOGO 170,000 RPM Cordless Electric Air Duster w/ Brushless Motor (W23) $19.79 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+4) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-22T08:41:56.939016Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Anveena 13.3\" x 12\" Stainless Steel Grill Basket $13.99 + Free Shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-22T08:41:56.939016Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "SUNGAIT Men's or Women's Polarized Vintage Round Sunglasses from $6.71 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-22T08:36:26.834121Z",
@@ -137374,37 +137406,5 @@
   "rejected_at": "2026-09-08T08:51:51.769137Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Ohniyou 60\" Industrial DC Motor Ceiling Fan w/ Dimmable 3CCT Light & Remote/App Control (White) $89.75 + Free Shipping",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-08T08:46:14.736878Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "The Art of Disney: Classic Movie Posters 100 Postcards Book for $20 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T08:46:14.736878Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Star Trek: Voyager: The Complete Series (Bundle) SD Digital $15@ Fandango At Home",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-08T08:46:14.736878Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Bosch GXL18V-233B25 18V 2-Tool Combo Kit with 1/2 In. Hammer Drill/Driver, Two-In-One 1/4 In. and 1/2 In. Bit/Socket Impact Driver/Wrench and (2) CORE18V® 4 Ah Advanced $245.70",
-  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-08T08:40:36.995282Z",
-  "code": "low_score",
-  "public": true
  }
 ]
