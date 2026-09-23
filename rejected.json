@@ -1,6 +1,86 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon – 16\" LED Drawing Board Art Set for Kids - $11.99 w/ Code",
+  "reason": "Community score too low (+0) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T03:33:45.465765Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$2.55: Select Accts[AC,S&S] 13.6 fl oz Johnson's Baby Lotion with Coconut Oil, Aloe Vera & Vitamin B5 at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T03:33:45.465765Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Scarlet Darkness Women's Renaissance Pirate Mini Dress - $15.00 w/ Code",
+  "reason": "Community score too low (+0) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T03:33:45.465765Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – BOSTANTEN Women's Wide-Width Suede Clogs - $13.99 w/ Code",
+  "reason": "Community score too low (+0) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T03:33:45.465765Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Soothfeel Women's Fleece-Lined Straight-Leg Yoga Pants - $19.94 w/ Code",
+  "reason": "Community score too low (+0) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T03:33:45.465765Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Pudolla Men's Fleece-Lined Joggers - $19.79 w/ Code + Deal",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T03:28:14.715992Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – G Gradual Men's Fleece Athletic Hoodie - $19.71 w/ Code + Deal",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T03:28:14.715992Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – HTM Vibration Plate Exercise Machine - $38.92 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T03:28:14.715992Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] LANTEFUL 3 Tier Shoe Rack w/ 5 Hooks $8.98 + Free S&H at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T03:28:14.715992Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$4.80 Disney Wet Original Detangle Brush Winnie the Pooh Hunny - Other Disney brushes available too! FREE Shipping @ wetbrushshop.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T03:28:14.715992Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Ultimate Ears MINIROLL Portable Bluetooth Speaker (Grey) $44.99 + Free Shipping",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-23T03:22:46.163557Z",
@@ -137470,29 +137550,5 @@
   "rejected_at": "2026-09-09T03:40:32.664099Z",
   "code": "duplicate",
   "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$14.99 Sale for Kroll Show: The Complete Series",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T03:29:22.864039Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$18.74 for 24 Bottles S&S-MultiBuy 2 x 12 Snapple Zero Sugar Raspberry Tea, 16 fl oz recycled plastic bottle,",
-  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-09T03:23:47.380157Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Honeycomb: The World Beyond",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T03:23:47.380157Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
