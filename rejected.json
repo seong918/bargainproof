@@ -1,5 +1,21 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Soulor CYD27 12V Portable Car Battery Jump Starter (All Gas/14L Diesel) $27.99",
+  "reason": "Posted at $27.99, but Amazon showed $59.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-23T20:49:58.485540Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Camelbak Rogue Light 7 70-oz. Hydration Pack for $44 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T20:49:58.485540Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "JAKKS Pacific Dog Man Movie 5 Inch Dog Man Articulated Action Figure $7.99",
   "reason": "Not evaluated",
@@ -137468,78 +137484,6 @@
   "raw_title": "Nestle Toll House Cocoa Powder Just $3 Shipped on Amazon",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-09T20:51:12.618253Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Mott's Apple Juice 6.75 oz boxes, 32 Count $7.15",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T20:45:38.606566Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Core Power Fairlife 26g Protein Milk Shake (Strawberry Banana) 12-Pack $31.12",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T20:45:38.606566Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "CURSOR FITNESS Magnetic Resistance Stationary Exercise Bike $150.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T20:45:38.606566Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Genmitsu Kintix 5W Class 1 Enclosed Laser Engraver $287.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T20:45:38.606566Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "adidas Men's Supernova Ease Shoes for $35 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T20:45:38.606566Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Alimens & Gentle Men's Regular Fit Stretch Dress Shirt for $15 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T20:45:38.606566Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Soundcore by Anker P30i Noise Cancelling Earbuds for $25 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T20:45:38.606566Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Staples Custom Labels & Stickers Deals: 30% off + free shipping w/ $60",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T20:45:38.606566Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Oakley Men's Valve Polarized Sunglasses $69.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T20:45:38.606566Z",
   "code": "not_checked",
   "public": false
  }
