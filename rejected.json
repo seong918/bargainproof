@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "The Thing [4K UHD] + Blu Ray + Digital $14.99 Amazon.com",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T23:13:54.271923Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$14.99* | The Essential Johnny Cash Album (Double LP Vinyl w/ AutoRip MP3) at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-23T23:13:54.271923Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$10.77* | 24-Pack 0.6-Oz BOOMCHICKAPOP Popcorn (Sea-Salt) at Amazon (44.9￠ each)",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T23:08:20.959053Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "29L Eastsport 18.5\" Dynamic Athleisure Backpack (Blue Shadow Ripstop or Cheerful Flowers) $10.39 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T23:08:20.959053Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Gaiatop Rechargeable Hand Warmers 2 Pack, 3 Heat Levels, 2.15 oz, Cute Dog Magnetic Split Design $9.89",
   "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-23T23:02:49.988351Z",
@@ -136700,30 +136732,6 @@
   "raw_title": "adidas Men's Designed for Training Spaceknit Pants for $19 + free shipping w/ $49",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-09T23:15:52.878361Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "CAROTE 21-Piece Non-Stick Pots & Pans Set w/ Detachable Handles for $60 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T23:10:18.827760Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Kids Origami Kit Just $8 on Amazon (Fun Gift Idea)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T23:04:45.727145Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Anker MagGo 10,000mAh Slim Qi2 Magnetic Power Bank w/ 15W Wireless & 30W USB-C $49.99 + Free Shipping w/ Prime or $6 Fee per Order",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T23:04:45.727145Z",
   "code": "not_checked",
   "public": false
  }
