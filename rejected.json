@@ -1,6 +1,78 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$14.99 | Ring Sensors: Panic Button (newest model) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T19:38:03.251571Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[NEW, YMMV, AC] $17.99 | Jada Fast & Furious 1:24 Roman's Lamborghini Murcielago, Orange, Die-cast Car at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T19:38:03.251571Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$24.46 | 2-Pack 32-Oz Rust-Oleum High Heat Bar-B-Que Black Protective Enamel Paint at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T19:38:03.251571Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$39.99 | Ring Battery Doorbell 2K (newest model) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T19:38:03.251571Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "iTAOSTAR M01A 11’×33\" Stand Up Paddle Board - Premium SUP Board Kit with 5 Fins $79.99",
+  "reason": "Posted at $79.99, but Amazon showed $199.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-23T19:38:03.251571Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Merrell Men's Cove Leather Slide Sandal for $32 + free shipping w/ $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T19:38:03.251571Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Hohem iSteady V3 AI Smartphone Gimbal w/ AI Tracker & Fill Light Module (Black) $84.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T19:38:03.251571Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Micro Center] AMD Ryzen 7 9850X3D Granite Ridge AM5 4.70GHz 8-Core Boxed Processor $400 + Free Store Pickup",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T19:38:03.251571Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "3-Piece Disney Baby Boys' Pixar Toy Story Rex Outfit Set (3 Colors, Sizes: Upto 24M) $4.99 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T19:38:03.251571Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[NEW] $19.99 | Wonder Woman: The Complete Collection (DVD) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-23T19:32:32.979635Z",
@@ -137724,54 +137796,6 @@
   "raw_title": "adidas Men's Galaxy 7 Running Shoes (2 Colors) from $21",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-09T19:39:19.689119Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Little Fockers Blu-ray / DVD Combo + Digital $6.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T19:33:45.804860Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Adidas Busenitz Vintage Shoes (Aurora Coffee / Wonder Clay / Gum) $35.70",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T19:33:45.804860Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Ozark Trail Men's Lace Up Classic Snow Boot for $12 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T19:33:45.804860Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$31.50 FS WALMART+ or Pick up Avia Men's PR4790 Perfomance Sneakers size 8-12, choice of colors",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T19:33:45.804860Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Tineco Floor One S9 Artist Steam Ultra Cordless 4-in-1 Mop and Vacuum $559.99 Free Shipping Costco.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T19:33:45.804860Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$13.97 FS WALMART+ or PU where avail: Avia Little and Big Kids Bungee Athletic Sneakers Size availability varies by color option",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T19:33:45.804860Z",
   "code": "not_checked",
   "public": false
  }
