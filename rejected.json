@@ -1,6 +1,150 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "42” Alaterre Rustic Farmhouse Console Table with Drawer & Shelf, Driftwood $170.49 + Free S&H at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T01:49:44.793411Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$305.99* | Midea 8,000 BTU Smart Inverter Air Conditioner Window Unit w/ Heat/Dehumidifier at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T01:44:13.518057Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Hoka Women's Mach 6 Running Shoe (Oyster Mushroom Truffle Salt) $70 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T01:44:13.518057Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "18-Pack 5-Count Hubba Bubba Max Original Bubble Gum $10.92 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T01:38:43.870240Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Merrell Men's MTL Skyfire 2 Matryx Trail Running Shoes for $79 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T01:38:43.870240Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Hoka Men's Tor Summit + Sneaker (Pirate Black) $88 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T01:38:43.870240Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$6.21* | Hanes Beefy-T Men's Long Sleeve Henley Shirt (Ebony) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T01:33:13.133717Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Women’s 3/4 Sleeve Ribbed Tops $5.09 – Crew Neck Slim Fit Casual Shirts, Free Prime Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T01:27:43.252707Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bosch GET65-5N 5 In. Dual-Mode Random Orbit Sander $269",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T01:27:43.252707Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Magnesium Glycinate 120, 400mg Softgels $9.99 AC and Subscribe and Save",
+  "reason": "Posted at $9.99, but Amazon showed $24.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-23T01:27:43.252707Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Merrell Women's MTL Skyfire 2 Trail Running Shoes for $72 + free shipping w/ $75",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T01:27:43.252707Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Digital Picture Frame Only $39.51 Shipped on Amazon (Reg. $70)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T01:27:43.252707Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HOKA Women's Anacapa 2 Freedom Waterproof Hiking Shoes (Ash Grey/Cosmic Grey) $88.97 + Free Shipping on $49+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T01:27:43.252707Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC] 8-Pack 15.2 oz La Sierra Refried Pinto Beans $7.78 + Free S&H w/ Prime or $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, multi-pack, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T01:22:12.646603Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Billy Idol - Rebel Yell [Expanded Edition] CD $7.25",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T01:22:12.646603Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "20 Pack Wire Connectors,Quick Push Wire Connection,2 Circuit Inline Splices, Fits 28–12 AWG wires, Up to 40% Off $5.99",
+  "reason": "Posted at $5.99, but Amazon showed $9.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-23T01:22:12.646603Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Brooks Men's Hyperion 3 Running Shoes (Luminary/Black/Yellow) $76.97 + Free Shipping on $49+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T01:22:12.646603Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Women's Snowtrot Rogue Shoe $80 AC + FS w/ Email and Text Sign Up",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T01:22:12.646603Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "IAD to Guadalajara Mexico roundtrip direct flight $164",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-23T01:16:43.314403Z",
@@ -137524,238 +137668,6 @@
   "raw_title": "Converse Men's Regular-Fit Utility Shorts for $23 + free shipping w/ $39",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-09T01:54:36.643779Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – KEWIXY 24-Oz Insulated Water Bottle w/ Straw - $10.39–$14.94 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-09T01:49:00.570067Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Greenworks 60V 10\" Cordless Battery Pole Saw w/ 2.0 Ah Battery & Charger + Free S/H $153",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T01:49:00.570067Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$19.99 Sale for The Tudors: The Complete Series",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T01:49:00.570067Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Greenworks 1500 PSI 1.2 GPM Cold Water Electric Pressure Washer $59.5",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T01:49:00.570067Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – Nature Echo 20-in-1 Mushroom Coffee w/ Ashwagandha, 3.17 Oz - $6.99 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-09T01:43:26.911591Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$1.99 | Unhumans: The Secret History of Communist Revolutions (and How to Crush Them) (eBook) by Jack Posobiec, Joshua Lisec",
-  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-09T01:43:26.911591Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Cottonelle Summer Fresh Scented 84-Count Flushable Wipes for $2.67 via Sub & Save + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T01:43:26.911591Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "799 pcs LEGO Icons Williams Racing FW14B & Nigel Mansell F1 Model Car Kit(10353) $52.91 + Free S&H at Walmart",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T01:43:26.911591Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – BEAUZMO Mini Epilator w/ LED - $11.99 w/ Code + Coupon",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-09T01:37:53.895812Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – Honeywell F4 LED Floor Lamp - $48.29 w/ Code + Deal",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-09T01:37:53.895812Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "40-Oz Stanley Quencher H2.0 FlowState Tumbler (Rose Quartz) $27 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-09T01:37:53.895812Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Vibration Plate Exercise Machine for Lymphatic Drainage, Stand Shake Plate $39.86",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-09T01:37:53.895812Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$1.99 | This Is Your Brain on Birth Control: The Surprising Science of Women, Hormones, and the Law of Unintended Consequences (eBook) by Sarah Hill",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-09T01:37:53.895812Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Greenworks 80V 10\" Brushless Cultivator / Tiller w/ 2.0Ah Battery & Charger + Free S/H $246.5",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T01:37:53.895812Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Fitbit Charge 6 Fitness Tracker with Heart Rate, GPS, Premium Membership, and Health Tools - Gold Case w/ Coral Band, 1.04 Screen $117.88",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T01:37:53.895812Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – LIVOWALNY 2-Pack 6000LM LED Work Lights for DeWalt 20V - $19.99 w/ Code",
-  "reason": "Community score too low (+0) to pass without a price check — needs multi-pack, promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-09T01:32:18.605665Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "850W Phanteks AMP GH 80 Plus Gold Fully Modular ATX 3.1 PCIe 5.1 Power Supply (Black) $65 w/ $10 Rebate + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T01:32:18.605665Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Pinmoco 42\" Reversible L-Shaped Computer Desk w/ Monitor Stand, Cup Holder & Headset Hooks (Carbon Fiber Black) $57.95 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T01:32:18.605665Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "The Batman Family: Year One Box Set (Paperback) $34.90 + Free Shipping w/ Prime or on $35+",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-09T01:32:18.605665Z",
-  "code": "duplicate",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – Hautton 126-Bottle Nail Polish Organizer, Purple - $25.99 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-09T01:26:43.831292Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Greenworks 2100 PSI 1.2 GPM Portable Cold Water Electric Pressure Washer + Free S/H $127.5",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T01:26:43.831292Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$14.99 Sale for The Borgias: The Complete Series",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T01:26:43.831292Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – PHINOX Closet Shoe Organizer w/ Clear Cover - $10.99 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-09T01:21:09.387532Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$29.99 FS AMAZON AC Drone with Camera for Adults Beginners Kids, Fun 1080P Foldable Mini Drone for Exciting Indoor Outdoor Play, RC Quadcopter with 2 Batteries, One Key Start,",
-  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
-  "rejected_at": "2026-09-09T01:21:09.387532Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – urlhasbeenblocked 1.5\" Flat Iron Hair Straightener, Pink - $14.99 w/ Code",
-  "reason": "Community score too low (+0) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-09T01:21:09.387532Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Hytest Men's Asher Steel-Toe Suede Shoes for $36 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T01:21:09.387532Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Greenworks 60V 13\" Cordless Battery String Trimmer & 540 CFM Leaf Blower Combo Kit w/ 4.0Ah Battery & Charger + Free S/H $170",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T01:21:09.387532Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "SHOCKWAVE 3/8 in. Drive Deep Well 6 Point Impact Socket Set (12-Piece) $49.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T01:21:09.387532Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$14.99 | 10000mAh Grepro Magnetic Power Bank w/ 22.5W USB-C Cable & Wireless Charging at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T01:21:09.387532Z",
   "code": "not_checked",
   "public": false
  }
