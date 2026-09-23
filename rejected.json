@@ -1,6 +1,350 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[NEW] $127.95 | 962-Piece LEGO Star Wars: SMART Play - Throne Room Duel & A-wing (75427, 2026) at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T05:18:30.931109Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$649* | DeWALT 10-Tool 20V Max Power Tool Combo Kit w/ 2x 2.0Ah Batteries/Bags & Charger at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T05:18:30.931109Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Deco 7 Pro Tri-Band WiFi 7 BE10000 Whole Home Mesh System 6-Stream 10 Gbps $396.5",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T05:18:30.931109Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bedsure Chew-Resistant Dog Crate Bed (Black): Medium $19.99, Large $28.79, X-Large $38.25 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T05:18:30.931109Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$34.99 | Lacoste Men T-Clip Golf Leather Golf Shoes at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T05:18:30.931109Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CAROTE 8QT Full Clad Tri Ply Stainless Steel Stock Pot with Lid $29.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T05:13:00.335323Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Lisen Universal Rotating Car Vent Phone Mount (All Phones 4\"- 7\") $8.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T05:13:00.335323Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "VASAGLE Set of 2 End Tables with Charging Station (Heather Greige + Black) $30 + Free Shipping w/ Prime or over $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T05:13:00.335323Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-pack KILeap 6000mAh Rechargeable Hand Warmers $11 @ Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T05:13:00.335323Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Magic Keyboard with Touch ID and Numeric Keypad for Mac models with Apple silicon (USB-C) - White Keys $149.99 Bestbuy.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T05:13:00.335323Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Pack Ring Indoor Cam 2K Security Camera (2 Colors) $59.98 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T05:07:30.062908Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$14.99 | A Clockwork Orange (4K Ultra HD + Blu-ray) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T05:07:30.062908Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$17.99 | Amazon Basics 35F Sleeping Bag - Black/Gray at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T05:07:30.062908Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Woot! App: $4.99 | 2-Pack Amasuki Upgraded for Apple Watch Charger at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T05:07:30.062908Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Insignia™ - 165-Can Built-In Beverage Cooler - Stainless Steel $399.99 Bestbuy.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T05:07:30.062908Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Insignia™ - 30 in. Wide 4 Elements 5.3 Cu. Ft. Freestanding Electric Range with Dual-Size Burner and Storage Drawer - White $599.99 Bestbuy.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T05:07:30.062908Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$39.99 | Refurb: NETGEAR Nighthawk RAX43 5-Stream AX5 WiFi 6 Wireless Router at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T05:07:30.062908Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bloomin' Brands - $50 Gift Card [Digital] $45 Bestbuy.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T05:07:30.062908Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bloomin' Brands - $50 Gift Card [Digital] $45",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-23T05:07:30.062908Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$79* | CMF Clip Pro, Hi-Res Open Ear Wireless Bluetooth Headphones at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T05:01:59.363708Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GobiDex Lava & Cave Dinosaur Magnetic Tiles Building Set $9.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T05:01:59.363708Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Resale] $40.35 | BLACK+DECKER Countertop Microwave Oven, 0.7 Cu.Ft, 700W, Stainless Steel (Used - Like New) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T05:01:59.363708Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Lenovo IdeaPad Slim 3i 15.3\" 2K Touchscreen Laptop Intel Core 7 350 2026 16GB Memory 512GB SSD Cosmic Blue - Best Buy $679.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T05:01:59.363708Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CRAFTSMAN V20 20-Volt Variable Speed Belt Cordless Sander with Dust Management one_size | CMCW211B $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T05:01:59.363708Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[S&S] Physician's CHOICE Fiber Gummies for GLP-1 Support - No Sugar Added & Vegan - Raspberry Lemon - Natural Chicory Root Prebiotic Fiber Gummy - 60CT $8.99",
+  "reason": "Community score too low (+-1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T04:56:28.392520Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "59.1\" COZEER Freestanding Garden Hose Holder w/ Shepherd's Hook $18.09 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T04:56:28.392520Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "3-pack RUIKORING 8.5\" Motion Sensing Under Cabinet Lighting $13.50 @ Amazon $13.49",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T04:56:28.392520Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$69.51* | 3.4-oz Gucci Bloom for Women Eau de Parfum Spray at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T04:50:57.753798Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Resale] $73.75* | 6-Qt Instant Pot Duo Plus 9-in-1 Electric Pressure Cooker (Used - Like New) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T04:50:57.753798Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "55\"x69\" Bedsure Cordless Wearable Heated Blanket Hoodie (various) $65.99 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T04:50:57.753798Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Prime Members: 12-Pack HW 3500mAh 1.5V Non-Rechargeable AA Lithium Batteries $9.96",
+  "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T04:50:57.753798Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Metabo HPT MultiVolt 1-3/4-in 15 -Degree Coil Cordless Roofing Nailer ( Battery Included ) ( Charger Included ) | NV1845DAM $369",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T04:50:57.753798Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$79* | Nothing Ear (3a) Wireless ANC Earbuds (4 Colors) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T04:45:26.011338Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Samsung 4TB T7 Shield Portable SSD (Black) $464.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T04:39:54.111167Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bedsure ComfyFleece Dog Bed w/ Waterproof Liner & Removable Washable Cover (3 Colors/Various Sizes) from $19.49 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T04:34:22.248198Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Pedigree Choice Cuts In Gravy with Beef Canned Soft Wet Dog Food, 13.2-oz can, case of 12 $10.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T04:34:22.248198Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $4.49 | DC Comics Superman Epic Strike Action Figure, 6-Inch at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T04:28:49.835193Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC] $5.99* | 5-Pairs FYC Women's Wool Blend Cozy Crew Socks at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T04:28:49.835193Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $56.27* | 4 × 148-Oz Tide Ultra Oxi Boost Liquid Laundry Detergent (105 Loads) ($14.07 each) at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T04:28:49.835193Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Transformers Studio Series The Transformers: The Movie MTMTE Collection Insecticon Bombshell, Insecticon Shrapnel, & Insecticon Kickback $64",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T04:28:49.835193Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Transformers Studio Series MTMTE Collection The Transformers : The Movie Leader Class Optimus Prime Action Figure $48",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T04:28:49.835193Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Transformers Studio Series MTMTE Collection The Transformers : The Movie Leader Class Megatron Action Figure $48",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-23T04:28:49.835193Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS] $6.88* | 15-Pack 2.5-Oz Planters Salted Peanuts at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T04:23:18.883169Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Costco Halloween animatronic clearance $99.97",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-23T04:17:49.946200Z",
@@ -137100,414 +137444,6 @@
   "raw_title": "Kobalt 48V MAX 600 CFM 150 MPH Brushless Cordless Leaf Blower Kit w/ (2) 4.0Ah Batteries & Charger $99 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-09T05:20:59.277864Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Womier L98 Wireless Mechanical Keyboard $57.59 (28% off) w/ Code RGKWJPKD",
-  "reason": "Community score too low (+0) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-09T05:15:26.016652Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Conair ExtremeSteam 1200W Handheld Garment Steamer (White) $26.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-09T05:15:26.016652Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$6.99 | Ello Campy Stainless Steel Travel Mug, 18oz, Sea at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T05:15:26.016652Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$24.99 | EASTPAK Pinnacle – 38L Everyday Backpack at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T05:09:49.683794Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$9.99 | SwimSchool Deluxe Baby Float with Adj Canopy at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T05:09:49.683794Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$17.99 | GoSports Chip N' Stick Golf Game at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T05:09:49.683794Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$19.99 | CAP Barbell 24\" Dumbbell and Kettlebell Rack at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T05:09:49.683794Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$29.99 | GCI Outdoor NASCAR Roadtrip Rocker Chair at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T05:09:49.683794Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Tineco - FloorWasher Pet5 Cordless Wet Dry Vacuum Cleaner & Mop, Self-Cleaning, Anti-Tangle Brush, Hard Floor Scrubber, Pet Hair - Black $199.99 Bestbuy.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T05:09:49.683794Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$14.99 | SKLZ PitchBack Baseball and Softball Pitching Net at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T05:09:49.683794Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Thermaltake LCGS View Gaming Desktop: Intel Ultra 7 265KF, RTX 5070, 32GB DDR5-6000, 1TB SSD $1599.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T05:09:49.683794Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "77.6\" x 28.3\" Andola Self-Inflating Foam Camping Sleeping Pad w/ Pillow (Dark Blue) $39.99 + Free Shipping",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-09T05:04:16.685076Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$12.99 | CROSS101 Adj Weighted Vest with Shoulder Pads (20lbs) at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T05:04:16.685076Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "GE - 30 in. Wide 5 Burners 5.3 Cu. Ft. Freestanding Gas Convection Range with Steam Cleaning and EasyWash Oven Tray - Stainless Steel $779.99 Bestbuy.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T05:04:16.685076Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$9.99 | ProsourceFit Exercise Weighted Training Vest - 12lbs at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T05:04:16.685076Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$12.99 | RUNmax rf20nop Run Fast Weighted Vest (20lbs) at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T05:04:16.685076Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "bella PRO - SmartCrisp 8-qt. Touchscreen Air Fryer - Stainless Steel $79.99 Bestbuy.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T05:04:16.685076Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "150-W Ninja Mega Kitchen System Blender w/ 72-Oz Pitcher, 64-Oz Bowl & 2x 16-Oz Nutri Cups $99.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T05:04:16.685076Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Ninja - Mega Kitchen System 72-Oz. Blender - Black $99.99 Bestbuy.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T05:04:16.685076Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Acer Nitro 65 Gaming Desktop AMD Ryzen 7 8700F 2024 NVIDIA GeForce RTX 5060 16GB DDR5 Memory – 1TB Storage Black - Best Buy $1199.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T05:04:16.685076Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Domino's $100 Digital Gift Card $85 & More at Best Buy",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T05:04:16.685076Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Fragrances for $49.99 or Less! at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T05:04:16.685076Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "PowerA Controller Charging Base for Nintendo Switch (Black) $14.99 + Free Shipping w/ Prime or $6 Fee per Order",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T05:04:16.685076Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Walmart Has A Ton Of Name Brand Backpacks On Clearance. Prices Start At $2.98",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T05:04:16.685076Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$5.97* | Clorox Toilet Bowl Brush & Plunger Combo Set w/ Storage Caddy at Amazon",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-09T04:58:42.398027Z",
-  "code": "duplicate",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "6-Piece Astercook Silicone Spatula Set (Morandi, Macaron) $7.49 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-09T04:53:06.820824Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$59.99 | GLORIOUS GHS Eternal RGB - Stereo RGB Gaming Headset for PC, PS5, PS4, Switch at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-09T04:47:29.412660Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$14.99 Sale for Sabrina the Teenage Witch: The Complete Series",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T04:47:29.412660Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Dearfoams Men's Jersey Clog Slippers (Navy) $6.61 + Free Shipping w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T04:47:29.412660Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Wonder Nation Boys Flip Reversible Belt (Tan/Black) $1.70 + Free Shipping w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T04:47:29.412660Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "JiAmy Kids' Hooded Long Puffer Winter Coat (3-12 Years, Various Colors) $16.49 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-09T04:41:54.231780Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Walmart Has Eastport Backpacks On Sale. Prices As Low As $4.79",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T04:41:54.231780Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "VEVOR 8-Gallon 3-in-1 Wet/Dry Shop Vac, 4.5 Peak HP $62.39 Shipped",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T04:41:54.231780Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "AOC 16E10 15.6\" 1080p IPS Portable Monitor $59.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T04:41:54.231780Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "RunStar Digital Bathroom Scale w/ LED Display & 400-Lb Capacity (Black/Gold) $19.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-09T04:36:19.593684Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "VEVOR 4-1/2\" 8A Angle Grinder, 12000 RPM w/ Adjustable Dust Guard $28.69 Shipped",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T04:36:19.593684Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$16.99 | Kids Race Track Set 2 Cars & 4 Trucks at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T04:36:19.593684Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$39.99 | Signature Fitness Fitvids Dumbbell, 50lbs Single at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T04:36:19.593684Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$12.99 | VanStretch Resistance Bands for Work Out at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T04:36:19.593684Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$12.99 | 300-Count Corefeel Vitamin D3 K2 10,000 IU at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T04:36:19.593684Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$0.99 | HotHands Toe Warmers at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T04:36:19.593684Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$10.91* | Tom Petty & the Heartbreakers: The Best Of Everything (2 CD Set) at Amazon",
-  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-09T04:30:46.712459Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$12.99 | Sylvania Proscan CD Clock Radio with USB Charger at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T04:30:46.712459Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "14\" Lenovo IdeaPad Slim 3 Chromebook MediaTek Kompanio 540 2025, 4GB RAM, 64GB eMMC (Cosmic Blue) $199 + Free S/H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T04:30:46.712459Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$29.99 | Fender MD20 Mini Deluxe 3W Guitar Amplifier at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T04:30:46.712459Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$9.99 | Amazon Essentials Men Straight-fit Cargo Pant at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T04:30:46.712459Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Brazos Men's Iron Force III Work Boots $20.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T04:30:46.712459Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Electric Air Duster Super Power 130000RPM, 3-Gear Adjustable Mini Duster Blower with Fast Charging $15.99",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-09T04:25:11.216017Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "120-Count VEV 1200mg Activated Charcoal Capsules w/ Probiotics & Prebiotics $5.84 w/ S&S + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-09T04:19:35.781371Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "AEOCOO Kids' & Toddler Swim Float Vest w/ Adjustable Buoyancy (various) $11.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-09T04:19:35.781371Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Jordan Men's Stadium 90 Low MCS Baseball Cleats White / Purple $29.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T04:19:35.781371Z",
   "code": "not_checked",
   "public": false
  }
