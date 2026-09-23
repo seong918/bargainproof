@@ -1,6 +1,246 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Prime Members: ESR 15W MagSafe Car Mount Charger w/ 3.3' USB-C Cable $14.69 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T13:14:03.028593Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "JandCase Halloween Night Light $9.49",
+  "reason": "Posted at $9.49, but Amazon showed $18.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-23T13:14:03.028593Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Joyroom Tri-Fold 360-Rotation MagSafe Magnetic Phone Car Mount $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $19.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-23T13:14:03.028593Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Toddler Wide Toe Box Shoes $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T13:14:03.028593Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Nada N12 Bluetooth Thermal Label Maker Green $8.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T13:14:03.028593Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Gyroor KS2 Kids Electric Scooter 5 MPH $59.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T13:14:03.028593Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Everyfun Double Hammock with Stand 600 lb Capacity Rainbow $49.50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T13:14:03.028593Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Lightweight Water-Resistant Puffer Jackets $17.79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T13:14:03.028593Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "TALIX 10000mAh 100W Portable Charger Power Bank w/ Built-In USB-C Cable $17.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T13:14:03.028593Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Mini Projector with Wifi and Bluetooth $38.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T13:14:03.028593Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "24-Count Paper Mate Flair Felt Tip Pens Medium Point (0.7mm) $13.28",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T13:14:03.028593Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "M&M's Peanut Candy Jars 2-Pack 23-Oz $14.09",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T13:14:03.028593Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Yoga Pants/Leggings with Pockets $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T13:14:03.028593Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "SAMPEEL 2 Piece Sets $13.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T13:14:03.028593Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "12-Day Guided Tour Package of Turkey w/ Flights $1,599.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T13:14:03.028593Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Home Depot Mattress Deal: Up to $225 in gift cards free + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T13:14:03.028593Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Omofull 4-in-1 Cordless Handheld Vacuum and Air Duster for $40 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T13:14:03.028593Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "4-Camera Blink Outdoor XR+ Extended Range Battery-Powered Security Camera System (Black) $121.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T13:14:03.028593Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Artificial Flowers for Outdoors UV Resistant Fake Red Petunias for Patio $10.99",
+  "reason": "Posted at $10.99, but Amazon showed $14.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-23T13:08:37.730460Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "OFEEFAN Pajamas Sets $13.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T13:08:37.730460Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "adidas Men's CLIMACOOL 3D SHORTS $15.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T13:08:37.730460Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "WIHOLL Color Block Long Sleeve Shirts $6.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T13:08:37.730460Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "adidas men Adizero Select 3.0 Shoes $56.40",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T13:08:37.730460Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "adidas men Adizero Boston 12 Shoes $67.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T13:08:37.730460Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Rexley Sweatshirt $11.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T13:08:37.730460Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Rexley Womens Long Sleeve Tops $5.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T13:08:37.730460Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "WIHOLL Long Sleeve Shirts $7.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T13:08:37.730460Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Novilla 12\" Hybrid Gel Memory Foam Cooling Mattress (King, Medium Firm) $263.00 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T13:08:37.730460Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$2.90 and up Walmart Athletic Works Men's and Big Men's Woven Running Shorts or Gym Shorts Sizes XS-5XB",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T13:08:37.730460Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Roborock FX25 RT Wet and Dry Cordless Vacuum Cleaner with 20,000 Pa Suction Power $199.99 free shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T13:08:37.730460Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "ACEMAGIC K5 Mini PC – $360.99",
   "reason": "Posted at $360.99, but Amazon showed $379.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-23T13:03:06.981290Z",
@@ -136724,94 +136964,6 @@
   "raw_title": "lululemon Women's Scuba High-Rise Mini Skirt for $24 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-09T13:18:38.307058Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Vevor 5-Ton Electric Car Jack for $80 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T13:13:12.572923Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "32 Degrees Men's 1/4 Zip Sweater Knit Top (6 Colors) $11.99 + Free Shipping on $23.75+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T13:13:12.572923Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "LOKITHOR JP400 2500A Jump Starter + 150 PSI Air Compressor $41.96",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T13:13:12.572923Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$198.58* | Husqvarna 130 Gas Powered Chainsaw, 16 Inch at Amazon",
-  "reason": "Posted at $198.58, but Amazon showed $194.52 when we checked — the post is stale",
-  "rejected_at": "2026-09-09T13:07:42.599661Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Portable 100W Power Station and Solar Panel Bundle $34.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T13:07:42.599661Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Womens Faux Fur Coat $25.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T13:07:42.599661Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Magical Morocco Tour: 11 Nights w/Flights $4,049.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T13:07:42.599661Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "19-Piece Makeup Brush Set $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T13:07:42.599661Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Over The Door Double Hanger Hooks - 2 Pack $5.98",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T13:07:42.599661Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "$100 Domino's Gift Card for $85 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T13:07:42.599661Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Dewalt 20V MAX* 1 in. PEX Expander, $289.99 at ZORO",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T13:07:42.599661Z",
   "code": "not_checked",
   "public": false
  }
