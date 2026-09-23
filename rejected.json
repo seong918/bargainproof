@@ -1,6 +1,102 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[AC] $75.59* | darkFlash FLOATRON F1 Micro-ATX Panoramic Floating PC Case (B&W Combo) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T17:47:27.977334Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC] $17.10 | CRAFTSMAN Universal Nut Splitter (CMMT14117) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T17:47:27.977334Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "KAMRUI Pinova P1 AMD Ryzen R2544 256GB SSD Mini PC Desktop $312.55",
+  "reason": "Posted at $312.55, but Amazon showed $329.00 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-23T17:47:27.977334Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "EveryFun Portable 600lb Capacity Double Hammock with Steel Stand $49.50",
+  "reason": "Posted at $49.50, but Amazon showed $89.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-23T17:47:27.977334Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Jordan Diamond Outdoor 8P Basketball for $25 + free shipping w/ $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T17:47:27.977334Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Wrangler Men's Performance Flat Front Short for $7 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T17:47:27.977334Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Squishy Dinosaur Advent Calendar Just $17.99 on Amazon (Reg. $30)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T17:47:27.977334Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "*HOT* Blink Mini 2K+ Newest Model Camera Just $15.99 on Amazon (Reg. $40)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T17:47:27.977334Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Tangkula 3-Pieces Outdoor Acacia Wood Conversation Set w/Cushions and Coffee Table $94.99+Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T17:47:27.977334Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "YMMV Greenworks 24V Cordless Impact Driver Kit, 1/4-Hex, 1950 in./lbs Torque, Brushless, 2 Batteries & Charger, Bits and Bag Included $38.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T17:47:27.977334Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Stupid Deal of the Day: 8-Piece Alesis Command Mesh Kit Special Edition $399 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T17:47:27.977334Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2PCS 6000LM LED Work Lights for Dewalt 20V Battery $19.99 AC",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T17:47:27.977334Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[AC] $6.66 | DEWALT DW1611 3/8-Inch by 6-Inch Aircraft Black Oxide Drill Bit at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-23T17:41:56.198960Z",
@@ -137180,54 +137276,6 @@
   "raw_title": "QVC New Customer: 1.25-Liter KitchenAid Compact Electric Kettle (Various Colors) $69.98 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-09T17:48:46.877038Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Topcee 60\"x90\" Hot Sleepers Lightweight Breathable Summer Cold Blanket $10.79",
-  "reason": "Posted at $10.79, but Amazon showed $17.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-09T17:43:15.528599Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "CLARK'S Food Grade Mineral Oil 12 oz, Butcher Block Conditioner - Unscented $6.48",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T17:43:15.528599Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Moco de Gorila Punk Hair Styling Gel, 11.99 Oz, 3-Pack $7.50",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T17:43:15.528599Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Nordjager Anti-Slip Memory Foam Bed Wedge Pillow 24\" x 24\" x 10\" $19.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T17:43:15.528599Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Muscle Milk Protein Shake 12-Pack Just $13 Shipped on Amazon (Reg. $23)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T17:43:15.528599Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ASUS - TUF Gaming A16 16\" 165Hz FHD+ Gaming Laptop - AMD Ryzen 9 8940HX 2025 - 16GB Memory - GeForce RTX 5070 - 512GB Storage $1599",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T17:43:15.528599Z",
   "code": "not_checked",
   "public": false
  }
