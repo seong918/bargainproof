@@ -1,6 +1,406 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "CUCKOO High Pressure Induction Rice Cooker, 6-Cup Cooked, CRP-EHSS0309FG $269.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T09:18:49.488907Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SereneLife Portable Air Conditioner 12000 BTU With WIFI | 3-in-1 Cooling, Fan and Dehumidifier | 24-H Timer Up to 550 Sq Ft Coverage | AC Unit for Bedroom, Home & Office $294.58",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T09:18:49.488907Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Malwarebytes Premium Security 5-Device 1-Year Subscription for $18 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T09:18:49.488907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "12-Oz Gatorade Stainless Steel Water Bottle (Purple or Pink) $7.99 + Free Store Pickup at Target or Free Shipping on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T09:18:49.488907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Hampton Bay Hugger 44 in. LED Indoor Oil-rubbed bronze Ceiling Fan with Light Kit, $40.77, FS, Home Depot",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T09:18:49.488907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Owala 20-Oz Stainless Steel SmoothSip Slider Coffee Tumbler (Read My Lips) $23.99 + Free Store Pickup at Target or Free Shipping on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T09:18:49.488907Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Pit Boss 700 FB2 Series Wood Pellet Grill & Smoker with Flame Broiler and LCD Digital Controller, 747-Sq. In. Cooking Space, 180°F to 500°F Temperature Range $366.98",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T09:13:15.721898Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Sonos Sub Mini - White - Compact Wireless Subwoofer $399",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T09:13:15.721898Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "The Nun II (4K Ultra HD) $16.99 Amazon.com",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T09:13:15.721898Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] MFish E-Tank 7-in-1 240W GaN Desktop Charging Station w/ 3 AC Outlets & 4 USB-C Ports $68.17 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T09:13:15.721898Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "SKYESEV Ryzen 3 3200G Gaming Desktop for $474 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T09:13:15.721898Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "6.8 oz Garnier Fructis Pure Clean Styling Hair Gel, $3.49, FS Prime, Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T09:13:15.721898Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Wilson NFL All Pro Official Size 9 Football $14.69 + Free Store Pickup at Target or Free Shipping on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T09:13:15.721898Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee 7 in. Nipping Pliers, $19.97, FS, Home Depot",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T09:13:15.721898Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "IPMQ Women's Lightweight Knit Button Cardigan Sweater (various) $9.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T09:07:40.262229Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Intex 120V Electric Cylinder Pump $8.09 + Free Shipping on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T09:07:40.262229Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Symmons Origins Single Handle Bathroom Faucet, 4 Inch Mount, 1.5 GPM, Satin Nickel, $22.99, FS Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T09:07:40.262229Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon Basics Twin Folding Camping Cot (Black) $24.99 + Free Shipping w/ Prime or $6 Fee per Order",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T09:07:40.262229Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "EZ-FLO Classic Single-Handle Low-Arc Bathroom Faucet with Brass Pop-Up, Matte Black, 10027LF, $22.99, FS Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T09:07:40.262229Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SHOP FOX W1715 3/4 HP Metal Cutting Bandsaw $565",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T09:02:12.142384Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Windstar Cruises 7-Night Windward Islands Cruise for From $4,822 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T09:02:12.142384Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Xbox 1 Month Game Pass Ultimate - US Registered Account Only (Email Delivery), $18.49, Newegg",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T09:02:12.142384Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Schwinn Cyclone Plus 120 PSI Analog Floor Bike Pump $18.19 + Free Store Pickup at Target or Free Shipping on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T09:02:12.142384Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "4K Mix/Match Digital Films: 5 for $15: One Battle After Another, Superman (2025), They Will Kill You, Wuthering Heights, Elf, Training Day, Godzilla x Kong: The New Empire & More",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T09:02:12.142384Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Carnivale, The Knick or Perry Mason: The Complete Series (Digital HDX TV Show) $9.99 via Fandango/VUDU",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T09:02:12.142384Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Gurren Lagann: The Complete Series (2008) (English Dubbed) (Digital HDX Anime TV Show) $14.99 via Fandango/VUDU",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T09:02:12.142384Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Select Target Stores: BruMate Era 40-Oz Stainless Steel Flip Straw Tumbler (Prickly Pear) $19.19 + Free Store Pickup",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T09:02:12.142384Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "BestMassage Full Body Massage Chair,Zero Gravity SL-Track Stretch Recliner with Bluetooth 3D Speaker with Built-in Heat Therapy Foot Roller Airbag Massage System,Blue $899.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T08:56:51.401525Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Dastiaque Outdoor Storage Shed,8x12FT Resin Storage Shed for Backyard Patio $1199.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T08:56:51.401525Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "10-Pack 5\" Gary Yamamoto Senko Soft Stick Bait (221 Body/320 Tail) $3.82 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T08:56:51.401525Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Dowinx Fabric Gaming Chair w/ Massage Lumbar Support for $100 w/ promo code + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T08:56:51.401525Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC] $15.84 | Spin Master Games Yellowstone Mexican Train Dominoes Classic Game at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T08:51:36.709879Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$11.50 | Out of Line by Cards Against Humanity • A Card Game & CAH Expansion at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T08:51:36.709879Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "$100 Fogo de Chao Brazilian Steakhouse Gift Card for $90 + email delivery",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T08:51:36.709879Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Owala 40-Oz FreeSip Stainless Steel Water Bottle (Select Colors) $32.49 + Free Store Pickup at Target or Free Shipping on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T08:51:36.709879Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Gatorade Gx 30-Oz Plastic Water Bottle (Select Colors) $9.99 + Free Store Pickup at Target or Free Shipping on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T08:51:36.709879Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $149.99* | 26-Qt Emeril Lagasse Extra Large French Door Air Fryer Toaster Oven Combo at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T08:46:22.061662Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$9.99 | Five Crowns Collectible Tin – Card Game at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T08:46:22.061662Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Aquarius Lord of the Rings Card Scramble Board Game $14.94 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T08:46:22.061662Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "$170 in Nintendo eShop Gift Cards for $150 + email delivery",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T08:46:22.061662Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Coins & Bullion Auctions on eBay Live for Deals from $1 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T08:46:22.061662Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "5-Pack Yamamoto 4\" Zako Paddle Tail Soft Bait $3.55 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T08:41:06.979150Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "4\" x 6\" Phomemo PM64D Thermal Shipping Label Printer w/ Touchscreen, Bluetooth & USB $49.99 + Free Shipping",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T08:41:06.979150Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "AUTO-VOX 7.2\" 1080P Solar Wireless Backup Camera System w/ DVR $108.79 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T08:41:06.979150Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Super Mario RPG (Nintendo Switch, US Version) $36.90",
+  "reason": "Posted at $36.90, but Amazon showed $34.99 when we checked — the post is stale",
+  "rejected_at": "2026-09-23T08:41:06.979150Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Netgear Routers Sale at Woot for Deals from $30 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T08:41:06.979150Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "AOACE Ryzen 7 Gaming Desktop for $1,085 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T08:41:06.979150Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Oath Nutrition Whey Protein Powder Single Serve (Sunrise Passion Punch) $1.49 + Free Store Pickup at Target or Free Shipping on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T08:41:06.979150Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Unlocked Samsung Galaxy S25 Edge 256GB Phone for $550, 512GB for $650 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T08:35:51.985731Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Igloo Large Refreezable Ice Pack (8.75\" x 5.67\") $1.99 & More + Free Store Pickup at Target or Free Shipping on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T08:35:51.985731Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Canyon Precede:ON Comfort 5, Moon Silver, One Size $1436.99",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-23T08:30:35.529452Z",
@@ -136900,302 +137300,6 @@
   "raw_title": "Bissell 42943 Pet Hair Eraser DualBrush Upright Vacuum with HEPA Filter, $149.99, FS Prime, Woot!",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-09T09:20:20.160744Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Men's Wearhouse 2-Day Sitewide Sale for Up to 71% off, jeans from $15 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T09:14:45.732103Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "DEWALT 20V MAX Cordless 6.5 in. Sidewinder Style Circular Saw (Tool Only), $113, FS, Home Depot",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T09:14:45.732103Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Kobalt 26-cc 2-cycle 18-in Straight Shaft Attachment Capable Gas String Trimmer Edger Conversion Capable, $129, Lowe's",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T09:14:45.732103Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "139-Pack 164' Drip Irrigation Kit w/ Adjustable Nozzles & Tubing Hose $15.99 + Free Shipping w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T09:14:45.732103Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Panasonic NN-TK922SS 27-inch Trim Kit for 2.2 cu ft Microwave Ovens, 27 inch, Stainless Steel & Farberware Countertop Microwave 1000 Watts, 1.1 cu ft - Microwave $302.38",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-09T09:09:12.650727Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Desloc C110 Fingerprint Keyless Waterproof Entry Door Smart Lock $29.99",
-  "reason": "Posted at $29.99, but Amazon showed $49.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-09T09:09:12.650727Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Xbox $100 Gift Card (Email Delivery), $89, Newegg",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T09:09:12.650727Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ECOVACS DEEBOT T80 Omni Robot Vacuum, OZMO Roller Mop Instant Self-Washing $399",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-09T09:03:38.728597Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "100' addlon Outdoor Waterproof Dimmable LED String Lights $16.49 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-09T09:03:38.728597Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "9-Night India Flight, Hotel, and Tour Vacation for From $8,098 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T09:03:38.728597Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Yoga Band Apple Watch Strap for $27.60 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T09:03:38.728597Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "New QVC Members: HP Deskjet AIO 2000 Series Printer w/ $50 Instant Ink $29.98 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T09:03:38.728597Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$14.99 | FINAL FANTASY VII REBIRTH (PS5 Digital Download) at Playstation Store",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T09:03:38.728597Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "2-Pack Expandable Metal Plant Trellis $5.99 – Heavy-Duty Climbing Support for Potted Plants & Vines",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T09:03:38.728597Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Enjoywood 60\" Adjustable Workbench for $152 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T08:58:04.659977Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Michaels Halloween Sale: Up to 50% off + free shipping w/ $49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T08:58:04.659977Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Compression Arthritis Gloves for $14 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T08:58:04.659977Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Songmics 43\" Folding Storage Ottoman Bench for $36 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T08:58:04.659977Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$23.99 | Forza Horizon 5 Standard Edition (PS5 Digital Download) at Playstation Store",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T08:58:04.659977Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$9.99 | FINAL FANTASY VII REMAKE INTERGRADE (PS5 Digital Download) at Playstation Store",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T08:58:04.659977Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$48.99 | Resident Evil Requiem (PS5 Digital Download) at Playstation Store",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T08:58:04.659977Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Titoe Heavy-Duty Snap Fastener Tool Kit w/ 100 Canvas Snap Sets (4 colors) $20.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-09T08:52:29.543923Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "dreame D30 Ultra Robot Vacuum and Mop, Detangling with TriCut Brush $449.99",
-  "reason": "Community score too low (+-2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-09T08:52:29.543923Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Women's Lightweight Long Sleeve Athletic Workout Shirt for $8 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T08:52:29.543923Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$8.99 | RoboCop: Rogue City - Alex Murphy Edition (PS5 Digital Download) at Playstation Store",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T08:52:29.543923Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$47.99 | PRAGMATA (PS5 Digital Download) at Playstation Store",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T08:52:29.543923Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "24\" Mobile Home Ground Anchor 4-Pack for $46 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T08:46:56.210560Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Avcoo 3-in-1 30-Mode TENS Muscle Stimulator for $26 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T08:46:56.210560Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Rubies Hershey's Reese's Peanut Butter Cup Adult Costume for $36 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T08:46:56.210560Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$29.39 | Resident Evil Remake Trilogy (PS4/PS5 Digital Download) at Playstation Store",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T08:46:56.210560Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$9.99 | Resident Evil 4 (PS4/PS5 Digital Download) at Playstation Store",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T08:41:23.331079Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$4.4 | Mortal Kombat 11 Ultimate Edition, PlayStation 4 at Walmart",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T08:41:23.331079Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Costco Members: MTG Teenage Mutant Ninja Turtles Universes Beyond 5 Tin Booster Collection $39.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T08:41:23.331079Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Zippo Lighter Inserts $16.23",
-  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-09T08:35:58.219414Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "VEVOR 60\" TV Stand with Mount for up to 75 in TVs $114.32",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-09T08:35:58.219414Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Phomemo M108 1200mAh USB-C Bluetooth Label Maker with 100-Piece Thermal Labels $13.99",
-  "reason": "Posted at $13.99, but Amazon showed $29.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-09T08:35:58.219414Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Costco Members: Gazillion Bubbles Ultimate Bubble Mania $9.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T08:35:58.219414Z",
   "code": "not_checked",
   "public": false
  }
