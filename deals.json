@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "5f8c8bbb8d4b",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20050986-11-99-exit-the-game-adventures-on-catan-escape-game-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "EXIT: The Game - Adventures on Catan Escape Game",
+  "raw_title": "$11.99 | EXIT: The Game - Adventures on Catan | Escape Game at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1199,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 6,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-23T03:17:16.578903Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "2d73831f9d34",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20051376-779-amazon-amd-ryzen-threadripper-pro-5955wx-16-core-32-thread-desktop-processor?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",

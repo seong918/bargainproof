@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Gydom Smart Watch w/ 2 Bands, Bluetooth Calls, 110+ Sport Modes for $21.59 (Reg. $59.99) + Free Shipping w/ Coupon & Promo Code",
+  "reason": "Community score too low (+0) to pass without a price check — needs promo code, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T03:11:47.449538Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$10.43 Amazon or Walmart Scotch Magic Tape with Black Dispenser, Clear Tape, 3/4\" x 1000\", 6 Rolls",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T03:11:47.449538Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon – Monoki Compact Waterproof First Aid Kit - $6.29 w/ Code",
   "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-23T03:06:17.219066Z",
@@ -137468,46 +137484,6 @@
   "raw_title": "$14.99 Sale for Nathan for You: The Complete Series",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-09T03:18:12.121920Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$8.99 S&S AMAZON PetLovers Extra Sticky Lint Roller Mega Value Set 450 Sheets for Pet Hair Removal and Clothes, Dog and Cat Lint Remover 5 Pack",
-  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-09T03:12:37.545600Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Lefant M310 Ultra Robot Vacuum and Mop $70.99",
-  "reason": "Posted at $70.99, but Amazon showed $169.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-09T03:12:37.545600Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "12\" Lidguni 15-Note Steel Tongue Drum w/ Mallets & Carry Bag $29.99 & More + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-09T03:07:03.252375Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Set of 4 Windsor Classic Solid Wood Spindle Back Dining Chairs (Black) $120.24 ($30.06 Ea) + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T03:07:03.252375Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Husky Hook, Pick, Scraper and Pry Bar Set (14-Piece) $64.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T03:07:03.252375Z",
   "code": "not_checked",
   "public": false
  }
