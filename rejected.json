@@ -1,6 +1,110 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "LOVEVOOK Mini Vintage Faux Leather Hobo Clutch with Detachable Shoulder Strap (Black) $9.09 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T00:55:45.263211Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Canada Dry Fruit Splash Cherry Ginger Ale Soda 12-Pack for $6 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T00:55:45.263211Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "True Lemon Water Enhancer 500-Count Bulk Pack for $14 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T00:55:45.263211Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DEWALT DCW600B Router 20 V Brushless Motor 25500 RPM Cordless Fixed Base Dual LEDs Variable Speed $119",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T00:55:45.263211Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee 2522-20 M12 FUEL 3\" Compact Cut Off (Tool Only) $109",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T00:55:45.263211Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SHINE WELL Leg Recovery Compression System, Professional Foot and Leg Air Compression Boots $119.99",
+  "reason": "Posted at $119.99, but Amazon showed $339.97 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-23T00:50:31.342439Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Dehumidifier for Home up to 1000 Sq.Ft, 98oz Small Quiet Dehumidifier with Drain Hose, 3 Timer Modes, Auto Shut Off, Aromatherapy & 7 Color Light $69.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T00:45:17.726431Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2026upgraded 80pint energy star dehumidifier for basement $149.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T00:45:17.726431Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "PTHRAOUTA Home Dehumidifier with Drain Hose, with Air Reusable Filter $99.99",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T00:45:17.726431Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Amazon Basics 24-Count AA & AAA High-Performance Alkaline Batteries Value Pack for $7.97 w/ Prime + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T00:45:17.726431Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M12 12-Volt Lithium-Ion Cordless 9 GPM 0 hp. Submersible Stick Water Transfer Pump with (2) 5.0 Ah Batteries and Charger $199",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T00:45:17.726431Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "NineSky Dehumidifiers for Home, 1000 Sq.Ft Dehumidifier with 95oz Water Tank, Quiet Dehumidifier 7-Color Ambient Light & Auto Shut Off, Black $59.98",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T00:40:01.012150Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Blackstone 7\" Stainless Steel Burger Press for $10 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T00:40:01.012150Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "6 Pk 20 Ct Twinings Pure Green Tea, Caffeinated, Tea Bags $14.39 + Free S&H w/ Prime or $35+",
   "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-23T00:34:47.468413Z",
@@ -137652,150 +137756,6 @@
   "raw_title": "Ozark Trail Men's Multi Toe Adjustable Water Shoes (11 only) for $3 + free shipping w/ $35",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-09T00:58:49.401791Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$11 S&S/AC AMZ Enzyme Laundry Booster Odor Remover - 2 lbs Unscented Enzymatic Clothes Stain Cleaner Powder, Natural Deodorizer with Bio Active Enzymes, Detergent Additive Eliminat",
-  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-09T00:53:15.381395Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$2.99 | Endure: Mind, Body, and the Curiously Elastic Limits of Human Performance – A Bestselling Sports Medicine and Exercise Physiology Guide (eBook) by Alex Hutchinson",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-09T00:53:15.381395Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$2.99 | The Sleepwalkers: How Europe Went to War in 1914 (eBook) by Christopher Clark",
-  "reason": "Community score too low (+4) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-09T00:53:15.381395Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Clear Toy Storage Bags 6-Pack with Labels $14.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T00:53:15.381395Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Jim Beam 3-Piece BBQ Tool Set $16.95",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T00:53:15.381395Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Quest Nutrition Frosted Protein Cookies 8-Count 0.88-Oz (Chocolate Cake) $5.39",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T00:53:15.381395Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Acer Predator 26.5\" WQHD QD-OLED 240Hz FreeSync Gaming Monitor $314.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T00:53:15.381395Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Olight Sphere Smart Night Light for $14 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T00:53:15.381395Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Aujen Silicone License Plate Frames 2-Pack for $9.90 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T00:53:15.381395Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "(Refurb) HP EliteBook 830 G8: 13.3\" FHD IPS Touch, i7-1185G7, 32GB DDR4, 256GB SSD, Win 11 Pro, 2x Thunderbolt 4 $339.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T00:47:41.630259Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Walmart Kids Clearance Backpacks $3.13+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T00:47:41.630259Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[NEW, SnS] $21.84 | CRAFTSMAN CMXZVBE38769 15-22 Gal. Wet Dry Shop Vacuum Dust Collection Bags at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-09T00:42:05.837417Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS] $4.22* | 12-Pk 2.25-Oz Nissin Cup Noodles Ramen Noodle Soup (Beef) at Amazon (35.2￠ each)",
-  "reason": "Community score too low (+4) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-09T00:42:05.837417Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Bath & Body Works Deals at Ulta Beauty: Buy One, Get One Free + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T00:42:05.837417Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Office Depot Brand Professional Legal Pad 8-Pack for $12 w/ pickup + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T00:42:05.837417Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Costco Deal - Physician's Choice Advanced 60 Billion Probiotic, 75 Capsules $36.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T00:42:05.837417Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "adidas Striker II Team Backpack for $23 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T00:36:31.294062Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Elegoo Day Sale: Centauri Carbon 2 AMS 3D Printer $369",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T00:36:31.294062Z",
   "code": "not_checked",
   "public": false
  }
