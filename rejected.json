@@ -1,6 +1,38 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "Vevor Labor Saving Arm Jack 2-Pack for $22 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T10:36:41.756317Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Vevor 2\"-6\" Cutting Width Chainsaw Mill for $16 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T10:36:41.756317Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Hillman Brass Self-Drilling Wall Dogs w/ Picture Hanging Hook 10-Pack for $6 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T10:36:41.756317Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men Adizero Boston 12 Shoes $67 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T10:36:41.756317Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
   "raw_title": "Vevor 38\" Light-Up Sword for $24 + free shipping w/ Prime",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-23T10:31:08.970557Z",
@@ -137188,62 +137220,6 @@
   "raw_title": "Milwaukee SHOCKWAVE Impact-Duty 3/8 in. Drive SAE Deep Well Impact PACKOUT Socket Set (17-Piece) $75.8",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-09T10:38:16.990528Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[NEW, SnS] $14.28 | Soeos Fortune Cookies, Approx 96 Count, Vanilla Flavor at Amazon",
-  "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-09T10:32:40.295864Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$7.89 | Watco Dark Walnut Danish Oil Wood Finish at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-09T10:32:40.295864Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Spirit Halloween Decorations Sale: Up to 75% off + free shipping w/ $40",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T10:32:40.295864Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Milwaukee M18 FUEL 18V Lith-Ion Brushless Cordless Compact Bandsaw w/ 5.0 Ah Battery $296",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T10:32:40.295864Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Milwaukee M18 18V Lithium-Ion Brushless Cordless 1/2 in. Compact Drill/Driver with One 2.0 Ah Battery, Charger and Tool Bag $95.25",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T10:32:40.295864Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Makita 18V LXT Sub-Compact Lithium-Ion Brushless StarlockMax Cordless Multi-Tool (Tool Only) $150",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T10:32:40.295864Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Makita 18V LXT Lithium-Ion Brushless Cordless 4-1/2 in./5 in. Paddle Switch X-LOCK Angle Grinder with AFT, Tool Only $117",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T10:32:40.295864Z",
   "code": "not_checked",
   "public": false
  }
