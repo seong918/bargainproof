@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Gaiatop Rechargeable Hand Warmers 2 Pack, 3 Heat Levels, 2.15 oz, Cute Dog Magnetic Split Design $9.89",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T23:02:49.988351Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "AC/DC Back in Black Walmart Exclusive Gold Vinyl LP for $27 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T23:02:49.988351Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Hampton Bay Colton 52\" Indoor Flush Mount Ceiling Fan w/ Light Kit for $47 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T23:02:49.988351Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Heavy Duty Stainless Steel Scissor 3-Pack Just $7 on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T23:02:49.988351Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Sam's Club] Capresso Electric Water Kettle for $19.96",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T23:02:49.988351Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$699.97 | Apple Watch Ultra 3 [GPS + Cellular 49mm] Running & Multisport Smartwatch at Amazon",
   "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-23T22:57:21.380326Z",
@@ -136684,22 +136724,6 @@
   "raw_title": "Anker MagGo 10,000mAh Slim Qi2 Magnetic Power Bank w/ 15W Wireless & 30W USB-C $49.99 + Free Shipping w/ Prime or $6 Fee per Order",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-09T23:04:45.727145Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Sylvania Proscan CD Clock Radio w/ USB Charger for $13 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T22:59:11.610197Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Timex Men's Expedition Scout 40 Watch for $39 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T22:59:11.610197Z",
   "code": "not_checked",
   "public": false
  }
