@@ -1,5 +1,117 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Ortizan C7 3.5\" Bluetooth 5.3 Powered Studio Monitor Bookshelf Speakers (White, Pair) $72.99 + Free Shipping",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T13:56:09.936496Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Joyroom Starlink Mini 10ft 18AWG DC Cable 12V-24V Car Adapter $15.36",
+  "reason": "Posted at $15.36, but Amazon showed $26.49 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-23T13:56:09.936496Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Women's Colorblock Off Shoulder Hoodies $13.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T13:56:09.936496Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Belkin AV Power Strip Surge Protector $17.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T13:56:09.936496Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "KAMRUI Gaming Mini PC Ryzen 7 7735HS 16GB LPDDR5 RAM 512GB SSD $409.64",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T13:56:09.936496Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Solar Bird Feeder w/ AI Camera 1080P $38.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T13:56:09.936496Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Women's Lapel Double-Breasted Casual Slim Mid Length Jackets $26.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T13:56:09.936496Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "ACEMAGIC Gaming Mini PC 1TB NVMe SSD 24GB LPDDR5 $417.24",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T13:56:09.936496Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "KitchenAid Refurbished 5.5 Quart Bowl-Lift Stand Mixer $219.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T13:56:09.936496Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "COWSAR Tower Fan $45.59",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T13:56:09.936496Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Upcoming: Cracker Barrel National Pancake Day Deal for $5 All You Can Eat + shipping varies",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T13:56:09.936496Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "ASPOK ARC-125A 125A 110V Stick Welder for $44 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T13:56:09.936496Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ratchet & Clank (PS4 Digital Download) $4.99 via PlayStation Store",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T13:56:09.936496Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Dockers Men's Straight Fit 5-Pocket Pants with Stretch $10.71",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T13:56:09.936496Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Vintage Art Faux Decorative Books (2-Pack) $10.06",
   "reason": "Not evaluated",
@@ -137244,46 +137356,6 @@
   "raw_title": "Clarks Women's Fenner Nerice Flip-Flops (Honey) $20.99 + Free Pickup at Macys or Free Shipping on $39+",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-09T13:56:59.616574Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Pinspark Quick Dry UPF 50+ Sleeveless Workout Tank Top (Many Colors, Sizes) $6.99",
-  "reason": "Posted at $6.99, but Amazon showed $12.98 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-09T13:51:30.204049Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Pantasia 12.9\"-21.9\" Expandable Pan Organizers with 12 Dividers (White) $15.29",
-  "reason": "Posted at $15.29, but Amazon showed $29.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-09T13:51:30.204049Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Halloween Table Decor $4.39",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T13:51:30.204049Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Meal Prep Containers 50-Pack $13.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T13:51:30.204049Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Airfares Orlando FL - Atlanta or Vice Versa $19 One-Way or $38 Round Trip on Frontier Airlines BE (Travel October - November 2026)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T13:51:30.204049Z",
   "code": "not_checked",
   "public": false
  }
