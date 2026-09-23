@@ -1,5 +1,93 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "[AC] $6.66 | DEWALT DW1611 3/8-Inch by 6-Inch Aircraft Black Oxide Drill Bit at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T17:41:56.198960Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "REI Co-op Women's Flash Hyperstretch Fleece Jacket (Various) $49.83 + Free Store Pickup at REI or Free Shipping on $60+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T17:41:56.198960Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Adventure Time: The Complete Collection (HD Bundle) $50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T17:41:56.198960Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[NEW] $30.50 | Sawyer Products SP129 Squeeze Water Filtration System w/Two 32-Oz Squeeze Pouches, Straw, and Hydration Pack Adapter at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T17:36:25.410663Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $12.14 | 6-Pack 28-Oz Contadina Fire Roasted Diced Tomatoes at Amazon ($2.02 each)",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T17:36:25.410663Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "G Gradual Men's Sun Protection UPF 50+ Quick Dry Shirt (Select Colors) $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $19.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-23T17:36:25.410663Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Furid Slim Minimalist RFID Metal Card Wallet with Money Clip $4.49",
+  "reason": "Posted at $4.49, but Amazon showed $8.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-23T17:36:25.410663Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "DenTek Advanced Clean Mint Flavor Floss Picks (150-Count) $2.29",
+  "reason": "Posted at $2.29, but Amazon showed $4.17 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-23T17:36:25.410663Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Progresso 18.5oz Rich & Hearty New England Clam Chowder Canned Soup (4-Pack) $7.52",
+  "reason": "Posted at $7.52, but Amazon showed $7.92 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-23T17:36:25.410663Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Pawaday 110V IP65 Weatherproof Power Distribution Breaker Box $34.99",
+  "reason": "Posted at $34.99, but Amazon showed $69.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-23T17:36:25.410663Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Greenworks PowerAll 24V 12\" String Trimmer and 270CFM Handheld Blower Combo Kit, with (1) 3.0 Ah USB-C Batteries, 30W USB-C Charger Block, 3' 100W USB-C Cable $99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T17:36:25.410663Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Weeklong Tour of Peru with Flights $1,199.00",
   "reason": "Not evaluated",
@@ -137140,62 +137228,6 @@
   "raw_title": "ASUS - TUF Gaming A16 16\" 165Hz FHD+ Gaming Laptop - AMD Ryzen 9 8940HX 2025 - 16GB Memory - GeForce RTX 5070 - 512GB Storage $1599",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-09T17:43:15.528599Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "KAIWEETS 2-in-1 Voltage Tester Screwdriver w/ LCD Display $9.59",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T17:37:43.681324Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Twelve South AirFly Pro 2 Bluetooth 5.3 Transmitter & Receiver Adapter $39.99 + Free Shipping w/ Prime or $6 Fee per Order",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T17:37:43.681324Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Aquafresh Cavity Protection Fluoride Toothpaste 5.6 oz $1.92",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T17:32:13.109551Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Collagen-Infused Under Eye Patches 36-Pack Just $6.99 Shipped on Amazon (Reg. $20)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T17:32:13.109551Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "M-Audio Keystation 49es MK3 MIDI Keyboard Controller $74 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T17:32:13.109551Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas Men's Designed for Training Spaceknit Pants (Aurora Ivy) $18.97 + Free Store Pick-Up at Dick's Sporting Goods or Free Shipping on $49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T17:32:13.109551Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "2-Pack Aukey Magfusion 15W Qi2 2-in-1 Foldable Charger $29.99 + Free S&H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T17:32:13.109551Z",
   "code": "not_checked",
   "public": false
  }
