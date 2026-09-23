@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "7d0ce9f73c95",
+  "source": "techbargains",
+  "source_url": "https://www.amazon.com/gp/product/B005P58CYG/ref=ox_sc_act_image_1?smid=ATVPDKIKX0DER&th=1",
+  "title": "Scotch Brand Precision Ultra Edge Scissors (Left or Right-Handed, 8\", 3-Pack)",
+  "raw_title": "Scotch Brand Precision Ultra Edge Scissors (Left or Right-Handed, 8\", 3-Pack) $8.37",
+  "merchant": "amazon",
+  "buy_url": "https://www.amazon.com/gp/product/B005P58CYG/ref=ox_sc_act_image_1?smid=ATVPDKIKX0DER&th=1",
+  "deal_total_cents": 837,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "qty"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 839,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 839,
+  "amazon_url": "https://www.amazon.com/dp/B005P58CYG",
+  "amazon_checked_at": "2026-09-23T18:15:15.907153Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": null,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B005P58CYG",
+  "image_url": null,
+  "published_at": "2026-09-23T18:15:09.001177Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "c4bbd7a439eb",
   "source": "techbargains",
   "source_url": "https://www.amazon.com/gp/product/B089XBB96Y/ref=ox_sc_act_image_1?smid=ATVPDKIKX0DER&psc=1",
