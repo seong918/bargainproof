@@ -1,5 +1,309 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Orico 10Gbps Magnetic M.2 NVMe SSD Enclosure with 100W PD, Card Reader, More $32.99",
+  "reason": "Posted at $32.99, but Amazon showed $54.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-23T15:18:42.928763Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Pinspark 5\" Quick Dry Workout Shorts with Zipper Pockets, Towel Loop $7.99",
+  "reason": "Posted at $7.99, but Amazon showed $14.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-23T15:18:42.928763Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Datafy 2-in-1 Remote Control Page Turner For Kindle, Kobo eReaders $4.10",
+  "reason": "Posted at $4.10, but Amazon showed $15.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-23T15:18:42.928763Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Amazon Basics Flextra Tall Kitchen Drawstring Trash Bags 13 Gallon 90 Count $6.88",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T15:18:42.928763Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Phomemo PM64D Thermal Shipping Label Printer w/ Touchscreen, Bluetooth & USB $49.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T15:18:42.928763Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "AUTO-VOX 7.2\" 1080P Solar Wireless Backup Camera System w/ DVR $108.79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T15:18:42.928763Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "MULWARK 77-Piece Ratcheting Screwdriver Bit & Socket Set $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T15:18:42.928763Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Logitech Mevo Start $349.99 / Mevo Core $899.99 — $100 Off in Cart + Free Shipping at B&H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T15:18:42.928763Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Yexmas 8 FT Long Halloween Inflatable Ghost with Witch Hat, 6 Pumpkins Halloween Blow Ups with Black Cat $37.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T15:18:42.928763Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Yexmas 6FT Christmas Inflatables Snowman Blow Up Yard Decor with 360 Rotation Colorful Projector LED Light $42.89",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T15:18:42.928763Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Tiresias [Blu-Ray] $4.99 + Free S&H w/ Prime or $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T15:13:11.490654Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Lock & Lock Easy Essentials Food Storage Container Set 20-Piece $21.96",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T15:13:11.490654Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Girl's Ariel Little Mermaid Halloween Costume $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T15:13:11.490654Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Spalding 54 in Angled Portable Pro Glide Basketball Hoop $349.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T15:13:11.490654Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Gerber Oatmeal Baby Cereal 8oz $1.91",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T15:13:11.490654Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Skechers Women's BOBS Sport Squad Waves Still Wading Sneaker Shoes Off White $31.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T15:13:11.490654Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Nike Men's Air Monarch IV Cross-Training Shoes (4-Colors) $59.50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T15:13:11.490654Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Lifetime 54” NBA Legend Tempered Glass In-Ground Basketball Hoop $699.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T15:13:11.490654Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Eastsport Unisex 18.5″ Cyclone Sport Backpack $9.19",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T15:13:11.490654Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Amazon Essentials Men's Regular-Fit Shirt $4.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T15:13:11.490654Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Round Trip Phoenix to Long Beach Nonstop Airfares on Southwest Airlines BE $117.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T15:13:11.490654Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Merrell Women's Sandals $26.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T15:13:11.490654Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "AND1 Men’s Zone Mule Slip On Sandals $5.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T15:13:11.490654Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Nike Men's Philadelphia Eagles A.J. Brown #11 Teal Game Jersey for $32 + free shipping w/ $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T15:13:11.490654Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Hugo Boss Men's Clearance Deals at Belk: Up to 72% off + free shipping w/ $99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T15:13:11.490654Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS] $4.52* | 12-Pk 12-Oz Gatorade Lower Sugar Electrolyte Sports Drink (Fruit Punch) at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-23T15:13:11.490654Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Espera Men's RFID Blocking Slim Minimalist Wallet $3.99",
+  "reason": "Posted at $3.99, but Amazon showed $7.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-23T15:07:40.326886Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "DCA 22\" 2800RPM Lightweight Cordless Trimmer with Dual-Action Blade $34.99",
+  "reason": "Posted at $34.99, but Amazon showed $89.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-23T15:07:40.326886Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Skechers Men's Hands Free Slip-ins Arch Fit Superior Talbert Slip-On Shoes Chocolate Brown $39.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T15:07:40.326886Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ekouaer 2 Piece Long Silk Pajama Sets $10.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T15:07:40.326886Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Girl's Moana Halloween Costume $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T15:07:40.326886Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Briarwood Lane Retro Philadelphia Eagles Garden Flag $7.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T15:07:40.326886Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "CLIF BLOKS Energy Chews, Black Cherry Flavor w/Caffeine, 18 Packs $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T15:07:40.326886Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Men’s Adidas Samoa Shoes $32.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T15:07:40.326886Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ekouaer Womens Long Sleeve Soft Lounge Set $11.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T15:07:40.326886Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "The Midnight Library Hardcover $12.24",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T15:07:40.326886Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Mooka H13 True HEPA Air Filter for $40 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T15:07:40.326886Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "MSI Crosshair Intel Core i7-14650HX 16\" QHD+ 240Hz Gaming Laptop w/ NVIDIA RTX 5070 $1299",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T15:07:40.326886Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "[Prime] 30-Pack 6\" HORUSDY Heavy Duty Bungee Balls (Black) $9.99 + Free Shipping",
   "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
@@ -9222,14 +9526,6 @@
   "rejected_at": "2026-09-22T18:04:14.829660Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Briarwood Lane Retro Philadelphia Eagles Garden Flag $7.99",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-22T18:04:14.829660Z",
-  "code": "duplicate",
-  "public": true
  },
  {
   "source": "slickdeals",
@@ -137276,246 +137572,6 @@
   "raw_title": "Big Agnes Dog House 4 Tent (Orange/Taupe/Eggplant) $149.98 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-09T15:19:31.863330Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Under Cabinet Lighting（2 Pack）,Long Endurance Rechargeable Battery 88 LED 3 Color Lights, Motion Sensor Light $13.19",
-  "reason": "Posted at $13.19, but Amazon showed $23.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-09T15:13:59.119481Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Adidas Dayready Tracktop $19.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T15:13:59.119481Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Hanging Lighted Ghost with Wizard Hat $11.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T15:13:59.119481Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Vesgantti 92\" 9-Seat Modular Sectional Sleeper Sofa with Storage for $500 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T15:13:59.119481Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Charles Tyrwhitt Promo Code: 20% off everything + free shipping w/ $130",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T15:13:59.119481Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Women’s Shapewear Shorts Just $4.99 on Amazon",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T15:13:59.119481Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Clean Pet Messes, Spills & Stains! Shark EveryMess Vac from $109.98 Shipped – Comes w/ 4 Tools",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T15:13:59.119481Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "32 Degrees: Men's Henley Shirt or Sweater Knit Crew (Various) $9.99 + Free Shipping on $24+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T15:13:59.119481Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Red Faction Triple Pack (Guerilla, Armageddon, Guerilla: Re-Mars-Tered) PC Digital Download - $4.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T15:13:59.119481Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "3dMark PC CD Key (Steam) $6.79",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T15:13:59.119481Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Zitahli Men's Leather Customizable Fit Ratchet Belt (2-Pack) $12.49",
-  "reason": "Posted at $12.49, but Amazon showed $24.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-09T15:08:26.498550Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Greenworks 60V 13\" Cordless Battery String Trimmer & 540 CFM Leaf Blower Combo Kit w/ 4.0Ah Battery & Charger $170.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T15:08:26.498550Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Milwaukee SHOCKWAVE 3/8 in. Drive Deep Well 6 Point Impact Socket Set (12-Piece) $49.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T15:08:26.498550Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Fastsnail Nintendo Switch Joy-Con Controller Grips 2-Pack $8.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T15:08:26.498550Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Husky 5-Piece Pliers and Wrench Set (In-Store Price) $6.22",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T15:08:26.498550Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Greenworks 2100 PSI 1.2 GPM Portable Cold Water Electric Pressure Washer $127.50",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T15:08:26.498550Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Paramount Star Trek Strange New Worlds Season 3 DVD Boxed Set, 10 Episodes $11.96",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T15:08:26.498550Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Scotch Packing Tape 6-Pack Only $8.88 Shipped on Amazon (Just $1.48 Per Roll!)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T15:08:26.498550Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$219.99: Syedee Chest Fly & Reverse Delt Machine, 400-Lb Plate-Loaded, 4-Level Seat at Walmart.com, Free S&H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T15:08:26.498550Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "4-Pack 1-Gal Hardwood & Laminate Floor Cleaner (Fresh Scent) $20.52 ($5.13 Ea) + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T15:08:26.498550Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "The Forgotten City (PC Digital Download) Steam $2.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T15:08:26.498550Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Resident Evil Requiem (PlayStation 5) - $27.49 @ Target",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T15:08:26.498550Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "GPS Dog Tracker with Subscription,Virtual Fence & Health Monitor, IP67 $24.99",
-  "reason": "Posted at $24.99, but Amazon showed $48.88 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-09T15:02:57.893708Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "GRACE KARIN Long Sleeve Floral Maxi Formal Wedding Guest Dress $18.55",
-  "reason": "Posted at $18.55, but Amazon showed $52.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-09T15:02:57.893708Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Purewash E750 Electric Bidet Seat for Elongated Toilets with Touchscreen Remote Control $351.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T15:02:57.893708Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "3-Pack Crystal 26\" Counter Height Fabric Upholstered Bar Stools w/ Black Metal Frame (Linen) $106.55",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T15:02:57.893708Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "13-Night Vietnam & Cambodia Flight, Hotel, and Tour Vacation for From $8,898 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T15:02:57.893708Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Fil-Fresh CC200 Pool Filter Cartridge for $40 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T15:02:57.893708Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Syberia games (DRM-Free) On sale at GOG.com from $1.29",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T15:02:57.893708Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Xfinity New Customers: 300 Mbps Internet $40/Month or 1 Gig $50/Month for 5 Years + WiFi Equipment & Unlimited Data",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T15:02:57.893708Z",
   "code": "not_checked",
   "public": false
  }
