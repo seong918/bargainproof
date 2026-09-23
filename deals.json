@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "bb1a31f54746",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20051397-newbulig-5-in-1-adjustable-dumbbell-set-60lbs-49-99-free-s-h-at-amazon?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
+  "title": "NEWBULIG 5-in-1 Adjustable Dumbbell Set(60LBS)",
+  "raw_title": "NEWBULIG 5-in-1 Adjustable Dumbbell Set(60LBS) $49.99 + Free S&H at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0HGL53SRR",
+  "deal_total_cents": 4999,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 4999,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 4999,
+  "amazon_url": "https://www.amazon.com/dp/B0HGL53SRR",
+  "amazon_checked_at": "2026-09-23T03:22:49.664877Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 0,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0HGL53SRR",
+  "image_url": null,
+  "published_at": "2026-09-23T03:22:46.163557Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "5f8c8bbb8d4b",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20050986-11-99-exit-the-game-adventures-on-catan-escape-game-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
