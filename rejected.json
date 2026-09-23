@@ -1,6 +1,14 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Yofidra 24\" x 16\" Diatomaceous Earth Foldable Dish Drying Mat (Dark Gray Marble) $12.32 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T04:12:18.746509Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "SIMIYA Women's High-Waisted Tummy Control Shapewear Shorts (S-3XL, 2 Colors) $4.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-23T04:06:48.527117Z",
@@ -137494,13 +137502,5 @@
   "rejected_at": "2026-09-09T04:19:35.781371Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Acasis TBU405 Air SSD Enclosure - TB4 40Gbs - $49 Amazon",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-09T04:08:27.568307Z",
-  "code": "low_score",
-  "public": true
  }
 ]
