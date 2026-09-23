@@ -1,6 +1,78 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$7.99* | WORKPRO Magnetic Hex Bit Holder, 39-Hole Organizer Tray with Strong Magnetic Base, Compatible with 1/4 Inch Hex Bit & Drill Bit Adapter, Blue at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T06:57:46.381861Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$21.49: Fisher-Price Soothe & Settle Bunny Baby Toy (Ages 0+ Months)",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T06:57:46.381861Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Magnesium Glycinate Complex - 12 Forms of Glycinate,Citrate & B6,120 Caps $9.43",
+  "reason": "Posted at $9.43, but Amazon showed $18.87 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-23T06:57:46.381861Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "AOC Q27G40XMN 27\" 1440p HDR 180 Hz Gaming Monitor $199.99* | 27\" AOC Gaming QHD 240Hz Fast VA Mini-LED Gaming Monitor at BHPhotoVideo",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T06:57:46.381861Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Slushie Machine for Home, Ice Cream Maker, 6 Presets, No Ice Needed, Black $125.99",
+  "reason": "Posted at $125.99, but Amazon showed $159.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-23T06:52:15.328802Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CyberPowerPC Gaming PC: i7-14700KF, RTX 5070 Founders Edition, 32GB DDR5, 1TB SSD $1549",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T06:52:15.328802Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DREAM PAIRS Women's Retro Low Top Lace-Up Fashion Shoes (4 colors) $23.39 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T06:46:43.998180Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "MOKURU Wireless Ergonomic Mouse, Supporting Bluetooth/2.4G Connection, Featuring 4 Buttons (Black) $13.99",
+  "reason": "Posted at $13.99, but Amazon showed $27.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-23T06:46:43.998180Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Resident Evil 4 (PS5) $16 + Free Shipping w/ Circle Card or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T06:46:43.998180Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "CoolHair Bikini Trimmer for Women,Smooth Electric Razor for Sensitive Skin, IPX7 Waterproof (Pink) $12.49",
   "reason": "Posted at $12.49, but Amazon showed $24.98 when we checked — the deal is probably over",
   "rejected_at": "2026-09-23T06:41:13.163584Z",
@@ -43125,14 +43197,6 @@
   "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-18T03:33:14.615925Z",
   "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Magnesium Glycinate Complex - 12 Forms of Glycinate,Citrate & B6,120 Caps $9.43",
-  "reason": "Posted at $9.43, but Amazon showed $0.13 when we checked — the post is stale",
-  "rejected_at": "2026-09-18T03:33:14.615925Z",
-  "code": "price_mismatch",
   "public": true
  },
  {
@@ -137436,46 +137500,6 @@
   "raw_title": "4' MEKASS 250ml Diatomaceous Earth Powder Duster w/ Adjustable Rod (Orange) $14.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-09T07:01:18.497657Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Amazon Basics 20,000mAh 3-Port Portable Bank for $13 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T06:55:42.860976Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Amazon Essentials Men's Slim 5-Pocket Corduroy Pants for $12 w/ Prime + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T06:50:07.437947Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – Magnesium Complex Supplement - $10.78 w/ Code + Coupon",
-  "reason": "Community score too low (+2) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-09T06:44:32.407675Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – 7.2V 2-in-1 Cordless Electric Hedge Trimmer - $19.79 w/ Code",
-  "reason": "Community score too low (+2) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-09T06:44:32.407675Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – LovinPet Women's Dinosaur Pajama Sets - $14.87–$17.49 w/ Code",
-  "reason": "Community score too low (+2) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-09T06:44:32.407675Z",
   "code": "low_score",
   "public": true
  }
