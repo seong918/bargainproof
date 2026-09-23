@@ -1,6 +1,278 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Canyon Precede:ON Comfort 5, Moon Silver, One Size $1436.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T08:30:35.529452Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "8-Pack 3.5\" Yamamoto Yamatanuki Heavy Soft Plastic Fishing Bait (Sight Flash) $5.22 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T08:30:35.529452Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Cold Steel Mini Leatherneck Tanto 3.5\" Fixed Blade Knife w/ Sheath $17.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T08:30:35.529452Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "24-Oz BlenderBottle Strada Tritan Shaker Cup (Mint Green) $9.59 + Free Store Pickup at Target or Free Shipping on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T08:30:35.529452Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Dntorx Hat Organizer Wall Rack 2-Pack for $6 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T08:25:21.189808Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Igloo MaxCold Small Ice Freeze Block (Blue) $0.98 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T08:25:21.189808Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SHAPERX Tummy Control Shapewear For Women Seamless Bodysuit Bonded Panel $32.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T08:25:21.189808Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Furid Slim RFID Metal Card Wallet w/ Money Clip (Various) $4.49 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T08:20:07.288871Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Actgan 8.3\"x6\" Outdoor Winter Insulated Faucet Covers (2-Pack) $4.99",
+  "reason": "Posted at $4.99, but Amazon showed $9.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-23T08:20:07.288871Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Intex 18\" Pillow Rest Queen Air Mattress w/ Built-In Electric Pump $35.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T08:20:07.288871Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Twekfish Men's UPF 50+ Quick-Dry Breathable Sun Hoodie $6.99",
+  "reason": "Posted at $6.99, but Amazon showed $13.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-23T08:14:52.583893Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Schwinn Aluminum Rear Bike Rack (Black) $13.24 + Free Store Pickup at Target or Free Shipping on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T08:14:52.583893Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$31.99 | Ratchet & Clank: Rift Apart Digital Deluxe Edition (PS5 Digital Download) at Playstation Store",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T08:14:52.583893Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$12.24 | Bloodborne™ Complete Edition Bundle (PS4 Digital Download) at Playstation Store",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T08:14:52.583893Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$8.99 | The Rogue Prince of Persia™ (PS5 Digital Download) at Playstation Store",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T08:14:52.583893Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[NEW] $57.77 | Presto 02811 Stainless Steel 12-Cup Electric Coffee Percolator at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T08:09:21.841856Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Energy Connoisseur 5.1 Home Theater System with TX-RZ70 Receiver $1999",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T08:09:21.841856Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Uawsyut Stackable Hat Organizer 2-Pack for $15 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T08:09:21.841856Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$5.99 | Castlevania Advance Collection (PS4 Digital Download) at Playstation Store",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T08:09:21.841856Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$7.99 | Divinity: Original Sin - Enhanced Edition (PS4 Digital Download) at Playstation Store",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T08:09:21.841856Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$22.99 | The Last of Us™ Part II Remastered (PS5 Digital Download) at Playstation Store",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T08:09:21.841856Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Lubriderm Daily Moisture All Skin Types Pro-Ceramide Body and Hand Lotion (16oz) $4.59",
+  "reason": "Posted at $4.59, but Amazon showed $4.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-23T08:03:50.799145Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$29.99 | Invincible VS (PS5 Digital Download) at Playstation Store",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T08:03:50.799145Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$12.49 | Castlevania Dominus Collection (PS5 Digital Download) at Playstation Store",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T08:03:50.799145Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$7.99 | Assassin’s Creed® The Ezio Collection (PS4 Digital Download) at Playstation Store",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T08:03:50.799145Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$27.99 | Marvel’s Spider-Man 2 (PS5 Digital Download) at Playstation Store",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T08:03:50.799145Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$14.99 | Horizon Call of the Mountain™ (PSVR2 Digital Download) at Playstation Store",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T08:03:50.799145Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Perlegear Full Motion TV Wall Mount for 42\" to 90\" TVs for $52 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T07:58:19.055732Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Insignia 165-Can Built-In Beverage Cooler for $400 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T07:58:19.055732Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "8\" SK5 Bypass Pruning Shears Garden Clippers for $10 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T07:58:19.055732Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Plano 27-Gallon Sportsman's Trunk Lockable Storage Box (OD Green) $32.87 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T07:58:19.055732Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$39.99 | Halo: Campaign Evolved (PS5 Digital Download) at Playstation Store",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T07:58:19.055732Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Plano 17-Gallon Sportsman's Lockable Storage Trunk (Desert Tan) $17.87 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T07:58:19.055732Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nike Men's Shox NZ Running Shoes (2 Colors) from $57 + Free S&H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T07:58:19.055732Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[YMMV, AC] $65.35* | Candy Indoor Grill & Air Fryer with Ceramic Accessories, 500°F Max, 7-IN-1 Digital Display, 5.2 QT Electric Low Smoke with View Window, 1500W at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-23T07:52:51.212144Z",
@@ -136924,214 +137196,6 @@
   "raw_title": "Costco Members: Gazillion Bubbles Ultimate Bubble Mania $9.97",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-09T08:35:58.219414Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "eBay Live New York Fashion Week Auctions for Deals from $1",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T08:24:59.486498Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Adult Teenyyou Crayon Costume w/ Apron & Cone Hat for $10 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T08:24:59.486498Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Ryobi USB Lithium Cordless 550 Lumens Rechargeable Inspection Flashlight Kit with USB Lithium Cordless Clamp Fan $39.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T08:24:59.486498Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "100-Count 11.8\" 304 Stainless Steel Metal Zip Ties $5.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-09T08:24:59.486498Z",
-  "code": "duplicate",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS, AC] $17.08* | 12-Pack 8.75-Oz Premier Protein MINIs 22g Protein Shake (Vanilla) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-09T08:19:24.266415Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Vrurc 10000mAh 12W Power Bank with Built-In Cables & Ports $16.09",
-  "reason": "Posted at $16.09, but Amazon showed $22.98 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-09T08:19:24.266415Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon ~ Chrome Cat Shaped Ring Holder $4.71 (1 year lowest price)",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-09T08:13:46.955325Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "LEGO Auctions on eBay Live for Deals from $1",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T08:13:46.955325Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Salomon SPEEDCROSS 6 GORE-TEX Trail running shoes - Women $126.75",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T08:13:46.955325Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "2-Pack Stainless Steel Ganchun Hand Weed Puller Tool Set $6.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-09T08:08:12.973765Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Pro-Health Advanced Deep Clean Mint Toothpaste with Fluoride, Gingivitis Treatment (5.1oz) Twin Pack $6.98",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-09T08:08:12.973765Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "CELOX 7.5\" Dish Wand Scrubber w/ Soap Dispenser (Blue) $5.83 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-09T08:08:12.973765Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Graded Comic Books on eBay Live for Deals from $1 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T08:08:12.973765Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "GreenPan Lima Hard Anodized 11” Square Griddle Pan, Ceramic Nonstick, PFAS-Free Nontoxic Pots and Pans, Oven & Broiler Safe, Stainless Steel Handle, Cookware for Eggs & Omel$40.99",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-09T08:02:39.319408Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "10-Pack Wfiia Travel Vacuum Storage Bags w/ USB/Type-C Pump (3 Sizes) $12.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-09T08:02:39.319408Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Optimum Nutrition Micronized Creatine Monohydrate Capsules, 300 Ct $36.33",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-09T08:02:39.319408Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "4pcYellow Costume Set w/ Hat, Goggles, Gloves & Suspenders for $10 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T08:02:39.319408Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "21-Piece 2.5\" Hex Head Allen Wrench Drill Bit Set for $7 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T08:02:39.319408Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Saker Caulk Gun Kit for $17 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T08:02:39.319408Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Nearity A11 Conference Speaker w/ Mic $39.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T08:02:39.319408Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Power Tools on eBay Live for Deals from $1",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T07:57:05.038798Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Tilswall Dreamer400 Ultra-Light HVLP Paint Spray Gun for $36 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T07:57:05.038798Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Stainless Steel Pineapple Corer & Slicer for $5 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T07:57:05.038798Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "18-L Brevite The Runner Camera Backpack (Pine Green) $44.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T07:57:05.038798Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Milwaukee M18 FUEL ONE-KEY 18V Lithium-Ion Brushless Cordless 1/2 in. Impact Wrench with Friction Ring w/ 5.0 Ah Battery $359",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T07:57:05.038798Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "LEGO 2K Drive (Nintendo Switch) $10 + Free Shipping w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T07:57:05.038798Z",
   "code": "not_checked",
   "public": false
  }
