@@ -1,5 +1,29 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "IAD to Guadalajara Mexico roundtrip direct flight $164",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T01:16:43.314403Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "70s Retro Aviator Sunglasses for Men & Women $3.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T01:11:25.327146Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Bitdefender Total Security 2026 5-Device 1-Year Antivirus Software for $15 + digital download",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T01:11:25.327146Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Samsung Odyssey G55C 27\" 1440p HDR 165Hz VA LED FreeSync Curved Monitor for $177 + free shipping",
   "reason": "Not evaluated",
@@ -137732,38 +137756,6 @@
   "raw_title": "$14.99 | 10000mAh Grepro Magnetic Power Bank w/ 22.5W USB-C Cable & Wireless Charging at Woot!",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-09T01:21:09.387532Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Eveready Pro200 LED Headlamp 5-Pack for $15 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T01:15:34.293758Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Snow's Chopped Sea Clams in Clam Juice, 51 oz Bulk Can as low as $8.28 after 5+subscribe and save and 20% coupon on the page. $8.26",
-  "reason": "Posted at $8.28, but Amazon showed $11.82 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-09T01:09:58.489851Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "LEGO Icons Williams Racing FW14B & Nigel Mansell for $54 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T01:09:58.489851Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$14.99 Sale for Reign: The Complete Series",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T01:09:58.489851Z",
   "code": "not_checked",
   "public": false
  }
