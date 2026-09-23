@@ -1,6 +1,78 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "Amazon Basics Stainless Steel Mini Brush 3-Pack for $3.64 via Sub. & Save + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T10:47:52.535968Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Duolingo Super Subscription 12 Months Duolingo CD Key $0.47",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T10:47:52.535968Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Customize your Beats 360 Build Your Bundle (Cushion Kit for Earcups/Headband), from $359.98",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T10:42:16.357119Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Yaniky UPF 50+ Lightweight Breathable Mesh Quick-Dry Running Cooling Hat $5.99",
+  "reason": "Posted at $5.99, but Amazon showed $11.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-23T10:42:16.357119Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Phylluz 52\" Flush Mount Ceiling Fan w/ Lights for $56 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T10:42:16.357119Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Letmy Solar LED Outdoor Spot Light 6-Pack for $32 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T10:42:16.357119Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "The Empire Strikes Back Movie Poster Canvas Art Prints for From $227 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T10:42:16.357119Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men Adizero Select 3.0 Shoes $56.4 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T10:42:16.357119Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men Kaptir 4.0 Shoes $35.4 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T10:42:16.357119Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
   "raw_title": "Vevor Labor Saving Arm Jack 2-Pack for $22 + free shipping w/ Prime",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-23T10:36:41.756317Z",
@@ -137189,38 +137261,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-09T10:55:00.704423Z",
   "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$17.63* | Lee Women's Ultra Lux Comfort Flex Motion Skinny Leg Jeans (Black) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-09T10:38:16.990528Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$20.21* | Led Zeppelin III (Remastered Vinyl LP + MP3 Album) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-09T10:38:16.990528Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "TayMac Weatherproof Outlet Cover for $8 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T10:38:16.990528Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Milwaukee SHOCKWAVE Impact-Duty 3/8 in. Drive SAE Deep Well Impact PACKOUT Socket Set (17-Piece) $75.8",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T10:38:16.990528Z",
-  "code": "not_checked",
   "public": false
  }
 ]
