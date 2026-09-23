@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amartisan 20-Piece Metric & SAE S2 Steel Magnetic Hex Bit Set w/ Storage Box $9.98 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T16:08:06.602891Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Feellife Arch Support Gel Inserts Plantar Fasciitis Relief Shoe Insoles $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T16:08:06.602891Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CyberPowerPC Gamer Supreme Gaming Desktop w/ Core Ultra 7 270K Plus, RTX 5060 Ti 8GB, 16GB DDR5 & 1TB SSD $1299 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T16:08:06.602891Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Cuisinart 12-Cup Classic Programmable Coffeemaker (Black or White) $39.99 + FS",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T16:08:06.602891Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "TALIX Laptop Power Bank, 20000mAh Portable Charger with 190W Total Output $29.99",
   "reason": "Posted at $29.99, but Amazon showed $59.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-23T16:02:41.682176Z",
@@ -6158,14 +6190,6 @@
   "rejected_at": "2026-09-23T04:06:48.527117Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amartisan 20-Piece Metric & SAE S2 Steel Magnetic Hex Bit Set w/ Storage Box $9.98 + Free Shipping w/ Prime or on $35+",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-23T04:06:48.527117Z",
-  "code": "duplicate",
-  "public": true
  },
  {
   "source": "slickdeals",
@@ -137348,70 +137372,6 @@
   "raw_title": "Women’s High-Waisted Cotton Underwear 5-Pack from $9 Shipped for Prime Members (Reg. $20)",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-09T16:09:18.971990Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS] $6.63 | 8-Pack 15.5-Oz Goya Foods Black Beans at Amazon (82.9￠ each)",
-  "reason": "Community score too low (+-2) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-09T16:03:47.757800Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "YOTTOY Cordless Jump Rope with Counter (Black) $6.16",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T16:03:47.757800Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Vacuum Bags for Travel with Rechargeable USB Electric Pump 12-Pack $14.50",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T16:03:47.757800Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Quilted Floral Diaper Caddy Organizer $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T16:03:47.757800Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Halloween Trunk or Treat Car Decorations Kit Inflatable Ghost with LEDs $23.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T16:03:47.757800Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Costway 4-Tier Desk Shelf Desktop Display Rack w/ Metal Grid Panel & 6 Hooks for $53 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T16:03:47.757800Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "13-Night Japan Flight, Hotel, and Tour Vacation for From $19,298 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T16:03:47.757800Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Smiseacow 15.6\" Laptop Screen Extender for $117 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T16:03:47.757800Z",
   "code": "not_checked",
   "public": false
  }
