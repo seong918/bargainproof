@@ -1,6 +1,94 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[NEW, AC] $49.70 | TAMASHII NATIONS - Super Mario - Bowser S.H.Figuarts Action Figure at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T18:26:12.706271Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[NEW] $38.80 | TAMASHII NATIONS - Super Mario - Yoshi S.H.Figuarts Action Figure at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T18:26:12.706271Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas Finger Crossbody Bag (Various Colors) $17.86 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T18:26:12.706271Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$395.87 | MSI MAG X870E Tomahawk WiFi Motherboard + Kingston NV3 2TB NVMe SSD Bundle at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T18:26:12.706271Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[NEW] $15 | First Aid Only 90922 Blue Nitrile Finger Cots, 144 Pack at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T18:26:12.706271Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$2.99 | Math with Bad Drawings: Illuminating the Ideas That Shape Our Reality (eBook) by Ben Orlin",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T18:26:12.706271Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Fit King Pro Leg Compression Massager & Cordless Recovery System $145.00",
+  "reason": "Posted at $145.00, but Amazon showed $499.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-23T18:26:12.706271Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Glorlin GT103 AMD Ryzen 5 6600H 512GB SSD Compact Mini PC $351.99",
+  "reason": "Posted at $351.99, but Amazon showed $439.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-23T18:26:12.706271Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Kaiweets Digital Multimeter and Wire Tracer Kit for $33 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T18:26:12.706271Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Blink Floodlight Security Camera Only $29.99 on Amazon (Reg. $100)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T18:26:12.706271Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "TIBES Travel Weekender Bag for Women, Overnight Bag with Shoe Compartment $24.99 AC",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T18:26:12.706271Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$4.07 | 12″ Chef Craft Ladle at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-23T18:20:40.589899Z",
@@ -137364,78 +137452,6 @@
   "raw_title": "4lbs Tootsie Candy Assortment Snack Size (Bulk) $20 + Free S/H",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-09T18:27:28.803924Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Cosy Homeer 17\"x30\" Washable Dirt Trapper Non-Slip Door Mat $7.99",
-  "reason": "Posted at $7.99, but Amazon showed $15.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-09T18:21:58.082750Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Hoikwo Vivid Metal Butterfly Wall Decor 4 Pack $9.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T18:21:58.082750Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Vepose Women’s Slingback Pumps $16.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T18:21:58.082750Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "4 in 1 Dual Type C Multi Charging Cable $7.67",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T18:21:58.082750Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "GoveeLife P2 Smart Wireless Pool Thermometer $20.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T18:21:58.082750Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "AOC Wireless Gaming Headset for $40 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T18:21:58.082750Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Halloween Trees from $44.98 Shipped on HomeDepot.com (Get In on the Seasonal Tree Trend!)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T18:21:58.082750Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "GCI Outdoor Comfort Pro Rocker Foldable Rocking Camp Chair w/ Mesh Backrest $48",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T18:21:58.082750Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Hoka Men's or Women's Clifton One9 Sneakers (2 Colors) $75 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T18:21:58.082750Z",
   "code": "not_checked",
   "public": false
  }
