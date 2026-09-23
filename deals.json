@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "b874a7cd133d",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20051646-ac-29-99-starfield-ps5-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "Starfield (PS5)",
+  "raw_title": "[AC] $29.99* | Starfield (PS5) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 2999,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-23T17:03:12.237021Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "ece4ace4cb74",
   "source": "techbargains",
   "source_url": "https://www.amazon.com/gp/product/B018H74H74/ref=ox_sc_act_image_1?smid=A1ULD1V62BBF6C&psc=1",
