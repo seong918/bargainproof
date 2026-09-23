@@ -1,6 +1,94 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$8.99 | The Postman (Blu-ray) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T12:09:00.840928Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[S&S] Sharpie Tank Highlighters, Chisel Tip, 12 Assorted Fashion Colors, Value Pack, 36 Count $15.66",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T12:09:00.840928Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Portugal Weeklong Guided Tour Package with Flights $1,499.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T12:09:00.840928Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Lacoste Best Deals of the Season at Macy's: Up to 40% off + extra 30% off + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T12:09:00.840928Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Blink Solaris 2K+ Solar-Powered Wireless Smart Security Camera (Black or White) $43.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T12:09:00.840928Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "9/27-10/3 WALGREENS.com $5 off $25 or $10 off $40 codes sitewide",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T12:09:00.840928Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[S&S] Johnson's Baby Soothing Vapor Bath, Calming Aromas, 13.6 fl. oz $2.83",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T12:03:33.864398Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[YMMV, AC] $223.77 | CITIZEN Ladies' Eco-Drive Fio 18.4mm Stainless Steel at Amazon",
+  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T12:03:33.864398Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $15.73 | 3 × 75-Oz Cascade Complete Gel All-in-1 Dishwasher Detergent (Citrus) ($5.24 each) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T12:03:33.864398Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Windstar Cruises 9-Night Southern Spain All-Inclusive Cruise for From $7,358 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T12:03:33.864398Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Dakine Split Adventure 38 L backpack $79.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T12:03:33.864398Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon Grocery, Tomato Sauce, 8 Oz x 4~$1.63",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-23T11:58:18.423094Z",
@@ -67315,14 +67403,6 @@
   "source": "slickdeals",
   "raw_title": "Bruno Marc Men's Mesh Wingtip Oxford Dress Shoes (4 colors) $23.50 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-16T09:38:11.314707Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS, AC] $15.73 | 3 × 75-Oz Cascade Complete Gel All-in-1 Dishwasher Detergent (Citrus) ($5.24 each) at Amazon",
-  "reason": "Community score too low (+4) to pass without a price check — needs Subscribe & Save, multi-pack, clip coupon, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-16T09:38:11.314707Z",
   "code": "low_score",
   "public": true
@@ -137150,333 +137230,5 @@
   "rejected_at": "2026-09-09T12:12:28.015092Z",
   "code": "duplicate",
   "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "SNK MVSX Arcade Machine Pre-order with 50x SNK Games (5ft 7in Tall w/ Stand) $499.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T12:06:57.038230Z",
-  "code": "lookup_failed",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Oraolo N-Lite 216 Open Ear Earbuds Bluetooth 6.0 $19.79",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T12:06:57.038230Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Halloween Flashing Eyes with Timer, Set of 3 $25.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T12:06:57.038230Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "YSSOA Rowing Machine Rower Ergometer with 12 Levels of Adjustable Resistance $59.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T12:06:57.038230Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "LEGO Disney Moana 2 Kakamora Barge Set 43258 572-piece $39.59",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T12:06:57.038230Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "MINIDEAR 2x3 Washable Area Rugs $9.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T12:06:57.038230Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Upreign Stationary Bike $59.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T12:06:57.038230Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Acacia Elara Solid Wood Carved Wood Grain 2-Drawer Nightstand/End Table (Natural Oak) $165.81",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T12:06:57.038230Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Sunny Health & Fitness Smart Compact Elliptical Machine w/ 8-Level Adjustable Magnetic Resistance $149.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T12:06:57.038230Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Magnesium Complex for Women 210mg $8.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T12:06:57.038230Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Neat Bumblebee II Professional Cardioid USB Condenser Microphone $14.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T12:06:57.038230Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Monster Clarity 101Plus AirLinks Wireless Earbuds Bluetooth 5.3 $25.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T12:06:57.038230Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Frost King Self-Stick Rubber Foam Weatherseal for $3 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T12:06:57.038230Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Nike College Clothing Deals at Fanatics for Up to 78% off, From $9 + free shipping w/ $39",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T12:06:57.038230Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Mint Mobile Sale: 3-Months of Unlimited 5G & 4G LTE Data, Talk & Text Plan for $30/mo",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T12:06:57.038230Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Fedex Office Online: Extra 15% off Print Orders over $35 | 20% off Orders $125+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T12:06:57.038230Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Drop + Sennheiser HD 8XX Headphones (Pre-order) w/ $200 Drop Points $1100",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T12:06:57.038230Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Stack Social VPN Sale: up to 95% off Lifetime VPN Subscriptions (VPNs from $20)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T12:06:57.038230Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "The Complete Python Certification Bootcamp Bundle $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T12:06:57.038230Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "The 2020 Full Stack Digital Marketing Certification Bundle $39",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T12:06:57.038230Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Karlott 2-Tier Farmhouse Side Table $79.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T12:01:24.785719Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "EZONETECH 3-Pack Reusable Garden Waste Bags 72 Gallon $11.30",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T12:01:24.785719Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "MagSafe Power Bank w/ Built-In 45W USB-C Cable $41.29",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T12:01:24.785719Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "adidas Men 3-Stripes Tee $12.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T12:01:24.785719Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Bedsure ComfyFleece Memory Foam Orthopedic Dog Bed $26.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T12:01:24.785719Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Oboz Men's Bangtail Mid Insulated Waterproof Hiking Boots $68.83",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T12:01:24.785719Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Vitamin D3 K2 5000IU D3 100mcg MK7 120 Softgels $5.31",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T12:01:24.785719Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Round Trip New Jersey to Stockholm Sweden Airfares on Icelandair BE $377.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T12:01:24.785719Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "GoFit Massage Polar Exercise Roller $7.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T12:01:24.785719Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Monster S310 Portable Bluetooth Speaker 30W $30.44",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T12:01:24.785719Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "2-Pack Lexar 256GB Professional 1667x UHS-II V60 SDXC $149.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T12:01:24.785719Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "20-Night India Flight, Hotel, and Tour Vacation for From $13,798 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T12:01:24.785719Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "edx Collapsible Camping Adult Cot, Khaki(73\" x 36\") $34.99 + Free S&H at Walmart",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T12:01:24.785719Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "The 2021 Premium Learn To Code Certification Bundle (Lifetime Access) $39",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T12:01:24.785719Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Knowable Audio Learning Platform (Apple iOS, Lifetime Subscription) $59.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T12:01:24.785719Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "DJI Pocket 2 4K 3-Axis Gimbal Handheld Camera Bundle w/ 128GB SanDisk microSD Card, Octopus Tripod, More $379",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T12:01:24.785719Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Skillwise Pay What You Want Online Course Bundles from $12.71",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T12:01:24.785719Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Complete Developer & IT Pro Library Bundle $40",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T12:01:24.785719Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Ultimate Web Developer & Design Bootcamp Bundle $32",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T12:01:24.785719Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "The Motley Fool Stock Advisor: 1 Year Unlimited Rule Breakers Access for $99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T12:01:24.785719Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Gamefly Memorial Day Sale: 1-Months Game Rental Subscription for only $10",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T12:01:24.785719Z",
-  "code": "not_checked",
-  "public": false
  }
 ]

@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "233b24859a92",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20052123-sns-14-09-2-pack-23-oz-m-m-s-peanut-candy-jars-peanut-at-amazon-7-04-each?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "2-Pack 23-Oz M&M's Peanut Candy Jars (Peanut) at Amazon",
+  "raw_title": "[SnS] $14.09 | 2-Pack 23-Oz M&M's Peanut Candy Jars (Peanut) at Amazon ($7.04 each)",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1409,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-23T12:09:00.840928Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "9c412497e7c8",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20052666-7-99-jakks-pacific-dog-man-movie-5-inch-dog-man-articulated-action-figure-at-amazon?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
