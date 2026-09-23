@@ -1,6 +1,86 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "HORISUN Wireless Full Coverage Push Up Comfortable Seamless Jelly Bra $8.99",
+  "reason": "Posted at $8.99, but Amazon showed $17.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-23T16:19:06.882951Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CXK Bone Conduction Headphones IPX8 Waterproof Bluetooth 6.0 Swim Headphone $39.99",
+  "reason": "Posted at $39.99, but Amazon showed $49.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-23T16:19:06.882951Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Tagzilo 25W Magnetic Wireless Charger (2-Pack) with 2x Cables 2x Plugs $9.78",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T16:19:06.882951Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Wolfbox MegaFlow24 150PSI 12000mAh Portable Heavy Duty Tire Inflator $36.99",
+  "reason": "Posted at $36.99, but Amazon showed $81.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-23T16:19:06.882951Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "AstroAI M10 150PSI Auto-Off Air Compressor 6000A Car Jump Starter Kit $41.99",
+  "reason": "Posted at $41.99, but Amazon showed $89.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-23T16:19:06.882951Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Highlights of China: 8 Nights w/ Airfare $999.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T16:19:06.882951Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "12 Bottles of Firstleaf Wine Only $60 Delivered (Just $5 Per Bottle!) | Best Deal in Years",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T16:19:06.882951Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$40 FS PRIME WOOT (NEW) 2-PACK Motorola T275 Talkabout 2-Way Radios, 25-Mile Range - Rechargeable, NOAA Weather Alerts, VOX, Earpieces & Case",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T16:19:06.882951Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$17 FS PRIME WOOT (NEW) 2-PACK Motorola T110 Talkabout Radios, 16 Mile Range",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T16:19:06.882951Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Adidas Men's Essentials 3 Sling Bag $16.20 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T16:19:06.882951Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[Prime] HORUSDY 5-Piece Impact Socket Adapter & Reducer Set (1/4\", 3/8\" & 1/2\") $5.99 + Free Shipping",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-23T16:13:35.715525Z",
@@ -137238,117 +137318,5 @@
   "rejected_at": "2026-09-09T16:20:20.711748Z",
   "code": "duplicate",
   "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Enzyme Laundry Booster Odor Remover 2 lbs Unscented $11.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T16:14:49.545506Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Disposable Bath Towels 5-Pack $7.79",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T16:14:49.545506Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "12oz Bling Wine Tumbler with Lid and Straw $11.47",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T16:14:49.545506Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "OCOOPA Rechargeable Hand Warmers $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T16:14:49.545506Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Outdoor String Lights 150' $23.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T16:14:49.545506Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Raised Garden Bed with Wheels 13.3\" $39.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T16:14:49.545506Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "RECEKA Wooden Marble Run Music Tree $16.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T16:14:49.545506Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Bedsure ComfyFleece Memory Foam Orthopedic Dog Bed $26.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T16:14:49.545506Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Espresso Machine $69.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T16:14:49.545506Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Baby Carrier $19.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T16:14:49.545506Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Women’s Knee High Chunky Boots $38.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T16:14:49.545506Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Popular Home Depot Christmas Trees from $42.99 Delivered",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T16:14:49.545506Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "YMMV Frost King Premium EPDM Rubber Ribbed Profile Self-Stick Weather Seal, 9/16 in. W x 5/16 in. H x 10 ft. L, Wide Gaps $3.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T16:14:49.545506Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Klein Tools MODbox 18 Pocket Tool Pouch one_size in Black | 55834MB $19.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T16:14:49.545506Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
