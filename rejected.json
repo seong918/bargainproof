@@ -1,6 +1,22 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "X-Sense Wi-Fi Thermometer and Hygrometer for $19 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T07:47:21.801345Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "ZeeHoo MagAir 10,000mAh Semi-Solid-State Power Bank for $50 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T07:47:21.801345Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
   "raw_title": "Senix X6 60V Max Cordless Leaf Blower w/ Battery and Charger for $99 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-23T07:41:51.794285Z",
@@ -137156,78 +137172,6 @@
   "raw_title": "Outdoor Research Women's Limited Edition Cloudchaser 3L Bibs snow pants $192.5",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-09T07:51:29.150813Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$1.92 S&S Q Aquafresh Cavity Protection Fluoride Toothpaste, 5.6 oz",
-  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-09T07:45:55.148600Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "6-pc 26-oz vancasso Bohemian Style Ceramic Soup Bowls (multi-color) $17 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-09T07:45:55.148600Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "The Mandalorian And Grogu - Blu-ray + Digital $21.77 Amazon.com",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-09T07:45:55.148600Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Roomratv 42 Inch Modern Black Ceiling Fans with Lights and Remote Control $38.43",
-  "reason": "Posted at $38.43, but Amazon showed $89.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-09T07:45:55.148600Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Solar Bug Zapper for $60 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T07:45:55.148600Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "32-Oz Sawyer SP565 Picaridin Insect Repellent $22.53 + Free Shipping w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T07:45:55.148600Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "DeWalt 20V MAX XR 1/2 in. Impact Wrench with Hog Ring Anvil with 4 Ah Battery Lithium-Ion Cordless Brushless $229",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T07:45:55.148600Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "EcoFlow Delta 3 Max Plus 2048wh Smart Extra Battery $699.98",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T07:45:55.148600Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Milwaukee M12 FUEL 12V Stubby 3/8 in. Impact Wrench with M12 XC High Output 5.0 Ah Battery Lithium-Ion Brushless CordlessPack $229",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T07:45:55.148600Z",
   "code": "not_checked",
   "public": false
  }
