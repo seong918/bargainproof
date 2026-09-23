@@ -1,5 +1,53 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Samsung Odyssey G55C 27\" 1440p HDR 165Hz VA LED FreeSync Curved Monitor for $177 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T01:06:12.258588Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Gund Disney Minnie Mouse Toothpick 15\" Plush Toy for $7.99 w/ Prime + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T01:06:12.258588Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DEWALT DCS438B Cut-Off Tool 20V MAX Brushless Motor 20000 RPM 3 in Wheel Diameter Cordless $119",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T01:06:12.258588Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $30.91 | 3 × 2-Pack 51.5-Oz Dawn Ultra Original Dish Soap Refill Jug (Original) ($10.30 each) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T01:00:58.684605Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DEWALT DCP580B Planer Brushless Motor 20V 3.25 in Cutting Width 15000 RPM Cordless $149",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T01:00:58.684605Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DEWALT DCH133B Rotary Hammer Drill 20V 1 in Brushless 2.6 J Impact Energy Cordless SDS-Plus $129",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T01:00:58.684605Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "LOVEVOOK Mini Vintage Faux Leather Hobo Clutch with Detachable Shoulder Strap (Black) $9.09 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
@@ -66454,14 +66502,6 @@
   "rejected_at": "2026-09-16T01:06:31.014769Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS, AC] $30.91 | 3 × 2-Pack 51.5-Oz Dawn Ultra Original Dish Soap Refill Jug (Original) ($10.30 each) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, clip coupon, multi-pack, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-16T01:01:07.644640Z",
-  "code": "low_score",
-  "public": true
  },
  {
   "source": "slickdeals",
@@ -137724,38 +137764,6 @@
   "raw_title": "$14.99 Sale for Reign: The Complete Series",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-09T01:09:58.489851Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "2-Tier Monitor Stand Riser w/ Drawer & Pen Holders Desk Organizer for $24 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T01:04:23.646190Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Spec Ops Tools Hog Ring Pliers for $15 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T01:04:23.646190Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Women’s Running Shorts Just $4.79 on Amazon (Reg. $13)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T01:04:23.646190Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Ozark Trail Men's Multi Toe Adjustable Water Shoes (11 only) for $3 + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T00:58:49.401791Z",
   "code": "not_checked",
   "public": false
  }
