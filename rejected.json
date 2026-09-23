@@ -1,6 +1,14 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Costco Halloween animatronic clearance $99.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T04:17:49.946200Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Yofidra 24\" x 16\" Diatomaceous Earth Foldable Dish Drying Mat (Dark Gray Marble) $12.32 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-23T04:12:18.746509Z",
