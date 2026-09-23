@@ -1,5 +1,37 @@
 [
  {
+  "source": "dealcatcher",
+  "raw_title": "Weeklong Tour of Peru with Flights $1,199.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T17:30:53.529041Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Reebok Men's Lightweight Softshell Jacket for $11 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T17:30:53.529041Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Office Depot Classroom Décor & Learning Tools Deals: Buy 1, Get 1 50% off + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T17:30:53.529041Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bedsure Memory Foam Adjustable Pillow with Cotton Cover $23.99+Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T17:30:53.529041Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "[SnS, AC] $4.19 | 6-pk 16-oz BODYARMOR LYTE Electrolyte Sports Drink (Peach Mango) at Amazon (69.8￠ each)",
   "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
@@ -137164,86 +137196,6 @@
   "raw_title": "2-Pack Aukey Magfusion 15W Qi2 2-in-1 Foldable Charger $29.99 + Free S&H",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-09T17:32:13.109551Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Efferdent Denture Cleaner Tablets, Minty Fresh & Clean, 90 Count $2.50",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T17:26:43.154786Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Teenage Mutant Ninja Turtles TMNT Classic Technodrome Playset $41.22",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T17:26:43.154786Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "WHOY 80 Pint Dehumidifier for up to 5000 Sq. Ft. $79.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T17:26:43.154786Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "2026 Topps Chrome Star Wars Factory Sealed Value Box for $30 + shipping varies",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T17:26:43.154786Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Nextbase Piqo 2K Dashcam w/ 64GB MicroSD Card & Quick Connect Cable for $100 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T17:26:43.154786Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "J.Crew Factory Sale: Up to 71% off + free shipping w/ $75",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T17:26:43.154786Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "88-Key Williams Legato IV Digital Piano $189.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T17:26:43.154786Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ZITY Mens Flannel Jacket Plaid Zip Up Hoodie Fleece Jacket Sherpa Lined Sweatshirt Warm Winter Coat with Pocket $19.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T17:26:43.154786Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Wattbricks H100 99.2Whr Power Station + 30W Solar Panel $34.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T17:26:43.154786Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Minisforum V3 SE 3-in-1 Tablet (Cert Refurb): 14\" FHD+ IPS Touch, Detachable Keyboard, Ryzen 7 7735U, 16GB LPDDR5 Ram, 1TB Gen4 SSD, USB4, Win11H @ $429 + F/S",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T17:26:43.154786Z",
   "code": "not_checked",
   "public": false
  }

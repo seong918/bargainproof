@@ -1,5 +1,38 @@
 [
  {
+  "deal_id": "e3f2d2ffa724",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20053476-s-s-12-pack-12oz-gatorade-lower-sugar-sports-drink-lemonade-4-52-free-s-h-w-prime-or-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "12-Pack 12Oz Gatorade Lower Sugar Sports Drink (Lemonade) + or",
+  "raw_title": "[S&S]12-Pack 12Oz Gatorade Lower Sugar Sports Drink (Lemonade) $4.52 + Free S&H w/ Prime or $35+",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0GJFPKW8R",
+  "deal_total_cents": 452,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "sns",
+   "prime",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 476,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 476,
+  "amazon_url": "https://www.amazon.com/dp/B0GJFPKW8R",
+  "amazon_checked_at": "2026-09-23T17:30:57.898706Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0GJFPKW8R",
+  "image_url": null,
+  "published_at": "2026-09-23T17:30:53.529041Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "d13ce3ec17ac",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20052549-the-matrix-4-film-d-j-vu-collection-blu-ray-12-99-amazon-com?utm_source=rss&utm_content=ht&utm_medium=RSS2",
