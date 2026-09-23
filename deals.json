@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "c5bd1fc3a712",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20052849-scary-movie-collection-blu-ray-12-43-amazon-com?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "Scary Movie Collection Blu Ray Amazon.com",
+  "raw_title": "Scary Movie Collection Blu Ray $12.43 Amazon.com",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1243,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-23T17:08:44.016894Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "b874a7cd133d",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20051646-ac-29-99-starfield-ps5-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
