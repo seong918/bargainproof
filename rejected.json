@@ -1,6 +1,94 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$45.52* | Greenworks 24V Handheld Leaf Blower, 270 CFM, Tool Only at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T16:57:42.518924Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$5.76* | 4-Pack 32-Oz RiceSelect Arborio Rice Jars at Amazon",
+  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T16:57:42.518924Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS] $6.84* | 24-Pk 3-Oz Nissin Top Ramen Instant Noodles (Shrimp Flavor) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T16:57:42.518924Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Avidlove Women Lace Bodysuit Cut Out Teddy $4.99",
+  "reason": "Posted at $4.99, but Amazon showed $10.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-23T16:57:42.518924Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ekouaer Womens Long Sleeve Pjs with Jogger Pants $11.99",
+  "reason": "Posted at $11.99, but Amazon showed $26.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-23T16:57:42.518924Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Gatorade Gx 30-Oz Plastic Water Bottle $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T16:57:42.518924Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Apple AirPods Pro 3 Wireless Earbuds for $200 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T16:57:42.518924Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Men’s NCAA Hoodies from $13.52 on Walmart.com (Reg. $35)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T16:57:42.518924Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Paper Mario: The Thousand-Year Door (Nintendo Switch) & One Fresh Banana $32.09 with Store Pick-Up",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T16:57:42.518924Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Commercial Electric 5 in. Motion Sensing Utility Light LED Flush Mount 650 Lumens 7W Bright White 4000K Closet Light Indoor $3.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T16:57:42.518924Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "The Legend of Zelda: Tears of the Kingdom - Nintendo Switch & One Fresh Banana $39.09 with Store Pick-Up",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T16:57:42.518924Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Ekouaer Silk Pajamas Long Sleeve Satin Pajama Set $11.99",
   "reason": "Posted at $11.99, but Amazon showed $32.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-23T16:52:11.752297Z",
@@ -137084,134 +137172,6 @@
   "raw_title": "Women’s Cardigans from $8.49 on Amazon",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-09T16:59:01.666024Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "The Dreaming Boy Is a Realist Season 1 (Blu-ray) $25.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-09T16:53:32.323920Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Cincom 3-Mode 3-Intensity 3-Heat Level Corded Air Compression Leg Massager $68.99",
-  "reason": "Posted at $68.99, but Amazon showed $169.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-09T16:53:32.323920Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Hilmon 2-in-1 Multifunctional Double Sided Chopping Board $13.99",
-  "reason": "Posted at $13.99, but Amazon showed $23.98 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-09T16:53:32.323920Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "VEVOR Mechanic Tool Set 314-Piece w/ Sockets, Wrenches & Storage Case $88.10",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T16:53:32.323920Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Govee Smart LED Strip Light 13.1' with Skyline Kit (RGBWWIC Color) $59.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T16:53:32.323920Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "SKIL PWR CORE 12V USB-C 2.0Ah Battery w/ Charger 2-Pack $49.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T16:53:32.323920Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "House of Earth and Blood (Crescent City Book 1) eBook $2.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T16:53:32.323920Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Waterpik Cordless Pulse 3100 Portable Water Flosser, Rechargeable $34.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T16:53:32.323920Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "WÜSTHOF 9\" Triple Rivet Honing Steel $19.95",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T16:53:32.323920Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "The Glass Castle: A Memoir (eBook) $2.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T16:53:32.323920Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "A Court of Thorns and Roses eBook $2.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T16:53:32.323920Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Men's Vintage Freedom Flag Polo Shirt for 2 for $8 + $18 shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T16:53:32.323920Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "SAMS CLUB Base Membership (NEW CUSTOMER) $25 at link",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T16:53:32.323920Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$55 Sams Club Plus One Year Membership (NEW CUSTOMERS)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T16:53:32.323920Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Milwaukee M18 FUEL 18V Lithium-Ion Brushless Cordless 1/4 in. Braking Die Grinder Slide Switch w/5.0Ah Battery $249",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T16:53:32.323920Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Metroid™ Ravenous Special Edition Nintendo Switch 2 + Amiibo $119.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T16:53:32.323920Z",
   "code": "not_checked",
   "public": false
  }
