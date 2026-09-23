@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$94.47: Amazon Basics 3-Button USB Wired Computer Mouse, Black (30-Pack)",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T07:03:15.933526Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[S&S] $9.49: Biofreeze Professional Pain Relief Roll On, Knee & Lower Back Pain Relief, Roll-On Menthol Gel 3 Fl Oz",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T07:03:15.933526Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Olight PL-3R Valkyrie 1500 Lumens Rechargeable Rail-Mounted Tactical Light (Black) $70 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T07:03:15.933526Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "M inch Vitamin D3 K2 Gummies, Vitamin D3 10000IU, K2 (MK-7) 200mcg, 2 Pack $14.99",
+  "reason": "Posted at $14.99, but Amazon showed $24.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-23T07:03:15.933526Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "27-Piece DEWALT TOUGH GRIP Screwdriver Bit Set $13.98 + Free In-Store Pickup at Lowes",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T07:03:15.933526Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$13.98: DEWALT 27 -Piece TOUGH GRIP Screwdriver Bit Set at Lowe's",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T07:03:15.933526Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CRAFTSMAN V20 20-Volt Variable Speed Belt Cordless Sander with Dust Management $49 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T07:03:15.933526Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$7.99* | WORKPRO Magnetic Hex Bit Holder, 39-Hole Organizer Tray with Strong Magnetic Base, Compatible with 1/4 Inch Hex Bit & Drill Bit Adapter, Blue at Amazon",
   "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-23T06:57:46.381861Z",
@@ -137494,13 +137550,5 @@
   "rejected_at": "2026-09-09T07:06:54.312420Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "4' MEKASS 250ml Diatomaceous Earth Powder Duster w/ Adjustable Rod (Orange) $14.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-09T07:01:18.497657Z",
-  "code": "low_score",
-  "public": true
  }
 ]
