@@ -1,5 +1,45 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "[YMMV, AC] $65.35* | Candy Indoor Grill & Air Fryer with Ceramic Accessories, 500°F Max, 7-IN-1 Digital Display, 5.2 QT Electric Low Smoke with View Window, 1500W at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T07:52:51.212144Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Cold Press Juicer Machine w/ Touch Screen for $76 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T07:52:51.212144Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Dreame Aqua 10 Ultra Robot Vacuum and Mop for $650 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T07:52:51.212144Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Select Home Depot Stores: DeWALT 20V XR 1/2\" Drill/Driver Kit w/ 2x 4Ah Batteries $134.50 (In-Store Only)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T07:52:51.212144Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Alden Design 5-Tier Boltless & Adjustable Steel Storage Rack $29.08",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T07:52:51.212144Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "X-Sense Wi-Fi Thermometer and Hygrometer for $19 + free shipping w/ Prime",
   "reason": "Not evaluated",
@@ -137092,86 +137132,6 @@
   "raw_title": "LEGO 2K Drive (Nintendo Switch) $10 + Free Shipping w/ Walmart+ or on $35+",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-09T07:57:05.038798Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "addlon 102-Foot Solar String Lights w/ Remote for $30 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T07:51:29.150813Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Gold Auctions on eBay Live for Deals from $1",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T07:51:29.150813Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Fun World Ghost Face Adult Costume for $28 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T07:51:29.150813Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$14.99 | Amazon Essentials Women Long Puffer Jacket at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T07:51:29.150813Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$8.99 | Amazon Essentials Women Classic Long-sleeve Fleece Jacket at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T07:51:29.150813Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Magnus MaxiGrip Flexible Tripod (Black) $6.95 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T07:51:29.150813Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$7.99 | Amazon Essentials Women Long-sleeve Flannel Shirt at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T07:51:29.150813Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Milwaukee M18 FUEL 18V 1/2 in. High Torque Impact Wrench with Friction Ring w/XC 5.0 Ah Battery Lithium-Ion Brushless Cordless $279",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T07:51:29.150813Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Pre-order: Nintendo Switch™ Sports Resort (Nintendo Switch 2) $50",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T07:51:29.150813Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Outdoor Research Women's Limited Edition Cloudchaser 3L Bibs snow pants $192.5",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T07:51:29.150813Z",
   "code": "not_checked",
   "public": false
  }
