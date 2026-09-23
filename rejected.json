@@ -1,6 +1,310 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[NEW] $19.99 | Wonder Woman: The Complete Collection (DVD) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T19:32:32.979635Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$24.99* | Ring Indoor Cam w/ 1080p HD Video & Color Night Vision (2nd Gen, Various) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T19:32:32.979635Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bymore Fabric Shaver, Lint Shaver, Sweater Shaver for Clothes, Purple $12.49 AC",
+  "reason": "Posted at $12.49, but Amazon showed $24.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-23T19:32:32.979635Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Emeril Lagasse Everyday 360 Air Fryer Oven, 9-in-1 Countertop Oven $99.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T19:32:32.979635Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Greenworks 60V 13 in String Trimmer & 540 CFM Blower Combo with 4.0 Ah Battery $199.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T19:32:32.979635Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "The Cameraman Blu-Ray $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T19:32:32.979635Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "The Matrix 4-Film Déjà vu Collection Blu-ray $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T19:32:32.979635Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "The Thing 4K UHD $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T19:32:32.979635Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Rush Hour Trilogy Blu-ray $12.10",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T19:32:32.979635Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Greenworks 40V 16in Push Lawn Mower with 4.0 Ah Battery and Charger $229.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T19:32:32.979635Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "BLACK+DECKER 1.5-Cup Electric Food Chopper $14.44",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T19:32:32.979635Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Pyle Beginner Acoustic Guitar Kit $60.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T19:32:32.979635Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Justice League: Warworld Blu-ray $8.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T19:32:32.979635Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "KIND Soft Baked Squares 6-Count (Salted Caramel Almond Flour) $4.09",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T19:32:32.979635Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Batwoman: The Third and Final Season (BD) $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T19:32:32.979635Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "McCormick Gourmet Collection Organic Thyme 0.65-Oz $2.80",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T19:32:32.979635Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "DCU: Superman/Batman: Apocalypse Blu-ray $7.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T19:32:32.979635Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "The Mummy Ultimate Collection Blu-ray $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T19:32:32.979635Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "The Bourne Complete Collection Blu-ray + Digital $17.65",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T19:32:32.979635Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Riddick: The Complete Collection Blu-ray $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T19:32:32.979635Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Alien: 6-Film Collection Blu-ray $24.96",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T19:32:32.979635Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "HORUSDY 10-Piece High Carbon Steel Reciprocating Saw Blade Set $6.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T19:32:32.979635Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "HORUSDY 40-Piece Reciprocating Saw Blade Set (3-24 TPI) $15.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T19:32:32.979635Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "DCU Justice League: Crisis on Two Earths Blu-ray $7.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T19:32:32.979635Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Edifier MR3 Powered Studio Monitor Speaker w/ Bluetooth $109.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T19:32:32.979635Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Sunday Scaries THC Gummies Promo Code for $30 off $90 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T19:32:32.979635Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Motorola T110 Talkabout 16-Mile Range Radios 2-Pack for $17 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T19:32:32.979635Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Nearly Natural Artificial Topiary Just $32.99 Shipped for Prime Members (Reg. $77)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T19:32:32.979635Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nesmar G5 Pro Travel Steamer For Clothes, 110-240V, 100ml Tank $20.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T19:32:32.979635Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC] $6.29* | 12-Pack 4-Oz Premium Saltine Crackers (Original) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T19:27:00.285672Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$14.99* | DC X Sonic Batmobile Shadow-fied! w/ 2.5\" Shadow as Batman Action Figure at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T19:27:00.285672Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$8.13 | Apocalypse Love (Blu-ray) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T19:27:00.285672Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $13.13* | 40-Pack 2-Oz Fig Newtons Soft & Fruit Chewy Fig Cookies at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T19:27:00.285672Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$119* | DeWALT 20V MAX XR Cordless Brushless Jig Saw (Bare Tool) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T19:27:00.285672Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Pack Hat Organizer for Baseball Caps Racks (Amber) $6.01 + Free Shipping w/ Prime or on orders over $35",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T19:27:00.285672Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $14.04* | 18-Pk 2.12-oz Clif Bloks Energy Chews (Black Cherry) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs multi-pack, Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T19:27:00.285672Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$29.99* | Blink Wired Floodlight Camera (Black or White) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T19:27:00.285672Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "BUCASA Waterproof Shower Rechargeable Bathroom Shower Lamp $17.99 AC",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T19:27:00.285672Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Prime: Blink Video Doorbell + Outdoor 4 Wireless Smart Security Camera w/ Sync Module $28 + Free Shipping",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-23T19:21:27.710110Z",
@@ -137468,222 +137772,6 @@
   "raw_title": "$13.97 FS WALMART+ or PU where avail: Avia Little and Big Kids Bungee Athletic Sneakers Size availability varies by color option",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-09T19:33:45.804860Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[AC] $24.36 | 3.4-Oz Paris Corner Mango Punch Eau de Parfum Spray at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-09T19:28:15.506906Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS] $14.34 | 12-Count Pentel Twist-Erase III Mechanical Pencil (0.7mm), Red Barrel at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-09T19:28:15.506906Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS, AC] $1.42* | 2.85-Oz McCormick Grill Mates Classic Smash Seasoning at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-09T19:28:15.506906Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Mortal Kombat 11 Ultimate",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T19:28:15.506906Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Mortal Kombat XL",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T19:28:15.506906Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Ridgid 18V Brushless Cordless 4-Mode 1/2 in. High-Torque Impact Wrench Kit with (2) 4.0 Ah Batteries $249.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T19:28:15.506906Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Easy Spirit Women's Brindle2 Cozy Winter Bootie for $18 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T19:28:15.506906Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "DiscountMags Business & Finance Magazine Deals for From $5.50 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T19:28:15.506906Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Certified Refurb Unlocked Apple iPhone 15 128GB Smartphone for $375 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T19:28:15.506906Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Grab a KFC Country Fried Steak Meal for Just $4.99 – Today Only!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T19:28:15.506906Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas Women's Pacer Training 3-Stripes Woven High-Rise Shorts $8.00 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T19:28:15.506906Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$20 Free Ship WALMART+ or pick up Avia Men's 02 Air Trainer Sneakers sizes 8-13, choice of 4 colors",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T19:28:15.506906Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$15 FREE SHIP Walmart+ or pick up Avia Women's Sport Loafers sizes 6-11 in Olive or Silver Color",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T19:28:15.506906Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Round Trip Los Angeles - San Juan Puerto Rico or Vice Versa $252 Airfares on American Airlines BE (Travel October 2026 - March 2027)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T19:28:15.506906Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "32 Degrees Men's Cool Classic Polo $5.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T19:28:15.506906Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Pathlite:ON 5 SUV step-through (Small and Large) $1299",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T19:28:15.506906Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS, AC] $3.11* | 7.5-Oz McCormick Dark Chili Powder at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-09T19:22:44.197911Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS, AC] $4.77* | 105oz French's Classic Yellow Mustard at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-09T19:22:44.197911Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS, AC] $4.31* | 68-Oz Method Daily Shower Spray Cleaner Refill (Eucalyptus Mint) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-09T19:22:44.197911Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Milwaukee M12 FUEL 12V 1/4 in. Hex 2-Speed Screwdriver Kit W/(2) 2.0h Batteries & Bag $140.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T19:22:44.197911Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Milwaukee BIG HAWG Carbide Hole Saw Kit (9-Piece) $149.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T19:22:44.197911Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Tile Town Pet Vet Magnetic Tiles Set 48-Piece w/ Sound and Lights $7.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T19:22:44.197911Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Nike NFL Deals at Fanatics: Up to 89% off + free shipping w/ $39",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T19:22:44.197911Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Walmart Can't Miss Clearance Sale: Up to 88% off + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T19:22:44.197911Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas men VL Court Base Shoes (Charcoal Solid Grey / Alumina / Grey Four) $17",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T19:22:44.197911Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Frigidaire 12,000 BTU Window Air Conditioner $299.00 + Free Shipping w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T19:22:44.197911Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Pathlite:ON 7 step-through Large $1999",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T19:22:44.197911Z",
   "code": "not_checked",
   "public": false
  }
