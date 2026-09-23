@@ -1,5 +1,38 @@
 [
  {
+  "deal_id": "f0052c31d143",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20051550-sns-ac-6-24-12-pk-3-6-oz-sour-patch-kids-original-soft-chewy-candy-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "12-pk 3.6-oz Sour Patch Kids Original Soft & Chewy Candy",
+  "raw_title": "[SnS, AC] $6.24* | 12-pk 3.6-oz Sour Patch Kids Original Soft & Chewy Candy at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 624,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 6,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-23T13:19:16.233885Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "abaf9ec1c0cf",
   "source": "techbargains",
   "source_url": "https://www.amazon.com/gp/product/B0FP5LDM48/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
