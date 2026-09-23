@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "BOSGAME P6 Neo Mini PC: Ryzen 7 6800H, 24GB LPDDR5x RAM, 512GB PCIe SSD, 680M Graphics, USB4 $447.8",
+  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T03:55:47.717775Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SUNLU AMS Heater $65.09 Shipped Clip Coupon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T03:55:47.717775Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Disney Swim Trunks Mickey Mouse Beach - Sizes S-3XL Available - $5.24 Clearance @ Walmart & Ships FREE!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T03:55:47.717775Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$5.98 | GoodCook Nonstick Loaf Pan, 9 x 5-Inch, Gray at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T03:50:17.458869Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Red Light Therapy Pad, 70 LEDs Adjustable 22.1\"x7.1\" Light Wrap, Corded $14.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-23T03:50:17.458869Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Fisher-Price Soothe & Settle Bunny Baby Toy $21.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T03:39:14.725557Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon – 16\" LED Drawing Board Art Set for Kids - $11.99 w/ Code",
   "reason": "Community score too low (+0) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-23T03:33:45.465765Z",
@@ -137502,53 +137550,5 @@
   "rejected_at": "2026-09-09T03:57:18.198387Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$12.98: Beyblade X Cobalt Dragoon 2-60C Deluxe Left-Spin String Launcher Set (Attack Type Top)",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-09T03:51:42.284972Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "EA Sports Madden NFL 26 (Grade A Refurbished) $14.99 + Free Shipping w/ Prime or $6 Fee per Order",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T03:51:42.284972Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Costway 35\" Electric Indoor Nonstick Griddle & Grill w/ 5 Temperature Settings $50 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T03:51:42.284972Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$9.99 Sale for The Maxx: The Complete Series",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T03:46:07.645727Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$1.21 S&S or $1.08 ea wyb 4 Amazon Grocery, Frosted Toaster Pastries, Cherry, 13.5 Oz, 8 Ct",
-  "reason": "Community score too low (+-1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-09T03:40:32.664099Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Boncare Large Display Digital Basal Body Thermometer with Fever Alarm $2.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-09T03:40:32.664099Z",
-  "code": "duplicate",
-  "public": true
  }
 ]
