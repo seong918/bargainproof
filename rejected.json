@@ -1,6 +1,38 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "Etekcity Digital Scale for $17 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T00:08:35.943950Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Levi's Berkley Chore Coat (size M) for $50 + free shipping w/ $75",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T00:03:21.468264Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Belk Movie & TV Graphic T-Shirt Doorbusters for From $8.40 + free shipping w/ $99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T00:03:21.468264Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Papa Murphys: 50% Weekends Pizza $6.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T00:03:21.468264Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
   "raw_title": "Belk NCAA Fan Gear Sale: Up to 50% off + free shipping w/ $99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-22T23:58:00.986385Z",
@@ -137828,30 +137860,6 @@
   "raw_title": "$7.99 Sale for Dirk Gently's Holistic Detective Agency: The Complete Series",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-09T00:14:11.630094Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Yamaha AC1R Concert Cutaway Acoustic-Electric Guitar for $700 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T00:02:59.695742Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Fandango At Home: Westerns 5 for $10, 4K Sci-Fi 4 for $15 + more",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T00:02:59.695742Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$34.99 Sale for ‎I Love Lucy: The Complete Series",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T00:02:59.695742Z",
   "code": "not_checked",
   "public": false
  }
