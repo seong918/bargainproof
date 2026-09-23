@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "38c57f5264b3",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20053749-tcl-tab-a1-plus-android-tablet-12-2-2-4k-120hz-display-6-128gb-189-99?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
+  "title": "TCL TAB A1 Plus Android Tablet, 12.2\" 2.4K 120Hz Display, 6+128GB",
+  "raw_title": "TCL TAB A1 Plus Android Tablet, 12.2\" 2.4K 120Hz Display, 6+128GB $189.99",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0HHF1HH16",
+  "deal_total_cents": 18999,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 18999,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 18999,
+  "amazon_url": "https://www.amazon.com/dp/B0HHF1HH16",
+  "amazon_checked_at": "2026-09-23T16:02:48.547362Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 0,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0HHF1HH16",
+  "image_url": null,
+  "published_at": "2026-09-23T16:02:41.682176Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "5efcafff085c",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20052474-sns-ac-13-92-4-6-pack-16-9-oz-diet-coke-diet-soda-3-48-each-at-amazon-58-each?utm_source=rss&utm_content=ht&utm_medium=RSS2",
