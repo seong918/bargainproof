@@ -1,6 +1,94 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "belVita Breakfast Bars Biscuits, Blueberry, 30 Packs~$17.09 With S&S @ Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T11:53:09.587992Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Sharpie Clear View Highlighter Sticks, Chisel Tip Highlighter Market Set, Essential School & Teacher Supplies, Smear Resistant, Assorted Color Highlighters, 8-Pack $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T11:53:09.587992Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "RITZ Bits Peanut Butter & Cheese Sandwich Crackers Variety Pack, 20 ct | Lunch Snacks for Kids and Adults, Snack Packs, Individually Wrapped $8.87",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T11:53:09.587992Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "PLANTERS Deluxe Salted Whole Cashews, Plant Based Protein, 8.5 Oz (1 Ct) | Roasted Cashews. Snacks for Adults. Resealable Canister. Plant Based Protein Snack. Pantry Staples $6.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T11:53:09.587992Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LG LT1000P - 6 Month / 200 Gallon Capacity Replacement Refrigerator Water Filter (NSF42, NSF53, and NSF401) ADQ74793501, ADQ75795105, AGF80300704, or AGF80300705 White $45.82",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T11:53:09.587992Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Apple Watch SE (2nd Gen) 44mm (Grade A Refurbished) $129.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T11:53:09.587992Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "CLIF BLOKS Energy Chews, Black Cherry Flavor w/Caffeine, 18 Packs $21.71",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T11:53:09.587992Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Christmas Pillow Cover 12x20\" $2.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T11:53:09.587992Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Halloween Horror Hockey Mask for $8 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T11:53:09.587992Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "6-Piece Titanium-Plated Combination Drill Tap Set for $3 + free shipping w/ $25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T11:53:09.587992Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Amazon Fire HD 10 10.1\" 32GB Tablet for $73 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T11:53:09.587992Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Friskies Wet Cat Food 48 x 2 = 96 Cans (5.5oz) $74.24 S&S. get $20 Amazon Credit (Various Options)",
   "reason": "Community score too low (+-1) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-23T11:47:23.507418Z",
@@ -137460,94 +137548,6 @@
   "raw_title": "Creativity, Inc. (The Expanded Edition) Kindle eBook $1.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-09T11:55:52.604716Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Ring Always Home Cam Indoor Flying Camera Drone $249.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T11:50:19.887128Z",
-  "code": "lookup_failed",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Blink Floodlight Mount Accessory for Blink Outdoor Camera $39.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T11:50:19.887128Z",
-  "code": "lookup_failed",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "WIHOLL Sweaters Long Sleeve $11.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T11:50:19.887128Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "XIEERDUO Women's 2 Piece Lounge Sets $13.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T11:50:19.887128Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Women 3/4 Sleeve Crew Neck Lightweight Knit Sweater Top $6.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T11:50:19.887128Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Women's 2 in 1 Athletic Running Shorts with Liner Pockets $9.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T11:50:19.887128Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Totatuit 3/4 Sleeves Crochet Cover Ups $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T11:50:19.887128Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "College Football Gear Deals at Fanatics: Up to 71% off + free shipping w/ $39",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T11:50:19.887128Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "16x7 & 16x8ft. Garage Door Insulation Kit for $140 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T11:50:19.887128Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Best Cyber Monday Laptops Deals: Acer Swift 3 Ryzen 7 14\" 512GB Laptop $580, More",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T11:50:19.887128Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Worried about Identity Theft? Get LifeLock: Save 25% for One Year from $8.99/mo",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T11:50:19.887128Z",
   "code": "not_checked",
   "public": false
  }
