@@ -1,6 +1,158 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "Vevor 38\" Light-Up Sword for $24 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T10:31:08.970557Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "12.6-Foot LED Waterfall Christmas Lights for 2 for $30 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T10:31:08.970557Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Uirzotn 10-oz. Insulated Coffee Tumbler w/ Straw for $12 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T10:31:08.970557Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "MSI Cyborg: 15.6\" FHD+ 144Hz IPS, Ryzen 7 260, RTX 5070, 16GB DDR5, 1TB SSD $1299",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T10:31:08.970557Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ABS Cyclone Aqua Gaming Desktop PC: Intel Core 5 120, RTX 5060, 16GB DDR4, 1TB SSD $849",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T10:31:08.970557Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$59.99: JOOLA Anna Bright Scorpeus 3 14mm Pickleball Paddle with 1 Replacement Grip at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T10:31:08.970557Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] 12.5\"x16.5\" FENNO Rectangular 360° tilt Vanity Mirror w/ LED $17.09 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T10:25:33.009142Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nada N12 Bluetooth Thermal Label Maker (Green) $8.49 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-23T10:25:33.009142Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Spin Master Yellowstone Mexican Train Dominoes Game for $16 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T10:25:33.009142Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Craftsman V20 Cordless Variable Speed Belt Sander (Tool Only) for $49 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T10:25:33.009142Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Olilawn 90-lb. Fillable Umbrella Base Side Table for $80 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T10:25:33.009142Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "GE 24\" Top Control Built-in Dishwasher for $409 + $39 delivery",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T10:19:57.396679Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "GameStop Double Pro Week Deals: Up to 30% off + free shipping w/ $79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T10:19:57.396679Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Letmy Solar Pathway Lights 8-Pack for $34 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T10:14:22.775627Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Lowe's Daily Deals: Up to 55% off appliances, tools, fitness, more + free shipping w/ $25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T10:14:22.775627Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ortizan C7 Powered Studio Monitor Speakers Pair for $73 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T10:14:22.775627Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Wooden Hanging Christmas Ornaments 36-Pack for $9 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T10:08:49.148896Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Men's 6-Piece Solid Cologne Gift Set for $5 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T10:08:49.148896Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Windstar Cruises 9-Night Spain & Gibraltar Cruise for From $8,258 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-23T10:03:16.052624Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
   "raw_title": "Walmart Autographed Sports Memorabilia Deals for From $9.99 + free shipping w/ $35",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-23T09:52:11.886398Z",
@@ -137092,190 +137244,6 @@
   "raw_title": "Makita 18V LXT Lithium-Ion Brushless Cordless 4-1/2 in./5 in. Paddle Switch X-LOCK Angle Grinder with AFT, Tool Only $117",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-09T10:32:40.295864Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Open-Box Wyze Cam Pan v3 Indoor/Outdoor 1080p Security Camera for $23 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T10:27:06.182867Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Ridgid 18V Cordless Inverter w/ 2.0Ah Battery for $79 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T10:27:06.182867Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "WestinTrends Paolo 9 Ft Outdoor Umbrella(Gray) $19.99 + Free S&H w/ Walmart+ or $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T10:27:06.182867Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "DeWalt 20V Max Lithium-Ion 6.0Ah / 4.0Ah Battery Starter Kit for $119 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T10:21:31.393618Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Inflatable T-Rex Dinosaur Adult Costume for $27 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T10:10:24.369995Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Yaheetech 236\"x 71\" Double Retractable Privacy Screen for $123 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T10:10:24.369995Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Ryobi USB Lithium Cordless Bike & Ball Pump Inflator Kit for $20 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T10:10:24.369995Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "5.3-Gallon Portable Camping Toilet for $69 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T10:10:24.369995Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "UGREEN USB C Docking Station Triple Monitor 4K, 12-in-1 Dock with 2xHDMI+DP $47.98",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-09T10:04:50.631165Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Open-box Fjorden Basic Bundle Camera Grip for iPhone for $17 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T10:04:50.631165Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Naipo 3-Ton Low Profile Floor Jack for $140 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T10:04:50.631165Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "11-Night India Flight, Hotel, and Tour Vacation for From $10,298 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T10:04:50.631165Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Horror 20 Movie Collection (DVD) $11.98",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T10:04:50.631165Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "21.7\"x13.8\" Goodpick 83L Cotton Woven Rope Storage Basket $13.49 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-09T09:59:15.967503Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "LEGO Minecraft The Armadillo Mine Expedition Building Set (21269) $23.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-09T09:59:15.967503Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "HDX 2.5-Qt. Tough Storage Tote for 6 for $10 + free shipping w/ $25",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T09:59:15.967503Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Hsility Bluetooth Wireless Earbud with Microphone for $10.20 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T09:59:15.967503Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "4.4-Gallon Beverage Dispenser for $41 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T09:59:15.967503Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Ryobi Multi Surface Laser Level w/ 25-ft. Compact Tape Measure for $30 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T09:59:15.967503Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Walmart Outdoor Halloween Skeleton Decor Deals for From $5.97 + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T09:53:40.780133Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Men's Dry Fit Short Sleeve Golf Polo Shirt for $13 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T09:53:40.780133Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Ryobi 12-Piece Screwdriver Set for $16 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T09:53:40.780133Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "The Original Muck Boot Company Men's Harvester Tall Waterproof Rubber Work Boots for $41 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-09T09:53:40.780133Z",
   "code": "not_checked",
   "public": false
  }
