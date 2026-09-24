@@ -1,5 +1,69 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "17\"x10\" Lawn Leveling Rake w/ 6' Metal Handle $14.27 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T22:14:53.850663Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Epic Fortnite $100 Gift Card for $90 + email delivery",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T22:14:53.850663Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Magnetic Dry Erase Board Only $1.97 on Walmart.com | Great for Lockers, Grocery Lists, & More",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T22:14:53.850663Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Quirky Boil 1500W Electric Kettle with Temperature Control $19.99 + Free S/H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T22:14:53.850663Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Blue Diamond Low Sodium Lightly Salted 100 Calorie Almonds 32-Pack for $12 via Sub & Save + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T22:09:22.208416Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "TCL 55\" Class QM7K Series 4K UHD QD Mini LED Smart TV with Google TV (2025) $599.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T22:09:22.208416Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nike Men's Air Jordan 3 Retro Shoes Size 7.5 - 9.5 (Medium Olive/Sequoia/Neutral Olive/Sail /Total Crimson) $130 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T22:09:22.208416Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "TrustyPup 4-Cup Collapsible Pet Travel Bowl (Denim) $1.76 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T22:09:22.208416Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "LEGO City 2026 Advent Calendar for $25 + free shipping w/ $35",
   "reason": "Not evaluated",
@@ -135989,70 +136053,6 @@
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-10T22:15:06.596928Z",
   "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS, AC] $4.33* | 200-Ct Nature's Bounty Fish Oil Omega 3 Supplements at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T22:09:32.112353Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS, AC] $2.59* | 60-Ct Nature's Bounty Dual Spectrum Melatonin 5mg Tablets at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T22:09:32.112353Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Husky 149-Piece Mechanics Tool Set for $89 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T22:09:32.112353Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "AMC 2 Movie Theater Yellow Tickets & $10 Code for $26 + email delivery",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T22:09:32.112353Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Up to 50% Off Viral Musely Rx Skincare | From $24/Month – No Office Visit Required!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T22:03:57.396697Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Select Accounts: Pre-Order: The Legend of Zelda: Ocarina of Time (Nintendo Switch 2) $49.88 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T22:03:57.396697Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "HART 12 Gallon 6 Peak HP Wet/Dry Vacuum, $49.98, FS, Walmart",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T22:03:57.396697Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[Resale] $399.36* | 512GB ASUS ROG Xbox Ally 7\" Ryzen Z2 A 1080p Gaming Device (Used - Like New) at Amazon",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-10T22:03:57.396697Z",
-  "code": "duplicate",
   "public": true
  }
 ]
