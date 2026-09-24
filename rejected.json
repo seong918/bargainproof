@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Bootsy Collins - Album of the Year #1 Funkateer $12.98",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T01:43:11.793194Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Open Box: GIGABYTE Gaming A16: 16\" FHD+ 165Hz IPS, i7-13620H, RTX 5060, 16GB RAM, 1TB SSD $943",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T01:43:11.793194Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Prime Members: M MAELREG Men's UPF 30+ Dry-Fit Performance Golf Polo Shirts (S-5XL, Various Colors/Prints) from $11.70 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+4) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-24T01:37:45.525177Z",
@@ -136846,21 +136862,5 @@
   "rejected_at": "2026-09-10T01:44:23.037907Z",
   "code": "low_score",
   "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – VENHIDELY 50KPa Cordless Stick Vacuum - $59.99 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T01:38:51.077180Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Krups Essential Brewer 8-Cup Drip Coffee Maker Machine for $69 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T01:38:51.077180Z",
-  "code": "no_signal",
-  "public": false
  }
 ]
