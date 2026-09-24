@@ -1,5 +1,77 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Dewalt 20V Max LED 1000-Lumen Pivoting Head Rechargeable Work Light $45.10",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T16:29:00.756117Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Leatherman Wingman 14-in-1 Multi-Tool $49.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T16:29:00.756117Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "AbuGarcia Max Toro DLC Fishing Reel Right Hand $79.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T16:29:00.756117Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Target Bedding Deals: Up to 50% off + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T16:29:00.756117Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Coach Men's Best Deals of the Season Deals at Macy's: Up to 40% off + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T16:29:00.756117Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Bissell PowerClean DualBrush Deluxe 280W Cordless Vacuum w/ Extra Battery for $200 + $4.99 shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T16:29:00.756117Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "FOUR Persil Laundry Detergent Bottles Only $35.81 Shipped on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T16:29:00.756117Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$14* | Bandai Hobby 30 Minute Missions #72 eEXM-40 IGLIGHT 02 30 MM 1/144 Model Kit at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-24T16:29:00.756117Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SOLOEVER Fingerless Compression Arthritis Gloves w/ Non-Slip Grip (XS-XXL, Black) $4.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-24T16:29:00.756117Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "IPARTS EXPERT Farmhouse Industrial Nightstand Side Table $27.99",
   "reason": "Not evaluated",
@@ -137660,94 +137732,6 @@
   "raw_title": "Golf Practice Hitting Net : Heavy Duty Metal Frame with 5-Layer Polyester Mesh & Target Cloth - Golf Net Indoor Outdoor Backyard Driving Range $125.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-10T16:30:05.488441Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon - Seago Kids Swim Goggles with Nose Cover Anti-Fog Swimming Mask Youth 5-15 - $4.99",
-  "reason": "Posted at $4.99, but Amazon showed $9.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-10T16:24:31.497964Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "The King of Fighters XIV Ultimate Edition $7.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T16:24:31.497964Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Low Rise Long & Lean Jeans $34.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T16:24:31.497964Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Coolife 28\" Hardshell Checked Luggage $83.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T16:24:31.497964Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Lifetime 6' Fold-In-Half Table $47.98",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T16:24:31.497964Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Burt's Bees 100% Natural Moisturizing Lip Balm 12-Count $9.96",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T16:24:31.497964Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Helly Hansen Alpha 4.0 Ski Jacket Waterproof Insulated RECCO $179.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T16:24:31.497964Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Lethal Weapon Collection Box Set Blu-ray for $13 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T16:24:31.497964Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "MADtv: Season 4 DVD Box Set for $18 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T16:24:31.497964Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Rechargeable Neck Reading Lights from $9.99 on Amazon (Reg. $20)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T16:24:31.497964Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "George Men's 100% Cotton Long Sleeve Relaxed Fit Crewneck T-Shirt (Various, Single or 3-Pack, Size XS-3XL) $4.40 or Less + Free S&H w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T16:24:31.497964Z",
   "code": "not_checked",
   "public": false
  }
