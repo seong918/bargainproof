@@ -1,5 +1,197 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Ryobi One+ 18V Cordless Multi-Tool + 5\" Random Orbit Sander Combo Kit for $69 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T08:57:56.966512Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Xbox Game Pass Premium (200+ more games all you can play) - 3 Month Membership [United States, Digital Code], $33, Newegg",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T08:57:56.966512Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Xbox 3 Month Game Pass Ultimate - US Registered Account Only (Email Delivery), $52.56, Newegg",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T08:57:56.966512Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Lavsoul 45dB Noise Reduction Ultra Soft Reusable Silicone Earplugs $14.99",
+  "reason": "Posted at $14.99, but Amazon showed $17.49 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-24T08:52:25.867642Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Avanti Pro Bi-Metal 13-Piece Reciprocating Saw Blade Set for $9 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T08:52:25.867642Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $15.82* | World War II Map by Map (DK History Map by Map) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T08:46:54.054856Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "URMYWO Magic Water Gel Squishy Toy Kit w/ 12 Gel Colors & 10 Molds $9.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T08:46:54.054856Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$10.49* | 5L Hydro Flask Kids Insulated Lunch Bag at Amazon",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T08:46:54.054856Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nobody wants to Die (PSDD) Playstation 5 PS5 $4.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T08:46:54.054856Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SOANNY 36000-Count 3mm Flatback Resin Rhinestone Bedazzling Kit (30 Colors) $7.82 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T08:41:22.815582Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC] $42.68* | The North Face 20L Isabella 3.0 Backpack w/ 16\" Laptop Sleeve at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T08:41:22.815582Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Omofull 4-in-1 19500Pa Rechargeable Portable Handheld Vacuum Cleaner with Multi-Nozzles $39.99",
+  "reason": "Posted at $39.99, but Amazon showed $79.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-24T08:41:22.815582Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS] $6.87* | 6-Count Amazon Basics A19 LED Light Bulbs, 100W Equivalent, 15W, E26 Standard Base, Daylight White 5000K, Non-Dimmable at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T08:35:50.113437Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Pyle 2.1-Ch. Wireless Stereo Power Amplifier for $53 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T08:35:50.113437Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Wow Sports 6K 60-Foot Tow Rope w/ Floating Foam Buoy for $23 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T08:35:50.113437Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Canyon Precede:ON Comfort 7, Anchor Grey, One Size $1583.91",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T08:30:18.140635Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Galanz GLR12TRDEFR Refrigerator, Dual Door Fridge, Adjustable Electrical Thermostat Control with Top Mount Freezer Compartment, Retro White, 12.0 Cu Ft $809.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T08:30:18.140635Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "1\" x 15-Foot Motorcycle Tie Down Straps 4-Pack for $28 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T08:30:18.140635Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Satisfy Your Crave Protein Bar 12-Piece Variety Pack for $14 w/ Sub & Save + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T08:30:18.140635Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nothing Headphone (1) Hybrid Active Noise Cancelling Headphones, Wireless Over-Ear Headphones with 6 Mics, 80Hrs Playtime, Black or White $219",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T08:24:46.433627Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Tempospark 3-in-1 39\"x29\" Large Macrame Decor Wall Hanging $17.99",
+  "reason": "Posted at $17.99, but Amazon showed $35.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-24T08:24:46.433627Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Amazon Basics A19 100W Equivalent E26 Daylight LED Light Bulbs 6-Pack for $6.87 via Sub. & Save + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T08:24:46.433627Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Emeril Lagasse Dual Zone Technology 25QT Air Fryer Oven $229.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T08:19:14.587567Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Muso American Hickory 5B Drumsticks 2-Pack for $7 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T08:19:14.587567Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "SereneLife 12,000 BTU Portable Air Conditioner | AC, Dehumidifier & Fan $329.9",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
@@ -137317,174 +137509,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-10T09:02:07.524757Z",
   "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Hefty Slider Jumbo Storage Bags (2.5-Gallon Size, 12-Count) $3.11",
-  "reason": "Posted at $3.11, but Amazon showed $4.79 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-10T08:56:38.067163Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Frigidaire 25.6-Cubic Foot Side-by-Side Refrigerator for $990 in cart + free delivery",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T08:56:38.067163Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Portlandia: The Complete Series HD Digital $40",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T08:56:38.067163Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "43\" LG PK640S Series UHD 4K HDR Commercial Signage TV $297 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T08:51:10.953218Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Ziluce 2-in-1 17.13\" Foldable Wooden Dog Ramp & Ottoman $49.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T08:45:33.281742Z",
-  "code": "lookup_failed",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Final Fantasy XV: Royal Edition (Xbox One/Series X|S Digital Download) $10.49 via Xbox/Microsoft Store",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T08:45:33.281742Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Mepase 16pc. Crayon Costume Adult Halloween Apron & Cone Hat Set for $27 w/ Prime + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T08:40:01.638491Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Key & Peele: The Complete Series HD digital $20",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T08:40:01.638491Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Pre-order (released on October 29, 2026) Nintendo Switch™ 2 –The Legend of Zelda™ – 40th Anniversary Edition $519.99",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-10T08:40:01.638491Z",
-  "code": "duplicate",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "ESR 3-in-1 15W MagSafe Wireless USB-C Charging Station $12.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T08:34:32.982499Z",
-  "code": "lookup_failed",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Wavlink 80Gbps M.2 NVMe SSD Enclosure (Compatible Thunderbolt 5 & USB4 V2) $96.19",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T08:34:32.982499Z",
-  "code": "lookup_failed",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Pre-order (October 1, 2026) LEGO Ideas Wallace & Gromit Building Set 21371 $99.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T08:34:32.982499Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[S&S, AC] $14.95: RXBAR Protein Bars, Vanilla Almond (12 Bars)",
-  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T08:28:55.911729Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Mrs. Meyer's Clean Day Liquid Hand Soap Refill (Geranium Scent, 33oz) $6.09",
-  "reason": "Posted at $6.09, but Amazon showed $0.21 when we checked — the post is stale",
-  "rejected_at": "2026-09-10T08:28:55.911729Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Sopayl 16-Piece Halloween Spice Group Costume Set for $40 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T08:28:55.911729Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "HP ZBook Laptop Deals at Woot for From $310 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T08:28:55.911729Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "National Tree Company 6-Foot Pre-Lit Flocked Acacia Tree for $35 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T08:23:20.923140Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Cowboy Costume for $20 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T08:23:20.923140Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "DLOODA Women's High-Waisted Straight-Leg Stretch Dress Pants w/ 4 Pockets (XS-XXL, Various Colors) $11.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T08:17:45.623427Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "WonShak Hooded Robe Adult Wizard & Monk Cosplay Costume for $10 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T08:17:45.623427Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Pudolla Men's Quick Dry Workout T-Shirt for $9 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T08:17:45.623427Z",
-  "code": "no_signal",
   "public": false
  }
 ]
