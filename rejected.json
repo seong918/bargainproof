@@ -1,5 +1,93 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$10.00* | 213-Pc LEGO Classic Creative Suitcase Building Kit at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T07:57:12.338689Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$22.99* | NVIDIA Shield TV Remote w/ Voice Search, Backlit Buttons & IR Blaster at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T07:57:12.338689Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Piece Avidlove Women's Mesh Shrug & Cami Set (Various) $5.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T07:57:12.338689Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Westcott 12\" Multi-Purpose Paper Trimmer (15804) $9.97 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T07:57:12.338689Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Acer Aspire Go AMD Ryzen 7730U 15.6\" Laptop for $500 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T07:57:12.338689Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Everybody loves Raymond complete series HD digital $50",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T07:51:41.680763Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "AsperX 45W 10,000mAh Portable Charger Power Bank, Retractable USB-C Cable $19.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T07:51:41.680763Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Bedsure 50\"x60\" Soft Warm & Lightweight Checkered Fleece Blanket $9.08",
+  "reason": "Posted at $9.08, but Amazon showed $13.97 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-24T07:51:41.680763Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Mike's Golf Outlet 48-Hour Deals on eBay Live for Deals from $1, from 2pm",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T07:51:41.680763Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Compustar 2-Way Remote Start System for $400 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T07:51:41.680763Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M18 18V Lithium-Ion Brushless Cordless Compact Drill/Impact Combo Kit (2-Tool) w/(3) 2.0Ah Batteries $229",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T07:51:41.680763Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Fanatics Sitewide Promo Code for Extra 25% off or 30% off over $50 + free shipping",
   "reason": "Not evaluated",
@@ -34250,14 +34338,6 @@
  {
   "source": "slickdeals",
   "raw_title": "Ridgid 18V Cordless 3-Tool Lighting Combo Kit with Magnetic Light, 360° Area Light, and Spotlight (Tools Only) $127",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-21T07:35:00.188477Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Milwaukee M18 18V Lithium-Ion Brushless Cordless Compact Drill/Impact Combo Kit (2-Tool) w/(3) 2.0Ah Batteries $229",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-21T07:35:00.188477Z",
   "code": "not_checked",
@@ -137348,54 +137428,6 @@
   "raw_title": "Serta PerfectSleeper King 3\" DuoCool Gel Memory Foam Mattress Topper for $70 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-10T08:06:36.209184Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "25\" x 35\" PPOLCA Cooling Waterproof Pet Blanket (Blue or Grey) $6.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T08:01:01.339308Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "blurams 4K Ultra Wireless Outdoor Security Camera w/ 5W Solar Panel, 12000mAh Battery & 24/7 Recording $74.99 + FS",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-10T08:01:01.339308Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Pre-order (Releases 11/5/26) The Legend of Zelda: Ocarina of Time - Nintendo Switch 2 $59.88",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T08:01:01.339308Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "28\" x 59\" PPOLCA Waterproof Cooling Memory Foam Dog Mat (Light Blue) $9.99 & More + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T07:49:55.528156Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Magic: the Gathering Teenage Mutant Ninja Turtles Universes Beyond 5 Tin Booster Collection for $40 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T07:49:55.528156Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "PRE-ORDER PlayStation 5 Digital Edition Console 825 GB - Marvel’s Wolverine Battle Yellow Limited Edition Bundle (Game Included) $649",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T07:49:55.528156Z",
   "code": "not_checked",
   "public": false
  }
