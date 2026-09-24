@@ -1,5 +1,21 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Vevor Bench Polisher & Buffing Machine for $38 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T01:53:36.475454Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Carter's Child of Mine Silicone Pacifier Clip (Grey) $1.23 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T01:53:36.475454Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Vofolen for iPhone 18/17 Pro Case Wallet with Card Holder - $1.99",
   "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
@@ -136813,46 +136829,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-10T01:55:23.640751Z",
   "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – 400-Card 4-Pocket Trading Card Binder - $8.99 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T01:49:54.509588Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "The Adventures of Sharkboy and Lavagirl(DVD) $6.49 + Free S&H w/ Prime or $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T01:49:54.509588Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – Arenarug 5' x 7' Washable French Toile Area Rug, Blue - $35.99 w/ Code",
-  "reason": "Community score too low (+4) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T01:49:54.509588Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "2-Pack XTREME STP LED Road Flares w/ Foldable Magnetic Base Stand & 3 Alert Modes (Visible Up to 1 Mile) $12.30 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T01:49:54.509588Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Signature Design by Ashley Yandel Electric Power Lift Recliner for $350 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T01:49:54.509588Z",
-  "code": "no_signal",
   "public": false
  }
 ]
