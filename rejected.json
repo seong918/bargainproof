@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Prime Members: SPORTSROYALS Free Standing Power Tower / Pull Up Bar $229 + Free S/H",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T02:46:35.963889Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Minecraft Advent Calendar Book Collection $12.33 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-24T02:46:35.963889Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS] $2.11 | 1-Oz Fluker's Freeze Dried River Shrimp at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T02:41:07.792359Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Hanes Men’s X-Temp Midweight Short Sleeve Polo Shirt (White, Sizes S-4X) $5.06 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T02:41:07.792359Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "15.7\" Wandering Nature Puffy Quilted Tote Bag w/ 15.6\" Laptop Compartment (Beige) $14 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T02:41:07.792359Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC] $0.80 | 15-Oz Chef BOYARDEE Overstuffed Beef Ravioli at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T02:41:07.792359Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$29.99 | 7\" & 9\" Adjustable Squatty Potty The Original Bamboo Toilet Flip Stool at Amazon",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-24T02:30:27.172280Z",
@@ -136596,30 +136644,6 @@
   "raw_title": "24-Pack Energizer MAX AAA Batteries $9.99 + Free Shipping w/ Prime or $6 Fee per Order",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-10T02:56:40.660850Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$4.99: GUND PAW Patrol Marshall 6-Inch Plush Toy, Stuffed Animal for Ages 1+ at Amazon",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-10T02:45:30.325970Z",
-  "code": "duplicate",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Boneless Skinless Chicken Breast or Thighs - Just $0.99/lb for Randall /Tom Thumb /Safeway /Albertsons loyalty members",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T02:39:55.629278Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Milwaukee SHOCKWAVE 14-Piece 3/8\" Drive Metric Deep Well 6-Point Impact Socket Set $49.97 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T02:39:55.629278Z",
   "code": "not_checked",
   "public": false
  }
