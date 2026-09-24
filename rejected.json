@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Vofolen for iPhone 18/17 Pro Case Wallet with Card Holder - $1.99",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T01:48:24.314047Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[NEW, Prime] $329 | WÜSTHOF Classic 6-Piece In Drawer Knife Set & More at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T01:48:24.314047Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Greenworks 80V 42\" CrossoverZ Zero Turn Lawn Mower $2975.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T01:48:24.314047Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Bootsy Collins - Album of the Year #1 Funkateer $12.98",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-24T01:43:11.793194Z",
@@ -136830,37 +136854,5 @@
   "rejected_at": "2026-09-10T01:49:54.509588Z",
   "code": "no_signal",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – CROSSFINGERS 133-Pc Pink & Green Baby Shower Balloon Kit - $4.99–$10.99 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T01:44:23.037907Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "103 pcs LEGO Gabby's Dollhouse Kitty Fairy's Garden House (11212) $9.99 + Free S&H w/ Prime or $35+",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T01:44:23.037907Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – seasky 15-Spike Manual Lawn Aerator - $14.99 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T01:44:23.037907Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Durex Pleasure Pack Assorted Thin Condoms, Exciting Mix of Sensation and Stimulation, Lubricated Natural Rubber Latex Condoms for Men, 42 Count $14.16",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-10T01:44:23.037907Z",
-  "code": "low_score",
-  "public": true
  }
 ]
