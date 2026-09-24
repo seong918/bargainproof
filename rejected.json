@@ -1,5 +1,37 @@
 [
  {
+  "source": "hip2save",
+  "raw_title": "Nostalgic Mr. Christmas Decor From $5.97 at Walmart",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T23:48:08.174793Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Steve McQueen The Hunter Special Edition $9.62 Blu Ray Amazon.com",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T23:42:37.168948Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ozark Trail 50°F Wearable Sleeping Bag for $40 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T23:42:37.168948Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "WALGREENS B&M: Earn $15 Wags Cash when you get your flu shot or other vaccines (with $5 mdse spend) Void in NY, NJ and AR",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T23:42:37.168948Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "12-Pack 13-Oz IAMS Proactive Health Wet Dog Food $15.72 w/ S&S + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+3) to pass without a price check — needs Subscribe & Save, Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
@@ -135902,21 +135934,5 @@
   "rejected_at": "2026-09-10T23:49:30.221244Z",
   "code": "duplicate",
   "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Charbroil Performance Series 4-Burner Gas Grill Cabinet w/ Side Burner for $247 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T23:43:55.643269Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "ENKI AMG-2 Gen 3 EXV Case for $325 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T23:38:21.588762Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
