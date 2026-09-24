@@ -1,5 +1,85 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Buffalo Jeans Weekend Flash Deals: 40% off everything + free shipping w/ $99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T10:20:43.870577Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Levi's Buy More, Save More Sale for Up to 60% off + extra $25 to $75 off over $100 + free shipping w/ $75",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T10:15:12.506538Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ring Outdoor Cam 2K for $50 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T10:15:12.506538Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "MSI Gaming Codex R2 Core i5-14400F RTX 5060 Desktop PC for $1,429 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T10:15:12.506538Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ring Spotlight Cam Plus for $80 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T10:15:12.506538Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ring Battery Doorbell 2K (2026) for $40 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T10:15:12.506538Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "McDonald's- $0.99 any size Premium Roast or Iced Coffee 1x daily (Rewards members)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T10:15:12.506538Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Woot Bargain Bin Under $5 Clearance Deals for from $2.51 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T10:09:38.683561Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Marvel Legends Series Hypno-Hustler 6\" Action Figure for $14 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T10:09:38.683561Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Nautica Clearance Sale: Up to 73% off + free shipping w/ $60",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T10:09:38.683561Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "HENCKELS 12\" x 8.5\" Reversible Cutting Board $11.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
@@ -137310,69 +137390,5 @@
   "rejected_at": "2026-09-10T10:28:39.630135Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Pirate's Booty 0.5oz Aged White Cheddar Cheese Puffs (24-Pack) $6.66",
-  "reason": "Posted at $6.66, but Amazon showed $8.87 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-10T10:18:09.780888Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Apple AirPods 5 Wireless Earbuds at Amazon for Preorders from $129 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T10:18:09.780888Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "THE KING OF FIGHTERS XV",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T10:12:53.285062Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "5-Piece Beetlejuice Men's Black & White Striped Suit Costume for $26 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T10:12:53.285062Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Apple Watch Series 12 Smartwatches at Amazon for Preorders from $449 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T10:12:53.285062Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ABCCANOPY 10FT Patio Umbrella w/ Push Button Tilt and Crank(Blue) $23.99 + Free S&H w/ Prime at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T10:12:53.285062Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Prime Members in Select Locations: 9-Oz Amazon Grocery Sliced Deli Meats (turkey & ham) $1",
-  "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T10:07:28.941765Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Workpro 42-in-1 3.7V Rechargeable Mini Electric Screwdriver Set $18.99",
-  "reason": "Posted at $18.99, but Amazon showed $30.39 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-10T10:07:28.941765Z",
-  "code": "price_mismatch",
-  "public": true
  }
 ]
