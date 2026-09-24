@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS, AC] $35.42* | 3 × 24-Pk 3.7-Oz Irish Spring Deodorant Soap Bars (Icy Blast) ($11.81 each) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs clip coupon, Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T04:56:14.220393Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Whirlpool Deep Water Wash High Efficiency Agitator Small ( 3.5-cu ft ) Top-Load Washer ( White ) $499",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T04:56:14.220393Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "DEWALT 20-Volt 3.375-in Portable Band Saw ( Battery Included and Charger Included ) in Yellow | DCS379P1 $279",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-24T04:50:54.163449Z",
@@ -137206,21 +137222,5 @@
   "rejected_at": "2026-09-10T04:57:40.948140Z",
   "code": "low_score",
   "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "QVC New Members: 20-Oz Ninja Nutri-Blender Plus (Silver) $49.97 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T04:52:05.590503Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Ono Hawaiian BBQ (Los Angeles/Orange County Area) Chicken Plate Lunch $5.99 + Free Pickup 09/10/2026 Only",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T04:52:05.590503Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
