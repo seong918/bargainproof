@@ -1,5 +1,357 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Fanatics Sitewide Promo Code for Extra 25% off or 30% off over $50 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T07:46:11.368801Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M18 FUEL 18-Volt Oscillating Multi-Tool with 5.0 Ah Battery Lithium-Ion Cordless Brushless $229",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T07:46:11.368801Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DeWalt DCF891QQ1 20V MAX XR 1/2 in. Impact Wrench with Hog Ring Anvil with 4 Ah Battery Lithium-Ion Cordless Brushless $219",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T07:46:11.368801Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon: Mead Composition Notebooks (3-Pack, Wide Ruled) $6.38 (Reg $20.89, ~69% Off) + FS w/ Prime",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T07:40:41.311980Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Joyfy Inflatable Animated Dinosaur Trunk or Treat Car Decor w/ Built-in LEDs for $28 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T07:40:41.311980Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M12 12V Lithium-Ion Brushless Cordless 2 in. Planer with M12 5.0 Ah Battery $204",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T07:40:41.311980Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M18 FUEL Gen-2 18V Lithium-Ion Brushless Cordless Mid Torque 1/2 in. Impact Wrench w/Friction Ring w/ Safety Glasses $199",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T07:40:41.311980Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M12 FUEL 12V Lithium-Ion Brushless Cordless 3 in. Random Orbital Detail Sander with M12 2.5 Ah Battery $164",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T07:40:41.311980Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "581-Pc LEGO Star Wars Luke's Red Five X-Wing Set w/ 5x Figures, 5x SMART Tags & 1x SMART Brick (75423) $71.95 + Free Shipping",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T07:35:16.020811Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Ammzo IP67 Ultra Fast Digital Meat Thermometer $4.99",
+  "reason": "Posted at $4.99, but Amazon showed $9.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-24T07:35:16.020811Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Daran 600W 288Wh LiFePO4 Solar Generator Power Station $129.99",
+  "reason": "Posted at $129.99, but Amazon showed $199.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-24T07:35:16.020811Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Lisen 0.3\" 5000mAh Qi2 15W Wireless MagSafe Power Bank $16.99",
+  "reason": "Posted at $16.99, but Amazon showed $22.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-24T07:35:16.020811Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Roseek 22L Travel Vacuum Bag 2-Pack for $60 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T07:35:16.020811Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M18 FUEL 18V Lithium-Ion Brushless Cordless HACKZALL Reciprocating Saw W/ M18 5.0 Ah Battery $179",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T07:35:16.020811Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Microsoft Windows 11 Pro Lifetime License (Digital Delivery) - $9.97 (94% Off)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T07:35:16.020811Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "1-Pack Ekouaer Women's Thermal Underwear Long Johns Base Layer Set (Black) $7.50, 3-Pack from $20 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T07:29:50.911890Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "4-Pack 12\" Cricut Infusible Ink Transfer Sheets (Steel Plate Pattern) $9.74 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T07:29:50.911890Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[NEW] $34.99 | Brother PT-M95 P-Touch Monochrome Label Maker Bundle (4 Label Tapes Included) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T07:29:50.911890Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "GTPlayer Ergonomic LED Racing Style Gaming Chair for $103 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T07:29:50.911890Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M18 FUEL PACKOUT 18-Volt Lithium-Ion Cordless 2.5 Gal. Wet/Dry Vacuum and M18 5.0 Ah Lithium-Ion XC Battery Pack $189",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T07:29:50.911890Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M12 12-Volt Lithium-Ion Cordless 10 oz. Adhesive and Caulk Gun w/M12 12V Lithium-Ion CP High Output 2.5 Ah Battery Pack $144",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T07:29:50.911890Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$27.99 | Performance Tool W38180 3/8 in. Drive Long Handle Ratchet at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T07:24:37.559569Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$28.99 | Warehouse 13: The Complete Series (DVD) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T07:24:37.559569Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[NEW] $60.57 | PetFusion Jumbo Cat Scratcher Lounge (99 x 28 x 36 cm, Cloud White) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T07:24:37.559569Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Maruchan Cheddar Cheese Flavor Instant Lunch Ramen Noodles (2.25oz, 12-Pack) $4.61",
+  "reason": "Posted at $4.61, but Amazon showed $5.76 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-24T07:24:37.559569Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Mulwark Ratcheting Screwdriver Bit Set & Socket Kit (77-Piece) $14.99",
+  "reason": "Posted at $14.99, but Amazon showed $24.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-24T07:24:37.559569Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Dreame G10 2-in-1 Combo Self-Cleaning Wet Dry Cordless Vacuum Cleaner $159.99",
+  "reason": "Posted at $159.99, but Amazon showed $239.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-24T07:24:37.559569Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Perlesmith Studless Fixed TV Wall Mount for 26-55\" TVs for $16 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T07:24:37.559569Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M12 FUEL 12V Lithium-Ion Brushless Cordless Hammer Drill/Impact Driver Combo Kit 2-Tool w/High Output 5.0Ah Battery $219",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T07:24:37.559569Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M18 FUEL ONE-KEY 18V Lithium-Ion Brushless Cordless 1/2 in. Impact Wrench with Friction Ring w/ 5.0 Ah Battery $354",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T07:24:37.559569Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LEGO DUPLO Disney Anna and Elsa's Frozen Castle Party Building Sensory Set (Batteries Included) (10455) $51.99 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T07:19:26.174293Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] 300-Count Amazon Basics Unscented Dog Poop Bags w/ Dispenser & Leash Clip (Black) $6.63 w/ S&S + Free Shipping",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T07:19:26.174293Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Fanatics Sitewide Promo Code for Extra 25% off or 30% off over $50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T07:19:26.174293Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Anker Solix C1000X Gen2 Portable Power Station for $500 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T07:19:26.174293Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M12 12-Volt Lithium-Ion Cordless Variable Speed Polisher/Sander w/M12 12V Lithium-Ion CP High Output 2.5 Ah Battery Pack $164",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T07:19:26.174293Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M12 FUEL 12V Lithium-Ion Brushless Cordless 3/8 in. Right Angle Impact Wrench with XC High Output 5.0 Ah Battery Pack $224",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T07:19:26.174293Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M18 FUEL GEN-2 18V Lithium-Ion Mid Torque Brushless Cordless 3/8 in. Impact w F Ring w/5.0 ah Resistant Battery $244",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T07:19:26.174293Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "FDJ 2-in-1 Transforming Remote Control Police Car w/ Flashing Light $10.14 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+3) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T07:14:12.509274Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "RIDGID 18V Cordless 3-Tool Lighting Combo Kit with Magnetic Light, 360° Area Light, and Spotlight (Tools Only) $127",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T07:14:12.509274Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee SHOCKWAVE 1/2 in. Drive Metric Deep Well 6 Point Impact Socket Set (14-Piece) $69.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T07:14:12.509274Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bostitch 18 -Gauge 7/32-in Narrow crown Finish Pneumatic Stapler one_size | SX1838K $99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T07:14:12.509274Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ONE+ 18V Cordless 2-Tool Combo Kit with Multi-Tool and 5 in. Random Orbit Sander (Tools Only) $69",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T07:14:12.509274Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M18 FUEL 18V Lithium-Ion Brushless Cordless 1/2 in. Impact Wrench with Friction Ring w/XC 5.0 Ah Battery $279",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T07:14:12.509274Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ONE+ HP 18V Brushless Cordless 8-1/4 in. Compact Portable Jobsite Table Saw (Tool Only) $234",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T07:14:12.509274Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$319.99* | 27\" MSI PRO MAX 271QPX14G 1440p QHD 144Hz QD-OLED Professional Monitor at Amazon",
   "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
@@ -26,14 +378,6 @@
  {
   "source": "slickdeals",
   "raw_title": "Milwaukee M12 FUEL 12V Lithium-Ion Brushless Cordless Stubby 1/2 in. Impact Wrench with M12 XC High Output 5.0 Ah Battery Pack $224",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-24T07:08:44.692818Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Milwaukee M18 FUEL PACKOUT 18-Volt Lithium-Ion Cordless 2.5 Gal. Wet/Dry Vacuum and M18 5.0 Ah Lithium-Ion XC Battery Pack $189",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-24T07:08:44.692818Z",
   "code": "not_checked",
@@ -33705,14 +34049,6 @@
  },
  {
   "source": "slickdeals",
-  "raw_title": "Milwaukee M18 FUEL ONE-KEY 18V Lithium-Ion Brushless Cordless 1/2 in. Impact Wrench with Friction Ring w/ 5.0 Ah Battery $354",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-21T08:08:14.746623Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
   "raw_title": "Amazon – Shabebe 1-Gallon Landscaping Rock Glue - $15.00 w/ Code",
   "reason": "Community score too low (+0) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-21T08:02:43.378794Z",
@@ -33921,14 +34257,6 @@
  },
  {
   "source": "slickdeals",
-  "raw_title": "Milwaukee SHOCKWAVE 1/2 in. Drive Metric Deep Well 6 Point Impact Socket Set (14-Piece) $69.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-21T07:35:00.188477Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
   "raw_title": "Milwaukee M18 18V Lithium-Ion Brushless Cordless Compact Drill/Impact Combo Kit (2-Tool) w/(3) 2.0Ah Batteries $229",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-21T07:35:00.188477Z",
@@ -33945,14 +34273,6 @@
  },
  {
   "source": "slickdeals",
-  "raw_title": "Milwaukee M18 FUEL Gen-2 18V Lithium-Ion Brushless Cordless Mid Torque 1/2 in. Impact Wrench w/Friction Ring w/ Safety Glasses $199",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-21T07:35:00.188477Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
   "raw_title": "Greenworks 40V (AC/DC) 2000-Lumen LED Work Light, 360° Head Rotation, Tripod Mountable, Portable, Indoor/Outdoor Light, Flood Light, Tool-Only $49.99",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-21T07:29:28.238021Z",
@@ -33961,23 +34281,7 @@
  },
  {
   "source": "slickdeals",
-  "raw_title": "Milwaukee M12 FUEL 12V Lithium-Ion Brushless Cordless Hammer Drill/Impact Driver Combo Kit 2-Tool w/High Output 5.0Ah Battery $219",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-21T07:29:28.238021Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
   "raw_title": "M12 FUEL 12-Volt Lithium-Ion Brushless Cordless HACKZALL Reciprocating Saw Kit with XC High Output 5.0 Ah Battery $199",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-21T07:23:56.020012Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Milwaukee M12 12V Lithium-Ion Brushless Cordless 2 in. Planer with M12 5.0 Ah Battery $204",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-21T07:23:56.020012Z",
   "code": "not_checked",
@@ -34001,22 +34305,6 @@
  },
  {
   "source": "slickdeals",
-  "raw_title": "Milwaukee M12 12-Volt Lithium-Ion Cordless Variable Speed Polisher/Sander w/M12 12V Lithium-Ion CP High Output 2.5 Ah Battery Pack $164",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-21T07:18:23.916829Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ONE+ 18V Cordless 2-Tool Combo Kit with Multi-Tool and 5 in. Random Orbit Sander (Tools Only) $69",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-21T07:18:23.916829Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
   "raw_title": "$460: Southwest Airlines $500 Gift Card (Email Delivery) at Newegg.com",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-21T07:18:23.916829Z",
@@ -34033,30 +34321,6 @@
  },
  {
   "source": "slickdeals",
-  "raw_title": "Milwaukee M18 FUEL 18V Lithium-Ion Brushless Cordless 1/2 in. Impact Wrench with Friction Ring w/XC 5.0 Ah Battery $279",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-21T07:18:23.916829Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ONE+ HP 18V Brushless Cordless 8-1/4 in. Compact Portable Jobsite Table Saw (Tool Only) $234",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-21T07:18:23.916829Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Milwaukee M18 FUEL GEN-2 18V Lithium-Ion Mid Torque Brushless Cordless 3/8 in. Impact w F Ring w/5.0 ah Resistant Battery $244",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-21T07:18:23.916829Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
   "raw_title": "[SnS, AC] $3.06 | 13.6-Oz Johnson's Baby Comfort Touch Newborn Baby Face & Body Lotion at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-21T07:12:52.560920Z",
@@ -34066,14 +34330,6 @@
  {
   "source": "slickdeals",
   "raw_title": "18V Cordless Inverter Kit with 2.0 Ah MAX Output Lithium Battery, 18V Lithium Charger, and 18V AC Inverter $79",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-21T07:12:52.560920Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Milwaukee M12 FUEL 12V Lithium-Ion Brushless Cordless 3/8 in. Right Angle Impact Wrench with XC High Output 5.0 Ah Battery Pack $224",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-21T07:12:52.560920Z",
   "code": "not_checked",
@@ -34169,14 +34425,6 @@
  },
  {
   "source": "slickdeals",
-  "raw_title": "Milwaukee M12 FUEL 12V Lithium-Ion Brushless Cordless 3 in. Random Orbital Detail Sander with M12 2.5 Ah Battery $164",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-21T07:07:20.039970Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
   "raw_title": "RIDGID 18V MAX Output Starter Kit with (2) 4.0 Ah Batteries and Charger $79 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-21T07:07:20.039970Z",
@@ -34186,14 +34434,6 @@
  {
   "source": "slickdeals",
   "raw_title": "Toshiba 75\" Class M450 QLED Series 4K UHD Smart Fire TV $489.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-21T07:07:20.039970Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Milwaukee M12 12-Volt Lithium-Ion Cordless 10 oz. Adhesive and Caulk Gun w/M12 12V Lithium-Ion CP High Output 2.5 Ah Battery Pack $144",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-21T07:07:20.039970Z",
   "code": "not_checked",
@@ -102073,14 +102313,6 @@
  },
  {
   "source": "slickdeals",
-  "raw_title": "Milwaukee M18 FUEL 18V Lithium-Ion Brushless Cordless HACKZALL Reciprocating Saw W/ M18 5.0 Ah Battery $179",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T07:10:56.275112Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
   "raw_title": "13-Piece Avanti Pro Bi-Metal Reciprocating Saw Blade Set $4 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-14T07:10:56.275112Z",
@@ -137166,181 +137398,5 @@
   "rejected_at": "2026-09-10T07:49:55.528156Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "12\" Luvkczc Retro Semi Flush Mount Ceiling Light Fixture $21.59 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T07:44:20.280627Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "4-Oz Navitas Organics Gelatinized Maca Powder $3.67 w/ S&S + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T07:44:20.280627Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Avidlove Women's Lingerie Fishnet Bodysuit (Various Colors) $5 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T07:44:20.280627Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Vevor 33-Gallon 2-Person Wooden Outdoor Storage Bench for $82 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T07:44:20.280627Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[S&S] Authentic Royal Basmati White Rice, 15 lbs (Pack of 2) $19.67",
-  "reason": "Community score too low (+-1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T07:38:50.621443Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$5.50 365 by Whole Foods Market, Organic All Purpose Flour, 80 Ounce with S&S",
-  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T07:38:50.621443Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Super7 Toho Super Kaiju Space Godzilla '94 Figure (Exclusive) for $23 + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T07:38:50.621443Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$5.30 S&S Amazon Grocery, Roasted Peanuts, Roasted & Salted, 44 Oz , part of buy 4 save another 10% Prime Offer",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T07:27:42.050840Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "McCormick 4.4oz Bac'n Pieces Applewood Smoked Bacon Flavored Bits (6-Pack) $6.63",
-  "reason": "Posted at $6.63, but Amazon showed $8.28 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-10T07:27:42.050840Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Premier Protein 9oz Chocolate Almond Protein Cereal $3.79",
-  "reason": "Posted at $3.79, but Amazon showed $3.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-10T07:27:42.050840Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Rubbermaid Brilliance 10-Piece Glass Food Storage Set for $28 + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T07:27:42.050840Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Milwaukee M18 18-Volt Lithium-Ion Brushless Bagless Cordless HEPA Handheld Vacuum with M18 2.0Ah Compact Battery $179",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T07:27:42.050840Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "3-Piece Tangkula Outdoor Conversation Set w/ Round Tempered Glass Table & 2 Rattan Armchairs (Yellow/Turquoise) $80.74 + Free Shipping",
-  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-10T07:22:07.000155Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "adidas 28-oz. Stadium Water Bottle for $7 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T07:22:07.000155Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Fanflix: 7 Scorsese Digital Films $18",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T07:22:07.000155Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Fanflix:2 Complete WB Series for $27",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T07:22:07.000155Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Philips WiFi Keypad Deadbolt (Matte Black) $57.99 + Free Shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T07:22:07.000155Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Mfish E-Tank 7-in-1 240W Max GaN USB-C Charging Station $83.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T07:16:35.350892Z",
-  "code": "lookup_failed",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "acer 5 in 1 Out HDMI Switch 4K@60Hz HDMI 2.0 with Remote for PS5 Xbox TV $19.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T07:11:02.741480Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Jackery Explorer 1000 v2 with 2 pcs 200W Solar Panel 1500 -Watts Portable Power Station (2 Solar Panels Included) (Battery Included and Charger Not $989",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T07:11:02.741480Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$90: Lowe's $100 Gift Card (Email Delivery) at Newegg, Limit 1 per customer.",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T07:11:02.741480Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$99* | DeWALT 20V MAX XR Brushless Oscillating Tool Kit w/ 1.5Ah Battery at Amazon",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-10T07:11:02.741480Z",
-  "code": "duplicate",
-  "public": true
  }
 ]
