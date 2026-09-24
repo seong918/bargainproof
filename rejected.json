@@ -1,6 +1,86 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon – No-Wrap Upper Arm Blood Pressure Monitors for Home Use - $129.59 w/ Code",
+  "reason": "Community score too low (+0) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T03:13:23.374423Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$10.74 S&S CLIP Q DenTek Floss Picks, Advanced Clean, Plaque Remover, 900 Count, (6 x 150)",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T03:13:23.374423Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – 12 in 1 Halloween Projector Outdoor - 3D Dynamic Halloween Decorations - $18.62 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T03:13:23.374423Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[S&S] 12-Pk 12Oz Gatorade Lower Sugar Sports Drink (Fruit Punch) $4.52 + Free S&H w/ Prime or $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T03:13:23.374423Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Pixel Panda Winter Waterproof Thermal Gloves for Men Women, 3M Thinsulate - $8.99 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T03:13:23.374423Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $27.53* | The Silmarillion: Illustrated by J.R.R. Tolkien (Hardcover Book) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T03:13:23.374423Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$10.99* | The Sandman: The Complete First Season (Blu-ray) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T03:13:23.374423Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $5.25* | 23.1-Oz Seventh Generation EasyDose Laundry Detergent (Clean Scent) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T03:13:23.374423Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $12.67* | 24-Pc Bluey: The Most Amazing Advent Calendar Book Bundle at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T03:13:23.374423Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon - 17\" x 10.8ft Decorative Garden Fence $17",
+  "reason": "Posted at $17.00, but Amazon showed $24.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-24T03:13:23.374423Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon – Plug-In Air Ionize,Quiet Work Negative Ion Air Purifier - $19.99 w/ Code",
   "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-24T03:08:10.040426Z",
@@ -136796,22 +136876,6 @@
   "raw_title": "11\" LAMTTO RC35 720p Wireless CarPlay / Android Auto Display w/ Apps $95 + Free S/H",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-10T03:23:35.841067Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Soldier Blue [Blu-ray] Kino Lorber Studio Classics $12.49 Amazon.com",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-10T03:18:21.301955Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Refurbished Good: Logitech C922 Pro Stream Full HD 1080p USB Webcam, Black $46.03",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T03:18:21.301955Z",
   "code": "not_checked",
   "public": false
  }
