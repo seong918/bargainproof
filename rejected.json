@@ -1,5 +1,29 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Avengers 6 Panel Telescopic Umbrella w/ Auto Open Button for $7.50 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T11:53:41.547519Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "UNmax 20 lb Runfast Pro Weighted Vest w/ Shoulder Pads $19.99 + Free S&H w/ Prime at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T11:53:41.547519Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$9.99: ProsourceFit Exercise Weighted Training Vest - 12lb, black at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T11:48:26.048008Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "HW 1.5V 3500mAh Non-Rechargeable AA Lithium Batteries (12-Pack) $9.95",
   "reason": "Posted at $9.95, but Amazon showed $19.91 when we checked — the deal is probably over",
@@ -137486,37 +137510,5 @@
   "rejected_at": "2026-09-10T11:53:45.878349Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Bosch OSL212CG 2-1/2 in. Starlock Oscillating Multi Tool Carbide Grit Segmented Blade $23.65",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-10T11:48:11.234670Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Stainless Steel Downspout Gutter Guard for $20 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T11:48:11.234670Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Frigidaire 6.5 Cu. ft. Garage Ready Upright Freezer for $218 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T11:48:11.234670Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS, AC] $14.83* | 2-Pk 9-Oz Jack Link's Beef Jerky (Peppered) at Amazon",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-10T11:48:11.234670Z",
-  "code": "duplicate",
-  "public": true
  }
 ]
