@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$62.97* | Nintendo Joy-Con (L/R) Controllers for Switch / Switch OLED Consoles at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T23:15:29.344746Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ozark Trail Men's Cowboy Hat for $6 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T23:15:29.344746Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Disney Girls Tutu Dresses Only $13.98 on SamsClub.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T23:15:29.344746Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$14.99 | 10-Piece Tasty Kitchen Knife Set w/ Block (White) at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T23:15:29.344746Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$17.99 | Koopool Telescoping Magnetic Pickup Tool Set w/ Mirror & LED Flashlight at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T23:15:29.344746Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "YMMV - WD Ultrastar DC HC560 20TB 6Gb/s SATA 3.5 Inch Hard Drive Refurb $163.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T23:15:29.344746Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Watchmen Chapter II (4KUHD + Digital $14.99 Amazon.com",
   "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-24T23:10:00.379144Z",
@@ -135813,22 +135861,6 @@
   "reason": "Same deal was already posted from another source",
   "rejected_at": "2026-09-10T23:16:28.227008Z",
   "code": "duplicate",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Makita XWT08T 18V LXT Lithium-Ion Brushless Cordless Kit w/Friction Ring Anvil (5.0Ah) +free Makita DMP180ZX 18V LXT Lithium-Ion Cordless Inflator $595.3",
-  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-10T23:10:51.565256Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Makita XWT18T 18V LXT Lithium-Ion Brushless Cordless Kit w/Detent Anvil (5.0Ah) +free Makita DMP180ZX 18V LXT Lithium-Ion Cordless Inflator $414.99",
-  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-10T23:10:51.565256Z",
-  "code": "low_score",
   "public": true
  }
 ]
