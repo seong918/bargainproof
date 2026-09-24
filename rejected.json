@@ -1,6 +1,166 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Women’s Swimsuit Cover Up $7.79 - Free for Prime members or orders $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T00:53:41.962031Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $11.54 | Murdoku: 80 Murder Mystery Logic Puzzles (Paperback) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T00:53:41.962031Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $5.79 | How to Catch a Mermaids (Hardcover – Picture Book) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T00:53:41.962031Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "PrettyCare Cordless Stick Vacuum Cleaner, 38KPA 50mins 2600mAh 6-in-1 Lightweight Upright for Carpet Hard Floor Pet Hair W200 Upgraded $64.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T00:53:41.962031Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2.4GHz Wireless Gaming Bluetooth Over Ear Headphones with ENC Noise Cancelling Mic,7.1 Stereo Surround Sound, 40mm Drivers, RGB Light, 45H Battery Gaming Headphone $34.17",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T00:53:41.962031Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Wurkkos HD02 Mini Flashlight Rechargeable, Pocket LED Light $40",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T00:53:41.962031Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] 3-Pack 10' Kyehd USB-C to USB-C 60W Braided Cables (Grey White) $3.99 + Free Shipping",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-24T00:53:41.962031Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$299.99* | Hisense 55\" Class E6SR Series Hi-QLED 4K UHD Smart Roku TV (55E6SR, 2026 Model) at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-24T00:53:41.962031Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $15.20 | Welcome to the Symphony: A Musical Exploration of the Orchestra Using Beethoven's Symphony No. 5 at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T00:48:09.827418Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Olympia Tools Power Grip 14\" Bolt Cutter for $25 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T00:48:09.827418Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Olympia Tools Cast Iron 3\" C-Clamps 3-Pack for $10 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T00:48:09.827418Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DSG Men's Woven Anorak Top: Pure White Track Texture $13.97, University Navy $17.97 $13.97 + Free Shipping on $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T00:48:09.827418Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Prime Members: Bircen Men's Polarized Acetate Sunglasses (Various Colors) $11 + Free Shipping $10",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T00:42:36.532071Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $85.48* | Amazon Basics 8-Person Spacious Camping Tent with Rainfly, Orange/Grey at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T00:42:36.532071Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "297-Piece LEGO Star Wars AT-RT Attack $35.99 + Free Shipping",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T00:42:36.532071Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Pinkalicious 12-Book Phonics Fun! I Can Read Early Reader Collection $7.10 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T00:42:36.532071Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Hat Hanger 2-Pack Only $4.99 on Amazon | Works for Bras, Scarves, Belts, & More!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T00:42:36.532071Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "288-Piece LEGO Creator: 3 in 1 - Pink Flamingo $19.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T00:37:03.876458Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$849* | 32\" ASUS ROG Swift 4K QD-OLED 240Hz 0.03ms G-Sync Monitor at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T00:37:03.876458Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "626-Piece LEGO Creator 3-in-1 Wild Animals Panda Family Building Set (31165) $31.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T00:37:03.876458Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "8-Piece Astercook High Carbon Stainless Steel Steak Knives w/ Full Tang Handle (Elegant Cream White) $13.93 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-24T00:31:31.713464Z",
@@ -136654,53 +136814,5 @@
   "rejected_at": "2026-09-10T00:55:03.375975Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "(2 Pack) Vitamin D3 K2 Supplement 10000 IU + K2 MK7 200mcg with Coconut Oil $13.38",
-  "reason": "Posted at $13.38, but Amazon showed $38.24 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-10T00:49:29.576669Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "MAC Energy by Conor McGregor Macberry Lychee Sugar Free Energy Drink $7.49",
-  "reason": "Posted at $7.49, but Amazon showed $29.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-10T00:49:29.576669Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "KTC H32C5 31.5\" 1080p HDR LCD Curved Gaming Monitor for $180 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T00:43:55.550925Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Select Accts: 2-Pack Maidenform Women's Modern Demi Wireless T-Shirt Bra (2 color combos) $17.50 ($8.75 each) & More + Free Shipping on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T00:43:55.550925Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Open-Box Motorola 24x8 DOCSIS 3.0 Cable Modem for $27 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T00:38:21.524851Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Bosch OSL114CG 1-1/4 in. Starlock Oscillating Multi Tool Carbide Grit Plung $13.11",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-10T00:38:21.524851Z",
-  "code": "duplicate",
-  "public": true
  }
 ]
