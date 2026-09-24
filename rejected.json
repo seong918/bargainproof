@@ -1,6 +1,78 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$29.99 | 7\" & 9\" Adjustable Squatty Potty The Original Bamboo Toilet Flip Stool at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T02:30:27.172280Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Hyper Pet Real Skinz Raccoon Plush Dog Toy $8.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T02:25:14.417543Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "7' ProFISHiency Drip Baitcast Combo Fishing Rod (Blue or Green) $99.97 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T02:25:14.417543Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Nollh Gifts for 8 9 10 11 12 Year Old Girl - $9.99 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T02:19:47.172344Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Kids Tie Dye Garden Clogs for Boys Girls - $9.99–$13.99 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T02:19:47.172344Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Count JQinHome Stretch Dining Chair Slipcovers (Various Colors/Prints) from $4.99 ($2.50 each) + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T02:19:47.172344Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Laptop Screen Extender - $128.79 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T02:14:32.855853Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "20\" Coralov Flush Mount Ceiling Fan w/ Light, Remote Control & 6 Speeds (Black) $29.49 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T02:14:32.855853Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Xroam Rubber Grip Tape for Handles 1\" x 16.4Ft Non-Abrasive Anti Slip Tape $4.49 AC",
+  "reason": "Posted at $4.49, but Amazon showed $7.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-24T02:14:32.855853Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[Prime] Renoj 5-Pack Latex-Free TPE Pilates Resistance Bands Set (various) $5.99 + Free Shipping",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-24T02:09:19.428818Z",
@@ -136550,157 +136622,5 @@
   "rejected_at": "2026-09-10T02:39:55.629278Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "75-Sq-Ft Reynolds Cut-Rite Wax Paper Roll w/ Built-In Cutter $1.73 w/ S&S + Free Shipping w/ Prime or on $35+",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-10T02:34:21.457305Z",
-  "code": "duplicate",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "The Thomas Crown Affair (Special Edition) [Blu-ray] $12.49 + Free S&H w/ Prime or $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T02:28:46.997755Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "3-Oz Maruchan Instant Ramen Noodles - Just 7 cents each for Randall /Tom Thumb /Safeway /Albertsons loyalty members $0.07",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T02:28:46.997755Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – Women's Faux Leather Slide Sandals - $15.19 w/ Code",
-  "reason": "Community score too low (+2) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T02:23:10.651467Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – POPPAW Dog Calming & Melatonin Drops Set - $6.82 w/ Code + Coupon",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T02:23:10.651467Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – POPPAW Dog Dental Powder w/ 6B CFU Probiotics - $9.10 w/ Code + Coupon",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T02:17:38.485400Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – ATNPTN Smart In-Car HUD GPS Speedometer, White - $7.99 w/ Code",
-  "reason": "Community score too low (+2) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T02:17:38.485400Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – iMATCHME 2-Pack Magnesium Taurate Liquid Drops - $9.89 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T02:17:38.485400Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – Lukaree Wormwood Black Walnut Clove Cleanse Tincture - $10.39 w/ Code + Coupon",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T02:17:38.485400Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "TALIX X7 Bluetooth 6.0 Open-Ear Clip-On Wireless Earbuds w/ Digital Display (Black or White) $15.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T02:17:38.485400Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "PUTORSEN Heavy Duty 275lbs Capacity Slim Fixed TV Wall Mount for 37\"-140\" TVs (1200x800 VESA) $23.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T02:17:38.485400Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Signature Design by Ashley Yandel Faux Leather Electric Power Lift Recliner Brown $349.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T02:17:38.485400Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Nike Dunk Low Retro $96.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T02:17:38.485400Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – Genmitsu Kintix 5W Class 1 Enclosed Laser Engraver - $287.99 w/ Code",
-  "reason": "Community score too low (+2) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T02:12:05.638186Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – MERONTE MR5866 HEPA Air Purifier, Ivory - $49.99 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T02:12:05.638186Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – LovinPet Large Dog Pajamas, Black Sheep Print - $18.14 w/ Code",
-  "reason": "Community score too low (+2) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T02:12:05.638186Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – G Gradual Men's Dry-Fit Striped Golf Polo - $13.99 w/ Code",
-  "reason": "Community score too low (+0) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T02:12:05.638186Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – G Gradual Men's Athletic Sweatpants w/ Pockets - $16.79 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T02:12:05.638186Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "8-Node Beleduc Shiatsu Back & Neck Massager Pillow w/ Heat $26.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T02:12:05.638186Z",
-  "code": "low_score",
-  "public": true
  }
 ]
