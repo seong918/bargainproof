@@ -1,5 +1,13 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Plano SE Series Single Scoped 48\" Rifle Hard Case for $25 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T22:20:24.405027Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "17\"x10\" Lawn Leveling Rake w/ 6' Metal Handle $14.27 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
@@ -136046,13 +136054,5 @@
   "rejected_at": "2026-09-10T22:20:41.264839Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "3\" Royale High Light Mermaid Fashion Doll w/ 9 Accessories $3.36 + Free Shipping w/ Prime or on orders over $35",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T22:15:06.596928Z",
-  "code": "low_score",
-  "public": true
  }
 ]
