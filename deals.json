@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "8f4e3efa63ca",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20057529-sns-ac-1-84-6-ct-0-8-oz-gushers-tropical-fruit-flavored-snacks-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "6-ct 0.8-oz Gushers Tropical Fruit Flavored Snacks",
+  "raw_title": "[SnS, AC] $1.84* | 6-ct 0.8-oz Gushers Tropical Fruit Flavored Snacks at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 184,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-24T17:18:31.462963Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "8667f1cc1e08",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20057202-12-49-super-mario-galaxy-rosalina-s-storybook-hardcover-book-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
