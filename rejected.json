@@ -1,6 +1,110 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Prime: Kesguar Q5S Portable Neck Fan 6000mAh Rechargeable 20H Runtime $13.99 + Free Shipping",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T12:04:08.376369Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Ipynbap 19\"x19\"x3\" Waterproof Patio Chair Cushions (4-Set) $22.99",
+  "reason": "Posted at $22.99, but Amazon showed $45.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-24T12:04:08.376369Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "WIHOLL Long Sleeve V Neck Tops $6.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T12:04:08.376369Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "WIHOLL 2 Piece Lounge Sets $13.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T12:04:08.376369Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Sampeel Wide Leg Sweatpants $11.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T12:04:08.376369Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Off The Shoulder Fleece Sweatshirt $11.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T12:04:08.376369Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ekouaer 2 Piece Long Silk Pajama Sets $11.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T12:04:08.376369Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Rust-Oleum Marine Topside Boat Paint 32-Oz (Semi-Gloss Black) $16.19",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T12:04:08.376369Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Sonix x Sanrio Decorative Cover Case for Apple Watch (My Melody) $7.08",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T12:04:08.376369Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "TCL TAB A1 Plus Android Tablet 12.2\" 2.4K 120Hz 6+128GB $189.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T12:04:08.376369Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Holland America 7-Night Eastern Caribbean Cruise for From $998 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T12:04:08.376369Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Vibrelli Hydration Pack & 2L Hydration Water Bladder $12.99 + Free S&H w/ Prime at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T12:04:08.376369Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Starfield (Xbox Series S/X Play Anywhere) Xbox/Microsoft Store - Premium $41.99 Standard $29.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T12:04:08.376369Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$50 | 3-Oz Gucci Guilty For Women Eau De Parfum Spray at Amazon",
   "reason": "Community score too low (+-3) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-24T11:58:55.034618Z",
@@ -23676,14 +23780,6 @@
   "raw_title": "HYVOHEX Optimus T8 Tire Inflator Portable Air Compressor for Heavy-duty Vehicle $62 + $11.62 shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-22T12:34:08.381721Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Ekouaer 2 Piece Long Silk Pajama Sets $11.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-22T12:28:36.886979Z",
   "code": "not_checked",
   "public": false
  },
@@ -137396,54 +137492,6 @@
   "raw_title": "Master Forge 48000 -BTU Stainless steel Stainless steel Floorstanding Liquid propane Patio Heater one_size | FHTS80001D $59.15",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-10T12:04:55.923711Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$12.24 S&S / Q Pure Leaf Iced Tea, Raspberry, Real Brewed Tea, 18.5 Fl Oz Bottles (Pack of 12)",
-  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T11:59:19.235410Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "2-Week Vietnam & Cambodia Trip with Airfare & Tours $4,149.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T11:59:19.235410Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "6\" Reat 440C Steel Fixed Blade Neck Knife w/ Sheath (Orange) $4.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T11:59:19.235410Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "TP-Link 5 Port Gigabit PoE Switch 4 PoE+ Port @65W $40.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T11:59:19.235410Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Fanta Pineapple Soda Pop 12 fl. oz. 12-Pack for $6 + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T11:59:19.235410Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "DEWALT 7 in. 3-Speed Indoor/Outdoor Air Mover, 600 CFM $71.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T11:59:19.235410Z",
   "code": "not_checked",
   "public": false
  }
