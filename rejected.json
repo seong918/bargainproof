@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "HENCKELS 12\" x 8.5\" Reversible Cutting Board $11.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T10:04:09.818919Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Holland America 10-Night Western Caribbean Cruise for From $1,598 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T10:04:09.818919Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "SAMA Z60 White ATX Mid Tower PC Case for $50 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T09:58:38.374536Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$99.99 | Victrola M1 Monitors – Powered Bookshelf Monitor Speakers (Black) at Amazon",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-24T09:53:07.899000Z",
@@ -137350,29 +137374,5 @@
   "rejected_at": "2026-09-10T10:07:28.941765Z",
   "code": "price_mismatch",
   "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "3-Piece BEDELITE Queen Boho Tufted Comforter Set (Agua) $19.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T10:02:11.978134Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Biodance Vita Niacinamide Gel Toner Pads 60-Count for $14 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T10:02:11.978134Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Seabourn 8-Night Malaysia & Thailand Cruise for From $7,648 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T10:02:11.978134Z",
-  "code": "not_checked",
-  "public": false
  }
 ]

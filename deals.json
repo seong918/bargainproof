@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "777042c4a3e0",
+  "source": "techbargains",
+  "source_url": "https://www.amazon.com/gp/product/B0DSQZX9JZ/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
+  "title": "The North Face 27L Vault Everyday Laptop Backpack",
+  "raw_title": "The North Face 27L Vault Everyday Laptop Backpack $36.38",
+  "merchant": "amazon",
+  "buy_url": "https://www.amazon.com/gp/product/B0DSQZX9JZ/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
+  "deal_total_cents": 3638,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 7000,
+  "amazon_coupon_cents": 3362,
+  "amazon_effective_cents": 3638,
+  "amazon_url": "https://www.amazon.com/dp/B0DSQZX9JZ",
+  "amazon_checked_at": "2026-09-24T10:04:13.867360Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": null,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0DSQZX9JZ",
+  "image_url": null,
+  "published_at": "2026-09-24T10:04:09.818919Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "3bfaf42b8904",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20056485-5-97-clorox-toilet-bowl-brush-plunger-combo-set-w-storage-caddy-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
