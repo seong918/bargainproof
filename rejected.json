@@ -1,5 +1,53 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$99.99 | Victrola M1 Monitors – Powered Bookshelf Monitor Speakers (Black) at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T09:53:07.899000Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[NEW] $5.49 | Dog Man 5\" Scale Cat Kid Action Figure with Claw Accessory, 6 Points of Articulation at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T09:53:07.899000Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Ayura 100'x1/2\" Metal Shaft Retractable Garden Hose Reel $63.99",
+  "reason": "Posted at $63.99, but Amazon showed $79.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-24T09:53:07.899000Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Tommax USB-C Rechargeable Waterproof 5-Modes Bike Tail Light (2-Pack) $6.59",
+  "reason": "Posted at $6.59, but Amazon showed $13.19 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-24T09:53:07.899000Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Perlegear Ultra Slim 132lbs Capacity Full Motion TV Wall Mount for 42-90\" TVs $39.08",
+  "reason": "Posted at $39.08, but Amazon showed $69.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-24T09:53:07.899000Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "54\" Shine Company Maine Wood Porch Swing w/ Chains (Black) $89.99 + Free Shipping w/ Prime or $6 Fee per Order",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T09:47:36.126018Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Wfiia Vacuum Seal Bags (12-Pack, 3-Size) with 60KPa USB-C Pump $12.49",
   "reason": "Posted at $12.49, but Amazon showed $24.99 when we checked — the deal is probably over",
@@ -28541,14 +28589,6 @@
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-21T17:27:14.039797Z",
   "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Ayura 100'x1/2\" Metal Shaft Retractable Garden Hose Reel $63.99",
-  "reason": "Posted at $63.99, but Amazon showed $79.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-21T17:27:14.039797Z",
-  "code": "price_mismatch",
   "public": true
  },
  {
@@ -137333,70 +137373,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-10T10:02:11.978134Z",
   "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$79.99: Ninja Blender for Smoothies & Shakes, 1000W, 72oz Pitcher, Black (NJ601AMZ)",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-10T09:51:40.211910Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Verbatim 1TB Pocket Portable SSD for $140 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T09:51:40.211910Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Disney Store Oh Boy Sale: Up to 50% off + extra 25% off + free shipping w/ $85",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T09:51:40.211910Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Dragon Quest Monsters: The Dark Prince (Nintendo Switch) $25 + Free Shipping w/ Circle Card or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T09:51:40.211910Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Warping Point Aether Pickleball Paddle w/ 10mm MaxCell Core & Composite Face $49.99 + Free Shipping",
-  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-10T09:46:16.120838Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Vancasso SIMI 28oz Bohemian Ceramic Soup Bowls (6-Pack) $21.82",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T09:46:16.120838Z",
-  "code": "lookup_failed",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Apple Watch Ultra 4 GPS + Cellular 49mm Smartwatch at Amazon for Preorders from $799 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T09:46:16.120838Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Motorola Moto Tag 2 Bluetooth Tracker for $20 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T09:46:16.120838Z",
-  "code": "no_signal",
   "public": false
  }
 ]
