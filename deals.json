@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "36507af50021",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20056191-amazon-30-off-baby-pink-glass-bud-vases-12-pack-only-19-99-reg-28-99?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
+  "title": "Amazon: 30% OFF Baby Pink Glass Bud Vases – 12-Pack",
+  "raw_title": "Amazon: 30% OFF Baby Pink Glass Bud Vases – 12-Pack Only $19.99 (Reg. $28.99)",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0FPCH869H",
+  "deal_total_cents": 1999,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "qty"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 1999,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1999,
+  "amazon_url": "https://www.amazon.com/dp/B0FPCH869H",
+  "amazon_checked_at": "2026-09-24T07:08:48.555723Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 0,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0FPCH869H",
+  "image_url": null,
+  "published_at": "2026-09-24T07:08:44.692818Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "463342c9f1f8",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20056086-jousen-casual-dress-shoes-for-men-29-99-from-september-23-to-september-30?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",

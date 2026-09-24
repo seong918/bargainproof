@@ -1,6 +1,286 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$319.99* | 27\" MSI PRO MAX 271QPX14G 1440p QHD 144Hz QD-OLED Professional Monitor at Amazon",
+  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T07:08:44.692818Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "EGO POWER + POWERLOAD with LINE IQ 56-volt 16-in Telescopic Shaft Battery String Trimmer 4.0 Ah (Battery & Charger Included) | ST1623T $249",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T07:08:44.692818Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ONE+ HP 18V Brushless Cordless 10 in. Sliding Compound Miter Saw (Tool Only) $239",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T07:08:44.692818Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M12 FUEL 12V Lithium-Ion Brushless Cordless Stubby 1/2 in. Impact Wrench with M12 XC High Output 5.0 Ah Battery Pack $224",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T07:08:44.692818Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M18 FUEL PACKOUT 18-Volt Lithium-Ion Cordless 2.5 Gal. Wet/Dry Vacuum and M18 5.0 Ah Lithium-Ion XC Battery Pack $189",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T07:08:44.692818Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M12 FUEL 12V Lithium-Ion Brushless Cordless Stubby 3/8 in. Impact Wrench with M12 XC High Output 5.0 Ah Battery Pack $224",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T07:08:44.692818Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "RIDGID 18V MAX Output Starter Kit with (2) 4.0 Ah Batteries and Charger $79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T07:08:44.692818Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M18 18V Lith-Ion Cordless Compact Blower w/ 2.0 Ah Battery $119",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T07:08:44.692818Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "MIilwaukee M18 18V Lith-Ion Cordless Compact Blower w/ 2.0 Ah Battery $119",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-24T07:08:44.692818Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ryobi ONE+ 18V Cordless Oscillating Multi-Tool (Tool Only) with 4-Piece Wood Oscillating Multi-Tool Blade Set $59",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T07:03:13.503727Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Klein Tools 33-Piece 1/2-in, 3/8-in, 1/4-in Drive Set Hex Bit Driver Socket Set | 65500KNECT $99.98 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T07:03:13.503727Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Klein Tools KNECT Complete Impact Pass Through and Flip Socket Set, 39-Piece one_size | 65500KNECT $99.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T07:03:13.503727Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$296.84 | CITIZEN Men's Eco-Drive Luke Skywalker 44mm Stainless Steel CA0768-07W at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T06:57:40.660859Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HyperX OMEN: 15.3\" FHD+ IPS 165Hz, Ryzen 7 8745HX, RTX 5060, 16GB DDR5, 1TB SSD $1199",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T06:57:40.660859Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "12\"x15\" VEVOR 5-in-1 Heat Press Machine w/ 360° Swing Away Arm & 30-Oz Tumbler Press (Pink) $124.99 + Free Shipping w/ Prime or $6 Fee per Order",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T06:57:40.660859Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "iVANKY 4K@144Hz 8-in-1 Steam Deck Docking Station (ASUS ROG Ally X/Valve Steam Deck OLED/Legion Go 2/S) $20 + Free Shipping",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T06:52:07.316130Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Playstation Store] Prince of Persia™ - New Era Bundle (PS4/PS5 Digital Download) for $16.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T06:52:07.316130Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Hello Kitty Island Adventure Gift Box (Nintendo Switch) $30 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T06:46:34.347940Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "FREEOAK Women's Lightweight Open Front Long Sleeve Cardigan Sweater w/ Pockets (Various) $7.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T06:35:30.317739Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[ACTIVE] Secret promo code for 15% off women’s clothing $30",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T06:35:30.317739Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Greenworks Set of 2 4V Screwdriver with 26-Piece Accessory Kit $39.98 or $24.98 If New Customer + Free S/H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T06:35:30.317739Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "92-Pc LEGO Friends Heartlake City Ice Cream Truck Toy (42644) $15.39 + Free Shipping w/ Circle Card or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T06:35:30.317739Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Pack KOOPER Hummingbird Hanging Solar Lantern Lights $12.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T06:30:01.497661Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Mooka B-D02L HEPA H13 13W Large Room Air Purifier (Up to 1076sq ft) $40.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T06:30:01.497661Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] 3-Piece Bedsure Floral Queen Comforter Set (White) $19.79 + Free Shipping",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T06:24:28.536356Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] Hello Kitty & Friends Cross-Stitch Embroidery Kit w/ 4 Patterns $5.76 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T06:24:28.536356Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$29.99* | Niagara Sleep Solutions Cloud-Like Queen Mattress Topper at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T06:24:28.536356Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Thermalright Peerless Assassin 120 SE CPU Air Cooler $31.04 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T06:24:28.536356Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ring Outdoor Cam 2K (newest model), Plug-In, Home or business security, Wide-Angle Retinal 2K Video, 6x Enhanced Zoom, Night Vision, 4-Pack, White $199.96",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T06:24:28.536356Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Blink Wired Floodlight Camera, Smart security camera, 2600 lumens, HD live view, enhanced motion detection, built-in siren, Works with Alexa, 1 camera (White) $29.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T06:18:54.955070Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ring Spotlight Cam Plus, Battery, Home or Business Security with HD video, Two-Way Talk, Color Night Vision, and Security Siren, White $79.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T06:18:54.955070Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ring Floodlight Cam Wired Plus, Outdoor Home or Business Security with Motion-Activated 1080p HD Video and Floodlights, White $89.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T06:18:54.955070Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ring Outdoor Cam (Stick Up Cam), Weather-Resistant Home or Business HD Security Camera, Live View, Color Night Vision, Two-Way Talk, Motion Alerts, Works with Alexa, White $39.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T06:18:54.955070Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ring Pan-Tilt Indoor Cam (newest model) — See all around your home or business with 360° pan coverage, HD video, plus Two-Way Talk (2024 release), White $29.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T06:18:54.955070Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ring Indoor Cam, Home or business security in 1080p HD video, 2-pack, White $49.98",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T06:18:54.955070Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[Prime] $18.68* | The Complete Tales of Winnie-The-Pooh by A. A. Milne (Hardcover) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-24T06:07:50.833043Z",
@@ -33785,14 +34065,6 @@
  },
  {
   "source": "slickdeals",
-  "raw_title": "ONE+ HP 18V Brushless Cordless 10 in. Sliding Compound Miter Saw (Tool Only) $239",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-21T07:12:52.560920Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
   "raw_title": "18V Cordless Inverter Kit with 2.0 Ah MAX Output Lithium Battery, 18V Lithium Charger, and 18V AC Inverter $79",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-21T07:12:52.560920Z",
@@ -33865,14 +34137,6 @@
  },
  {
   "source": "slickdeals",
-  "raw_title": "Milwaukee M12 FUEL 12V Lithium-Ion Brushless Cordless Stubby 1/2 in. Impact Wrench with M12 XC High Output 5.0 Ah Battery Pack $224",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-21T07:12:52.560920Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
   "raw_title": "$22.99* | Motovera 100' Self Leveling Green Cross Line Rotary Laser Level at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-21T07:07:20.039970Z",
@@ -33890,14 +34154,6 @@
  {
   "source": "slickdeals",
   "raw_title": "Fanflix: 10-Universal Studios 90s Action Digital Movies $15",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-21T07:07:20.039970Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Milwaukee M12 FUEL 12V Lithium-Ion Brushless Cordless Stubby 3/8 in. Impact Wrench with M12 XC High Output 5.0 Ah Battery Pack $224",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-21T07:07:20.039970Z",
   "code": "not_checked",
@@ -33937,23 +34193,7 @@
  },
  {
   "source": "slickdeals",
-  "raw_title": "Ryobi ONE+ 18V Cordless Oscillating Multi-Tool (Tool Only) with 4-Piece Wood Oscillating Multi-Tool Blade Set $59",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-21T07:07:20.039970Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
   "raw_title": "Milwaukee M12 12-Volt Lithium-Ion Cordless 10 oz. Adhesive and Caulk Gun w/M12 12V Lithium-Ion CP High Output 2.5 Ah Battery Pack $144",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-21T07:07:20.039970Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Milwaukee M18 18V Lith-Ion Cordless Compact Blower w/ 2.0 Ah Battery $119",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-21T07:07:20.039970Z",
   "code": "not_checked",
@@ -33966,14 +34206,6 @@
   "rejected_at": "2026-09-21T07:07:20.039970Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "RIDGID 18V MAX Output Starter Kit with (2) 4.0 Ah Batteries and Charger $79",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-21T07:07:20.039970Z",
-  "code": "duplicate",
-  "public": true
  },
  {
   "source": "slickdeals",
@@ -37786,14 +38018,6 @@
  {
   "source": "slickdeals",
   "raw_title": "TARGET CIRCLE (YMMV) Earn $15 in Rewards wys $75 by October 3 (Tracks)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-20T07:16:32.920826Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Milwaukee M18 FUEL PACKOUT 18-Volt Lithium-Ion Cordless 2.5 Gal. Wet/Dry Vacuum and M18 5.0 Ah Lithium-Ion XC Battery Pack $189",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-20T07:16:32.920826Z",
   "code": "not_checked",
@@ -137117,118 +137341,6 @@
   "reason": "Same deal was already posted from another source",
   "rejected_at": "2026-09-10T07:11:02.741480Z",
   "code": "duplicate",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Grimm: The Complete Series (2011) (Digital HD TV Show) $14.99 via AppleTV",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T07:05:29.035344Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "EGO POWER+ 56-volt Cordless Battery String Trimmer and Leaf Blower and Combo Kit 2.5 Ah (Battery Included) (Charger Included) | ST6151LB $289",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T07:05:29.035344Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "EGO POWER+ 56-volt 765-CFM 200-MPH Battery Handheld Leaf Blower 5.0 Ah Battery Included Charger Included one_size in Green | LB7654 $289",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T07:05:29.035344Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Shop-Vac 16-Gallon 6.5-HP Corded Wet/Dry Shop Vacuum with Accessories $79.98 + Free S&H at Lowe's",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T07:05:29.035344Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "5QT Pre-Seasoned Cast Iron Dutch Oven $28.04 + Free Shipping w/ Prime or over $35+",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T06:59:55.594281Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[Prime] 2-Pack KOOPER Metal Solar Hanging Lanterns for Outdoor Garden & Patio $11.87 + Free Shipping",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T06:59:55.594281Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Monster Cute SK100 Kids Bluetooth Headphones 60 Hours Playtime $16.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T06:59:55.594281Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "LILIO 60000mAh 22.5W Fast Charging Portable Charger w/ 3-in-1 Cable $24.99 + Free Shipping w/ Prime or $6 Fee per Order",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T06:48:46.314811Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$19.97* | 32\" DUMOS Compact Writing/Computer Desk (Rustic/Wood Brown) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-10T06:32:03.394057Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Zeagoo Women's Ribbed V-Neck Long Sleeve Slim-Fit Top (XS-XXL, Various Colors) $5.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T06:26:29.639210Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Ello Kids Colby 12oz Insulated Stainless Water Bottle with Straw, Blue $14.23",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-10T06:20:59.813475Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "41oz Fenger Stainless Steel Lunch Box with Removable Divider and Silicone Holder (Various Colors) $15.99 + Free Shipping w/Prime or $35+",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T06:20:59.813475Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "G Gradual Men's UPF 50+ Dry Fit Sleeveless Tank Top (various) $8.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T06:15:24.580731Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[Prime] YANIKY UPF 50+ Quick-Dry Cooling Running Hat (White or Coral Pink) $6.49 + Free Shipping",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T06:15:24.580731Z",
-  "code": "low_score",
   "public": true
  }
 ]
