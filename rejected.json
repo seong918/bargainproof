@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$9.99 | The Shift (Blu-ray + DVD) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T01:21:08.479629Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS] $12.34 | 5-Pack 95-Sheets Scotch-Brite Everyday Clean Lint Roller at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T01:21:08.479629Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "KOKVP GF110 1200 Yards Golf Rangefinder with Slope, 7X Magnification with Flag Lock Vibration, Magnetic Mount, USB-C Rechargeable, IP54 Water Resistant $28.19",
+  "reason": "Posted at $28.19, but Amazon showed $46.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-24T01:21:08.479629Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[SnS, AC] $21.99 | 60-Count Qunol Brain Health Memory Plus w/Magtein, Cognizin & Vitamin B6 at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-24T01:15:36.940113Z",
@@ -136764,30 +136788,6 @@
   "raw_title": "TJJFMM 230' Drip Irrigation System $19.99 + Free Shipping w/ Prime or $6 Fee per Order",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-10T01:22:32.906028Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Jack Link's Original Beef Jerky 20-Count Multipack for $12 via Sub & Save + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T01:16:59.426163Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Beautiful 4Qt Slow Cooker with Touch-Activated Display, Rose by Drew Barrymore $20",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T01:16:59.426163Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "SHOCKWAVE 1/2 in. Drive Metric Deep Well 6 Point Impact Socket Set (14-Piece) $69.97 at Home Depot FS",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T01:16:59.426163Z",
   "code": "not_checked",
   "public": false
  }
