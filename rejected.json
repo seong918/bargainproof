@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$50.97 | SAFAVIEH Lighting Collection Nilla Modern Contemporary Navy / Clear 27-inch Table Lamp Set of 2 (LED Bulbs Included) at Amazon",
+  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T09:14:28.766893Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$6.99* | GE 6-Outlet 440-Joule Surge Protector Wall Tap (White) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T09:14:28.766893Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Refurb Blink Outdoor 4 2-Cam System for $30 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T09:14:28.766893Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Klein Tools MODbox Folding Work Bench, $99.98, Lowe's",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T09:14:28.766893Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "2-Count Gaiatop Ultra-Slim Piggy Rechargeable Hand Warmers $8.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+3) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-24T09:09:00.092420Z",
@@ -137500,54 +137532,6 @@
   "raw_title": "$25 Starbucks egift card, $23, + 4x fuel points, Kroger Gift Cards",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-10T09:18:44.011899Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Starbucks K-Cup Coffee Pods, Espresso Roast, 10 Count $9.99",
-  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
-  "rejected_at": "2026-09-10T09:13:13.863051Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "2 pcs. SNICKERS Ghoulish Green Fun Size Chocolate Halloween Candy Bars, 9.69 oz Bag $8.83",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-10T09:13:13.863051Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "DeWalt XR Cordless Brushless 20V Oscillating Multi-Tool Kit for $99 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T09:13:13.863051Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Apple Watch Ultra 4 at Best Buy for Preorders from $799 + up to $325 off w/ trade-in + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T09:13:13.863051Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$63.99 or lower, Xbox 12 Month Game Pass Essential - US Registered Account Only (Email Delivery), Newegg",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T09:13:13.863051Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Mills by Millie Bobby Brown Women's Cut and Sew Skort (Burgundy, Dark Navy, Sizes XXS-XXL) from 5.90 + Free S&H w/ Walmart+ or on $35+ $5.9",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T09:13:13.863051Z",
   "code": "not_checked",
   "public": false
  }
