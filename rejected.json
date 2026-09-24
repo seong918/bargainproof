@@ -1,6 +1,102 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "SereneLife 12,000 BTU Portable Air Conditioner | AC, Dehumidifier & Fan $329.9",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T08:13:44.432603Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Samsung Galaxy Watch Ultra (2024) 47mm LTE AI Smartwatch $399.95",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T08:13:44.432603Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] HATOKU Magnetic Stylus Pen for Apple iPad (2018-2026) $8.49 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T08:13:44.432603Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Belifu 4-in-1 36-Mode 20-Intensity 3.8\" Display TENS EMS Unit Muscle Stimulator $23.99",
+  "reason": "Posted at $23.99, but Amazon showed $53.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-24T08:13:44.432603Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Vigrue 3-in-1 140A 110V Flux Core/Stick/Lift MIG Welding Machine with Welding Mask & Gloves $69.99",
+  "reason": "Posted at $69.99, but Amazon showed $99.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-24T08:13:44.432603Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "The North Face Borealis Tote Bag for $40 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T08:13:44.432603Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Lenovo ThinkPad L16 Core Ultra 7 255U 16\" Laptop for $1,499 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T08:13:44.432603Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Household & Personal Care Essentials at Amazon for $10 off $40 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T08:13:44.432603Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "VIPOutlet: Bose QuietComfort Wireless Headphones (Open Box,) - $114 + Free Shipping [Low Stock]",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T08:13:44.432603Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$12.49* | Batman vs. Teenage Mutant Ninja Turtles (4K Ultra HD + Blu-ray) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T08:08:13.159190Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $14.99 | 14.5-Oz Yankee Candle Scented 3-Wick Candle at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T08:08:13.159190Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DreamFair F10 1080P Native 4K-Support Smart Projector $99.39 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T08:08:13.159190Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$10.00* | 213-Pc LEGO Classic Creative Suitcase Building Kit at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-24T07:57:12.338689Z",
@@ -137389,46 +137485,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-10T08:17:45.623427Z",
   "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$40.99* | TP-Link 5 Port Gigabit PoE Switch | 4 PoE+ Port @65W (TL-SG105PE) + 10% Back w/ Prime Visa Card at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T08:12:11.919835Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Task: The Complete First Season $19.55 Amazon.com",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-10T08:12:11.919835Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "EcoGreen 10,000mAh Solar Flood Light Power Bank 2-Pack for 2 for $30 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T08:12:11.919835Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Journey to the Center of the Earth (1977) Blu Ray $12.49 Amazon.com",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-10T08:06:36.209184Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Serta PerfectSleeper King 3\" DuoCool Gel Memory Foam Mattress Topper for $70 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T08:06:36.209184Z",
-  "code": "not_checked",
   "public": false
  }
 ]
