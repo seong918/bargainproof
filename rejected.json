@@ -1,6 +1,246 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Coostar Mens Slip On Walking Shoes Cushioning Running Tennis Sneakers White $29.69",
+  "reason": "Posted at $29.69, but Amazon showed $53.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-24T14:12:26.788539Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon - Cordless Elbow Heating Pad with Heat & Massage for Tennis Elbow Relief - $27.19",
+  "reason": "Posted at $27.19, but Amazon showed $49.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-24T14:12:26.788539Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Greenworks 40V 8\" Cordless Battery Pole Saw and Hedge Trimmer Attachment 2.0 Ah $135.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T14:12:26.788539Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "REI Co-op Women's Flash Hyperstretch Fleece Jacket $49.83",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T14:12:26.788539Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Wolverine Men’s Work Hiker Waterproof Boots or Moc-Toe Work Boots $65.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T14:12:26.788539Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Dog Hip and Joint Supplement with Probiotics and Glucosamine 200-Count Bag for $9 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T14:12:26.788539Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Moisturizing Cotton Gloves 5-Pair Pack for $4.95 via Sub. & Save + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T14:12:26.788539Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Upcoming: Denny's Coffee: Free w/ $10 order",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T14:12:26.788539Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "EXTRA 30% Off Under Armour Promo Code | Popular Styles Start at $11.88",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T14:12:26.788539Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men Campus 00s Shoes $26.4 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T14:12:26.788539Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Qutool Double Sided Shredded Memory Foam Cooling Pillow (2-Set) $32.45",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T14:06:58.581521Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Ublue 25ft Auto-Feed 21V Cordless Electric Drain Auger $54.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T14:06:58.581521Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Cuisinart 12-Cup Classic Programmable Coffeemaker $39.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T14:06:58.581521Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Round Trip Atlanta to San Juan Puerto Rico or Vice Versa Nonstop Airfares on Delta Air Lines BE $197.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T14:06:58.581521Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "3-Pack Men's Texas Meshback Caps Vol. 2 $11.50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T14:06:58.581521Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Electric Ear Wax Removal Kit w/ Ear Irrigation System for $34 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T14:06:58.581521Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Honvinor Skull Candle Warmer Lamp for $30 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T14:06:58.581521Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bluey 4-Wheel Toddler Balance Bike $29.97 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T14:06:58.581521Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "740 Piece LEGO Speed Champions Jaguar Project 7 & Land Rover Defender Building Toy 77264 $59.97 + $11.70 Walmart Cash",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T14:06:58.581521Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men X_PLR Path Shoes (2 colors) $23.4 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T14:06:58.581521Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Martin Scorsese's World Cinema Project No. 3 Criterion Collection (Blu-ray + DVD) $68.99 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T14:01:24.732386Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Fleece Cargo Sweatpants Baggy High Waisted $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T14:01:24.732386Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Fleece Cardigan Open Front Hooded Coat $14.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T14:01:24.732386Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Puffer Vest Zip Up Sleeveless Lightweight $14.51",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T14:01:24.732386Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Oceania 15-Night Panama Canal Cruise for From $12,494 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T14:01:24.732386Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Scotts Turf Builder Grass Seed Sun & Shade Mix 5.6-lb. Bag for $21 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T14:01:24.732386Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Comfort Spaces Coolmax Moisture Wicking Cooling 4-Piece Queen Sheet Set for $10 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T14:01:24.732386Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Kernel Season’s Movie Night Popcorn Pack Just $9.98 Shipped on Amazon (Reg. $20)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T14:01:24.732386Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Wrangler Workwear Men's Sweater Fleece Mock Neck Hoodie (Rubber, Sizes: S-3XL) $10.43 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T14:01:24.732386Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "27-Piece My Life As Kitchen Island Baking Play Set for 18\" Dolls $4 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T14:01:24.732386Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[S&S] Hawaiian Tropic Sheer Touch Lotion, SPF 30, 2oz (Pack of 12) $10.53",
   "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-24T13:55:57.825260Z",
@@ -137540,222 +137780,6 @@
   "raw_title": "30-Oz Stanley Stainless Steel Insulated Water Bottle (3 Colors) $22.50 + Free Shipping w/ Target 360, Circle Card, or on $35+",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-10T14:16:30.363358Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Huggies Baby Wipes 704-Count Box Just $12.69 Shipped on Amazon",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T14:10:57.143942Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Manuka Health UMF 20+ (MGO 850+) Raw Manuka Honey 8.8 oz $39.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T14:10:57.143942Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "40-Oz Stanley Stainless Steel H2.0 FlowState Water Bottle (Blue Starry Stripes) $25 + Free Shipping on $35+ or w/ Circle Membership",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T14:10:57.143942Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "VTOMAN VL7 6000A LiFePO4 Portable Jump Starter for All Gas and 10L Diesel $50 AC + Free Shipping",
-  "reason": "Posted at $50.00, but Amazon showed $99.98 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-10T14:05:22.976380Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "No Boundaries Woven Sleep Dress $5.06",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T14:05:22.976380Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Hanes Essentials Men's Short Sleeve T-Shirt $1.79",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T14:05:22.976380Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Sanmadrola 100% Waterproof Sofa Cover Non Slip Couch Cover Machine Washable Slipcover Leakproof Furniture Protector for Dogs Kids Pets, Dark Gray, Sofa $22.92",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T14:05:22.976380Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "ACEGOSES 10-ft Push-button Tilt Market Patio Umbrella $44.45",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T14:05:22.976380Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Shark FlexBreeze HydroGo Portable Misting Fan $79.98",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T14:05:22.976380Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "UGG Kids' Tasman Mule $69.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T14:05:22.976380Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Hardaddy Halloween Collection Sale for From $5.99 + shipping varies",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T14:05:22.976380Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "22-Night Australia & New Zealand Flight, Hotel, Tour, and Cruise Vacation for From $16,998 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T14:05:22.976380Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Macy's Semi-Annual Suit Sale: 50% to 70% off + free shipping w/ $39",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T14:05:22.976380Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "13-in-1 Stainless Steel Multi-Tool for $6 + free shipping w/ $25",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T14:05:22.976380Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$6.99 | Hallmark Mini Nightmare Before Christmas Ornaments (Jack) Tiny Set of 6 at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T14:05:22.976380Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$14.99 | Medium 105 in. Rectangle Patio Table with Chairs Cover at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T14:05:22.976380Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$19.99 | Nestl 72\" BBQ Grill Cover with Front Zipper Pocket at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T14:05:22.976380Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$16.99 | Monsoon 125\" Patio Table with Chairs Cover at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T14:05:22.976380Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$9.99 | HAMITOR Toilet Bowl Brush Holder Set at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T14:05:22.976380Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Alienware 18 Area-51 Intel Core Ultra 9 290HX Plus 18\" Gaming Laptop w/ NVIDIA RTX 5090, 32GB RAM $4849.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T14:05:22.976380Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Amazon Fire TV Stick 4K Streaming with Alexa Voice Remote (2nd-gen) $16.09",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T14:05:22.976380Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$14.99* | Sci-Fi: Triple Feature: Soylent Green, Logan's Run, Omega Man (Blu-ray) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
-  "rejected_at": "2026-09-10T13:59:46.990577Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Optimum Nutrition Gold Standard Whey Protein Powder, Vanilla Ice Cream, 5LB $96.28",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T13:59:46.990577Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Galvanized 20-Piece Corrugated Metal Roof Panels w/ Screws for From $118 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T13:59:46.990577Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Macy's Men's Flash Shoe Deals: 50% to 70% off + free shipping w/ $39",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T13:59:46.990577Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Rockland Young Electric 62\" Roof Bracket for $100 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T13:59:46.990577Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Rotating 5-Tier Tall Bookshelf with Acrylic $51",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T13:59:46.990577Z",
   "code": "not_checked",
   "public": false
  }
