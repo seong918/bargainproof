@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[NEW] $50 | 3.3-Oz Hermès Terre D'Herm Eau Intense Vetiver Eau De Parfum for Men at Amazon",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T11:04:46.271861Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[NEW] $3.71 | Medi-First First Aid Antibiotic 0.5 Gram Individual Packet Ointment 400 IU - 5 mg - 5,000 IU/Gram Strength, 25 Ct at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T11:04:46.271861Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Mfish E-Tank 7-in-1 240W Max GaN USB-C Charging Station $68.17",
+  "reason": "Posted at $68.17, but Amazon showed $113.61 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-24T11:04:46.271861Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Holland America 4-Night Pacific Coastal Cruise for From $598 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T11:04:46.271861Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Shark DuoClean Odor Neutralizing Anti-Allergen Multi Surface Vertex Upright Vacuum Cleaner $299.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T11:04:46.271861Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$2.82 S&S AMAZON Skinnygirl Sugar Free Kosher Preserves, Blackberry, 10 Ounce",
   "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-24T10:59:18.032251Z",

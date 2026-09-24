@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "e2b79349ae82",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20056545-sns-12-15-32-pack-0-6-oz-blue-diamond-almonds-lightly-salted-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "32-Pack 0.6-Oz Blue Diamond Almonds (Lightly Salted)",
+  "raw_title": "[SnS] $12.15 | 32-Pack 0.6-Oz Blue Diamond Almonds (Lightly Salted) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1215,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-24T11:04:46.271861Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "3baaba119c27",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20056152-16-74-3-4-oz-lattafa-yara-candy-eau-de-parfum-long-lasting-fragrance-for-women-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
