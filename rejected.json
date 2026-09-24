@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "1.69-Oz medicube PDRN Pink Hyaluronic Moisturizing Cream $12.35 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T04:40:02.075127Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LEGO Creator 3-in-1: 542-Piece Beautiful Dolphins $14.99 In-Store Only, YMMV",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T04:40:02.075127Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "eufy Robot Vacuum Omni C28 w/ Self Cleaning Roller Mop $450 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T04:34:35.045093Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "QUI Presentation Clicker with Volume Control, Wireless Presenter Remote $12.79",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-24T04:29:08.610201Z",
@@ -137172,14 +137196,6 @@
   "raw_title": "500w Car Power Inverter DC 12V to AC 110V Car Plug Inverter with 4 USB Charging Ports and 2 AC Outlets Car Charger $30.15 + Free Shipping w/Prime or $35+",
   "reason": "Community score too low (+-2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-10T04:41:01.682648Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Animal Stak Natural Testosterone Hormone Booster Supplement | 21 Pill Packs - $27.96 w/S&S",
-  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T04:29:52.107052Z",
   "code": "low_score",
   "public": true
  }
