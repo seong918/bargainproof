@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[Prime] $18.68* | The Complete Tales of Winnie-The-Pooh by A. A. Milne (Hardcover) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T06:07:50.833043Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "MPATIBY 4-in-1 240W USB-C Fast Charging Cable w/ E-Mark Chip $7.64 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T06:02:18.568532Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GIGABYTE GAMING A16 PRO: 16\" QHD+ 165Hz IPS, RTX 5070 Ti, Intel Core 7 240H, 32GB LPDDR5X, 1TB SSD $1499",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T06:02:18.568532Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] Astercook 6-Piece Silicone Spatula Set (Macaron Pastel) $6.99 + Free Shipping",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T05:56:46.177456Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SAMA L70 240mm AIO Liquid CPU Cooler w/ Infinity Mirror ARGB Pump & Dual 120mm PWM Fans (White) $29.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T05:56:46.177456Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Minthouz 125W 5-in-1 4K 60hz USB Hub Splitter $14.99",
+  "reason": "Posted at $14.99, but Amazon showed $20.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-24T05:51:14.770585Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DRAGON QUEST VII Reimagined (Nintendo Switch 2) $45 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T05:45:42.535962Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "4.2-Oz Neutrogena Oil-Free Acne Face Scrub With 2% Salicylic Acid $3 at Walgreens w/ Free Store Pickup on $10+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T05:45:42.535962Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Brushless 16 Inch Cordless Chainsaw, $97.99 with coupon and code",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-24T05:34:38.128208Z",
@@ -137166,93 +137230,5 @@
   "rejected_at": "2026-09-10T06:15:24.580731Z",
   "code": "low_score",
   "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Sylvania SRCD243 Portable CD Player Boombox w/ AM/FM Radio (Green) $12.99 + Free Shipping w/ Prime or $6 Fee per Order",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T06:09:52.610617Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "GasOne PZW-12A Pizza Ovens Wood Pellet 12” Pizza Oven $54.99 + Free S&H w/ Prime at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T06:04:24.133740Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "3 Pcs Cuisinart CGS-333 Professional Grill Tool Set $12.99 + Free S&H w/ Prime at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T06:04:24.133740Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "4-Pack hand2mind Express Your Feelings Emotions Sensory Bottles $11.05 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T05:58:49.274906Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "20\" Fanbulous Outdoor Caged Ceiling Fan w/ Dimmable 3CCT LED Light, Remote & App Control $79.41 + Free Shipping",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-10T05:53:14.285525Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "50\"x60\" Bedsure GentleSoft Reversible Sherpa Fleece Throw Blanket (Grey) $10.79 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T05:53:14.285525Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "10'6\" x 33\" FunWater Inflatable Stand-Up Paddle Board w/ Paddle, Pump, Backpack & Accessories (Select Colors) $79.99 & More + Free Shipping",
-  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-10T05:53:14.285525Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Simple Deluxe 10ft Offset Umbrella with Crank & Cross Base(Red) $39.99 + Free S&H w/ Prime at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T05:53:14.285525Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$8.99: Classic Accessories Water-Resistant 37 Inch Built-In BBQ Grill Top Cover at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T05:47:39.882747Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS, AC] $2.72* | 50-Ct Reynolds Kitchens 9\" x 9\" Unbleached Parchment Air Fryer Liners at Amazon",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-10T05:47:39.882747Z",
-  "code": "duplicate",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$69.99: Yukon Glory Universal Portable Grill Table/Flat Top Grill Griddles Stand with Built in Caddy at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T05:42:03.304724Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
