@@ -1,6 +1,14 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "DEWALT 20-Volt 3.375-in Portable Band Saw ( Battery Included and Charger Included ) in Yellow | DCS379P1 $279",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T04:50:54.163449Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[Prime] $15.99 | Shomextol Freestanding Metal Garden Hose Holder w/ 100' Capacity & 4 Ground Spikes at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-24T04:45:29.770606Z",
@@ -137214,13 +137222,5 @@
   "rejected_at": "2026-09-10T04:52:05.590503Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[S&S] Brawny Tear-A-Square 3-Ply Paper Towels, 6 Double Rolls = 12 Regular Rolls (3 Packs of 2) $10.05",
-  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T04:46:36.583649Z",
-  "code": "low_score",
-  "public": true
  }
 ]
