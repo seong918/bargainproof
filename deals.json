@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "00020a9c29da",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20056878-ritz-original-crackers-snacks-for-kids-and-adults-party-size-27-4-oz-4-78-after-coupon-s-s-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "RITZ Original Crackers, Snacks for Kids and Adults, Party Size, 27.4 oz~ & S&S",
+  "raw_title": "RITZ Original Crackers, Snacks for Kids and Adults, Party Size, 27.4 oz~$4.78 After Coupon & S&S @ Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 478,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-24T16:12:28.812420Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "c01be9bd2039",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20057427-8-98-klein-tools-6-in-1-multi-bit-screwdriver-stubby-nut-driver-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
