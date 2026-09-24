@@ -1,6 +1,86 @@
 [
  {
   "source": "techbargains",
+  "raw_title": "Zebco 30\" Dock Demon Spinning Reel Fishing Rod Combo $12.38",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T15:34:15.956908Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Lovelab 48kHz Ultrasonic Dental & Jewelry Cleaner $14.99",
+  "reason": "Posted at $14.99, but Amazon showed $34.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-24T15:34:15.956908Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "CURLSMITH Weightless Air Dry Cream for Hair 8-Oz $12.82",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T15:34:15.956908Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "26 Inch Fall Maple Leaf Wreath $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T15:34:15.956908Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "8Bitdo Pro 2 Bluetooth Controller for Switch (Hall Effect Joystick, Black Edition) $37.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T15:34:15.956908Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Tarden CSA Certified Propane Torch Gun for $52 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T15:34:15.956908Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Woot T-Shirt: Free w/ $40 purchase + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T15:34:15.956908Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Cute Disney Clothes UNDER $5 on Walmart.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T15:34:15.956908Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$1519.99 | Skytech Shadow 5 Gaming PC: Intel Ultra 7 270K Plus, RTX 5070, 32GB DDR5 RAM, 1TB NVMe SSD at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T15:34:15.956908Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Indiana Jones and the Great Circle Premium Edition (PC/Steam) - $42 at Fanatical",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T15:34:15.956908Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
   "raw_title": "Adidas Finger Adjustable Strap Crossbody Bag $17.86",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-24T15:28:59.558330Z",
