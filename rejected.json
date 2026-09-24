@@ -1,5 +1,45 @@
 [
  {
+  "source": "dealcatcher",
+  "raw_title": "Milwaukee M18 FUEL ONE-KEY 1/2 in. Impact Wrench with 5.0 Ah Battery $354.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T15:23:28.151931Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Microsoft Windows 11 Pro Lifetime License Digital Delivery $9.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T15:23:28.151931Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Pokémon Squishmallows from Just $8.99 Shipped (Reg. $16)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T15:23:28.151931Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SAMA Z60 ATX Mid Tower PC Case w/ Walnut Wood & 4x 140mm ARGB Fans (White) $49.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T15:23:28.151931Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Skytech Archangel 5 Gaming PC: Intel Ultra 7 270K PLUS, RTX 5070, 32GB DDR5 6000, 1TB SSD, 750W $1699",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T15:23:28.151931Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Select Accounts: 80-Count Osteo Bi-Flex Triple Strength Glucosamine Supplement w/ Turmeric Extract $8.27 w/ S&S + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+3) to pass without a price check — needs Subscribe & Save, Prime-only price, which we can't reproduce automatically · watched for 12h",
@@ -137636,86 +137676,6 @@
   "raw_title": "Gola Women's Torpedo Sneakers (Silver) $44.97 + Free Shipping on $50+",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-10T15:28:46.714435Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Kenmore 1.1 cu ft 1000W Microwave Oven $46.74",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T15:23:12.001299Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "BELLA 12 Piece Cookware Set $24.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T15:23:12.001299Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Hugo Boss Semi-Annual Suit Sale at Macy's: 50% to 70% off + free shipping w/ $39",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T15:23:12.001299Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Krispy Kreme Apple Cider Original Glazed Dozen for $5 w/ other dozen purchased",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T15:23:12.001299Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Vitalismo 8-Foot Artificial Olive Tree for $67 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T15:23:12.001299Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Dearfoams Men’s Slippers from $6.61 on Walmart.com (Reg. $20)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T15:23:12.001299Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "JUSTFASHIONNOW Women's 3/4 Length Sleeve Tops $5.39 Free Shippin W/Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T15:23:12.001299Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "New Balance 204L Sneakers (Light Silver Metallic) $44.97 + Free Shipping on $50+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T15:23:12.001299Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "360mm PCCOOLER DA360 Pro ARGB AIO CPU Liquid Cooler (White) $60.29 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T15:23:12.001299Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ACEBEAM TAC AA 2.0 EDC Flashlight, long-range, rechargeable 14500 li-ion battery $23.98",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T15:23:12.001299Z",
   "code": "not_checked",
   "public": false
  }
