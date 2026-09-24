@@ -1,5 +1,93 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Energizer MAX C Alkaline Batteries (4-Pack) $4.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T12:14:47.668222Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Fixed-Cuff Upper Arm Blood Pressure Monitor 2000mAh Rechargeable $129.59",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T12:14:47.668222Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "3PCS Brisket Butcher Knife Set with Fork $22.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T12:14:47.668222Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "4D Vibration Plate Exercise Machine $59.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T12:14:47.668222Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Zapdos 3-in-1 Outdoor Cooler Side Table 330lbs Capacity $76.71",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T12:14:47.668222Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Amazon Autos Early Prime Big Deal Days Deal for $1,500 Amazon Gift Card w/ car purchase",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T12:14:47.668222Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "lululemon Women's Clothing Specials for From $14 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T12:14:47.668222Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$11.99: Yes4All Foldable Abdominal Exercise Pad, Core Training & Back Stretching Mat, Orange at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T12:14:47.668222Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$19.99: Yes4All 2-in-1 Wooden Balance & Slant Board, 400 lb, Adjustable Incline at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T12:14:47.668222Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Pagani Automatic GMT several colorways $127",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T12:14:47.668222Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "42yr celeration BJs- Limited items $1",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T12:14:47.668222Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Prime Members: Baseus 4-Port PD3.1 up to 140W USB-C GaN Wall Charger (1x USB-A, 3x USB-C) $35 + Free S&H",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
@@ -137469,38 +137557,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-10T12:16:05.252444Z",
   "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Paranormal Activity 6-Movie Collection Blu Ray $13.49 Amazon.com",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-10T12:10:29.966864Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Lilo & Stitch Blue Backpack Set with Lunch kit, Headphones, and Water Bottle $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T12:10:29.966864Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Ring Battery Doorbell with Outdoor Cam Plus & Ring Assist+ $89.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T12:10:29.966864Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Insulation Marketplace SmartShield 3mm 16\" x 10-Foot Reflective Insulation Roll for $13 w/ Prime + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T12:10:29.966864Z",
-  "code": "no_signal",
   "public": false
  }
 ]
