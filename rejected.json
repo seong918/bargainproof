@@ -1,5 +1,141 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Dewalt 20V Max XR Powerpack 4Ah Lithium Ion Battery (2-Pack) $129.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T15:56:05.546549Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Astercook Heat Resistant Silicone Spatula with Stainless Steel Core (6-Piece) $6.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T15:56:05.546549Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Therun 2-in-1 2.5HP Walking Pad (0.6-6.2mph) with Handle Bar $98.39",
+  "reason": "Posted at $98.39, but Amazon showed $163.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-24T15:56:05.546549Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Adidas Women Streettalk $20.40",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T15:56:05.546549Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Starfield (Xbox Series S/X Play Anywhere) $29.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T15:56:05.546549Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "GEARWRENCH Indexing Head Pry Bar Set (3-Piece) $59.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T15:56:05.546549Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HORISUN Wireless Full Coverage Bras Push Up Comfortable Seamless Jelly Bra as low as $8.99 AC",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T15:56:05.546549Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Lukaree Wormwood Black Walnut Clove Cleanse for Humans $8.77",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T15:56:05.546549Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Favoto Kids Adjustable Multi-Sport Bike Helmet (Blue): X-Small or Small $9.89 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T15:50:32.336002Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Nobody Wants to Die (PSDD) Playstation 5 PS5 $4.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T15:50:32.336002Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Smart Window Bird Feeder with 2K Camera $13.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T15:50:32.336002Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Samsonite Microbead 3-in-1 Neck Travel Pillow Frost Grey $15.29",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T15:50:32.336002Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "3-Piece Genicook Stainless Steel Rectangular Food Storage Containers (Small 22oz, Medium 44oz, Large 76oz) $17.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T15:50:32.336002Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Lukaree 2 Pack Wormwood Black Walnut Drops- Gut Support with L-Glutamine $8.77",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T15:50:32.336002Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "THOEOE 7 Pcs Outdoor Dining Set, 70\" HDPE Dining Set for 6 (Black) $447.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T15:50:32.336002Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "6 Pack Solar Spot Lights Outdoor, 104 LED SolSpotlights, IP65 Waterproof Solar Powered Outdoor Lights, Auto On/Off $19.46 AC",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T15:50:32.336002Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "OtterBox iPhone 17 Air Profile Series Case $3.99 & More + Free Shipping w/ Prime or $6 Fee per Order",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T15:50:32.336002Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Ninja NeverDull 17-Pc Knife Block Set $229.99",
   "reason": "Not evaluated",
@@ -48974,14 +49110,6 @@
   "rejected_at": "2026-09-19T02:51:29.991791Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Lukaree 2 Pack Wormwood Black Walnut Drops- Gut Support with L-Glutamine $8.77",
-  "reason": "Posted at $8.77, but Amazon showed $4.35 when we checked — the post is stale",
-  "rejected_at": "2026-09-19T02:46:21.452026Z",
-  "code": "price_mismatch",
-  "public": true
  },
  {
   "source": "slickdeals",
@@ -137756,126 +137884,6 @@
   "raw_title": "Sportspower BouncePro 14' Heavy-Duty Rust-Resistant Trampoline with Safety Net $199.00",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-10T15:56:38.402553Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "LISEN 3-Port (140W+30W+30W) USB-C GaN Car Charger w/ 240W 3.3' USB-C Cable $18 + Free S&H w/ Prime",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T15:51:05.099784Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Facoow SAE & Metric Magnetic Deep Impact Nut Driver Set (55-Piece) $25.98",
-  "reason": "Posted at $25.98, but Amazon showed $27.89 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-10T15:51:05.099784Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Comfrt Travel Crossbody Bag $29.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T15:51:05.099784Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "32 Degrees Men's Henley Shirt or Sweater Knit Crew $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T15:51:05.099784Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Round Trip Airfares Las Vegas to Toronto Canada (Niagara Falls) on Delta Air Lines $297.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T15:51:05.099784Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "3 Way Hanging Mirror with Shelf $17.54",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T15:51:05.099784Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "(Open Box) Epson EcoTank ET-2400 Wireless All-in-One Supertank Printer $127.49 or less + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T15:51:05.099784Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$1500 FS WALMART Acer Nitro 85 Gaming Desktop, Intel Core Ultra 7 265F, NVIDIA GeForce RTX 5070, 16GB DDR5 RAM, 1TB PCIe 4.0 NVMe SSD,",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T15:51:05.099784Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Double Space Waterproof Phone Pouch - 2 Pack, Waterproof Phone Lanyard Case with iPhone 17/16/15/14/13 Pro Max up to 8.3\", Phone Dry Bag $6.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T15:51:05.099784Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "KitchenAid Refurbished 5.5 Quart Bowl-Lift Stand Mixer RKSM55 $219.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T15:45:29.174635Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Masters of the Universe Origins & Transformers Starscream Armor Scare $14.28",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T15:45:29.174635Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Kryptek Men's Caps 3-Pack (Trojan, American Flag) $13.25",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T15:45:29.174635Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Stanley 15\" Rubber Tarp Straps 10-Pack for $12 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T15:45:29.174635Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Magnetic Block Sets from $10.99 Shipped for Amazon Prime Members",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T15:45:29.174635Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Total Wireless: FREE Samsung Galaxy A37 5G + $35/mo Total STARTER Plan w/ Port-In (In-Store)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T15:45:29.174635Z",
   "code": "not_checked",
   "public": false
  }
