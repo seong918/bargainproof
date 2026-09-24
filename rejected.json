@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$4.38 or less S&S/Q SOUR PATCH KIDS Soft & Chewy Gummy Halloween Candy Variety Pack, 40 ct",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T01:04:35.574891Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $11.94 | The Hobbit: 75th Anniversary Edition – A Classic High Fantasy Quest About an Unexpected Journey at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T01:04:35.574891Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $9.69 | 1984: The Definitive Dystopian Classic on Totalitarian Power (Authorized Orwell Edition) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T01:04:35.574891Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $7.25 | Everything You Need to Ace Computer Science and Coding in One Big Fat Notebook: The Complete Middle School Study Guide at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T01:04:35.574891Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "THKFISH 20L Fishing Backpack Waterproof Tackle Sling Bag with Rod Holders $19.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T01:04:35.574891Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Marmot Men's Arch Rock 8\" Shorts for $28 + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T01:04:35.574891Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Lasko 42\" EcoQuiet 12-Speed DC Motor Tower Fan with Remote Control, Black, T42700 $69.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T01:04:35.574891Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[Prime] $8.06 | Everything You Need to Ace Science in One Big Fat Notebook: The Complete Middle School Study Guide at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-24T00:59:05.229702Z",
@@ -136724,38 +136780,6 @@
   "raw_title": "adidas men Supernova Ease Shoes(Core Black / Cloud White / Charcoal) $35",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-10T01:05:50.679240Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – SmartTrends 3-Pack 75L Collapsible Laundry Hampers - $15.59 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T01:00:34.124912Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – ANCHEER 56\" Kids Trampoline w/ Handrail - $58 w/ Code",
-  "reason": "Community score too low (+2) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T01:00:34.124912Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "adidas Adicolor Classic Backpack for $11 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T01:00:34.124912Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Samurai Champloo - $4.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T01:00:34.124912Z",
   "code": "not_checked",
   "public": false
  }

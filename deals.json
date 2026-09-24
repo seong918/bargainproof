@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "aa02e31222d0",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20053581-amazon-onforu-32-8ft-led-black-light-strip-kit-9-99-w-code?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "Amazon – Onforu 32.8ft LED Black Light Strip Kit - w/ Code",
+  "raw_title": "Amazon – Onforu 32.8ft LED Black Light Strip Kit - $9.99 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 999,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B07D7RKJYS",
+  "image_url": null,
+  "published_at": "2026-09-24T01:04:35.574891Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "4346ceccf098",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20053974-79-99-4-pk-apple-airtag-2nd-generation-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
