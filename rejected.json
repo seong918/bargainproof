@@ -1,6 +1,190 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[S&S] Hawaiian Tropic Sheer Touch Lotion, SPF 30, 2oz (Pack of 12) $10.53",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T13:55:57.825260Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Joyoowild 74\" 3-Head 3000K-Glow Water-Resistant Solar Lamp Post Light $69.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T13:55:57.825260Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Christmas Hoodie with Pouch $23.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T13:55:57.825260Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Women Long Sleeve Collared Velvet Dress $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T13:55:57.825260Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Halls Cough Relief Drops 80-Count (Honey Lemon) $2.92",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T13:55:57.825260Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Novelty 3D Fuzzy Socks $6.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T13:55:57.825260Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Crew Neck Stripe Pullover Top $11.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T13:55:57.825260Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Blink Outdoor 4 1080p Wireless Security Camera System w/ Two-Way Talk & Sync Module Core (2-Camera) $44.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T13:55:57.825260Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ski Pants Waterproof Windproof Snow Bib $39.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T13:55:57.825260Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Bircen Men's Polarized Acetate Sunglasses $10.50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T13:55:57.825260Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Kids Snow Bibs Ski Jumpsuits $28.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T13:55:57.825260Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Sherpa Plaid Hoodie Fleece $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T13:55:57.825260Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Adidas Men's Adistar Control 5 Shoes $36.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T13:55:57.825260Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Coslus Cordless Water Dental Flosser for $8 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T13:55:57.825260Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$7.99 | 6.6' Otterbox Premium Pro Lightning to USB-C Cable Bundle at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T13:55:57.825260Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas women Streettalk $20.4 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T13:55:57.825260Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Weekend Academy Boys Cargo Track Pants (Grey Shadow, Sizes: XS-XL) $8.67 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T13:55:57.825260Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Viodia Women's High-Waisted Joggers w/ Pockets - $9.99 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T13:50:23.178383Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "WORKPRO 10-Piece 2.3\" Magnetic Square Drive Impact Screwdriver Bit Set w/ 1/4\" Hex Shank $7.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T13:50:23.178383Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Kids Puffer Jackets Warm Hooded Quilted Coats Zip Up Insulated Coat $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T13:50:23.178383Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Portugal 6-Night Trip with Flights & Train $1,047.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T13:50:23.178383Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "The Pink Stuff Shower Spray Only $5.60 Shipped on Amazon (Reg. $10)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T13:50:23.178383Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Apple AirPods 4 $89 YMVV",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T13:50:23.178383Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Judas Priest: Demolition (CD) $13.13 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-24T13:44:56.947610Z",
@@ -137572,134 +137756,6 @@
   "raw_title": "Rotating 5-Tier Tall Bookshelf with Acrylic $51",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-10T13:59:46.990577Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$89.99* | 31\" x 17\" VEVOR Outdoor Grill Cart at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
-  "rejected_at": "2026-09-10T13:54:12.493141Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Philips Sonicare 1100 Rechargeable Electric Toothbrush (White Grey, HX3641/02) $15.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T13:54:12.493141Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "The North Face Surge Commuter Laptop Backpack $74.83",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T13:54:12.493141Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "3-Piece Tangkula Outdoor Conversation Set w/ Round Tempered Glass Table & 2 Rattan Armchairs $80.74",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T13:54:12.493141Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Resident Evil 2 (PlayStation 5) $15.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T13:54:12.493141Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "HOKA Men's Clifton One9 Shoes for $75 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T13:54:12.493141Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Dietrich Metal Framing 25-Gauge Aluminum Wall Framing Stud for $6 + free shipping w/ $25",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T13:54:12.493141Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Multitool 9-in-1 Pen Only $6.49 on Amazon (Reg. $13) | Flashlight, Screwdriver, Stylus & More",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T13:54:12.493141Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "(2 Pack) Vitamin D3 K2 Supplement 10000 IU + K2 MK7 200mcg with Coconut Oil $15.3",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T13:54:12.493141Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS] $17.10* | 4-Pack 25.4-Oz DaVinci Gourmet Brown Sugar Syrup at Amazon ($4.28 each)",
-  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T13:48:39.849653Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Brightup Foil Shaver for Men, Electric Razor with Smooth Close Shaving $19.99",
-  "reason": "Posted at $19.99, but Amazon showed $39.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-10T13:48:39.849653Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "FIT KING Leg Compression Massager for Circulation & Pain Edema Relief FSA, 2 Size Extensions $39",
-  "reason": "Posted at $39.00, but Amazon showed $71.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-10T13:48:39.849653Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon - Magnetic Tool Holder - Super Strong - Belt Clip for Magnetic Tools - $15.99",
-  "reason": "Posted at $15.99, but Amazon showed $35.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-10T13:48:39.849653Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Apple AirPods 5 Noise Cancelling Wireless Earbuds $129 | + Wireless Case $149",
-  "reason": "Posted at $149.00, but Amazon showed $129.00 when we checked — the post is stale",
-  "rejected_at": "2026-09-10T13:48:39.849653Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "GRACE KARIN Sleeveless Bodycon Dresses $16.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T13:48:39.849653Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Scarlet Darkness Off Shoulder Dress $14.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T13:48:39.849653Z",
   "code": "not_checked",
   "public": false
  }
