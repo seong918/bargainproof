@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS, AC] $21.99 | 60-Count Qunol Brain Health Memory Plus w/Magtein, Cognizin & Vitamin B6 at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T01:15:36.940113Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$199.99 BEST BUY Samsung - 32\" Odyssey G51F QHD 180Hz 1ms AMD FreeSync Gaming Monitor with HDR10 (DisplayPort, HDMI)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T01:15:36.940113Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DEWALT XTREME 12V Max 5-3/8\" Brushless Cordless Circular Saw (Tool Only) $99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T01:15:36.940113Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ULG Over The Door Organizer with 6 Large Pockets 12 Side Pockets for Bedroom Bathroom $14.99 @Amazon FS/Prime",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-24T01:10:03.305919Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-in-1 Switch 2 Dock & Capture Card with USB-C Video Input for Streaming $19.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-24T01:10:03.305919Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Polo Ralph Lauren Men's Varick Slim Straight Stretch Jeans for $43 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T01:10:03.305919Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Stokke Babyzen YOYO2 Ultra Compact Stroller + Backpack Bundle (Black/Stone) $299.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T01:10:03.305919Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$4.38 or less S&S/Q SOUR PATCH KIDS Soft & Chewy Gummy Halloween Candy Variety Pack, 40 ct",
   "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-24T01:04:35.574891Z",
@@ -136732,54 +136788,6 @@
   "raw_title": "SHOCKWAVE 1/2 in. Drive Metric Deep Well 6 Point Impact Socket Set (14-Piece) $69.97 at Home Depot FS",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-10T01:16:59.426163Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – Coolife 28\" Hardshell Checked Luggage - $83.99 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T01:11:25.747064Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "PINSPARK UPF 50+ Sun Hoodie Long Sleeve Fishing Shirts for Men with Mask $10 AC + Free Shipping",
-  "reason": "Posted at $10.00, but Amazon showed $18.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-10T01:11:25.747064Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – GKBK Women's Sheer Long Sleeve Boat Neck Top - $4.98-$4.99 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T01:05:50.679240Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – GRACE KARIN Girls' Long Sleeve Floral Dress - $9.96-$11.99 w/ Code + Coupon",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T01:05:50.679240Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon: Diablo SDS-Plus 2-Cutter Carbide-Tipped Hammer Stop Bit (5/8\" x 1-3/16\") $7.06 (Reg $27.65, ~74% Off) + FS w/ Prime",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-10T01:05:50.679240Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas men Supernova Ease Shoes(Core Black / Cloud White / Charcoal) $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T01:05:50.679240Z",
   "code": "not_checked",
   "public": false
  }
