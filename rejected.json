@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Nike Men's Air Force 1 '07 LX Vibram Shoes (Volt/Black/Speed Yellow/Black) $79.97 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T21:52:50.935077Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ozark Trail Men's Windbreaker Jacket with Hood, as low as $10.35, Walmart",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T21:52:50.935077Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "41mm Hamilton Khaki Navy Frogman Automatic Diving Watch $569 + Free S/H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T21:52:50.935077Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$1MM! 2/$1.94 get $3 Walmart Cash Oral-B Toothbrush Dual Clean, Medium, 1 Count",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-24T21:52:50.935077Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Cosybay Double-Sided Cold Tech Fabric Cooling Comforter (Full/Queen, Grey, Blue) $19.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+4) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-24T21:47:21.731598Z",
@@ -136180,38 +136212,6 @@
   "raw_title": "Holiday Plaid Jacquard 13\" x 72\" Reversible Table Runner, $4.54, 13x90\", $5.59, Walmart",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-10T21:58:22.160326Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Norm Of The North (Blu-ray + DVD + Digital) $5.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T21:52:46.476709Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "3-Oz Maruchan Instant Ramen Noodles $0.07",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T21:52:46.476709Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Adidas men Supernova Ease Shoes (Core Black / Cloud White / Charcoal) $35.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T21:52:46.476709Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Wrangler Unisex 17\" Rodeo Sport Denim Backpack, Blue, Ice Denim Blue, $11.60, Walmart",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-10T21:52:46.476709Z",
   "code": "not_checked",
   "public": false
  }
