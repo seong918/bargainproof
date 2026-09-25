@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "12-Count Ahaorigin Solar Halloween Pumpkin Pathway Stake Lights w/ 8 Lighting Modes (2 Connected Sets of 6) $15.46 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T04:31:01.373657Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GAYHAY Women's High Waist Leggings (Black) $3.95 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T04:31:01.373657Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$13.35 | Bandai Hobby - 30 Minute Missions - #71 eEXM-40 IGLIGHT 01 30 MM 1/144 Model Kit at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T04:31:01.373657Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Lefant Robot Vacuum and Mop, 20000Pa Suction, 115℉ Hot Water Mop Washing & Drying $179.99",
+  "reason": "Posted at $179.99, but Amazon showed $332.49 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-25T04:31:01.373657Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "48-Pocket Ordovibe Over-the-Door Mesh Shoe Organizer (White) $9.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-25T04:25:47.977425Z",
@@ -135828,30 +135860,6 @@
   "raw_title": "Kobalt 22 -Piece 1/4-in, 3/8-in and 1/2-in Drive Accessory Set one_size | 81241 $29.98",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-11T04:32:59.782205Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "AIRTOK AP2801 Air Purifier for Large Rooms up to 2240 Ft² w/ True HEPA & AQI Display (White) $59.99 + Free Shipping",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-11T04:27:25.887859Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Smart Watch for Men/Women, 1.85\" AMOLED Screen Fitness Tracker, $19.20 w/ coupon and code",
-  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-11T04:27:25.887859Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Vanguard VEO RANGE T45M Backpack @ B&H $79.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T04:27:25.887859Z",
   "code": "not_checked",
   "public": false
  }
