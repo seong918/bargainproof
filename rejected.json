@@ -1,5 +1,421 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Feilern T-Shape Adjustable 9.06\"-17.68\" Hand Towel Holder Stand $11.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:35:15.632425Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Fire TV Sticks from $15.99 on Amazon (Reg. $40)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:35:15.632425Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Jackery Explorer 600 v2 Solar Generator $279.99 (without Solar Panel) $529.99 (with Solar Panel) free shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:35:15.632425Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Magma Soft Cases for Musical Instruments - 10+ Models - From $43 + Free S/H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:35:15.632425Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "MD Sports Best Shot Indoor Arcade Basketball Game, Foldable 2 Player Dual Shot with Electronic Scorer, 8 Game Modes $99.86",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:35:15.632425Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Goodvish iPhone 11 Crossbody Lanyard Case (Pine Green) $7.49 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T17:29:39.064302Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Diamond Dig it Kit $4 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:29:39.064302Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Keenstone Electric Pressure Washer, 5000 PSI 3GPM with Anti-Tipping Design $79.99 AC",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:29:39.064302Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Giantex 68.5\" 5-Tier Bookcase w/ Storage Cabinet (2 Colors) $63 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T17:24:09.120143Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Feilern 24\" Bathroom Hardware Wall Mounted Accessories Set (10-Piece) $33.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:24:09.120143Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Voopnu 3-Speed 5W 360-Degree True HEPA Air Purifier (Up to 1076sq ft) $19.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:24:09.120143Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Baseus 20,000mAh 45W PD CCC Certified Power Bank w/ USB-C Cable $21.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:24:09.120143Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Listerine Cool Mint Alcohol Free Mouthwash, Mild Mint, 50.7 fl. oz/1.5L $7.45",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:24:09.120143Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "AromaRoom True HEPA Air Purifier PM2.5 $29.63",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:24:09.120143Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ulta Beauty Collection Free Gift w/ Purchase: Free gift w/ $22+ + shipping varies",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:24:09.120143Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Cute Girls Sweatshirts from $9 on Amazon (Reg. $20)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:24:09.120143Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Blackview PlayPop 8 AI Motion Game Console $231.20 after coupon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:24:09.120143Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Lubriderm Daily Moisture Lotion, Fragrance Free 24 fl oz, 2-count + 6 fl oz Travel Size $12.99 Free Shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:24:09.120143Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Iwela Water Transparent Gel Self-Adhesive Heel Liners (4-Pack) $1.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:18:34.475224Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Ahomo 36\"x6\" Waterproof Under Desk Cable Management System (Clamp Mounted) $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:18:34.475224Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Amazon Basics Rechargeable AAA NiMH Performance Batteries 24-Count $12.51",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:18:34.475224Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Round Trip New Jersey to Brussels Belgium $550-$563 Airfares on SAS Scandinavian Airlines BE (Travel January - April 2027)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:18:34.475224Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "WHCOOL Low-Profile Ankle Braces for Women & Men Customizable Ankle Compression Sleeve w/Wide Strap $9.99 AC",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:18:34.475224Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Women Long Sleeve V Neck Ribbed Knit Slim Fit Shirts Basic Tee $5.99 AC",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:18:34.475224Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Plaid Flannel Sleeveless Shacket $13.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:12:59.061607Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Lamicall Waterproof Dry Bag Backpack 30L with Phone Pouch (Black) $23.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:12:59.061607Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Fanta Orange Soda Fruit Flavored Soft Drink, 7.5 fl oz, 20 Pack $8.15",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:12:59.061607Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Dr Pepper Blackberry Zero Sugar Soda 12 Oz Cans 12 Count $15.05",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:12:59.061607Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Meow Mix Gravy Bursts Dry Cat Food, 3 lb Bag $3.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:12:59.061607Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Duke Nukem 3D: 20th Anniversary World Tour Xbox One (Digital) $1.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:12:59.061607Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Hohner Harmonica's: 6 Model - from $33.50 + Free S/H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:12:59.061607Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Cujemy 2 Pack Pumpkin Swaying Solar Lights $6.39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:12:59.061607Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Eyeglass Repair Tool Kit $4.99 after coupon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:12:59.061607Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Filtrete Air Filter 1”, MPR 700 MERV 8, Dust, Pollen and Pet Dander Filter, 8-pack $45.99 Free Shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:12:59.061607Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Borderlands 3: Next Level Edition Xbox One / Xbox Series X (Digital) $6.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:12:59.061607Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Mainstays 5-Cup Drip Coffee Maker (Black) $8.97 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:12:59.061607Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2/$4 Amazon Barilla Protein+ (Plus) Rigatoni Pasta, Plant Based Protein, 14.5oz",
+  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-25T17:07:26.130128Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "29.55\" Trond LED Desk Lamp w/ Clamp & Remote Control (Black or White) $20 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T17:07:26.130128Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Listerine Cool Mint Antiseptic Mouthwash 50.7 fl. oz $6.62",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:07:26.130128Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Roku 65-Inch Pro Series Smart TV 4K OLED 120Hz $799.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:07:26.130128Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Amazon Smart Plug (2-Pack) $23.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:07:26.130128Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "8BitDo Ultimate 2C Wireless Controller for PC/Android $23.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:07:26.130128Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ninja Air Fryer & Toaster Oven Combo with Thermometer DCT651 $249.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:07:26.130128Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "KS30 Spark Plug Tester Dual-Port $17.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:07:26.130128Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "COMHOMA Big & Tall Ergonomic Gaming/Office Chair w/ Footrest $135.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:07:26.130128Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "CAROTE 21pcs Pots and Pans Set $89.96",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:07:26.130128Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Kitsure Dish Drying Rack 12''W x 15.5''L $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:07:26.130128Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Cisily Sponge Holder for Kitchen Sink with Brush Holder $12.59",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:07:26.130128Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Baboli Pickle Cucumber Stuffed Animal Plush 12\" $10.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:07:26.130128Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "YFONG 3 Pack Large Microfiber Hair Towel Wrap $11.99 after coupon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:07:26.130128Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "G Gradual Mens Golf Pants 30/32/34 inch Stretch Dress Work Casual Pants $17.84",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:07:26.130128Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "4-Pack Pokémon Squish-a-longs Mini-Squish $7.97 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T17:07:26.130128Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "ThermoMaven Professional Digital Meat Thermometer $7.00",
   "reason": "Not evaluated",
@@ -136004,390 +136420,6 @@
   "raw_title": "$289 FS Walmart NEW UNLOCKED Samsung Galaxy Dual Sim A37 5G (128GB Storage, 6GB RAM) New | 6.7” Super AMOLED 120Hz Display",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-11T17:37:46.831199Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Goestric Waterproof Insulated Winter Work Gloves with Latex Grip $5.99",
-  "reason": "Posted at $5.99, but Amazon showed $9.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-11T17:32:13.207092Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Volam 11'' Wireless Touchscreen Carplay Screen w/ Backup Camera $88.79",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T17:32:13.207092Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Lovevook 18\" Backpack w/ Laptop Sleeve & 40-Oz Tumbler Pocket $8.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T17:32:13.207092Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Olafus 4-Pack 40W RGB Outdoor Flood Lights $34.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T17:32:13.207092Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "220V to 110V Voltage Converter with 1 USB A & 2 USB C Ports $23.09",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T17:32:13.207092Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "NUBWO HG04L Gaming Headset for PS5/PS4, Xbox Series X|S/Xbox One $11.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T17:32:13.207092Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "LUYI 11-Pair Halloween Earrings Set $8.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T17:32:13.207092Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Round Trip San Diego - Salt Lake City or Vice Versa $157 Nonstop Airfares on Alaska or Southwest Airlines BE (Travel October - November 2026)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T17:32:13.207092Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Reolink 8 Channel 4K+ 2TB NVR PoE Security System 4-Dome + OMVI Panoramic / PTZ Camera $799.99 Free Shipping Costco.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T17:32:13.207092Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "EMMIOL Women Wide Leg Jeans Mid Waist Baggy Loose Boyfriends Jeans Y2K 90s Denim Pants $19.88",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T17:32:13.207092Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "God of War Ragnarök Standard Edition for PlayStation 5 for $37 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T17:26:39.885562Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "TP-Link Deco 7 Pro BE11000 Weatherproof Outdoor Tri-Band Wi-Fi 7 Whole Home Mesh Router $169.99 free shipping Costco.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T17:26:39.885562Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "GRACE KARIN Womens Short Sleeve Cardigan Sweaters Lightweight Fall Outfits $11.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T17:26:39.885562Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "27\" FHD IPS Portable Smart TV with Protective Case, Dolby Audio, HDR10 $374.99",
-  "reason": "Posted at $374.99, but Amazon showed $499.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-11T17:21:08.873220Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Tagzilo 800cfm 6-Speed Cordless Leaf Blower with 2x Batteries $35.09",
-  "reason": "Posted at $35.09, but Amazon showed $85.98 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-11T17:21:08.873220Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "YOOPAI PLA 3D Printer Filament 1.75mm 250g 8 Rolls $24.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T17:21:08.873220Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "CAMELSPORTS Men's Water-Repellent Windproof Quilted Parka w/ Detachable Hood $19.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T17:21:08.873220Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Hisense AX700 5.1.4 Ch Soundbar with Wireless Subwoofer $199.99 Free Shipping Costco.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T17:21:08.873220Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Denon AVR-S970H 7.2 Channel 8K AV Receiver $599.99 Free shipping Costco.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T17:21:08.873220Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "5-Count BIC Brite Liner Chisel Tip Highlighters (Assorted Colors) $1.87 w/ S&S + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-11T17:15:35.649572Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "MEKASS 250ml Diatomaceous Earth Powder Duster w/ Adjustable Rod (Orange) $14.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T17:15:35.649572Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "2 in 1 Women's Pullover Tops Polo Shirts $14.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T17:15:35.649572Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "2-Pack 1000-Lumen Rechargeable Camping Lanterns $19.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T17:15:35.649572Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "7.2V 2-in-1 Cordless Electric Hedge Trimmer $19.79",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T17:15:35.649572Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Turtle Beach Stealth 700 Gen 3 Wireless Multiplatform Gaming Headset for $144 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T17:15:35.649572Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Wireless Doorbell Just $5.99 Shipped for Prime Members",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T17:15:35.649572Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "As Fairy Wireless Seamless Jelly Support Full Coverage Bra with V Mesh Neck $9.75",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T17:15:35.649572Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Nioh 3, PlayStation 5 $25.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T17:15:35.649572Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "BISSELL CrossWave OmniForce Edge All-in-One Multi-Surface Cordless Cleaner $189.99 + $4.99 shipping Costco.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T17:15:35.649572Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "SUSTEAS Rotary Cheese Grater, Large Vegetable Food Shredder, 5 Blades $14.84",
-  "reason": "Posted at $14.84, but Amazon showed $29.69 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-11T17:10:00.998812Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Katerk 1/4\" Hex Shank Portable Durable 6-Piece Screwdriver Bit Holder Set $5.99",
-  "reason": "Posted at $5.99, but Amazon showed $9.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-11T17:10:00.998812Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Advanced Calming Chews for Dogs $10.50",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T17:10:00.998812Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Wironlst 6' Lighted Fall Garland w/ Pumpkins & Pinecones $8.50",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T17:10:00.998812Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Target Video Game Deals: Up to 77% off + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T17:10:00.998812Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "SWISSWELL Mens Rain Jacket Raincoat Waterproof Windbreaker 17.99 $17.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T17:10:00.998812Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "22\" Sunchers 20V Max Cordless Hedge Trimmer w/ 2 Batteries & Charger $40.99 + Free Shipping w/ Prime or $6 Fee per Order",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T17:10:00.998812Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "KVIDIO 3.5mm Wired Over-Ear Headphones w/ Mic & In-Line Volume Control (Black) $9.98 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-11T17:04:27.491927Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Puddle Float Jumper for Swimming $12.34",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T17:04:27.491927Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "500 CFM Cordless Leaf Blower w/ 2 Batteries $39.19",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T17:04:27.491927Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "BEAUZMO Mini Epilator w/ LED $11.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T17:04:27.491927Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Dog Soccer Ball with Strap $8.79",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T17:04:27.491927Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "14-Night Japan & South Korea Flight, Hotel, and Tour Vacation for From $7,798 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T17:04:27.491927Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "lululemon Bags, Pouches, and Backpack Specials for From $29 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T17:04:27.491927Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Makeup Brush 12-Piece Set w/ Case Only $5.49 on Amazon (Reg. $17)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T17:04:27.491927Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Apple MacBook Pro 14.2\" Laptop M5 Max 36GB 2TB $3499.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T17:04:27.491927Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "French Connection 22 inch Expandable Rolling Carry-on Luggage, Quiet Shade $35.21",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T17:04:27.491927Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Artika Panolok Slat Wall Set, 8-pack $89.99 Walnut or Oak Free Shipping Costco.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T17:04:27.491927Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Calvin Klein Eternity, Eau de Parfum, Perfume for Women, 3.4 Oz $30.85",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T17:04:27.491927Z",
   "code": "not_checked",
   "public": false
  }
