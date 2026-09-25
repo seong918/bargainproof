@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "5-Piece Alselo Oven Mitts, Pot Holders and Chef Apron Kitchen Set (Cats, Dogs) $13.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T23:26:21.786864Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Woot! App: Ninja CREAMi Scoop & Swirl Ice Cream Maker $218 or less + Free S&H w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T23:26:21.786864Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Woot! App: $39.99 | Cyclerade Walking Pad Treadmill at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T23:26:21.786864Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "bubly Sparkling Water, Raspberry, 12 Fl Oz Cans (8 Pack) Zero Sugar, Zero Calories, Seltzer Water~$3.21 With S&S @ Amazon",
   "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-25T23:09:35.511000Z",
@@ -134598,61 +134622,5 @@
   "rejected_at": "2026-09-11T23:38:20.579247Z",
   "code": "duplicate",
   "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "The Godfather Trilogy (Bundle) $13",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T23:32:46.025579Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS] $11.40* | 12-Pack 1.25-Oz Weber Fireball Sweet Heat Chili Seasoning Mix at Amazon (95￠ each)",
-  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-11T23:27:12.841718Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Texas de Brazil $100 Gift Card Multi-Pack for $80 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T23:27:12.841718Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "REI Co-op Men's Rainier Rain Jacket (Sea Forrest / Crater Teal Size M) $29.83",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T23:27:12.841718Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$12.04* | 38-Oz Augason Farms Dehydrated Diced Carrots Can (216 Servings) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-11T23:21:41.901064Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Casio Casiotone CT-S1 61-Key Portable Keyboard for $220 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T23:21:41.901064Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "2 Pack Meat Chopper for Hamburger, Premium Heat Resistant Masher and Smasher for Ground Beef, Ground Turkey and More $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T23:21:41.901064Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
