@@ -1,6 +1,14 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "12-Pack 11.8\" sewrung Christmas Gingerbread Man Yard Signs w/ Stakes $13.36 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T04:36:15.082742Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "12-Count Ahaorigin Solar Halloween Pumpkin Pathway Stake Lights w/ 8 Lighting Modes (2 Connected Sets of 6) $15.46 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-25T04:31:01.373657Z",
@@ -135846,21 +135854,5 @@
   "rejected_at": "2026-09-11T04:38:31.599644Z",
   "code": "low_score",
   "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$7.47* | 6-Cup Genuine Fred Nesting Mushroom Measuring Cups at Amazon",
-  "reason": "Posted at $7.47, but Amazon showed $20.95 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-11T04:32:59.782205Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Kobalt 22 -Piece 1/4-in, 3/8-in and 1/2-in Drive Accessory Set one_size | 81241 $29.98",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T04:32:59.782205Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
