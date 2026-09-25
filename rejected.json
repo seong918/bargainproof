@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "bubly Sparkling Water, Raspberry, 12 Fl Oz Cans (8 Pack) Zero Sugar, Zero Calories, Seltzer Water~$3.21 With S&S @ Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T23:09:35.511000Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Costco Gift Card Deals for From $40 + email delivery",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T23:09:35.511000Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Bosmeer Women's Lightweight 3/4 Petal Sleeve Cardigan w/ Curved Hem (Various) $5.50 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+3) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-25T23:04:01.871964Z",
