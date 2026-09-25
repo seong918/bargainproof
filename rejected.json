@@ -1,6 +1,134 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "aiprotablet Kids Tablet, Android 16 Tablet for Kids 10 inch $65.99",
+  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-25T13:06:10.793003Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Smartdevil Samsung Galaxy S26+ Plus HD Clear Screen Protector (3-Pack) $4.59",
+  "reason": "Posted at $4.59, but Amazon showed $13.59 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-25T13:06:10.793003Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Gyroor G13 500W 176lbs 7.75mph All-Terrain Off-Road Hoverboard $79.99",
+  "reason": "Posted at $79.99, but Amazon showed $209.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-25T13:06:10.793003Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "YITAMOTOR Running Boards Compatible with Toyota Tacoma Double Cab $255.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T13:06:10.793003Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Kikcoin 4-Piece Loaf Pan Set, 9.45\" × 5.12\", Non-Stick $17.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T13:06:10.793003Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Amazon Basics Big and Tall Executive Office Chair $74.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T13:06:10.793003Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Norwegian 7-Night Caribbean Round-Trip New Orleans Cruise for From $1,158 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T13:06:10.793003Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "AstroAI L7 150-PSI Portable Tire Inflator Air Compressor for $20 w/ Prime + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T13:06:10.793003Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Rayovac High Energy AAA Batteries (30 Pack), Alkaline Triple A Batteries $10.76 or less",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T13:00:33.873132Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Woot! App: Amazon Essentials Men's Lightweight Water-Resistant Packable Puffer Jacket (Various) $11.99, Snow Jacket $21.59 + Free Shipping w/ Prime or $6 Fee per Order",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T13:00:33.873132Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon Smart Plug, Works with Alexa, Simple Setup, Endless Possibilities (2-Pack) $23.98",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T12:55:05.932002Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2.1L Bagsmart 2-in-1 Crossbody Fanny Pack (Black) $6.49 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T12:55:05.932002Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Dewalt 20V Max XR 3-Speed Cordless Oscillating Tool Kit with Battery & Charger $99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T12:55:05.932002Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Hikolvol 9\" Leakproof Stainless Steel Nonstick Springform Pan $11.48",
+  "reason": "Posted at $11.48, but Amazon showed $19.96 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-25T12:55:05.932002Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "On Women's Cloudrunner 3 Running Shoes (Seedling/Ivory) $80.72 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T12:55:05.932002Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "YETI LoadOut Bucket (Cherry Blossom) $28.77 + Free Shipping on $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T12:55:05.932002Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[S&S] Fanta Orange Soda Fruit Flavored Soft Drink, 7.5 fl oz, 20 Pack $8.15",
   "reason": "Community score too low (+-1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-25T12:49:34.993688Z",
@@ -136132,38 +136260,6 @@
   "raw_title": "Panic! at the Disco - Pretty.Odd - Vinyl $14.44",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-11T13:08:48.886899Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Lightweight Button Quilted Vest $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T13:03:14.434901Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Fanttik Y10 Pro Cordless Electric Pruning Shears with Brushless Motor $69.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T13:03:14.434901Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Madonna - Like A Virgin - Vinyl $14.44",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T12:57:42.043793Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Apple AirPods Pro 3, Wireless Earbuds Includes 2 Years of AppleCare+ $199.99 Free Shipping Costco.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T12:52:10.776971Z",
   "code": "not_checked",
   "public": false
  }
