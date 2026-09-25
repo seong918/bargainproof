@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "59-Piece MMARTE Acrylic Paint Beginner's Art Supplies Kit (Pink) $27.92 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T04:41:30.776055Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Thermaltake LCGS Gaming Desktop: i5-14400F, Intel Arc B580 (12GB), 16GB DDR4, 1TB SSD, 650W $899.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T04:41:30.776055Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "12-Pack 11.8\" sewrung Christmas Gingerbread Man Yard Signs w/ Stakes $13.36 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-25T04:36:15.082742Z",
@@ -135838,21 +135854,5 @@
   "rejected_at": "2026-09-11T04:44:04.615778Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$17.99ac Portable AstroAI Bike Pump, 12s Fast Inflate Bicycle Pump, Air Pump for Car Tires | 150PSI Tire Inflator Ball Pump with Tire Pressure Gauge & LED Light,L",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-11T04:38:31.599644Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Scream 3 Movie Collection $14.81 Amazon.com",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-11T04:38:31.599644Z",
-  "code": "low_score",
-  "public": true
  }
 ]
