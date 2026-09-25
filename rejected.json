@@ -1,6 +1,254 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "26L JanSport Cross Town Backpack (Flutter By Grey) $18.43 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T18:25:21.469190Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "5.1-Oz The Ordinary Glucoside Foaming Cleanser Face Wash $7.20 + Free Shipping w/ Prime or on orders over $35",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T18:25:21.469190Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Scotts Whirl Adjustable Hand-Powered Spreader (Holds Up to 1500 sq ft of Product) $17.59",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T18:25:21.469190Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Drazivon Men's Linen Short Sleeve V-Neck Casual Shirt (Various Sizes) $7.49",
+  "reason": "Posted at $7.49, but Amazon showed $14.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-25T18:25:21.469190Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "The Witcher 2: Assassins of Kings Enhanced Edition",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T18:25:21.469190Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "The Witcher: Enhanced Edition Director's Cut",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T18:25:21.469190Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Hades",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T18:25:21.469190Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "The Viral 3-Tier Medicine Organizer Everyone Loves is Only $21.59 on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T18:25:21.469190Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Select Nice Brand Nuts Are Buy One Get One Free At Walgreens. 2/$4.99, 2/$5.99 or 2/$7.29",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T18:25:21.469190Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "15-Day Thailand Beach and City Trip with Flights & Tours $2,326.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T18:19:45.386174Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Fender Limited-Edition '65 Princeton Reverb 12W Tube Guitar Combo Amp for $1,380 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T18:19:45.386174Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Batman: The Motion Picture Anthology (Box Set) [Blu-ray] $10.99 Walmart.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T18:19:45.386174Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$21.99: [Prime]Chefman 1.8L Electric Kettle, 1500W, Auto Shut-Off, Boil-Dry Protection, Glass, BPA-Free at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T18:14:11.122867Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime]$24.99: Chefman 1.8L Electric Kettle, 5 Presets, Temperature Control, Tea Infuser, Glass, BPA-Free at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T18:14:11.122867Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Artleta Zg Adjustable Ergonomic Cervical Neck Pillow $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T18:14:11.122867Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Macy's Men's Semi-Annual Suit Sale: Up to 85% off + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T18:14:11.122867Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Squier Classic Vibe '70s Jaguar Electric Guitar for $385 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T18:14:11.122867Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Travelzoo Members] 4* Margaritaville Resort Lake Tahoe $119 Weeknights; $149 Weekends; Waived Resort Fees; 2 Welcome Drinks & More (Travel Thru December 23, 2026)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T18:14:11.122867Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "EA SPORTS College Football 25 (PS5) $10 + Free Shipping w/ Prime or on orders over $35",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T18:08:39.720238Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Tgllm Wall Mounted Music Boxing Machine $35.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T18:08:39.720238Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "MPATIBY 3-in-2 Multi Charging Cable $5.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T18:08:39.720238Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "HONEY MAID Fresh Stacks Chocolate Graham Crackers, 36 Multi Snack Packs $16.87",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T18:08:39.720238Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "12-Pack 5-Oz Ocean Spray Craisins, 50% Less Sugar Dried Cranberries $13.23",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T18:08:39.720238Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "PINSPARK Men's Lightweight Workout Hoodie Sweatshirt Navy L $6.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T18:08:39.720238Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ekouaer Pajamas for Women Set Long Sleeve Top and Jogger Pants Lounge Sets $10.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T18:08:39.720238Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Rayovac High Energy AAA Batteries (30 Pack) $10.76",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T18:08:39.720238Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Euhomy 26.5-Lb/Day Countertop Ice Maker Machine (Black) $62.89",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T18:08:39.720238Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Jansport Backpacks from $13.81 on Amazon (Reg. $60) | Includes NCAA Styles",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T18:08:39.720238Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Hex Evolve Backpack (Black or Grey) $10 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T18:08:39.720238Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Walgreens Oral Electrolyte Solution With Zinc (Orange, Mango or Mixed Fruit ) 33.8 fl oz 2 For $4.50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T18:08:39.720238Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Rugged Shark Kids Americana Flip Flop Sandals (White) $4.97 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T18:08:39.720238Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$197: DEWALT 20V Max Battery, 4 Pack, Includes 2 x 5.0Ah Extended Runtime Batteries and 2 x 2.0Ah Compact Batteries (DCB235-4) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-25T18:03:09.888837Z",
@@ -63650,14 +63898,6 @@
  {
   "source": "slickdeals",
   "raw_title": "George Men's Jackey Loafers - from $14.80",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T19:17:48.684926Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Hex Evolve Backpack (Black or Grey) $10 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-18T19:17:48.684926Z",
   "code": "not_checked",
@@ -135876,454 +136116,6 @@
   "raw_title": "Ricardo Beverly Hills 27\" Spinner Suitcase. $112 @ Staples",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-11T18:27:40.301558Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Apple USB-C to 3.5 mm Audio Cable (1.2 m) Open Box (Very Good) $17.57 Amazon Resale",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-11T18:22:06.530031Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Outerman 275\"x61\" 500lbs Capacity Camping Hammock $18.14",
-  "reason": "Posted at $18.14, but Amazon showed $32.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-11T18:22:06.530031Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "cheapshark",
-  "raw_title": "SteamWorld Heist",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:22:06.530031Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "SteamWorld Dig",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:22:06.530031Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Wavetale",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:22:06.530031Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Silt",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:22:06.530031Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "White Shadows",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:22:06.530031Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "The Gunk",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:22:06.530031Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "ORICO 65W 7-in-1 GaN USB Travel Power Strip Charging Station $19.79",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:22:06.530031Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "S.Pellegrino Sparkling Natural Mineral Water 24-Pack 11.15-Oz Cans $9.07",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:22:06.530031Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "OxiClean Versatile Stain Remover Powder w/ White Revive 5-Lb $9.43",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:22:06.530031Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Lawry's Casero Onion Powder 2.37-Oz $1.19",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:22:06.530031Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Fanbulous 20\" Outdoor Caged Ceiling Fan w/ Dimmable 3CCT LED Light, Remote & App Control $79.41",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:22:06.530031Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Lifestyles Pleasure Collection Assorted Lubricated Natural Latex Condoms 36 Count $10.84",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:22:06.530031Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Ganiza Sourdough Proofing Basket Gift Set 22-Pc $16.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:22:06.530031Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Reusable Garden Waste Bags 72 Gallon 2-Pack Only $12.99 on Amazon (Reg. $26)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:22:06.530031Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "5 Pack USB 3.0 Micro SD Card Reader, 5Gbps Speed SD Card Adapter, Menory Card Reader $15.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:22:06.530031Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Turtle Beach - Stealth 700 Gen 3 Wireless Over-Ear Multiplatform Gaming Headset $144",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:22:06.530031Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "GOOSH 5' Halloween Ghost Inflatable w/ Built-In LED Lights $17.09 + Free Shipping w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:22:06.530031Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Sennheiser Accentum Hybrid Noise Cancelling ANC Wireless Bluetooth Headphones $69.95",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:22:06.530031Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$7.98* | 2-Pairs KLEIN TOOLS Knit Dipped Cut Resistant A1 Nitrile Coated Work Gloves (Large) at Amazon",
-  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-11T18:16:35.478084Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "COCOMARTS Jelly Bras for Women No Underwire Full Coverage Deep V $9.99",
-  "reason": "Posted at $9.99, but Amazon showed $19.98 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-11T18:16:35.478084Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "31.5\" Sealegend Universal Vacuum Hose Dryer Vent Cleaner Attachment $6.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:16:35.478084Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Lejaneoye 16\" 2-Tier Small Bamboo Outdoor Oval Side Table $22.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:16:35.478084Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Bedsure GentleSoft Reversible Sherpa Fleece Throw Blanket 50\"x60\" $10.79",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:16:35.478084Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "FunWater Inflatable Stand-Up Paddle Board 10'6\" x 33\" w/ Paddle, Pump, Backpack & Accessories $79.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:16:35.478084Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Animal Cuts Thermogenic Fat Burner Complex for Men & Women 42 Pill Packs $30.48",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:16:35.478084Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "IPOW XL 6-Layer Insulated Heated Outdoor Cat House w/ Heated Pad (25.59\" x 16.54\" x 12.99\", Gray) $25.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:16:35.478084Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "TUORL 25W Qi2.2 MagSafe Wireless Car Charger / Mount $20.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:16:35.478084Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Cameron's Coffee Roasted Ground Coffee 32-Oz (Vanilla Hazelnut) $11.23",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:16:35.478084Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "AIRTOK AP2801 Air Purifier for Large Rooms up to 2240 Sq Ft $59.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:16:35.478084Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "GKBK Women's Turtleneck Sweaters Long Sleeve Ribbed Basic Tee $5.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:16:35.478084Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "32\" DUMOS Computer Desk $20 + Free Shipping w/ Prime or on orders over $35",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-11T18:11:02.623316Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$206.99 | Citizen Men's Classic Corso Eco-Drive Watch, 3-Hand Date, Luminous Hands and Markers at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-11T18:11:02.623316Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "COCOMARTS Jelly Bras for Women No Underwire Deep V Bra $9.99",
-  "reason": "Posted at $9.99, but Amazon showed $19.97 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-11T18:11:02.623316Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "cheapshark",
-  "raw_title": "SteamWorld Dig 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:11:02.623316Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "LEGO Bricktales",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:11:02.623316Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "KeyWe",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:11:02.623316Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Planet of Lana",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:11:02.623316Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Laika: Aged Through Blood",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:11:02.623316Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Meat Chopper for Hamburger 2-Pack $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:11:02.623316Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Wellness Complete Health Large Breed Adult Dry Dog Food (Chicken & Brown Rice) 30-Pound $28.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:11:02.623316Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "ETENWOLF Cordless Vacuum Storage Bags 12-Pack w/ USB-C Rechargeable Air Pump $12.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:11:02.623316Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Leatherman Wingman Multi-Tool for $50 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:11:02.623316Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Popular Shoes from $44.82 (Regularly $75) | OluKai, HOKA, New Balance & More",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:11:02.623316Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Wireless Jelly Push Up Scalloped T-Shirt Bra. as low as $7.49 (Sizes 32A-42DDD)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:11:02.623316Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Isotoner Signature Men's Spandex Stretch Cold Weather Gloves w/ Knit Lining (Black, M/L) $11.99 + Free Shipping w/ Prime or $6 Fee per Order",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:11:02.623316Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "HP Essential Intel Core Ultra 7 255U 17.3\" 1080p Laptop (16GB/256GB) $649.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:11:02.623316Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "SEESII 13\" 21V Brushless Cordless String Trimmer & Edger w/ 2x 4.0Ah Batteries $71.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:05:30.272468Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "5.7\" Hasense Ceramic Spoon Rest (Green) $4.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:05:30.272468Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Golf Practice Hitting Net with 5-Layer Polyester Mesh $125.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:05:30.272468Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Toilet Paper Holder with Phone Storage Shelf, Matte Black $6.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:05:30.272468Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Reynolds Wrap Everyday Strength Aluminum Foil 100 sq. ft. $6.47",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:05:30.272468Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "(Resale) Waste Maid Garbage Disposal, Anti-Jam, Continuous Feed, 1/2 HP Economy $35.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:05:30.272468Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "14-Night China, Vietnam & Thailand Flight, Hotel, and Tour Vacation for From $5,398 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:05:30.272468Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "NULAS Cutting Board, Cutting Board with Knife Sharpener Double Sided Food Grade, Non-Slip Large 15.1x10.2 Inch Kitchen Chopping Board $12.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T18:05:30.272468Z",
   "code": "not_checked",
   "public": false
  }
