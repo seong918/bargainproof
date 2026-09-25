@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "dc1a0185a794",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20061018-stardust-4k-uhd-blu-ray-digital-20-99-amazon-com?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "Stardust (4K UHD + Blu-ray + Digital) Amazon.com",
+  "raw_title": "Stardust (4K UHD + Blu-ray + Digital) $20.99 Amazon.com",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 2099,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-25T16:12:01.461055Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "be8c623bafc7",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20060832-9-99-weezer-van-weezer-vinyl-w-autorip-mp3-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
