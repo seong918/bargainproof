@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "DCA Cordless impact kit $45",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T01:37:43.905679Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon Grocery, Sliced Beets, 15 Oz x 4~$2.84 With Multibuy @ Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T01:26:43.938069Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Harbor Freight Tools Dollar Days for Deals from $1 + shipping from $7",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T01:26:43.938069Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "YIYIHAOSHUNV Formal Wedding Guest Dress for Women Halter Floral Ruffle Mermaid Dresses $22.49",
   "reason": "Posted at $22.49, but Amazon showed $40.79 when we checked — the deal is probably over",
   "rejected_at": "2026-09-25T01:21:17.199590Z",
@@ -65150,14 +65174,6 @@
   "rejected_at": "2026-09-18T01:23:14.489103Z",
   "code": "low_score",
   "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Harbor Freight Tools Dollar Days for Deals from $1 + shipping from $7",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T01:23:14.489103Z",
-  "code": "not_checked",
-  "public": false
  },
  {
   "source": "slickdeals",
@@ -135500,158 +135516,6 @@
   "raw_title": "GARVEE 9000 BTU 18.5 SEER 2 230V Mini Split AC/Heating System w/ Wi-Fi $460",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-11T01:40:14.732289Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$1.99 | The Engine 2 Diet: The Texas Firefighter's 28-Day Save-Your-Life Plan that Lowers Cholesterol and Burns Away the Pounds (eBook) by Rip Esselstyn",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-11T01:34:40.693500Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "The North Face Women's Borealis 27L Backpack (White Melange/Mid Gray) $77.17 + 10% Back w/ Prime Visa Card at Amazon + Free Shipping",
-  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-11T01:34:40.693500Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$1.99 | Blueprint: The Evolutionary Origins of a Good Society (eBook) by Nicholas A. Christakis MD PhD",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-11T01:34:40.693500Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$7.17 ARM & HAMMER Sensitive Skin Free & Clear Liquid Laundry Detergent 105 Loads, 105 fl oz",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-11T01:34:40.693500Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "AI Portable Waist Fan,Rechargeable Fan with 4-Speed 6600RPM Strong Airflow $6.97",
-  "reason": "Posted at $6.97, but Amazon showed $13.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-11T01:34:40.693500Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "hip2save",
-  "raw_title": "GLP-1 Booster Supplement 1-Month Supply Just $17.97 Shipped on Amazon (Reg. $40)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T01:34:40.693500Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Animal Whey Isolate Protein Powder, 25G High Protein | Chocolate 4LB $54.71",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T01:34:40.693500Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "DEWALT 20V MAX Cordless Compact Jobsite Blower (135 MPH / 100 CFM, Tool Only) $99.00 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T01:34:40.693500Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$2.81 365 by Whole Foods Market, Organic Lasagne, 16 Ounce with S&S",
-  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-11T01:29:06.967000Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Hasbro Monopoly Ultimate Bundle Game for $12 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T01:29:06.967000Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Silkland 40Gbps USB4 USB C Extension Cable 240W for Thunderbolt 4, 3.3 FT $26.98",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T01:29:06.967000Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "6' KabelDirekt 8K/4K HDMI Cable $5.39 + Free Shipping w/ Prime or on $35+",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-11T01:29:06.967000Z",
-  "code": "duplicate",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Dragon Ball Super Part 10 (Blu-ray) $19.49 + Free Shipping w/ Prime or on $35+",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-11T01:29:06.967000Z",
-  "code": "duplicate",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Koss KPH7 Wired On-Ear Headphones (Black) $4.95 + Free Shipping w/ Prime or on $35+",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-11T01:29:06.967000Z",
-  "code": "duplicate",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "27\" Sceptre Curved 1080p FHD 180Hz Gaming Monitor (C275B-FW180T) $99.97 + Free Shipping",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-11T01:29:06.967000Z",
-  "code": "duplicate",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$15.19 Energizer Ultimate Lithium AA Batteries (8 Pack) with S&S",
-  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-11T01:23:32.790146Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS, AC] $3.49 | 8-Oz Gold Bond Plumping Collagen Body & Face Serum Lotion (Cherry Blossom) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-11T01:23:32.790146Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Aukey MagFusion 3-in-1 Magnetic Wireless Charging Station (Gray) $31.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T01:23:32.790146Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "BISSELL Little Green Mini Corded Portable Carpet Cleaner 4064T - 4\" Cleaning Path Blue $84.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T01:23:32.790146Z",
   "code": "not_checked",
   "public": false
  }
