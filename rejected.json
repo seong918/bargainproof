@@ -1,5 +1,53 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Laugh Out Loud Collection 4 Movies Collection Adam Sandler DVD $5",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T20:44:32.232026Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$3.30* | TEKTON High-Torque Black Oxide Blade Nut Driver (3/16\") at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T20:38:55.829415Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Sportsroyals 2-in-1 Free Standing Pull Up Bar Workout Station $229.57",
+  "reason": "Posted at $229.57, but Amazon showed $279.96 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-25T20:38:55.829415Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Gruv.com Double the Magic Sale 2 for $24 4K family movie deals",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T20:38:55.829415Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "6-Pack 3.25-Oz Cheez-It Grooves Zesty Cheddar Ranch Crunchy Cheese Crackers $9.97 or Less + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T20:33:18.761325Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "9-Item Gear & Glory Action RPGs Bundle: Wayfinder; Coridden; Achilles: Legends Untold & More (PC Game) $12",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T20:33:18.761325Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "cheapshark",
   "raw_title": "Soccer Story",
   "reason": "Not evaluated",
@@ -135132,94 +135180,6 @@
   "raw_title": "Lakeside 2-Tier Kitchen/Bar Serving Cart w/ Wheels $52 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-11T20:46:16.214985Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Eyaiorotes Replacement for LG MR25GA Magic Remote $14.49",
-  "reason": "Posted at $14.49, but Amazon showed $28.98 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-11T20:40:44.610214Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "XX2i Polarized & Non Polarized Sunglasses (Various Styles) $16.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T20:40:44.610214Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Intex Premium Quick-Fill 120V AC Electric Air Pump for Air Mattress & Inflatables, 3 Nozzles $25.56",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T20:40:44.610214Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Clear Hard Shell Zipper Case 3-Pack Only $9.99 on Amazon",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T20:40:44.610214Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Tommy Hilfiger Men's Modern-Fit Linen Pants $19.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T20:35:12.963666Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Gap Factory Men's Straight Jeans $20.39",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T20:35:12.963666Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Green Day Dookie 30th Anniversary Vinyl for $22 + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T20:35:12.963666Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Melissa & Doug Shape Sorting Grocery Cart from $25.98 Shipped (Reg. $82)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T20:35:12.963666Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "DJI Osmo Nano Standard Combo 4K/60fps Vlogging Camera (128GB) $350.78",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T20:29:41.402758Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "VLOP IPX8 Waterproof Bone Conduction Open-Ear Headphones w/ 32GB MP3 Playback & Bluetooth 6.0 $44.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T20:29:41.402758Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Teva Women's Universal Platform Sandal (All Aboard Blarney) $14.80 + Free Store Pickup at Nordstrom Rack or FS on $89+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T20:29:41.402758Z",
   "code": "not_checked",
   "public": false
  }
