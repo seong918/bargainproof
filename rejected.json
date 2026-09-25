@@ -1,5 +1,85 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Norwegian 6-Night Mexican Riviera Cruise From San Diego for From $1,158 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T21:01:11.611589Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Yexmas 500W Smoke Machine 2000CFM Fog - 13 Colorful LED Lights $30.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T21:01:11.611589Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$15.47 | 2.53-Oz Lattafa Layaan Eau de Parfum Spray for Women at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T20:55:35.146027Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bosch OSL350SPD Starlock Oscillating Multi-Tool Delta Sanding Pad $7.26 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T20:55:35.146027Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$5.93* | Apocalypse Love (Blu-ray) at Amazon",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T20:50:04.476706Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Anker 15W Zolo MagSafe-Compatible Wireless Charger (2-Pack) $25.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T20:50:04.476706Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Citizen Stainless Steel Quartz Analog Men's Watch $106.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T20:50:04.476706Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Life is Good Short Sleeve Tee & Hat Bundle Deals for $40 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T20:50:04.476706Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "8-in-1 Air Quality Monitor Indoor $32.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T20:50:04.476706Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "AC/DC - Power Up - Vinyl $16.91",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T20:50:04.476706Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Laugh Out Loud Collection 4 Movies Collection Adam Sandler DVD $5",
   "reason": "Not evaluated",
@@ -134932,254 +135012,6 @@
   "raw_title": "Giant Fathom 1 Hardtail Mountain Bike (Knight Shield) $699.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-11T21:02:53.534005Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "$100 PlayStation Store eGift Card $88.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T20:57:20.009161Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Wilson Encore Series Football $34.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T20:57:20.009161Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Men Adidas Adizero Evo SL Woven Running Shoes $75.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T20:57:20.009161Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "The North Face Women's Essential Dome Hoodie (Black) $32.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T20:57:20.009161Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "LG 34\" UltraWide WQHD 1440p 1800R Curved Office Monitor $199.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T20:57:20.009161Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "DICTAC Twin Corner Bed Frame with 2 Storage Drawers and Charging Station $109.98",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T20:57:20.009161Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "36L adidas One-Size Striker Soccer Backpack w/ Ventilated Shoe Garage & Laptop Sleeve (Navy Blue/Dark Green) $24.83",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T20:57:20.009161Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "GOOSH 4 FT Halloween Inflatable Cute Ghost Outdoor Decorations $14.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T20:57:20.009161Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "TAURI 2 Pack iPhone 18 Pro Screen Protector $9.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T20:57:20.009161Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "VEVOR Clear PVC Strip Curtain 84 in Height x 36 in Width x 0.08 in Thickness 6 PCS $37.90",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T20:57:20.009161Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Ultra PRO Penny Sleeves 3000 Count $28.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T20:57:20.009161Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "The Patrick Star Show: Season 1, Volume 1 DVD $7.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T20:57:20.009161Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Melissa & Doug 100-Piece Set of Wooden Building Blocks $13.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T20:57:20.009161Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "AI'MAGE Bikini Swimsuit Coverup Button Up Shirt $7.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T20:57:20.009161Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "AQUANEAT 1 Gallon Betta Fish Tank Aquarium Kit with LED Light and Water Filter Pump $23.88",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T20:57:20.009161Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "ECO-WORTHY Upgraded Solar Ground Mount Adjustable Multi-Pieces Solar Panel Mount $116.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T20:57:20.009161Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Pirecart 5-Piece Outdoor Patio Dining Table Set with 4 Stackable Chairs for $129 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T20:57:20.009161Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Philergo 28\" Propane Fire Pit Table for $138 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T20:57:20.009161Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Citizen Luke Skywalker Chronograph Blue Dial Men's Watch $254",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T20:57:20.009161Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Tommy Hilfiger Men's Modern-Fit Linen Blend Blazer $59.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T20:57:20.009161Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$8.46* | 10-Pc Amartisan Magnetic Screwdrivers w/ 2-Pc Multifunction Mini Set (5 Colors) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-11T20:51:47.922783Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Astroai 27\" 2-in-1 Car Windshield Detachable Snow Brush & Ice Scrapers $9.94",
-  "reason": "Posted at $9.94, but Amazon showed $15.29 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-11T20:51:47.922783Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Microsoft Surface Laptop 5 (Refurb) 16GB LPDDR5X 256GB SSD $379.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T20:51:47.922783Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Kitchen Elite 12-Qt Dual-Basket Air Fryer w/ Sync $80.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T20:51:47.922783Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Brondell Aurabeat 3800 White True HEPA Commercial Air Purifier (Covers: 3875-sq ft ) $499.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T20:51:47.922783Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Fanflix Emmys Mix and Match 4 for $20 plus use code SEPTSAVINGS for extra 10% Off",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T20:51:47.922783Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Tweezerman Cuticle Pusher & Nail Cleaner $9.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T20:46:16.214985Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Kenneth Cole Reaction Men's Slim-Fit Spring 3-Piece Suit $99.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T20:46:16.214985Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Tommy Hilfiger Men's Modern-Fit Linen Blend Blazer for $60 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T20:46:16.214985Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Taimand 24K Gold Under Eye Patches 30 Pairs for $8 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T20:46:16.214985Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Lakeside 2-Tier Kitchen/Bar Serving Cart w/ Wheels $52 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T20:46:16.214985Z",
   "code": "not_checked",
   "public": false
  }
