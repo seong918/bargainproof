@@ -1,6 +1,110 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "379-Piece LEGO Marvel Super Heroes Iron Spider-Man Bust Building Kit $44.99 + Free Shipping",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T03:59:29.053574Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC] $13.93* | Lee Mens Big & Tall Extreme Motion Flat Front Short (various) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T03:59:29.053574Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Syintao 2-in-1 Soft Serve & Slushie Machine (54 fl oz) with Auto Clean $98.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T03:59:29.053574Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Lenovo Select Targus 16\" Sport Backpack $13.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T03:59:29.053574Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$19.99 sale for The Adventures of Paddington: The Complete Series",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T03:59:29.053574Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "8-Pack FLYLEAD Silicone Magnetic Cable Clips w/ Adhesive Backing (5 colors) $4.74 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T03:54:02.257804Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Lightning Deal] Ekouaer Nightgowns for Women Bamboo Viscose Sleep Shirt (Black) $12.98",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T03:54:02.257804Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Limited deal] AKASO Brave 4 Action Camera 4K30 Ultra Hd Waterproof Underwater Camera $69.98",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T03:54:02.257804Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Lightning Deal] Neer 3 Pack Big and Tall T-Shirts for Men L-7xl Tops $16.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T03:48:31.728068Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "FeelNeedy 3-in-1 Cat Steam Brush w/ Dual-Speed Spray & Self-Cleaning Button (2 colors) $9.34 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T03:48:31.728068Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Kretrum PLA Filament, multiple colors available, 50% off starting at $8.49 + Prime shipping",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T03:48:31.728068Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$5* | Rudolph The Red-Nosed Reindeer (Nintendo Switch) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T03:48:31.728068Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[S&S]Colgate Optic White Pro Series High Impact White Toothpaste, 3 Pack, 3.0 oz $15.99",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T03:48:31.728068Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Fanttik B11 Pro Max Electric Air Duster w/ Power Bank Function / Flashlight (Black) $61.59 + Free Shipping",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-25T03:43:02.279764Z",
@@ -135750,29 +135854,5 @@
   "rejected_at": "2026-09-11T03:59:35.192346Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ZITY Mens UPF 50+ Sun Protection Shirts Long Sleeve Lightweight Rash Guard $7.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T03:54:01.257598Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "TheraPAQ 11\"x14\" Extra Large Reusable Gel Ice & Heat Pack $6 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T03:54:01.257598Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Joola Pro IV Perseus pickleball paddle on sale for 149.95 $149.95",
-  "reason": "Community score too low (+-5) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-11T03:48:26.722179Z",
-  "code": "low_score",
-  "public": true
  }
 ]
