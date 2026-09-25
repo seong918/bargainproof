@@ -1,6 +1,14 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "18.5-Oz Progresso Italian-Style Bean & Pasta Protein Soup $1.28 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-25T21:29:02.879975Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "COOFANDY Men's Polar Fleece Shacket Long Sleeve Casual Button Down Shirt Jacket with Pockets $9.74",
   "reason": "Posted at $9.74, but Amazon showed $19.49 when we checked — the deal is probably over",
   "rejected_at": "2026-09-25T21:23:29.183266Z",
@@ -134925,22 +134933,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-11T21:30:37.948032Z",
   "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "2-Pk Zitahli Leather Ratchet Belt $13.29",
-  "reason": "Posted at $13.29, but Amazon showed $26.59 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-11T21:25:05.463183Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "hip2save",
-  "raw_title": "Up to 60% Off Nike Shoes + Free Shipping = Kids Court Borough UNDER $44 Shipped",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T21:25:05.463183Z",
-  "code": "not_checked",
   "public": false
  }
 ]
