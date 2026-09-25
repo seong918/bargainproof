@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "5866d084fb57",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20058993-carhartt-men-s-iconic-j01-duck-detroit-jacket-black-89-76-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "Carhartt Men's Iconic J01 Duck Detroit Jacket, Black, , Amazon",
+  "raw_title": "Carhartt Men's Iconic J01 Duck Detroit Jacket, Black, $89.76, Amazon",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B07S3H5ZKG",
+  "deal_total_cents": 8976,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 8976,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 8976,
+  "amazon_url": "https://www.amazon.com/dp/B07S3H5ZKG",
+  "amazon_checked_at": "2026-09-25T00:04:40.185379Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B07S3H5ZKG",
+  "image_url": null,
+  "published_at": "2026-09-25T00:04:36.261230Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "ebd5a6018aed",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20058417-rongtai-women-s-ultra-soft-plush-fabric-quick-warmth-hooded-robe-14-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",

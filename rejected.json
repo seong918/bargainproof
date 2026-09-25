@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "The Ultimate Laika Collection (Coraline / ParaNorman / The Boxtrolls / Kubo and the Two Strings) [Blu-ray] $20.95 Amazon.com",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T00:04:36.261230Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "119-Piece LEGO Star Wars: Death/Night Trooper Battle Pack Building Set $18.39 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T00:04:36.261230Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Merino Wool Blend Long Sleeve Fitted Tee $22.94",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T00:04:36.261230Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "327-Pc LEGO Icons Plum Blossom Flower Décor Building Set $23.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-24T23:59:07.128302Z",
@@ -135750,21 +135774,5 @@
   "rejected_at": "2026-09-11T00:05:51.069335Z",
   "code": "no_signal",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[Resale] $95.42 | Google Nest Doorbell (Wired, 3rd Gen) (Used - Like New) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-11T00:00:22.769024Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "TCOT Women's 3 Pack Long Sleeve Shirts Lightweight Crew Neck Sweatshirts $15.89",
-  "reason": "Posted at $15.89, but Amazon showed $36.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-11T00:00:22.769024Z",
-  "code": "price_mismatch",
-  "public": true
  }
 ]
