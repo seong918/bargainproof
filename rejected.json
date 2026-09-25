@@ -1,6 +1,334 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Aquaman and the Lost Kingdom (4K Ultra HD) $14.99 Amazon.com",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T08:28:27.153598Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Prime Members YESPER 12V 2000A 8L Gas/6L Diesel Jump Starter w/ 150PSI Air Compressor $30 + Free Shipping",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T08:28:27.153598Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS] $10.44* | 12.69-Oz Cellucor Cor-Performance Creatine Monohydrate (72 Servings) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T08:28:27.153598Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "ABS Flux II Aqua Core i5-14400F RTX 5060 Ti Gaming Desktop PC for $1,130 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T08:28:27.153598Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Xinp 1800mAh 7.8\" Under Cabinet Rechargeable Lighting (2-Pack) $8.99",
+  "reason": "Posted at $8.99, but Amazon showed $17.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-25T08:22:52.585534Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Golf Auctions on eBay Live for Deals from $1",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T08:22:52.585534Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "$500 Hotels.com Gift Card for $450 + email delivery",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T08:22:52.585534Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "TCL 85 Inch Class QM6K Series | Mini LED QLED 4K HDR | 85QM6K, Latest Model | 120HZ-144HZ High Brightness Smart Google TV $897.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T08:17:14.376999Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "8-Count Pureegg 54\" x 108\" Plastic Disposable Table Cloths (White) $3.59 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T08:17:14.376999Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Samsung Galaxy S26 Ultra, Unlocked Android Smartphone, 256GB, Sky Blue $953",
+  "reason": "Community score too low (+-2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T08:17:14.376999Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Shark PowerDetect Pet Plus Clean & Empty Cordless Stick Vacuum, IP3253 $379.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T08:11:39.203074Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Dewalt DCE555B 20V Brushless Drywall Cut-Out Tool $105.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T08:11:39.203074Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Samsung HW-Q990H 11.1.4ch Dolby Atmos Soundbar w/ Subwoofer for $948 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T08:11:39.203074Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$7.50 | The Strangers: Chapter 2 (Blu-ray + DVD + Digital) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T08:06:18.518631Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Raidmax RX-850AED 850W ATX 3.1 Power Supply for $45 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T08:06:18.518631Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Gogokids Girl's 6Y-14Y Sleeveless Polo Athletic Tennis Dress $4.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T08:01:01.044605Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "ASRock B550M PRO4 AM4 Ryzen/Future AMD Ryzen Processors Motherboard for $80 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T08:01:01.044605Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Lock n Lock Easy Essentials Color Mates Food Storage Container Set (20-Piece) $21.96",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T08:01:01.044605Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Canyon Pathlite:ON 5 SUV mid-step, Ivory White, Medium $1100.57",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T07:55:26.019563Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC] $32.78 | The North Face Women's Evolution Proud Crew at Amazon",
+  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T07:55:26.019563Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC] $86.94 | The North Face THERMOBALL Vest at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T07:55:26.019563Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Tilswall Cordless Paint Sprayer Dreamer400 500W Motor (No Battery) $19.99 + FS w/ Prime or $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T07:50:07.230169Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC] $106.01* | The North Face Men's Thermoball Insulated Jacket at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T07:44:48.348618Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Glass Cigar Humidor Jar for $42 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T07:44:48.348618Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "NewAge Products PVC Slatwall 40-sq. ft. Panels Set for $218 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T07:44:48.348618Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$3.02 | 8\" Squishmallows Original Disney’s Zootopia 2 Nick Wilde Plush at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T07:39:31.455891Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$8.34* | 1917 (Blu-ray + DVD + Digital) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T07:39:31.455891Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$38.80* | NutriChef 12\" Stainless Steel Wok at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T07:39:31.455891Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Tape Logic Packing Tape (18-Rolls), 2\" x 55 yd - Heavy Duty Packaging Tape Refill for Shipping, Moving, Order Fulfillment, Acrylic 2.6 Mil $29.85",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T07:39:31.455891Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$147.99* | DeWALT 20V MAX XR Cordless/Brushless Barrel Grip Jigsaw (Bare Tool) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T07:39:31.455891Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Instrodots CBF01 Circuit Breaker Finder & GFCI Outlet Tester for $38 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T07:39:31.455891Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "EFINE Black 3-Tier Carbon Steel Wire Garage Storage Shelving Unit for $56 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T07:39:31.455891Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Lenovo 16\" Laptop Casual Backpack B210 (Blue) $8 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T07:39:31.455891Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Woot! App] (2 Pack) Hyperkin Joy-Ride Racing Wheel for Nintendo Switch $3.99 + Free S&H w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T07:39:31.455891Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Nintendo Switch Sports Resort $49.94",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T07:34:14.411892Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Wera 05052504001 889/4 R Rapidaptor Universal Bit Holder $17.53",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T07:34:14.411892Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "8-in-1 Rechargeable Portable Air Quality Monitor for $33 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T07:34:14.411892Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Insignia 45W Compact USB-C Wall Charging Kit w/ 6' 240W Cable (Dark Gray) $14.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T07:34:14.411892Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "YMMV Misty Harbor 42\" Automatic Open Rain Umbrella, Cherry Stripe $3.5",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T07:34:14.411892Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Anker 140W 4-Port PD 3.1 Laptop Charger (Silver) $55.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T07:34:14.411892Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Butter Squishy for $5 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T07:28:55.312851Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "3-Pack Ekouaer Women's Long Sleeve Comfy Sleep Nightgowns $19.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-25T07:23:37.342123Z",
@@ -135940,374 +136268,6 @@
   "raw_title": "Titan by Arctic Zone 10 Can 7 qt Fridge Cold Insulated Cooler Tote + (2) Ice Walls, Lavender $12.97",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-11T08:32:09.841972Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "ClosetMaid ShelfTrack Wood 4-Foot x 14.7\" Double Hang White Wire Closet Kit for $119 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T08:26:34.636287Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Google Pixel 11 256GB Mint Mobile Android Smartphone for $624 + 1-year of Unlimited for $15/month + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T08:26:34.636287Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Caravelle by Bulova Automatic Stainless Steel +$50 Kohls Cash $287",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T08:26:34.636287Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon - Shoe Waterproof Spray 15.55 OZ $9.59",
-  "reason": "Posted at $9.59, but Amazon showed $15.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-11T08:21:01.169454Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "G Gradual Men's Quarter Zip Athletic Running Pullover for $14 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T08:21:01.169454Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "G Gradual Store Men's Fleece Lined Crewneck Sweatshirt for $18 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T08:21:01.169454Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Visiogear 4K Solar Smart Bird Feeder and Bath for $30 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T08:21:01.169454Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Greenworks Lawn Mowers at Lowe's for From $180 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T08:21:01.169454Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Barjneel Men's Fleece Lined Thermal Underwear Long Johns Base Layer Pants (Black) from $8.89 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-11T08:15:28.761149Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Ryobi ONE+ 18V Cordless Hybrid Whisper Series 7-1/2\" Fan w/ 2.0 Ah Battery & Charger $79.97 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T08:15:28.761149Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$8.99 | Amazon Essentials Men Long-sleeve French Sweater at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T08:15:28.761149Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$14.99 | Wall Mounted Floating Shelves, Set of 4 at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T08:15:28.761149Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "40-Oz Nuovoware Magnetic Water Bottle Carrier Bag (Gray) $9.51 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-11T08:09:53.246272Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Fanttik C8 Nano Cordless Cardboard Cutter for $39 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T08:09:53.246272Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "MontVoo 20x20\" Pet Feeding Mat for $4 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T08:09:53.246272Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Insignia 35W Dual USB-C Wall Charger (White) $8.49 + Free Store Pickup at Best Buy",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T08:09:53.246272Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ECO-WORTHY Upgraded Solar Ground Mount Adjustable Multi-Pieces Solar Panel Mount $116.99",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-11T08:04:19.210526Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "DEWALT 20V MAX Combo Kit, Compact 7-Tool (DCK720D2) $487.99",
-  "reason": "Community score too low (+-2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-11T08:04:19.210526Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "G Gradual Women's Fleece Lined Thermal Leggings for $15 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T08:04:19.210526Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Acer Swift Go 16 AI 16\" Touch OLED Laptop w/ Core Ultra 5 225H, 16GB RAM & 512GB SSD (Refurbished) $596.88 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T08:04:19.210526Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "DEWALT 20V MAX Heat Gun, Cordless, Up to 990 Degrees, 42 Minutes of Run Time, LED Light, Heatgun with Flat and Hook Nozzle Attachments,Tool Only (DCE530B) $97.19",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-11T07:58:45.143021Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "GreenPan Rio Advanced 10\" and 12\" Frying Pan Skillet Set, Ceramic Nonstick PFAS-Free Pans, Cream White or Pink $41.24",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-11T07:58:45.143021Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Dr. Prepare Tower Fan Oscillating Fan, Portable Desk Fan with 3-Speed Options, Dual Air Circulation, 110° Oscillation, 3 Timers, 13 inch $24.29",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-11T07:53:10.366393Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Manual Can Opener $8.95 – Magnetic Lid Lifter, Sharp Steel Blade & Comfortable Grip",
-  "reason": "Posted at $8.95, but Amazon showed $16.11 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-11T07:53:10.366393Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Ozark Trail Men's Lace-Up Leather Snow Boot (Select Sizes) $12.17 + Free Shipping w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T07:53:10.366393Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "DEWALT 20V MAX Cable Cutter, Cordless, Tool Only (DCE150B) $592.99",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-11T07:47:37.162375Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Amazon Essentials Men's Athletic-Fit Stretch Jeans for $8 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T07:47:37.162375Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Woot Clothing Clearance for Everything under $15 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T07:47:37.162375Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Dakine's 25L Class Backpack (Various Colors) $19.99 + Free Shipping Orders $50+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T07:47:37.162375Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "PrimaCare IS-5529 26\" x 4\" Rolled Mesh Wire Splint $2.59 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-11T07:42:03.182122Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "ReaLime 100% Lime Juice 8-oz. Bottle 12-Pack for $14 via Sub & Save + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T07:42:03.182122Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Jansport 32L Duo Backpack (Various Colors) $22 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T07:42:03.182122Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Lenovo 16\" Laptop Casual Backpack B210 (Grey) $9.36 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T07:42:03.182122Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "DeWalt 20V MAX Cordless Leaf Blower (Tool Only) for $70 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T07:36:29.387630Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "DeWalt 20V Max 5Ah Battery 2-Pack for $100 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T07:36:29.387630Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Great Value LED Light Bulbs, Soft White 2700K, 75W Equivalent, A19, E26 Medium Base, 12-Pack $8.65",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T07:36:29.387630Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "39.5\" SPONDWILD Square PE Repotting Mat w/ Corner Buckles (Green) $3.08 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-11T07:30:56.202517Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[NEW, AC, YMMV] $182 | Makita 9031 1-1/8\" x 21\" Belt Sander at Amazon",
-  "reason": "Posted at $182.00, but Amazon showed $218.00 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-11T07:30:56.202517Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Peet's 30-Day Cold Brew Pass for $30",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T07:30:56.202517Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Refurb Linksys Router Deals at Woot for From $13 + extra 10% off for new customers + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T07:30:56.202517Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Fringe: The Complete Series $13.5",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T07:30:56.202517Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "4' Insignia USB-C to Lightning Charge & Sync Cable $4.99, 10' Insignia USB-C to Lightning Charge & Sync Cable $6.99 + Free Store Pickup at Best Buy",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T07:30:56.202517Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon: Walker 32200 Exhaust Clamp $1.13 + FS w/ Prime",
-  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-11T07:25:24.128793Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Hanes Essentials Men's Short Sleeve T-Shirt for $2 + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T07:25:24.128793Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "JBL Clip 4 Mini Bluetooth Speaker for $35 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T07:25:24.128793Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "onn 32W Dual USB-C & USB-A Wall Charger (White) $5.00 + Free Shipping w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T07:25:24.128793Z",
   "code": "not_checked",
   "public": false
  }
