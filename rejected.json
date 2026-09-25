@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Prime, 36 pack, Amazon Basics Low-Odor Dry Erase Whiteboard Markers, Chisel Tip, Quick-Dry, 4 Assorted Colors, $11.03, Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T09:40:07.781082Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Lord of the Rings 12\" x 15\" Arwen Quote Framed Poster for $16 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T09:40:07.781082Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Mens Golf Short-Sleeve, Dry Fit, Performance Casual Collared Polo Shirt with Pocket $9.97 AC",
+  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-25T09:34:32.926165Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Moymo Interactive Cat Toys (41-Piece) $18.89",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T09:34:32.926165Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[SnS, AC] $15.02 | 3 × 12-Pack 12-Oz A&W Zero Sugar Root Beer Soda ($5.01 each) at Amazon (41.7￠ each)",
   "reason": "Community score too low (+2) to pass without a price check — needs clip coupon, Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-25T09:28:58.988826Z",
@@ -135916,70 +135948,6 @@
   "raw_title": "Amazon Haul Limited Time Deal Drops for Deals from $1 + free shipping w/ $25",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-11T09:42:15.591831Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$11.88-AriZona Lemon Tea - Big Can, 22 Fl Oz (12 Pack) AMAZON",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-11T09:36:53.998787Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon Basics UPS Battery Backup & Surge Protector, 1500VA/900W, 10 Outlets, Black $119",
-  "reason": "Out of stock on Amazon when we checked",
-  "rejected_at": "2026-09-11T09:36:53.998787Z",
-  "code": "amazon_oos",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Open-Box Kasa Smart Indoor Pan-Tilt Home Security Camera for $11 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T09:36:53.998787Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[NEW] $234.99 | Makita XBP03Z 18V LXT Lithium-Ion Cordless Compact Band Saw, Tool Only at Amazon",
-  "reason": "Community score too low (+2) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
-  "rejected_at": "2026-09-11T09:31:21.320042Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "24\" x 24\" x 40\" VEVOR Stainless Steel Commercial Food Prep Work Table w/ Casters & Adjustable Shelves $69.90 + Free Shipping",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-11T09:31:21.320042Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "3-Pack KALIYADI Fit-Over-Glasses Polarized Sunglasses $9.99 + FS w/ Prime or orders $35+",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-11T09:31:21.320042Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Open-Box Kasa Smart WiFi Mini Smart Plug 4-Pack for $12 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T09:31:21.320042Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Hogwarts Legacy for PC for $4.80 + shipping varies",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T09:31:21.320042Z",
   "code": "not_checked",
   "public": false
  }
