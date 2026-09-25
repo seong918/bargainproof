@@ -1,6 +1,366 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "VTech Marvel Spidey and His Amazing Friends Spin Learning Watch $12.14 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T15:22:01.655963Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "M MAELREG Mens Moisture Wicking Dry Fit Business Casual Stretch Jacquard Short Sleeve Golf Polo Shirts $9.97 AC",
+  "reason": "Posted at $9.97, but Amazon showed $19.95 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-25T15:22:01.655963Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "NZXT Kraken Core 360 RGB AIO Liquid CPU Cooler (Black) $79.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T15:22:01.655963Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "14-Item Indie Fears Game Bundle (PC Digital Download) $13.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T15:22:01.655963Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "5-Item Trineverse PC Game Bundle: Trine 1-4 & Nine Parchments $10.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T15:22:01.655963Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "25\" Telescoping Magnetic Pickup Tool for $2 + free shipping w/ $25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T15:22:01.655963Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Fandango at Home 4K Film Mix & Match Sale for 5 for $15",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T15:22:01.655963Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "LEGO Creator 3-in-1 Sets from $7 on Amazon – Build 3 Unique Creations",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T15:22:01.655963Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Stanley 4-Slotted & 2-Phillips Precision Screwdriver Set (6-Piece) with Case $7.55",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T15:16:30.501137Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Karbor 10-Device Global Unlocked 4G LTE Pockect WiFi Router $39.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T15:16:30.501137Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Seahawks Edition Gillette Labs Shaving Kit $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T15:16:30.501137Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Cowboys Edition Gillette Labs Special NFL Shaving Kit $12.57",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T15:16:30.501137Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Bears Edition Gillette Labs Shaving Razor $12.57",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T15:16:30.501137Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Round Trip Denver - Oahu Hawaii (Honolulu, Waikiki) or Vice Versa Airfares on Alaska Airlines BE $320.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T15:16:30.501137Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Packers Gillette Labs Shaving Pack $12.57",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T15:16:30.501137Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Middle-earth: Shadow Bundle for Nintendo Switch 2 $34.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T15:16:30.501137Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Gillette Labs Special NFL Patriots Edition Shaving Kit $8.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T15:16:30.501137Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Gillette Labs Special NFL Chiefs Edition Shaving Razor $7.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T15:16:30.501137Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Sanrenmu 7 Folding Knife, Brass Knuckles COOZIE, Pocket Multi-Tool 3-Pack $14.50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T15:16:30.501137Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "What Remains of Edith Finch Nintendo Switch Digital $5.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T15:16:30.501137Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "KitchenAid 4-Piece Oven Mitt Set Just $12.99 Shipped for Amazon Prime Members (Reg. $50)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T15:16:30.501137Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Forever 21 Women's Printed Romper w/ Layered Skirt (3 Colors/ Patterns, Sizes XS-XL) $4.75 + Free S&H w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T15:16:30.501137Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "49ers Edition Gillette Labs Shaving Razor $12.57",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-25T15:16:30.501137Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "82\" Globlazer F82 Cat Tree Tower (Light Grey) $89.99 + Free Shipping",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T15:10:53.613136Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] Fantastic Four: Solve Everything Marvel Premier Collection $6.60 + Free Shipping",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T15:10:53.613136Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Whitney Houston Eau de Toilette 1.7 oz $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T15:10:53.613136Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Eagles Edition Gillette Labs Shaving Razor $12.56",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T15:10:53.613136Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Sketchers Foamies Arch Fit Footsteps - Sunny Days $18.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T15:10:53.613136Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "GE 8000-Lumen LED Screw-in Ceiling-mounted Work Light $29.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T15:10:53.613136Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Free Fly Women's Shade Hoodie II Top $38.83",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T15:10:53.613136Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Brooks Men's Hyperion 3 Running Shoes for $65 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T15:10:53.613136Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Eyeglass Ear Grips 6-Pair Pack for $2 + free shipping w/ $25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T15:10:53.613136Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas Men's Purechill Men's Slides (Royal Blue / Cloud White / Core Black, Sizes: 4-10) $20 + $4.95 Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T15:10:53.613136Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Meronte MR2566 3-Stage HEPA 225sq ft Small Air Purifier (2-Pack) with Fragrance Sponge $38.75",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T15:05:22.509594Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Toddler 2-Piece Halloween Scavenger Hunt Pajama Set $8.80",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T15:05:22.509594Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "iWALK StandMe Auto 15W Foldable 3-in-1 Wireless Charging Stand $29.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T15:05:22.509594Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Woolite Fresh Fabric Carpet & Upholstery Cleaner 12oz $3.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T15:05:22.509594Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Maeve Colette Denim Skirt $44.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T15:05:22.509594Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Vornado QUBE50 True HEPA 3-Stage Air Purifier $29.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T15:05:22.509594Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Costway Wicker Porch Swing w/ Cushions 880LBS Capacity $89.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T15:05:22.509594Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Armani Acqua di Gio Parfum 3.3 oz Men $119.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T15:05:22.509594Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Norwegian 10-Night Caribbean Tampa to New York Cruise for From $1,918 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T15:05:22.509594Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Yaheetech Gaming Chair with Footrest and Massage Lumbar Pillow for $76 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T15:05:22.509594Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Seabourn (Ultra Luxury) Cruise Up To $2000 OBC & Reduced Deposits in Select Markets Thru 2029 Sailings - Book by November 16, 2026",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T15:05:22.509594Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CVS PICK UP 9/27-10/3 Two Axe Stick AP/Deodorants $6.58 ac, get $3 Extra Bucks",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T15:05:22.509594Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "COCOMARTS Jelly Bras for Women No Underwire Wireless Push Up Bra Black,S $9.98",
   "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
   "rejected_at": "2026-09-25T14:59:59.359082Z",
@@ -135964,326 +136324,6 @@
   "raw_title": "Giftcards.com Gift Card Deals for $5 off $50",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-11T15:25:49.737456Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Gohero 60\"x90\" Soft Lightweight Q-Max Cooling Blanket $10.99",
-  "reason": "Posted at $10.99, but Amazon showed $19.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-11T15:20:17.114719Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Homemate 36\"x27\" Washable Leak-Proof Orthopedic Pet Bed with Toy $23.99",
-  "reason": "Posted at $23.99, but Amazon showed $39.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-11T15:20:17.114719Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Bose SoundLink Max Refurbished Official (Certified Refurbished) $237.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T15:20:17.114719Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Whirlpool 7-cu ft Vented Gas Dryer $599.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T15:20:17.114719Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Monarch Recreational Pickleball Net Set with two Paddles $34.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T15:20:17.114719Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Adidas FIFA World Cup 26™ Trionda Competition Ball $40.89",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T15:20:17.114719Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Logitech Advanced Wireless Keyboard & Mouse Combo (Black) $35.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T15:20:17.114719Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "BISSELL Little Green Mini Portable Upholstery Deep Cleaner $84.72",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T15:20:17.114719Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Frontier Airlines Orlando FL to Bogota Colombia Nonstop Airfares $250.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T15:20:17.114719Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Gap Factory Men's Crewneck Sweater $15.29",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T15:20:17.114719Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Wireless Label Maker Only $8.95 on Amazon | Compact & Easy to Use",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T15:20:17.114719Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "VEVOR 5-Bike Freestanding Storage Rack, 300-lb Capacity $58.79 Shipped",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T15:20:17.114719Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "VEVOR 12V 5KW Diesel Air Heater w/ LCD & Remote Control $64.55 Shipped",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T15:20:17.114719Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Flipper Zero $30 off! $169",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T15:20:17.114719Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Lenovo Yoga Slim 7x Lsptop: 14\" OLED Touch, Snapdragon X2 Elite X2E-80-100, 32GB RAM, 1TB SSD $1149 + Free S/H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T15:20:17.114719Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Bruno Marc Men's Hands-Free Slip-On Rommy Toe Casual Sneakers $21.99 Shipped",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T15:20:17.114719Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Creality Falcon A1C Laser Engraver 10W $299.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T15:14:45.467860Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Rockland 16.35\" Roof Bracket $139.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T15:14:45.467860Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Solar Garden Lights 2-Pack $8.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T15:14:45.467860Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "BLACK+DECKER Electric Leaf Blower, Leaf Vacuum and Leaf Mulcher (BV3100) $31.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T15:14:45.467860Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Mens Linen Pants $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T15:14:45.467860Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Round Trip Boston to Tampa FL or Vice Versa Nonstop Airfares on Delta Air Lines $179.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T15:14:45.467860Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Nulas 13-Piece Kitchen Knife Set with Blade Guards for $10 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T15:14:45.467860Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Anthropologie Final Sale Event: Up to 82% off + extra 50% off + free shipping w/ $50",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T15:14:45.467860Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "7-Eleven’s Bring Your Own Cup Day Returns on September 19th – Fill Any “Cup” for $1.99!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T15:14:45.467860Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "COWSAR Cold Press Juicer Machines w/ 5.4\" XL Feed Chute $40 + Free S/H",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-11T15:09:12.992230Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Round Trip Los Angeles to Kaohsiung Taiwan on United Airlines with 1 Free Checked Bag $780.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T15:09:12.992230Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Amazon Essentials Sling Bag (White/Black) $20.30",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T15:09:12.992230Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Timberland Men's Westmore Casual Suede Boots $22.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T15:09:12.992230Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Acer 15.6\" 60Hz IPS FHD FreeSync Portable Monitor PM161Q $39.89",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T15:09:12.992230Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Minimalist Paw Hoodie $19.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T15:09:12.992230Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "TGI Fridays 3 For All for From $12",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T15:09:12.992230Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "MERACH Bluetooth Vibration Plate Exercise Machine w/ Resistance Bands $36 + Free S/H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T15:09:12.992230Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "UA Charged Ascend Women’s Cushioned Running Shoes Pink $41.25",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T15:03:38.349407Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Car Seat Headrest Hook Organizer 4-Pack for $3 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T15:03:38.349407Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "7-Night Peru Flight, Hotel, and Tour Vacation for From $2,398 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T15:03:38.349407Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "50-Amp RV Surge Protector w/ Smart LED Display for $25 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T15:03:38.349407Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Inphic X9 Pro Ergonomic Wireless Vertical Mouse for $15 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T15:03:38.349407Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "ACT Kids Mouthwash Only $2 Shipped on Amazon",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T15:03:38.349407Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "4-Piece Wonder Nation Kids' Clear Backpack Set (Caticorn or Camo) $9.99 + Free Shipping w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T15:03:38.349407Z",
   "code": "not_checked",
   "public": false
  }
