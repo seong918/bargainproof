@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Eastman SB59-S guitar Truetone Vintage Satin - Burgundy Red $1049",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T23:54:18.465042Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Weber Instant Read Thermometer - Home Depot $6.75 in store ($16.99 online) YMMV",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T23:54:18.465042Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Utz Pub Mix,42 Oz. Barrel,Savory Snack Mix with a Blend of Crunchy Flavors for a Tasty Party Snack (Pack of 2)~$17.19 With S&S @ Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-25T23:48:44.555351Z",
@@ -134557,30 +134573,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-11T23:54:46.335452Z",
   "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$27.75* | Molton Brown Eau de Parfum Fragrance Discovery Set at Amazon",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-11T23:49:26.105626Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$13.99* | Lacoste Heritage 100% Supima Cotton Bath Towel 30\" x 54\", Surf Blue at Amazon",
-  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-11T23:49:26.105626Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "DEWALT 6.5-Amp Corded Top Handle Jig Saw (DW331K) $142.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T23:49:26.105626Z",
-  "code": "not_checked",
   "public": false
  }
 ]
