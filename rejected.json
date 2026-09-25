@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[Prime] 12.5\" Gund Disney Oh So Snuggly Eeyore Plush Stuffed Animal $19.49 + Free Shipping",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T12:16:12.871389Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Joyroom Ultra-Light & Thin Magnetic Fast Charging Apple Watch Stand $5.99",
+  "reason": "Posted at $5.99, but Amazon showed $9.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-25T12:16:12.871389Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Red Cross $15 e-Gift Card: Free when you donate blood + shipping varies",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T12:16:12.871389Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "12 Days of Beauty Whishes Advent Calendar Just $44.98 Shipped (Today Only!)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T12:16:12.871389Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "15-Piece adidas FIFA World Cup Historical Mini Soccer Ball Set $143.97 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T12:16:12.871389Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Mason Leather Power Recliner - 2 for $698. Free Ship. $299",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T12:16:12.871389Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$110 FS Walmart by Seller: babyeap 2 in 1 Baby Stroller,Foldable Lightweight Carriage Reversible Bassinet Pram for Toddler,Travel Stroller with with Cup Holder",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T12:16:12.871389Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Pack eufy SoloCam S220 2K Solar Powered Outdoor Wireless Security Cameras w/ Homebase 3 $198.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T12:16:12.871389Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "3 x A&W Zero Sugar Root Beer Soda, 12 fl oz cans, 12 pack $15.05 MBUY S&S",
   "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-25T12:10:37.756091Z",
@@ -135796,46 +135860,6 @@
   "raw_title": "Walgreens Halloween Skeletons & Outdoor Decor Sale: Buy one, Get one 50% off + free shipping w/ $35",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-11T12:19:42.462556Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "HURRY! Grab This Free $5 Prime Video Credit Before It’s Gone",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T12:14:27.558371Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "BISSELL SpinWave SmartSteam Scrubbing & Sanitizing Spin Mop (Titanium) $111.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T12:14:27.558371Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Kohl's Celebrate Together Halloween Decor Deals: Up to $60 off + free shipping w/ $49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T12:12:08.266795Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Razer Cobra Wired Lightweight Optical Gaming Mouse w/ Chroma RGB (Minecraft Edition) $29.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T12:12:08.266795Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$899 FS Best Buy by Jackery - Explorer 2000 v2 Portable Power Station (2042Wh) with a Medium Size Carrying Case for Outdoor Use and Emergency Backup (2042 Wh Capacity)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T12:12:08.266795Z",
   "code": "not_checked",
   "public": false
  }
