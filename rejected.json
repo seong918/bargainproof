@@ -1,6 +1,94 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon – Fiona's magic Woven Laundry Hamper - $15.99–$16.99 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T03:05:10.723975Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Rushare Propane Refill Adapter for 1 lb. Tanks with Valve and Gauge $15.29 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-25T03:05:10.723975Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – YOUDENOVA Large Cotton Rope Storage Basket - $16.50 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T03:05:10.723975Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Jogrytece 4-in-1 USB-C Multi Charging Cable - $4.99 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T03:05:10.723975Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – YTKIH Outdoor Halloween Eye Projector Light - $15 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T03:05:10.723975Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – SANTINY Women's Lightweight Workout Tank Top - $7.79–$8.83 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T03:05:10.723975Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "3/$14.95 S&S MULTI BUY 12pk 12oz cans: Pepsi, Pepsi Zero, Mountain Dew, Diet Mountain Dew",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T03:05:10.723975Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] 2-Pack 5' Minetom Light-Up Halloween Ghost Decorations w/ Remote (Veil-Witch Hat) $16.99 ($8.50 each) + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T03:05:10.723975Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$23.48 | Asmadi Games One Deck Dungeon at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T03:05:10.723975Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DEWALT XR 20V MAX Brushless 1/4-Sheet Cordless Variable Speed Sander (DCW200B) $129.00 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T03:05:10.723975Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "KAMRUI P2 Mini PC: AMD Ryzen Embedded R2544, 16GB DDR4, 512GB SSD, Radeon Vega 8, Windows 11 Pro – $189 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T03:05:10.723975Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon – Viodia Women's High-Waisted Joggers w/ Pockets - $9.99 w/ Code",
   "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-25T02:59:58.477973Z",
@@ -135604,22 +135692,6 @@
   "raw_title": "HORISUN Wireless Full Coverage Supportive Bras for Plus Size Women Sizes 32A-42DDD$8.49",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-11T03:09:22.565428Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "GE Profile - UltraFast 4.8 Cu. Ft. High-Efficiency Smart Front Load Washer and Electric Dryer Combo with Ventless Heat Pump $2198",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T03:03:48.784990Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "bose soundlink max refurbished official $237",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T03:03:48.784990Z",
   "code": "not_checked",
   "public": false
  }
