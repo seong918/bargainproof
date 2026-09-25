@@ -1,5 +1,29 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "2'4\" x 3'7\" Arotive Washable Buffalo Plaid Large Low Profile Door Mat (Black and White) $9.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+3) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T22:47:19.737757Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Steam Digital PC Games: Metro Exodus $3; Castlevania Anniversary Collection $4; Terra Nil $6 & More",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T22:47:19.737757Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Energy Take Classic 5.1 Channel Home Theater System $159 + Free S/H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T22:47:19.737757Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Horizon T101 Connect Treadmill for $700 + pickup",
   "reason": "Not evaluated",
@@ -134684,30 +134708,6 @@
   "raw_title": "Energy Speakers: Onkyo TX-NR7100 9.2ch Receiver + 2x CF-70 Floors + CC-10 Center + CB-20 Bookshelves C8 Sub $999 + Free S/H",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-11T22:48:24.148448Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Carhartt Nylon Duck Blanket Stripe Dog Collar Brown/Stripe Large $11.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T22:42:51.397246Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Energy Speakers: 2x RC-70 Floors + RC-LCR Center + 2x RC-10 Bookshelves $799 + Free S&H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T22:42:51.397246Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Onkyo TX-NR7100 9.2-Channel AV Receiver $599 + Free S/H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T22:42:51.397246Z",
   "code": "not_checked",
   "public": false
  }
