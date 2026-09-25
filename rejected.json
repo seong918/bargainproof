@@ -1,6 +1,214 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[S&S] Fanta Orange Soda Fruit Flavored Soft Drink, 7.5 fl oz, 20 Pack $8.15",
+  "reason": "Community score too low (+-1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T12:49:34.993688Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[S&S] Blue Diamond Almonds Low Sodium Lightly Salted Snack Nuts, 100 Calorie Packs, 0.6 Ounce (Pack of 32) $8.31",
+  "reason": "Community score too low (+-1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T12:49:34.993688Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "5-in-1 44\" Electric Warming Tray for $70 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T12:49:34.993688Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "6-Pairs Nike Dri-FIT Everyday Plus Cushioned Ankle Socks $14.98 & More + Free Shipping on $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T12:49:34.993688Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Woot! App: Amazon Essentials Women's Lightweight Water-Resistant Hooded Puffer Coat (Various Sizes) $14.39 + Free Shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T12:49:34.993688Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Tunic Long Sleeve Pleated Crew Neck Womens Tops STARTING at $6.40 (Rose Red)",
+  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-25T12:44:00.811207Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "LEGO DC Batman Forever Batmobile Toy Set (909-Piece) $74.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T12:44:00.811207Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "SAFAVIEH Nilla Modern Contemporary Navy / Clear 27-inch Table Lamp Set of 2 $50.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T12:44:00.811207Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "OEDRO All-Weather TPE Floor Mats & Cargo Liners for Honda CR-V $111.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T12:44:00.811207Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Oversized Lightweight Loose Zip Up Sleeveless Hoodies $13.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T12:44:00.811207Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Amazon Ember 50\" 4-Series with Fire TV $239.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T12:44:00.811207Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Olafus 2K QHD Floodlight Security Camera for $30 w/ Prime + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T12:44:00.811207Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ework 20V 22\" Cordless Hedge Trimmer w/ 2 Batteries & Charger for $43 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T12:44:00.811207Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Pompeian Olive Oil 68oz Bottle Only $15 Shipped on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T12:44:00.811207Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "YMMV - $5 Sams Cash after the curbside pickup",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T12:44:00.811207Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "OEDRO Floor Mats Chevrolet Silverado 1500/GMC Sierra 1500 Crew Cab $106.39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T12:38:26.988486Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Mens Crewneck Oversized Sweatshirts $11.09",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T12:38:26.988486Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "YITAMOTOR Floor Mats for Toyota Tundra CrewMax Cab $79.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T12:38:26.988486Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Tactical Cargo Pants Waterproof $17.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T12:38:26.988486Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "YITAMOTOR Chevy Silverado LED Head Lamp $79.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T12:38:26.988486Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "OEDRO Running Boards for 2015-2020 Ford F-150 SuperCrew $263.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T12:38:26.988486Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Drazivon Men's Linen Short Sleeve Button Down Shirt for $7 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T12:38:26.988486Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas Utility 4 Sling Bag (Black) $16.48 + Free Shipping on $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T12:38:26.988486Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Woot App: 11\" All-Clad D3 Pro Nonstick Stainless Steel Crepe Pan $71.99 + Free Shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T12:38:26.988486Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Diono Solana 2 XL 2022, Dual Latch Connectors, Lightweight Backless Belt-Positioning Booster Car Seat, 8 Years 1 Booster Seat, Pink $38.47",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T12:38:26.988486Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nike Women's Reactx Rejuven8 Shoes (Chalk) $29.97 + Free Shipping on $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T12:38:26.988486Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Baseus 20,000mAh 45W PD CCC Certified Power Bank w/ USB-C Cable $21 & More + Free S&H",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-25T12:32:55.560772Z",
@@ -135956,134 +136164,6 @@
   "raw_title": "Apple AirPods Pro 3, Wireless Earbuds Includes 2 Years of AppleCare+ $199.99 Free Shipping Costco.com",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-11T12:52:10.776971Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "60-Piece Black Silverware Set - Stainless Steel Silverware Set for 12 $31.99 @ Amazon",
-  "reason": "Posted at $31.99, but Amazon showed $63.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-11T12:46:36.459157Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Monster Persona 3rd ANC Bluetooth 5.4 Over-Ear Wireless Headphones Blue $35.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T12:46:36.459157Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "2K Wireless Outdoor Battery-Powered Security Camera for $21 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T12:46:36.459157Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[pre-order] AirPods 5 with Active Noise Cancellation $125",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T12:46:36.459157Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "27\" Sceptre FHD 1080p 100Hz Gaming Monitor w/ AMD FreeSync $91.97 + Free Shipping",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-11T12:41:01.128747Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Oraimo ANC Wireless Bluetooth Over-Ear Headphones with 65H Playtime $39.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T12:41:01.128747Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Hand-Forged Razor Sharp Carving Knife Set $15.19",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T12:41:01.128747Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "BUGANI Bluetooth Over Ear Headphones with RGB Light $15.95",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T12:35:29.568785Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "B2 Bluetooth Label Maker W/Tape $19.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T12:35:29.568785Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Electric Toothbrush Set 2-Pack $14.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T12:35:29.568785Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "4-in-1 Electric Shaver with Beard Trimmer Set $16.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T12:35:29.568785Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "GNCC 2.4GHz Indoor Security Camera 1080P 2-Pack $19.14",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T12:35:29.568785Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Wood Slat Wall Panel 4 Pack 93.3\"x11.8\" $107.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T12:35:29.568785Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Artificial Ivy Fence Privacy Screen 40 x 120 Inch $16.09",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T12:35:29.568785Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Men's Printed Long Sleeve Polo Shirt for 2 for $11 + $18 shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T12:35:29.568785Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Woot! Amazon Fall Sale: Best Apparel Under $15",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T12:35:29.568785Z",
   "code": "not_checked",
   "public": false
  }
