@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "SOLOEVER Elbow Compression Sleeve Brace w/ Gel Pad & Adjustable Strap $5.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T06:11:45.153157Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Woot! App: $31.99 | JZONES 4K Dash Cam Front & 1080p Rear w/ 170° Angle HDR Night Vision & 64GB Card at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T06:11:45.153157Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Woot! App: $19.99 | Baseus Picogo 10000mAh 45W Portable Power Bank w/ Built-in 45W USB-C Cable at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T06:11:45.153157Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Woot! App: $23.99 | Fender MD20 Mini Deluxe 3W Guitar Amplifier at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T06:11:45.153157Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "267-Pc LEGO Speed Champions Mercedes-AMG F1 W15 Race Car Building Toy (77244) $20 + Free Shipping w/ Circle Card or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T06:11:45.153157Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon: Bostitch Portable Rechargeable Battery Horizontal Pencil Sharpener $18.03 (or $12.62 w/ YMMV Coupon) (Reg $42.99, ~58% Off) + FS w/ Prime $17.97",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-25T06:06:08.197930Z",
@@ -136006,21 +136046,5 @@
   "rejected_at": "2026-09-11T06:46:31.842516Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Dream Pairs Women's Braided Strap Slip-On Flat Slide Sandals (various) $12.74 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-11T06:07:31.552218Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Prime Members iVANKY 45W Retractable 4-in-1 GaN USB-C Wall Charger w/ Dual USB-C Cables $15 + Free Shipping",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-11T06:07:31.552218Z",
-  "code": "low_score",
-  "public": true
  }
 ]
