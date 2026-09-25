@@ -134710,29 +134710,5 @@
   "rejected_at": "2026-09-11T22:42:51.397246Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Hydro Flask 40 Oz Water Bottle Wide Mouth Chug Lid(Gray/Tonal Trillium) $20 + Free S&H w/ Prime or $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-11T22:37:17.511920Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Kings County Tools Bench Vise w/ Rotating Jaws for $43 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T22:37:17.511920Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "LG OLED55C5PUA evo AI C5 Series Smart TV, $1299.99 with $200 Gift Card",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T22:37:17.511920Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
