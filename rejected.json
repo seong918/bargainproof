@@ -1,6 +1,14 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Utz Pub Mix,42 Oz. Barrel,Savory Snack Mix with a Blend of Crunchy Flavors for a Tasty Party Snack (Pack of 2)~$17.19 With S&S @ Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T23:48:44.555351Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "5-Piece Alselo Oven Mitts, Pot Holders and Chef Apron Kitchen Set (Cats, Dogs) $13.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-25T23:26:21.786864Z",
@@ -134574,53 +134582,5 @@
   "rejected_at": "2026-09-11T23:49:26.105626Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "MERACH Two-Pedal Anti-Slip Ab Twist Exercise Board (Black, 300 lbs Capacity) $29.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-11T23:43:53.236544Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Franklin Sports Gator Grip Baseball Bat Knob, Sting Reducer $1.99 + Free S&H w/ Prime or $35+",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-11T23:38:20.579247Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Fantasticlean 9-Piece Car Detailing Brush Set for $18 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T23:38:20.579247Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "32 Inch Odyssey G8 G80HS 6K | Gaming Monitor (2026) $700",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T23:38:20.579247Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$108.95* | Brooks Men's Hyperion Max 3 Neutral Running Shoes (2 colors) at Amazon",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-11T23:38:20.579247Z",
-  "code": "duplicate",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "IOOKNA 4-Node Cordless Electric 3 Speed Scalp Massager w/ 12 Silicone Massage Heads $12.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-11T23:38:20.579247Z",
-  "code": "duplicate",
-  "public": true
  }
 ]

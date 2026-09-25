@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "783d6f3121c9",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20062620-select-accounts-3-ct-6-5-oz-cheez-it-crunch-cheesy-baked-snacks-variety-pack-4-89-w-s-s-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "3-Ct 6.5-Oz Cheez-It Crunch Cheesy Baked Snacks (Variety Pack) w/ S&S + or on",
+  "raw_title": "[Select Accounts] 3-Ct 6.5-Oz Cheez-It Crunch Cheesy Baked Snacks (Variety Pack) $4.89 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 489,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "sns",
+   "prime"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-25T23:48:44.555351Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "f195a25e60ed",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20061630-the-island-of-dr-moreau-unrated-director-s-cut-blu-ray-8-99-amazon-com?utm_source=rss&utm_content=ht&utm_medium=RSS2",
