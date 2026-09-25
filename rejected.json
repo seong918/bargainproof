@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "COCOMARTS Jelly Bras for Women No Underwire Wireless Push Up Bra Black,S $9.98",
+  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-25T14:59:59.359082Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Werewolf: The Beast Among Us $10.27 Amazon.com",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T14:59:59.359082Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "COCOMARTS Jelly Bras for Women No Underwire Seamless Push Up Bra Black, S $9.99",
+  "reason": "Community score too low (+2) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-25T14:59:59.359082Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Space Cowboys Blu Ray $7.99 Amazon.com",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T14:59:59.359082Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Steelers EditionGillette Labs Razor Set $10.79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T14:59:59.359082Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Azzaro Chrome EDT Spray 6.7 oz $59.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T14:59:59.359082Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Giorgio Armani Acqua di Gio Men EDT 6.7 oz $113.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T14:59:59.359082Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Vitamix Alta Pro Blender for $300 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T14:59:59.359082Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[Prime] 36-Pack Amazon Basics Letter Size 1/3 Cut Tab File Folders (Red) $5.96 + Free Shipping",
   "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-25T14:54:35.955268Z",
@@ -136220,78 +136284,6 @@
   "raw_title": "4-Piece Wonder Nation Kids' Clear Backpack Set (Caticorn or Camo) $9.99 + Free Shipping w/ Walmart+ or on $35+",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-11T15:03:38.349407Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Orein Matter 9W 800-Lumen Color Changing Smart Light Bulb (6-Pack) $17.99",
-  "reason": "Posted at $17.99, but Amazon showed $41.49 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-11T14:58:04.829927Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Expert Gardener CONTRACTOR grade Garden Hose 3/4\" x 25 ft $18.40",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T14:58:04.829927Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "CTOLITY 100W Foldable Solar Panel $69.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T14:58:04.829927Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Triangle Borea BRA1 Surround Sound Speaker Pair $199.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T14:58:04.829927Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Greenworks 60V 10\" Cordless Battery Pole Saw w/ 2.0 Ah Battery & Charger $153.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T14:58:04.829927Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "White Ceramic Mixer Bowl for KitchenAid Stand Mixer 5 Qt Tilt-Head $34.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T14:58:04.829927Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "HAOYOO 4-1/2\" Brushless Cordless Angle Grinder (Makita 18V Compatible, Tool Only) $19.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T14:58:04.829927Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Greenworks 40V 550 CFM Electric Leaf Blower with 4.0 Ah Battery and Charger $139.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T14:58:04.829927Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Round Trip Washington DC to Madrid Spain $381 Airfares on American Airlines BE (Travel October - April 2027)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T14:58:04.829927Z",
   "code": "not_checked",
   "public": false
  }
