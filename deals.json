@@ -1,5 +1,38 @@
 [
  {
+  "deal_id": "7e97fcca6d58",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20060886-sns-ac-9-74-58-pack-0-84-oz-quaker-chewy-granola-bars-less-sugar-chocolate-chip-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "58-Pack 0.84-Oz Quaker Chewy Granola Bars (Less Sugar Chocolate Chip)",
+  "raw_title": "[SnS, AC] $9.74* | 58-Pack 0.84-Oz Quaker Chewy Granola Bars (Less Sugar Chocolate Chip) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 974,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-25T14:27:37.199659Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "1472fbfaf55f",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20059713-mickey-17-blu-ray-8-99-amazon-com?utm_source=rss&utm_content=ht&utm_medium=RSS2",
