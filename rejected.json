@@ -1,6 +1,366 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "3-Pack Ekouaer Women's Long Sleeve Comfy Sleep Nightgowns $19.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T07:23:37.342123Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$128.47: Enfagrow Premium Toddler Milk Nutritional Drink, Natural Milk 32 Oz, 6 CT",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T07:23:37.342123Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Amazon Basics AAA Rechargeable Batteries 24-Pack for $13 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T07:23:37.342123Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Fire TV Cube, Wi-Fi 6E, 4K Ultra HD $89.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T07:23:37.342123Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$10.99: Navitas Organics Superfood Power Snacks, Cacao Goji (16 oz) (23 Servings)",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T07:18:19.321275Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "IOOKAN Electric Scalp Massager, IPX7 Waterproof, 3 Massage Modes Tangle-Free & 186 Massage Nodes $13.49",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T07:18:19.321275Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "1-Oz Aveeno Calm + Restore Oat Face Serum $9.24 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T07:18:19.321275Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nike Men's Air Max Excee Sneaker (Sail Picante Red) $49.99 + Free Store Pick-Up at Nordstrom Rack or FS on $89+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T07:18:19.321275Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$62.77: Xbox 12 Month Game Pass Essential - US Registered Account Only (Email Delivery) at Newegg.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T07:18:19.321275Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GTPlayer Big & Tall High Back Fabric Gaming Chair w/ Lumbar Support, 300-Lb Capacity (Black) $119.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T07:18:19.321275Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CURSOR FITNESS L20 Folding Treadmill w/ 20% Incline, 3.5HP Motor & 400-Lb Capacity $219.99 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T07:13:00.095647Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Skechers Kids' Ultra Flex 3.0 Shoes (Black) $19.99 + Free Shipping on $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T07:13:00.095647Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Johnston & Murphy Hayden Plain Toe Derby Sneaker (Black) $49.97 + Free Store Pickup at Nordstrom Rack or FS on $89+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T07:07:31.559292Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$799: EGO Power+ 1000 22\" 56V Super Composite Deck Self-Propelled Mower w/ 10Ah Battery at Lowe's",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T07:07:31.559292Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Dreame Aqua Plus Bone Conduction Headphones, Open-Ear Headphones, IP68, 32GB Storage $39.99",
+  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-25T07:01:56.245078Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Softsoap Aquarium Liquid Hand Soap, 50 Oz Refill $5.22 or less S&S",
+  "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T07:01:56.245078Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$10.34 S&S AMAZON Softsoap Antibacterial Hand Soap, Cool Splash Scent, 11.25 fl oz (6 Pack)",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T07:01:56.245078Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Michael Kors Nolita Chain Crossbody Bag (Vanilla/Acorn) $59.25 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T07:01:56.245078Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Kobalt 26.7\" W x 33\" H 4-Drawer Steel Rolling Tool Cabinet (Gray, Red or Green) $199 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T07:01:56.245078Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Merrell Women's Wrapt Mid Waterproof Shoe (Black/Black, Poplar) $47.99 + FS on $75+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T07:01:56.245078Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Car Seat Gap Filler Organizer w/ 69W Retractable Car Charger for $5 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T06:56:20.611038Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "90% Off (Starting at $4) Samsung Z Flip 6, Z Flip 5, Z Fold 6, Z Fold 5, S25, S24+, S23+ Cases at Verizon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T06:56:20.611038Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Kara Beauty X Royal Dansk Creative Beauty Palette Makeup Gift Set $17.50 + Free Shipping on $60+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T06:56:20.611038Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Sol de Janeiro Rio Deo Aluminum-Free Deodorant $12.60",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T06:50:44.176289Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Rainbow Six Siege Elite Edition (PS5) $9.98 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T06:50:44.176289Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Dragons: Dawn of New Riders (Nintendo Switch) $13 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T06:50:44.176289Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "383-Pc LEGO Creator 3 in 1 Retro Telephone Kids Toy (31174) $20 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T06:50:44.176289Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "8-Ounce Sol de Janeiro Perfume Mist (Various Scents) $27.30 + Free Store Pick-Up at Urban Outfitters or FS on $60+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T06:50:44.176289Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nickelodeon Extreme Tennis: Next! (Nintendo Switch) $20 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T06:45:08.263978Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "In App Only: 32\" Samsung S3 (S39GD) FHD 100Hz Curved Monitor $119.99 + Free Shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T06:45:08.263978Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Avatar: Frontiers of Pandora From the Ashes Edition (PS5) $19.93 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T06:45:08.263978Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HyperX OMEN 15.3\" Gaming Laptop 2K IPS 165Hz, AMD Ryzen™ 5 240 NVIDIA® GeForce RTX $1099 $1099.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T06:45:08.263978Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Giantex 5-Tier Solid Wood Outdoor Planter Box $46.74 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T06:39:39.410874Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Ludatido 5000sq ft Coverage 80-Pint Energy Star Dehumidifier $149.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T06:39:39.410874Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "In App Only: 49\" Samsung Odyssey G9 G93SD DQHD 240Hz Curved Gaming Monitor $857.99, New Customers $837.99 + Free Shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T06:39:39.410874Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Woot! App: $47.99 | Andis UltraEdge ProClip 2-Speed Animal Grooming Clipper (Green) at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T06:34:04.428547Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Woot! App: $17.59 | 3-Pk Men's Super Stretch Slim Fit Chino Pants (various colors/sizes) at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T06:34:04.428547Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Woot! App: $51.99 | 2-Pk Overmont Oversized Padded Camping Chairs at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T06:34:04.428547Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "EcoSmart 60-Watt Equivalent A19 E26 Base Dimmable LED Light Bulb with Selectable Color Temperature (4-Pack) $5.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T06:34:04.428547Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$8.99* | Contact (Blu-ray) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T06:28:30.225918Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "TCL 65 Inch Class QM8L Series | SQD-Mini-LED QLED Smart TV | 65QM8L, 2026 Model | 144Hz $1497.95",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T06:28:30.225918Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Woot! App: $14.39 | WORX 11' Gutter Cleaning Kit for WORX Blower Vacs at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T06:28:30.225918Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Young Electric mid-drive 27.5-in full-suspension E-bike - $999.99 - Lowes or TSC",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T06:28:30.225918Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Woot! App: $37.59 | Wildora 4x360° 16-Line Self-Leveling Laser Level w/ Tripod at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T06:28:30.225918Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Woot! App: $10.39 | AdGuard: Family 9-Dev Lifetime Subscription Security Software (Email Delivery) at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T06:28:30.225918Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[Prime] 4-Pack TuyLuxe Outdoor Solar LED Spotlight Stake Lights $18.47 + Free Shipping",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-25T06:22:54.800026Z",
@@ -65809,14 +66169,6 @@
  },
  {
   "source": "slickdeals",
-  "raw_title": "Rainbow Six Siege Elite Edition (PS5) $9.98 + Free Shipping w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T06:48:36.326594Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
   "raw_title": "Costco Members - ECCO Men's Soft 7 Leather Sneaker (black or brown) - $69.97 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-18T06:48:36.326594Z",
@@ -65862,22 +66214,6 @@
   "rejected_at": "2026-09-18T06:37:44.350268Z",
   "code": "low_score",
   "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Nickelodeon Extreme Tennis: Next! (Nintendo Switch) $20 + Free Shipping w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T06:37:44.350268Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "383-Pc LEGO Creator 3 in 1 Retro Telephone Kids Toy (31174) $20 + Free Shipping w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T06:32:18.218974Z",
-  "code": "not_checked",
-  "public": false
  },
  {
   "source": "slickdeals",
@@ -65972,14 +66308,6 @@
   "raw_title": "6-Pack 27-Gallon Sterilite Large Storage Bins w/ Snap-On Lid (Black & Yellow) $48 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-18T05:48:51.321690Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Dragons: Dawn of New Riders (Nintendo Switch) $13 + Free Shipping w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T05:43:24.103428Z",
   "code": "not_checked",
   "public": false
  },
@@ -101473,14 +101801,6 @@
  },
  {
   "source": "slickdeals",
-  "raw_title": "Avatar: Frontiers of Pandora From the Ashes Edition (PS5) $19.93 + Free Shipping w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T06:16:07.907134Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
   "raw_title": "12-Count Satisfy Your Crave 20g Protein Bars (Variety Pack, 1.94-oz bars) For $13.59 w/ S&S + Promo Code ($1.13 per bar) @ Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs promo code, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-15T05:43:14.668121Z",
@@ -135988,126 +136308,6 @@
   "raw_title": "onn 32W Dual USB-C & USB-A Wall Charger (White) $5.00 + Free Shipping w/ Walmart+ or on $35+",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-11T07:25:24.128793Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Bosch GWX18V-10PN 18V X-LOCK Brushless 4-1/2 – 5 In. Angle Grinder with No Lock-On Paddle Switch (Bare Tool) $149.99",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-11T07:19:51.492650Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Refurb Shark & Ninja Home Faves Sale at Woot for Deals from $45 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T07:19:51.492650Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[Resale] $12 | Apple USB-C to Lightning Cable (2 m) (Used - Like New) at Amazon",
-  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-11T07:14:19.439320Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "iRobot Roomba Max 775X Combo Robot Vacuum & Mop + AutoWash Dock – Extending self-Cleaning Roller Mop, Brown/Black or Black $799.99",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-11T07:08:45.918191Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Shabebe 3 in 1 Pool Winter Closing Kit 16OZ, Up to 20,000 Gallon $9.99",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-11T07:08:45.918191Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Cooling Blanket, Summer Cooling Blankets for Hot Sleepers, Arc-Chill Q-Max>0.5 Cool Fiber, Oeko-TEX 100% Certified, Soft, Breathable, Double-Side Bed Throw,Keep Cool $12.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T07:08:45.918191Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$99: DEWALT 1/2-in 20-volt max Variable Speed Brushless Cordless Hammer Drill Batteries & Charger Included (DCD798D1) at Lowe's,Free S&H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T07:08:45.918191Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "500-Piece 1\"x3\" Reluen Tamper Proof Strong Adhesive Labels $10.79 w/ S&S + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-11T07:03:13.129780Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Makita DX12 Dust Extractor Attachment with HEPA Filter Cleaning Mechanism $73",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-11T07:03:13.129780Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Wegear 30W USB-C Dual-Port GaN Nano Charger $9.99",
-  "reason": "Posted at $9.99, but Amazon showed $18.04 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-11T07:03:13.129780Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Kobalt 4-Gallons 40-volt Lithium-ion Battery Operated Backpack Sprayer with Battery and Charger one_size | KBSP 1040A-03 $149",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T07:03:13.129780Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "4/$30 S&S get $10 Amazon Credit 28oz PUMP Bottles of L'Oreal Paris Elvive Total Repair 5 Repairing Shampoo or Conditioner",
-  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-11T06:57:39.900541Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Energizer MAX 9V Batteries 4 Pack, Alkaline Batteries $6.02 W/S&S",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T06:52:04.269435Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Lucky Line Skeleton Key with Notch TIP for Warded Locks, Antique Doors & Locks, 10 Pack $8.02",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T06:46:31.842516Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Krispy Kreme: Buy any regular-price dozen and get a second dozen of the new Apple Cider Original Glazed doughnuts for $5",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T06:46:31.842516Z",
   "code": "not_checked",
   "public": false
  }
