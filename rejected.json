@@ -1,6 +1,134 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS, AC] $15.02 | 3 × 12-Pack 12-Oz A&W Zero Sugar Root Beer Soda ($5.01 each) at Amazon (41.7￠ each)",
+  "reason": "Community score too low (+2) to pass without a price check — needs clip coupon, Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T09:28:58.988826Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $14.70 | 3 × 12-Pack 12-Oz Sunkist Orange Soda ($4.90 each) at Amazon (40.8￠ each)",
+  "reason": "Community score too low (+2) to pass without a price check — needs clip coupon, Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T09:28:58.988826Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$67.99* | 643-Piece LEGO Technic Kawasaki Ninja H2R Motorcycle Model Kit w/ Kickstand at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T09:28:58.988826Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$89.99* | Greenworks 24V 20\" Telescoping Pole Hedge Trimmer Attachment w/ 2.0Ah Battery & Charger (HT2002) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T09:23:22.818336Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Encool 24oz Leakproof Insulated Water Bottle with Straw $8.07",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T09:23:22.818336Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Iron Studios The Lord of the Rings Lurtz Limited Edition 1/10 Art Scale Statue for $161 + shipping varies",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T09:23:22.818336Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "LM Treasures Marvel Life-Size Statue Deals for From $300 + shipping varies",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T09:17:45.474927Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Jacketown Mens Zip Up Fleece Flannel Jacket $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T09:01:45.808066Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] Fanttik Slim V10 Mate 17000Pa 4-in-1 Cordless Handheld Car Vacuum $62.99 + Free Shipping",
+  "reason": "Community score too low (+3) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T08:56:24.172388Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Winco 5 1/4\" Plastic Commercial Funnel (White) $1.69",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T08:50:52.318437Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "MSI Modern 15 Core i5-1334U 15.6\" Laptop for $577 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T08:50:52.318437Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Transcendence (Blu-ray) $8.99 Amazon.com",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T08:39:40.043129Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "The Astronaut's Wife Blu Ray $8.99 Amazon.com",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T08:34:02.958131Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "laapee Cordless Handheld Leaf Blower w/ 2x 4.0Ah Batteries & Charger $29.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T08:34:02.958131Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Amazon Grocery Canned Garbanzo Beans (4x 15.5oz) $2.72",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T08:34:02.958131Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Video Game Auctions on eBay Live for Deals from $1",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T08:34:02.958131Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Aquaman and the Lost Kingdom (4K Ultra HD) $14.99 Amazon.com",
   "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-25T08:28:27.153598Z",
@@ -135852,422 +135980,6 @@
   "raw_title": "Hogwarts Legacy for PC for $4.80 + shipping varies",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-11T09:31:21.320042Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "SEDY 21-Piece 2.5\" Hex Head Allen Wrench Drill Bit Set $6.98",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-11T09:25:48.491495Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "SRsafety High Visibility 9-Pocket Reflective Safety Vest for $4 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T09:25:48.491495Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Arm & Hammer 170-oz. Sensitive Skin Plus Laundry Detergent for $9.99 w/ Sub & Save + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T09:25:48.491495Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "New Members: iRobot Roomba Plus 4020 Combo + Auto Wash Dock $359.98 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T09:25:48.491495Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "LONTEK 15% Incline Walking Pad Treadmill w/ Handles & 3.0HP Brushless Motor $94.99 + Free Shipping",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-11T09:20:13.875631Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "SKIL Rechargeable 4V Cordless Screwdriver with Circuit Sensor Technology, Includes 9pcs Bit, 1pc Bit Holder, USB Charging Cable $22.99",
-  "reason": "Community score too low (+4) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-11T09:20:13.875631Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Lowe's Back Aisle Sale & Clearance Deals: Up to 50% off + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T09:20:13.875631Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Final Fantasy VII Rebirth for PS5 for $15 + digital download",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T09:20:13.875631Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "New Members: Dyson V12 Detect Slim Cordless Stick Vacuum w/ 7 Tools $449.98 + Free Shipping $459.98",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T09:20:13.875631Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "CURSOR FITNESS Foldable Walking Pad Treadmill w/ Handles & 17% Incline $109.99 + Free Shipping",
-  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-11T09:14:40.575509Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "method Gel Hand Wash Refill, Vetiver + Amber, 34 fl oz, 4 Pack for $16.79",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-11T09:14:40.575509Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "240-Count iMATCHME Triple Magnesium Complex Capsules (Glycinate, Taurate & Malate) $13.79 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-11T09:14:40.575509Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Hellmann's 30oz Real Mayonnaise $3.56",
-  "reason": "Posted at $3.56, but Amazon showed $6.47 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-11T09:14:40.575509Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Samsung Galaxy Z Fold8 256GB Foldable Smartphone for $1,650 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T09:14:40.575509Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Walmart Has Boys Shorts On Clearance. Prices As Low As $1.58",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T09:14:40.575509Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "10-Piece Kobalt 6\" Magnetic Screwdriver Set $14.98 + Free S&H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T09:14:40.575509Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – GreenLaw iPad Air / iPad Pro 11\" Keyboard Case - $17.99–$24.99 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-11T09:09:20.710417Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "HERDEZ Guacamole Salsa, Medium, 32 oz Jug – Gluten Free, Kosher, Authentic Mexican Smooth & Flavorful Avocado-Based Salsa~$4.74 With S&S @ Amazon~Free Prime Shipping!",
-  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-11T09:09:20.710417Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "2-Pc Bosch 12V Max Brushed Drill/Driver Combo Kit w/ 2x 2.0Ah Batteries/Charger $99.99 at Tractor Supply w/ Free Store Pickup (YMMV)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T09:09:20.710417Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "New Members: 697-Piece LEGO Star Wars Gingerbread AT-AT Walker Building Set $46.99 + $5.50 Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T09:09:20.710417Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$187.99 | Makita XAG16Z 18V LXT BL 4-1/2”/ 5\" Cut-Off/Angle Grinder at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
-  "rejected_at": "2026-09-11T09:04:05.399686Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "HERDEZ Guacamole Salsa, Medium, 32 oz. jug (Pack of 2)~$9.98 @ Amazon",
-  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-11T09:04:05.399686Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[AC] $263.50* | 75ml Creed Aventus For Her – Women's Luxury Perfume at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-11T09:04:05.399686Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "4/$2.68 S&S PRIME 10% off Amazon Grocery, Canned Whole Kernel Corn, No Salt Added, 15.25 Oz (75c for 1 S&S)",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-11T09:04:05.399686Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "CURSOR FITNESS ET30 Compact Elliptical Machine w/ 8-Level Magnetic Resistance & 12\" Stride (Black) $151.99 + Free Shipping",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-11T09:04:05.399686Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "10-Night Bangkok & Krabi Flight and Hotel Vacation for From $3,398 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T09:04:05.399686Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Pioneer PN50-R851-27U 50\" Class LED 4K UHD Smart Roku TV for $160 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T09:04:05.399686Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – LUYI 36-Pair Resin Novelty Earrings Set - $8.99 w/ Code",
-  "reason": "Community score too low (+0) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-11T08:58:49.174797Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Lowe's Outdoor Plants Deals for From $17 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T08:58:49.174797Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – Portable 110V Travel Garment Steamer - $19.99 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-11T08:53:32.502540Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – G Gradual Men's Athletic Joggers w/ Pockets - $16.99 w/ Code",
-  "reason": "Community score too low (+4) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-11T08:53:32.502540Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – G Gradual Men's Thermal Long-Sleeve Athletic Shirt - $13.99 w/ Code",
-  "reason": "Community score too low (+2) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-11T08:53:32.502540Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "27.5\" 3-Tier Bamboo Shoe Rack (Natural) $13.49 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-11T08:53:32.502540Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Cuktech 85W 3-Port Car Charger with Built-in Retractable 2.3' Cable $17.99",
-  "reason": "Posted at $17.99, but Amazon showed $29.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-11T08:53:32.502540Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Lenovo IdeaPad Slim 3 Ryzen 5 40 15.6\" Laptop for $380 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T08:53:32.502540Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Lowe's Hand Tool Deals: Up to 30% off + free shipping w/ $25",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T08:53:32.502540Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – Olafus 4-Pack 40W RGB Outdoor Flood Lights - $34.99 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-11T08:48:17.141034Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – Ipletix Maternity Capri Leggings w/ Pockets - $4.99–$6.49 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-11T08:48:17.141034Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – Ipletix Women's High-Waisted Baggy Sweatpants - $9.89 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-11T08:48:17.141034Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – Leafigure 2-Pack High-Waist Leggings w/ Pockets - $7.79–$8.99 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-11T08:48:17.141034Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – WOSPORTS 1200-Yard Golf Rangefinder w/ Slope - $29.99 w/ Code + Deal",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-11T08:43:00.936031Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – Nollh DIY Journal Kit for Girls Ages 8–13 - $12.99 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-11T08:43:00.936031Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – Women's Minimalist Knit Ballet Flats - $14.99 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-11T08:43:00.936031Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – Luseta Curly Hair Shampoo & Conditioner Set, 16.9-Oz Each - $17.09 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-11T08:37:45.348992Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – COMITOK MOCA ARCO iPhone Camera Grip w/ Remote - $9.99 w/ Code",
-  "reason": "Community score too low (+2) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-11T08:37:45.348992Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – NUNU LAB Outdoor Storage Boxes - $21.49 / $64.99 / $69.99 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-11T08:37:45.348992Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Tiloqua 5.3 Bluetooth Wireless Noise Cancelling Earbuds $7.19",
-  "reason": "Posted at $7.19, but Amazon showed $14.39 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-11T08:37:45.348992Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Kobalt 4-Gallons 40-volt Lithium-ion Battery Operated Backpack Sprayer with Battery and Charger for $149 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T08:37:45.348992Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Arctic Zone Expandable Secret Bucket, Pink $9.59",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T08:37:45.348992Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – Labrostar 160-Pc Fall Leaf Cutouts - $4.79 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-11T08:32:09.841972Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – EasyWox 2500W Handheld Steam Cleaner - $48.99 w/ Code + Coupon",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-11T08:32:09.841972Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Titan by Arctic Zone 10 Can 7 qt Fridge Cold Insulated Cooler Tote + (2) Ice Walls, Lavender $12.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T08:32:09.841972Z",
   "code": "not_checked",
   "public": false
  }
