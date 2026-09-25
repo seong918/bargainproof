@@ -1,5 +1,141 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Horizon T101 Connect Treadmill for $700 + pickup",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T22:30:38.722421Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "5-Year AdGuard VPN Subscription (10 Devices) $34.97 (Digital Download)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T22:30:38.722421Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "44-lb. Adjustable Dumbbell Set for $49 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T22:25:02.889345Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "GarveeLife Small Printer Stand for $53 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T22:19:27.086973Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Mainstays LED Desk Lamp for $7 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T22:13:51.479653Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "48\" x 24\" Electric Height Adjustable Standing Desk for $85 w/ Prime + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T22:13:51.479653Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$241.39 FS WALMART Pirelli Scorpion All Season Plus 3 All Season 275/50R22 111H SUV/Crossover Tire",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T22:13:51.479653Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Cyclerade Walking Pad Treadmill $49.99 + Free Shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T22:13:51.479653Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Foldable Lap Desk with Cup Holder $9.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T22:08:15.230838Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "New Walmart Fall Doormats Under $14",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T22:02:38.634987Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Skechers Men's Max Cushioning Propulsion - Pulsewave (Limited Sizes) $54 & More + Free Shipping on $75+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T22:02:38.634987Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Disney Squishmallows from $6 on Amazon | Includes Star Wars and Stitch!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T21:57:02.159267Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bestpresso Coffee Pods For Nespresso Original Machines, Variety Pack 120 $21.44",
+  "reason": "Posted at $21.44, but Amazon showed $38.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-25T21:51:26.725809Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Jos. A. Bank Men's Tailored Fit Shirt for $20 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T21:45:49.800713Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Men’s Cable Knit Sweater UNDER $15 on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T21:45:49.800713Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Nature's Eats Pecan Pieces 16-Oz $6.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T21:34:37.056214Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Mainstays Coffee Maker Just $8.97 on Walmart.com | 1,000 Bought Since Yesterday!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T21:34:37.056214Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "18.5-Oz Progresso Italian-Style Bean & Pasta Protein Soup $1.28 + Free Shipping w/ Prime or on $35+",
   "reason": "Same deal was already posted from another source",
@@ -134613,326 +134749,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-11T22:31:44.353210Z",
   "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[NEW, AC] $251.39 | MSI B850 GAMING PRO WIFI6E Motherboard + Kingston NV3 2TB NVMe SSD Bundle at Amazon",
-  "reason": "Posted at $251.39, but Amazon showed $418.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-11T22:26:11.008760Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[Resale] $60 | Logitech MX Master 4 for Mac, White Silver (Used - Like New) at Amazon",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-11T22:20:38.185322Z",
-  "code": "duplicate",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Flat Plug 6-Outlet Power Strip w/ 5-Foot Extension Cord for $10 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T22:15:04.110994Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Beadboard Storage Cabinet with 3 Shelves and Cupboard $50 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T22:15:04.110994Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Jordan 1 Men's Football Cleats for $93 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T22:09:32.130849Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$7.99 | Amazon Essentials Men Slim-Fit 7\" Inseam Shorts at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T22:09:32.130849Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$8.99 | Amazon Essentials Men Full-zip Fleece Sweatshirt at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T22:09:32.130849Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Madden NYC Women's Woven Mesh Mule Flats, 3 colors, $7.88, Walmart",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T22:09:32.130849Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Woot! App: $29.99 | Amazon Basics Folding Plastic Chair, 350-Pound Capacity, White at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T22:09:32.130849Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "PILENTO 20V Cordless Leaf Blower 580 CFM 180 MPH w/ 2x 4Ah Batteries & Charger $48.99 + Free Shipping w/ Prime or $6 Fee per Order",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T22:09:32.130849Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "YMMV, in store, 4 gallons ECOLAB Professional Strength Industrial Degreaser, Attacks Grease, Buildup and Stains, $12.22, Home Depot",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T22:09:32.130849Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "100% Cotton Bath Towels 4 Pack 400 GSM 28 x 56 Inch $23.94",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T22:03:58.591151Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Carote Tumblers & Water Bottles from $9.99 on Walmart.com (Reg. $36)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T22:03:58.591151Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "SHERLOVE Chunky Gold Statement Drop Dangle Knot Earrings $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T21:58:24.939857Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "SAMA G1000 1000W 80+ Gold Fully Modular ATX 3.1 Power Supply $89.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T21:58:24.939857Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "CITIZEN Men's Eco-Drive Promaster Dive 44mm Stainless Steel BN0151-09L $237.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T21:58:24.939857Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "JBL Quantum Stream Wireless USB-C Streaming Microphone $44.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T21:58:24.939857Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Husqvarna 440 Gas Chainsaw $309.18",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T21:58:24.939857Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "NASCAR Arcade Rush Nintendo Switch $11.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T21:58:24.939857Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "hand2mind Letter Tracing Sensory Pad $5.95",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T21:58:24.939857Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "40-Oz Hydro Flask Wide Mouth Flex Straw Insulated Water Bottle $22.50",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T21:58:24.939857Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Carhartt Utility Multi-Size Pouch Set 3-Ct. $22.30",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T21:58:24.939857Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Reese's Assorted Peanut Butter Halloween Candy Pumpkin Bowl 110 Count $24.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T21:58:24.939857Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Superman & Lois: The Complete Fourth Season Blu-ray $12.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T21:58:24.939857Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Moleskine x BLACKPINK Limited Edition Undated Life Planner Hard Cover Large (5\" x 8.25\") Ruled/Lined Black 240 Pages $20.50",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T21:58:24.939857Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Husqvarna 135 Mark II Gas Powered Chainsaw 38-cc 2.1-HP 16 inch $209.28",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T21:58:24.939857Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Fellow Series 1 Espresso Maker Black $1199.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T21:58:24.939857Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Woot - (NEW) SAMSUNG ST40F Sound Tower Portable Party Speaker with Built-in Battery, Bluetooth, IPX4 Splash Resistant, Directional Sound, Up to 12 Hours Battery Life - $279.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T21:58:24.939857Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Wayback Burgers: Single Cheeseburger $3.50 on National Cheeseburger Day 9/18, In-store, Online, No Rewards Acct Needed, TWO Max Per Person",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T21:52:51.483766Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Marvel's Agents of S.H.I.E.D shield $39.99 at Appletv",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T21:52:51.483766Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$1.99 | The Chancellor: The Remarkable Odyssey of Angela Merkel (eBook) by Kati Marton",
-  "reason": "Community score too low (+-4) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-11T21:47:16.753036Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Britney Spears Fragrances 2 Piece Gift Set for Women $25.54",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T21:47:16.753036Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Brondell Nebia Merritt 5-setting Handheld Shower Head with HaloNetic Double Docking System Chrome $49.99 Brushed Nickel or Matte Black $54.99 Free Shipping Costco.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T21:47:16.753036Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Fanflix Autumn Ambush 2 or more starting at $3.99 plus extra 10% Off with code SEPTSAVINGS",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T21:41:43.235805Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Hornady One Shot 10 oz. Gun Cleaner & Dry Lube for $4 + free shipping w/ $25",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T21:36:11.116750Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Ritz Crackers Fresh Stacks 16-Count Just $3.63 Shipped on Amazon",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T21:36:11.116750Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "DEWALT 20V MAX XR 2x 4Ah Battery Kit with DEWALT 20V MAX 1-1/2in Cordless Pole Pruner $239",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T21:36:11.116750Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$99.99 FOX ONE Sports, Entertainment, News Channel $99.99 for one year (50% off)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T21:36:11.116750Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[Resale] $141.81 | Logitech G920 Driving Force Racing Wheel & Floor Pedals (Used - Like New) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-11T21:30:37.948032Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "36-Piece Car Detailing Kit for $25 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T21:30:37.948032Z",
-  "code": "no_signal",
   "public": false
  }
 ]
