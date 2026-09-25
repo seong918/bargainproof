@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "a0db7fca3a0b",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20058885-24-ct-12-oz-200mg-fitaid-energy-zero-sugar-raspberry-hibiscus-energy-drinks-26-59-w-s-s-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "24-Ct 12-Oz 200mg FITAID Energy Zero Sugar Raspberry Hibiscus Energy Drinks w/ S&S + or on",
+  "raw_title": "24-Ct 12-Oz 200mg FITAID Energy Zero Sugar Raspberry Hibiscus Energy Drinks $26.59 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 2659,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "sns",
+   "prime"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-25T01:43:11.384676Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "3d90ba9ef160",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20059278-prime-59-44-48-dumos-electric-adjustable-height-workstation-standing-desk-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",

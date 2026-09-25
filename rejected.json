@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Ekouaer Bow Tie Silky Cute Pjs Sets for Women,Fancy Christmas Pajamas Set $11.99",
+  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-25T01:43:11.384676Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$6.27-$12.34 S&S AMAZON Lepro AAA Batteries 24 or 48 Pack, 1.5V Alkaline Triple AAA Battery, Leakproof + More",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T01:43:11.384676Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Portable Oven, 110V Portable Food Warmer Personal Portable Oven for Reheating & Raw Food Cooking in Office, Travel $14.99",
+  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-25T01:43:11.384676Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ekouaer Women's Pajama Sets Long Sleeve Jogger Sets Red and Black Plaid M $11.99",
+  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-25T01:43:11.384676Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$239* | SIRUI 24mm Anamorphic f/2.8 1.33X APS-C Camera Lens at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T01:43:11.384676Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Early Prime Big Deal (Only Prime account):Philips Norelco Head Shaver Pro 9000 Electric Shaver, Clean & Gentle Shave $104.96",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-25T01:43:11.384676Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$79.99* | Giantex 5-Piece Dining Table Set with 4 Upholstered Stools at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-25T01:43:11.384676Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "L.L.Bean Men's Bean's Access Trail Quarter-Zip Tee for $30 + free shipping w/ $75",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-25T01:43:11.384676Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "DCA Cordless impact kit $45",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-25T01:37:43.905679Z",
@@ -135484,38 +135548,6 @@
   "raw_title": "Fantaslook Fall Long Sleeve Dresses for Women Crew Neck Empire Waist Tunic Dress with Pockets Sweater Dress $15.79",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-11T01:45:47.293316Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "28 L JanSport NCAA Officially Licensed Backpack(Navy) $14.19 + Free S&H w/ Prime or $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-11T01:40:14.732289Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Fantaslook Fall Dresses for Women Square Neck Long Sleeve Dresses Casual Babydoll Sweater Dress $15.39",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T01:40:14.732289Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Silkland 40Gbps USB4 USB C Extension Cable 240W for Thunderbolt 4,1 FT $15.28",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T01:40:14.732289Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "GARVEE 9000 BTU 18.5 SEER 2 230V Mini Split AC/Heating System w/ Wi-Fi $460",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T01:40:14.732289Z",
   "code": "not_checked",
   "public": false
  }
