@@ -1,6 +1,14 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Duturpo 1/50 Scale Diecast Metal Forklift Truck Toy $14.49 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-25T04:15:18.920805Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[Prime] Bissell CrossWave HydroSteam Deluxe 3-in-1 Wet Dry Vacuum Steam Mop w/ Dual-Tank System (3515G) $199.99 + Free Shipping",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-25T04:10:06.629671Z",
@@ -135814,13 +135822,5 @@
   "rejected_at": "2026-09-11T04:16:16.110909Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "OHO Sport Open‑Ear Smart Glasses $9.99 free shipping with Prime or $35+",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-11T04:10:42.732998Z",
-  "code": "low_score",
-  "public": true
  }
 ]
