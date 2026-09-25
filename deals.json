@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "1db570919d53",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20060892-ac-3-37-10-oz-nature-s-eats-blanched-slivered-almonds-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "10-Oz Nature's Eats Blanched Slivered Almonds",
+  "raw_title": "[AC] $3.37 | 10-Oz Nature's Eats Blanched Slivered Almonds at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 337,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-25T14:49:09.463670Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "44796dfb27a8",
   "source": "techbargains",
   "source_url": "https://www.amazon.com/gp/product/B09NZQ3WS6/ref=ox_sc_act_image_1?smid=ATVPDKIKX0DER&th=1",
