@@ -134734,21 +134734,5 @@
   "rejected_at": "2026-09-11T22:37:17.511920Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Hydro Flask 32 Oz Water Bottle Wide Mouth Flex Chug Lid(Tonal Oat) $20 + Free S&H w/ Prime or $35+",
-  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-11T22:31:44.353210Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$50 gift cards, $45, Google Play, Chipotle, XBOX, Playstation, Lego and more, giftcards.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-11T22:31:44.353210Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
