@@ -1,5 +1,133 @@
 [
  {
+  "source": "dealcatcher",
+  "raw_title": "DELSEY PARIS Chatelet Air 2.0 24 Inch Checked-Medium Luggage, Pink $74.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T15:06:46.994187Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "JanSport 26L Cross Town Backpack 12 inch $17.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T15:06:46.994187Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Extra Strength Nail Repair Pen 4-Pack $9.40",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T15:06:46.994187Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Bestpresso Coffee Pods For Nespresso Original Machines, Variety Pack 120 Count $21.44",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T15:06:46.994187Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "ZEISS Pre-Moistened Lens Cleaning Wipes, 400 Count $17.72",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T15:06:46.994187Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Bath & Body Works 3-Wick Candles $13.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T15:06:46.994187Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Walmart Mini Christmas Trees & Ornaments from $2.66",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T15:06:46.994187Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "MLB The Show 26 (Xbox Series X) $44.95 + Free Shipping",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-26T15:01:13.058251Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Hawaiian Punch Fruit Juicy Red Juice Drink 24 Count 10 Oz $7.52",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T15:01:13.058251Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Aveeno Calm + Restore Nourishing Oat Face Cleanser 7.8-Oz $6.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T15:01:13.058251Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Iceivy Women's Socks 5 Pairs $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T15:01:13.058251Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Aveeno Positively Radiant Brightening Daily Face Wash Scrub 5-Oz $4.78",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T15:01:13.058251Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Aveeno Daily Moisturizing Body Lotion 18-Oz (Fragrance-Free) $6.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T15:01:13.058251Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "18-oz Aveeno Skin Relief Moisturizing Body Lotion (Oat & Shea Butter) $5.50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T15:01:13.058251Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "8-Night Ireland, Wales, and England Hotel and Tour Vacation for From $3,224 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T15:01:13.058251Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Timex Waterbury Men's Quartz Analog Silver-Tone Stainless Steel Watch, 41mm $148",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T15:01:13.058251Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Suzume 8-17mm Stubby Flex Head Ratcheting Wrench Set (8-Piece) $25.34",
   "reason": "Posted at $25.34, but Amazon showed $38.99 when we checked — the deal is probably over",
@@ -135100,158 +135228,6 @@
   "raw_title": "Holmes MiniBreeze Desktop Oscillating Tower Fan White $6",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-12T15:09:03.595206Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Dell G15 5520 Refurb 15.6\" FHD IPS 165Hz, 16GB DDR5, 1TB SSD $679.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T15:03:31.772147Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "MSI Raider 16 Max HX 16\" QHD+ 240Hz OLED Gaming Laptop with 32GB DDR5 RAM and 1TB SSD $1,849.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T15:03:31.772147Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Adidas Men's Adilette Lumia Slides (Trace Khaki) $11.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T15:03:31.772147Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Adidas 1L Steel Metal Water Bottle $16.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T15:03:31.772147Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "DEWALT Stealthsonic Quiet 6-Gallon 4 HP Corded Wet/Dry Shop Vacuum $69.98",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T15:03:31.772147Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Style Selections Wood Frame Rocking Chair for $65 + free delivery w/ $79",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T15:03:31.772147Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Holland America 7-Night Eastern Caribbean Cruise for From $1,258 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T15:03:31.772147Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Holland America 12-Night Panama Canal Cruise for From $2,798 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T15:03:31.772147Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "This Belkin 5-in-1 Hub Turns Your Laptop Into a Portable Workstation for UNDER $20 Shipped (Reg. $80)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T15:03:31.772147Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon Grocery, Canned Traditional Refried Beans, 16 Oz (Pack of 6)~$4.98 @ Amazon",
-  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-12T14:57:58.260143Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Kobalt Compact 10-in 15-Amp Dual Bevel Sliding Compound Corded Miter Saw $199.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T14:57:58.260143Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "LEGO Disney Princess Mini Belle & Tiana w/ Castle (43291) 358-Pc $19.17",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T14:57:58.260143Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Clarins DOUBLE SERUM Light Texture To Firm, Boost Radiance & Refine Pores $48.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T14:57:58.260143Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Learning Resources The Original Peekaboo Learning Farm $12.86",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T14:57:58.260143Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "LEGO Minifigures Shrek Series 6-Pack $24.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T14:57:58.260143Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Throw Pillow Covers 18x18\" Set of 2 $4.44",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T14:57:58.260143Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Amazon Essentials Men's Straight-Fit Golf Pants for $11 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T14:57:58.260143Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Gardetto’s Snack Mix 10-Pack Just $4.77 Shipped on Amazon (48¢ Each) + More",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T14:57:58.260143Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "CRAFTSMAN 7 -Piece Set 12-point Metric Standard Combination Wrench $14.98 + Free Pickup at Lowe's",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T14:57:58.260143Z",
   "code": "not_checked",
   "public": false
  }
