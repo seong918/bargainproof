@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Rework Toshi 20L (v1) available for $132 + Free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T23:43:20.486128Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LEVOIT Cordless Vacuum Cleaner with HEPA Filter, Stick Vac (LVAC-300) $199.99 at Amazon",
+  "reason": "Posted at $199.99, but Amazon showed $189.99 when we checked — the post is stale",
+  "rejected_at": "2026-09-26T23:19:07.307887Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "In-Store Clearance Item only YMMV Resin Patio Adirondack Chair $4.9",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T22:57:38.362312Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Woot! App: $44.99 | National Tree Company Pre-Lit Flocked Acacia Tree at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T22:57:38.362312Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Buy two 3-Count Blistex Lip Medex Medicated Lip Balm,0.25 oz (6 total lip balms) for $5.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-26T22:52:17.370313Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$99.99 | Samsonite LTE Softside Expandable Luggage, 3-Piece Set at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T22:52:17.370313Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$1.49 | ACCO Jumbo Paper Clips Smooth 100 Ct at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T22:52:17.370313Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "0.9% Saline Solution, Sodium Chloride, 5 mL Each, 21 Vials, Nasal Cleanse $9.98",
+  "reason": "Posted at $9.98, but Amazon showed $19.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-26T22:47:01.921253Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[SnS, AC] $3.06* | 5-Pack 0.625-Oz Jack Link's Beef Jerky at Amazon",
   "reason": "Same deal was already posted from another source",
   "rejected_at": "2026-09-26T22:41:47.200719Z",
@@ -134116,62 +134180,6 @@
   "raw_title": "OPEN BOX onn 25\" FHD (1920 x 1080p) 200Hz Gaming Monitor & others $56",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-12T23:44:38.181862Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$25 Fandango at Home eGift Card (Email Delivery) $20",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T23:39:05.266484Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Calvin Klein Men's Slim-Fit Blazer (Various) $59.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T23:33:32.477424Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "60-Count First Aid Beauty Ultra Repair Hydrating Pillow Pads w/ Colloidal Oatmeal & Ceramides $14.62 w/ S&S + Free Shipping w/ Prime or on $35+",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-12T23:33:32.477424Z",
-  "code": "duplicate",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "24-Oz Starbucks Sweet Cream Coffee Creamer (up to $8 Value) FREE w/ Rebate",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T23:28:00.611540Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "pokemon cards $7.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T23:16:53.823225Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[YMMV, AC] $524.65 | Intel Core i9-14900 Desktop Processor 24 cores (8P+16E) up to 5.8 GHz at Amazon",
-  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-12T22:54:45.011538Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Play-Doh Drill ‘n Fill Dentist Toy $12.74",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T22:54:45.011538Z",
   "code": "not_checked",
   "public": false
  }
