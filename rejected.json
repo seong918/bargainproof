@@ -1,6 +1,126 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$5 | Maxwell's Urban Hang Suite (Audio CD w/ AutoRip MP3) at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-26T00:37:46.638825Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$26.35 lessS&S, MultiBuy, Clip Q 6 x Harry's Men's Body Wash - Fig - 18 fl oz",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-26T00:32:24.250093Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Citizen Men's Eco Drive Classic Stainless Steel Watch for $249 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T00:32:24.250093Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Horizon T101-08 CONNECT Treadmill $699.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T00:32:24.250093Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "6-cup IMUSA Electric Espresso Maker $24.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T00:32:24.250093Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$9.73-$12.10 S&S CLIP Q -Harry's Men's Body Wash - Redwood or Spring - 18 fl oz (3 Pack)",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-26T00:26:48.663034Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Timex Men's Chronograph Leather Watch for $166 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T00:26:48.663034Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "HP Victus Ryzen 5 7535HS 15.6\" Gaming Laptop for $875 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T00:26:48.663034Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ekouaer Pajamas for Women Set Long Sleeve Top and Jogger Pants Lounge Sets $10.99",
+  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-26T00:21:13.305826Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "PINSPARK Men's Lightweight Workout Hoodie Sweatshirt, Navy, L $6.99",
+  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-26T00:21:13.305826Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Zigtik UV400 Polarized Lightweight Smart Audio Sunglasses $16.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T00:21:13.305826Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Chipotle National Quesadilla Day Deals at Chipotle: Free quesadilla w/ $20 purchase + shipping varies",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T00:15:40.293549Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Target Beauty Event $20 off $50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T00:05:05.721091Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "World Market Gifts Sale: Up to 65% off + free shipping w/ $59",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T00:05:05.721091Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Frito-Lay Snacks 18-Count Variety Pack for $9 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T00:05:05.721091Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Eastman SB59-S guitar Truetone Vintage Satin - Burgundy Red $1049",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-25T23:54:18.465042Z",
@@ -134452,62 +134572,6 @@
   "raw_title": "2-Pack 6.87\" Milwaukee Fastback Compact Folding Utility Knife Set (Red) $15.97 + Free S&H",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-12T00:39:06.417450Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Scotch General Purpose Contractor Grade Masking Tape (1.41'' x 60.1 Yd.) $2.98 + Free S&H w/ Prime or $35+",
-  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-12T00:16:55.329644Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$14.93 S&S AMAZON Icelandic Glacial Alkaline Water, 330mL (Pack of 30)",
-  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-12T00:05:46.931423Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "hip2save",
-  "raw_title": "Up to 80% Off Walmart Women’s Sandals | Styles from UNDER $6!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T00:05:46.931423Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Tissot Carson Automatic Blue Dial Men's Watch $270",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T00:05:46.931423Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Chewy 50% Off First Prescription Auto-Ship (Up to $50/$100 Off)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T00:05:46.931423Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Brushed Gold Farmhouse Chandelier with White Fabric Shades $24.39",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T00:00:15.557848Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Pocket Juice Endurance AC 10,000mAh Power Bank Charger for $12 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T00:00:15.557848Z",
   "code": "not_checked",
   "public": false
  }
