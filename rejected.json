@@ -1,5 +1,21 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Timberland Wellington Leather RFID Bifold Commuter Security Wallet for $17 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T00:43:03.409000Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Muumblus Modular Sectional Couch, Modern Oversized L-Shape Boneless Cloud Couch for Living Room, No Assembly Required, Black Corduroy, Right Chaise $331.55",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T00:43:03.409000Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$5 | Maxwell's Urban Hang Suite (Audio CD w/ AutoRip MP3) at Amazon",
   "reason": "Same deal was already posted from another source",
@@ -134558,21 +134574,5 @@
   "rejected_at": "2026-09-12T00:44:41.635353Z",
   "code": "low_score",
   "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Seiko Men's Chronograph Quartz Watch for $159 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T00:39:06.417450Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "2-Pack 6.87\" Milwaukee Fastback Compact Folding Utility Knife Set (Red) $15.97 + Free S&H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T00:39:06.417450Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
