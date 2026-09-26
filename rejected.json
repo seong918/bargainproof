@@ -1,5 +1,45 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Damipow Men's Short Sleeve Button Down Hawaiian Shirt $11.99",
+  "reason": "Posted at $11.99, but Amazon showed $23.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-26T13:43:41.510245Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Dragon Quest Monsters: The Dark Prince (Nintendo Switch) $25 + Free Shipping w/ Circle Card or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T13:43:41.510245Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Qidianfy 24V 100Ah LiFePO4 Lithium Battery Built in 100A BMS $247.10 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T13:43:41.510245Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "MoAcey 3-in-1 Vibration Adjustable Size Knee Massager $9.01",
+  "reason": "Posted at $9.01, but Amazon showed $36.57 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-26T13:32:30.431512Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Red Vines Black Licorice Candy Black Licorice Soft Chewy Candy Twists 3.5 Lb Jar, $9.99, FS Prime, Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T13:32:30.431512Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "SpaceAid Jumbo Vacuum Storage Bags, Space Saver Sealer Compression Bags for Comforters, Blankets, Pillows, Bedding, Clothes (X-Large 3 Pack) $8.99",
   "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
@@ -134940,46 +134980,6 @@
   "raw_title": "adidas men Train Essentials Feelready Training Tee(Chalky Brown / Black) $8 + Free S&H at ebay",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-12T13:46:02.330607Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[S&S, AC] $17.12: AmazonFresh 80 Ct. K-Cups, French Vanilla Flavored Medium Roast $17.11",
-  "reason": "Community score too low (+0) to pass without a price check — needs clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-12T13:34:57.111184Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[AC] $15.07: Hydro Flask Water Bottle, Insulated Stainless Steel, Wide Mouth Flex Straw Lid, 32 oz, Holiday Punch",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-12T13:34:57.111184Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "hip2save",
-  "raw_title": "DEWALT 6-Gallon Wet/Dry Shop Vacuum Just $69.98 Shipped on Lowes.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T13:34:57.111184Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Shark Vacuum and Empty Cordless $118.79",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T13:34:57.111184Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Nutella & Go 10-Count Snack Pack Just $9.73 Shipped on Amazon",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T13:29:26.633522Z",
   "code": "not_checked",
   "public": false
  }
