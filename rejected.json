@@ -1,6 +1,78 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "UJPFEO Knee Pillow for Side Sleepers,Leg Pillows for Sciatica,Knees,Hips,Joints $18.49",
+  "reason": "Posted at $18.49, but Amazon showed $36.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-26T18:37:45.917974Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Black Gold: Oil Drilling Simulator",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T18:37:45.917974Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Wayfinder",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T18:37:45.917974Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Car Mechanic Simulator 2021",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T18:37:45.917974Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Tank Mechanic Simulator",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T18:37:45.917974Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "EGO 400W Portable Power Station With 56V 5Ah Battery @ Lowes $329",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T18:37:45.917974Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "590-Pc LEGO Sonic the Hedgehog: Super Sonic vs. Egg Drillster (76999) $50 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-26T18:32:12.850945Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$12.96* | Star Trek Trilogy: The Kelvin Timeline (Blu-ray) at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-26T18:32:12.850945Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M18 FUEL PACKOUT Cordless Brushless Reciprocating Saw Kit ( 5.0 ah Battery & Charger) $249",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T18:32:12.850945Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[AC] $38.96* | 50.5mm Casio Men’s MWA100H Series Stainless Steel Analog Watch (Silver) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-26T18:26:40.440700Z",
@@ -134276,30 +134348,6 @@
   "raw_title": "Barebones Neelum 4-piece Duffle Set Denim $69.99 free shipping Costco.com",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-12T18:39:30.133197Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "DreamWorks Gabby's Dollhouse: Ready to Party (PS5) $12 + Free Shipping w/ Prime or on orders over $35",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-12T18:33:56.279686Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "See's Birthday Save $7 on 1lb and $13 on 2lb Nuts and Chews Today Only $27",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T18:33:56.279686Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Anker SOLIX F3800 Plus Portable Power Station + Smart Home Power Kit + PS200 Bifacial Portable Solar Panel (200W) $3040 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T18:28:24.003333Z",
   "code": "not_checked",
   "public": false
  }
