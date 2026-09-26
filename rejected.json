@@ -1,6 +1,118 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[Prime] $15.56 | The Complete Adventures of Curious George: 75th Anniversary Edition at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-26T19:27:41.269771Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Brightown 80ft 200-LED Solar Outdoor Waterproof String Lights (Warm White, 2-Pack) $5.99",
+  "reason": "Posted at $5.99, but Amazon showed $16.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-26T19:27:41.269771Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "HUGE Halloween M&M’S Jars Only $9.56 on BJ’s.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T19:27:41.269771Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Citizen Eco-Drive Mens Silver Tone Stainless Steel Bracelet Watch Aw0110-58e $140",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T19:27:41.269771Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Klein Tools 32305 15-in-1 Multi-bit Ratcheting Screwdriver $19.98",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-26T19:22:06.803819Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $19.99 | Greater Than Games Horizons of Spirit Island Cooperative Strategy Board Game at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-26T19:22:06.803819Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Car Mechanic Simulator 2014",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T19:22:06.803819Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $10.98* | 33-Oz Aveeno Skin Relief Moisturizing Body Lotion (Fragrance-Free) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-26T19:16:32.901379Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$7.99* | Clerks (Blu-ray + Digital) at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-26T19:16:32.901379Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$7.99* | 40-oz Bagsmart Magnetic Crossbody Water Bottle Holder w/ Strap at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-26T19:16:32.901379Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$15.99* | Shomextol Freestanding Metal Garden Hose Holder w/ 100' Capacity & 4 Ground Spikes at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-26T19:16:32.901379Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Walmart Women’s Tees, Leggings, & More from $2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T19:16:32.901379Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "RYOBI ONE+ 18V Cordless Reciprocating Saw with 2.0 Ah Lithium Battery $84",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T19:16:32.901379Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Citizen Eco-Drive Mens Silver Tone Stainless Steel Bracelet Watch $150",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T19:16:32.901379Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$27.82* | 55-pc Facoow Magnetic Impact Nut Driver Set at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-26T19:11:00.281759Z",
@@ -134348,54 +134460,6 @@
   "raw_title": "Dyson Supersonic Nural Hair Dryer with Chitosan Post-Style Serum $329.99 + $9.99 shipping Costco.com",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-12T19:29:25.833606Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Dyson Airstrait Wet-to-Dry Straightener with Omega Hydrating Hair Oil $379.99 + $9.99 Shipping Costco.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T19:23:55.445036Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS, AC] $5.57 | 15-Pack 1.2-Oz Nature Valley Granola Bars (Variety Pack) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs clip coupon, Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-12T19:18:23.021962Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Beyond the Long Night",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T19:18:23.021962Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "All-Clad Simply Strain, Stainless Steel Multipot with Straining Lid, 8-Quart $89.99 Free Shipping Costco.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T19:18:23.021962Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[NEW] $184.99 | Makita XTP02Z 18V LXT Lithium-Ion Cordless 1-3/8\" Pin Nailer, 23 Gauge, Tool Only at Amazon",
-  "reason": "Posted at $184.99, but Amazon showed $181.52 when we checked — the post is stale",
-  "rejected_at": "2026-09-12T19:12:51.909597Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Elements Leilani Bar Table $299.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T19:12:51.909597Z",
   "code": "not_checked",
   "public": false
  }

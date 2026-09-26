@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "83fe396c4139",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20064699-crucial-p3-pcie-gen3-nvme-1tb-ssd-up-to-3-500mb-s-read-89-99?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
+  "title": "Crucial P3 PCIe Gen3 NVMe 1TB SSD, Up to 3,500MB/s Read",
+  "raw_title": "Crucial P3 PCIe Gen3 NVMe 1TB SSD, Up to 3,500MB/s Read $89.99",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0B25LZGGW",
+  "deal_total_cents": 8999,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 8999,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 8999,
+  "amazon_url": "https://www.amazon.com/dp/B0B25LZGGW",
+  "amazon_checked_at": "2026-09-26T19:27:44.943358Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0B25LZGGW",
+  "image_url": null,
+  "published_at": "2026-09-26T19:27:41.269771Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "cb816b31ef33",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20063790-squishmallows-original-8in-star-wars-grogu-plush-little-4-49-free-s-h-w-prime-or-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
