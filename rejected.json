@@ -1,6 +1,38 @@
 [
  {
   "source": "dealcatcher",
+  "raw_title": "Jacketown Men's Plaid Sherpa Fleece-Lined Zip-Up Flannel Hoodie Jacket $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T14:16:57.768046Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Energizer Ultimate Lithium AA Batteries 4-Count $7.12",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T14:16:57.768046Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Charmin Essentials 2 Ply Soft Toilet Paper 6 Mega Rolls $4.78",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T14:16:57.768046Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Blistex Medicated Lip Balm $4.58",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T14:16:57.768046Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
   "raw_title": "25-Oz Star Drops The Pink Stuff Window & Glass Cleaner Spray $3.93",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-26T14:11:24.719500Z",
@@ -69937,14 +69969,6 @@
  },
  {
   "source": "dealcatcher",
-  "raw_title": "Energizer Ultimate Lithium AA Batteries 4-Count $7.12",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T18:18:26.844578Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
   "raw_title": "DJI Mic 3 Wireless Microphone Kit (2 TX + 1 RX + Charging Case) $219.00",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-18T18:18:26.844578Z",
@@ -135300,46 +135324,6 @@
   "raw_title": "Zojirushi Micom 10-Cup Rice Cooker & Warmer for $151 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-12T14:19:13.127401Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$799.99: roborock Qrevo CurvX Robot Vacuum and Mop (22,000Pa Suction, 3.14\" Ultra Slim)",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-12T14:13:41.249143Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "hip2save",
-  "raw_title": "First Aid Beauty Ultra Repair Cream Just $16.80 on Amazon (Reg. $42)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T14:13:41.249143Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Bona Spray Mop Air for Multi-Surface Floors Kit $19.97 + $10.00 Walmart Cash at Walmart.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T14:13:41.249143Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ERYONE 10KG PLA Transparent Filament for $51.07 (No Coupon needed)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T14:13:41.249143Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "2 year Nord VPN subscription $49.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T14:13:41.249143Z",
   "code": "not_checked",
   "public": false
  }
