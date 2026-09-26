@@ -1,5 +1,29 @@
 [
  {
+  "source": "hip2save",
+  "raw_title": "Walmart Purses & Bags from $4.64",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T17:14:22.820042Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ECOVACS DEEBOT T90 PRO Omni Robot Vacuum and Mop $499",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T17:14:22.820042Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$9.86 ac FREE BJ's Wholesale Pick up (MEMBERS) 52-62oz Resealable Tubs of M&M's Candy (various) Limit 1",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T17:14:22.820042Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "3-Pack 18-Oz Harry's Stone Men's Body Wash: 2 for $26.27 ($4.38 each) w/ S&S + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
@@ -134356,150 +134380,6 @@
   "raw_title": "[Travelzoo Members] 4* Sheraton San Diego Resort From $169 Per Night, Waived Daily Resort Fees; $50 Food Credit; Paddleboard Rental For 2 and More (Travel Thru December 2026)",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-12T17:16:33.049988Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "LAUSAINT HOME 43\" Rectangular Propane Fire Pit Table w/ Lid & Glass Wind Guard $189.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T17:11:02.728306Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "UWBACK Boys Quick-Dry Swim Trunks $6.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T17:11:02.728306Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "YNAK 16-in-1 Indoor Air Quality Monitor w/ 7\" HD Color Display $55.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T17:11:02.728306Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Lukaree Evening Primrose Oil 1000mg 90-Count $7.69",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T17:11:02.728306Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "2-Count 6.6' Ainope 60W USB-C Right Angle Braided Charging Cables $4.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T17:11:02.728306Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Oneup 200' Permanent Outdoor Lights $49.95",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T17:11:02.728306Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Zevlux 4\" Galvanized Landscape Staples 50-Pack for $6 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T17:11:02.728306Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Cloudy Mountain [Blu-ray] $7.49 + Free S&H w/ Prime or $35+",
-  "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-12T17:05:28.761858Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Lastshe Women’s Plus Size Cardigan $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T17:05:28.761858Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Lavazza Il Filtro Classico Dark Roast Whole Bean Coffee 35.2-Oz $10.63",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T17:05:28.761858Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Ekouaer Women's 2 Piece Lounge Sets Bell Long Sleeve Pajamas Outfits $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T17:05:28.761858Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "GRACE KARIN Women's 3/4 Sleeve Work Office Business Casual Dress Black XL $16.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T17:05:28.761858Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Mini Sticker Printer $8.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T17:05:28.761858Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "JACKETOWN Men's Patriotic Graphic Short Sleeve American Flag Golf Shirt $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T17:05:28.761858Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Lenny & Larry's The Complete Cookie Birthday Cake 12-Pack 4-Oz $11.48",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T17:05:28.761858Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Parsin 3 Pcs Black & Gold Resin Pumpkins $17.39",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T17:05:28.761858Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Expandable Pan Organizer w/ 12 Dividers Just $15 on Amazon (Reg. $30)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T17:05:28.761858Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Select Home Depot Stores: FLEXVOLT 60V MAX 7.5 in. Cordless Battery Powered Attachment Capable Edger Kit with (1) FLEXVOLT 9 Ah Battery & Charger $191.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T17:05:28.761858Z",
   "code": "not_checked",
   "public": false
  }
