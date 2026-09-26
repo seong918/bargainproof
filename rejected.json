@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Cort Masterpiece Series Roselyn A/E Guitar With Case $1147.49",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-26T08:29:28.558138Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Glorious GHS Eternal 40mm Over-Ear Gaming Headset w/ Detachable Mic & 3.5mm (Black) $29.23 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-26T08:29:28.558138Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Pack Big Time Toys Sumo Bumper Boppers Inflatable Body Bopper Set w/ 2 Repair Patches $12.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-26T08:29:28.558138Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Tri-Arc KDSR115246-D3 15-Step 30\" Deep Top Steel Rolling Industrial & Warehouse Ladder with Handrails, 24\" Wide Perforated Tread $1306.99",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-26T08:24:11.050961Z",
@@ -135316,22 +135340,6 @@
   "raw_title": "Patbrela Adjustable Resistance Exercise Bike $89.99 + Free S&H at Walmart",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-12T08:30:04.581064Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "6-Pack Linkind BR30 LED Indoor Flood Light Bulbs (10W/65W, Various) $11.99 ($1.99 each) + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs multi-pack, Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-12T08:24:30.654802Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "UGREEN 6-in-1 USB-C Hub 4K HDMI, 3 USB 3.0 Ports, SD/TF Card Reader $9.02 + Free S&H w/ Walmart+ or $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T08:24:30.654802Z",
   "code": "not_checked",
   "public": false
  }
