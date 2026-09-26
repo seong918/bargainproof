@@ -1,6 +1,30 @@
 [
  {
   "source": "techbargains",
+  "raw_title": "Nature's Eats 32oz Chopped Walnut $6.24",
+  "reason": "Posted at $6.24, but Amazon showed $12.48 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-26T13:54:48.124989Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "A&W Zero Sugar 12oz Root Beer Soda (3x12-Pack) $15.09",
+  "reason": "Posted at $15.09, but Amazon showed $5.97 when we checked — the post is stale",
+  "rejected_at": "2026-09-26T13:54:48.124989Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Supvan E11 Keyboard & Bluetooth Rechargeable Label Maker Machine with 4 Tapes $17.99",
+  "reason": "Posted at $17.99, but Amazon showed $29.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-26T13:54:48.124989Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
   "raw_title": "Damipow Men's Short Sleeve Button Down Hawaiian Shirt $11.99",
   "reason": "Posted at $11.99, but Amazon showed $23.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-26T13:43:41.510245Z",
@@ -134966,21 +134990,5 @@
   "rejected_at": "2026-09-12T13:57:05.180746Z",
   "code": "duplicate",
   "public": true
- },
- {
-  "source": "hip2save",
-  "raw_title": "Fireproof Document Organizer Just $19.99 Shipped on Amazon (Reg. $40!)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T13:51:33.405722Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas men Train Essentials Feelready Training Tee(Chalky Brown / Black) $8 + Free S&H at ebay",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T13:46:02.330607Z",
-  "code": "not_checked",
-  "public": false
  }
 ]

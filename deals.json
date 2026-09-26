@@ -1,5 +1,38 @@
 [
  {
+  "deal_id": "c953013f67d0",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20063577-2-pack-9-oz-golden-island-korean-bbq-pork-jerky-16-00-w-s-s-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "2-Pack 9-Oz Golden Island Korean BBQ Pork Jerky w/ S&S + or on",
+  "raw_title": "2-Pack 9-Oz Golden Island Korean BBQ Pork Jerky $16.00 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1600,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "sns",
+   "prime",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-26T13:54:48.124989Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "8afaceae608b",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20063706-sns-ac-19-99-2-3-pack-14-oz-harry-s-men-s-2-in-1-shampoo-and-conditioner-wildlands-9-99-each-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
