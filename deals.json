@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "35ad7df837e4",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20063724-sns-ac-2-14-11-oz-cheerios-apple-cinnamon-cereal-at-amazon?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
+  "title": "11-Oz Cheerios Apple Cinnamon Cereal",
+  "raw_title": "[SnS, AC] $2.14* | 11-Oz Cheerios Apple Cinnamon Cereal at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 214,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-26T12:03:08.598185Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "d4483df4dfe0",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20063472-5-the-crow-dvd-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
