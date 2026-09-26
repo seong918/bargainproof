@@ -1,5 +1,173 @@
 [
  {
+  "source": "cheapshark",
+  "raw_title": "8BitBoy",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T21:13:18.204969Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "4-Piece Amazon Basics Packing Travel Organizer Slim Cubes Set (Red) $6.15",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-26T21:02:11.885575Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "9-Night Greece Hotel and Tour Vacation for From $3,238 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T21:02:11.885575Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Kamenstein Perfect Tear Paper Towel Holder $16.99 White or Black free Shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T21:02:11.885575Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Cordless Tire Inflator Portable Air Compressor Car/Bike Air Pump Smartour $48",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-26T20:56:36.969563Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Blink Whole Home 2K+ Security Bundle $99.99 free shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T20:56:36.969563Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GreatClips Austin area - $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T20:56:36.969563Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Sam's club Ninja Crispi Pro $210 with $40 sam's cash",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T20:51:03.075668Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $26.58 | 2 × 3-Pack 5.1-Oz Harry's Hair Taming Cream ($13.29 each) at Amazon",
+  "reason": "Community score too low (+3) to pass without a price check — needs Subscribe & Save, multi-pack, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-26T20:45:28.645863Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $20.21 | 2 × 3-Pack 14-Oz Harry's Men's 2 in 1 Shampoo and Conditioner (Stone Scent) ($10.11 each) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, multi-pack, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-26T20:45:28.645863Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "23\" x 70\" SwimWays Wednesday Suntanner Pool Float, $3, FS Prime, Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T20:39:55.397106Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Chevy \"Blazer\" Men's & Big Men's Zip Up Hooded Sweatshirt, $8.68, sizes M, L, 2XL, 3XL, Walmart",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T20:39:55.397106Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC] $29.70 | 3 × 200-Count Centrum Silver Men's 50+ Multivitamin Tablets ($9.90 each) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-26T20:34:21.501205Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Valentino Body Mist Just $33 on ULTA.com + FREE Gift!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T20:34:21.501205Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Airwalk Men's & Big Men's Fleece Pullover Hoodie, as low as $9.78, 4 styles, Walmart",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T20:34:21.501205Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Anker - Nano Smart Display 45W Max GaN USB C Charger - $25.99 from AnkerDirect via Best Buy",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T20:28:47.555036Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Toyota Men's and Big Men's Land Cruiser Graphic Hoodie, $6.95-$7.46 for most sizes, Walmart",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T20:28:47.555036Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ROCKBROS GPS Bike Computer Wireless Speedometer $20.15 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T20:28:47.555036Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Adidas Finger Crossbody Bag (Bold Green/Mexico) $15.73 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-26T20:23:12.650481Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "TOPUMP TB2 PRO Electric Mini Portable Pump $31.3 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T20:23:12.650481Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "This $7 Stylus Pen is Better Than an Apple Pencil!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T20:17:37.807209Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "13-Oz Three Dog Bakery Lick'n Crunch! Confetti Birthday Cake Sandwich Cookie Dog Treats $2.26 w/ S&S + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, Prime-only price, which we can't reproduce automatically · watched for 12h",
@@ -134166,157 +134334,5 @@
   "rejected_at": "2026-09-12T21:14:51.742268Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Holland America 11-Night Mexican Riviera & Sea of Cortez Cruise for From $1,998 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T21:03:46.335899Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "LEGO Disney Princess Belle & Tiana Castle Just $19.17 on Amazon (Reg. $40)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T21:03:46.335899Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Hydro Flask Standard Mouth Flex Insulated Water Bottle 21-Oz $20.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T20:58:13.359267Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Citizen Men's Eco-Drive Weekender Garrison Field Watch 43mm $147.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T20:58:13.359267Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Hanes Men's Ultimate Comfort Fit Cotton Stretch Crewneck Undershirts Multipack $19.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T20:58:13.359267Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Redragon Wireless Gaming Mouse 58g Lightweight Black $16.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T20:52:39.586263Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "WestinTrends Malibu Outdoor Folding HDPE Adirondack Deck Chair (Lime) $49.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T20:52:39.586263Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Valfaris",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T20:47:06.578820Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "The Coma 2: Vicious Sisters",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T20:47:06.578820Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Shadow Warrior 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T20:47:06.578820Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Monster Train",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T20:47:06.578820Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Shadow Warrior",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-12T20:47:06.578820Z",
-  "code": "duplicate",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$5 AC Hat Organizer for Baseball Caps 2Pack, Hat Rack for Wall with Strong Adhesive Hold up to 20 Hats,",
-  "reason": "Posted at $5.00, but Amazon showed $9.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-12T20:36:02.256886Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "cheapshark",
-  "raw_title": "FTL: Faster Than Light",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T20:36:02.256886Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Adjustable Ab Trainer Just $29.99 Shipped on Amazon (Reg. $65)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T20:36:02.256886Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Kate Spade Pebbled Leather Tote Bag $96.75",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T20:30:28.907529Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "HOKA Men's Rincon 4 Running Shoes (Birch / Cement) $62.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T20:30:28.907529Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Walking Pad Treadmill for Home with Handle Bar Foldable Under Desk Terluxra $79.99",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-12T20:19:20.649688Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Bamboo Dining Bench 35 Inch Indoor Wooden Shoe Benches for Entryway $67.49",
-  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-12T20:19:20.649688Z",
-  "code": "low_score",
-  "public": true
  }
 ]
