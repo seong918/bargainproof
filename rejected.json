@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "10'x20' yqlbgprj 90% Sunblock Shade Cloth for outdoor w/ Grommets $13.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-26T07:29:19.226240Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Eveready LED Camping Lantern X-250 (2-Pack), Batteries Included, Red and Black $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T07:29:19.226240Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Dokotoo Button Down Jean Jacket for Women $32.99",
+  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
+  "rejected_at": "2026-09-26T07:18:05.811518Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$13.91 | 20-Count 3M 8210 Particulate Respirator, N95 at Amazon",
   "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-26T07:12:29.484087Z",
@@ -135108,22 +135132,6 @@
   "raw_title": "Dell G15 5520 (Refurb): 15.6\" FHD IPS 165Hz, i7-12700H, RTX 3060, 16GB DDR5, 1TB SSD $679.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-12T07:40:01.506549Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Cert. Refurb: MSI Raider 16 Max HX (2026): 16\" QHD+ 240Hz OLED, Intel Ultra 9 290HX Plus, RTX 5070Ti, 32GB DDR5, 1TB SSD $1849.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T07:23:20.071813Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Western Digital 8TB Elements Desktop External Hard Drive 191.99 $191.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T07:17:46.046339Z",
   "code": "not_checked",
   "public": false
  }
