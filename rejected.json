@@ -1,6 +1,14 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Dual Compartment Soft Insulated Kids Lunch Box - many colors $12.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T05:40:36.568121Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "ORICO 6-in-1 10Gbps Magnetic USB C HUB and M.2 2230 NVMe Enclosure with 100W PD $29.24 + Free Shipping w/Prime or $35+",
   "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-26T05:36:00.645789Z",
@@ -135022,13 +135030,5 @@
   "rejected_at": "2026-09-12T05:43:23.987799Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "2-Oz Josie Maran Whipped Argan Oil Body Butter (Juicy Peach) $6.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-12T05:37:52.650875Z",
-  "code": "low_score",
-  "public": true
  }
 ]

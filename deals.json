@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "f8fd2072d10d",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20062359-happy-haul-disney-stitch-remix-d-8-5-two-toned-collectible-plush-5-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "Happy Haul Disney Stitch Remix'd 8.5\" Two-Toned Collectible Plush + or on",
+  "raw_title": "Happy Haul Disney Stitch Remix'd 8.5\" Two-Toned Collectible Plush $5.99 + Free Shipping w/ Prime or on $35+",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 599,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "prime"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-26T05:40:36.568121Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "7018616d2f57",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20063379-8-99-star-wars-mandalorian-speeder-bike-4-action-figure-vehicle-at-amazon?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
