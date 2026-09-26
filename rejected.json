@@ -1,5 +1,37 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "4-Pk HW 3600mWh Rechargeable 9V Batteries w/ 4-Slot Charger $14.50 + Free S&H w/ Prime",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-26T10:09:10.971266Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "26-Oz ENCOOL Insulated Stainless Steel Water Bottle w/ Straw (Vivid Icon) $4.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-26T10:09:10.971266Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$200.20 | Victrix Pro FS-12 Fight Stick Arcade Controller, PlayStation, PS5, PS4, PC at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-26T09:58:37.330812Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$13.49 | Tree Society Board Game at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-26T09:58:37.330812Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
   "source": "dealnews",
   "raw_title": "Ortho Home Defense Insect Killer for Lawn & Landscape for $12 + free shipping w/ Prime",
   "reason": "Not evaluated",
@@ -135252,54 +135284,6 @@
   "raw_title": "Banana Republic Factory Men's Luxe Touch Button-Down Polo for $9 + free shipping w/ $50",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-12T10:09:55.900494Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Outdoor Faucet Covers for Winter Freeze Protection, 8.3\"H X 6.7\"W - 2 Pack Black $4.50 AC",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-12T10:04:22.900310Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "(2 Pack) Hanging Solar Lanterns Outdoor, 2700K, IP65 Waterproof (Warm Light) $13.91",
-  "reason": "Posted at $13.91, but Amazon showed $23.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-12T10:04:22.900310Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "NFL Men's Hat Sale & Clearance Deals at Fanatics for From $7.99 + free shipping w/ $39",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T10:04:22.900310Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "The Postman Always Rings Twice Blu Ray $11.99 Amazon.com",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-12T09:58:51.597207Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Amazon Basics Double-Tipped Cotton Swabs (4-Pack of 500-Count) $7.20",
-  "reason": "Posted at $7.20, but Amazon showed $10.11 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-12T09:58:51.597207Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "MLB Hoodie & Sweatshirt Deals at Fanatics: Up to 82% off + free shipping w/ $39",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T09:58:51.597207Z",
   "code": "not_checked",
   "public": false
  }
