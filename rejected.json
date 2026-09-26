@@ -1,6 +1,14 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$149.99: GEARWRENCH 20 Piece 3/8\" Drive VDE Insulated Tool Set, GWVDE20 at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T10:14:28.507244Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "4-Pk HW 3600mWh Rechargeable 9V Batteries w/ 4-Slot Charger $14.50 + Free S&H w/ Prime",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-26T10:09:10.971266Z",
@@ -135268,22 +135276,6 @@
   "raw_title": "Samsung Galaxy S26 256GB Mint Mobile Android Smartphone: Free w/ trade-in + 1yr of Unlimited for $15/month + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-12T10:15:24.145862Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[Prime] BEDELITE Striped Twin Comforter Set (Blush Pink) $14.81 + Free Shipping",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-12T10:09:55.900494Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Banana Republic Factory Men's Luxe Touch Button-Down Polo for $9 + free shipping w/ $50",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T10:09:55.900494Z",
   "code": "not_checked",
   "public": false
  }
