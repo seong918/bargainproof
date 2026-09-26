@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$10 FS WALMART+ Wonder Nation Kids' Clea 17\" Backpack, Lunch Tote, Laptop Sleeve and Pouch Set, 4-Piece (choice of 3 styles)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T16:52:11.562051Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LETMY Solar Pathway Lights Outdoor, 8 Pack Bright Solar Garden Lights $21.99 AC",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T16:52:11.562051Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "EMUST Cat Wall Scratcher Sisal Scratch Post: 33\" $17.99 66\" $29.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-26T16:52:11.562051Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "6 Pack VEVOR Flood Barrier, 2.7 x 1.4 ft Activated by Water $21.57 + Free S&H w/ Prime or $35+",
   "reason": "Community score too low (+3) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-26T16:46:41.050771Z",
@@ -134604,78 +134628,6 @@
   "raw_title": "Greenworks 40V 8\" Brushless Cordless Battery Edger (1) 4.0 ah battery, (1) 2a charger $161.49",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-12T16:54:21.612399Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "NORACORA Womens Short Sleeve Crewneck Shirts $5.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T16:48:47.446421Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "GRACE KARIN V Neck Long Sleeve Pullover Sweater $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T16:48:47.446421Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Women’s Fleece Lined Leggings $5.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T16:48:47.446421Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "CAMEL CROWN Women's Ski Jacket Waterproof Warm Winter Snow Coat Hooded Mountain Outdoor Windbreaker Windproof Jacket Black L $24.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T16:48:47.446421Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "PUNOLAZY Electric Grill Brush Bristle Free BBQ Grill Brush $19.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T16:48:47.446421Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Mashomdec Extra Large Wooden Raised Garden Bed $54.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T16:48:47.446421Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "HOKA Men's Rincon 4 Running Shoes for $62 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T16:48:47.446421Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "4-in-1 Bikini Trimmer Just $7.99 on Amazon (Reg. $20)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T16:48:47.446421Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "House M.D. Complete Series [HD Digital] $20 @ Amazon Prime Video $19.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T16:48:47.446421Z",
   "code": "not_checked",
   "public": false
  }
