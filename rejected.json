@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$5 | The Best Of Kansas (Audio CD w/ AutoRip MP3) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-26T19:38:47.157381Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$14.99 | Bruce Springsteen: Western Stars (Vinyl w/ AutoRip MP3) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-26T19:38:47.157381Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $10.31* | 100 Drives, 5,000 Ideas: Where to Go, When to Go, What to Do, What to See (Paperback) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-26T19:33:12.977064Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $11.48 | The Penguin History of the World: Sixth Edition (Paperback) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-26T19:33:12.977064Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[Prime] $15.56 | The Complete Adventures of Curious George: 75th Anniversary Edition at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-26T19:27:41.269771Z",
@@ -134396,70 +134428,6 @@
   "raw_title": "VEVOR 12V 5KW Diesel Air Heater w/ 5L Tank, LCD & Remote $61.23 Shipped",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-12T19:46:01.365599Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "46 mm Luminox MIL-SPEC Inspired Military Watch (3359.SET) $582.08 + $9.82 Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T19:40:30.275319Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Yexmas 8ft Halloween Inflatable Pumpkins Outdoor Decor with Black Cat and Spectre,Built-in LED Lights,for Halloween Party,Yard,Garden,Lawn $35.57",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T19:40:30.275319Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Magnetic Phone Holder for Car, Suction Cup Car Phone Holder for Windshield and Dashboard $10.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T19:40:30.275319Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Citizen eco drive man's promaster special edition sikorsky watch jy8156-00l $629",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T19:40:30.275319Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Women’s Sweater Lounge Set ONLY $18.99 Shipped on Amazon",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T19:34:58.356670Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Grand Patio 7-Piece Open Weave Wicker Patio Furniture Set, Boho Outdoor Conversation Set with Thick Cushions and Coffee Table, Beige $200 + Free Shipping $199.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T19:34:58.356670Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Indomie Mi Goreng Instant Stir Fry Noodles, Halal Certified, Original Flavor, 5 Count - Pack of 6 as low as $14.26",
-  "reason": "Posted at $14.26, but Amazon showed $16.01 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-12T19:29:25.833606Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Dyson Supersonic Nural Hair Dryer with Chitosan Post-Style Serum $329.99 + $9.99 shipping Costco.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T19:29:25.833606Z",
   "code": "not_checked",
   "public": false
  }
