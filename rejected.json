@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "5-Oz Aveeno Positively Radiant Brightening Daily Face Wash Scrub $4.78 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-26T18:48:50.098668Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Car Mechanic Simulator 2015",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T18:48:50.098668Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M12 FUEL 6 in. 12V Brushless Cordless Battery Pruning Hatchet Mini Chainsaw w/ (2) 5. 0Ah High Output Batteries, Charger $199",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T18:48:50.098668Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Costco Members: 2-Pack $50 Uber eGift Cards (Email Delivery) for $79.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T18:48:50.098668Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Costco Members: 2-Pack $50 DoorDash eGift Cards (Email Delivery) for $79.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T18:43:17.406558Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$498 FS WALMART TCL 65\" QM51L Series QD-Mini LED QLED 4K UHD HDR Smart Google TV (2026) - TCL AIPQ Processor, Game Accelerator 144",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T18:43:17.406558Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "UJPFEO Knee Pillow for Side Sleepers,Leg Pillows for Sciatica,Knees,Hips,Joints $18.49",
   "reason": "Posted at $18.49, but Amazon showed $36.98 when we checked — the deal is probably over",
   "rejected_at": "2026-09-26T18:37:45.917974Z",
@@ -134300,54 +134348,6 @@
   "raw_title": "SHOKZ OpenRun SE- Open-Ear Bluetooth Wireless Bone Conduction Sport Headphones $69.99 in Standard or Mini Size Indigo or Dark Gray Free Shipping Costco.com",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-12T18:50:36.645179Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS] $13.30 | Clinique High Impact Waterproof Mascara at Amazon",
-  "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-12T18:45:04.307890Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS, AC] $16.49 | 120-Count Garden of Life Raw Calcium Supplement at Amazon",
-  "reason": "Community score too low (+4) to pass without a price check — needs clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-12T18:45:04.307890Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "hip2save",
-  "raw_title": "JBL Wireless USB-C Streaming Microphone Just $44.99 Shipped on Amazon (Reg. $110)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T18:45:04.307890Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Costco in-store only - Woozoo fans for $19.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T18:45:04.307890Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Fit + Fresh Lunch Bag Sets Just $14.99 Shipped (+ $10 Off Coupon for New Customers!)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T18:39:30.133197Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Barebones Neelum 4-piece Duffle Set Denim $69.99 free shipping Costco.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T18:39:30.133197Z",
   "code": "not_checked",
   "public": false
  }
