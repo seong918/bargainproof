@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[AC] $38.96* | 50.5mm Casio Men’s MWA100H Series Stainless Steel Analog Watch (Silver) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-26T18:26:40.440700Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "How Fun is This adidas Foam Finger Bag?! It’s Under $16 on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T18:26:40.440700Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LG - 77\" Class B5 Series OLED AI 4K UHD Smart webOS TV (2025) $1499",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T18:26:40.440700Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Asmodee Harmonies Strategy Board Game (1-4 Players) $27.19 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-26T18:15:33.053246Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Quokka Don't BEE Last Family Card Game (2-6 Players) $8.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-26T18:15:33.053246Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "TWO Bamboo Folding Tray Tables Just $14.91 on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T18:15:33.053246Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ace Hardware Has Milwaukee PACKOUT Accessories On Sale. Prices Start At $7.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T18:15:33.053246Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$999.99* | ViewSonic LX700-4K 4K UHD Laser Gaming Projector 3500 Lumens 240Hz Xbox at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-26T18:10:00.876808Z",
@@ -134244,46 +134300,6 @@
   "raw_title": "Anker SOLIX F3800 Plus Portable Power Station + Smart Home Power Kit + PS200 Bifacial Portable Solar Panel (200W) $3040 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-12T18:28:24.003333Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Polar Seltzer Water 18-Count Just $8.96 Shipped on Amazon",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T18:22:53.830180Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Pack of 6: Nando's Hot Peri Peri MARINADE (Hot), 9.2 Ounce Glass Bottles - NOT “Hot Sauce” but “Marinade” SUPER RARE in the USA - Def a PM $9.41",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T18:17:19.681758Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Nintendo Switch 2 Console + Super Mario Galaxy 1 + 2 Game Bundle $519 Wal-Mart",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T18:17:19.681758Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Build-A-Bear Mini 6-Pack Only $15 on Walmart.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T18:11:46.739833Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Jason Statham 15-Film Digital Collection Fandango@home $19.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T18:11:46.739833Z",
   "code": "not_checked",
   "public": false
  }
