@@ -1,5 +1,53 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Amazon health care product - Save 20% (coupon) over $40 + possible S&S saving",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-26T14:00:18.869657Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Neck Massager with Heat $109.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T14:00:18.869657Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "HVAC Waterless Diffuser for Large Spaces $81.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T14:00:18.869657Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ultra Push up Sticky Bra Pads Inserts $4.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T14:00:18.869657Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "vSeeBox V6 Max 64GB 8K HD Smart Media Player $249.10 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T14:00:18.869657Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$30 Free Delivery or Pick Up Home Depot 3 FT LED Skeleton with posable limbs",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-26T14:00:18.869657Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Nature's Eats 32oz Chopped Walnut $6.24",
   "reason": "Posted at $6.24, but Amazon showed $12.48 when we checked — the deal is probably over",
@@ -53314,14 +53362,6 @@
  {
   "source": "dealcatcher",
   "raw_title": "Holstein Housewares 10-Piece Knife Set $10.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-21T13:49:02.591847Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Ultra Push up Sticky Bra Pads Inserts $4.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-21T13:49:02.591847Z",
   "code": "not_checked",
@@ -134910,85 +134950,5 @@
   "rejected_at": "2026-09-12T14:02:35.561030Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$15.02: Duck Brand Duck Select Grip Easy Liner Shelf Liner 12\" Wide Kitchen Pack, 6-Rolls, 10' Length, Black",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-12T13:57:05.180746Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Bowers & Wilkins Zeppelin Pro Edition Wireless Speaker (Space Grey) $639.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T13:57:05.180746Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Fall Garden Flag 12x18 Inch Double Sided Welcome Pumpkin Farmhouse Decor $2.64",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T13:57:05.180746Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Zulu Dawn Blu-ray + DVD $14.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T13:57:05.180746Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "COMFEE Electric Kettle 1.7L $27.09",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T13:57:05.180746Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "VEVOR 24\" x 35.8\" Aluminum Threshold Wheelchair Ramp w/ Adjustable Height & Non-Slip Surface $70.50",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T13:57:05.180746Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "3-Pack 15-Oz Extra Sugarfree Gum (Spearmint) $3.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T13:57:05.180746Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "TOSHIBA Air Fryer Combo Microwave 1.0 Cu.Ft $189.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T13:57:05.180746Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Free ship, Oatey 14 oz. Plumber's Putty, $1.57, FS, 2 pack $2.79, Home Depot",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-12T13:57:05.180746Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS] $24.70 | Estée Lauder Double Wear Stay-in-Place Foundation Makeup at Amazon",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-12T13:57:05.180746Z",
-  "code": "duplicate",
-  "public": true
  }
 ]
