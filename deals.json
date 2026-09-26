@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "d4483df4dfe0",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20063472-5-the-crow-dvd-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "The Crow (DVD)",
+  "raw_title": "$5 | The Crow (DVD) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 500,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-26T11:13:28.720006Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "4939799ae859",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20063124-gremlins-gremlins-2-blu-ray-6-96-amazon-com?utm_source=rss&utm_content=ht&utm_medium=RSS2",
