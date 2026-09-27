@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "4/$5.27 or less S&S, MultiBuy (possible clip Q) Amazon Grocery, Jellied Cranberry Sauce, 14 Oz + one can pricing",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-27T04:06:46.428957Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Gladiator Ready-to-Assemble GearBox Garage Cabinet (48\" W x 72\" H x 18\" D) $300 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T04:06:46.428957Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "12\" 3,200lm LED Flush Mount Ceiling Light 4-Pack for $30 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T04:01:09.001248Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Men's Breathable Quick-dry Drawstring Pants for 2 for $10 + $18 shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T04:01:09.001248Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Kobalt XTR 2-1/2\" 16-Gauge Cordless Straight Finish Nailer (Tool Only) $179.00 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T04:01:09.001248Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "G4Free Womens SPF Long Sleeve Rash Guard Athletic Casual Tops w/ Thumbholes & Curved Hem (Various) $9.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-27T03:55:32.322086Z",
@@ -133965,22 +134005,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-13T04:09:24.579376Z",
   "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Men's Plaid Geometric Long Sleeve Polo Shirt for 2 for $11 + $18 shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T04:03:50.992499Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Ranzzran Women's Ribbed Strapless Bandeau Top for $6 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T04:03:50.992499Z",
-  "code": "no_signal",
   "public": false
  }
 ]
