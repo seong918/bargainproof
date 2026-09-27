@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$5.46 S&S CLIP Q Nature Made Chewable Vitamin C 1000 mg per Serving, 90 Tablets",
+  "reason": "Community score too low (+-3) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-27T03:06:08.967753Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Dreamegg D1 Nova Sound Machine Alarm Clock for Sleep, White Noise $12.99",
+  "reason": "Posted at $12.99, but Amazon showed $25.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-27T03:06:08.967753Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "AceMagic Matrix Mini M5 - 32GB DDR4 RAM, 1TB NVMe, Intel i5 14500HX $479",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T03:06:08.967753Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Frigidaire 7.5 Cu Ft Top Freezer Refrigerator with Beverage Dispenser, Platinum – Apartment Size Refrigerator for Kitchen, Office, Garage $248",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T03:06:08.967753Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$8.35 | Crescent Folding Utility Knife | CTKF3 at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-27T03:06:08.967753Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[NEW] $14.97 | SentrySafe Small Safe, Black Lock Box with Combination Lock, 0.05 Cubic Feet at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-27T03:06:08.967753Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$4.20 S&S Clip Q Nature Made Vitamin D3 5000 IU (125 mcg), 90 Vitamin D Softgels",
+  "reason": "Community score too low (+-2) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-27T03:00:29.772532Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$7.94 or less S&S CLIP Q Nature Made Triple Omega 3 6 9 Supplements, 150 Softgels",
+  "reason": "Community score too low (+-2) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-27T02:43:30.088829Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon – 3-Pack Rechargeable Halloween Window Lights - $17.99 w/ Code",
   "reason": "Community score too low (+1) to pass without a price check — needs promo code, multi-pack, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-27T02:32:32.583486Z",
@@ -133924,110 +133988,6 @@
   "raw_title": "24L Nike Aura Backpack (Blue) $23.37+ Free Shipping on $49+",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-13T03:09:32.506564Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Bosch OSL114CG 1-1/4 in. Starlock Oscillating Multi Tool Carbide Grit Plunge Blade $13.11",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T02:58:28.015128Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Bosch OSL214K 2-1/4 in. Starlock Oscillating Multi Tool Caulk Knife Blade $9.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T02:58:28.015128Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Woodworking by Emily St. James Kindle eBook $1.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T02:58:28.015128Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Peanuts® Snoopy & Woodstock Halloween Paper Beverage Napkins - 16 Pc. $2.67",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T02:58:28.015128Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Bosch OSL200RS 2 in. Starlock Oscillating Multi Tool High-Carbon Steel Rigid Scraper $8.90",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T02:52:55.608313Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Bosch OSL138K 1-1/4 in. Starlock Oscillating Multi Tool Hook Knife Blade $10.68",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T02:52:55.608313Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Bosch OSL212CG 2-1/2 in. Starlock Oscillating Multi Tool Carbide Grit Segmented Blade $23.65",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T02:52:55.608313Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "The Bright Ages: A New History of Medieval Europe Kindle eBook $1.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T02:52:55.608313Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Hanging Glow In The Dark Ghost Decoration $2.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T02:52:55.608313Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "SeasonBliss Bath Bombs for Women, Easter Basket Stuffers, 12 Pack Bubble Shower Bombs Set Total 26.3OZ, Natural Bath Bomb with Shea Butter & Safe Oil $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T02:47:21.548417Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS, AC] $18.74 | BLUEAIR Genuine Blue Pure 411i, 411i+ Max Air Purifier Replacement Filter at Amazon",
-  "reason": "Community score too low (+2) to pass without a price check — needs clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-13T02:41:48.464048Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$25.89: Maelstrom 35Can Soft Cooler Bag, Portable Beach Cooler with Flip-top Access",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-13T02:41:48.464048Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Adjustable Weighted Vest for Women, 1-12LBS Weight Vests $12.49 +Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T02:41:48.464048Z",
   "code": "not_checked",
   "public": false
  }
