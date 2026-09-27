@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "CINCOM Leg Massager with Heat and Air Compression FSA - HSA $53",
+  "reason": "Posted at $53.00, but Amazon showed $109.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-27T03:38:46.469789Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Acer Nitro V 16\" 1920x1200 WUXGA 165Hz Gaming Laptop w/ Core 7 240H, RTX 5050, 16GB RAM & 512GB SSD $999.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T03:38:46.469789Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "adidas men Tiro26 Stadium Parka (size: S) $45.6 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-27T03:33:10.071958Z",
@@ -133972,22 +133988,6 @@
   "raw_title": "Bulk Halloween Sticky Vinyl Cat Splat Toys - 72 pc $8.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-13T03:41:40.076552Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Halloween Sweet & Tart Favorites Candy Mix - 59 oz, 180 pc $32.98",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T03:36:05.554483Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Bulk Halloween Sweet & Tart Candy Mix - 4.3 lbs, 260 pc $34.98",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T03:36:05.554483Z",
   "code": "not_checked",
   "public": false
  }
