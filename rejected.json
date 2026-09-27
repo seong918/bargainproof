@@ -1,5 +1,101 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Philips Norelco OneBlade 360 Replacement Blades (3-Pack) $23.97",
+  "reason": "Posted at $23.97, but Amazon showed $29.96 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-27T15:47:27.535699Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "addlon Outdoor Solar String Lights 102FT $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T15:47:27.535699Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Dreamegg D1 Nova Sound Machine Alarm Clock $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T15:47:27.535699Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Jeymei Damp Duster Cleaning Sponge $5.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T15:47:27.535699Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Wireless Bluetooth Foldable Over-Ear Headphones with Hidden Microphone $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T15:47:27.535699Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Long Plaid Trench Coat $22.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T15:47:27.535699Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Cropped Trench Coat $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T15:47:27.535699Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Women 3 Pack Cap Sleeve Scoop Neck Cotton Blend T-Shirts $4.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T15:47:27.535699Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Women's Short Sleeve Bolero Shrug $7.35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T15:47:27.535699Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "OctMoon Women's Stretchy Straight Leg Dress Pants $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T15:47:27.535699Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GKBK Womens 3/4 Sleeve Tops Crew Neck $4.99 after coupon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T15:47:27.535699Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "48%OFF BRINBO C1 Pool Vacuum $258 after coupon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T15:47:27.535699Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "hip2save",
   "raw_title": "TWO Packs of Pampers Diapers Only $15 After CVS Rewards (Just $7.50 Each!)",
   "reason": "Not evaluated",
@@ -134254,37 +134350,5 @@
   "rejected_at": "2026-09-13T15:51:11.720168Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Ohniyou 52'' 5475CFM 205RPM Remote Control Ceiling Fan with Lights $43.19",
-  "reason": "Posted at $43.19, but Amazon showed $59.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-13T15:45:41.023430Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Vortex Viper HD 10x42 Binoculars $319.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T15:45:41.023430Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$80 Ebay (VERIZON VALUE STORE) Tracfone 128gb/8gb 2024 Moto G Stylus 5G 1-Year Plan (1500/1500/1.5GB) Bundle with accessories",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T15:45:41.023430Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon: Columbia Women's PFG Freezer III Dress – Sizes 1X, 2X & 3X (Reg $60.00, Up to 86% Off) from $8.47",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-13T15:45:41.023430Z",
-  "code": "duplicate",
-  "public": true
  }
 ]
