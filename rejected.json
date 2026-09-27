@@ -1,6 +1,14 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "adidas men Tiro26 Stadium Parka (size: S) $45.6 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T03:33:10.071958Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Betty Crocker Chocolate Chip Cookie Mix, Makes 12 Cookies, 7.5 oz, 9 Pack~$9.12 With S&S @ Amazon",
   "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-27T03:27:33.073827Z",
@@ -133980,30 +133988,6 @@
   "raw_title": "Bulk Halloween Sweet & Tart Candy Mix - 4.3 lbs, 260 pc $34.98",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-13T03:36:05.554483Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ZITY 5 Pack Men's Flannel Hoodie Shirts Button Down Long Sleeve Casual Stylish Plaid Hooded Shirt with Pocket $17.49",
-  "reason": "Posted at $17.49, but Amazon showed $34.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-13T03:30:33.821899Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Bulk Sticky Halloween Skull, Cat & Jack-O'-Lantern Character Assortment – 184 pc $25",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T03:30:33.821899Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$50 or less QVC.com NFL Officially Licensed T-Shirt and Full-Zip Hoodie Combo",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T03:30:33.821899Z",
   "code": "not_checked",
   "public": false
  }
