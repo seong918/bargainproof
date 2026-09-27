@@ -1,5 +1,53 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "61-Piece LEGO City: Rides - Loader $7.19 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-27T11:48:33.658893Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "280-Pc LEGO Lucky Cat Building Toy $20.00 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-27T11:48:33.658893Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Mpatiby 3.6' USB-C Retractable Multi Charging Cable (2-Pack) $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $13.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-27T11:43:15.148266Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Edifier G1000 2.0 Bluetooth Gaming Speakers for $40 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T11:43:15.148266Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Brooks Men's Hyperion Max 3 Running Shoes for $108 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T11:32:33.207530Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas Men's Climacool Laced Shoes for $58 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T11:32:33.207530Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "A&W Zero Sugar Root Beer Soda for 36 cans for $15 w/ Sub & Save + free shipping w/ Prime",
   "reason": "Not evaluated",
@@ -52932,14 +52980,6 @@
   "raw_title": "Assassins Creed Black Flag Resynced Launch Edition - Xbox Series X - $35@Walmart - IN STORE ONLY - YMMV",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-21T22:02:07.376204Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Edifier G1000 2.0 Bluetooth Gaming Speakers for $40 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-21T21:56:37.341777Z",
   "code": "not_checked",
   "public": false
  },
@@ -134636,46 +134676,6 @@
   "raw_title": "All 118oz Free Clear Liquid Laundry Detergent (94-Loads, Unscented) $11.61",
   "reason": "Posted at $11.61, but Amazon showed $14.19 when we checked — the deal is probably over",
   "rejected_at": "2026-09-13T11:49:14.738583Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$17.49: Cadence of Hyrule: Crypt of the NecroDancer Featuring the Legend of Zelda - Nintendo Switch [Digital] at BestBuy",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T11:43:58.986058Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "The Legend of Zelda: Link's Awakening(Nintendo Switch,Physical/Digital) $41.99 + Free S&H at BestBuy",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T11:43:58.986058Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Joyroom 81W Bluetooth 6.0 FM Radio Transmitter Wireless Car Adapter $10.99",
-  "reason": "Posted at $10.99, but Amazon showed $21.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-13T11:38:39.331048Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "hip2save",
-  "raw_title": "Starbucks Frappuccino 12-Pack Only $17.48 Shipped on Amazon | Just $1.45 Each!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T11:33:07.669488Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Hmcity 3-Mode 120-LED Motion Sensor Waterproof Outdoor Solar Lights (8-Pack) $21.49",
-  "reason": "Posted at $21.49, but Amazon showed $42.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-13T11:27:33.056923Z",
   "code": "price_mismatch",
   "public": true
  }
