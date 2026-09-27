@@ -1,6 +1,102 @@
 [
  {
   "source": "techbargains",
+  "raw_title": "Leagend JS300 1000A 12V Permanent Mount Super Capacitor Jump Starter $119.99",
+  "reason": "Posted at $119.99, but Amazon showed $239.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-27T15:25:10.210836Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Best Buy 48-Hour Collectible & Trading Card Flash Deals for Up to 42% off, deals from $10 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T15:19:32.909709Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Apple AirPods 4 for $99 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T15:19:32.909709Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$4.95 ac's Walgreens Puffs Facial Tissues Ultra Soft Family Size Boxes, 4 boxes of 124ea FPU at $10",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T15:19:32.909709Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Walmart Grocery Rollbacks for Deals from $1 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T15:13:55.257743Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Metabo HPT 18-volt Cordless Reciprocating Saw + 2 Free Batteries & Charger $129",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T15:13:55.257743Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Metabo HPT 18-volt 7-1/4-in Brushless Cordless Circular Saw + 2 Free Batteries & Charger $169",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T15:13:55.257743Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Walgreens Pick Up: Get 1 Tide Liquid 73-84oz and one Tide Pods 42 count $17.99 ac for both",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T15:08:18.691074Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Walgreens Brand Ziplock Bags Are 3/$3.29",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T15:08:18.691074Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Seabourn 14-Night Scotland, Faroe Islands, and Iceland Cruise for From $33,596 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T15:02:40.860535Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "iPhone 6e $397",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T14:57:03.490462Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Target Halloween Candy & Snack Deals: Buy 1, get 50% off 2nd + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T14:51:26.270999Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
   "raw_title": "Ruikoring 8.5\" Motion Sensor Wireless Under Cabinet Lighting $13.49",
   "reason": "Posted at $13.49, but Amazon showed $26.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-27T14:45:50.325249Z",
@@ -134286,469 +134382,5 @@
   "rejected_at": "2026-09-13T15:29:13.663798Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Baby & Toddler Little Co. by Lauren Conrad Crewneck Sweatshirt $10.08",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T15:23:44.179304Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "2/$6.28 Walgreens AC 18oz Family Size Cheerios/Honey Nut/Cinnamon Toast FPU $10+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T15:23:44.179304Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "24\" CRUA FHD 1920x1080 100Hz Curved VA Monitor (White) $79.99 + Free Shipping",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-13T15:18:12.340679Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "RYOBI ONE+ 18V Cordless 7.5\" Bucket Top Misting Fans 2-Pack $89.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T15:18:12.340679Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Walmart’s Under $5 Cauldron Tealight Warmer Is Brewing Up Fun Halloween Vibes!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T15:18:12.340679Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "GIGABYTE X870E AORUS ELITE WIFI7 + AMD Ryzen 7 9800X3D + Cooler Master Elite Liquid 240 AIO Cooler + ONIMUSHA Game Bundle $610 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T15:18:12.340679Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "2/$6.28 ac Walgreens Nature Valley Protein Granola Cereal Oats 'n Honey, 11.0 oz FPU at $10",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T15:18:12.340679Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "24-Oz Owala FreeSip Twist Insulated Stainless Steel Water Bottle (Various) $23.99 w/ S&S + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-13T15:12:39.935351Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Hammermill Copy Plus 8.5\" x 11\" Copy Paper, 20 lbs., 92 Brightness, 5000 Sheets/Carton $39.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T15:12:39.935351Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Kathy Ireland 3-Piece Waffle Down Alternative Comforter Set Queen/King $30.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T15:12:39.935351Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Jordan's Skinny Syrups Butter Toffee Zero Sugar Syrup $4.91",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T15:12:39.935351Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "58\" Walker Edison Mid-Century Modern 2-Door Reeded TV Stand for TVs up to 65\" (Coastal Oak) $113.76 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T15:12:39.935351Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Garmin Index™ S2 Smart Scale $179.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T15:12:39.935351Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Lookcare 64GB AI Voice Recorder with Transcription & Summary (115 Languages Support) $49.99",
-  "reason": "Posted at $49.99, but Amazon showed $99.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-13T15:07:07.245773Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Radio Flyer 3-in-1 EZ Fold Wagon with Canopy - Red $77.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T15:07:07.245773Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Hykolity 20 or 24 Inch Cruiser Girls Bike $169.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T15:07:07.245773Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Hykolity 27.5-Inch 18-Speed Full Suspension Mountain Bike $220.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T15:07:07.245773Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "GIGABYTE X870E AORUS PRO + AMD Ryzen 7 9800X3D + Cooler Master Elite Liquid 240 AIO Cooler + ONIMUSHA Game Bundle $639 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T15:07:07.245773Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Paper Mario: The Thousand-Year Door(Nintendo Switch,Physical/Digital) $41.99 + Free S&H at BestBuy",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T15:07:07.245773Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "R32 Refrigerant 28.2oz Disposable One Step Can With Gauge & Hose 1/4\" Connection $165",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T15:07:07.245773Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "7-Night Rhône & Saône River Cruise with Flights for From $5,798 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T15:01:37.688311Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "TWO Lysol Disinfectant Sprays Just $5.79 After CVS Rewards (Reg. $17)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T15:01:37.688311Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "5 Pack ASHGOOB 2 Inch Low Profile Office Chair Casters 650 lbs(Grey) $9.99 + Free S&H w/ Prime or $35+",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-13T15:01:37.688311Z",
-  "code": "duplicate",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Orico MiniRaid Dual-Bay M.2 NVMe/SATA SSD Enclosure for Mac mini M4 Pro $65.99",
-  "reason": "Posted at $65.99, but Amazon showed $87.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-13T14:56:07.968969Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "12-Cup Ninja Programmable Coffee Brewer $69.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T14:56:07.968969Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Philips Sonicare Diamond Clean 9000 Electric Toothbrush 2-Pack $199.94",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T14:56:07.968969Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Fluke 4566209 PRV240 Proving Unit $147.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T14:56:07.968969Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "50 Pcs Baseball Ducks Toy Figures $4.87",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T14:56:07.968969Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Candy Cane Solar Rope Lights $7.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T14:56:07.968969Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "DAS Air Hardening Modeling Clay 2.2-Lb (White) $8.39",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T14:56:07.968969Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Hefty Halloween Collection Hosting Essential Set 15 Cups, 20 Plates, 24-Piece Cutlery $10.77",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T14:56:07.968969Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Fluke 87V/E2 Industrial Electrician True-rms Digital Multimeter Combo Kit $512.10",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T14:56:07.968969Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Razer Huntsman Mini 60% Gaming Keyboard, Linear Optical Switches $69.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T14:56:07.968969Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Fluke 971 Temperature Humidity Meter $377.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T14:56:07.968969Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Ravensburger Disney Lorcana TCG: Illumineer’s Quest – Palace Heist $23.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T14:56:07.968969Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "MSI PRO MP243L E14 24\" FHD IPS 144Hz Gaming Monitor $79.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T14:56:07.968969Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Shark PowerDetect ThermaCharged NeverTouch Pro Robot Vacuum RV2920XE $749.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T14:56:07.968969Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "COLD STEEL XL Voyager 5.5\" AUS10A Folding Knife $39.19",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T14:56:07.968969Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Acer Nitro 27in QHD 2560x1440 IPS 275Hz Gaming Monitor $149.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T14:56:07.968969Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Garmin zūmo XT3 4.7” Rugged Motorcycle GPS Navigator $399.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T14:56:07.968969Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Lanteful 3-Tier Shoe Rack Organizer w/ 5 Hooks (27.8\" x 28.4\") $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T14:56:07.968969Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Garmin Bounce Kids Smartwatch $119.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T14:56:07.968969Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Garmin vívoactive 6 Health & Fitness GPS Smartwatch 42mm $229.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T14:56:07.968969Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Fluke Networks 5018508 MS-POE MicroScanner Copper Cable Verifier and PoE Tester $669.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T14:56:07.968969Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Kitsch Wet Dry Brush Detangler $7.95",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T14:56:07.968969Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Citizen Men's Eco-Drive Weekender Avion Field Watch $174.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T14:56:07.968969Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Garmin fēnix 8 47mm Black $749.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T14:56:07.968969Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Fluke 283FC CAT III 1500V, CAT IV 1000V True-RMS Wireless Multimeter $493.71",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T14:56:07.968969Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "SUNEX TOOLS 1/2-Inch Drive 1-1/16-Inch Deep Impact Socket $6.50",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T14:56:07.968969Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Three Days Grace: Outsider Vinyl w/ AutoRip MP3 $13.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T14:56:07.968969Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Citizen Quartz Mens Classic Watch $85.01",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T14:56:07.968969Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Ultimate Puzzle Challenge Book $6.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T14:56:07.968969Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Tissot Chemin des Tourelles Swiss Powermatic 80 42mm Silver Dial Men's Watch $525.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T14:56:07.968969Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Fluke 287 True-RMS Electronics Logging Multimeter $469.08",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T14:56:07.968969Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Resident Evil 4 (PS4) $15.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T14:56:07.968969Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Donkey Kong Country: Tropical Freeze(Nintendo Switch,Physical/Digital) $41.99 + Free S&H at BestBuy",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T14:56:07.968969Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$6.97 get $1.50 Walmart Cash FS Plus Lim 5 NESCAFÉ Espresso Concentrate Coffee Concentrate, Instant Espresso, 16 Shots 16.9 fl oz",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T14:56:07.968969Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Razer Huntsman Mini 60% Gaming Keyboard Linear Optical Switches $69.00",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-13T14:56:07.968969Z",
-  "code": "duplicate",
-  "public": true
  }
 ]
