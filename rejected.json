@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon – CAMPSNAIL Women's Fleece-Lined Wide-Leg Pants - $19.99 w/ Code",
+  "reason": "Community score too low (+2) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-27T02:21:37.978803Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Onforu Outdoor Porch Wall Light - $19.99 w/ Code + Price Deal",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-27T02:21:37.978803Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Rubbit - Get the Electric Kit for $64 (60% off) $63.44",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T02:16:03.869699Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$4.99 sale for the documentary Predators (2025)",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-27T02:04:48.901935Z",
@@ -133996,30 +134020,6 @@
   "raw_title": "Metabo HPT 18V Cordless Brushless Impact Driver w/ 2x 2.0Ah Batteries & Charger $74.92 + Free Shipping",
   "reason": "Same deal was already posted from another source",
   "rejected_at": "2026-09-13T02:25:11.964095Z",
-  "code": "duplicate",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Staples 3\" x 3\" Sticky Notes 36 pads (100 sheets/pad) for $4.91",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T02:19:39.186761Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "(Certified Refurbished) Anker SOLIX F2600 2560Wh 2400W Portable Power Station $785.99 + Free",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T02:14:07.729505Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "4-Count BIC Glide Bold Retractable Ballpoint Pens (Blue, 1.6mm) $2.82 w/ S&S + Free Shipping w/ Prime or on $35+",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-13T02:14:07.729505Z",
   "code": "duplicate",
   "public": true
  }
