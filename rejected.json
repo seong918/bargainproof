@@ -1,6 +1,238 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$5 | Nickelback - All The Right Reasons (Audio CD w/ AutoRip MP3) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T05:33:38.329961Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$419 Best Buy NIU - KQi 200P Foldable Electric Kick Scooter w/ 34 mi Max Operating Range & 20 mph Max Speed - Gray",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T05:33:38.329961Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$29.99 Best Buy bella PRO - 12-Cup Programmable Coffee Maker - Stainless Steel",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T05:33:38.329961Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas Women's Japan Decon Sneaker (Bronze/Crystal Sky/Orange Tint) $52 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T05:33:38.329961Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$20 BEST BUY Energizer - 3-in-1 15W Magnetic MagSafe/Qi2 Compatible Fast 15W Charger, Charging Station/Stand for iPhone + AirPods + Apple Watch - Black",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T05:33:38.329961Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas Women's Taekwondo Mei Elite Shoe (Sandy Pink/Pink) $44 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T05:28:01.131982Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$15.99 | S'well Recycled Stainless Steel Explorer with Flip Straw Lid, 32oz at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T05:22:43.466115Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$200 BEST BUY Samsung - 32\" Odyssey G51F QHD 180Hz 1ms AMD FreeSync Gaming Monitor with HDR10 (DisplayPort, HDMI) - Black",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T05:22:43.466115Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$17.49 Best Buy Energizer - 10,000mAh SLIM METAL 20W Magnetic Wireless Qi/Qi2.0/MagSafe PowerBank, Portable Charger, 2 Outputs, LED Display, & USB-C",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T05:22:43.466115Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$60 BEST BUY (NEW) Insignia™ - 15.6\" LED FHD Portable Monitor (Mini HDMI, USB-C) - Black",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T05:17:25.731223Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$650 BEST BUY Alienware - AW3425DW 34\" QD-OLED UWQHD 240Hz 0.03ms FreeSync Premium Pro Curved Gaming Monitor with HDR (HDMI, DisplayPort, USB) - Interstellar Indigo",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T05:17:25.731223Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$490 BEST BUY Apple - iPhone 16e 128GB - Apple Intelligence (Unlocked) - White",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T05:17:25.731223Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$130 Best Buy Apple - AirPods 4 with Active Noise Cancellation - White",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T05:12:07.252425Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "On Running Men's or Women's Cloudpulse Next Shoe (Select Colors) $95 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T05:12:07.252425Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$254.99 | Delonghi Super Automatic Espresso, Latte and Cappuccino Machine (Factory Reconditioned) at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T05:12:07.252425Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$99.99 | Refurb: Ninja Creami Deluxe 11-In-1 Ice Cream Maker w/ 2x 24oz. Deluxe Pints at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T05:12:07.252425Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$650 BEST BUY LG - 55\" Class 91A Series QNED evo AI Mini LED 4K UHD Smart webOS TV (2025)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T05:12:07.252425Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$3.49 | 4-Pk Energizer 3V CR2032 Lithium Coin Batteries at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T05:12:07.252425Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$1 | Hush Hoops Ear Plugs at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T05:06:49.234329Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$300 BEST BUY Insignia™ - 70\" Class F50 Series LED 4K UHD Smart Fire TV",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T05:06:49.234329Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Package - Maytag - 5.3 Cu. Ft. High Efficiency Smart Top Load Washer with Extra Power Button and 7.4 Cu. Ft. Smart Electric Dryer $1399.99 Bestbuy.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T05:06:49.234329Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "5-Pack Hyper Tough 6' 16AWG Indoor Extension Cord w/ 3 Polarized Outlets (Black or White) $8.97 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T05:06:49.234329Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "MSI - Codex R2 Gaming Desktop - Intel i5-14400F 2024 - 16GB Memory - NVIDIA GeForce RTX 5060 - 1TB SSD Storage - Black $1279.99 Bestbuy.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T05:06:49.234329Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "MSI NVIDIA GeForce RTX 5080 16G VENTUS $1299.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T05:06:49.234329Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HP OMEN - Transcend 14\" 120Hz 3K OLED Gaming Laptop - Intel Core Ultra 9 (2025) - 32GB Memory - NVIDIA GeForce RTX 5070 - 1TB SSD - Shadow Black $1999.99 Besbuy.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T05:01:32.200232Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$650 BEST BUY Alienware - AW3425DW 34\" QD-OLED UWQHD 240Hz 0.03ms FreeSync Premium Pro Curved Gaming Monitor with HDR",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T05:01:32.200232Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nike Women's Winflo 11 Running Shoes (White) $57.57 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T05:01:32.200232Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$190 BEST BUY Lenovo - Idea Tab - 11\" 2.5K Tablet - 8GB RAM - 128GB UFS - with Tab Pen and Folio Case - Luna Grey",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T05:01:32.200232Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$199 BEST BUY Lenovo - IdeaPad Slim 3 Chromebook - 14\" 2K Touchscreen Laptop - MediaTek Kompanio 540 2026 - 4GB Memory - 64GB eMMC",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T05:01:32.200232Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "40\" Insignia FE Series 1080p Full HD 60Hz LED Smart Fire TV $99.99 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-27T04:50:58.565395Z",
@@ -99593,14 +99825,6 @@
  },
  {
   "source": "slickdeals",
-  "raw_title": "5-Pack Hyper Tough 6' 16AWG Indoor Extension Cord w/ 3 Polarized Outlets (Black or White) $8.97 + Free Shipping w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T15:05:21.022324Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
   "raw_title": "Adjustable Dumbbell Stand, Weight Rack with Phone Holder, 220LBS Capacity Alloy Steel $49.99",
   "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
   "rejected_at": "2026-09-16T14:59:56.991394Z",
@@ -133820,166 +134044,6 @@
   "raw_title": "$2.99 | ACDelco GM Genuine Parts PF64 Oil Filter at Woot!",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-13T05:43:20.742994Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Bioinnovations supplements 40% off + free shipping on orders over $50",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T05:37:48.318694Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "At Staples - No Purchase Fee when you buy a $200 Mastercard Gift Card In Store Only (a $7.95 value) - Starts from 9/13/26-9/19/26 - Limit 9 per customer per day",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T05:37:48.318694Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – Rammus Women's Stretch Dress Pants w/ 5 Pockets - $19.88 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-13T05:32:15.888156Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$23.09 4th & Heart Grass-Fed Ghee 32oz w/ Coupon, FS w/Prime – YMMV",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T05:26:42.784857Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – Jogrytece 4-in-2 Multi Charging Cables, 2-Pack 5' - $7.47 w/ Code",
-  "reason": "Community score too low (+0) to pass without a price check — needs promo code, multi-pack, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-13T05:21:08.757938Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "TCL - 75\" Class QM9K Series 4K UHD HDR QD-Mini LED Smart TV with Google TV (2025) $1399.99 Bestbuy.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T05:21:08.757938Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Whirlpool - 30 in. Wide 5 elements 5.3 cu. ft. Freestanding Electric Range with Cooktop Flexibility - Stainless Steel $549.99 Bestbuy.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T05:15:36.522756Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Walgreens 5\"x7\" Custom Photo Magnet $0.79 + Free Store Pickup",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T05:15:36.522756Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$34.99 | Lacoste Men's Neo Run Ace Sneakers at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T05:10:06.187782Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Rexing - 4000A Jump Starter, 12V Car Battery Booster with 65W Quick Charger $99.99 Bestbuy.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T05:10:06.187782Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ASUS - ROG Falcata 75% Wireless Magnetic Hall Effect RGB Ergonomic Gaming Keyboard with Hot-Swappable ROG HFX V2 Switches - Black $199.99 Bestbuy.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T05:10:06.187782Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Samsung - 30 in. Wide 5 Elements 6.3 cu. ft. Smart Freestanding Electric Range with Flex Duo, No-Preheat Air Fry & Griddle - Stainless Steel $999.99 Bestbuy.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T05:10:06.187782Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Virtual Boy Accessory for Nintendo Switch & Nintendo Switch 2 - $69.99 @ Nintendo.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T05:10:06.187782Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$9.99 | Amazon Basics Dynamic Vocal Microphone at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T05:04:51.587811Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Insignia™ - 3.3 Cu. Ft. Mini Fridge with Door Storage and ENERGY STAR Certification - Black $149.99 Bestbuy.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T05:04:51.587811Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Insignia™ - 115 Can Beverage Cooler with Glass Shelves - Stainless Steel Look $179.99 Bestbuy.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T05:04:51.587811Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$7.99 | Amazon Essentials Men Slim-Fit Stretch Golf Shorts at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T05:04:51.587811Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Insignia™ - 21 Cu. Ft. Garage Ready Convertible Upright Freezer with ENERGY STAR Certification - White $699.99 Bestbuy.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T05:04:51.587811Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$329 | Apple AirPods Max 2 Wireless Headphones (Factory Reconditioned) at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T05:04:51.587811Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "WORKPRO 6-Piece Magnetic Screwdriver Set w/ Slotted & Phillips (Pink) $9.79 + Free Shipping w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T04:59:21.364445Z",
   "code": "not_checked",
   "public": false
  }
