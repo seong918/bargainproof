@@ -1,5 +1,69 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Cursor Fitness 400lbs 20% Incline Foldable Brushless Treadmill with Handle & Pulse Sensors $219.99",
+  "reason": "Posted at $219.99, but Amazon showed $399.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-27T13:32:48.478989Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Rayovac Alkaline AAA Battery 60-Pack for $8.78 w/ Sub & Save + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T13:32:48.478989Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CVS Pick Up: All BIOFREEZE Pain Relief (Gels, Creams, Patches, etc) Buy $30, get $15 Extra Bucks",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T13:32:48.478989Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nike Men's Air Monarch IV Shoes (Dark Grey) $47.60 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T13:32:48.478989Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC] $8.48 | Amazon Essentials Large Travel Toiletry Bag, Dopp Kit, 10.2\" L x 4.7\" W x 5.9\" H at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T13:21:32.283866Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$19.99 | McFarlane Toys- DC Multiverse Lobo (Supergirl Movie) 7in Action Figure (Deluxe Theatrical Edition) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T13:21:32.283866Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "6-Pack Amazon Essentials Men's Performance Cotton Cushioned No-Show Athletic Socks (Grey, Size 13-15) $4.17 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs multi-pack, Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-27T13:21:32.283866Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Fenger 41oz Stainless Steel BPA Free Bento Leakproof Lunch Box $13.74",
+  "reason": "Posted at $13.74, but Amazon showed $24.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-27T13:21:32.283866Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
   "source": "dealnews",
   "raw_title": "Zojirushi Micom 5.5-Cup Rice Cooker & Warmer for $127 + free shipping",
   "reason": "Not evaluated",
@@ -134630,53 +134694,5 @@
   "rejected_at": "2026-09-13T13:33:24.067928Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "CXK GPS 4G LTE Global Tracker Device for Vehicles (Subscription Needed) $9.99",
-  "reason": "Posted at $9.99, but Amazon showed $29.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-13T13:27:50.801434Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "40-Count o.b. Applicator-Free Regular Unscented Tampons $6.37 w/ S&S + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-13T13:22:20.737342Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Kitsch Wet & Dry Detangling Hair Brush (Flexi Black) $7.15 w/ S&S + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-13T13:22:20.737342Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Beautyrest Regal Sleep 14.75\" Plush Pillow Top Mattress (Queen ) $564.00 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T13:22:20.737342Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Schwinn 26-Lb Rear Bike Rack(1.09\"L x 6.5\"W x 16.73\"H) $13.24 + Free S&H w/ Prime or $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T13:22:20.737342Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "1-Oz Origins GinZing Glow-Boosting Vitamin C Brightening Serum w/ Caffeine & Ginseng $23.27 w/ S&S + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+3) to pass without a price check — needs Subscribe & Save, Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-13T13:16:50.088671Z",
-  "code": "low_score",
-  "public": true
  }
 ]
