@@ -1,5 +1,317 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $189.99 | Levoit Cordless Vacuum, Ultra Suction, Up to 60 Mins, Mini Motorized Brush at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-27T11:16:30.268499Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Cheerios Oat Crunch Oats 'N Honey Cereal, Whole Grain, Large Size, 18.2 oz~$3.21 After Coupon & S&S @ Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-27T11:16:30.268499Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Aoxun 10x12-Foot Aluminum Pergola for $170 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T11:16:30.268499Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS] $1.19 | 0.5-Oz Knorr Pasta Sauce (Pesto) at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-27T11:11:14.152269Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$1.87 | 18-Oz Amazon Grocery Real Mayonnaise at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T11:11:14.152269Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$42.50 | Wüsthof Urban Farmer 4\" Paring Knife, Brown at Amazon",
+  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T11:11:14.152269Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "VEVOR 12 Volt Car Refrigerator, 100.4QT/95L Portable Car Fridge Dual Zone $378.68",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T11:11:14.152269Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Tissot Carson Premium, Swiss Automatic, 30mm, Silver Dial, Women’s Watch $549.94",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T11:05:40.524082Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $9.23 | 24-Oz 365 by Whole Foods Market Whole Bean Coffee (Bonne Nuit) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-27T11:05:40.524082Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Craftsman s2000 41in 6-drawer chest w/light & divide (cmst34162rb) $632",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T11:05:40.524082Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "MSA io Gas Cylinder Holder for Altair io 4 Automated Calibration, Black $698.38",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T11:05:40.524082Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2+1 Flavor Soft Serve Ice Cream Maker Machine Commercial, 5.8-8 Gal/Hr Vertical Soft Serve Machine with LCD Display, 2200W $762.04",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T11:00:06.121950Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Roku 75-Inch Pro Series Smart TV - 4K QLED Mini-LED TV - RokuTV $899.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T10:54:48.341760Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Sony 65 Inch BRAVIA 5 Mini LED 4K HDR Smart Google TV (K-65XR50) $999.97",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T10:54:48.341760Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Canyon Pathlite:ON 5 SUV mid-step, Ivory White, Small $1365.38",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T10:54:48.341760Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $9.01* | The Calvin and Hobbes Portable Compendium Set 1 (Volume 1) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-27T10:54:48.341760Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $13.49* | 13.52-Oz La Roche-Posay Purifying Foaming Cleanser at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-27T10:54:48.341760Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $6.50* | 1.7-Oz L'Oreal Paris Collagen Moisture Filler Face Moisturizer (Fragrance-Free) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-27T10:54:48.341760Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $5.94* | 12-Pk 1.76-Oz Belvita Breakfast Biscuits (Blueberry) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, multi-pack, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-27T10:54:48.341760Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "4-Wheel Electric Mobility Scooter for Adults Seniors and Eldely,Adult Electric Powered Wheelchair Device,Father's Day Gift (AFD-4L) $1432.66",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T10:49:30.173358Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$299* | 2-Tool Bosch 18V Drywall Screwgun & Cut-Out Tool Combo Kit w/ 2x 4Ah Batteries at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T10:49:30.173358Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $18.99* | 3 × 32oz. Dawn Platinum Plus Powerwash Dish Soap Spray w/ Refill Kit (Fresh Clean) ($6.33 each) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, multi-pack, clip coupon, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-27T10:49:30.173358Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$31.99* | Belkin 5-Port Up to 100W PD USB-C Hub w/ 4K HDMI at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T10:49:30.173358Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Malco HVACPRO3 Ultimate HVAC Pro Kit – 32-Piece Service, Installation & Fabrication Set with VETO® TECH PAC Backpack $1529.79",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T10:49:30.173358Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS] $7.30* | 80-oz Liquid-Plumr Pro-Strength Full Clog Destroyer at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-27T10:43:52.871318Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$14.35* | Trading Places: 40th Anniversary (4K UHD + Blu-ray + Digital) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T10:43:52.871318Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$35* | 293-pc LEGO Star Wars Advent Calendar 2026 (75456) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T10:43:52.871318Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Canyon Pathlite:ON 5 SUV step-through, Stone Grey, Small $1364.45",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T10:43:52.871318Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Samsonite Saire LTE Softside Expandable 3-Piece Luggage Set for $100 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T10:43:52.871318Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Dyson PH03 Humidify + Cool Purifier for $500 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T10:43:52.871318Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Inficon AST-ID Automotive Refrigerant Identifier $1681.63",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T10:38:34.946461Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CS Unitec 9-1-8192 C 6\" x 8\" TCT Hornet Tungsten Carbide-Tipped Annular Cutters, 6\" Cutting Diameter, Tungsten Carbide, 8\" Flute $2088.18",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T10:33:00.045292Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Canyon Pathlite:ON 7 step-through, Outback Orange, Large $2144.87",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T10:33:00.045292Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[NEW] $5 | Lady Gaga: Born This Way (Audio CD w/ AutoRip MP3) at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T10:27:20.434974Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Bessey Table Clamp 2-Pack for $5 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T10:27:20.434974Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Shark Rotator Powered Lift-Away TruePet Bagless Vacuum for $250 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T10:27:20.434974Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LG gram Pro 16\" Light Laptop, Intel Core Ultra X7 358H, 32GB RAM 1TB SSD $2599.99",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T10:21:41.004917Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Happy Socks Unisex Pattern Socks 5-Pack for $5 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T10:21:41.004917Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Wrangler Men's & Big Men's Full Zip Burly Utility Hiking Sweater Vest (Various Size) $10.94",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T10:21:41.004917Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Amazon Grocery 51oz Extra Virgin Olive Oil $10.25",
   "reason": "Posted at $10.25, but Amazon showed $10.79 when we checked — the deal is probably over",
@@ -66542,14 +66854,6 @@
   "rejected_at": "2026-09-19T20:39:16.365980Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS, AC] $6.50* | 1.7-Oz L'Oreal Paris Collagen Moisture Filler Face Moisturizer (Fragrance-Free) at Amazon",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-19T20:39:16.365980Z",
-  "code": "duplicate",
-  "public": true
  },
  {
   "source": "slickdeals",
@@ -134334,69 +134638,5 @@
   "rejected_at": "2026-09-13T11:17:02.254157Z",
   "code": "low_score",
   "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS, AC] $3.29* | 30-Oz Hellmann's Real Mayonnaise at Amazon",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-13T11:11:51.333444Z",
-  "code": "duplicate",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Luzianne Decaffeinated Iced Tea Bags (24-Count) $12.74",
-  "reason": "Posted at $12.74, but Amazon showed $13.41 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-13T11:06:37.715320Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$6.78 | 8-Pack 15.5-Oz Goya Foods Red Kidney Beans at Amazon",
-  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-13T10:55:54.340645Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Bonlion 0.4W Solar Waterproof Hanging Lanterns (2-Pack) $13.91",
-  "reason": "Posted at $13.91, but Amazon showed $23.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-13T10:55:54.340645Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Omega Seamaster Olympic Timekeeper Automatic Black Dial Men's Watch $3750",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T10:50:22.750771Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "VIPEK 16.5\"x 29.5\"x 76.8\" R2 Medium Adjustable Portable Garment Rack $49.99",
-  "reason": "Posted at $49.99, but Amazon showed $99.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-13T10:28:18.175765Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "McCormick Grill Mates 7.75oz Hamburger Seasoning $4.49",
-  "reason": "Posted at $4.49, but Amazon showed $5.61 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-13T10:17:12.030326Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Walgreens Photo: 11\" x 14\" Custom Photo Poster - $1.99 + Free Store Pickup",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T10:17:12.030326Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
