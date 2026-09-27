@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "12-Gal HART 6 Peak HP Wet/Dry Vacuum w/ 7' Hose, Accessories & Blower Function $49.98 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T00:52:57.197853Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $2.92* | 5-Pk 0.625-Oz Jack Link's Beef Jerky (Original) at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-27T00:52:57.197853Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Stray (PSDD) PlayStation 5 PS5 $14.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-27T00:10:01.240655Z",
@@ -64490,14 +64506,6 @@
  {
   "source": "slickdeals",
   "raw_title": "HART 10-Gallon 6 Peak HP Poly Wet/Dry Vacuum w/ Locking Accessories $44.46 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-19T23:52:14.881412Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "12-Gal HART 6 Peak HP Wet/Dry Vacuum w/ 7' Hose, Accessories & Blower Function $49.98 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-19T23:52:14.881412Z",
   "code": "not_checked",
@@ -134092,14 +134100,6 @@
   "raw_title": "Yaomiao READ LED Marquee Letters $17.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-13T00:56:41.666820Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Schylling NeeDoh Teenie Color Change Sensory Squeeze Toy 4-Pack $10.73",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T00:45:33.480866Z",
   "code": "not_checked",
   "public": false
  }

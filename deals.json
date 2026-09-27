@@ -1,5 +1,38 @@
 [
  {
+  "deal_id": "c6e341e2f12e",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20065290-sns-ac-2-92-5-pk-0-625-oz-jack-link-s-beef-jerky-original-at-amazon?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
+  "title": "5-Pk 0.625-Oz Jack Link's Beef Jerky",
+  "raw_title": "[SnS, AC] $2.92* | 5-Pk 0.625-Oz Jack Link's Beef Jerky (Original) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 292,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 6,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-27T00:52:57.197853Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "7820ca96d880",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20065131-3-74-the-martian-dvd-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
