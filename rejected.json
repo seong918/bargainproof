@@ -1,5 +1,53 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Amazon Grocery 51oz Extra Virgin Olive Oil $10.25",
+  "reason": "Posted at $10.25, but Amazon showed $10.79 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-27T10:10:28.958984Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Soloever Pain Relief Knee Compression Sleeve with Side Stabilizers $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $16.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-27T10:04:52.423774Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "JandCase 3000K Dimmable LED Wall Plug Night Light with Sensor $4.99",
+  "reason": "Posted at $4.99, but Amazon showed $14.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-27T10:04:52.423774Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Unlocked iPhone Air & iPhone 16e Deals at Best Buy for From $490 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T10:04:52.423774Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Best Buy 48-Hour Appliance Flash Deals: Up to 60% off + extra $100 to $1,000 off bundles",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T10:04:52.423774Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Metallica(Audio CD with AutoRip MP3) $5 + Free S&H w/ Prime or $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T10:04:52.423774Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$14.99 | Ozzy Osbourne - Scream - Vinyl at Amazon",
   "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
