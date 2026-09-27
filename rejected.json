@@ -1,5 +1,13 @@
 [
  {
+  "source": "hip2save",
+  "raw_title": "Dreamegg Alarm Clock & Sound Machine Only $12.99 on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T21:28:42.167738Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$29.99 | Razer Orochi V2 Wireless Gaming Mouse, PC & Mac, Portable, 60g, Quartz Pink at Amazon",
   "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
@@ -134214,13 +134222,5 @@
   "rejected_at": "2026-09-13T21:32:41.481215Z",
   "code": "duplicate",
   "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Coffee mate Snickers Non-Dairy Creamer, 0.375 fl oz, 50 Count Tubs $5.66@ Walmart",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T21:27:10.020464Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
