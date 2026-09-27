@@ -1,6 +1,110 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$149.95* | Breville Joule Turbo Sous Vide Machine at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T17:33:48.498393Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$799.95* | Breville Barista Touch Espresso Machine at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T17:33:48.498393Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$159.95* | Breville Smart Grinder Pro Coffee Mill Conical Burr Grinder (Various Colors) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T17:33:48.498393Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$629.95* | Breville Barista Pro Espresso Machine at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T17:33:48.498393Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$499.95* | Breville Barista Express Espresso Machine (Various) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T17:33:48.498393Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$399.95* | Breville Bambino Plus Espresso Machine (various colors) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T17:33:48.498393Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "4' NTONPOWER Travel Power Strip w/ 3 Outlets & 4 USB Ports (2 USB C) $12.74 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-27T17:33:48.498393Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HTM Foot Massager w/ Heat, 4 Modes & Vibration (Black) $37.48 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T17:28:12.019845Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$199.99 Best Buy or AMZ (sold by BB) INSIGNIA 55-inch Class F50 Series LED 4K UHD Smart Fire TV with Alexa Voice Remote (NS-55F501NA26)",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T17:28:12.019845Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$35* | 317-Pc LEGO Marvel Advent Calendar 2026 at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T17:28:12.019845Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Chatplayground AI unlimited $55 digital delivery",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T17:28:12.019845Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Joker (4K Ultra HD + Blu-ray) $14.99 Amazon.com",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T17:22:35.240049Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "YMMV $15 LEGO Technic Koenigsegg Jesko Absolut 42173 in-store",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T17:22:35.240049Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Wurkkos HD10 1200-Lumen Rechargeable Right-Angle Mini Flashlight & Headlamp $20.49 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-27T17:17:00.321605Z",
@@ -134164,102 +134268,6 @@
   "raw_title": "Feit 5,000 Lumen Shop Light with Motion Detection, 4-pack $57.99 Free Shipping Costco.com",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-13T17:35:40.019758Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "(Resale) Logitech G502 X Plus Wireless RGB Gaming Mouse - Black (Used, Like New) $77.72",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T17:30:08.496184Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "(Resale) SAMSUNG 32-Inch Full HD F6000 Smart TV (Used, Like New) $89.61",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T17:30:08.496184Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Slow Feeder Dog Bowl Only $3.99 on Amazon (Reg. $8)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T17:30:08.496184Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Seville Classics Stainless Steel Kitchen Cart $99.99 free shipping Costco.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T17:30:08.496184Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "(Resale) BISSELL Little Green Mini Portable Carpet Cleaner 4075 $48.30",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T17:24:38.610591Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "45-Qt Ninja FrostVault Wheeled Cooler w/ Dry Storage $259.81",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T17:24:38.610591Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "243-Piece LEGO Technic Monster Jam Sparkle Smash Pull-Back Monster Truck Building Set (42220) $27.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-13T17:19:07.280918Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "(Resale) Google Pixel Buds Pro 2 Wireless Bluetooth Earbuds - Hazel (Open Box) $104.47",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T17:19:07.280918Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Custom Stone Photo Plaques $9.09",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T17:19:07.280918Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "(Resale) Logitech G29 Driving Force Racing Wheel w/ Pedals (Used - Like New) $119.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T17:19:07.280918Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Fog Machine w/ Remote Under $50 Shipped on Lowes.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T17:19:07.280918Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "3-Pack No Boundaries Women's Fit Stretch Lace Thong Panties (Lemon, Green, Black; Various Sizes) $4.27 + Free Shipping w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T17:19:07.280918Z",
   "code": "not_checked",
   "public": false
  }
