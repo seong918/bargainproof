@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon – 3-Pack Rechargeable Halloween Window Lights - $17.99 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-27T02:32:32.583486Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – RAPSAKEMOH Wooden Bread Bow Knife - $5.49 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-27T02:26:55.586629Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – 2-Pc Stainless Steel Pepper & Apple Corer Set - $5.39 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-27T02:26:55.586629Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Walifrey Women's Quick-Dry Running Shorts - $4.39-$5.49 w/ Code",
+  "reason": "Community score too low (+2) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-27T02:26:55.586629Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – CADITEX Women's Joggers w/ Pockets - $5.19-$6.49 w/ Code",
+  "reason": "Community score too low (+2) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-27T02:26:55.586629Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "4-Pack RIDGID 18V MAX 6.0-Ah Lithium-Ion Batteries $209 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T02:26:55.586629Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "38-Piece RYOBI Precision Screwdriver Set $9.97 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T02:26:55.586629Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon – CAMPSNAIL Women's Fleece-Lined Wide-Leg Pants - $19.99 w/ Code",
   "reason": "Community score too low (+2) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-27T02:21:37.978803Z",
@@ -133974,53 +134030,5 @@
   "rejected_at": "2026-09-13T02:41:48.464048Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$1197.99: Samsung 85\" Class QN70FD Series 4K Neo QLED Smart TV",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T02:36:16.006533Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Accent Aged Bronze Single Cylinder Deadbolt and Keyed Entry Door Handle with Camelot Trim Combo Pack $38.46",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T02:36:16.006533Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Empire 24\" Aluminum I-Beam Level + 12\" Compact Box Level Set $19.97 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T02:36:16.006533Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "SUERBEATY Red Light Mask For Face, 7-1 Colors Red Light Face Mask, Facial Skincare At Home, Cordless, Portable and Rechargeable $20.63",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T02:36:16.006533Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "28\" WORKPRO 2-Shelf Lockable Rolling Garage Storage Cabinet (Black) $139.65 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T02:30:43.552699Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Metabo HPT 18V Cordless Brushless Impact Driver w/ 2x 2.0Ah Batteries & Charger $74.92 + Free Shipping",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-13T02:25:11.964095Z",
-  "code": "duplicate",
-  "public": true
  }
 ]
