@@ -134182,37 +134182,5 @@
   "rejected_at": "2026-09-13T22:16:50.852328Z",
   "code": "low_score",
   "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Nintendo Switch Sports - Nintendo Switch $34.99",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-13T22:11:19.434523Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "hip2save",
-  "raw_title": "Fleece-Lined Tights Just $6 on Amazon | Looks Like Pantyhose, But Keeps You Warm",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T22:11:19.434523Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "LEGO Icons Autumn Cottage Garden Building Set - 11372, $85",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T22:11:19.434523Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "CVS Pick Up 2/$4.98ac Garnier Hair Care, get $2 Extra Bucks",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T22:11:19.434523Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
