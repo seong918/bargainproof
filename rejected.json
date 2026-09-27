@@ -1,6 +1,14 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon Saver, Chicken Noodle Condensed Soup, 10.5 oz (Previously Happy Belly, Packaging May Vary) x 4~$2.28 After Multibuy & S&S @ Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-27T04:45:22.219714Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "12-Pack Crayola Swirl Colored Pencils for Kids $1.99 + Free Shipping w/ Prime or $6 Fee per Order",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-27T04:34:38.511040Z",
@@ -133996,22 +134004,6 @@
   "raw_title": "Soundcore by Anker Q20i Hybrid Active Noise Cancelling Headphones, Pink $69.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-13T04:48:16.414480Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Metroid Prime Remastered (Nintendo Switch) $28 + Free Shipping w/ Prime or on orders over $35",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-13T04:42:43.990616Z",
-  "code": "duplicate",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Bio Bidet FLOW Motion Activated Pull-Down Sprayer Kitchen Faucet (Chrome or Oil Rubbed Bronze) $79 & More + Free S&H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T04:37:09.989583Z",
   "code": "not_checked",
   "public": false
  }

@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "11b2d5fdc919",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20065668-columbia-womens-switchback-iv-rain-jacket-black-medium-37-77?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
+  "title": "Columbia Womens Switchback IV Rain Jacket, Black, Medium",
+  "raw_title": "Columbia Womens Switchback IV Rain Jacket, Black, Medium $37.77",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0CLQY3FZ4",
+  "deal_total_cents": 3777,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 3777,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 3777,
+  "amazon_url": "https://www.amazon.com/dp/B0CLQY3FZ4",
+  "amazon_checked_at": "2026-09-27T04:45:25.983417Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 0,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0CLQY3FZ4",
+  "image_url": null,
+  "published_at": "2026-09-27T04:45:22.219714Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "d05bd3627499",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20065173-31-50-wen-10pmc-10-inch-waxer-polisher-in-case-with-extra-bonnets-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
