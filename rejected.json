@@ -1,5 +1,29 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $99.99 | Shark StainForce Cordless Stain, Odor & Urine Remover, 1 Tool, HX095BRN at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-27T12:04:24.656528Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CAMEL CROWN Women's Ski Jacket Winter Snow Coat Warm Fleece Mountain Waterproof $29.98",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T12:04:24.656528Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "8-Night Italy Hotel and Tour Vacation for From $4,398 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T12:04:24.656528Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Jofios 3-Modes Waterproof Solar Powered Fence Lights (12-Pack) $16.09",
   "reason": "Posted at $16.09, but Amazon showed $39.09 when we checked — the deal is probably over",
@@ -134540,14 +134564,6 @@
   "raw_title": "Tweezer Set w/ Travel Case Only $4.99 on Amazon (Reg. $10)",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-13T12:05:19.053988Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "PRS SE Studio Standard Electric Guitar Pearl White $599",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T11:59:46.946252Z",
   "code": "not_checked",
   "public": false
  }
