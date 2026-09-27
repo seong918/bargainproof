@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "b000bf15299a",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20065188-sns-14-16-8-pk-16-3-oz-skippy-creamy-peanut-butter-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "8-Pk 16.3-Oz SKIPPY Creamy Peanut Butter",
+  "raw_title": "[SnS] $14.16* | 8-Pk 16.3-Oz SKIPPY Creamy Peanut Butter at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1416,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-27T04:18:02.390741Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "2750eb7cb57d",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20065167-1-28-18-5-oz-progresso-italian-style-bean-pasta-protein-soup-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",

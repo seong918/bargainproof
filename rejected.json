@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Indomie Mi Goreng Instant Stir Fry Noodles, Halal Certified, Hot & Spicy/Pedas Flavor 2.82 Ounce (Pack of 30)~$17.99 @ Amazon",
+  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T04:18:02.390741Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GasOne Single Portable Propane Burner Camp Stove 10k BTU with Removable Cooking Grid and Case $23",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T04:18:02.390741Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "FLEX STACK PACK Storage System 2-Drawer Tool Box $129 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T04:18:02.390741Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Sport-Brella 3-Position Recliner Chair with Removable Umbrella and Footrest (Midnight Blue) $50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T04:18:02.390741Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Antaha 150PSI Dual Power Source Portable Air Compressor w/ LED Light & Auto Shut-Off $13.29 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-27T04:12:24.103406Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "4/$5.27 or less S&S, MultiBuy (possible clip Q) Amazon Grocery, Jellied Cranberry Sauce, 14 Oz + one can pricing",
   "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-27T04:06:46.428957Z",
@@ -133988,22 +134028,6 @@
   "raw_title": "100 Pc. Peanuts® Snoopy & Woodstock Grad Party Disposable Tableware Set for 50 Guests $13.58",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-13T04:20:30.732744Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "6 1/2\" Peanuts® Snoopy Graduate Party Disposable Paper Luncheon Napkins - 16 Ct. 16 Piece(s) # $1.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T04:14:57.306216Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "11 3/4\" x 8 3/4\" Paw Patrol™ Party Favor Pack Assortment - 48 Pc. $10.87",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T04:09:24.579376Z",
   "code": "not_checked",
   "public": false
  }
