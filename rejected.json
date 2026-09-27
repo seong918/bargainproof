@@ -1,5 +1,53 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Ordovibe 48-Pockets Heavy Duty Over Door Shoe Organizer $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $16.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-27T12:42:20.667871Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Kileap 6000mAh 5-Level Rechargeable Hand Warmers (2-Pack) $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $16.88 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-27T12:42:20.667871Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$19.99ac FS Walmart+ by JOYFY Halloween Groundbreaker Animated Halloween Decorations Zombie with Creepy Sound and Flashing Eyes,",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T12:42:20.667871Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ninja Fireside360 80,000 BTU 3-Mode Propane Fire Pit & Heater (Black) $419.99 + Free Shipping w/ Prime or $6 Fee per Order",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T12:42:20.667871Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Qlife Spark D1 1500W (Peak) 48V 10.4Ah 25mph Full Suspension 16x4in Fat Tires e-Bike (White or Black) $403 + Free S/H $405",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T12:42:20.667871Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$26.47ac FS Walmart+ by GVDV 5Ft Halloween Inflatables Pumpkin Ghost Decorations with 360° Rotating Colorful LED Lights,",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T12:42:20.667871Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "[Prime] $11.48 | Basic Physics: A Self-Teaching Guide, 3rd Edition at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
@@ -134558,29 +134606,5 @@
   "rejected_at": "2026-09-13T12:43:52.152271Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$239 AMAZON DJI Neo Fly More Combo, Mini Drone With 4K UHD Camera for Adults",
-  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-13T12:38:20.869194Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$139 Amazon or B&H DJI Neo, Mini Drone with 4K UHD Camera for Adults, 135g Self Flying Drone that Follows You, Palm Takeoff, Subject Tracking,",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-13T12:38:20.869194Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Timohcr Lemon Scent Toilet Bowl Cleaner Tablets (30-Count) $5.69",
-  "reason": "Posted at $5.69, but Amazon showed $9.49 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-13T12:38:20.869194Z",
-  "code": "price_mismatch",
-  "public": true
  }
 ]
