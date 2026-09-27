@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$29.99 | Razer Orochi V2 Wireless Gaming Mouse, PC & Mac, Portable, 60g, Quartz Pink at Amazon",
+  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T21:23:06.873721Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Ozark Trail Men’s Swim Trunks Just $2.48 on Walmart.com + More!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T21:17:29.978763Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Jagged Alliance 3 (DRM-Free) PC Digital Download - $4.49",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-27T21:11:56.626495Z",
@@ -134204,14 +134220,6 @@
   "raw_title": "Coffee mate Snickers Non-Dairy Creamer, 0.375 fl oz, 50 Count Tubs $5.66@ Walmart",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-13T21:27:10.020464Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Women’s Oversized Cable Knit Sweaters From $12.59 on Amazon (Reg. $40+)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T21:16:06.249030Z",
   "code": "not_checked",
   "public": false
  }
