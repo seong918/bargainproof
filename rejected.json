@@ -1,5 +1,29 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Kobalt Men's or Women's Work Suspenders for $10 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T21:39:53.600993Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Kobalt 11\" Metal Moulding Pry Bar for $15 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T21:34:16.772443Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Halloween PayDay bars - $.39 per ounce $7.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T21:34:16.772443Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "hip2save",
   "raw_title": "Dreamegg Alarm Clock & Sound Machine Only $12.99 on Amazon",
   "reason": "Not evaluated",
@@ -134198,29 +134222,5 @@
   "rejected_at": "2026-09-13T21:49:16.549937Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "12-Ct Charmin Ultra Mega XL Toilet Paper Rolls + $25 Walgreens Cash + $15 P&G Rebate, 3 for $51.17",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T21:38:12.431143Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Minecraft 20\" Dragon's Breath Attack Ender Dragon Action Figure w/ 10 Discs $13.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T21:38:12.431143Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Govee RGBIC Floor Lamp Basic, 1000lm LED Corner Lamp, Black $64",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-13T21:32:41.481215Z",
-  "code": "duplicate",
-  "public": true
  }
 ]
