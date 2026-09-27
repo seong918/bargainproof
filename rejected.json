@@ -1,6 +1,14 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[Prime] $11.48 | Basic Physics: A Self-Teaching Guide, 3rd Edition at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-27T12:36:55.151058Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[Prime] $11.23 | Fermented Vegetables, 10th Anniversary Edition at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-27T12:31:19.745001Z",
@@ -134573,30 +134581,6 @@
   "reason": "Posted at $5.69, but Amazon showed $9.49 when we checked — the deal is probably over",
   "rejected_at": "2026-09-13T12:38:20.869194Z",
   "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Bubsy 4D - Pawsome Edition (Nintendo Switch) $29.99 at Target",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T12:32:51.697871Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Bubsy 4D: Pawsome Edition (Nintendo Switch 2) $39.99 + Free S&H at Target",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T12:32:51.697871Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Garmin Edge® 1040, GPS Bike Computer $499.99",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-13T12:32:51.697871Z",
-  "code": "duplicate",
   "public": true
  }
 ]
