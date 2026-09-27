@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$4.73 S&S Clip Q Amazon Old El Paso Original Taco Seasoning Mix, Gluten Free, 10 Pack, 10 oz",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-27T01:08:53.608986Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "16\" Rechargeable LED Drawing Board $11.98 – 14 Light Effects, 7 Markers & 10H Battery",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T01:08:53.608986Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ozark Trail 10L Polyester Daypack Backpack (Navy or Rose) $4.97 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T01:08:53.608986Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$17.72-$26.58 or less S&S AMAZON ZEISS Pre-Moistened Lens Cleaning Wipes, 400 or 600 Count",
   "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-27T00:58:12.396251Z",
@@ -133852,14 +133876,6 @@
   "raw_title": "Hanging Glow In The Dark Ghost Decoration $2.97",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-13T02:52:55.608313Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Ozark Trail 10L Polyester Daypack Backpack (Navy or Rose) $4.97 + Free Shipping w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T02:47:21.548417Z",
   "code": "not_checked",
   "public": false
  },
