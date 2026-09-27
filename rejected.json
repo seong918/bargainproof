@@ -1,5 +1,69 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Milwaukee 25-Foot Compact Magnetic Tape Measure 2-Pack for $20 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T20:10:17.145618Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nike Pro Men's Dri-FIT Fitness Tights (3 colors) $14.80 + Free Shipping $14.4",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T20:10:17.145618Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "City Slickers II: The Legend of Curly's Gold - Blu-ray $8.49 + Free S&H w/ Prime or $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-27T20:04:40.700554Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$34.99 | Directive 8020 Deluxe Edition (Xbox Series X) at Amazon",
+  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T20:04:40.700554Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $2.77 | 18.1-Oz Cocoa Puffs Chocolate Breakfast Cereal at Amazon",
+  "reason": "Community score too low (+3) to pass without a price check — needs clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-27T20:04:40.700554Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Drawer Organizers 10-Pack Only $14.99 on Amazon (Reg. $35)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T20:04:40.700554Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Forever 21 Women's Printed Romper for $5 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T19:59:05.004449Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CVS Has 8 pack Boxes Of Pop Tarts For $1.99 ( 8 Flavors)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T19:59:05.004449Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$249.95* | De'Longhi Dedica Maestro Plus Espresso Machine at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
@@ -134206,61 +134270,5 @@
   "rejected_at": "2026-09-13T20:15:21.793357Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Walgreens $9 for 2 : Dove Men+Care 3 in 1 Soap 4 Bars, 3.75 oz or 18oz Body Wash pick up at $10+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T20:09:51.970052Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Golden Grahams S'mores Cereal Treat Bars, Value Pack, 16 ct, 16.96 oz $4.08 With Full S&S Discount",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-13T20:09:51.970052Z",
-  "code": "duplicate",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[Resale] $45* | TP-Link AX3000 WiFi 6 Dual-Band Range Extender PCMag Editor's Choice (Used - Like New) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-13T20:04:21.989391Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[Resale] $19.32* | Logitech MK345 Full Size Wireless Keyboard and Mouse Combo - Black (Used - Like New) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-13T20:04:21.989391Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[Resale] $28.68* | Logitech MK540 Full Size Advanced Wireless Keyboard and Mouse Combo (Used - Like New) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-13T19:58:50.699901Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "The Shiver of the Vampires (4K UHD) $19.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-13T19:58:50.699901Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "MSI PRO MP243L E14 24\" FHD IPS 144Hz Gaming Monitor $79.99 + Free Shipping",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-13T19:58:50.699901Z",
-  "code": "low_score",
-  "public": true
  }
 ]
