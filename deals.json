@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "6b16d2d30556",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20065443-bluetooth-speaker-20w-hd-sound-portable-wireless-ipx5-waterproof-up-to-24h-playtime-15-98?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
+  "title": "Bluetooth Speaker, 20W HD Sound, Portable Wireless, IPX5 Waterproof, Up to 24H Playtime",
+  "raw_title": "Bluetooth Speaker, 20W HD Sound, Portable Wireless, IPX5 Waterproof, Up to 24H Playtime $15.98",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0BRKPVZB4",
+  "deal_total_cents": 1598,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 2398,
+  "amazon_coupon_cents": 800,
+  "amazon_effective_cents": 1598,
+  "amazon_url": "https://www.amazon.com/dp/B0BRKPVZB4",
+  "amazon_checked_at": "2026-09-27T02:04:53.708720Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 0,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0BRKPVZB4",
+  "image_url": null,
+  "published_at": "2026-09-27T02:04:48.901935Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "35a5599472a7",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20065158-5-britney-spears-greatest-hits-audio-cd-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
