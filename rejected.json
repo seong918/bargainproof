@@ -1,5 +1,21 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Ruikoring 8.5\" Motion Sensor Wireless Under Cabinet Lighting $13.49",
+  "reason": "Posted at $13.49, but Amazon showed $26.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-27T14:45:50.325249Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas Fall Sale Men's Sock Deals for From $6.30, multipacks from $10 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T14:45:50.325249Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "adidas Fall Sale Ball Deals for From $9.35 + free shipping",
   "reason": "Not evaluated",
@@ -134732,30 +134748,6 @@
   "raw_title": "Razer Huntsman Mini 60% Gaming Keyboard Linear Optical Switches $69.00",
   "reason": "Same deal was already posted from another source",
   "rejected_at": "2026-09-13T14:56:07.968969Z",
-  "code": "duplicate",
-  "public": true
- },
- {
-  "source": "hip2save",
-  "raw_title": "OATH Clear Protein Only $16.85 Shipped on Amazon (Reg. $35)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T14:45:08.493297Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Monster Open Ear Bluetooth 5.4 Wireless Earbuds for Sports - 32H Playtime with Charging Case, ENC Noise Cancelling, IPX5 Waterproof Gym Running Headphones $29.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T14:45:08.493297Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Klein Tools 2-Pair Cut-Resistant Nitrile Coated Work Gloves(Large) $7.98 + Free S&H w/ Prime or $35+",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-13T14:45:08.493297Z",
   "code": "duplicate",
   "public": true
  }
