@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "015b083bc6be",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20065596-calvin-klein-men-s-cotton-stretch-7-pack-boxer-brief-47-3?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
+  "title": "Calvin Klein Men's Cotton Stretch 7-Pack Boxer Brief",
+  "raw_title": "Calvin Klein Men's Cotton Stretch 7-Pack Boxer Brief $47.3",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B07DFF8414",
+  "deal_total_cents": 4730,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "qty"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 4730,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 4730,
+  "amazon_url": "https://www.amazon.com/dp/B07DFF8414",
+  "amazon_checked_at": "2026-09-27T03:44:25.901440Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B07DFF8414",
+  "image_url": null,
+  "published_at": "2026-09-27T03:44:22.016649Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "df17a02be36a",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20064846-24-pet-bed-for-dog-carrier-travel-carrier-midwest-homes-amazon-4-79?utm_source=rss&utm_content=ht&utm_medium=RSS2",
