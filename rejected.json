@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "1021-Piece LEGO Spring Festival Good Fortune Building Set $56.90 + Free Shipping",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-27T12:25:43.976941Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$299.99* | Dyson Ball Animal 3 Upright Corded Vacuum at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T12:20:16.975851Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Dobyns Rods Maverick Low-Profile Casting Fishing Reel (Size 100, 7.2:1, LH, Red) $29.99 + Free Shipping w/ Prime or $6 Fee per Order",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T12:20:16.975851Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Bedsure 23\" x 16\" Flannel Fleece Dog Blanket (3-Pack) $4.79",
+  "reason": "Posted at $4.79, but Amazon showed $10.79 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-27T12:14:58.891440Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $2.39* | 1-Oz Aveeno Baby Eczema Therapy Nighttime Moisturizing Balm at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-27T12:09:41.284335Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$7.50 | Ford v Ferrari (DVD) at Amazon",
+  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T12:09:41.284335Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "\"RENEWED EXCELLENT\" TOZO OpenEarRing Open Ear Earbuds 40H Bluetooth 5.4 $15.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T12:09:41.284335Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Michael Kors Handbag Outlet Deals for Handbags from $49 + free shipping w/ $75",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T12:09:41.284335Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[Prime] $99.99 | Shark StainForce Cordless Stain, Odor & Urine Remover, 1 Tool, HX095BRN at Amazon",
   "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-27T12:04:24.656528Z",
@@ -134518,53 +134582,5 @@
   "rejected_at": "2026-09-13T12:27:22.480722Z",
   "code": "duplicate",
   "public": true
- },
- {
-  "source": "hip2save",
-  "raw_title": "*NEW* Lowes NFL 5-Gallon Buckets Just $8.98 Shipped (24 Teams Available!)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T12:21:51.771116Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$18.96 Clip Q Amazon Gillette Labs Special NFL Philadelphia Eagles Razor for Men - 1 Handle, 4 Razor Blade Refills & Magnetic Stand",
-  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-13T12:16:20.803114Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$11.99* | Ingersoll Rand 10P Edge Series Premium Air Tool Oil at Amazon",
-  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-13T12:16:20.803114Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Where The Heart Is $4.99",
-  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-13T12:16:20.803114Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Scenic 12-Night Antarctica Cruise for From $37,946 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T12:05:19.053988Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Tweezer Set w/ Travel Case Only $4.99 on Amazon (Reg. $10)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T12:05:19.053988Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
