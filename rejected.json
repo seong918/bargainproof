@@ -1,6 +1,134 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "10.2-Oz Moroccanoil Hydrating Styling Cream $23.94 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-27T19:42:20.267155Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$89.99 | KitchenAid Go Cordless Hand Mixer, battery included, KHMR762 at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T19:42:20.267155Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$66.22 | Zojirushi EC-DAC50SZ ZUTTO Coffee Maker 5 Cups, Silver, PFAS-free at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T19:42:20.267155Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ekouaer Nightgowns for Women Bamboo Viscose Sleep Shirt (Black) $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T19:42:20.267155Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "George Ribbed Fleece Lined Knit Beanie for $2 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T19:42:20.267155Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Eivikga 3 Channel Dash Cam Front and Rear Inside for Rideshare & Taxi $56.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T19:42:20.267155Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ShopRite Supermarkets $4.99 with Digital Q 33.8 oz Bottle of BOTTICELLI Extra Virgin Olive Oil to 9/29 only",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T19:42:20.267155Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$7 | The Very Best of Don Henley (Audio CD) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T19:36:43.704899Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$127.07 | Zojirushi NL-DCC10CP Micom Rice Cooker & Warmer, 5.5 Cups, Pearl Beige at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T19:36:43.704899Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$119.99 | KitchenAid Vegetable Sheet Cutter Attachment with Noodle Blade Red, KSM2SCA at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T19:36:43.704899Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Wrangler Men's Utility Streetwear Shirt for $7 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T19:36:43.704899Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Philips Norelco All-in-One 3000 13-in-1 Trimmer, Face & Hair, Comfort Tips $49.96 + Free S&H at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T19:31:07.202252Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $2.55* | 8-Oz Aveeno Baby Cleansing Therapy Moisturizing Wash (Natural Oatmeal) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-27T19:31:07.202252Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $8.78 | 60-Count Rayovac AAA Batteries at Amazon (14.6￠ each)",
+  "reason": "Community score too low (+0) to pass without a price check — needs clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-27T19:31:07.202252Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $11.38* | 12-Cup Rubbermaid Brilliance Airtight Food Storage Pantry Container at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-27T19:31:07.202252Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "MSI 27\" FHD (1920 x 1080) HDMI DP 200Hz 0.5ms AMD FreeSync Premium Pro Rapid IPS Gaming Monitor - MAG 272FB E20 $99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T19:31:07.202252Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[Prime, SnS] $18.03* | 3-Pack 8\" x 20' FoodSaver Vacuum Heat Seal Rolls at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-27T19:25:32.909278Z",
@@ -134100,158 +134228,6 @@
   "raw_title": "$30 FS WALMART+ Dr. Scholl's Women's Originalist Sandal size 6-11",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-13T19:47:46.752835Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$85.01 | Citizen Quartz Mens Watch, Stainless Steel, Classic at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-13T19:42:15.826129Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Mordheim: City of the Damned",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T19:42:15.826129Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Beholder",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T19:42:15.826129Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Beholder 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T19:42:15.826129Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Wall World",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T19:42:15.826129Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$13 FS WALMART+ Athletic Works Men's Front Runner Extra Wide Width Sneakers, 4E (size 7-13)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T19:42:15.826129Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$9.72 FS WALMART+ Bluey Toddler Boys Low Top Slip On Casual Sneaker Size 5-12T (except 6)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T19:42:15.826129Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Beholder 3",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-13T19:42:15.826129Z",
-  "code": "duplicate",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$119.99* | Garmin Bounce, Kids Smartwatch at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-13T19:36:46.319325Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Open Box: 6' heyday USB-C to Lightning Cable PD Home Charging Kit (Dusk Blue) $11.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T19:36:46.319325Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$7.49 Walgreens CLEARANCE Franklin Sports Competition 100 Soccer Ball Size 4, 1.0 ea pick up at $10",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T19:36:46.319325Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Art Class Kids' Myra Chelsea Boots (New w/o Box, Sizes 1-5, 13) $14.00 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T19:31:14.596993Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Men's Cotton T-Shirts Oversized Unisex Short Sleeves Casual Loose Solid Basic T-shirt regular adult and plus sizes $9.98",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T19:31:14.596993Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$3.99 | World of the Queen's Thief Collection: The Thief, The Queen of Attolia, The King of Attolia, A Conspiracy of Kings, Thick as Thieves (eBook) by Megan Whalen Turner",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-13T19:25:43.787831Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[AC] $6.30* | 2-Oz TIGI Bed Head Manipulator Texturizing Hair Styling Putty at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-13T19:25:43.787831Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$14.98* | Van Heusen Men's Regular Fit Oxford Solid Dress Shirt (Various Colors) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-13T19:25:43.787831Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "hip2save",
-  "raw_title": "These No Boundaries Quilted Totes Have the Cutest Prints & Are Under $20",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T19:25:43.787831Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$28.99 | Ariv 4PK Oversized Bath Towels at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T19:25:43.787831Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$29.99 | Vionic Women's Uptown Loafer at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T19:25:43.787831Z",
   "code": "not_checked",
   "public": false
  }
