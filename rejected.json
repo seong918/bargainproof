@@ -1,6 +1,14 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$38.97: Under Armour Men's Charged Surge 4, 101 Gray (Various Sizes 7-15)",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T03:21:58.664248Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "App Only: 7.5' National Tree Company Pre-Lit Flocked Acacia Artificial Christmas Tree $44.99 + Free Shipping w/ Prime or $6 Fee per Order",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-27T03:16:41.838642Z",
@@ -133996,14 +134004,6 @@
   "raw_title": "Peanuts® Snoopy & Woodstock Halloween Paper Beverage Napkins - 16 Pc. $2.65",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-13T03:25:19.786028Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "6\" x 5 1/2\" Bulk 48 Pc. Peanuts® Snoopy Thanksgiving Foam Glider Toys $10.78",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T03:20:04.495759Z",
   "code": "not_checked",
   "public": false
  }
