@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "1fbc11220509",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20066250-sns-ac-23-97-3-ct-philips-norelco-oneblade-360-blades-qp430-80-at-amazon-7-99-each?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "3-ct Philips Norelco OneBlade 360 Blades (QP430/80) at Amazon",
+  "raw_title": "[SnS, AC] $23.97* | 3-ct Philips Norelco OneBlade 360 Blades (QP430/80) at Amazon ($7.99 each)",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 2397,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-27T14:40:15.068734Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "727c0d127bd6",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20066283-499-99-dyson-purifier-humidify-cool-ph03-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
