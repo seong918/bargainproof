@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "757c30d2bf12",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20066805-amazon-hoto-pocket-size-laser-measuring-tool-20-99-w-code?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "Amazon – HOTO Pocket-Size Laser Measuring Tool - w/ Code",
+  "raw_title": "Amazon – HOTO Pocket-Size Laser Measuring Tool - $20.99 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B09156YD8P",
+  "deal_total_cents": 2099,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 2999,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 2999,
+  "amazon_url": "https://www.amazon.com/dp/B09156YD8P",
+  "amazon_checked_at": "2026-09-27T18:12:54.263181Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B09156YD8P",
+  "image_url": null,
+  "published_at": "2026-09-27T18:12:49.322342Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "ac6ca9880580",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20066274-1-99-polostan-volume-one-of-bomb-light-a-riveting-historical-epic-of-international-espionage-intrigue-and-the-dawn-of-the-atomic-age-ebook-by-neal-stephenson?utm_source=rss&utm_content=ht&utm_medium=RSS2",
