@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Betty Crocker Chocolate Chip Cookie Mix, Makes 12 Cookies, 7.5 oz, 9 Pack~$9.12 With S&S @ Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-27T03:27:33.073827Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Krusteaz Complete Buttermilk Pancake and Waffle Mix, Light & Fluffy, 5 lb Bags (Pack of 6)~$29.97 @ Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T03:27:33.073827Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Antler 4-Pack Compression Packing Cubes (Various Colors) $18.99 + Free Shipping w/ Prime or $6 Fee per Order",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T03:27:33.073827Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$38.97: Under Armour Men's Charged Surge 4, 101 Gray (Various Sizes 7-15)",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-27T03:21:58.664248Z",
@@ -133980,30 +134004,6 @@
   "raw_title": "$50 or less QVC.com NFL Officially Licensed T-Shirt and Full-Zip Hoodie Combo",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-13T03:30:33.821899Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Grand patio Raised Garden Bed with Legs, Metal Elevated Planter Box with Woodgrain Finish $85.49",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-13T03:25:19.786028Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$8.88: Peak Optix Plus Beam Wiper Blade (15-28\")",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T03:25:19.786028Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Peanuts® Snoopy & Woodstock Halloween Paper Beverage Napkins - 16 Pc. $2.65",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T03:25:19.786028Z",
   "code": "not_checked",
   "public": false
  }
