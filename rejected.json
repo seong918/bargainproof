@@ -1,6 +1,78 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$249.95* | De'Longhi Dedica Maestro Plus Espresso Machine at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T19:53:30.494295Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$27.99* | CUCKOO One Touch Rice Cooker 12-Cup Cooked, White (CR-0601C) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T19:53:30.494295Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$1.99 | Nuclear War: A Scenario (eBook) by Annie Jacobsen",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T19:53:30.494295Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Kobalt Non-Marring Knee Pads for $12 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T19:53:30.494295Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Under Armour Undeniable 5.0 Duffle Bag (Small) $17.58 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T19:53:30.494295Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$20.99 | Reba: The Complete Series (DVD) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T19:47:54.413296Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$22.99 | The Grey: SteelBook (4K Ultra HD + Blu-ray) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T19:47:54.413296Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Dove Beauty Soap Bars 3.17oz 2/$1.58 after $5 Digital Q WALGREENS pu at $10",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T19:47:54.413296Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Costco Members: TCL 50\" Class - Q77K Series - 4K UHD QLED Smart TV + 5-Yrs Warranty for 249.97(In-Warehouse price) $249.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T19:47:54.413296Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "10.2-Oz Moroccanoil Hydrating Styling Cream $23.94 w/ S&S + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-27T19:42:20.267155Z",
@@ -134190,45 +134262,5 @@
   "rejected_at": "2026-09-13T19:58:50.699901Z",
   "code": "low_score",
   "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Gorilla Grip Upgraded Model Stainless Steel Manual Can Opener, Black $8.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T19:53:18.496233Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$20.97 FS Walmart+ by HOBIBEAR Mens Thong Sandals Arch Support Indoor and Outdoor Beach Flip Flop size 7-14",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T19:53:18.496233Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Cheerios Honey Nut Breakfast Cereal, Heart Healthy, Gluten Free, 18.8 oz $3.19 or less",
-  "reason": "Posted at $3.19, but Amazon showed $3.39 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-13T19:47:46.752835Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "hip2save",
-  "raw_title": "Mini Brands Books Advent Calendar Only $19.99 on Amazon",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T19:47:46.752835Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$30 FS WALMART+ Dr. Scholl's Women's Originalist Sandal size 6-11",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T19:47:46.752835Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
