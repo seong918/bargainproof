@@ -1,6 +1,190 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Early Prime Big Deal (Only Prime account): Shark Vertex Lift-Away Vacuum, DuoClean PowerFins, Silver/Rose Gold, AZ2002 $269.99",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-27T08:40:16.932545Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DC 7 Film Collection [Blu-ray] $39.99 Amazon.com",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T08:34:38.960364Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas Men's Fall Kick Off Shoe Deals for From $17, sneakers from $33 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T08:34:38.960364Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "UCOMX 3 in 1 Charging Station for Multple Devices (colors: black, white) $7.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T08:34:38.960364Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "4/$9.90 ac Walgreens BUBLY Sparkling Water (various) 8ct 12oz cans ac's",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T08:34:38.960364Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon Grocery, Turkey Flavor Stuffing Mix, 6 Oz (Previously Amazon Fresh, Packaging May Vary)~$0.87 With S&S @ Amazon~Buy 4 & Save More!",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-27T08:28:59.309596Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Hancock - 4K + Blu-ray $14.96 Amazon.com",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T08:28:59.309596Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Walmart Resold Flash Deals: Up to 65% off + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T08:28:59.309596Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Game Winner Molded 200 lb Feeder $79.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T08:28:59.309596Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Walgreens Pick Up $10+ THREE boxes of Kelloggs Cereals at link, $5.39 ac",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T08:28:59.309596Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Walmart Flash Deals: Up to 65% off + free shipping w/ $35",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-27T08:28:59.309596Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon Saver, Ranch Dressing & Dip, 16 Fl Oz~$1.77 With S&S @ Amazon~Buy 4 & Save More!",
+  "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-27T08:23:21.883739Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Fifty Shades: 3-Movie Collection [Blu-ray] $12.33 Amazon.com",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T08:23:21.883739Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon Basics 20-Pack AA Alkaline Batteries, 1.5 Volt, 10-Year Leak-Free Shelf Life~$7.31 With S&S @ Amazon~Buy 4 & Save More!",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-27T08:23:21.883739Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Encanto Blu Ray + DVD + Digital Copy $14.96 Amazon.com",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T08:17:44.227497Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$39-$41 FS Staples 88-96 count major brand KCUPS (rewards members)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T08:17:44.227497Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "The Hunger Games: The Ballad Of Songbirds And Snakes - DVD, BLURAY, Digital $7.50 Amazon.com",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T08:12:07.424556Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "The Lost World: Jurassic Park - 4K Ultra HD + Blu-ray + Digital (Dolby Vision + Dolby Atmos Version) $14.99 Amazon.com",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T08:12:07.424556Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Lawrence of Arabia (Restored Version) - 4K + Blu-ray + Digital $29.99 Amazon.com",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-27T08:06:29.996666Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CVS Pick up Mens/Womens Gillette/Venus Disposable Razors 2/$10.98 ac, get $4 Extra Bucks",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T08:06:29.996666Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CVS Pick Up: General Mills Cereals (Various at links) 2/$2.98 ac",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T08:00:52.952592Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$7.99: Amazon Basics 5ft Cord Power Strip Cube, 3 Outlets, 1 USB-C, 2 USB-A(White) at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T07:55:17.478236Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$21.88 FS WALMART+ by Cowin Electric Heat Pad for Neck and Shoulders, Heating Pad with 4 Heat Settings & Auto Shut Off, Machine Washable Heating Pad,",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T07:55:17.478236Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "5-Oz Aveeno Positively Radiant Brightening Daily Face Wash Scrub $4.33 w/ S&S + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+3) to pass without a price check — needs Subscribe & Save, Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-27T07:38:32.252988Z",
@@ -69216,28 +69400,12 @@
   "public": false
  },
  {
-  "source": "dealnews",
-  "raw_title": "Walmart Resold Flash Deals: Up to 65% off + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-19T09:43:55.569393Z",
-  "code": "not_checked",
-  "public": false
- },
- {
   "source": "slickdeals",
   "raw_title": "Homall 98 Gallon Deck Box with Lockable Lid, Black $62.99 + Free S&H at Walmart",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-19T09:43:55.569393Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Walmart Flash Deals: Up to 65% off + free shipping w/ $35",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-19T09:43:55.569393Z",
-  "code": "duplicate",
-  "public": true
  },
  {
   "source": "techbargains",
@@ -134158,109 +134326,5 @@
   "rejected_at": "2026-09-13T08:45:26.741208Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Makita ADTK01Z Outdoor Adventure™ 36V (18V X2) LXT® Hot Water Kettle, Tool Only $169.99",
-  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-13T08:40:12.587281Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "CHI-CHI'S Sweet Corn Cake Mix, 7.4 Ounce (Pack of 12) $16.88",
-  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-13T08:40:12.587281Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Crayola Washable Slim Dry Erase Markers, 10 Count $8.55",
-  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-13T08:34:41.674010Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$252.99* | Husqvarna 150BT Gas Backpack Leaf Blower, 51-cc 2.16-HP 2-Cycle + 10% Back w/ Prime Visa Card at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-13T08:12:35.197845Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "2-Pack RYOBI ONE+ 18V Cordless 7.5\" Bucket Top Misting Fans (Tool Only) $89 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T08:12:35.197845Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$15.99* | Resident Evil 4 Remake (PlayStation 4) at Amazon",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-13T08:12:35.197845Z",
-  "code": "duplicate",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$39.99 Free Ship STAPLES Hammermill Copy Plus 8.5\" x 11\" Copy Paper, 20 lbs., 92 Brightness, 5000 Sheets/Carton",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T08:07:03.414940Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "STAPLES FREE SHIP: any SELECT Five Boxes of 20-24 count Major Brand KCUPS $50 (ACTIVATE REWARDS MEMBERS)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T08:01:32.069522Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon Grocery, Peanut Butter Filled Pretzels, 44 Oz~$6.08 After Coupon & S&S @ Amazon",
-  "reason": "Community score too low (+0) to pass without a price check — needs clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-13T07:56:00.878169Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Checkered Crossbody Bag Bum Bag $8.47 + Free Shipping w/ Prime or orders $35+",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-13T07:56:00.878169Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "365 by Whole Foods Market, Organic Golden Round Crackers, 12 Ounce~$2.79 After Coupon & S&S @ Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-13T07:50:28.713008Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Jordan's Skinny Syrups Butter Toffee Zero Sugar Syrup $4.91 + Free Shipping w/ Prime or $6 Fee per Order",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T07:50:28.713008Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Everyday Heroes 4-Movie Collection (Apollo 13 / Backdraft / Erin Brockovich / Lone Survivor) [Blu-ray] $12.62 Amazon.com",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-13T07:44:57.809279Z",
-  "code": "low_score",
-  "public": true
  }
 ]
