@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$17.72-$26.58 or less S&S AMAZON ZEISS Pre-Moistened Lens Cleaning Wipes, 400 or 600 Count",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-27T00:58:12.396251Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "12 count, Sharpie Creative Markers, Earth Tones, Water-Based Acrylic, Bullet Tip, $8.99, FS Prime, Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-27T00:58:12.396251Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "12-Gal HART 6 Peak HP Wet/Dry Vacuum w/ 7' Hose, Accessories & Blower Function $49.98 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-27T00:52:57.197853Z",
@@ -134060,46 +134076,6 @@
   "raw_title": "Universal Studio Gabby's Dollhouse 14\" Toddler Backpack with Lunch Kit -Lavender $6.79",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-13T01:12:59.302750Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$15.60 | tarte double take eyeliner at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-13T00:56:41.666820Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS] $16.62 | tarte key largo glow bronzing drops at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-13T00:56:41.666820Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$12 | tarte maracuja juicy lip & cheek shift at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-13T00:56:41.666820Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS] $12.82 | tarte maracuja juicy shimmer glass lip plump at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-13T00:56:41.666820Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Yaomiao READ LED Marquee Letters $17.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-13T00:56:41.666820Z",
   "code": "not_checked",
   "public": false
  }
