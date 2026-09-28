@@ -1,5 +1,29 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "50pcs Halloween Luminous Ghost Figurine Mini Multicolor Glowing Ghost - $6.99 @ Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T22:01:08.219211Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Jordan 1 Low OG \"Banned\" Men's Shoe $95.18",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T22:01:08.219211Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Better Homes & Gardens Juliet 66.25\" Narrow Arch Bookcase (Rich Black & Light Honey) $127.40 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T22:01:08.219211Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "140-Piece Impact Driver Bit Set for $40 + free shipping",
   "reason": "Not evaluated",
@@ -133108,38 +133132,6 @@
   "raw_title": "1-1/4 in. x 10m/ 33 ft. SHOCKFORCE G2 Tape Measure $18.97",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-14T22:05:30.688923Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Adidas Men's Galaxy 7 Running Shoes $24.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T21:59:59.464532Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Adidas Women's Ultraboost 5X Shoes $64.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T21:59:59.464532Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "UGreen 6-in-1 USB-C Hub for $9 + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T21:59:59.464532Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "The Legend of Zelda Link's Awakening for Nintendo Switch for $42 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T21:59:59.464532Z",
   "code": "not_checked",
   "public": false
  }
