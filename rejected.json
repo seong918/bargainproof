@@ -1,5 +1,13 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "OUKITEL WP500 5G Ultra Thermal Imaging Rugged Phone, Dimensity 8300, 12GB/1TB, 108MP, IP68/IP69K + MIL-STD-810H $699.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T11:53:05.339477Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Momax Rechargeable Bluetooth Key Finder for $14 + free shipping",
   "reason": "Not evaluated",
@@ -133710,37 +133718,5 @@
   "rejected_at": "2026-09-14T11:57:04.091958Z",
   "code": "duplicate",
   "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Biodance 1.01-oz. Radiant Vita Niacinamide Serum for $12 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T11:51:47.617426Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "26-Piece Ratcheting Screwdriver Bit Set for $9.99 w/ Prime + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T11:51:47.617426Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas women Grand Court 2.0 Shoes (5 Colors) from $25",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T11:51:47.617426Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$35: adidas kids Gazelle Bold Shoes(Bold Green/Cloud White/Gold Metallic, 4.5/5/5.5/6.5/7) at ebay",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T11:51:47.617426Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
