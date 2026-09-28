@@ -1,5 +1,37 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "250th Anniversary USA Enamel Lapel Pin 10-Pack for $10 + $3.99 shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T11:42:33.476019Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Aeitto 68 Oz Large Capacity Professional Countertop Blender, 1500-Watt Smoothie Blender $29.99",
+  "reason": "Posted at $29.99, but Amazon showed $79.90 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-28T11:37:16.556861Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Harry Potter RP Minis Book Series Deals at Amazon for From $8.89 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T11:32:00.533075Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "QUINEAR Professional Leg Recovery System, Cordless Air Compression Boots with Sequential Compression, Leg and Foot Massager $119",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T11:32:00.533075Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "1135-Piece LEGO Technic Lamborghini Revuelto Super Sports Car (42214) $151.99 + Free Shipping",
   "reason": "Same deal was already posted from another source",
@@ -133780,78 +133812,6 @@
   "raw_title": "Canon EOS-1D X Mark III 20.1MP Full-Frame DSLR Body with CFexpress Card & Reader Bundle Kit (Pre-order) $6499",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-14T11:46:19.269005Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Thinkcar 689BT Bidirectional OBD2 Diagnostic Scanner for $490 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T11:40:48.805481Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "G4Free 45L Travel Duffle Bag for $15 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T11:40:48.805481Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas women VL Court 3.0 Shoes (3 Colors) from $23",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T11:40:48.805481Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$99.27-140 AC (select sizes) Timberland Men's Authentic 3-Eye Lug Handsewn Boat Shoes BROWN or Burgundy",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-14T11:35:18.382624Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas kids Duramo SL Shoes(2 Colors) $24 + Free S&H at ebay",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T11:35:18.382624Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Eddie Bauer Sherpa Reverse 50\" x 60\" Throw Blanket for $8 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T11:29:45.471551Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas Men's Gazelle Shoes (Black/Scarlet) $41.97 & More + Free Shipping on $49+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T11:29:45.471551Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas women Cloudfoam Pure Shoes(Core Black/ Core Black/ Grey Six) $30 + Free S&H at ebay",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T11:29:45.471551Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas men Grand Court 2.0 Shoes (Core Black) $26",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T11:29:45.471551Z",
   "code": "not_checked",
   "public": false
  }
