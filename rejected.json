@@ -1,5 +1,45 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "JandCase 180-Degree Rotating Jellyfish Projector Night Lights $11.99",
+  "reason": "Posted at $11.99, but Amazon showed $29.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-28T10:54:42.473678Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Airheads Full-Size Candy Bars, Halloween Variety Pack, 90 Count Box Trick or Treating, Individually Wrapped Bulk Taffy Candy, Assorted Fruit Flavors~$16.99 @ Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T10:49:05.711302Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Twilight - BLURAY + DVD + Digital $5 Amazon.com",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T10:49:05.711302Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Hanes Men's Beefy-T Henley Shirt for $6 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T10:49:05.711302Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Macy's Monday Markdowns Clearance Sale: Up to 80% off + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T10:49:05.711302Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "OREO Orange Creme Chocolate Sandwich Halloween Cookies, 18.71 oz~$3.66 @ Amazon",
   "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
@@ -66342,14 +66382,6 @@
   "rejected_at": "2026-09-21T09:42:08.688502Z",
   "code": "duplicate",
   "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Macy's Monday Markdowns Clearance Sale: Up to 80% off + free shipping w/ $39",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-21T09:36:40.519167Z",
-  "code": "not_checked",
-  "public": false
  },
  {
   "source": "slickdeals",
@@ -133868,38 +133900,6 @@
   "raw_title": "Athletic Works Baby Boys Mesh Jogger Sneakers (2 Baby to 6 Baby) $4.46 to $6.54",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-14T10:56:37.384916Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas men Advantage Shoes (Cloud White / Cloud White / Legend Ink) $19",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T10:51:06.238117Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "PUMA Transport Running Mens Black Sneakers Athletic Shoes(Size 9~12) $19.96 + Free S&H at ebay",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T10:51:06.238117Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas men Lite Racer Adapt 7.0 Wide Shoes (2 Colors) from $25",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T10:45:35.682100Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$31.98: Cole Haan Isabelle Over The Knee Round Toe Zippered Womens Brown Casual Boots W(Size 5~8) at ebay",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T10:45:35.682100Z",
   "code": "not_checked",
   "public": false
  }
