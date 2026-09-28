@@ -1,5 +1,37 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Fluke LIQ-Duo/FPC3, LinkIQ-Duo Cable, Wi-Fi, and Network Tester with 3 Years of Standard Fluke Premium Care $2788.05",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T23:35:45.543649Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Lauren Ralph Lauren Spencer Queen Cotton Sateen 4-Piece Sheet Set for $68 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T23:30:27.467702Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "George Oliver Maklena Coffee Table for $93 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T23:24:48.433294Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$9.99 sale for Marshals: Season 1",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T23:24:48.433294Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Euroco Wood Twin Size Daybed w/ Trundle & Storage Cabinets for $250 + free shipping",
   "reason": "Not evaluated",
@@ -132868,86 +132900,6 @@
   "raw_title": "$108.77 FS to store SPORTMANS WAREHOUSE: Salomon Men's Speedcross 6 Low Trail Running Shoes (size 8-10, 11.5 and 12)",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-14T23:37:20.309630Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Dawn Ultra Original Dish Soap Refill 51.5-oz. Jug for 3 for $15 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T23:32:04.901041Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "L.L.Bean Men's Bean's Down Hooded Colorblock Jacket for $85 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T23:32:04.901041Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$150 FS BEST BUY Roku - 40\" Class Select Series Full HD (1080p) LED Smart RokuTV (2026)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T23:32:04.901041Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "L.L.Bean Nor'easter Insulated Large Tote for $60 + free shipping w/ $75",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T23:26:49.410590Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Logitech MX Keys S Combo Wireless Keyboard & Mouse w/ Palm Rest $143.99 + Free Shipping w/ Prime or $6 Fee per Order",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T23:26:49.410590Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$59 Best Buy (stock ymmv) open box Excellent Insignia™ - 32\" Class F20 Series LED HD (720p) Smart Fire TV",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T23:26:49.410590Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "12-Pack Honey Stinger Organic Energy Chews (Pomegranate Passionfruit) $11.70 ($0.97 Each) w/ S&S + Free Shipping w/ Prime or on $35+",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-14T23:26:49.410590Z",
-  "code": "duplicate",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Costco Membership Deals at Groupon for From $65",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T23:21:19.519509Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "KinderMat Nap Mat for $6.50 + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T23:21:19.519509Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Wolverine Men's Rancher Level Pull-On Steel-Toe Work Wellington Boot (Camo) $66 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T23:21:19.519509Z",
   "code": "not_checked",
   "public": false
  }
