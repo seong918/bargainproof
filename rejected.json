@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "WWE 2K26 - (Nintendo Switch 2) $29.99 + Free S&H w/ Prime or $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-28T00:48:22.513201Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "WWE 2K26 (PlayStation 5) $29.99 + Free S&H w/ Prime or $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-28T00:48:22.513201Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "DKNY Men's Modern-Fit 2-Piece Suit for $100 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T00:48:22.513201Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Kenneth Cole Reaction Men's Double-Breasted Slim-Fit 2-Piece Suit for $100 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T00:48:22.513201Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[Prime] $398.99: iRobot Roomba 415X Robot Vacuum & Mop, 20,000Pa, 90-Day Self-Emptying, Self-Cleaning Dock at Amazon",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-28T00:37:08.347322Z",
