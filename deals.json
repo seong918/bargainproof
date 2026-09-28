@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "3ce28273c27a",
+  "source": "techbargains",
+  "source_url": "https://www.amazon.com/gp/product/B0DJGDC3BD/ref=ox_sc_act_image_1?smid=ATVPDKIKX0DER&psc=1",
+  "title": "Amazon Fire TV Stick 1080p Max 8GB Streaming Media Player with Alexa Voice Remote",
+  "raw_title": "Amazon Fire TV Stick 1080p Max 8GB Streaming Media Player with Alexa Voice Remote $15.99",
+  "merchant": "amazon",
+  "buy_url": "https://www.amazon.com/gp/product/B0DJGDC3BD/ref=ox_sc_act_image_1?smid=ATVPDKIKX0DER&psc=1",
+  "deal_total_cents": 1599,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 1599,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1599,
+  "amazon_url": "https://www.amazon.com/dp/B0DJGDC3BD",
+  "amazon_checked_at": "2026-09-28T18:37:34.304154Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": null,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0DJGDC3BD",
+  "image_url": null,
+  "published_at": "2026-09-28T18:37:29.955979Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "45b532527441",
   "source": "techbargains",
   "source_url": "https://www.amazon.com/gp/product/B0H39HGTDC/ref=ox_sc_act_image_1?smid=AN1A90CDX1K54&psc=1",
