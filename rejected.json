@@ -1,6 +1,30 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "Ultimate Ears Miniroll Waterproof Bluetooth Speaker for $42 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T22:18:04.285552Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "3L Eastpak Doggy Bag Waist Pack (Black Denim) $6.33 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-28T22:18:04.285552Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "TCL QM6K Series 85QM6K 85\" 4K HDR QD-Mini LED Google TV Smart TV for $898 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T22:12:24.378758Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
   "raw_title": "KingChii 4500W/3600W Gas Powered Inverter Generator for $288 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-28T22:06:45.973006Z",
@@ -133028,70 +133052,6 @@
   "raw_title": "65\" Tydimor TV Stand Entertainment Center w/ Storage Shelves & Drawers (Walnut) $98.98 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-14T22:21:58.422920Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Tokina atx-i 11-16mm f/2.8 CF Lens for Nikon F $149.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T22:16:28.820326Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "COSRX Hyaluronic Acid Intensive Skin Cream $12.50",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T22:16:28.820326Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Learning Resources Sunshine Shape Sorter for $5 + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T22:16:28.820326Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Avery 300-Count Round Printable Labels for $9 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T22:16:28.820326Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Adidas Women Terrex Free Hiker 2.0 Gore-Tex Hiking Shoes $82.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T22:11:00.163987Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Jackery Solar Generator 5000 Plus Portable Power Station 5038Wh LiFePO4 w/ 5M Extension Cable $2,397.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T22:11:00.163987Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Adidas Men's Adilette Aqua Slides $12.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T22:11:00.163987Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "BOOST Protein Drinks 24-Pack Only $22 Shipped on Amazon (Reg. $39) | Just 92¢ Each!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T22:11:00.163987Z",
   "code": "not_checked",
   "public": false
  }
