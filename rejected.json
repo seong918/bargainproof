@@ -1,6 +1,286 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Save $10 on $50+ Select Halloween Candy (M&M's, Skittles, Starburst Fun Size) + Free Shipping $40.04",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T19:34:04.395858Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Casio FX-300ESPLSB-BU Scientific Calculator $9.79 + Free Shipping w/ Prime or on orders over $35",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-28T19:34:04.395858Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $239.99 | Amazon Fire TV Soundbar Plus with subwoofer (newest model), 3.1 channel, Dolby Atmos, DTS:X, clear dialogue at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-28T19:34:04.395858Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$23.97* | 45mm Casio AE-1000W Series Digital Illuminator Men's Resin Watch at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T19:34:04.395858Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Bush League All-Stars Dirty Dozen 550 Robusto 12-Cigar Sampler for $22 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T19:34:04.395858Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Hyper Tough 6-Foot Indoor Extension Cord 5-Pack for $9 + pickup",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T19:34:04.395858Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Rubbermaid Brilliance 14-Piece Set Only $27.99 Shipped for Prime Members (Reg. $40)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T19:34:04.395858Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men Ultimate365 Tour CLIMAPROOF+ Anorak Jacket $105",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T19:34:04.395858Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$18.49 | HYCHIKA Detail Sander, 14,000 OPM Compact Electric Sander Tool with 12 Pcs Sandpapers at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T19:28:24.400457Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$207.57 | GEARWRENCH 25-Pc. Flex Combination Ratcheting Wrench Set, SAE/MM - 86730 at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T19:28:24.400457Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$477.98 | BOSCH GCD18V-14N 18V 14 In. Dry Cut Saw - Cordless, 14-Inch Blade at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T19:28:24.400457Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$26.11 | HYCHIKA 8000-35000 RPM Variable Speed Rotary Tool Kit with 179 Pcs Accessories at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T19:28:24.400457Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$16.91 | Titan 10902 Tape Measure with Easy-Read Standard Markings and Durable Case, 4-Piece Set, 12-Foot, 16-Foot, 25-Foot and 33-Foot at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T19:28:24.400457Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$35.33 | Titan 223 Adjustable Construction Spud Wrench, 3-Pc Set at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T19:28:24.400457Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Halloween Party Favors - 24 Sheets DIY Halloween Stickers for Kids - $3.99 @ Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T19:28:24.400457Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$50.21 | BORA Automatic Pocket Hole Jig Kit with 3in Face Clamp 50pc Screws at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T19:28:24.400457Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Anyking 15.6\" FHD IPS Screen Portable Laptop Screen Extender $89.99",
+  "reason": "Posted at $89.99, but Amazon showed $149.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-28T19:28:24.400457Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Wolfbox MF60 3-Speed 110000RPM Electric Compressed Air Duster with 5x Nozzles $28.79",
+  "reason": "Posted at $28.79, but Amazon showed $31.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-28T19:28:24.400457Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Bluey: More 5-Minute Stories: 6 Stories in 1 Book $6.70",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T19:28:24.400457Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Banana Republic Factory Sale: Extra 50% off + free shipping w/ $50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T19:28:24.400457Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$12.99* | Kasa Outdoor WiFi Smart Plug at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T19:22:43.496706Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Walmart Tire Rollbacks for From $48 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T19:22:43.496706Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Airensky Extra Large(79 \"x 83\") Picnic Blanket, 3-Layer Thicking Outdoor Camping Blanket, Machine Washable Beach Blanket $12.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T19:22:43.496706Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$109.22 | DEWALT 20V MAX XR Brushless Cordless 1/2 in. Drill/Driver (Tool Only) (DCD801B) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T19:17:03.557592Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$72.47 | Makita XFD10Z 18V LXT Lithium-Ion Cordless Driver-Drill, Tool Only, 1/2\", Variable Speed at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T19:17:03.557592Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$26.36 | Genesis GCS445SE 4.0A 4-1/2-Inch Compact Circular Saw at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T19:17:03.557592Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$1.71 | CRAFTSMAN Utility Knife Blades, Carbon Steel, 3/4 Inch, 10 Pack (CMHT11700X) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T19:17:03.557592Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$8.50* | Craftsman 3/4\" Manual Cut Bypass Pruner at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T19:17:03.557592Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$5.99* | Fukkuda Rechargeable Electric Candle Lighter (Obsidian Black or Rose Gold) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T19:17:03.557592Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$7.99* | 6-Pk Holikme Drill Brush Power Scrubber Cleaning Attachment Set at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T19:17:03.557592Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS] $11.95* | OVERTURE High Speed PLA Filament 1.75mm 3D Printer Filament,1kg Black at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-28T19:17:03.557592Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Wosports 1200 Yards Golf Rangefinder with Slope $29.99",
+  "reason": "Posted at $29.99, but Amazon showed $59.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-28T19:17:03.557592Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "12-Night Australia Coastal Adventure with Flights $3,649.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T19:17:03.557592Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ryobi 38-Piece Precision Screwdriver Set for $10 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T19:17:03.557592Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ASUS TUF GAMING X870E-PLUS AM5 MB + GAMDIAS Atlas P6 CG Mid-Tower Case + 240mm AIO Liquid CPU Cooler $375 + Free Shipping $374.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T19:17:03.557592Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$53.99* | Beelicious Pro 80 kPa 10-in-1 AirLock ProSeal System Food Vacuum Sealer at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-28T19:11:25.867462Z",
@@ -86249,14 +86529,6 @@
  },
  {
   "source": "slickdeals",
-  "raw_title": "Casio FX-300ESPLSB-BU Scientific Calculator $9.79 + Free Shipping w/ Prime or on orders over $35",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-18T17:51:24.682513Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
   "raw_title": "Coostar Mens Slip On Walking Shoes Cushioning Running Tennis Sneakers $29.69",
   "reason": "Posted at $29.69, but Amazon showed $53.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-18T17:51:24.682513Z",
@@ -132540,214 +132812,6 @@
   "raw_title": "Costway Countertop Reverse Osmosis Water Filter, 5-Stage RO + PPC Water Filtration System with UV Light $112 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-14T19:37:10.952762Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS] $7.26* | 32-Pc XPCARE Kraft Paper Gift Bags (6 Colors, 5.25\" x 3.25\" x 8.25\") at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-14T19:31:40.646241Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "X-Sense Wi-Fi Radon Detector for Home for $80 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T19:31:40.646241Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Toilet Tank Cleaning Tablet Holder 2-Pack Just $7.99 on Amazon (Viral on TikTok)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T19:31:40.646241Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[AC] $40.49* | CORSAIR 3200D RS Mid-Tower PC Case w/ 3x RS120 PWM Fans at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-14T19:26:11.353293Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[Prime] $47.49* | VTOMAN X1 2500A Jump Starter / 150PSI Air Compressor for 8.5L Gas/6L Diesel at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-14T19:26:11.353293Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[AC] $44.12* | 8\" Cuisinart FusionElite+ Nonstick Tri-Ply Stainless Steel Skillet at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-14T19:26:11.353293Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "j5create 380W 6-Port GaN USB-C Fast Charging Station $99.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T19:26:11.353293Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "AND1 Men's Zone Mule Slip On Sandals for $6 + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T19:26:11.353293Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Nike Aura 24L Backpack for $21 + free shipping w/ $49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T19:26:11.353293Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Acer Nitro 65 Gaming Desktop: Ryzen 7 8700F, RX 9060 XT (16GB), 16GB DDR5, 1TB SSD $1369.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T19:26:11.353293Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "OtterBox iPhone 17e/16e/15/14/13 Symmetry Series Clear Case - Blue Bliss, MagSafe $8.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T19:26:11.353293Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Buy One Get One Offer: 8-Piece Comforter Sets (Various, Any Size) $29.93 + Free Pickup at Macys or Free Shipping on $39+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T19:26:11.353293Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "UGREEN USB Bluetooth Adapter for PC Bluetooth 6.0 Dongle Receiver $7.99 + Free S&H w/ Prime or $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-14T19:20:41.760627Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS, AC] $34.37* | 4-ct Philips Norelco OneBlade 360 Blades (QP440/80) at Amazon ($8.59 each)",
-  "reason": "Community score too low (+1) to pass without a price check — needs clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-14T19:20:41.760627Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Prime Members: SEDY 26-Piece Ratcheting Screwdriver Bit Set w/ Magnetic Extension Rod $9.99 + Free Shipping",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-14T19:20:41.760627Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "NULAS Airtight Food Storage Containers with Lids, 4pcs 135.2 fl oz $18.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T19:20:41.760627Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "(Resale) Chefman XL Electric Griddle with Removable Temperature Control, 10 x 20 Inch (Used) $20.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T19:20:41.760627Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Foldable Storage Totes 6-Pack Just $11.99 Shipped (+ EXTRA $10 Off for New Customers)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T19:20:41.760627Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Verizon Customers - Up to 50% NFL Sunday Ticket via Verizon Shine in the mobile app $234.01",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T19:20:41.760627Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[Prime, AC] $49.99* | Fanbulous 42\" Outdoor Ceiling Fan w/ Light & Remote at Amazon",
-  "reason": "Community score too low (+0) to pass without a price check — needs clip coupon, Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-14T19:15:13.700137Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Nesugar G3 Pro Smart Handheld Steamer for Clothes, 70ml, 900W $19.99",
-  "reason": "Posted at $19.99, but Amazon showed $48.19 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-14T19:15:13.700137Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "(Resale) Breville Smart Oven Air Fryer Pro (Brushed Stainless Steel) (Used) $187.98",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T19:15:13.700137Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "NIVEA Men 3-in-1 30oz Body Wash 2-Pack $9.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T19:15:13.700137Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "60-Piece Black Silverware Set for 12 $31.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T19:15:13.700137Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Millwood Pines Sparta Lift Top Coffee Table for $69 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T19:15:13.700137Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Hair Claw Clip Sets as Low as $4.94 on Amazon",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T19:15:13.700137Z",
   "code": "not_checked",
   "public": false
  }
