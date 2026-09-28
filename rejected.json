@@ -1,6 +1,110 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "Lion Way UniFlow 32-oz. Insulated Bottle for $20 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T08:05:04.539680Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "MakeFit Filtered Rain Shower Head for $70 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T08:05:04.539680Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Disney 4.5 FT LED ZERO - Nightmare Before Christmas $90",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T08:05:04.539680Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Disney 6 FT Deluxe Life-Size Animated Sally - Nightmare Before Christmas $180",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T08:05:04.539680Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Disney 6.5 FT Deluxe Life-Size Animated Jack Skellington - Nightmare Before Christmas $180",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T08:05:04.539680Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Ryobi One+ HP 18V Brushless Cordless 7-1/4\" Circular Saw with Battery $139",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T08:05:04.539680Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon Echo Pop Kids Smart Speaker w/ Alexa (Disney Princess or Marvel's Avengers) $21.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-28T07:59:27.692539Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Soliom 2K Window Security Camera w/ LCD Touchscreen for $49 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T07:59:27.692539Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Scott Double Roll Choose-A-Sheet Paper Towels 6-Pack for $6.50 via Sub. & Save + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T07:59:27.692539Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Bestpresso Coffee Pods Variety Pack (6-Pack) for Nespresso Original Machines $21.44",
+  "reason": "Posted at $21.44, but Amazon showed $38.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-28T07:53:53.205539Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee 2579-20 M12 Stick Transfer Pump $129",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T07:53:53.205539Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Disney 4.5-Foot LED Zero Halloween Decoration for $90 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T07:48:16.001633Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$1.99 | The Anthropology Book: Big Ideas Simply Explained (DK Big Ideas) (Kindle eBook) by DK",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T07:48:16.001633Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
   "raw_title": "Glacier Bay Tight Radius 33\" 50/50 Double Bowl Kitchen Sink w/ Spring Neck Faucet for $269 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-28T07:42:43.159694Z",
@@ -133836,78 +133940,6 @@
   "raw_title": "Kobalt 40 -Volt, 2 Ah 1 -Pack Lithium Ion (Li-ion) Battery | KB 240-03 $79",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-14T08:05:56.587860Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Kohl's Customer Appreciation Event: Up to 30% off + free shipping w/ $49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T08:00:25.743520Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "MIlwaukee SHOCKWAVE Impact-Duty 3/8 in. Drive Metric and SAE Deep Well Impact PACKOUT Socket Set (36-Piece) $157",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T07:54:53.822037Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Rerdeim 5-Piece Putty Knife Set for $6 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T07:49:20.715494Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Milwaukee SHOCKWAVE Impact-Duty 1/2 in. Drive SAE Deep Well Impact PACKOUT Socket Set (15-Piece) $104",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T07:49:20.715494Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "2-Pack TIVMIK 11.81''-22.85'' Expandable Pots and Pans Organizer Rack (White or Black) $21.99 + Free Shipping",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-14T07:43:50.869914Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "The Legend of Zelda: Ocarina of Time for Nintendo Switch 2 for Preorder for $60 w/ price protection + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T07:43:50.869914Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Milwaukee Hole Dozer Bi-Metal Hole Saw Kit (11-Piece) w/9 in. 5 TPI AX Nail-Embedded Wood Cutting SAWZALL Blade $49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T07:43:50.869914Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Milwaukee Oscillating Multi-Tool Blade Kit (20-Piece) $44.88",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T07:43:50.869914Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Milwaukee 1-3/8 in. Titanium Bi-Metal Universal Fit Wood and Metal Cutting Multi-Tool Oscillating Blade (3-Pack) PLUS 1 Blade $29.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T07:43:50.869914Z",
   "code": "not_checked",
   "public": false
  }
