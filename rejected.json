@@ -1,5 +1,205 @@
 [
  {
+  "source": "dealcatcher",
+  "raw_title": "First Aid Beauty KP Bump Eraser Scrub, 10% AHA, Sensitive Skin $20.40",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T21:21:29.532872Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Nike Men's Sportswear Club Winterized Jacket for $75 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T21:21:29.532872Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Portable Steam Cleaner Just $23.99 Shipped on Amazon (Reg. $60)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T21:21:29.532872Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "5-Pk Bosch 2\" Torx #20 Impact Tough Power Bits $3.83 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs multi-pack, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-28T21:15:49.230303Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$58.09 | IRWIN Marples Chisel Set with Wallet, High-Impact, 5-Piece (1819363) at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T21:15:49.230303Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "IAMS Proactive Health Adult Minichunks Dry Dog Food, Chicken, 30 lb $31.32",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T21:15:49.230303Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LG LT1000P - 6 Month / 200 Gallon Capacity Replacement Refrigerator Water Filter $46.40",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T21:15:49.230303Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Granicell AAA Rechargeable NiMH Batteries 24-Pack for $12 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T21:15:49.230303Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Jumbo Plush Toys from $20 on Walmart.com | Ms. Rachel, Pokémon, Bluey & More",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T21:15:49.230303Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Diono Solana 2 XL 2022, Dual Latch Connectors $29.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T21:10:08.237272Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Resale] $439.05 | Ninja Luxe Café Pro Series Espresso Machine (Used - Like New) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T21:10:08.237272Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "STA-BIL Storage Fuel Stabilizer, 16 oz, Treats 40 Gallon $10.79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T21:10:08.237272Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LandAirSea 54 GPS Tracker $14.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T21:10:08.237272Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "NordicTrack T Series Treadmill for Home $759.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T21:10:08.237272Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Nike Men's C1TY Street Shoes for $50 in cart + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T21:10:08.237272Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$189 FS WALMART Acer Nitro ED0 Gaming Monitor 34\" UWQHD (3440 x 1440)Curved Gaming Monitor with AMD FreeSync Technology, 120 Hz",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T21:10:08.237272Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "(Certified Refurbished) DJI Osmo Action 5 Pro Adventure Combo $359 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T21:10:08.237272Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$11.31* | HYCHIKA Mini Cordless Rotary Tool Kit - 89PCS Accessories for Drilling, Sanding, Polishing, Engraving at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T21:04:27.866527Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Purina Friskies Pate Variety Pack Seafood Chicken Cat Food, 48 Ct, 5.5 oz $33.40",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T21:04:27.866527Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Greenies Regular Dental Dog Treats, Original Chicken Flavor, 36 Count $26.71",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T21:04:27.866527Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "URO Vaginal Probiotics for Women,1-Month Supply $21.72",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T21:04:27.866527Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "TCL 55\" 55QM7K Class QM7K Series Mini LED 4K UHD Google Smart TV for $548 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T21:04:27.866527Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Seabourn 7-Night Caribbean Cruise for From $10,436 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T21:04:27.866527Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "LEGO Speed Champions Back to The Future Time Machine for $22 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T21:04:27.866527Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Echo Pop Kids Devices from $21.99 on Amazon (Reg. $50)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T21:04:27.866527Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "B Beworths Mix Arabica Instant Mushroom Coffee with Beta-Glucans $13.17",
   "reason": "Posted at $13.17, but Amazon showed $32.95 when we checked — the deal is probably over",
@@ -111225,14 +111425,6 @@
  },
  {
   "source": "dealnews",
-  "raw_title": "LEGO Speed Champions Back to The Future Time Machine for $22 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T18:31:16.312648Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
   "raw_title": "Supvan G15M Keyboard & Bluetooth Label Maker Machine for $60 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-16T18:31:16.312648Z",
@@ -132924,134 +133116,6 @@
   "raw_title": "$177.06 Walmart Pirelli Scorpion All Season Plus 3 All Season 235/55R20 102V SUV/Crossover Tire",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-14T21:21:31.058735Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[AC] $427.48* | CUCKOO Twin Pressure Induction Rice Cooker, 12-Cup Cooked, CRP-PHTR0609FS at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-14T21:16:00.018564Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Bandai Hobby Kit Star Wars Death Star II & Star Destroyer for $14 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T21:16:00.018564Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Wolverine Women's Piper 6\" Composite Toe Work Boots $55 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T21:16:00.018564Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Spindrift Sparkling Water 20-Count Variety Pack Only $9.62 Shipped on Amazon",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T21:10:30.316587Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Samsung - 65\" Class S90H OLED 4K Glare-Free TV with SamsungVisionAI (2026) $1399",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T21:10:30.316587Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "1-800-PetSupplies $50 Gift Card for $45 + email delivery",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T21:04:59.664973Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Ford OEM 5.4L 3V Phaser Repair Kit for $49 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T21:04:59.664973Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "8-Night China Flight, Hotel, and Tour Vacation for From $1,998 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T21:04:59.664973Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[Samsung EPP/EDU] 27\" ViewFinity S8 4K 60Hz IPS Monitor w/ 90W USB & KVM $287.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T21:04:59.664973Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "No Boundaries Ocean Flip Flops, Men's $5",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T21:04:59.664973Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Lugz Rucker Hi Faux Fur Round Toe Lace Up Womens Casual Boots, $15.16-$15.96, FS, ebay",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T21:04:59.664973Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Fine Tip Dry Erase Markers 24-Pack for $7.69 w/ Subscribe & Save + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T20:59:32.134487Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "National Tree Company Two Ball Topiary 48\" Artificial Plant w/ Pot Base for $29 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T20:59:32.134487Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[Samsung EPP/EDU] 40\" ViewFinity S8 5120x2160p 144Hz VA Curved Monitor (2026) $630 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T20:59:32.134487Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Samsung Crystal UHD U7900H 75-Inch 4K Smart AI Tizen TV $447.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T20:59:32.134487Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Justin Boots Elana Velvet Square Toe Pull On Womens Brown Casual Boots, $19.96, FS, ebay $19.94",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T20:59:32.134487Z",
   "code": "not_checked",
   "public": false
  }
