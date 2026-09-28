@@ -1,5 +1,38 @@
 [
  {
+  "deal_id": "29275ab9826c",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20070414-sns-ac-12-24-4-5-lb-amazon-fresh-brown-long-grain-rice-3-06-each-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "4 × 5-Lb Amazon Fresh Brown Long Grain Rice",
+  "raw_title": "[SnS, AC] $12.24 | 4 × 5-Lb Amazon Fresh Brown Long Grain Rice ($3.06 each) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1224,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-28T20:02:24.302175Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "901fb1a81f1a",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20069493-29-99-15-pc-bluey-bingo-supermarket-playset-w-escalator-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
