@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "4389c54ab0a9",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20068632-sns-ac-7-50-40-count-amazon-basics-39-gallon-lawn-leaf-heavy-duty-drawstring-trash-bags-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "40-Count Amazon Basics 39 Gallon Lawn & Leaf Heavy Duty Drawstring Trash Bags",
+  "raw_title": "[SnS, AC] $7.50 | 40-Count Amazon Basics 39 Gallon Lawn & Leaf Heavy Duty Drawstring Trash Bags at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 750,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-28T12:25:26.707231Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "870f8b38a571",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20068617-49-99-fender-hammertone-overdrive-pedal-guitar-accessories-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
