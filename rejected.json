@@ -1,6 +1,102 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "American Eagle Clearance: 70% off + free shipping w/ $75",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T01:44:38.195853Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "World Market Fall Clearance: Up to 60% off + free shipping w/ $59",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T01:44:38.195853Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CVS PICK UP Two Select Poise Pads for Women 2/$8.60-$8.98 ac , earn $7 ECB's",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T01:44:38.195853Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] Dune Deluxe Hardcover Edition $16.18 + Free Shipping",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-28T01:44:38.195853Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "180° Wide Two pack Swim Goggles for Kids, $5.49 w/ code",
+  "reason": "Community score too low (+2) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-28T01:39:00.567540Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CVS Pick Up Palmolive Dish Liquid 20oz 2/$5.68 ac get $3 Extra Bucks",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T01:39:00.567540Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$14.40 or less S&S/Q SOUR PATCH KIDS Soft & Chewy Gummy Candy, 24 - 2 oz Full Size Bags (HALLOWEEN)",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-28T01:33:22.783211Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Klipsch R-800F Reference Series Dual 8\" Floorstanding Speaker (Black) $449.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T01:33:22.783211Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "7' x 100' Alpacasso Garden Netting w/ 3/4\" Mesh $13.49 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T01:33:22.783211Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon Basics On-Ear Wired Computer Headset w/ Adjustable Mic $6.99 + Free Shipping w/ Prime or $6 Fee per Order",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T01:33:22.783211Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "N. K. Jemisin: The Inheritance Trilogy (Kindle Edition) $2.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T01:27:44.391348Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Hardcover Books at Barnes & Noble: 50% off + free shipping w/ $60",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T01:27:44.391348Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
   "raw_title": "L.L.Bean Women's Mountain Classic Anorak for $50 + free shipping w/ $75",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-28T01:16:30.571891Z",
@@ -134150,85 +134246,5 @@
   "rejected_at": "2026-09-14T01:45:13.650000Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Nature Valley Crunchy Cinnamon or Oats And Honey Granola, Resealable Pouch, 16 oz $3.51 or less",
-  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-14T01:39:41.840207Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Zebra 8-Count Think Kit Multicolor Pen Set $7.49 + Free Store Pickup at Target or Free Shipping on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T01:28:38.402399Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$2.99 | Mad Science: Einstein's Fridge, Dewar's Flask, Mach's Speed, and 362 Other Inventions and Discoveries That Made Our World (Kindle ebook)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T01:28:38.402399Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$1.99 | Selected Stories Of Philip K. Dick (Kindle ebook)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T01:23:07.957143Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Pelsee S3 4K+2.5K Dual Dash Cam $180",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T01:23:07.957143Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Joe's New Balance Outlet: Extra 40% Off Select Shoes $31.19",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T01:23:07.957143Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "No Boundaries Men's Fleece Straight-Leg Sweatpants (Melon) $5.93 + Free Shipping w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T01:17:37.411104Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$13 FS WOOT PRIME OtterBox iPhone 17 Pro Symmetry Series Case - Black",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T01:17:37.411104Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "5-Pack 20-Count Wet Ones Antibacterial Hand Wipes Travel Packs (Fresh Scent) $6.43 ($1.29 Ea) + Free Store Pickup at Target or Free Shipping on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T01:17:37.411104Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "MENS Size 11: $10 AMAZON KuaiLu Mens Faux Leather Flip Flops with Comfortable Arch Support (KHAKI Color)",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-14T01:17:37.411104Z",
-  "code": "duplicate",
-  "public": true
  }
 ]
