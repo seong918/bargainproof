@@ -1,5 +1,21 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Glacier Bay Tight Radius 33\" 50/50 Double Bowl Kitchen Sink w/ Spring Neck Faucet for $269 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T07:42:43.159694Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M12 12-Volt Lithium-Ion Cordless 10 oz. Adhesive and Caulk Gun w/M12 12V Lithium-Ion CP High Output 2.5 Ah Battery Pack $149",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T07:42:43.159694Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "[$69.95] $69.95: Braun MQ5025 Hand Blender Multiquick Vario, MQ5025, Black",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
@@ -133892,38 +133908,6 @@
   "raw_title": "Milwaukee 1-3/8 in. Titanium Bi-Metal Universal Fit Wood and Metal Cutting Multi-Tool Oscillating Blade (3-Pack) PLUS 1 Blade $29.97",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-14T07:43:50.869914Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Gecork Window Screen Replacement Mesh for $5.99 w/ Prime + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T07:38:20.261272Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Sennheiser Momentum 4 Bluetooth Wireless Headphones for $165 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T07:38:20.261272Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Milwaukee 7-1/4 in. x 24-Tooth Framing Circular Saw Blades (4-Pack) $24.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T07:38:20.261272Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Milwaukee SAWZALL Metal Cutting Bi-Metal Reciprocating Saw Blade Set (16-Piece) with 2 Carbide Blades $25",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T07:38:20.261272Z",
   "code": "not_checked",
   "public": false
  }
