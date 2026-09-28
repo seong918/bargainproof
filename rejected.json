@@ -1,5 +1,45 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "[$69.95] $69.95: Braun MQ5025 Hand Blender Multiquick Vario, MQ5025, Black",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T07:37:08.141049Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DeWalt ATOMIC 20-Volt MAX Lithium-Ion Cordless 2-Tool Combo Kit with (2) 2.0Ah Batteries, Charger and Bag $192",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T07:37:08.141049Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Satisfy Your Crave 20g High Protein Chocolate Caramel Crisp Protein Bars (12-Pack) $30.59",
+  "reason": "Posted at $30.59, but Amazon showed $33.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-28T07:31:32.307350Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Ridgid 18V 6.0Ah Rechargeable Lithium-Ion Batteries (4-Pack) $299",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T07:31:32.307350Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M18 FUEL ONE-KEY 18V Lithium-Ion Brushless Cordless 1/2 in. Impact Wrench with Friction Ring 2863-20 w/ 5.0 Ah Battery $359",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T07:25:55.860079Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "K-Swiss Men's Mellow Lightweight Running Shoe (Various Sizes & Colors) $29.79",
   "reason": "Posted at $29.79, but Amazon showed $59.59 when we checked — the deal is probably over",
@@ -133884,62 +133924,6 @@
   "raw_title": "Milwaukee SAWZALL Metal Cutting Bi-Metal Reciprocating Saw Blade Set (16-Piece) with 2 Carbide Blades $25",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-14T07:38:20.261272Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Ozark Trail Wayfarer Fiberglass Spinning Fishing Rod & Reel Combo for $10 + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T07:32:51.358406Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "DeWalt ATOMIC 20-Volt MAX Lithium-Ion Cordless 2-Tool Combo Kit with (2) 2.0Ah Batteries, Charger and Bag $192",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T07:32:51.358406Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$38.38: Banana Republic $50 Gift Card (Email Delivery) at Newegg.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T07:32:51.358406Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Ridgid 18V Brushless Cordless 6-1/2 in. Circular Saw Kit with 4.0 Ah MAX Output Battery and Charger $129",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T07:32:51.358406Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS, AC] $9.74* | 60-Ct. Force Factor Total Beets Soft Chews Heart Health Supplement at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-14T07:27:21.567098Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Pirate's Booty Aged White Cheddar Cheese Puffs 24-Pack for $6.74 via Sub & Save + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T07:27:21.567098Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "2-Piece Ozark Trail Wayfarer 5'6\" Fiberglass Spinning Rod & Reel Combo (Orange) $9.97 + Free Shipping w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T07:21:51.444476Z",
   "code": "not_checked",
   "public": false
  }
