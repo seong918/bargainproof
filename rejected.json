@@ -1,6 +1,86 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Butterfinger, CRUNCH, 100 Grand, Kinder Bueno, Kinder Chocolate, Minis Assorted Halloween Candy Bag, 100 Count, 32.2 oz $14.86",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T20:30:33.010149Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Wiserset 55\"x36\" Frameless Beveled Bathroom Wall Mirror $125.99",
+  "reason": "Posted at $125.99, but Amazon showed $179.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-28T20:30:33.010149Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Godox 2-in-1 1800K-10000K 4900mAh Portable Selfie Light & Power Bank $23.25",
+  "reason": "Posted at $23.25, but Amazon showed $46.50 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-28T20:30:33.010149Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Duracell Coppertop AAA Batteries, 24 Count, 12-Year Shelf Life | Power Boost Ingredients $21.75",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T20:30:33.010149Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Duracell Coppertop AA + AAA Batteries, 56 Count, 12-Year Shelf Life $43.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T20:30:33.010149Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Carhartt Men's Iconic A18 Watch Cap Beanie $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T20:30:33.010149Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LEGO Classic Creative Suitcase with Sorting Storage Organizer Case $11.80",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T20:30:33.010149Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Kurt Adler 10-Light Yellow Duck LED Light Set for $8 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T20:30:33.010149Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Nike Women's Zenvy High-Waisted 7/8 Leggings for $17 + free shipping w/ $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T20:30:33.010149Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "66\" Concetta Over-the-Toilet Storage Cabinet w/ Adjustable Bottom Stabilizer (2 Colors) $53.65 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T20:30:33.010149Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Department 56 Coraline Pink Palace Apartments Village Set – Lighted Building with Figurines for Halloween Village Display, Coraline Decorations, and Movie Collectible Fans $194.56",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-28T20:24:54.675844Z",
@@ -132868,70 +132948,6 @@
   "raw_title": "Car Phone Holder Mount for MagSafe, 108LBS Vacuum Suction & 3000gf Magnetic $9.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-14T20:32:01.831365Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[Resale] $14.50 | TP-Link USB WiFi 6 Adapter for Desktop PC,AX1800 Dual Band WiFi Antenna (Used - Like New) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-14T20:26:32.281934Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS, AC] $11.95* | 12-Oz Astroglide Water Based Personal Lubricant at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-14T20:26:32.281934Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "LEGO Star Wars Smart Play: Mos Eisley Cantina for $65 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T20:26:32.281934Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Hunter Avia 52\" Ceiling Fan w/ LED Light Kit & Remote for $130 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T20:26:32.281934Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Vlog Selfie Monitor Screen, Magnetic Phone Vlog Selfie Monitor Screen 4K 30fps Bluetooth Remote, Compatible with iPhone & Android $17.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T20:26:32.281934Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "OtterBox 20W Fast Charging USB-C Wall Charger (Bulk Packaging), 3 Units - $11.99, 2 Units - $9.99, 1 Unit - $5.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T20:26:32.281934Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "GE 24-in Top Control Built-in Dishwasher ( Fingerprint Resistant Stainless Steel ) , Dry Boost , 55-Decibel | GDT535PYVFS $399",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T20:26:32.281934Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Otterbox Premium Pro Fast Charge Lightning to USB-C Cable, 2M (6.6ft), 3 Units - $14.99, 2 Units - $11.99, 1 Unit - $7.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T20:26:32.281934Z",
   "code": "not_checked",
   "public": false
  }
