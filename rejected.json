@@ -1,5 +1,85 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Fuzzy Socks For Women 5 Pairs Thermal Thick Winter Warm Gifts for Women $9.99 @Amazon",
+  "reason": "Posted at $9.99, but Amazon showed $19.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-28T13:55:15.981498Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Gaialoop Fishing Tool Kit, 7-Piece Fillet Knife, Pliers, Scissors & Gripper Ruler $14.98 @Amazon",
+  "reason": "Posted at $14.98, but Amazon showed $24.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-28T13:55:15.981498Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Pzlwgm 3-Size Broken Pipe Thread Extraction Tool $4.99",
+  "reason": "Posted at $4.99, but Amazon showed $8.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-28T13:55:15.981498Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Mid Length Hooded Trench Coat $28.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T13:55:15.981498Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Pet Pouch Hoodie Sweatshirt $25.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T13:55:15.981498Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Kids Hoodies Fleece Cargo Sweatshirts $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T13:55:15.981498Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Lightweight Zip Up Bomber Jacket $14.09",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T13:55:15.981498Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Amazon Fire TV Alexa Voice Remote Pro for $20 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T13:55:15.981498Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Hammerhead 7.5A 1/2\" Variable Speed Hammer Drill w/ 6 Bits for $13 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T13:55:15.981498Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "iMATCHME Triple Magnesium Complex for Sleep & Calm Support 240 Count (Pack of 2) $13.79 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T13:55:15.981498Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Solar Large Outdoor Lights 2-Pack $29.99",
   "reason": "Not evaluated",
@@ -133372,206 +133452,6 @@
   "raw_title": "GL.iNet GL-BE6500 (Flint 3e) Dual-band Wi-Fi 7 Router 5 x 2.5G Ports VPN $119 + Free S/H",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-14T13:59:32.813991Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "MSI Modern 15 H 15.6\" i9-13900H 32GB 1TB Gaming Laptop (Refurbished) $699.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T13:54:04.929857Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Mad Science: Einstein's Fridge, Dewar's Flask, Mach's Speed, and 362 Other Inventions and Discoveries That Made Our World Kindle ebook $2.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T13:54:04.929857Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "adidas men RUN 70s 2.0 Shoes $28.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T13:54:04.929857Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Ortega Original Mild Taco Sauce 16-Oz $2.87",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T13:54:04.929857Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "The Dangerous Book for Boys eBook $1.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T13:54:04.929857Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "CRAFTSMAN 10'' Mini Chainsaw Cordless V20 $99.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T13:54:04.929857Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Sex at Dawn: How We Mate, Why We Stray, and What It Means for Modern Relationships (eBook) $1.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T13:54:04.929857Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Corsair M55 Wireless Lightweight FPS Gaming Mouse $29.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T13:54:04.929857Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "TP-Link Festa F65 WiFi 6 AX3000 Ultra-Slim Wireless Access Point $35.25",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T13:54:04.929857Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "TP-Link Festa FS328GP 28 Port Gigabit Smart Managed PoE Switch $118.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T13:54:04.929857Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Duckalooz Disney and Pixar’s Toy Story Ducks $7.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T13:54:04.929857Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Range: Why Generalists Triumph in a Specialized World Kindle eBook $1.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T13:54:04.929857Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Drybar The Half Shot Small Round Blow-Dryer Brush 1.5\" Barrel $77.50",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T13:54:04.929857Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Selected Stories Of Philip K. Dick Kindle eBook $1.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T13:54:04.929857Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Precision Homebuds Digital Kitchen Food Scale w/ LED Display (Blue) $5.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T13:54:04.929857Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Tapo MagCam 2K+ Outdoor Wireless Security Camera $69.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T13:54:04.929857Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Pumpkin Fall Placemats Set of 4 $4.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T13:54:04.929857Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Motivational Rainbow Colored Pencils 100 Pcs $8.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T13:54:04.929857Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Find Your People: Building Deep Community in a Lonely World Kindle eBook $1.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T13:54:04.929857Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Gecork Fiberglass Window & Door Screen Replacement Mesh 48\" x 102\" $5.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T13:54:04.929857Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "LEGO Botanicals Flowering Cactus 482-Piece Building Toy $26.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T13:54:04.929857Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Banana Republic Factory Online Flash Sale: Extra 40% to 50% off + free shipping w/ $50",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T13:54:04.929857Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Black+Decker Black + Decker 700W Countertop Microwave Oven for $80 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T13:54:04.929857Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Klipsch RP-600M II Reference Premiere Dual 6.5\" 400W Passive 2-Way Bookshelf Speakers (Pair, Ebony) $449.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T13:54:04.929857Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Jackery Explorer 240D Power Bank with Adjustable Shoulder Strap 254Wh LiFePO4 $116.8 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T13:54:04.929857Z",
   "code": "not_checked",
   "public": false
  }
