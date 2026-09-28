@@ -1,5 +1,13 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Mens Hawaiian Short Sleeve Casual Button-Down Shirts Summer Shirts (Various Styles) $7.99 AC",
+  "reason": "Posted at $7.99, but Amazon showed $17.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-28T22:40:10.626528Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
   "source": "dealnews",
   "raw_title": "Vitamix Explorian Blender for $200 + free shipping",
   "reason": "Not evaluated",
@@ -132998,13 +133006,5 @@
   "rejected_at": "2026-09-14T22:43:55.987378Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon TitanFlex Black Nitrile Gloves 100ct - Buy 1 Get 1 Free + S&S - 200ct ~$11.69 $12.63",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-14T22:38:27.355851Z",
-  "code": "duplicate",
-  "public": true
  }
 ]
