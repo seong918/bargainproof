@@ -1,5 +1,29 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "MoAcey Adjustable Size Cordless Heated Knee Massager $22.99",
+  "reason": "Posted at $22.99, but Amazon showed $45.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-28T02:40:43.388505Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Factory Reconditioned] Shark Wandvac WV200 Cord-Free Handheld Vacuum $37.99 + Free Shipping w/ Prime or $6 Fee per Order",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T02:40:43.388505Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – ELECLINK 8-Pack Solar Pathway Lights - $25.59 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-28T02:29:29.770768Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Philips Norelco OneBlade Face Body Shaver $39.98",
   "reason": "Not evaluated",
@@ -134116,126 +134140,6 @@
   "raw_title": "$8.10 FS Walmart+ or PU where available George Men's Comfort Closed Toe Sandals size 7-13",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-14T02:51:30.440433Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$16.34 Indomie Mi Goreng Instant Stir Fry Noodles, Hot & Spicy 2.82 Ounce (Pack of 30)",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-14T02:45:59.896332Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$15 FS WALMART or pick up where available Choice of 3 colors George Men's Hip Strap Sandals",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T02:45:59.896332Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$7.13 FS WALMART+ (regional stock) Reebok Men's Cushioned Comfort Slip-On Slides in Black",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T02:45:59.896332Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Nature's Way Fortify Daily Pre+Probiotic for Adults, 30 Billion CFUs, 30 ct $13.64",
-  "reason": "Posted at $13.64, but Amazon showed $12.99 when we checked — the post is stale",
-  "rejected_at": "2026-09-14T02:34:59.448796Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Hair Dryer, CONFU Hair Dryer with Diffuser 110000 RPM $49.99",
-  "reason": "Posted at $49.99, but Amazon showed $84.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-14T02:34:59.448796Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "22.8\"x15\"x9\" Adjustable Headrest Memory Foam Wedge Pillow (Light Gray) $10.00 + Free Shipping w/ Prime or on $35+",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-14T02:29:27.900831Z",
-  "code": "duplicate",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "GRANDPATIO 3-Piece Foldable Bistro Set with Round Table, All-Weather Steel Frame, No Assembly, Multi-Color Outdoor Patio Furniture for Garden/Beach, Peacock Blue $59.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T02:23:56.151389Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Badgley Mischka - Grace 3 Piece Expandable Retro Luggage Set $217.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T02:23:56.151389Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Kennae 4 - Person Outdoor Seating Group with Cushions $229",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T02:23:56.151389Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "6-Pack Scotch Kids' Tape Rolls (0.75\" x 650\") $11.99 ($2 Ea) + Free Store Pickup at Target or Free Shipping on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T02:23:56.151389Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$117: DEWALT 20V MAX Cordless 4 1/2 Inch Paddle-Switch Grinder, Bare Tool Only (DCG408B) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-14T02:18:24.131202Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "DC 7 Film Collection (4K Ultra HD) $75.59 Amazon.com",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-14T02:18:24.131202Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Philips Hue Festavia 90ft Permanent Outdoor String Lights, Black. Final Sale @ Amazon - $216.35",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-14T02:12:50.894198Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "12-Oz Gatorade Stainless Steel Water Bottle (Purple) $7.99 + Free Store Pickup at Target or Free Shipping on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T02:12:50.894198Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Leaf Blower Cordless - 680CFM Electric Leaf Blower w/2 * 4.0Ah Batteries and Charger 2 Speed 21V Powerful Blowers for Garden Lawn Care Patio Blowing Leaves Dust Snow Gift $29.78",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T02:07:19.335368Z",
   "code": "not_checked",
   "public": false
  }
