@@ -1,6 +1,86 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "SOLIOM 2K Window Camera, LCD Touchscreen,24/7 Recording, 2.4&5GHz WiFi $29.99",
+  "reason": "Posted at $29.99, but Amazon showed $49.00 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-28T14:57:19.240637Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Sharpie Permanent Markers (Variety Pack, 6-Count) $4.40",
+  "reason": "Posted at $4.40, but Amazon showed $4.63 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-28T14:57:19.240637Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Bagsmart Women's Adjustable Waist Belt Bags (Many Colors) $7.99",
+  "reason": "Posted at $7.99, but Amazon showed $15.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-28T14:57:19.240637Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Zdeer GS5 Electric Heated Gua Sha Tool Red Light Face Massager $20.99",
+  "reason": "Posted at $20.99, but Amazon showed $40.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-28T14:57:19.240637Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "2027 Planner Weekly and Monthly $5.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T14:57:19.240637Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Under Armour Men's Charged Surge 4 101 Gray $39.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T14:57:19.240637Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Cordless Leaf Blower 2-Battery Kit for $36 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T14:57:19.240637Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Car Headrest Hooks 4-Pack for $7 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T14:57:19.240637Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Cozeware 18,000 BTU 2-Zone Mini Split Air Conditioner for $1,105 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T14:57:19.240637Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Seat Belt Shoulder Pad Covers 2-Pack for $7 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T14:57:19.240637Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$22.47ac AMAZON Goldblatt Trim Puller, 4-Inch Tile Removal Tool Baseboard Removal Tool",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-28T14:51:41.057610Z",
@@ -133364,118 +133444,6 @@
   "raw_title": "Energizer 2032 3V Lithium Coin Batteries (4-Pack) $3.49",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-14T14:58:06.761912Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "LILLUSORY Women's Oversized Batwing Knit Sweaters $11.99",
-  "reason": "Posted at $11.99, but Amazon showed $19.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-14T14:52:43.465178Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Trine 4: The Nightmare Prince",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T14:52:43.465178Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "6.5\" Car Speaker and 4-Channel Amplifier Combo Kit for $70 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T14:52:43.465178Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "The Beard Club Biotin Beard Balm for $8.47 or less + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T14:52:43.465178Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "AstroAI L4 Tire Inflator Portable Air Compressor for $22 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T14:52:43.465178Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "JonterKing Lymphatic Drainage Massager for $20 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T14:52:43.465178Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "3 Woot Graphic Tees Just $18 Shipped (+ Extra $10 Off for New Customers!)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T14:52:43.465178Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Very Unusual Airfares Between Baltimore MD - Orlando FL on JetBlue Main Base, Main & Main Flex $36 One-Way or $72 Round Trip (Travel October - Mid December 2026) Hurry!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T14:52:43.465178Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "63\" Jumpfly Universal Trampoline Slide Ladder w/ Handles (Blk-Orange) $18.99 + Free Shipping w/ Prime or $6 Fee per Order",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T14:52:43.465178Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas kids NY 90 J (White) $21 + Free S&H at ebay",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T14:52:43.465178Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Primo 5-Gallon Top Load White Water cooler one_size $89",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T14:52:43.465178Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "PJ PAUL JONES Mens Polo Shirts Short Sleeve Casual Collared Summer Vacation Shirts Golf Polo Shirts $9.50",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T14:52:43.465178Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "71-Gallon Keter Marvel Durable Resin Outdoor Storage & Organization Deck Box w/ Built-in Handles & Rollers (Light Grey) $45.09 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T14:52:43.465178Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "14L Columbia Helvetia Backpack (Compass Blue/Citron) $15.97 + Free Shipping on $49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T14:52:43.465178Z",
   "code": "not_checked",
   "public": false
  }
