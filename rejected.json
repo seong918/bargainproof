@@ -1,5 +1,45 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Wireless Lower Back Massager with Heat and Vibration, $34.99 w/ code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-28T01:55:51.316577Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2/$4.50 ac WALGREENS PU at $10 any two bags of 5.5oz WERTHERS Candy or Caramel Popcorn at link",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T01:55:51.316577Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DEWALT 60V MAX 6-1/2\" Cordless TrackSaw Kit w/ FlexVolt 6Ah Lithium Ion Battery, Charger & Case $479 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T01:50:13.395464Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DC motor, Modern 42 Inch Ceiling Fan with Lights and Remote, Flush Mount, 18W 6CCT Dimmable, Dual Color 3 Blades 6 Speed Reversible, $34.99, FS Prime, Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T01:50:13.395464Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon Basics 46\" Premium Garment Bag, $19.99, FS Prime, Woot! $19.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T01:50:13.395464Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "American Eagle Clearance: 70% off + free shipping w/ $75",
   "reason": "Not evaluated",
@@ -134222,29 +134262,5 @@
   "rejected_at": "2026-09-14T01:56:16.902201Z",
   "code": "duplicate",
   "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "216 pcs LEGO Speed Champions Audi Revolut F1 Team R26 Race Car (77259) $18.69 + Free S&H w/ Prime or $35+",
-  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-14T01:45:13.650000Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Orgain Organic Vegan 21g Protein Powder, Vanilla Bean, 2.03 lb $31.98",
-  "reason": "Posted at $31.98, but Amazon showed $26.39 when we checked — the post is stale",
-  "rejected_at": "2026-09-14T01:45:13.650000Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "New Ultra Mobile Customers: 12-Month 4GB Plan $10/Month, 25GB $20/Month or Unlimited $25/Month (annual prepaid)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T01:45:13.650000Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
