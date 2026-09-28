@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "3fc4c99adb9a",
+  "source": "techbargains",
+  "source_url": "https://www.amazon.com/gp/product/B01BRGU8R0/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+  "title": "Amazon Basics Multipurpose Stainless Steel PVD Coated Scissors (3-Pack)",
+  "raw_title": "Amazon Basics Multipurpose Stainless Steel PVD Coated Scissors (3-Pack) $7.55",
+  "merchant": "amazon",
+  "buy_url": "https://www.amazon.com/gp/product/B01BRGU8R0/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+  "deal_total_cents": 755,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "qty"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 755,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 755,
+  "amazon_url": "https://www.amazon.com/dp/B01BRGU8R0",
+  "amazon_checked_at": "2026-09-28T08:42:15.669981Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": null,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B01BRGU8R0",
+  "image_url": null,
+  "published_at": "2026-09-28T08:42:11.486931Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "0399be6cd3b6",
   "source": "techbargains",
   "source_url": "https://www.amazon.com/dp/B0DMQ1QMVV/?th=1",

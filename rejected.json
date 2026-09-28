@@ -1,5 +1,21 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Idahoan® Buttery Homestyle® Mashed Potatoes, 4 oz (Pack of 12)~$11.99 @ Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T08:42:11.486931Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Dowinx Ergonomic Gaming Chair w/ Footrest & Massage Lumbar Support for $70 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T08:36:53.849627Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Vgrpro Men's Professional 7000RPM Electric Grooming Cordless & Corded Hair Clipper $17.49",
   "reason": "Posted at $17.49, but Amazon showed $34.99 when we checked — the deal is probably over",
@@ -133949,14 +133965,6 @@
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-14T08:44:26.365913Z",
   "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$1.99 | The Day of the Triffids (eBook) by John Wyndham",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-14T08:33:25.480860Z",
-  "code": "duplicate",
   "public": true
  }
 ]
