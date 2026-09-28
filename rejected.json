@@ -1,5 +1,61 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "OREO Orange Creme Chocolate Sandwich Halloween Cookies, 18.71 oz~$3.66 @ Amazon",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T10:43:30.953944Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Bosgame P6 Neo Ryzen 7 Mini Desktop PC for $435 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T10:43:30.953944Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Open Boxes: Samsung Galaxy Chromebook Plus Google AI: 15.6\" FHD AMOLED, Intel Core 3 100U, 8GB LPDDR5, 256GB UFS $248.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T10:43:30.953944Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Drive Medical Trigger Release Folding Walker with Contoured Hand Grips $29.99 + Free S&H w/ Prime or $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T10:43:30.953944Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Lenovo B210 16\" Water Repellant Fabric Laptop Casual Backpack $7.20",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T10:43:30.953944Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Acer Swift Go 16 AI (2026): 16\" FHD+ 120Hz IPS Touch, Ryzen AI 9 465, 32GB LPDDR5, 1TB SSD $999.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T10:37:56.571189Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Acer Swift Go 16 AI (2026): 16” FHD+ OLED Touch, Intel Ultra 5 322, 16GB LPDDR5, 512GB SSD $699.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T10:37:56.571189Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "PAMP Suisse Arabian Falcon 5 Gram Gold Bar w/ Assay & Frame for $809 + free shipping",
   "reason": "Not evaluated",
@@ -133844,62 +133900,6 @@
   "raw_title": "$31.98: Cole Haan Isabelle Over The Knee Round Toe Zippered Womens Brown Casual Boots W(Size 5~8) at ebay",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-14T10:45:35.682100Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Timberland Men's Westmore Casual Suede Boots for $22 + free shipping w/ $25",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T10:40:05.260941Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$8 Dearfoams Cozy Comfort Men's Notch Clog Slippers (7/8, 9/10, 12/13)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T10:40:05.260941Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$15.96: Easy Spirit Lakely X Martha Stewart Quilted Round Toe Zippered Womens Black Cas(Size: 5~8.5 ) at ebay",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T10:40:05.260941Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Diet Coke Zero Sugar Soda Soft Drinks Bottles (16.9oz, 24-Pack) $13.93",
-  "reason": "Posted at $13.93, but Amazon showed $5.37 when we checked — the post is stale",
-  "rejected_at": "2026-09-14T10:34:34.175319Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Radio Flyer UPS Delivery Truck Ride-On for $25 + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T10:34:34.175319Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "LG gram Book 15: 15\" FHD IPS Touch, Intel Ultra 5 115U, 32GB LPDDR5, 512GB SSD $546.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T10:34:34.175319Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas men Samoa Shoes (3 Colors) from $32",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T10:34:34.175319Z",
   "code": "not_checked",
   "public": false
  }
