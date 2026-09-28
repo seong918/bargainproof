@@ -1,6 +1,118 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "MotoTec 52cc Sandman Go Kart, Gas Powered, 32 MPH Top Speed, 9.5 inch Tires, Blue $699",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T09:47:36.627120Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Future Shock: 4-Film Collection: Timecop, Lawnmower Man 1/2 & Freejack (4K/HD Digital Films) $4.99 via AppleTV",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T09:47:36.627120Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "KitchenAid Fully Automatic Espresso Machine KF3 With Iced Coffee, KES8453 $799.95",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T09:42:01.360046Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon eero Max 7 (1-pack) + Amazon eero Pro 7 (2-pack) tri-band mesh Wi-Fi 7 system $819.98",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T09:42:01.360046Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Klipsch Flexus CORE 300 5.1.2 Channel Sound Bar with Dirac Live Room Correction, Dolby Atmos, Custom Tuned Bass and Powered by Onkyo - Black, 54\" W $899",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T09:42:01.360046Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "BOSGAME E5 Plus Mini PC: Ryzen 5400U, 8GB RAM, 256GB SATA SSD $185",
+  "reason": "Posted at $185.00, but Amazon showed $319.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-28T09:42:01.360046Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon - 4-in-1 Lymphatic Drainage Massager $19.99",
+  "reason": "Posted at $19.99, but Amazon showed $35.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-28T09:42:01.360046Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Advil Ibuprofen 200mg Pain Relief Tablets (24-Count) $4.17",
+  "reason": "Posted at $4.17, but Amazon showed $4.39 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-28T09:42:01.360046Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "De'Longhi Rivelia Automatic Espresso Machine, Grinder, Milk Frother, Beige $999.95",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T09:36:43.079100Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Canyon Pathlite:ON 7 step-through, Stone Grey, Small $1708.38",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T09:36:43.079100Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Women's Satin Long Sleeve Button-Down Blouse for $10 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T09:36:43.079100Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "AstroAI 27\" Snow Brush and Ice Scraper 2-Pack for $13 w/ Prime + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T09:36:43.079100Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "DJI Mini 5 Pro Fly More Combo w/ DJI RC 2 Drone for $919 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T09:36:43.079100Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "AstroAI Bicycle and Car Tire Pump for $16 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T09:36:43.079100Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Breville BES990BTR Oracle Touch Espresso Machine, Black Truffle $1999.95",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-28T09:25:51.635674Z",
@@ -133828,86 +133940,6 @@
   "raw_title": "adidas men X_PLR Path Shoes (3 Colors) from $25",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-14T09:50:29.117884Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$1.99 | Range: Why Generalists Triumph in a Specialized World (Kindle eBook) by David J. Epstein",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T09:44:59.463112Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Levoit Cordless Vacuum Cleaner, Anti-Tangle for Pet Hair, Up to 50 Minutes $139.95",
-  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-14T09:39:28.789580Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$25.07: Preen Garden Weed Preventer 11.25 lb (case Pack of 2-5.625 lb Bottles)",
-  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-14T09:39:28.789580Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Eureka 3670M Canister Cleaner, Lightweight Powerful Vacuum for Carpets and Hard Floors, w/ 5bags,Yellow $67.96",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-14T09:39:28.789580Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Insignia 13.8-Cu. Ft. Garage Ready Convertible Upright Freezer for $470 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T09:39:28.789580Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$1.99 | Find Your People: Building Deep Community in a Lonely World (Kindle eBook) by Jennie Allen",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T09:39:28.789580Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Avia Men's Activate Lace-Up Sneakers, $19.99, Walmart",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T09:33:59.009926Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas men RUN 70s 2.0 Shoes (Limited Sizes, 3 Colors) $28",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T09:33:59.009926Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$48.71 | Updated Ford OEM 5.4L 3V Phaser Repair Kit - Phaser Sprockets, Tensioners, Guides, Chains 18pc kit at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T09:33:59.009926Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$64.99 | ULTIMEA 7.1ch Virtual Surround Sound Bar (Refurbished) at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T09:33:59.009926Z",
   "code": "not_checked",
   "public": false
  }
