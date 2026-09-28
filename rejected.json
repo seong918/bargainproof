@@ -1,5 +1,93 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "PAMP Suisse Arabian Falcon 5 Gram Gold Bar w/ Assay & Frame for $809 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T10:32:23.208187Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Men's Windbreaker Hooded Jacket for $18 + $9 shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T10:26:46.735950Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Frankford Body Parts Gummy Candy Coffin Box, 100 pcs. - $11.98 @ Sam's Club",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T10:26:46.735950Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Skippy Creamy 16.3oz Plant Based Protein Peanut Butter (8-Pack) $14.16",
+  "reason": "Posted at $14.16, but Amazon showed $14.91 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-28T10:15:34.246053Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "World Banknotes 2025 Collectible Currency Deals at eBay for From $5.99 + shipping varies",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T10:15:34.246053Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Hyper Tough 6' 125V 13A 16AWG Indoor Household Extension Cord (5-Pack) $8.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T10:15:34.246053Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "All-Clad HA1® Nonstick 13-Piece Pots & Pans Set, Induction Ready $489.99",
+  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T10:04:21.795040Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "KitchenAid Semi-Auto Espresso Machine, Burr Grinder, 2.5L, Stainless Steel or Cast Iron Black $499.99",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T10:04:21.795040Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Citizen Men's Silver Tone Stainless Steel Bracelet Watch $157.50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T10:04:21.795040Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Uniden SDS100 True I/Q Digital Handheld Scanner, Designed for Improved Digital Performance in Weak-Signal and Simulcast Areas $549.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T09:58:45.643878Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Resident Evil: Vendetta - 4K + Blu-ray $18.99 Amazon.com",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T09:58:45.643878Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
   "source": "slickdeals",
   "raw_title": "De'Longhi Magnifica Evo Espresso Machine, Manual Milk Frother, Silver $549.95",
   "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
@@ -133812,166 +133900,6 @@
   "raw_title": "adidas men Samoa Shoes (3 Colors) from $32",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-14T10:34:34.175319Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Powerade Zero Sugar Grape Electrolyte Sports Drink (20oz, 8-Pack) $3.29",
-  "reason": "Posted at $3.29, but Amazon showed $5.48 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-14T10:29:04.204990Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas men VL Court 3.0 Shoes (4 Colors) from $23",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T10:23:32.873146Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Supvan E12 4-Tape Minimal Margin Rechargeable Bluetooth Label Maker Machine $19.99",
-  "reason": "Posted at $19.99, but Amazon showed $34.97 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-14T10:18:01.364513Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Disney Store Halloween Costumes Sale for 20% off $75+ + free shipping w/ $85",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T10:18:01.364513Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Dyson Corrale™ Hair Straightener $399.99",
-  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-14T10:12:30.205129Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "5% on-site direct reduction+40% off-site reduction, ORICO Travel Power Strip, 4Ft Wrap-Around Extension Cord $9.68",
-  "reason": "Posted at $9.68, but Amazon showed $16.14 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-14T10:12:30.205129Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Lowe's Built-In Dishwashers for $399 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T10:12:30.205129Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "BOSCH CM8S 8-1/2 In. Single-Bevel Slide Miter Saw for Woodworking $405.15",
-  "reason": "Community score too low (+-3) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-14T10:07:01.601271Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Fluke Networks LIQ-KIT LinkIQ Cable + Network Tester Kit $2478.6",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-14T10:07:01.601271Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Bbibbi Women's Long Sleeve Button Down Work Shirt for $10 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T10:07:01.601271Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Koqeiey Protective Hard Case for DJI Osmo Pocket 4 Pro/4/3 for $13 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T10:07:01.601271Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "AliExpress Fall Sale: Up to 60% off + extra $2 to $70 off + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T10:07:01.601271Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Greenworks 80V 60\" CROSSOVERZ Zero Turn Lawn Mower, (2) 16.0Ah and (4) 8.0Ah Batteries and (1500W) Charger $5499.99",
-  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-14T10:01:31.261228Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "7-Night Germany & France Flight and Rhine River Cruise Vacation for From $5,398 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T10:01:31.261228Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Ficovis Men's Long Sleeve Button Down Dress Shirt for $10 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T10:01:31.261228Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Metabo HPT 1/4\" x 100ft. Air Compressor Hose for $25 + free shipping w/ $25",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T10:01:31.261228Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Baleine 12\" x 10-Foot Non-Adhesive Cabinet Liner for $6 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T10:01:31.261228Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas men Harden Volume 10 Shoes (Hi-Res Yellow / Core Black / Lucid Orange) $63",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T10:01:31.261228Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Cozeware 18,000 BTU 20 SEER2 Mini Split Mini Split AC/Heating System for $620 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T09:56:01.355501Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Dragon's Dogma 2 - Steam $14.28",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T09:56:01.355501Z",
   "code": "not_checked",
   "public": false
  }
