@@ -1,6 +1,198 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Carhartt Men's Saddle Leather Trifold Wallet (Black) $19.20 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-28T16:33:13.461180Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Adidas Men's 3-Stripes Full-Zip Puffer Jacket $39.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T16:33:13.461180Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "ORIENT Automatic Blue Dial Blue Leather Men's Watch $149.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T16:33:13.461180Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Staples Major Brand K-Cups 88-96 Count $42.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T16:33:13.461180Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas Tracefinder Trail Running Shoes for $48 + Free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T16:33:13.461180Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ecarke Grease Gun Coupler Kit w/ 90 Degree Adapter & 2 Needle Tips for $17 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T16:33:13.461180Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ecarke Tool Deals at Amazon for From $17 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T16:33:13.461180Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Ninja FrostVault Coolers from $199.99 Shipped for Amazon Prime Members",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T16:33:13.461180Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Samsung EPP/EDU] 49\" Odyssey G9 G95C DQHD 240Hz 1ms VA Curved Gaming Monitor + 24\" S3 100Hz Curved Monitor $630 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T16:33:13.461180Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-in-1 Stainless Steel 6-Tine Cultivator Rake & Stirrup Hoe $9.89 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-28T16:27:34.802084Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Stondon G-430 Blood Glucose Monitor Kit w/ 50 Test Strips & Lancets $8.49 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-28T16:27:34.802084Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Dr Pepper 12oz Zero Sugar Soda (12-Count) $5.01",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T16:27:34.802084Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Skg PS700 360-Degree Bionic Kneading Shiatsu Neck Massager $99.99",
+  "reason": "Posted at $99.99, but Amazon showed $179.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-28T16:27:34.802084Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "SheLucki Men's Printed Unisex Palmshadow Hawaiian Shirt $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $19.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-28T16:27:34.802084Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Pepsi, Dr. Pepper, 7Up, A&W, Canada Dry Soda 3X 12-Pack 12oz Cans $16.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T16:27:34.802084Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Stainless Steel Clothes Rack 700 LBS Capacity $54.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T16:27:34.802084Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Carter’s Just One You Baby Halloween Pumpkin Hat and Bootie Set $7.70",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T16:27:34.802084Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Clear Acrylic Cutting Board with Juice Groove 1pcs $13.20",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T16:27:34.802084Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Lefant Robot Vacuum and Mop with 20000Pa Suction and 90-Day Self-Emptying $175.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T16:27:34.802084Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "VEVOR Triple Lens Borescope 5\" IPS Screen $57.19",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T16:27:34.802084Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas Men's Terrex Hikster LT Hiking Shoes for $41 + Free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T16:27:34.802084Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Wyze Floodlight Camera v2 for $75 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T16:27:34.802084Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Kärcher K1800PS Electric Pressure Washer for $104 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T16:27:34.802084Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GIGABYTE Gaming Radeon RX 9070 (16GB) Graphics Card + AMD ONIMUSHA Game Bundle $649.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T16:27:34.802084Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "SodaStream Gaia Sparkling Water Maker Kit, Black $44.99",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-28T16:21:59.144816Z",
@@ -133188,118 +133380,6 @@
   "raw_title": "Blackstone Original Outdoor Griddle, 28 inch 2-Burner Flat Top Grill with Hard Cover, Black $150",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-14T16:36:11.320569Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Tracfone 128GB/8GB 2024 Moto G Stylus 5G 1-Year Plan Bundle $80.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T16:30:41.917821Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Pro-Lift F-2315PE Grey Hydraulic Trolley Jack $28.26",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T16:30:41.917821Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Hagoo 35-Gallon Outdoor Deck Box for $14 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T16:30:41.917821Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Happy Belly K-Cups 24-Count Only $3.82 Shipped on Amazon (Reg. $9)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T16:30:41.917821Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Christmas Dog Toys from $1.83 on Walmart.com (Will Sell Out!)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T16:30:41.917821Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "GOOLOO DS100 Bluetooth OBD2 Scanner, Read & Clear Codes for 1996+ Cars. $31.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T16:30:41.917821Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Elements Leilani Bar Table $299.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T16:25:13.541361Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "WORX WA3571 20V Power Share PRO 5.0AH High Capacity Battery $39.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T16:25:13.541361Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "GOOLOO DS200 OBD2 Scanner, Bi-Directional Diagnostic Tool for 1996+ Vehicles. $39.59",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T16:25:13.541361Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Athletic Works Men's Silver Series 3 Wide Width Sneakers ( most sizes available) $10.98",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T16:25:13.541361Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Aspen Snowmass (Aspen Mountain, Highlands, Buttermilk & Snowmass) 80th Anniversary Ski Lift Tickets $80 on Dec 12 & 13; $3.75 on Dec 14 Only *Limited Quantity*",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T16:25:13.541361Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "(Refurbished) EcoFlow River 3 Plus 286Wh Portable Power Station Wireless Boost Combo & 5000mAh Power Bank $179 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T16:25:13.541361Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "AND1 Little and Big Boys Zesty Athletic Sneakers ( 3 colors available) $9.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T16:25:13.541361Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "NULAS Airtight Food Storage Containers with Lids, 4pcs BPA-Free Plastic Meal Prep Containers & Kitchen Pantry Organization Canisters 135.2 fl oz,Black $18.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T16:25:13.541361Z",
   "code": "not_checked",
   "public": false
  }
