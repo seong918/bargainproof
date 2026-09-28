@@ -1,5 +1,45 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Wastroyal 100ft 8-Modes Outdoor Waterproof String Lights $7.59",
+  "reason": "Posted at $7.59, but Amazon showed $17.09 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-28T13:32:47.089763Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Sungait Men's UV400 Polarized Rectangular Aviator Sunglasses $8.49",
+  "reason": "Posted at $8.49, but Amazon showed $16.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-28T13:32:47.089763Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "FENNIO 23\" x 18\" Vanity Mirror with Lights $34.01",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T13:32:47.089763Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "CVS Extra Big Candy Deals for 2 for $9 + pickup",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T13:32:47.089763Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Gemmy Airdorable Disney LED Multicolored Jack Skellington Santa Inflatable 22 in. $2.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T13:32:47.089763Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "[Prime] Fleetwood Mac Greatest Hits (Deluxe Edition) $12.71 + Free Shipping",
   "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
@@ -133452,102 +133492,6 @@
   "raw_title": "DJI Neo 2 Fly More Combo w/ RC-N3 4K Camera Drone for Beginners 3 Batteries $330.60 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-14T13:37:47.838296Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Long Plaid Shacket Women Flannel Full Zip Up Hoodies with Pockets $24.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T13:32:19.200548Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Fuzzy Cartoon Animal Face Crew Socks $9.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T13:32:19.200548Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Quarter Zip Pullover Hoodie Women $12.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T13:32:19.200548Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "EASTPAK 27L Out Of Office – 14 Inch Laptop Backpack $19.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T13:32:19.200548Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "HP 17-cn3123nr 17.3\" Touch i5-1335U 16GB 512GB Laptop (Refurbished) $349.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T13:32:19.200548Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "JanSport 34L Big Backpack - 15 Inch Laptop Sleeve $29.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T13:32:19.200548Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "HP x360 1040 G8 i7 14\" FHD Touch Laptop (Open Box) $470.44",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T13:32:19.200548Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "VEVOR Portable Laptop Screen Extender $99.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T13:32:19.200548Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Dell Latitude 7420 14\" i5 Laptop w/ 16GB DDR4 & 256GB SSD (Refurbished) $339.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T13:32:19.200548Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Monster Mission 100 Bluetooth Headphones with 40H Playtime $29.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T13:32:19.200548Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Humsienk 12V 314Ah LiFePO4 Battery Capacity 4019Wh 100A BMS Up 15000 Cycles Low-Temp Protection $213.80 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T13:32:19.200548Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Special Offer: Penzeys $50 gift cards for $35, buy three get free Care Box",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T13:32:19.200548Z",
   "code": "not_checked",
   "public": false
  }
