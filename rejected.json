@@ -1,6 +1,294 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$53.99* | Beelicious Pro 80 kPa 10-in-1 AirLock ProSeal System Food Vacuum Sealer at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T19:11:25.867462Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Halloween Airblown- 78\" Mandalorian & The Child w/Pumpkin $139.73",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T19:11:25.867462Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$167.97* | 40\" Hisense Hi-QLED FHD 60Hz Smart Fire TV (40QD4QF, 2025) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T19:11:25.867462Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC] $349.99* | Yeedi M14 Plus Robot Vacuum & Mop (2 Colors) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T19:11:25.867462Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $189.99* | 32\" Samsung Odyssey G55C 2560x1440 165Hz 1ms Curved Gaming Monitor at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-28T19:11:25.867462Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $18.74* | 2L Pelican Marine Water-Resistant Phone Sling Bag w/ Adjustable Strap at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-28T19:11:25.867462Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$19.99 | Amazon Fire TV Alexa Voice Remote Pro (newest model) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T19:11:25.867462Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "JUSKYS 7-Piece Patio Furniture Set $383.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T19:11:25.867462Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Sam's Club members, Disney Neon Minnie Mouse in witch costume, $65.67, FS PLUS",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T19:11:25.867462Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$597.99* | 65\" Hisense 65E7SF Hi-QLED 4K 144Hz Mini-LED Fire TV + 10% Back w/ Prime Visa Card at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-28T19:05:45.555816Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$749.99* | 32\" Samsung Odyssey OLED G7 4K 165Hz / 1080p 330Hz Dual Mode Monitor (G73SH) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T19:05:45.555816Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "TP-Link Smart Home Sale Including Cameras Door Locks and Light Bulbs $12.99 - $199.99 + Free Shipping w/Prime or $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-28T19:05:45.555816Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Faogo 990000RPM Cordless Lightweight Leaf Blower with 2 Batteries & Charger $35.99",
+  "reason": "Posted at $35.99, but Amazon showed $59.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-28T19:05:45.555816Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "India Business Class Roundtrip Flights $3,955.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T19:05:45.555816Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Merrell Women's District 4 Luxe Post Sandals for $27 + free shipping w/ $75",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T19:05:45.555816Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Seabourn 7-Night Sweden, Denmark & Kiel Canal Cruise for From $8,796 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T19:05:45.555816Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Multi-Tool Hammer Only $9.99 on Amazon (Practical Stocking Stuffer)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T19:05:45.555816Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men Essentials Fleece Hoodie, color: Legend Ink / White (size: S,M,L,XL) $15.6",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T19:05:45.555816Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Apple Tradein by Apple - MacMini M4 16GB 256GB (2024) Good Condition TradeIn value $565 [YMVV]",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T19:05:45.555816Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Pack: BLACK+DECKER Gel Lumbar Cushions with Cooling Gel $24.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T19:05:45.555816Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Tagzilo 735CFM 6-Speed Cordless Leaf Blower with 2 Batteries and Charger $47.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T19:05:45.555816Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CIGA Design Blue Planet U Series 46mm Titanium Automatic Skeleton Watch $719.40 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T19:00:05.200911Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Cole Haan Men's Nantucket Drift Penny Loafers for $55 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T19:00:05.200911Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "4-Piece Lauren Ralph Lauren Spencer 475-Thread Count Cotton Sateen Sheet Set (Queen, Various Colors) $67.83 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T19:00:05.200911Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "John Coltrane - Essential John Coltrane ( 2 Vinyl) - $16.99 or less + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T19:00:05.200911Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Sam' Club members, Member's Mark Halloween Serveware, Ghost & Bat, Set of 2, $14.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T19:00:05.200911Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Forging Mount 176lbs Capacity No Stud TV Wall Mount for 26\"-100\" TVs $19.99",
+  "reason": "Posted at $19.99, but Amazon showed $49.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-28T18:54:25.021906Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "American Eagle Women’s Super High-Waisted Baggy Wide-Leg Jeans $29.38",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T18:54:25.021906Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Hunter Original Tall Waterproof Rain Boot $95.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T18:54:25.021906Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Forever 21 Women's Sleeveless Mini Dress for $5 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T18:54:25.021906Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Macy's Best of the Season Men's Shoes Deals: Up to 75% off + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T18:54:25.021906Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Sam's Club members, Member's Mark Pre-Lit Phantom, black or white, $20.83",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T18:54:25.021906Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Hamilton Beach Flexbrew Advanced 6-in-1 Coffee Maker $79.99 + $4.99 shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T18:54:25.021906Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Round Trip San Jose CA - Long Beach CA or Vice Versa $117 Nonstop Airfares on Southwest Airlines BE (Travel October - March 2027)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T18:54:25.021906Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HORI Compact Carry All (Sand) for Nintendo Switch 2 - $26.99 or less + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T18:54:25.021906Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Patbrela 43.3\"–59\" Extendable Oval Dining Table w/ Two-Tier Storage Cabinet (Natural) $169.84 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T18:54:25.021906Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$6.79* | Alpine Stainless Steel Paper Towel Holder at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-28T18:48:47.180551Z",
@@ -132462,461 +132750,5 @@
   "rejected_at": "2026-09-14T19:15:13.700137Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$279.99 | roborock Q10 S5+ Robot Vacuum and Mop, 10,000Pa Suction at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-14T19:09:45.592350Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$349.99* | Yeedi M14 Plus Robot Vacuum & Mop (2 Colors) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-14T19:09:45.592350Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "3 T-Shirts for $18 $18.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T19:09:45.592350Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "GearWrench 34-Piece 1/4\" Drive Stubby Socket Mechanics Tool Set for $24 w/ Prime + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T19:09:45.592350Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "lululemon We Made Too Much Shirts for From $19 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T19:09:45.592350Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Round Trip San Francisco to Tahiti French Polynesia $590 Nonstop Airfares on French Bee (Limited Travel September - October 2026)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T19:09:45.592350Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "GRIP: Combat Racing",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T19:04:16.306734Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Wasteland 2: Director's Cut",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T19:04:16.306734Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Battlefield Hardline",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T19:04:16.306734Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "UnMetal",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T19:04:16.306734Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Faeria",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T19:04:16.306734Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Rogue Heroes: Ruins of Tasos",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T19:04:16.306734Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "RIDE 4",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T19:04:16.306734Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Amazon Basic Care Mini Nicotine Polacrilex Lozenge 81-Count 2mg $11.01",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T19:04:16.306734Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Amazon Basics Makeup Remover Wipes, 25 Count Per Pack, Pack of 2 $4.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T19:04:16.306734Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Halloween Treat Bags $4.19",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T19:04:16.306734Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "BAND-AID Brand Flexible Fabric Adhesive Bandages, Assorted Sizes, 100 Count $5.19",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T19:04:16.306734Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Target Hair Care Sale: Buy 1, get 2nd for 25% off + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T19:04:16.306734Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "10-Night Turkey Flight, Hotel, and Tour Vacation for From $2,398 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T19:04:16.306734Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Globe Electric Sophia 3-Light Track Lighting Kit for $33 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T19:04:16.306734Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "TARGET PICK UP Coca Cola Family Products 16.9 oz 6 count bottles 4/$15",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T19:04:16.306734Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Luminox Navy SEAL 4230 45mm Black Dial Quartz Watch $523.58 + $9.82 Shiping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T19:04:16.306734Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Osteo Bi-Flex Triple Strength Glucosamine Chondroitin Supplement 160 Count $26.20",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T18:58:46.478781Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Phylluz 52'' Black Flush Mount Ceiling Fan with Lights $42.59",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T18:58:46.478781Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Rayzi 55\" Pellet Stove $49.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T18:58:46.478781Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "UGREEN Nexode 20000mAh 145W Built-in USB-C Power Bank $45.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T18:58:46.478781Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Bean Bag Chair $59.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T18:58:46.478781Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "New Mom Gift Basket $17.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T18:58:46.478781Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Jack Link’s Beef Jerky 20-Pack Multipack $11.61",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T18:58:46.478781Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "lululemon We Made Too Much Sock Specials for From $9, Multipacks from $39 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T18:58:46.478781Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Costway 30,000 BTU Propane Gas Grill w/ 2 Main Burners & Side Burner $125 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T18:58:46.478781Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "(4 pack) Spring Valley Fish Oil Omega-3 Softgels for Heart Health, 1000 mg, 60 Count $30.18",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T18:58:46.478781Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Claude AI Professional E-Degree $19.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T18:58:46.478781Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Divinity: Original Sin - Enhanced Edition",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T18:53:16.911116Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Battlefield 3",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T18:53:16.911116Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Titanfall 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T18:53:16.911116Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Battlefield V",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T18:53:16.911116Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Star Wars Squadrons",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T18:53:16.911116Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Nioh: Complete Edition",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T18:53:16.911116Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "SteamWorld Heist II",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T18:53:16.911116Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Biped",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T18:53:16.911116Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Crown Wars: The Black Prince",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T18:53:16.911116Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Ni no Kuni: Wrath of the White Witch Remastered",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T18:53:16.911116Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Half-Life: Alyx",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T18:53:16.911116Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Need for Speed Heat",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T18:53:16.911116Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Frostpunk",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T18:53:16.911116Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Bomber Crew",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T18:53:16.911116Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Ni no Kuni II: Revenant Kingdom",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T18:53:16.911116Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Battlefield 2042",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T18:53:16.911116Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "15.6\" Ultra-Slim Laptop Screen Extender $69.29",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T18:53:16.911116Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "PORTBOR Portable Bluetooth 5.3 Wireless Speaker w/ IPX5 Waterproof & LED Light Modes $13.40",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T18:53:16.911116Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Official Nintendo Joy-Con 2 Straps (Light Blue/Red) $10.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T18:53:16.911116Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "G4Free Women's Puffer Tote Bag Expandable Work & Travel Bag $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T18:53:16.911116Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "These Cate & Chloe Jewelry Picks Elevate Any Look (All Under $20!)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T18:53:16.911116Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Jinlicte 20000mAh Rechargeable Portable Camping Fan with LED Lantern $15.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T18:53:16.911116Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Battlefield 1",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-14T18:53:16.911116Z",
-  "code": "duplicate",
-  "public": true
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Battlefield 4",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-14T18:53:16.911116Z",
-  "code": "duplicate",
-  "public": true
  }
 ]
