@@ -1,5 +1,29 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "1135-Piece LEGO Technic Lamborghini Revuelto Super Sports Car (42214) $151.99 + Free Shipping",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-28T11:26:45.691972Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "348-Pc LEGO Speed Champions Porsche 911 GT3 RS Super Car Building Set $21.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-28T11:26:45.691972Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Castlevania Dominus Collection for PlayStation 5 for $12",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T11:10:46.074979Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Mesqool 5000mAh Noaa Weather Radio with Portable Phone Charger & LED Flashlight $18.46",
   "reason": "Posted at $18.46, but Amazon showed $30.77 when we checked — the deal is probably over",
@@ -133828,62 +133852,6 @@
   "raw_title": "adidas men Grand Court 2.0 Shoes (Core Black) $26",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-14T11:29:45.471551Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Patiowell 22\" x 16\" 32-Gallon Plastic Deck Box for $31 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T11:18:40.903801Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Amazon Grocery Pretzel Sticks Only $1.57 Shipped",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T11:18:40.903801Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas men Adilette Comfort Slides (5 Colors) from $14",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T11:18:40.903801Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas Men's Campus 00s Casual Shoes (Semi Lucid Blue&More, Select Sizes) $34 + Free S&H at ebay",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T11:18:40.903801Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "NFL 5-Gallon Team Buckets Deals at Lowe's for $9",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T11:13:09.852292Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Graphic T-Shirt Sale at Woot for 3 for $18 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T11:13:09.852292Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "$10 Nintendo eShop Gift Card for $8",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T11:07:39.841415Z",
   "code": "not_checked",
   "public": false
  }
