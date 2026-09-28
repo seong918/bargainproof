@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "805286304636",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20067885-adidas-vista-backpack-30l-3-colors-28-71-free-s-h-w-prime-or-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "adidas Vista Backpack 30L(3 Colors) + or",
+  "raw_title": "adidas Vista Backpack 30L(3 Colors) $28.71 + Free S&H w/ Prime or $35+",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0FRLV5YD2",
+  "deal_total_cents": 2871,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "prime"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 5483,
+  "amazon_coupon_cents": 2570,
+  "amazon_effective_cents": 2913,
+  "amazon_url": "https://www.amazon.com/dp/B0FRLV5YD2",
+  "amazon_checked_at": "2026-09-28T05:17:58.510492Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0FRLV5YD2",
+  "image_url": null,
+  "published_at": "2026-09-28T05:17:54.474326Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "fb31819387b1",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20068137-andy-weir-project-hail-mary-kindle-edition-2-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
