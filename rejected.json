@@ -1,6 +1,142 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Breville BES990BTR Oracle Touch Espresso Machine, Black Truffle $1999.95",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T09:25:51.635674Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] 4000mAh Woowind 150 PSI Portable Tire Inflator Pump w/ LCD Display $14.99 + Free Shipping",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-28T09:25:51.635674Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Breville BBL920RCH Super Q Blender for Kitchens, various colors $399.95",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T09:20:12.875962Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Vevor Outdoor Kitchen Trash Drawer for $120 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T09:20:12.875962Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Vitamix E320 Explorian 2.2HP 64oz Blender $199.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T09:20:12.875962Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Five Star 9-Pocket Zipper Pencil Pouch & Supply Organizer (Navy/Pink) $6.70 & More + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-28T09:14:33.818197Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Nutter Butter King Size Peanut Butter Sandwich Cookies (10-Pack) $7.70",
+  "reason": "Posted at $7.70, but Amazon showed $11.00 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-28T09:14:33.818197Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "DWVO 9x4-Foot Steel Outdoor Storage Shed for $230 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T09:14:33.818197Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Frenchi Furniture Wood Magazine Table (White) $15.99 + Free Shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T09:14:33.818197Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "24-Oz BlenderBottle Sport Flip Stainless Steel Shaker Bottle (White or Black) $19.97 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-28T09:08:53.766033Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon Echo Show 8 (newest model), Vibrant HD 8.7\" display with spatial audio, Designed for Alexa+ for $125",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T09:03:22.928649Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Powerade 12oz Mountain Berry Blast Electrolyte Drink (8-Pack) $3.15",
+  "reason": "Posted at $3.15, but Amazon showed $5.25 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-28T09:03:22.928649Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "24-Pack Energizer MAX AAA Alkaline Batteries $6.70 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+-1) to pass without a price check — needs multi-pack, Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-28T08:58:04.673955Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Tile Town Pet Vet Magnetic Tiles Set, 48 Pieces, Sound & Lights $6.49",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T08:52:46.156472Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Utz Pub 42oz Savory Snack Mix with Crunchy Flavors Party Snack (2-Pack) $16.37",
+  "reason": "Posted at $16.37, but Amazon showed $17.23 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-28T08:52:46.156472Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Auusda EXSURF AMD 3050e 15.6\" Laptop for $360 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T08:52:46.156472Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "ASRock Steel Legend SL-750G 750W 80 PLUS Gold Power Supply for $70 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T08:47:27.627995Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Idahoan® Buttery Homestyle® Mashed Potatoes, 4 oz (Pack of 12)~$11.99 @ Amazon",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-28T08:42:11.486931Z",
@@ -133774,197 +133910,5 @@
   "rejected_at": "2026-09-14T09:33:59.009926Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Google Pixel 11 - Unlocked Smartphone, Gemini - 256 GB - Frost $839.95",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-14T09:28:29.373897Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Samsung Galaxy Z Fold8, 512GB Graphite $1849.99",
-  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-14T09:28:29.373897Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "No Boundaries Lace Up Fisherman Sandals, Women's, $15.99, Walmart",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T09:28:29.373897Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$1049.99 | Samsung HW-Q990H 11.1.4ch Dolby ATMOS Soundbar w/ Subwoofer at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T09:28:29.373897Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Puliv 6-Slot Pill Bottle Organizer for $10 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T09:22:58.311711Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Dowinx Ergonomic Gaming Chair for $70 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T09:22:58.311711Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "No Boundaries Studded Faux Leather Sandals, Women's, Brown, size 6, 10, 11, $5.75, Walmart",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T09:22:58.311711Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Logitech Z313 2.1 Multimedia Speaker System w/ Subwoofer & 25W Peak Power $26.99 + Free Shipping w/ Prime or $6 Fee per Order",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T09:22:58.311711Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Madden NYC Women's Slingback Loafers, $16.20, Walmart",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T09:22:58.311711Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas men Climacool Laced Shoes (Off White / Off White / Core Black) $72",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T09:22:58.311711Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Mainstays Bamboo and Silicone Kitchen Utensil Set, 14 pieces, 4 colors, $14.97, Walmart",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T09:22:58.311711Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Woodstock Men's Beacon Genuine Leather Comfort Clog Sandal, five colors, $15.99, Walmart",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T09:17:28.762127Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "27.5L Hurley Commuter Travel Backpack (Unity Red) $19.99 + Free Shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T09:11:53.691475Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[Prime] $749.99 | dreame Aqua10 Ultra Roller Robot Vacuum and Mop, AquaRoll Mopping at Amazon",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-14T09:11:53.691475Z",
-  "code": "duplicate",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Samsung Galaxy Z Flip8, 256GB Graphite $1049.99",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-14T09:06:24.213263Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "PowerSmart 3,800W Portable Inverter Generator for $365 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T09:06:24.213263Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas men Climacool Shoes (Limited Sizes, Grey Four / Core Black / Grey Four) $56",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T09:06:24.213263Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$139 | Bosch GWX18V-10PN 18V X-LOCK Brushless 4-1/2 – 5 In. Angle Grinder with No Lock-On Paddle Switch (Bare Tool) at Amazon",
-  "reason": "Out of stock on Amazon when we checked",
-  "rejected_at": "2026-09-14T09:00:55.316821Z",
-  "code": "amazon_oos",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas men Swift Run 1.0 Shoes (Olive Strata / Blanch Cargo / Cloud White) $32",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T09:00:55.316821Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Costco Members: 2-Pack $50 DoorDash eGift Cards (Email Delivery) $79.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T08:55:29.525148Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Uber e-gift cards Costco (in stock) $200",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T08:55:29.525148Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "HP HyperX OMEN Core Ultra 7 356H 16\" Gaming Laptop for $1,300 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T08:49:57.968535Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas men Purechill Shoes (2 Colors) from $28",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T08:49:57.968535Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[Resale] $35.95* | Logitech Lift Vertical Ergonomic Wireless Mouse - Graphite (Used - Like New) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-14T08:44:26.365913Z",
-  "code": "low_score",
-  "public": true
  }
 ]

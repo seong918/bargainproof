@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "98d6e630f0c9",
+  "source": "techbargains",
+  "source_url": "https://www.amazon.com/gp/product/B0DQ3TT3VR/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+  "title": "Brother DCP-L2820DW Compact Monochrome Multi-Function Wireless Laser Printer",
+  "raw_title": "Brother DCP-L2820DW Compact Monochrome Multi-Function Wireless Laser Printer $149.99",
+  "merchant": "amazon",
+  "buy_url": "https://www.amazon.com/gp/product/B0DQ3TT3VR/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+  "deal_total_cents": 14999,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 14999,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 14999,
+  "amazon_url": "https://www.amazon.com/dp/B0DQ3TT3VR",
+  "amazon_checked_at": "2026-09-28T09:31:23.773798Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": null,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0DQ3TT3VR",
+  "image_url": null,
+  "published_at": "2026-09-28T09:31:19.709065Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "3fc4c99adb9a",
   "source": "techbargains",
   "source_url": "https://www.amazon.com/gp/product/B01BRGU8R0/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
