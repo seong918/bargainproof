@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "De'Longhi Magnifica Evo Espresso Machine, Manual Milk Frother, Silver $549.95",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T09:53:11.423228Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "A Nightmare On Elm Street Blu Ray $5 Amazon.com",
+  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T09:53:11.423228Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Samsung 37” Odyssey G7 (G75F) Series 4K UHD Curved Gaming Monitor $559.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T09:53:11.423228Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ninja Luxe Café Pro Series, Espresso, Cold Brew, Hot Water, Mocha $599.95",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T09:53:11.423228Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Nike Pro Men's 27\" Inseam Dri-FIT Fitness Tights $14.80",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T09:53:11.423228Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "MotoTec 52cc Sandman Go Kart, Gas Powered, 32 MPH Top Speed, 9.5 inch Tires, Blue $699",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-28T09:47:36.627120Z",
@@ -133932,14 +133972,6 @@
   "raw_title": "Dragon's Dogma 2 - Steam $14.28",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-14T09:56:01.355501Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas men X_PLR Path Shoes (3 Colors) from $25",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T09:50:29.117884Z",
   "code": "not_checked",
   "public": false
  }
