@@ -1,6 +1,134 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[S&S] Rayovac High Energy AAA Batteries (60 Pack), Alkaline Triple A Batteries $15.17",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-28T05:39:49.095141Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "The Doinksoft Collection (Nintendo Switch) $20 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T05:39:49.095141Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$15 | Resident Evil 4 Remake (PlayStation 4) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T05:34:13.869255Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DEWALT DCS382B 20V MAX Reciprocating Saw, Cordless, 2-Finger Variable Trigger, Keyless Blade Clamp, Tool Only $107.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T05:34:13.869255Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DEWALT DCE530B, 20V MAX Heat Gun, Cordless, Up to 990 Degrees, LED Light,Tool Only $75.19",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T05:34:13.869255Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DEWALT DCW600B 20V Max XR Cordless Router, Brushless, Tool Only $105.19",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T05:28:38.910291Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DEWALT DCC020IB Tire Inflator Portable Air Compressor 20V MAX, Air Pump with Automatic Shut Off, LED Light, Tool Only $107.19",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T05:28:38.910291Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Marvel's Spiderman or Ghost Spider Halloween Costume for Toddler - $14.96",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T05:28:38.910291Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DEWALT DCB609 20V/60V MAX FLEXVOLT 9 Ah Lithium-Ion Battery $122.39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T05:28:38.910291Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$122.39 | DEWALT FLEXVOLT 20V/60V MAX Lithium-Ion 9.0Ah Battery at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T05:23:16.811334Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$25.59 | 3-Pk DeWALT 16' x 1-1/8\" Tape Measure w/ Integrated Finger Brake at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T05:23:16.811334Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DEWALT DWHT65102 MAXFIT Combination Screwdriver Set (8-Piece) $23.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T05:23:16.811334Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$107.19 | DeWALT 20V MAX Corded / Cordless Air Inflator (Tool Only, DCC020IB) at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T05:23:16.811334Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$103.99 | Krcher Electric Pressure Washer K1800PS at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T05:23:16.811334Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DEWALT Wood Chisel Set (3-Piece) DWHT16862 $11.19",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T05:23:16.811334Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$191.99 | SteelSeries Arctis Nova Pro Wireless Headset at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T05:23:16.811334Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$103.99 | SteelSeries Arctis Pro + GameDAC Gaming Headset at Woot!",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-28T05:17:54.474326Z",
@@ -133756,62 +133884,6 @@
   "raw_title": "26\" DYU M26 1000W 36V 10Ah Removable Battery Electric Bike $240.98 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-14T05:42:32.103736Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – MORENTO MR2566 Air Purifiers, 2-Pack - $38.75 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, multi-pack, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-14T05:37:00.362198Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ASUS ZenBook A14 (2026): 14” FHD+ OLED, Snapdragon X2 Elite X2E-88-100, 16GB LPDDR5-9600, 512GB SSD $879.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T05:25:56.617205Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "UPlee GS3 14\" 48V 500W Folding Electric Bike (8Ah) $157.01, (15Ah) $166.86 & More + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T05:25:56.617205Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$1.99 | On Call: A Doctor's Journey in Public Service (eBook) by Anthony S. Fauci",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-14T05:20:24.165782Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Open Boxes: HP OmniBook X Flip (2026) 16\" FHD+ OLED Touch, Ryzen AI 7 445, 16GB LPDDR5, 1TB SSD $566.9",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T05:20:24.165782Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Lenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Core i5-1335U 2023 - 16GB Memory - 256GB Storage - Arctic Grey $499.99 Bestbuy.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T05:20:24.165782Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Open Boxes: HP OmniBook X Flip (2026): 14\" FHD+ OLED Touch, Intel Ultra 7 355, 16GB LPDDR5, 1TB SSD $649.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T05:20:24.165782Z",
   "code": "not_checked",
   "public": false
  }
