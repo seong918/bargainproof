@@ -1,5 +1,53 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Bestek 20W 3-Port USB C Power Strip with Wireless Charger & 8 AC Outlets $34.99",
+  "reason": "Posted at $34.99, but Amazon showed $49.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-28T20:19:16.834457Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Joyroom Auto-Lock Motorcycle Bike Handlebar Phone Mount $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $15.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-28T20:19:16.834457Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Waterdrop CTF-09 Dual-Stage Silver Ions Water Filter for Sink Faucet for $90 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T20:19:16.834457Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Cuisinart Brew Central Plus 14-Cup Programmable Coffee Maker $49.99 + $4.99 shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T20:19:16.834457Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Sour Punch Twists, Assorted Flavors Chewy Candy, 210 Pieces, 2.59 lb Jar $12.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T20:19:16.834457Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "21V Weed Wacker Cordless, 12 Inch Weed Eater Battery Powered with 2 X 4.0Ah $37.99 AC + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T20:19:16.834457Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$10 AC AMAZON Kitsure Dish Drying Rack for Kitchen Counter, 12''W x 15.5''L, Black",
   "reason": "Posted at $10.00, but Amazon showed $19.99 when we checked — the deal is probably over",
@@ -132836,22 +132884,6 @@
   "raw_title": "HyperX OMEN MAX 16 inch Gaming Laptop PC 16, Windows 11 Home, 16\", Intel® Core™ Ultra 9, 32GB RAM, 2TB SSD, NVIDIA® GeForce RTX™ 5090, 2.5K, Shadow black $3748.83",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-14T20:21:03.580110Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Protmex Contact Digital Tachometer w/Group Data Logging & Backlight $34.99 + Free Shipping w/ Prime or $6 Fee per Order",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T20:15:35.839963Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ReadyWise Survival Backpack, 5 Day Emergency Supply Bag $49.99 Free Shipping Costco.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T20:15:35.839963Z",
   "code": "not_checked",
   "public": false
  }
