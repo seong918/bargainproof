@@ -1,6 +1,78 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "8 Pack Solar Pathway Lights Outdoor, 12 Brighter LEDs Solar Lights Outdoor Waterproof, Up to 12 Hrs $26 AC + Free Shipping",
+  "reason": "Posted at $26.00, but Amazon showed $39.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-28T14:06:31.114068Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Parlovable Memory Foam Fuzzy Slippers for Women Cozy Open Toe Shoes Indoor $9.59",
+  "reason": "Posted at $9.59, but Amazon showed $8.99 when we checked — the post is stale",
+  "rejected_at": "2026-09-28T14:06:31.114068Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "New Smart Ring Health Tracker, 7 Days Battery Life $24.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T14:06:31.114068Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Smart Scale for Body Weight with BMI, Body Fat, Muscle Mass $21.58",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T14:06:31.114068Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Foldable Compact Treadmills with Handle Bar $89.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T14:06:31.114068Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Electric Toothbrush 2-Pack with 10 Replacement Heads $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T14:06:31.114068Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Insulated Reusable 30L Grocery Bags 2-Pack for $10 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T14:06:31.114068Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "AIRTHEAL T1 Touchless Vacuum Automatic Dustpan $99.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T14:06:31.114068Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Sam's Club $26.98 Mars Halloween Variety Pack Mini & Fun Size Assorted Candy, 83.27 oz., 290 pcs. Hurry. Ends 9/30",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T14:06:31.114068Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "6 Pack Duck Tape Brand Color Duct Tape, 1.88 in x 20 Yds, Black Project Pack $11.53 + Free S&H w/ Prime or $35+",
   "reason": "Community score too low (+3) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-28T14:00:53.005607Z",
@@ -133372,46 +133444,6 @@
   "raw_title": "DJI Mini 5 Pro Fly More Combo RC-N3 Vlog Camera Drone 4K/60fps HDR video $740.9 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-14T14:10:09.920210Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Beautyrest Regal Sleep 14.75\" Plush Pillow Top Mattress Queen $564.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T14:04:38.276824Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "News Reporter Costume Accessories Set for $11 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T14:04:38.276824Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "4-Night Negril All-Inclusive Flight and Resort Vacation for From $1,258 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T14:04:38.276824Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "GameSir Cyclone 2 Wireless Controller for Nintendo Switch 2 / iPhone / Android White $37.5 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T14:04:38.276824Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Car Fans for Backseat Portable Fan for Car Back Seat,Car Seat Fan Dual-Head USB Car Fan, Rear Seat Cooling Fan for Car SUV Truck, 12V/USB High Velocity Fan $13.29",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T14:04:38.276824Z",
   "code": "not_checked",
   "public": false
  }
