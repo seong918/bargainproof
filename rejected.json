@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "National Tree Company, 24inch Artificial Scare in The Air Halloween Wreath, 30 Purple LED Lights $49.44",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T20:08:02.450827Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Save $5 on $40+ Select Hershey's Halloween Candy Bulk Variety Bags $37.36",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T20:08:02.450827Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Duratech S-Style 5-Piece Metric Box End Wrench Set for $21 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T20:08:02.450827Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$159.99 FS BEST BUY: Insignia™ - 50\" Class F50 Series LED 4K UHD Smart Fire TV",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T20:08:02.450827Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LAUNCH X431 PRO3S+ Elite Bidirectional Scanner w/ J2534 Protocol $1151",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T20:08:02.450827Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Adidas men Lite Racer Adapt 7.0 Wide Shoes (Select Sizes) - $16.80 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T20:08:02.450827Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Logitech G Yeti Studio Active Dynamic XLR Broadcast Microphone - Black/White $189.99 + Free S&H at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-28T20:02:24.302175Z",
@@ -132828,70 +132876,6 @@
   "raw_title": "Apple AirTag (2nd Generation) – 4 Pack Item Trackers $79.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-14T20:10:05.567153Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Time and Tru Women's Fleece Hoodie w/ Long Crochet Sleeves $6.96",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T20:04:36.988524Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Stanley Stainless Steel H2.0 FlowState Quencher Tumbler 30-Oz $22.50",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T20:04:36.988524Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "7-Night Turkey Flight, Hotel, and Tour Vacation for From $1,998 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T20:04:36.988524Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Goodyear Reliant All-Season 205/55R16 91V Tire for $80 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T20:04:36.988524Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Heatmaxx 45\" Cast Iron Wood Burning Chiminea for $163 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T20:04:36.988524Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Little Golden Books Disney Princess 12-Piece Set Just $27.90 on Amazon (Reg. $84)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T20:04:36.988524Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Simzlife 150 Can Beverage Refrigerator Cooler, 4.5 Cu.Ft Drink Fridge for Soda Wine Beer, Adjustable Temperature Control for Home Office,Silver $249.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T20:04:36.988524Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Dyson Ball Animal Optic Corded Upright Vacuum $299.99 + $9.99 Shipping Costco.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T20:04:36.988524Z",
   "code": "not_checked",
   "public": false
  }
