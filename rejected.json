@@ -1,5 +1,53 @@
 [
  {
+  "source": "dealcatcher",
+  "raw_title": "Tineco GO Pet Plus HEPA Cordless Stick Vacuum Purple $199.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T17:24:04.826460Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LG 77 Inch OLED evo AI C6H 4K Smart TV $1,799.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T17:24:04.826460Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Metabo HPT 18V Cordless Brushless, Impact Driver Kit, WH18DEX $74.92",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T17:24:04.826460Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "6-Quart Instant Pot Pro Multi-Use Pressure Cooker (Matte Black) $99.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T17:24:04.826460Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "40'' Rolling Creeper, Padded Mechanic Cart w/ 4-Level Adjustable Backrest & Headrest $33.99+Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T17:24:04.826460Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Payday 20.3oz Jumbo Bag Peanut Caramel Candy Bars $7.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T17:24:04.826460Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "10\" MAXPOWER Groove Joint Pliers w/ Serrated V-Jaw $9.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
@@ -133116,70 +133164,6 @@
   "raw_title": "BOSGAME P4 Ultra Mini PC: Ryzen 7 7730U, 16GB DDR4, 1TB PCIe SSD $399.63",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-14T17:25:26.242164Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Forging Mount 176lbs Capacity No Stud TV Wall Mount for 26\"-100\" TVs $19.99",
-  "reason": "Posted at $19.99, but Amazon showed $39.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-14T17:19:57.918550Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Hurley Commuter Travel Backpack 27.5L $19.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T17:19:57.918550Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Adidas Men's Campus 00s Casual Shoes Semi Lucid Blue $34.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T17:19:57.918550Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Adidas Women Cloudfoam Pure Shoes Core Black/Grey Six $30.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T17:19:57.918550Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Adidas Women's X_PLR Path Shoes Cloud White / Core Black $27.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T17:19:57.918550Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Jay Leno's Garage 16-oz. Leather Cleaner for $8 + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T17:19:57.918550Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Beaded Initial Necklace Only $3.74 on Amazon (Reg. $15)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T17:19:57.918550Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Taoqimiao 76\" XL Cat Tower for Large Cats, 3 Padded Perches $79.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T17:19:57.918550Z",
   "code": "not_checked",
   "public": false
  }
