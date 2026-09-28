@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "WWE 2K25 (Nintendo Switch 2) $15 + Free Shipping w/ Prime or on orders over $35",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-28T17:35:20.914848Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Milwaukee M18 FUEL GEN-2 18V 3/8 in. Impact w/ 5.0 Ah Battery $249.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T17:35:20.914848Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Lux Decor Collection 6 Piece Queen Microfiber Sheets Set $19.59",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T17:35:20.914848Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Energy Connoisseur CF-70 Floorstanding Speakers (Pair) $249.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T17:35:20.914848Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "6-L adidas Excelerator Insulated Lunch Bag Lunchbox (Gradient Rose Tone Pink/Onix Grey) $12.98 + Free Shipping w/ Prime or on orders over $35",
   "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-28T17:29:42.545827Z",
@@ -132948,118 +132980,6 @@
   "raw_title": "DBHAL Cordless Handheld Vacuum w/ 15000PA Suction, HEPA Filter & 6000mAh Battery $19.99 + Free Shipping w/ Prime or $6 Fee per Order",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-14T17:36:21.812936Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[AC] $13.49* | 10-Pc. Craftsman 3/8\" Drive Polished Chrome Mechanics Tool Set (Metric) at Amazon",
-  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-14T17:30:54.041643Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "(8 Pack) Ahaorigin Solar Pathway Lights Outdoor, 2 Lighting Modes Waterproof $24.99",
-  "reason": "Posted at $24.99, but Amazon showed $49.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-14T17:30:54.041643Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Amazon Grocery 16oz Ground Mustard $2.26",
-  "reason": "Posted at $2.26, but Amazon showed $2.82 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-14T17:30:54.041643Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Shark UV580 DuoClean Corded Stick Vac, S&D $69.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T17:30:54.041643Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "(NEW!) iRobot® Roomba Combo™ i5 Robot VacMop $149.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T17:30:54.041643Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "(NEW!) iRobot® Roomba Combo2 Auto-Empty VacMop $159.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T17:30:54.041643Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Miele Classic C1 Turbo Canister Vacuum $379.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T17:30:54.041643Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "9-in-1 Inflatable Water Slide Bouncer $205.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T17:30:54.041643Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Zebra 8-Count Think Kit Multicolor Pen Set $7.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T17:30:54.041643Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "INTEX 28433EP PureSpa Bubble Deluxe Spa Set $424.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T17:30:54.041643Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "(NEW) Dyson GEN5 Outsize Cordless Vacuum $799.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T17:30:54.041643Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Dell Inspiron Plus 16\" Touch Ultra 9 288V 32GB Laptop $999.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T17:30:54.041643Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Haulcove 18-Piece Puzzle Exercise Mat for $20 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T17:30:54.041643Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Quest Protein Cookies 8-Pack Only $5 on Amazon",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T17:30:54.041643Z",
   "code": "not_checked",
   "public": false
  }
