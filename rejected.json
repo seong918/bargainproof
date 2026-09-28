@@ -1,5 +1,85 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Happy Death Day 2U 4K UHD $20.99 Amazon.com",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T18:43:08.241252Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$159.99* | INSIGNIA 50\" Class F50 Series LED 4K UHD Smart Fire TV, Voice Remote with Alexa at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T18:43:08.241252Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Mechanic Resurrection [4K Ultra HD + Blu-ray + Digital HD] $14.96 Amazon.com",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-28T18:43:08.241252Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "25 Piece Christmas Nativity Playset with Figures $15.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T18:43:08.241252Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "CopyLeaf Wide Leg Yoga Pants $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T18:43:08.241252Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Carhartt Men’s Saddle Leather Trifold Wallet $19.20",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T18:43:08.241252Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "DW 9000 Series Double Bass Drum Pedal for $685 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T18:43:08.241252Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Peet's Coffee Nespresso Compatible Aluminum Capsules, 80-count $41.99 free shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T18:43:08.241252Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Fandango - Four $25 eGift Cards from Costco $79.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T18:43:08.241252Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nespresso Vertuo Next Deluxe with Aeroccino 3 and 32 Capsules + $20 Coffee Voucher @ Nespresso.com $139.99 free shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T18:43:08.241252Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "MIULEE Velvet Curtains 50W x 90L 2 Panels $21.98",
   "reason": "Not evaluated",
@@ -132844,70 +132924,6 @@
   "raw_title": "adidas men 3-Stripes Tricot Regular Tapered Track Pants $15 @ adidas via EBay",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-14T18:47:46.458242Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Kanosan Compatible Camera Lens Protector for Samsung Galaxy Z Fold 8 Ultra/Z Fold 7 $4.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T18:42:15.426624Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Adjustable Weighted Vest for Women, 1-12LBS $12.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T18:42:15.426624Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "L’Oreal Collagen Cream Just $6.50 Shipped on Amazon (Reg. $13)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T18:42:15.426624Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "AMD Ryzen 7 5800X3D + 32GB DDR4 + ASUS TUF GAMING B550-PLUS WIFI II + Cooler Master Elite Liquid 240 CPU AIO Cooler $539.47",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T18:42:15.426624Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Time and Tru Women's Hats: Wide Cuff Beanie $3.56; Bucket Hat $3.59; Packable Straw Visor Hat $4 & More + Free S&H w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T18:42:15.426624Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "2 in 1 Beach & Rescue Center $32.3",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T18:42:15.426624Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Tramontina 3-piece Tri-Ply Clad Stainless Steel Ceramic Nonstick Fry Pan Set $54.99 Gray or Taupe Free Shipping Costco.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T18:42:15.426624Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "3-Pack: Puma Men's Bandon Quarter-Zip Pullovers UPF 30+ (Gray, Navy & Black) M to XXXXL $39.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T18:42:15.426624Z",
   "code": "not_checked",
   "public": false
  }
