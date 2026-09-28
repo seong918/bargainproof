@@ -1,5 +1,29 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Macy's Holiday Reversible Microfiber 3-Piece Comforter Set for $25 + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T23:41:18.027223Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Backcountry Flash Sale: Up to 70% off + free shipping w/ $69",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T23:41:18.027223Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "NEW Vampire Cup Noodles Just $1.18 at Walmart (Turns Red in Hot Water!)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-28T23:41:18.027223Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Fluke LIQ-Duo/FPC3, LinkIQ-Duo Cable, Wi-Fi, and Network Tester with 3 Years of Standard Fluke Premium Care $2788.05",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
@@ -132892,14 +132916,6 @@
   "raw_title": "AXE Y2K Reboot Deodorant Body Spray Just $1.98 After Walmart Cash",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-14T23:42:50.929730Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$108.77 FS to store SPORTMANS WAREHOUSE: Salomon Men's Speedcross 6 Low Trail Running Shoes (size 8-10, 11.5 and 12)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-14T23:37:20.309630Z",
   "code": "not_checked",
   "public": false
  }
