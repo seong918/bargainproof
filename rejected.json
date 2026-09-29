@@ -1,5 +1,37 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "[Prime] 2-Pack 32-Oz Amazon Basics All Purpose Cleaner Lemon $4.86, Lavender $5.24 w/ S&S + Free Shipping",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T22:48:00.495331Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Posguo 4\"x79\" Couch Patch Repair Fabric Velvet Self Adhesive Tape $3.59",
+  "reason": "Posted at $3.59, but Amazon showed $8.09 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T22:48:00.495331Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Lasko 20\" Classic Box Fan for $20 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T22:48:00.495331Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "29\" iLive HD Bluetooth Soundbar (ITB037BO) $19.00 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T22:48:00.495331Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Better Homes & Gardens Juliet Narrow Arch Bookcase for $127 + free shipping",
   "reason": "Not evaluated",
@@ -132396,54 +132428,6 @@
   "raw_title": "New, without box, Women’s Tigris Low Shaft Heeled Boots with Memory Foam Insole, $12.97, FS, ebay",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T22:53:11.255559Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS, AC] $14 | 4 × 6-Pack 16.9-Oz Diet Coke Caffeine Free Soda ($3.50 each) at Amazon (58.3￠ each)",
-  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, clip coupon, multi-pack, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-15T22:47:47.763855Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "New without box, Converse Chuck Taylor All Star OX Barely Grey/Natural Ivory, $35, FS, ebay",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T22:47:47.763855Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Gymax Patio Outdoor Chaise Lounge Chair Recliner for $80 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T22:42:24.018783Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Deli Mesh Desktop Organizer for $11 + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T22:42:24.018783Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Cute New Halloween Tumblers Spotted on Walmart.com for Just $9.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T22:42:24.018783Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Taylor Digital Kitchen Timer w/ Light, Sound & Vibration Alerts $5.75 + Free Shipping w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T22:42:24.018783Z",
   "code": "not_checked",
   "public": false
  }
