@@ -1,5 +1,45 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Monopoly Batman Edition Board Game for $11 w/ Prime + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T15:39:26.281601Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Zavklo Starlink Mini Suction Cup Mount for $21 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T15:39:26.281601Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2/$15ac ($9 for 1) In Club BJ's Wlse Bluey Colortivity: Happy Halloween! (Color & Activity with Crayons)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T15:39:26.281601Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$12 FS BJ's Wholesale (MEMBER) Disney Duckalooz Halloween Multipack, 10 pcs.",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T15:39:26.281601Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Qunler 8ft Halloween Pumpkin Stack Inflatable Decoration with Witch Hat $26.99 + Free S&H w/ Walmart+ or $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T15:39:26.281601Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "12' Atlantic RV Food-Grade Silicone Drinking Water Hose (Blue) $18.93 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
@@ -133172,78 +133212,6 @@
   "raw_title": "Carcassonne Board Game $14.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T15:41:40.230863Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "AI Portable Waist Fan,Rechargeable Fan with 4-Speed 6600RPM Strong Airflow $5.5",
-  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
-  "rejected_at": "2026-09-15T15:36:16.224781Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Adidas Kids Superstar II Elastic Lace Shoes (White, Size 5K~9K) $25.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T15:36:16.224781Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Lefant M310 Robot Vacuum Cleaner 4500Pa Suction Gray $75.70",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T15:36:16.224781Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Apple AirPods Max 2 Wireless Headphones (Factory Reconditioned) USB-C $329.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T15:36:16.224781Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Adidas Men Daily 4.0 Shoes $27.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T15:36:16.224781Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Unlocked Samsung Galaxy Z Flip 7 FE 256GB Phone for $570 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T15:36:16.224781Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "12-Port USB Power Strip for $2 + free shipping w/ $25",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T15:36:16.224781Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Unisex Dr. Martens Wrenlie Sandals - Black $112 Brown $104 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T15:36:16.224781Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "2-Pack: ChargeWorx Smart Locator Tags with Find My Capability (iOS Compatible) $11.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T15:36:16.224781Z",
   "code": "not_checked",
   "public": false
  }
