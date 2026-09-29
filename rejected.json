@@ -1,5 +1,157 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Rdhfatl 42\" DC Motor Flush Mount Ceiling Fan Light with Remote $25.99",
+  "reason": "Posted at $25.99, but Amazon showed $51.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T14:37:52.321611Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Orico Clear 2.5\" SATA III HDD / SSD Hard Drive Enclosure with USB-C $6.59",
+  "reason": "Posted at $6.59, but Amazon showed $10.44 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T14:37:52.321611Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Amazon Basics Disposable Assorted Striped Plastic Flex Straws (100-Count) $1.37",
+  "reason": "Posted at $1.37, but Amazon showed $1.44 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T14:37:52.321611Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "KitchenAid Artisan 5-Qt Tilt Head Stand Mixer, KSM150PS, Juniper $379.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T14:37:52.321611Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "ENCOOL 40-Oz Insulated Stainless Steel Water Bottle w/ Dual-Sip Straw Lid $11.11",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T14:37:52.321611Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Women's Cowl Neck Long Sleeve Going Out Tops $8.50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T14:37:52.321611Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ecozoom E8 Pro Electric Scooter for $243 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T14:37:52.321611Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "65\" Insignia F50 Series 4K UHD LED Smart Fire TV $259.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T14:37:52.321611Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Joyfy 8 FT Large Pumpkin Halloween Inflatables Outdoor Decorations $33.99 + Free S&H w/ Walmart+ or $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T14:37:52.321611Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "iMATCHME Saw Palmetto with Pumpkin Seed Extract Prostate Health for Men $9.44 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T14:37:52.321611Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Gaiatop Rechargeable Hand Warmers 2 Pack, Owl Reusable Handwarmers $9.34 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T14:37:52.321611Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Pack Philips Sonicare One Replacement Brush Heads (White) $4.40 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+3) to pass without a price check — needs multi-pack, Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T14:32:16.395658Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "FIT KING Pro Leg Massager Athlete Compression Recovery Boots Cordless $145",
+  "reason": "Posted at $145.00, but Amazon showed $474.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T14:32:16.395658Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "IPYNBAP Reading Pillow for Bed, Back Pillow for Sitting up, 18 Inch, Grey $14.99",
+  "reason": "Posted at $14.99, but Amazon showed $24.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T14:32:16.395658Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Large Floral Coquette Aesthetic Makeup Bag $5.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T14:32:16.395658Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "GEEK LIGHTING Men's Flannel Hooded Fleece Sherpa Lined Plaid Jacket $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T14:32:16.395658Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Chex Cereal Gluten Free Family Size 19.2 oz $3.01",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T14:32:16.395658Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ekouaer Women's Long Sleeve Pajama Set w/ Pocketed Jogger Pants (2-Piece) $11.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T14:32:16.395658Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Goldfish Crackers 20-Count Variety Pack Just $6.57 Shipped on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T14:32:16.395658Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "24-Pack Granicell 1100mAh NiMH Rechargeable AAA Batteries $11.24 w/ S&S + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+2) to pass without a price check — needs multi-pack, Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
@@ -133452,182 +133604,6 @@
   "raw_title": "GEOID CC700 Pro Bike Computer GPS 2.8\" Touchscreen Navigation $69 + Free Shipping $68.9",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T14:42:20.766700Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$4.59 or less S&S CLIP Q Dove Men All Star Comfort Dry Spray Antiperspirant - Edition, 3.8 oz",
-  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-15T14:36:57.361016Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$39.99: Maelstrom 50L Hiking Backpack, Lightweight Camping Daypack with Rain Cover",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-15T14:36:57.361016Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ICEIVY Womens Socks 5 Pack Vintage Wool Winter Warm Socks $8.63",
-  "reason": "Posted at $8.63, but Amazon showed $17.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-15T14:36:57.361016Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "MORENTO MR2566 Air Purifiers, 2-Pack $38.75",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T14:36:57.361016Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Apple AirPods with Lightning Charging Case (3rd Generation) (Renewed) $90.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T14:36:57.361016Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Cheer Me Up Gift Box Set Just $13.79 on Amazon (Reg. $23) | Teen Gift Idea",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T14:36:57.361016Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Peanuts Kids Figural Desk Chair (Snoopy) $20.61 + Free S&H w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T14:36:57.361016Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "(Open Box) Logitech G29 Driving Force Racing Wheel, Pedals & Driving Force Shifter (PS5, PS4 & PC) $180 + Free Shipping w/ Prime or $6 Fee per Order",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T14:36:57.361016Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "JHK 9 Drawer Dresser with Fabric Storage Drawers Heavy Duty Metal Frame Large Storage Tower Brown $33 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T14:36:57.361016Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "SISOSOCK 5 Pair Fuzzy Fluffy Soft Cozy Warm Comfy Socks Gifts for Women $6.96",
-  "reason": "Posted at $6.96, but Amazon showed $19.91 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-15T14:31:32.914248Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Cayama Men's 660nm Red Light 5000mAh Rechargeable Controller Hair Growth Cap $69.99",
-  "reason": "Posted at $69.99, but Amazon showed $119.98 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-15T14:31:32.914248Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "WEMAX Nova Pro 4K Ultra Short Throw Projector for $1,529.99 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T14:31:32.914248Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Filippo Loreti Superman Justice Automatic Watch 42mm $119 + $9.82 Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T14:31:32.914248Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Nexaforge 5KG MIX PLA Filament 1.75mm Multicolor Bundle 5-Pack $35.8 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T14:31:32.914248Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "New Balance ABZORB 2000 Shoes(Limelight/Dry Lime, Size 8~13) $76.97 + Free S&H at Dick's Sporting Goods",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T14:31:32.914248Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Beautiful Wrap Me Up Fluted Bed by Drew Barrymore (Queen , Warm Honey Finish) $136.95 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T14:31:32.914248Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$54.99 | KitchenAid Food Processor Attachment at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T14:31:32.914248Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$39.99 | JZONES 4K Dash Cam Front & 1080p Rear w/ 170° Angle HDR Night Vision & 64GB Card at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T14:31:32.914248Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ECO-WORTHY 200W N-Type Bifacial Solar Panel 2PCS 100W 12V 25% Efficiency $82.6 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T14:31:32.914248Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$11.99 | Amazon Essentials Men's Slim Commuter Pants at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T14:31:32.914248Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$11.99 | Amazon Essentials Men's Regular Fit Pant at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T14:31:32.914248Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Pawingcat Moving Bird Interactive Cat Toy with Catnip Toys $11.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T14:31:32.914248Z",
   "code": "not_checked",
   "public": false
  }

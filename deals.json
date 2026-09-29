@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "63a341609615",
+  "source": "techbargains",
+  "source_url": "https://www.amazon.com/gp/product/B0DLWGG85P/ref=ox_sc_act_title_1?smid=A2T6N244WTLWGU&psc=1",
+  "title": "Arctic Liquid Freezer III Pro Integrated Vrm Fan 360 AIO CPU Cooler",
+  "raw_title": "Arctic Liquid Freezer III Pro Integrated Vrm Fan 360 AIO CPU Cooler $69.89",
+  "merchant": "amazon",
+  "buy_url": "https://www.amazon.com/gp/product/B0DLWGG85P/ref=ox_sc_act_title_1?smid=A2T6N244WTLWGU&psc=1",
+  "deal_total_cents": 6989,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 6989,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 6989,
+  "amazon_url": "https://www.amazon.com/dp/B0DLWGG85P",
+  "amazon_checked_at": "2026-09-29T14:37:58.959265Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": null,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0DLWGG85P",
+  "image_url": null,
+  "published_at": "2026-09-29T14:37:52.321611Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "d7d67ee29e59",
   "source": "techbargains",
   "source_url": "https://www.amazon.com/gp/product/B0B6GLQJMV/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
