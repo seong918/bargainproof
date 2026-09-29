@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon – Fezodo Gold Initial Ring - $3.99 w/ Code",
+  "reason": "Community score too low (+0) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T01:22:07.741464Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$14.98* | 31-Pc DeWALT Security Screwdriver Bit Set w/ Storage Case at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T01:22:07.741464Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "New Woot Customers: Degree Women's Shower Clean Dry Deodorant $1.49, Degree Men's Original Deodorant $1.49 + Free S&H w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T01:22:07.741464Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "3.3' Baseus 100W Retractable USB-C to USB-C 5A Charging Cable $6.65 + Free Shipping w/ Prime or $35+ Orders",
   "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-29T01:16:30.668988Z",
@@ -132876,14 +132900,6 @@
   "raw_title": "Ozark Trail 50F Rectangular Sleeping Bag (33\" x 75\") $12.97 + Free Shipping w/ Walmart+ or on $35+",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T01:27:28.180041Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Journee Women's Jersie Knit Foldable Ballet Flats, Widths Available $7.76",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T01:21:59.104077Z",
   "code": "not_checked",
   "public": false
  }
