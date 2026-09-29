@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Women’s Long Sleeve V-Neck Top $6.50 – Casual Button Blouse, Loose Fit Tunic for Fall",
+  "reason": "Posted at $6.50, but Amazon showed $12.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T12:23:14.850528Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Milwaukee Electric Tool Shockwave Drive & Fasten Bit Set $21.88",
+  "reason": "Out of stock on Amazon when we checked",
+  "rejected_at": "2026-09-29T12:23:14.850528Z",
+  "code": "amazon_oos",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Eneloop Panasonic Pro Battery Adapters (4 Pack) $4.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:23:14.850528Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "RYOBI ONE+ HP 18V Brushless Cordless 1/2 in. Hammer Drill with ONE+ 18V 4.0 Ah Battery $129.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:23:14.850528Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "IZOD Men's Reversible Leather Belt (Black/Brown) $14.40",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:23:14.850528Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$35.89: Yexmas 8FT Halloween Pumpkin Inflatable, 7 Pumpkins with LED Lights at Walmart.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:23:14.850528Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Yexmas 7-Piece Climbing Toys Soft Foam Set with Ball Pit,Indoor Play Gym Set for Toddlers $82.94",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:23:14.850528Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Apple AirPods 4 w/ Active Noise Cancellation $119.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:23:14.850528Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "2-Pack Zebra Pen F-301 Compact Retractable Ballpoint Pen (Black, 0.7mm) $4.36 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+3) to pass without a price check — needs multi-pack, Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-29T12:17:39.615712Z",
@@ -133372,46 +133436,6 @@
   "raw_title": "Amazon Essentials Women's Lightweight Water Resistant Packable Hooded Puffer Coat (Various) $17.99 + Free Shipping w/ Prime",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T12:24:55.632323Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "120L Laundry Hamper for $22 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:19:30.229499Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Maelstrom 50L Hiking Backpack w/ Rain Cover for $40 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:19:30.229499Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Acostop Adult Halloween Traffic Cone Costume for $22 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:19:30.229499Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Costco Members - Body Glove Men's Flip Flop. Size 13 in Brown only. $7.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:19:30.229499Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Costco Members - LeBron James Autographed Los Angeles Lakers Game-Used Brown Nike Shoes vs. Philadelphia 76ers with \"Prime Year 21\" Inscription $69.999.99 $69999.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:19:30.229499Z",
   "code": "not_checked",
   "public": false
  }
