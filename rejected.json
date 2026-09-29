@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS] $21.84 | 36-Count Sharpie Metallic Permanent Markers, Fine Point, Metallic Silver at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T03:19:56.978291Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Betrihyes Halloween Decorations Solar Garden Lights Outdoor,6PACKS Halloween Ghost Decorations Lights with Scary Party Gifts Decor,Solar Scary Ghost Path Lights $14.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T03:19:56.978291Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "12FT Giant Halloween Inflatables Decorations Outdoor Pumpkin Ghost Wizard $76.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T03:19:56.978291Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $6.70* | Bluey: More 5-Minute Stories: 6 Stories in 1 Book? Hooray! (Hardcover Book) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T03:19:56.978291Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Halloween Decorations Outdoor, 200 LED Halloween Giant Spider Web Lights, 16.4Ft Lighted Spider Web Light up for Yard Haunted House Decor $29.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T03:19:56.978291Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "JOYIN Halloween Hanging Light up Ghost, 47\" White Ghosts with Purple LED Light and Timer Halloween Hanging Decoration Waterproof $25.99",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-29T03:14:20.789213Z",
@@ -133092,38 +133132,6 @@
   "raw_title": "Amazon – Lukaree Magnesium Glycinate Complex, 120 Capsules - $9.43 w/ Code",
   "reason": "Community score too low (+2) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-15T03:21:52.856050Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – Lukaree Chlorophyll Drops + Capsules Set - $14.80 w/ Code + Coupon",
-  "reason": "Community score too low (+0) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-15T03:16:40.495184Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – Shabebe 2-Gallon Mulch & Rock Glue - $27.00 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-15T03:16:40.495184Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$9.24: Kinetic Sand Variety Case Kit, Moldable Play Sand Sensory Toys, Ages 3+ at Amazon",
-  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
-  "rejected_at": "2026-09-15T03:16:40.495184Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$79.88 AMAZON Tracfone Samsung Galaxy A16 5G Phone - 128GB, 1-Yr Plan Included, Black",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-15T03:16:40.495184Z",
   "code": "low_score",
   "public": true
  }
