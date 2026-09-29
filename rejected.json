@@ -1,6 +1,118 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "M MAELREG Men Dry Fit Short Sleeve Casual Collared Pocket Moisture Wicking Men's Polo Shirts Black $9.97",
+  "reason": "Posted at $9.97, but Amazon showed $19.95 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T16:29:50.377673Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Govee 180ft Permanent Outdoor Lights Elite for $280 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T16:29:50.377673Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "2026 Bowman Football Factory Sealed Hobby Box for $310 App-Only + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T16:29:50.377673Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Amazon Basics Paper Towels 2-Pack Only $2.15 Shipped for Prime Members",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T16:29:50.377673Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Stock Up on Pop-Tarts for Just $1.99 at CVS This Week (Reg. $4)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T16:29:50.377673Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Samsung EPP/EDU] 27\" Odyssey G3 (G30D) 1080p 180Hz VA Gaming Monitor $129.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T16:29:50.377673Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2660-Piece LEGO Harry Potter Hogwarts Castle and Grounds Building Set $136.99 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T16:24:13.895561Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CUNLIN Womens Soft Satin Silk Leopard Button Down Shirts $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $26.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T16:24:13.895561Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Frutpunch 4ftx100ft Premium Weed Barrier Landscape Fabric $9.59",
+  "reason": "Posted at $9.59, but Amazon showed $23.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T16:24:13.895561Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Kooper Hummingbird Hanging Metal Solar Lanterns (2-Pack) $12.99",
+  "reason": "Posted at $12.99, but Amazon showed $25.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T16:24:13.895561Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Encool Leak Proof 26oz Stainless Steel Water Bottle with Straw $4.99",
+  "reason": "Posted at $4.99, but Amazon showed $9.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T16:24:13.895561Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "iZEEKER 4K Dash Cam Front and Rear Inside 3 Channel $47.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T16:24:13.895561Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "MSI 23.8\" FHD (1920x1080) HDMI DP 144Hz 1ms FreeSync IPS Gaming Monitor - G242LW $52.25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T16:24:13.895561Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "64\" W Dakota Fields Oversized Corduroy Chaise Sofa (Green, Khaki, Light Gray) $157.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T16:24:13.895561Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "The fresh Prince of Bel-Air complete series DVD $29.99",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-29T16:18:38.397497Z",
@@ -85472,14 +85584,6 @@
   "public": false
  },
  {
-  "source": "slickdeals",
-  "raw_title": "2660-Piece LEGO Harry Potter Hogwarts Castle and Grounds Building Set $136.99 + Free Shipping",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-20T11:26:35.795447Z",
-  "code": "duplicate",
-  "public": true
- },
- {
   "source": "techbargains",
   "raw_title": "Hyseyy 16.5\"x 39\"x 60.23\" 240lbs Double Rod Clothing Rack $22.79",
   "reason": "Posted at $22.79, but Amazon showed $35.99 when we checked — the deal is probably over",
@@ -132620,190 +132724,6 @@
   "raw_title": "Round Trip Boston - Denver or Vice Versa $165 Nonstop Airfares on JetBlue BE (Travel October 2026 - March 2027)",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T16:30:18.893672Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$27.99* | 35-Gallon IRIS USA Outdoor Deck Box (Beige) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
-  "rejected_at": "2026-09-15T16:24:53.109906Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$9.99* | VEEKTOMX 10000mAh 22.5W Fast Charging Mini Power Bank at Amazon",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-15T16:24:53.109906Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$5.98* | Weber Cotton Barbecue Mitt at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-15T16:24:53.109906Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS] $19.86* | 12-Pack 11-Oz Quest Protein Shake (Chocolate) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-15T16:24:53.109906Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "2-Piece Ekouaer Women's 100% Cotton Short Sleeve Top with Long Pants Pajamas Set (Various) from $12.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-15T16:24:53.109906Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Duoorra Back Brace for Men & Women Lower Back Pain Relief, Sciatica Pain Relief $12.99",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-15T16:24:53.109906Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Amazon Essentials Men Mid-weight Puffer Vest $14.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T16:24:53.109906Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "OtterBox Samsung Galaxy S26 Ultra Profile Series Case $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T16:24:53.109906Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Two Spafinder $50 Gift Cards for $80 + email delivery",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T16:24:53.109906Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Metal Earth Marvel Deadpool 3D Metal Model Kit $6.87 + Free Shipping w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T16:24:53.109906Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Converse Adult Day One Trainer Sneakers - Black/White $25",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T16:24:53.109906Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Champion Center Backpack (Blue or White) $12.24 + Free Shipping on $35+ or w/ Circle Membership",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T16:24:53.109906Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "JHK Mid-Century Modern Accent Chair w/ Solid Wood Frame & Waist Cushion (3-Colors) $76.46 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T16:24:53.109906Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "BeMyLady 3D Contoured Breathable Cotton Eye Sleep Mask with Bluetooth Headphone $9.95",
-  "reason": "Posted at $9.95, but Amazon showed $22.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-15T16:19:29.635387Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Addlon 100' ST38 30-LED Dimmable Corded Electric Waterproof Outdoor String Light $14.99",
-  "reason": "Posted at $14.99, but Amazon showed $29.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-15T16:19:29.635387Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Bob's Red Mill Organic All Purpose Unbleached Flour 4-Pack 48-Oz $31.69",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T16:19:29.635387Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "BOOST High Protein with Fiber Balanced Nutritional Shake, Strawberry 24-Pack $22.15",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T16:19:29.635387Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Dawn Platinum Dish Soap Fresh Rain 3 x 30-Oz $11.23",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T16:19:29.635387Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Logitech G Pro Flight Rudder Pedals $149.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T16:19:29.635387Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Solar Halloween Lights 2-Pack Just $13 on Amazon (8 Color Options!)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T16:19:29.635387Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Reebok Men's And Women’s GLX Wave Shoe $29.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T16:19:29.635387Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Saucony Men's Velocity MP Track Spike Sneaker (White/Carbon, Sizes: 6.5-12) $39.99 + Free Shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T16:19:29.635387Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "DSG Women's Momentum Straight Leg Pants (Muted Olive) $9.97 + Free Shipping on $49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T16:19:29.635387Z",
   "code": "not_checked",
   "public": false
  }
