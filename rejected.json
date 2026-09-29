@@ -1,6 +1,110 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[Prime] BEDELITE King Fleece Comforter Set (Light Grey) $16.80 + Free Shipping",
+  "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T08:51:48.670462Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Briignite LED 3D Crystal Ball Night Light (Halloween Pumpkin, Showman & More) $8.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T08:51:48.670462Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Zalman S6 ATX Mid-Tower RGB Gaming PC Case for $49 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T08:51:48.670462Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Bostofy 72\" x 72\" Waterproof Shower Curtain Liner for $14 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T08:51:48.670462Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Haven complete series $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T08:51:48.670462Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "135-Piece Christmas Window Clings Decal Set for $4 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T08:46:12.302073Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Wosports 48MP Solar WiFi Trail Camera for $35 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T08:46:12.302073Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "ASRock B650M Pro RS WiFi AM5 AMD B650 Micro ATX Motherboard for $110 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T08:46:12.302073Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Plantar Fasciitis Arch Support Insoles for $11 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T08:46:12.302073Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bircen Kids Polarized Sport Sunglasses (Various Colors) $7.68 + Free Shipping w/ Prime or orders $35+",
+  "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T08:40:34.864646Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "TEKTON 3/8 Inch Drive 12-Point Socket, 83-Piece | SKT16301 $289.08",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T08:40:34.864646Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Ayura 100'x1/2\" Metal Shaft Retractable Garden Hose Reel $63.99",
+  "reason": "Posted at $63.99, but Amazon showed $79.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T08:40:34.864646Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Dexter complete series digital bundle $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T08:40:34.864646Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Makita JN1601 16 Gauge Nibbler $313.07",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-29T08:34:59.117373Z",
@@ -43477,14 +43581,6 @@
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-24T09:53:07.899000Z",
   "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Ayura 100'x1/2\" Metal Shaft Retractable Garden Hose Reel $63.99",
-  "reason": "Posted at $63.99, but Amazon showed $79.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-24T09:53:07.899000Z",
-  "code": "price_mismatch",
   "public": true
  },
  {
@@ -133644,54 +133740,6 @@
   "raw_title": "Aura Rainbow Titanium Bismuth Quartz Crystal Mineral Specimen Decor for $20 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T08:52:18.968127Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "SanDisk 2TB Creator Phone SSD for $320 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T08:47:06.579850Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Resident Evil Games at Best Buy for From $13 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T08:47:06.579850Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Resale - Like New Motorola razr+ | 2024 | Unlocked | Made for US 12/256 | 50MP Camera | Midnight Blue $404.5",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-15T08:41:56.444057Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Best Buy NFL Sunday Ticket Membership Deals for From $234 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T08:41:56.444057Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "LAUNCH OBD2 Scanner CRP123I V3.0 Elite Scanner (Lifetime Updates) $114",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T08:41:56.444057Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Seesii 13\" String Trimmer Electric Weed Wacker w/ 2 Batteries for $90 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T08:36:45.910684Z",
   "code": "not_checked",
   "public": false
  }
