@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "45\" Lewis & Wayne Metal Freestanding Bird Bath & Garden Trellis (Floral Butterfly) $10.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T10:36:35.451327Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "153-Count Glowserve Disposable Plastic Cutlery Set (3 colors, 51 Forks, 51 Knives, 51 Spoons) $8.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T10:36:35.451327Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Dairy Queen Small Coffee Coolers for $7 + shipping varies",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T10:36:35.451327Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Spirit Island Board Game for $45 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T10:36:35.451327Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "JOBY Podzilla Medium Tabletop Tripod Kit (Gray) $8.95 @B&H",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-29T10:31:00.495889Z",
@@ -133764,30 +133796,6 @@
   "raw_title": "iZEEKER 4K Dash Cam Front and Rear Inside 3 Channel $52.19",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T10:39:09.773961Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Solati Beard and Hair Trimmer $10.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T10:33:44.874895Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Softball Lover T-Shirt $8.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T10:33:44.874895Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Inspirational T-Shirts $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T10:33:44.874895Z",
   "code": "not_checked",
   "public": false
  }
