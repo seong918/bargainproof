@@ -1,5 +1,165 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$59.99* | 701-Pc LEGO Star Wars: The Mandalorian and Grogu Anzellan Starship Building Toy at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T18:38:27.540696Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "3-Piece OYY Hand Forged Butcher Knife Set $24.98 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T18:38:27.540696Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $59.99 | Amazon Fire 7 Kids tablet, 32 GB, Red at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T18:38:27.540696Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Bltend 36mm Golf Hitting Mat - $89.99–$170.99 w/ Coupon",
+  "reason": "Posted at $89.99, but Amazon showed $123.49 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T18:38:27.540696Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Kades Grade 2 Titanium Silicone Apple Watch Magnetic Band $26.39",
+  "reason": "Posted at $26.39, but Amazon showed $43.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T18:38:27.540696Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Govee Smart Recessed Lighting - 4-Pack $119.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T18:38:27.540696Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "10-Piece Halloween Fake Blood Kit $4.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T18:38:27.540696Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Haunted Hill Farm 5.9-Foot Animatronic Clown on Tricycle Halloween Decoration for $200 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T18:38:27.540696Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Mainstays 10-Piece Plastic Mixing Bowl Set with Assorted Lids and Nonslip Base $9.88",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T18:38:27.540696Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Wonder Nation Baby and Toddler Kids Two Strap Bump Toe Sneakers $3.73",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T18:38:27.540696Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $32.96* | 4 × 25-Count Milk-Bone Brushing Chews Large Daily Dental Dog Treats (Chicken) ($8.24 each) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs multi-pack, clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T18:32:49.569975Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $25.26 | 4 × 36-Oz Milk-Bone Mini's Flavor Snacks Dog Treats ($6.32 each) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T18:32:49.569975Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Bluetooth Speaker IPX7 Waterproof 50W Peak/25W RMS $39.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T18:32:49.569975Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Tughlax 5-Mode Rechargeable Flashlights 3-Pack $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T18:32:49.569975Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Haunted Hill Farm Ground-Breaking Skeleton Stakes Halloween Decoration for $32 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T18:32:49.569975Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "American Girl Moana Doll Only $116 Shipped on Amazon (Reg. $145)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T18:32:49.569975Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$114 FS Walmart by GVDV Wagon Stroller for Kids, 3-in-1 Collapsible Double Stroller Wagon for Toddlers with Removable Canopy, 5-Point Harness, Pull & Push Handle and",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T18:32:49.569975Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Minute Maid Lemonade Fridge Pack Cans, 12 fl oz, 12 Pack $5.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T18:32:49.569975Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$340 FS Walmart by Gotrax Nano 14\" Folding Adult Electric Bike,15.5mph 36V 350W Peak Foldable City Bike With LED Light,White",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T18:32:49.569975Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Fanta Strawberry Soda Pop Fridge Pack Cans, 12 fl oz, 12 Pack $5.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T18:32:49.569975Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "VIXLW HDMI to USB 3.0 Cam Link 4K External Capture Card $34.99",
   "reason": "Posted at $34.99, but Amazon showed $69.99 when we checked — the deal is probably over",
@@ -132172,118 +132332,6 @@
   "raw_title": "soundcore P25i Bluetooth True Wireless Earbuds, Big Bass, 30H Playtime, IPX5, with Charging Case, Pink $14.88",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T18:39:42.340166Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "120-Count Amazon Basics Long Daily Pantiliners (Unscented) $5.84 w/ S&S + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-15T18:34:19.325566Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[AC] $5.99* | 60-Count Physician's Choice Fiber Gummies (Raspberry Lemon) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-15T18:34:19.325566Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$1.99 | The Happiness Trap: How to Stop Struggling and Start Living (Second Edition) (eBook) by Russ Harris",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-15T18:34:19.325566Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Wolverine Men Overman Waterproof CarbonMAX® Wellington Work Boots Leather (Brown/Black) $97.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T18:34:19.325566Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Toro 60V Max Flex-Force Pole Saw Attachment (Tool Only) for $28 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T18:34:19.325566Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS] $18.52 | 33.8-Oz Wella Professionals Invigo Nutri-Enrich Conditioner, Goji Berry, Dry Hair at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-15T18:28:54.288711Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS] $18.52 | 33.8-Oz Wella Professionals Invigo Nutri-Enrich Shampoo Deep Nourishing at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-15T18:28:54.288711Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS] $18.52 | 33.8-Oz Wella Professionals Invigo Brilliance Conditioner, Fine/Normal Hair at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-15T18:28:54.288711Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Birkenstock Women's Florida Flex Platform Sandals (Sage) $63.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T18:28:54.288711Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Kobalt 700-PSI Cold Water Battery-Operated Power Cleaner for $89 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T18:28:54.288711Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Jordan Tote Bag for $16 + free shipping w/ $49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T18:28:54.288711Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Papa John's Four $25 eGift Cards ($100 Value) for $80 + email delivery",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T18:28:54.288711Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Round Trip Washington DC - Reno NV / Lake Tahoe CA or Vice Versa $211 Airfares on American Airlines BE (Travel October 2026 - March 2027)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T18:28:54.288711Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Buy One Get One: 4-Piece Macy's 1200 Thread Count Cotton Blend Watercolor Printed Sheet Sets (4 Colors, Queen, King) $59.93 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T18:28:54.288711Z",
   "code": "not_checked",
   "public": false
  }
