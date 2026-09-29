@@ -1,6 +1,118 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$49.99* | Corsair Void v2 Wireless Bluetooth PC PS5 Switch Gaming Headset – White at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T00:31:36.578793Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Them! - Collector's Edition 4K Ultra HD + Blu-ray $26.99 Amazon.com",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T00:31:36.578793Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Stuhrling Men's Rialto 3975L Chronograph Watch for $97 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T00:31:36.578793Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CATAN - Console Edition for Nintendo Switch - 80% off $3.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T00:31:36.578793Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $128.24 | WINIX 5510 True HEPA Air Purifier (AHAM 392 Sq Ft) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T00:25:57.572126Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$20.52* | 22L adidas Lineage Backpack w/ 16\" Laptop Sleeve at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T00:25:57.572126Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Michael - 4K + Blu Ray + Digital $25.79 Amazon.com",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T00:25:57.572126Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS] $11.96* | 17.64-Oz Orgain Creatine Monohydrate Micronized Powder (Unflavored) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T00:25:57.572126Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "200\" Spider web + 59\" giant spider, $12.99, Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T00:25:57.572126Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Nike Men's Air Max Excee Shoes for $50 + free shipping w/ $89",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T00:25:57.572126Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Weight Bench Only $41.99 Shipped on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T00:25:57.572126Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "The Island - 4K UHD $22.49 Amazon.com",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T00:20:25.898194Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Hamilton Beach Dual-Spout Coffee Urn, 45 Cup Capacity $44.99 free shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T00:20:25.898194Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SimplyGood Plastic Free Blooming Coffee Maker $239.99 free shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T00:20:25.898194Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Terrifier 2 (Steelbook) [4K UHD] $17.96 Amazon.com",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-29T00:15:03.433956Z",
@@ -51890,14 +52002,6 @@
  {
   "source": "dealnews",
   "raw_title": "6-Piece Stainless Steel Ear Picking Set for $2 + free shipping w/ $25",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-23T11:31:38.651257Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Stuhrling Men's Rialto 3975L Chronograph Watch for $97 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-23T11:31:38.651257Z",
   "code": "not_checked",
@@ -132820,46 +132924,6 @@
   "raw_title": "Seiko 5 Sports x Pepsi SKX White Dial Men's Automatic Watch $299 + $9.82 Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T00:32:25.470571Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Samsung Galaxy Z Fold8 Unlocked Android Smartphone, 256GB Graphite $1649",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T00:21:25.372151Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Vivicreate Tri Ply Stainless Steel Stock Pot with Lid 5 Quart Hammered Stockpot Induction Cooking Pot Soup Pot Compatible with All Stovetops (5QT) $16.99",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-15T00:15:54.017015Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Contigo Byron 2.0 Stainless Steel 20-oz. Travel Mug for $14 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T00:15:54.017015Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Champion Center Backpack for $12 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T00:15:54.017015Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Sansui 27\" 1080p 240Hz FreeSync LED Curved Monitor for $136 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T00:15:54.017015Z",
   "code": "not_checked",
   "public": false
  }
