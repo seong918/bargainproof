@@ -1,6 +1,222 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$23.97* | 35mm Casio Women's Digital Sport Watch at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T19:11:59.018838Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $28.49* | 32-Oz Zojirushi GoCafe Insulated Stainless Steel Mug at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T19:11:59.018838Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $63.49* | Super7 Ultimates! Toho 7\" Godzilla Grayscale Comic Book Action Figure at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T19:11:59.018838Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Amazon Essential Epsom Salt Soak Magnesium Sulfate USP 6-Pack $12.38",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T19:11:59.018838Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Egg Apron with 12 Deep Pockets $5.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T19:11:59.018838Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "INIU Portable Charger 20000mAh $28.47",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T19:11:59.018838Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ryobi One+ 18V Cordless 1/4\" Hex Screwdriver Kit w/ Battery & Charger for $50 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T19:11:59.018838Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Amazon Dog Food 30lb Bag Only $39.68 Shipped for Prime Members (Reg. $61)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T19:11:59.018838Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $206.99* | 5-Liter Zojirushi VE Hybrid Water Boiler and Warmer at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T19:06:22.690771Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Pursonic Portable Sonic Toothbrush w/ 3 Brush Heads (Black) $6 + Free Shipping w/ Prime or on orders over $35",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T19:06:22.690771Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Workpro 8-Piece Flex-Head Stubby 8-17mm Ratcheting Combination Wrench Set $22.99",
+  "reason": "Posted at $22.99, but Amazon showed $49.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T19:06:22.690771Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Toughergun RFID Blocking Slim Wallet with Magnetic Money Clip $4.99",
+  "reason": "Posted at $4.99, but Amazon showed $9.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T19:06:22.690771Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "365 by Whole Foods Market Organic All Purpose Flour, 80 Ounce $5.69",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T19:06:22.690771Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Kooper Solar Flood Lights 4-Pack $25.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T19:06:22.690771Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Goldfish Variety Snack Packs 20-Count $5.25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T19:06:22.690771Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Operation Hat Trick College Apparel Deals at Fanatics for From $38 w/ code + shipping varies",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T19:06:22.690771Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-PACK: Mossy Oak Men's Reversible Beanie - MOC/Blaze Orange $9.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T19:06:22.690771Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ring Alarm Contact Sensor 6-Pack - 2nd Gen | Monitor 6 Doors or Windows | Instant Alerts | Approximately 3-Year Battery Life | Slim Design | Easy Installation $59.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T19:06:22.690771Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Gerber Knives from $13.95 - Free Shipping $25+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T19:06:22.690771Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HeyDude Shoes: Extra 40% Off Select Sale Items + Free S&H on $50+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T19:06:22.690771Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "3-Piece Bedsure Prewashed King Comforter (Beige, 104\"x90\") $19.71",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T19:00:44.686209Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Nate's Raw Manuka Honey 13.2-Oz MGO 512+ UMF Certified 15+ $11.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T19:00:44.686209Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "SKINNYPOP Original Gluten Free Popcorn Bags 30-Count $12.65",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T19:00:44.686209Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Dyce Pet Peeves Party Game for $20 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T19:00:44.686209Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "LEGO City Rides Loader for $7 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T19:00:44.686209Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Amazon Elements Baby Wipes 810-Count Just $13.99 Shipped for Prime Members",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T19:00:44.686209Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "De'Longhi Magnifica Evo Automatic Espresso Machine with Frother and Preset Recipes $499.99 Free shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T19:00:44.686209Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Mophie 3-in-1 Travel Charger with MagSafe Compatible w/Apple Devices $25 + Free S&H w/ Prime or $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-29T18:55:10.833707Z",
@@ -132220,222 +132436,6 @@
   "raw_title": "Samsung EDU/EPP Members: 27\" Odyssey G8 G80HF 5K Dual IPS Monitor (2026) $420 + Free S&H",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T19:12:03.017721Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$21.97* | Pressman The Oregon Trail: Journey to Willamette Valley Board Game at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
-  "rejected_at": "2026-09-15T19:06:38.671649Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Klein Tools ModBox 6-Pocket Tool Pouch for $10 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T19:06:38.671649Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "SucceBuy Vehicle Awning Retractable $74.64",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T19:06:38.671649Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Ninja Nutri-Plus Personal Blender, 900PW, (3) 20oz Cups, Silver, BN301 $69.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T19:06:38.671649Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "WoofBite 5\"x4\" Natural Rubber Chew Toy for Medium & Large Breed Dogs $6.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-15T19:06:38.671649Z",
-  "code": "duplicate",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Motorola Moto G Power - 2025 | Unlocked | Made for US 8/128GB | 50MP Camera | various colors $199.99",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-15T19:01:17.047409Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Motorola Moto G Play LTE | Unlocked | Made for US 4/64GB | 50MP Camera | Sapphire Blue $99.99",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-15T19:01:17.047409Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "L'Oreal Paris Collagen Moisture Filler Bounce Face Serum 1-Oz $6.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T19:01:17.047409Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Freela Kids Swim Goggles 2-Pack $5.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T19:01:17.047409Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Centrum Men's or Women's Multivitamin Gummies 100-Ct $3.04",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T19:01:17.047409Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Hermes Jour D'hermes Eau de Parfum Spray for Women Refillable 2.87 Fluid Ounce $73.52",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T19:01:17.047409Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "HTM Foot Massager with Heat, 4 Modes, Vibration, Compression & Rolling $45.59",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T19:01:17.047409Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Guns N' Roses Greatest Hits Walmart Exclusive Vinyl for $27 + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T19:01:17.047409Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "324Wh 600W RUNHOOD RALLYE 600 MINI Power Station $119.70 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T19:01:17.047409Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Smadeer Solar Fox Garden Statue w/ Light $8.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T18:55:52.563110Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "MSMV Amphibious Remote Control Car 1:20 $19.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T18:55:52.563110Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "DUMOS Enamel Cast Iron Dutch Oven 6 Quart $29.98",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T18:55:52.563110Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Yasonic 6-Piece Shower Caddy Organizers w/ Hooks (Black) $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T18:55:52.563110Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "6.5 Ft Giant Red and White Striped Christmas Bow $23.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T18:55:52.563110Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Klein Tools 1010 Multi Tool Long Nose Wire Cutter $23.37",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T18:55:52.563110Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Klein Tools 11061 Self-Adjusting Stripper / Cutter $20.89",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T18:55:52.563110Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "BODYARMOR Sports Drink 8-Pack 12-Oz (Blue Raspberry) $3.59",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T18:55:52.563110Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Schylling NeeDoh Squishmas Advent Calendar (Pack of 1) $29.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T18:55:52.563110Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Target Exclusive Ariana Grande Petal Vinyl Record for $28 + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T18:55:52.563110Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Sta-Green Premium 2-cu. ft. Mulch for 4 for $10 + free shipping w/ $45",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T18:55:52.563110Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "XBOX Wireless Controller – Arctic Camo Special Edition - $49.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T18:55:52.563110Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "YMMV Ollie's In-Store Firman Factory Refurbished Inverter Generator, Tri-Fuel, 9400W Starting / 7500W Running $699.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T18:55:52.563110Z",
   "code": "not_checked",
   "public": false
  }
