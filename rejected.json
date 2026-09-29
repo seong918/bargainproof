@@ -1,5 +1,21 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Willa Arlo Interiors Eastham 58\" Velvet Storage Chaise Lounge for $190 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T00:42:48.999090Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Hair Cuttery 40 Percent OFF First Time Color Service or 15 Percent OFF Any Single Service when you Download the App $34",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T00:42:48.999090Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "[SnS, AC] $2.93* | 4 × 14.5-Oz Amazon Grocery Petite Diced Tomatoes (73.4￠ each) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
@@ -132926,21 +132942,5 @@
   "rejected_at": "2026-09-15T00:43:26.397221Z",
   "code": "duplicate",
   "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ACEMAGIC S16 AMD Ryzen™ 7 H 255 - Radeon 780m - 512GB SSD - 24gb DDR5 RAM. $579.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T00:37:56.336264Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "George Men's Jonaah Oxford Dress Shoes- $8.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T00:37:56.336264Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
