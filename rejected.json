@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$19.96 AMZON BENGOO G9000 Stereo Gaming Headset for PS4 PC Xbox One PS5 Controller, Noise Cancelling Over Ear Headphones with Mic, LED Light, 7.1 Surround Sound",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T01:50:08.938674Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] Amazon Fire TV Soundbar Plus 3.1-Channel w/ Built-In Subwoofer & Dolby Atmos $144.99 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T01:50:08.938674Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Logitech G PRO X Superlight 2 SE Wireless Gaming Mouse - Red for $60",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T01:50:08.938674Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Lockin Veno Solar Fingerprint Smart Lock, with Handle, Runs on Sunlight $98.99 AC",
+  "reason": "Posted at $98.99, but Amazon showed $149.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T01:50:08.938674Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Amazon Basics Car Seat Protector for $9 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T01:50:08.938674Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "12-Pack Stride StrideMark Tank Permanent Marker (Chisel Tip, Black) $4.41 at Staples w/ Free Store Pickup",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T01:50:08.938674Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Halloween Decorations Outdoor Crashing Witch: 44'' Flying Crashed Witches Hanging into Tree - Halloween Decor for Yard Garden Porch $15.29",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T01:50:08.938674Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon – Phomemo D422S Bluetooth 4x6 Label Printer w/ Scale - $199.99 w/ Code + Deal",
   "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, promo code, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-29T01:44:34.622432Z",
@@ -133028,30 +133084,6 @@
   "raw_title": "Batman: The Complete Series Blu-ray $26.49",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T01:55:02.383923Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Sun + Stone Men's Bennett Relaxed-Fit Denim Shorts for $15 + free shipping w/ $39",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T01:49:31.307453Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Western Digital Elements 2TB Portable Hard Drive for Windows USB C100 $100",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T01:49:31.307453Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "TCL 55” Class S55LR Series 4K HDR LED Smart Roku TV (New 2026) - High Brightness LED Backlight, Wide Color Gamut, Motion Rate 240~$268 @ Walmart~Free Shipping!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T01:49:31.307453Z",
   "code": "not_checked",
   "public": false
  }
