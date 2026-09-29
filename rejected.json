@@ -1,6 +1,94 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "WVSAW Heavy Duty Steam Mop Cleaner for Hardwood, Tile, Laminate, Windows $59.99",
+  "reason": "Posted at $59.99, but Amazon showed $119.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T14:49:02.403763Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Avidlove Mini Skirt for Women Lace Ruffle Micro Short Skirts $4.99",
+  "reason": "Posted at $4.99, but Amazon showed $9.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T14:49:02.403763Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "6-Piece Extra Deep Breathable Sheet Sets $21.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T14:49:02.403763Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "NB SmooVex Monitor Mount for up to 32 Inch Monitors $16.45",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T14:49:02.403763Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Kathy Ireland 1000 Thread Count 6-Piece Sheet Set - Queen $41.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T14:49:02.403763Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "TALIX 12800mAh 125W 3-Port Laptop Power Bank w/ 240W USB-C Cable $22.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T14:49:02.403763Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Waterdrop 10UA Under Sink Water Filter System, NSF/ANSI 42 Certified 1 Year $43.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T14:49:02.403763Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Haunted Hill Farm Halloween Animatronics Deals at Amazon for From $32 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T14:49:02.403763Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Coleman 62-Qt Flex 'N Go Wheeled Cooler $129.00 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T14:49:02.403763Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$169.88: Mocangtu 12\" Queen Hybrid Mattress, Gel Memory Foam & Pocket Coils, Medium Firm, Cooling Support at Walmart.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T14:49:02.403763Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "COSTWAY 3.2Qt/3L Deep Fryer with Basket, Adjustable Temperature & Timer $40.10",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T14:49:02.403763Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "ROLOVE 16 x 12.9 in Tabletop Vanity Mirror Lighted Makeup Mirror, 11 Dimmable LED Bulbs, 3 Color Lights, Detachable 10X Magnifying Mirror, White $17.99 AC",
   "reason": "Posted at $17.99, but Amazon showed $29.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-29T14:43:27.225182Z",
@@ -133444,126 +133532,6 @@
   "raw_title": "RYSE Loaded Protein Powder - Little Debbie Cosmic Brownie 27 serving: Whey Isolate, 25g Protein $24.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T14:53:05.538723Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "PETLIBRO Automatic Cat Feeder – 3L Programmable Pet Food Dispenser $59.49",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-15T14:47:42.435110Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Berberine Supplement Drops with Ceylon Cinnamon, Milk Thistle, Bitter Melon $8.73",
-  "reason": "Posted at $8.73, but Amazon showed $21.21 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-15T14:47:42.435110Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Pinspark UPF50+ Long Sleeve Lightweight Men's Collared Polo Shirt $8.99",
-  "reason": "Posted at $8.99, but Amazon showed $19.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-15T14:47:42.435110Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "M Maelreg Dry Fit Moisture Wicking Collared Golf Polo Shirt $11.99",
-  "reason": "Posted at $11.99, but Amazon showed $23.98 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-15T14:47:42.435110Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Seventh Generation Fresh Lime & Ginger Dish Soap 19-Oz $2.39",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T14:47:42.435110Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "2-Pack Philips Sonicare A3 All-in-One Toothbrush Heads (White) $19.69",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T14:47:42.435110Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "CITIZEN Ladies' Eco-Drive Mickey & Minnie 29.2mm Stainless Steel $237.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T14:47:42.435110Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Joyin 24 Pack Halloween Toy Set $14.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T14:47:42.435110Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Fall Wreaths 20-24\" $14.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T14:47:42.435110Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Smiry Thick Bathroom Rugs 30×20″ $4.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T14:47:42.435110Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Apple MacBook Pro 13\" (2019) (Open Box) $302.71",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T14:47:42.435110Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Meronte HEPA Air Purifier for $71 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T14:47:42.435110Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Tonfarb AI Voice Recorder for $20 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T14:47:42.435110Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Men’s Quarter Zip Shirt Only $8.99 on Amazon (Reg. $24)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T14:47:42.435110Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ORICO 69\" Phone Tripod & Selfie Stick - 360° Rotatable Phone Holder $9.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T14:47:42.435110Z",
   "code": "not_checked",
   "public": false
  }
