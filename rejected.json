@@ -1,6 +1,14 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Reebok Sutton 18\" Laptop Backpack (3 Colors) $11.20 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T05:01:04.798399Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "LISEN 4-in-1 84W Retractable Car Charger w/ Dual USB-C & USB-A Ports $11.28 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+-2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-29T04:55:29.220316Z",
@@ -133324,14 +133332,6 @@
   "raw_title": "from $3.99 | OtterBox & Beyond: Cases, Cables & More at Woot!",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T05:05:12.269722Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Lakeside Rustic Wood Console Table w/ Galvanized Accent $34.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T04:59:43.687555Z",
   "code": "not_checked",
   "public": false
  }
