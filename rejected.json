@@ -1,5 +1,117 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $4.12 | 12-Pack 12-Oz Essentia Ionized Alkaline Water at Amazon (34.3￠ each)",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T18:16:01.435093Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $9.78* | Five Crowns Collectible Tin – Card Game at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T18:16:01.435093Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$23.97* | 54.4mm Casio Illuminator AE1500WH Men's Digital Watch at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T18:16:01.435093Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Shabebe Rock Glue for Landscaping, Gravel Binder 1Gallon Lasts Up to 2 Years $15",
+  "reason": "Posted at $15.00, but Amazon showed $59.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T18:16:01.435093Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Papetura",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T18:16:01.435093Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Avidlove Women's Lingerie Babydoll Dress Nightgown w/ Panty $4.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T18:16:01.435093Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Deep V Mesh Bra $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T18:16:01.435093Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "SWISSWELL Men's Ultra Light Rain Jacket Breathable Raincoat for Cycling $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T18:16:01.435093Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas Men's or Women's World Cup Gazelle Indoor Shoes for $41 + free shipping w/ $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T18:16:01.435093Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ernie Ball Super Slinky Nickel Wound Electric Guitar Strings 3-Pack + 1 for $20 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T18:16:01.435093Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Frigidaire 6.5 Cu. ft. Garage Ready Upright Freezer, Compact Vertical Freezer for Apartments, Garage, Basement, Office, Bulk Storage, Platinum Silver $218",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T18:16:01.435093Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "De'Longhi Dinamica Plus Fully Automatic Espresso Machine $949.99 + $9.99 shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T18:16:01.435093Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ACEMAGIC M1A Pro Mini PC: Core i9-13900HK, RTX 5060 Mobile, 32GB DDR5, 1TB Gen4 SSD, USB4, 2.5G Lan, Win11P @ $1369 + F/S",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T18:16:01.435093Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Ring Prime Day Deals: Up to 50% off select Video Doorbells, Alarm Systems, Cameras, More from $24.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T18:16:01.435093Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "SOLOEVER Compression Knee Brace w/ Side Stabilizers, Gel Pad & Adjustable Patella Strap (S-XXL) $9.99",
   "reason": "Not evaluated",
@@ -132198,61 +132310,5 @@
   "rejected_at": "2026-09-15T18:18:07.603009Z",
   "code": "duplicate",
   "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "8” Disney’s Zootopia 2 Flash Plush $3.58 + Free Shipping w/ Prime or on orders over $35",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-15T18:12:43.688908Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "L'Oreal Paris Collagen Moisture Filler Facial Moisturizer 1.7oz $6.50",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T18:12:43.688908Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Vibrant Life Silicone Shamrock Snuffle Mat for $1 + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T18:12:43.688908Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Vevor Deals at Amazon for From $52 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T18:12:43.688908Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "2 Panels Outdoor Privacy Screen, 50 x 3.15 in. White Plastic Privacy 2-Pack Air Conditioner Fence 27.6 in. Ground Stakes $92.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T18:12:43.688908Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "DC x DSG Women's Supergirl All Star Athletic Crop Hoodie (Blue) $13.97 + Free Shipping on $49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T18:12:43.688908Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "HP OmniBook 3 Laptop, 16t-by000, 16\" 2K display $329 + Free shipping - HP",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T18:12:43.688908Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
