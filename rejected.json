@@ -1,5 +1,21 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Better Homes & Gardens Juliet Narrow Arch Bookcase for $127 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T22:42:22.112443Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "3-Pack 48-Oz Lysol 2X Concentrate All Purpose Multi-Surface Cleaner (Lemon & Sunflower) $1.79 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T22:42:22.112443Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "[Prime]84 Pcs Tile Town Jurassic World Gate Escape Magnetic Tiles $14.49 + Free S&H w/ Prime or $35+",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",

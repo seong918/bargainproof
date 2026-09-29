@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "3dcbd5a4815b",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20076003-2-pack-14-jazwares-hello-kitty-cinnamoroll-plush-flower-set-5-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "2-Pack 14\" Jazwares Hello Kitty & Cinnamoroll Plush Flower Set + or on",
+  "raw_title": "2-Pack 14\" Jazwares Hello Kitty & Cinnamoroll Plush Flower Set $5.99 + Free Shipping w/ Prime or on $35+",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 599,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "prime",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 6,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-29T22:42:22.112443Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "b09e88ff2543",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20076363-ymmv-ac-20-98-35-pc-dewalt-impact-ready-flextorq-screwdriver-bit-set-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
