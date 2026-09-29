@@ -1,5 +1,21 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Stainless Steel Mini Shovel Spoon 4-Pack: 66 cents + free shipping w/ $25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T11:49:33.625756Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Heel Grip Cushion Insert 4-Pack: 78 cents + free shipping w/ $25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T11:49:33.625756Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "[Prime] $12.39* | Marvel Comics: One World Under Doom (Paperback Graphic Novel) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
@@ -133453,46 +133469,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T12:03:21.605266Z",
   "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "iRobot Authentic Replacement Battery for Braava 380t & Mint 5200 (NiMH, 2000 mAh) $6.65",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T11:52:48.303550Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "KFC 3pc Tenders Combo for $5 w/ $10 purchase",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T11:52:48.303550Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Koofr 1TB Cloud Storage Lifetime Subscription for $160 + N/A",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T11:52:48.303550Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Walmart, $5.74 get $3 Ibotta Rebate Limit 5: Red Baron 14.9 oz Cruchtime Microwave Pizza (Four Cheese or Pepperoni) Free Pick Up or $35 Delivery order",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T11:52:48.303550Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Macy's Home & Luggage Buy More Save More Sale: Up to 45% off + free shipping w/ $39",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T11:47:36.865801Z",
-  "code": "not_checked",
   "public": false
  }
 ]
