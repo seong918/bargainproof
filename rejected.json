@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "1Mii DS70 Bluetooth 5.3 TV Transmitter for 2 Headphones/Speakers w/ Screen $24.99 + FS w/ Prime or over $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T07:33:02.030440Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Jogrytece 4-in-1 USB-C to USB-C Multi Charging Cable $4.79",
+  "reason": "Posted at $4.79, but Amazon showed $9.59 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T07:33:02.030440Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Vizio 65\" Quantum 4K 60Hz Mini LED QLED HDR Smart TV $358",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T07:33:02.030440Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "3-Pack Ekouaer Women's Long Sleeve Square Neck Thermal Shirts (Various) $15 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs multi-pack, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T07:27:23.995618Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "3-Pack 10' KYEHD 60W USB-C to USB-C Fast Charging Cable (Grey/White) $3.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs multi-pack, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T07:27:23.995618Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Halloween Lighted Garden Flag, Ghost Yard Decor, 12x18 In - $9.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T07:27:23.995618Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "WWE 2K26 (PS5) $30 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T07:27:23.995618Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Solisleaf Kidney Tea Formula Ginseng Six Treasure Tea Bag (30-Count) $4.93",
+  "reason": "Posted at $4.93, but Amazon showed $6.90 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T07:21:45.681635Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[SnS, AC] $9.79 | 12-Oz Intelligentsia Whole Bean Coffee, Dark Roast, El Diablo at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-29T07:16:10.610071Z",
@@ -133572,86 +133636,6 @@
   "raw_title": "Nicole Kidman 4-Movie Collection (Bundle) $7.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T07:34:34.407815Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Vasagle Square Steel Bar Table for $42 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T07:29:29.483083Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Redragon H510 AK RGB Wired Gaming Headset for $41 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T07:29:29.483083Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "OtterBox Galaxy S26 Defender Series Pro XT Case, Purple $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T07:29:29.483083Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$4 ac AMAZON COSLUS FBS01 Facial Cleansing Brush Face Scrubber, Compact for Travel",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-15T07:24:25.028630Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Plantar Fasciitis Arch Support Insoles for $9 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T07:24:25.028630Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Yeserli Rechargeable Handheld Milk Frother for $14 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T07:24:25.028630Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "$100 Sony PlayStation Store Gift Card for $89 + email delivery",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T07:24:25.028630Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "OtterBox Samsung Galaxy S26 Profile Series Case - Pink Awakening $4.96",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T07:24:25.028630Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "OtterBox Samsung Galaxy S26 Ultra Profile Series Case, Ultra-Thin, Stylish, Protective Samsung Galaxy Case, Pink Awakening or Black $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T07:24:25.028630Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "$100 Burlington Gift Card for $90 + email delivery",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T07:19:17.117497Z",
   "code": "not_checked",
   "public": false
  }
