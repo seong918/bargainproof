@@ -1,6 +1,462 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Reversible Funny Christmas Wrapping Paper Roll -Total 28.5sq.ft for Adult Christmas Holiday Birthday Party $5.99",
+  "reason": "Posted at $5.99, but Amazon showed $8.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T13:02:33.612411Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ceramic Frying Pan Set with Spatula 8/9.5/11 Inch $24.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T13:02:33.612411Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Avanti Airless Paint Sprayer (In-Store Only) $169.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T13:02:33.612411Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Greenworks 40V 14\" Cordless Battery Chainsaw w/ 2.5 Ah Battery & Charger $127.50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T13:02:33.612411Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Mushroom Hot Cocoa Powder with Magnesium Glycinate, Reishi & L-Theanine $7.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T13:02:33.612411Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Auto-Vox 4.8\" 1080p Backup Camera System for $36 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T13:02:33.612411Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Fruit of the Loom Men's Eversoft Fleece Sweatpants for $7 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T13:02:33.612411Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Philips Baristina Espresso Machine & Milk Frother Bundle for $211 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T13:02:33.612411Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$13.97-$15.62 S&S M&M'S Milk Chocolate Candy, Resealable Jars, Party Size, 25.5 oz, 2 Pack AMZ",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T12:56:55.581809Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Veubew 15L 8-Nozzle Outdoor Misting System $24.99",
+  "reason": "Posted at $24.99, but Amazon showed $49.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T12:56:55.581809Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Haushof 24V 2-Gallon Brushless Motor Cordless Wet/Dry Shop Vacuum $59.99",
+  "reason": "Posted at $59.99, but Amazon showed $79.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T12:56:55.581809Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Walgreens Photo 3-Pack 8\" x 8\" TilePix Customized Photo Framed Prints $13.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:56:55.581809Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Nose Hair Trimmer for Men 2 in 1 $8.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:56:55.581809Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Aootek Solar Motion Sensor Lights Outdoor 120 LEDs White, 4 Pack $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:56:55.581809Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Smart Projector with Wi-Fi and Bluetooth $39.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:56:55.581809Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Round Trip Tucson AZ to Los Angeles Nonstop Airfares $117.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:56:55.581809Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Triple Fusion Back Massager $39.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:56:55.581809Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "KUHL Women's Stretch Voyagr Trench Jacket Violet Haze $118.83",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:56:55.581809Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Pennzoil Platinum Full Synthetic 10W-30 1-Quart Motor Oil for $5.37 via Sub. & Save + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:56:55.581809Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Dune Deluxe Hardcover Edition for $16 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:56:55.581809Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "John Wick 5-Film Collection (4K UHD Digital Films; MA) $19.99 via AppleTV",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:56:55.581809Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "3 Pk 32Oz OdoBan Ready-to-Use Disinfectant and Odor Eliminator(Lavender) $9.98 + Free S&H w/ Prime or $35+",
+  "reason": "Community score too low (+3) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T12:51:16.878730Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "ProCase Hard EVA Shell Sunglasses Case $8.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:51:16.878730Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Whole Body Vibration Plate Exercise Machine $39.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:51:16.878730Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Neck Massager with Heat for Pain Relief Deep Tissue $29.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:51:16.878730Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Craftsman V20 20V MAX Cordless Drill/Driver Set w/ 2x Batteries $99.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:51:16.878730Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "18-Pack TSA-Approved 3-Oz Silicone Travel Bottles w/ Bag $4.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:51:16.878730Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "It's Pumpkin Day, Mouse!: An Adorable Picture Book $5.70",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:51:16.878730Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "12-Foot Animated Hovering Witch Halloween Decoration for $98 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:51:16.878730Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Kamrui E3B Ryzen 7 Mini Desktop PC for $386 w/ Prime + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:51:16.878730Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Kodak Charmera Key Chain Digital Camera Bundle for $52 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:51:16.878730Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "8-Piece Automotive Pick & Hook Tool Set for $4 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:51:16.878730Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$29.98: Yexmas 6.3FT Christmas Inflatable Snowman with Penguins & Gift Box, LED Lights at Walmart.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:51:16.878730Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Bedsure ReflexHeat Heated Outdoor Cat House $59.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:45:38.845436Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "FDS4 Adjustable Dumbbell Set $48.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:45:38.845436Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Monster N-Tune mini 02 Noise Cancelling Headphones 50H Playtime $29.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:45:38.845436Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "KUHL Men's AeroLight Insulated Jacket $159.83",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:45:38.845436Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Posture Correcting Wireless Bras $6.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:45:38.845436Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "6-Pack 3/4\" x 1000\" Scotch Magic Tape w/ Desktop Dispenser $10.43",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:45:38.845436Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Fruit of the Loom Cotton Polyester Blend Eversoft Fleece Relaxed Fit Elastic Bottom Sweatpants w/ Pockets (Black Heather, Sizes M-XL, 4XL) $7.44",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:45:38.845436Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Amazon Fire TV Soundbar Plus 3.1-Channel w/ Built-In Subwoofer & Dolby Atmos $144.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:45:38.845436Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "RGB LED Drawing Board for $18 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:45:38.845436Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Kodak Pixpro 6MP Digital Camera w/ 4X Optical Zoom for $100 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:45:38.845436Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Prime, Tangkula 6.5 Ft Inflatable Tentacles, Blow up Octopus Legs Window Decoration with LED Lights, $32.29,",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:45:38.845436Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon Essentials Women's Soccer Socks, Over-the-Calf Athletic Fit with Zone Cushioning and Arch Support, 3 Pairs, White, 6-9 $3.35",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T12:40:01.313275Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "6.6' Lisen 4-in-1 USB-C Charging & Data Cable (Grey, 240W) $6.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+3) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T12:40:01.313275Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Round Trip Boston to Taipei Taiwan Airfares on Delta or United Airlines BE with 1 Free Checked Bag $894.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:40:01.313275Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Virgin Mary Cross Bracelet $5.09",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:40:01.313275Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Highland Cow Planter Decorative Flower Pot $14.84",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:40:01.313275Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Samsung ViewFinity S80HF 27\" 5K IPS 60Hz Monitor $549.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:40:01.313275Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "NIMIN Wide Leg Palazzo Pant with Pockets $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:40:01.313275Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ekouaer Long Sleeve Button Down Pajamas Set $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:40:01.313275Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "NIMIN High Waisted Wide Leg Dress Pants $18.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:40:01.313275Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Enesco Wizarding World of Harry Potter Collectible Figurines at Amazon for From $11 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:40:01.313275Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Olight Warrior 3S Rechargeable Tactical Flashlight w/ Proximity Sensor for $90 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:40:01.313275Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "T-Mobile Tuesdays: Win a $1,000 Amazon eGift Card! ~ 10/06/26",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:40:01.313275Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$29.89: Yexmas 8.7FT Halloween Inflatable Pumpkins, 7-Pumpkin Blow Up Decor with Witch Hat & LED Lights at Walmart.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:40:01.313275Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$49.99* | Corsair Sabre v2 PRO Ultralight FPS Wireless Gaming Mouse at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-29T12:34:25.309289Z",
@@ -31858,14 +32314,6 @@
  {
   "source": "dealcatcher",
   "raw_title": "SOLOEVER Fingerless Compression Arthritis Gloves w/ Non-Slip Grip $4.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-25T13:22:41.331685Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Virgin Mary Cross Bracelet $5.09",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-25T13:22:41.331685Z",
   "code": "not_checked",
@@ -133188,254 +133636,6 @@
   "raw_title": "Costco - Dyson Airwrap Multi-Styler Complete Long $349.97 YMMV in store only",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T13:07:14.963603Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "13-Night Japan & South Korea Flight, Hotel, and Rail Vacation for From $2,998 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T13:01:57.167296Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Actbest Mars 1200W 48V 13.5Ah Fat Tire Folding Electric Bike for $343 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T13:01:57.167296Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "ASUS TUF Gaming B650E-E WiFi AM5 ATX Motherboard $145.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:56:46.594355Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Husqvarna Power Axe 225i 14\" Battery-Powered Cordless Chainsaw $264.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:56:46.594355Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Laundry Basket with Removable and Washable Liner Bag 120L $22.14",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:56:46.594355Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "On Revolution (Penguin Classics) eBook $1.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:56:46.594355Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Samsung Galaxy S26 Ultra 256GB on T-mobile is $200 after trade-in. Or $100 if purchased from T-mobile Costco",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:56:46.594355Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Fishing Life Adult, Unisex Fish Scales Lifeguard Straw Hat - Straw, $7.23 + Free S&H w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:56:46.594355Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "JAYO 11KG PETG 3D Printer Filament (10Rolls/1.1KG) 1.75mm Black/White $75 + Free S/H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:56:46.594355Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "CVS Pick Up: Lysol 12.5 oz Disinfectant Spray 2/$8.79 get $3 Extra Bucks",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:56:46.594355Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon - DOWNCOOL Cooling Comforter Twin Size $23.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:56:46.594355Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Dr. Martens, Women's, Gryphon Quad, Dark Brown, Medium $83.97 + Free Shipping",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-15T12:51:30.395957Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "CoolHair Bikini Trimmer for Women,Smooth Electric Razor for Sensitive Skin $12.49",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-15T12:51:30.395957Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Dr. Martens, Women's, Mattison 2S, Cornflower Blue $70 + Free Shipping",
-  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-15T12:51:30.395957Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Red Light Therapy Face Mask for $28 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:51:30.395957Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "EOEOTWO GT06 1200W Off-Road Electric Scooter for $362 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:46:09.825401Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Cert. Refurb: Creality Space Pi X4L Filament Dryer 4 Spool 3D Printer Dry Box $76 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:46:09.825401Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Birkenstock Arizona Women's Leather Sandals (Pink) $69.83 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:46:09.825401Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "JUSTFASHIONNOW Women's Striped 2-Piece Pajama Set $14.39",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:46:09.825401Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Dr. Martens Womens Mattison 3S Black $77 Dusty Rose $70 + Free Shipping",
-  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-15T12:40:57.808411Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Dr. Martens, Unisex Reeder 5 Tie Shoe, Gaucho Crazy Horse, Size 10 US Women/9 US Men - $83.96 (AC) + Free Shipping",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-15T12:40:57.808411Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Zensyook 5000mAh Battery 3-Mode Adjustable Brightness Heated Fogless Shower Mirror $19.79",
-  "reason": "Posted at $19.79, but Amazon showed $35.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-15T12:40:57.808411Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "X1T PRO 2-Seater Foldable Electric Bike for $810 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:40:57.808411Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "GL.iNet GL-BE3600 Slate 7 Wi-Fi 7 Travel Router VPN Touchscreen $105 + Free S/H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:40:57.808411Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Dr. Martens 8053 oxfords shoes, Gaucho Crazy Horse, Women's 6 US - $85.41 (AC) + Free Shipping",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-15T12:35:44.515161Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "FNTCASE for iPhone 18 Pro Max/ 17 Pro Max Case $14 - Amazon",
-  "reason": "Posted at $14.00, but Amazon showed $19.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-15T12:35:44.515161Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "JanSport Move Sling Crossbody Bag $14.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:35:44.515161Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Kobalt 42\" 7-Drawer Rolling Mobile Workstation w/ Solid Wood Top $348.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:35:44.515161Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Wolverine Men's Rancher Level Pull-On Steel-Toe Work Wellington Boot Camo $66.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:35:44.515161Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "dreame H14 Cordless Vacuum Mop for $200 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:35:44.515161Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Flashforge AD5X Multi-Color 3D Printer w/ Auto Leveling for $210 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:35:44.515161Z",
   "code": "not_checked",
   "public": false
  }
