@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Spin Mop & Bucket Set w/ 6 Microfiber Heads (Teal) $33.98 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T10:25:25.222201Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$4.99 Movies: Disney Classics+Recent, Universal Horror Classics, Wild Robot + lots more",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T10:25:25.222201Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Krispy Kreme Original Glazed Coffee Doughnuts Dozen for $5 w/ any dozen purchase",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T10:19:46.338161Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Uselike Quilted Puffer Tote Bag for $14 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T10:19:46.338161Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "2-Pack TuyLuxe Solar Flickering Flame Outdoor Hanging Lantern $12.99 ($6.49 each) + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-29T10:14:10.727621Z",
@@ -133812,94 +133844,6 @@
   "raw_title": "$97.99: Wolverine Men Overman Waterproof CarbonMAX® Wellington Work Boots Leather(Brown/Black) at ebay",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T10:28:19.084999Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "darkFlash FLOATRON F1 Micro-ATX Mid-Tower PC Case w/ 3 x ARGB Fans (Black/White) $75.59 + Free Shipping",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-15T10:23:08.227713Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "7.4-Oz 42-Servings Nature Echo Creatine Monohydrate Powder (3 Flavors) $7.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-15T10:23:08.227713Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$20 Amazon Fire TV Stick 4K Select (newest model), start streaming in 4K, AI-powered search,",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-15T10:23:08.227713Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$18 Amazon Fire TV Stick HD (newest model), free & live TV, Alexa Voice Remote, powered by the TV,",
-  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-15T10:23:08.227713Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Free: 3M Aura Particulate Respirator 9205+, N95 Disposable Respirator (10pk) $14.96",
-  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-15T10:23:08.227713Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "LC-dolida 3-in-1 5.4 Bluetooth Sleep Mask Headphones $7.99",
-  "reason": "Posted at $7.99, but Amazon showed $14.24 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-15T10:23:08.227713Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "OFEEFAN Long Sleeve Dresses $14.79",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T10:23:08.227713Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Amazon Essentials Men's Polar Fleece Shirt Jacket for $13 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T10:23:08.227713Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$2.97 Wonder Nation Baby Water Shoe",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T10:23:08.227713Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Wolverine Men Floorhand Moc-Toe Pull-On Work Wellington Shoes(Dark Wheat) $69.99 + Free S&H at ebay",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T10:23:08.227713Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Insignia 25W USB-C Compact Wall Charger $5 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T10:23:08.227713Z",
   "code": "not_checked",
   "public": false
  }
