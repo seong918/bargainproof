@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "TOZO T6 Wireless Earbuds Bluetooth 5.3 Stereo Sound in Ear Headphones $19.92",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T02:51:53.549927Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "TOZO NC9 Hybrid Active Noise Cancelling Wireless Earbuds, 60H, LED Display $26.55",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T02:51:53.549927Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "kurdene Wireless Earbuds Bluetooth Headphones with Secure Earhooks 60Hrs $13.49",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T02:51:53.549927Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "TOZO A1 Wireless Earbuds Bluetooth 5.3 Light Weight in Ear Headphones $13.98",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T02:51:53.549927Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$5* | Red Hot Chili Peppers: Californication (Audio CD) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T02:51:53.549927Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Soundcore by Anker P20i True Wireless Earbuds, with Big Bass, 30H Playtime $20.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T02:51:53.549927Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Gaiatop HW-06 Rechargeable Hand Warmers - White Cute Paw Design (2-Pack) $8.99",
+  "reason": "Posted at $8.99, but Amazon showed $14.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T02:51:53.549927Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "TOZO HT3 Hybrid Noise Cancelling Wireless Headphones, 90H Over Ear Headset $29.99",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-29T02:46:16.516001Z",
@@ -133054,53 +133110,5 @@
   "rejected_at": "2026-09-15T02:55:31.624475Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – HUSKARY Women's Faux-Suede Mini Skirt - $12.85 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-15T02:50:01.693117Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "NULAS 13 Pieces Kitchen Knife Set with Blade Guards & Self-sharpening, Stainless Steel Non-stick Knives for Cooking and Cutting, Black $10 AC",
-  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
-  "rejected_at": "2026-09-15T02:50:01.693117Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – Ipletix Women's Slim-Fit Long-Sleeve Shirts - $4.89–$9.09 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-15T02:50:01.693117Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$229.95 | Breville BDC415BSS Luxe Brewer Glass Carafe, Brushed Stainless Steel at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-15T02:50:01.693117Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "MIHOVER 26\" Electric Bike for Adults 550W Max Speed 20MPH, 48V Battery 40 Miles $309.98",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T02:50:01.693117Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "6-Pocket Roll-Up Tool Bag Organizer (Army Green) $14.03 + Free Shipping w/ Prime or on $35+",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-15T02:50:01.693117Z",
-  "code": "duplicate",
-  "public": true
  }
 ]
