@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS, AC] $2.93* | 4 × 14.5-Oz Amazon Grocery Petite Diced Tomatoes (73.4￠ each) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T00:37:12.478642Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $32.16* | 4 × 32-Ct. Tide PODS 4-in-1 Laundry Detergent Pacs (Downy April Fresh) ($8.04 each) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T00:37:12.478642Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $10.54* | Dinosaurs and Other Prehistoric Life (DK Children's Anthologies) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T00:37:12.478642Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$14.29* | Three Days Grace (Vinyl) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T00:37:12.478642Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Salomon Men's XA Pro 3D V9 Shoe for $100 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T00:37:12.478642Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Kohl's Clearance Deals: Up to 80% off + extra 20% off + free shipping w/ $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T00:37:12.478642Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$49.99* | Corsair Void v2 Wireless Bluetooth PC PS5 Switch Gaming Headset – White at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-29T00:31:36.578793Z",
@@ -132892,38 +132940,6 @@
   "raw_title": "George Men's Jonaah Oxford Dress Shoes- $8.00",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T00:37:56.336264Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Sonic Racing CrossWorlds Knuckles RC Monster Truck for $11 + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T00:32:25.470571Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Lenovo Tab One 8.7\" 64GB Tablet for $140 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T00:32:25.470571Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "AND1 Men’s Streetball Basketball Shoes High-Top $6.10",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T00:32:25.470571Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Seiko 5 Sports x Pepsi SKX White Dial Men's Automatic Watch $299 + $9.82 Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T00:32:25.470571Z",
   "code": "not_checked",
   "public": false
  }
