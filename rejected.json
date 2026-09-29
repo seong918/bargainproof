@@ -1,6 +1,78 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[Prime, SnS, AC] $5.96* | 4-Pk 500-Ct Amazon Basics Double-Tipped Cotton Swabs at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Prime-only price, clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T19:23:08.129173Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $7.49* | 5\" Super7 Fun! Fun! Sesame Street Oscar The Grouch Figure at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T19:23:08.129173Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime, SnS, AC] $1.25 | 4 × 0.87-Oz Amazon Grocery Brown Gravy Mix (31.3￠ each) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Prime-only price, clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T19:23:08.129173Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $5.49* | Super7 Fun! Fun! Toho 5\" Classic/Retro Godzilla Vinyl Figures: Destoroyah '95 at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T19:23:08.129173Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "23.6\" x 15.5\" AWW Foldable Stone Bath Mat (Grey) $14.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T19:23:08.129173Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $10.99* | 3.75\" Super7 Reaction+ G.I. Joe Arctic Snake Eyes Action Figure w/ Accessories at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T19:23:08.129173Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Official Nintendo Switch 2 Camera $29.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T19:23:08.129173Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "RefrigiWear Men's Merino Wool-Blend Neck Gaiter for $20 + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T19:23:08.129173Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Kodak Pixpro C1 13MP Compact Point & Shoot Digital Camera for $99 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T19:23:08.129173Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[Prime, SnS] $9.62* | 8-Count Amazon Basics 9V Alkaline Batteries at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-29T19:17:34.106957Z",
@@ -132324,38 +132396,6 @@
   "raw_title": "Joyfy 6.2 FT Long Purple Octopus Head Halloween Inflatable $29.28",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T19:28:14.138704Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$25.99* | 100-Pc Playmags 3D Magnetic Tiles Building Blocks Set at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-15T19:22:49.096996Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Makita XFD16T 18V LXT® Lithium-Ion Brushless Cordless 1/2\" Driver-Drill Kit (5.0Ah) $282.99",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-15T19:22:49.096996Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "hip2save",
-  "raw_title": "lululemon Dual Pouch Wristlet Just $34 Shipped (Teen Gift Idea)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T19:22:49.096996Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Miele Classic C1 Pure Bagged Canister Vacuum $289.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T19:22:49.096996Z",
   "code": "not_checked",
   "public": false
  }
