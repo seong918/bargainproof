@@ -1,5 +1,141 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Adjustable Metal Leaf Rake w/ 8-17\" Expandable Head $10.49 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T14:04:15.977703Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Casio G-Shock Men's Digital Watch (DW9052-1V) $53.97 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T14:04:15.977703Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "20-Oz Portable Electric Coffee Maker Tumbler (Gray) $9.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T14:04:15.977703Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Makita XLC07Z 18V Lithium-Ion Handheld Canister Vacuum Cleaner $142.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T14:04:15.977703Z",
+  "code": "lookup_failed",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Yineel HC600 All-in-One Cordless Beard Trimmer & Grooming Kit $14.99",
+  "reason": "Posted at $14.99, but Amazon showed $29.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T14:04:15.977703Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Kesguar Portable Charger 20000mAh 22.5W PD Power Bank $13.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T14:04:15.977703Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Monalife 12-Pack Travel Vacuum Bags w/ Electric Pump $16.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T14:04:15.977703Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Baseus 3.3' 100W Retractable USB-C to USB-C 5A Charging Cable $6.65",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T14:04:15.977703Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Coostar Men's Slip-On Canvas Loafers $27.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T14:04:15.977703Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Phomemo D422S Bluetooth 4x6 Label Printer w/ Scale $199.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T14:04:15.977703Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DV Dolce Vita Women's Buckle Sandal $7.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T14:04:15.977703Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Uineer Wireless Vertical Ergonomic Mouse $13.50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T13:58:36.889917Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Amazon Basics Reclosable Food Storage Snack Bags 300-Count $4.62",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T13:58:36.889917Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "PLANTERS Individual Size Salted Peanuts 2.5 Oz (15 Ct) $5.93",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T13:58:36.889917Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Yexmas 8-Foot Halloween Inflatable LED 7-Pumpkin Outdoor Decor for $35.89 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T13:58:36.889917Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Amazon Basics Disinfecting Wipes 4-Pack Just $9.41 Shipped for Prime Members",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T13:58:36.889917Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "5 Pack Joyfy 27.5\" Hanging Ghosts Halloween Decorations $15.29 + Free S&H w/ Walmart+ or $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T13:58:36.889917Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "ViewSonic LX700-4K 4K UHD Laser Gaming Projector 3500 Lumens 240Hz $1,297.36",
   "reason": "Not evaluated",
@@ -133414,109 +133550,5 @@
   "rejected_at": "2026-09-15T14:05:00.489375Z",
   "code": "duplicate",
   "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Merach R5 16-Level Electromagnetic Rowing Machine $167.99",
-  "reason": "Posted at $167.99, but Amazon showed $335.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-15T13:59:47.110933Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Hardaddy V-Neck Lightweight Block Pullover Long Sleeve T-Shirt (Various Sizes) $9.99",
-  "reason": "Posted at $9.99, but Amazon showed $17.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-15T13:59:47.110933Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$49.99: Harley-Davidson Women Bateman 4\" Metal Footwear Leather(Black, Size 6~11) at ebay",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T13:59:47.110933Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Garmin Edge 540 GPS Cycling Computer $249.98",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T13:54:35.820757Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "DJI Neo 2 Fly More Combo w/ RC-N3 4K Camera Drone 3 Batteries $330.60",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T13:54:35.820757Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "adidas Men Grand Court 2.0 Shoes Core Black $26.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T13:54:35.820757Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "22-Oz Gatorade Stainless Steel Water Bottle (Pink) $11.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T13:54:35.820757Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Nature's Eats Cajun Sesame Sticks 16.0 Ounce 12-Pack $6.98",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T13:54:35.820757Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Joyin 24-Pack Halloween Paper Treat Bags $8.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T13:54:35.820757Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "EF ECOFLOW Laptop Power Bank 25,000mAh 170W $56.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T13:54:35.820757Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Amazon Grocery Ground Mustard 16-Oz $2.82",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T13:54:35.820757Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Disguise K-Pop Demon Hunters Rumi Kids Costume for $25 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T13:54:35.820757Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Baby Playpen, 50x50 Inch Baby Playards for Babies and Toddlers, Fence Baby Play Yards for Indoor & Outdoor with Breathable Mesh, Dark Gray $28 AC + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T13:54:35.820757Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
