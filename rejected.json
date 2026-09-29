@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS] $2.14 | 1-Oz Amazon Grocery Pure Vanilla Extra at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T04:38:37.175629Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $16.10* | 60-Count Garden of Life Organics Women's Once Daily Multivitamin at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T04:38:37.175629Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Walmart YMMV Pickup or In-Store + Code: Select Hot Wheels $0.25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T04:38:37.175629Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$209.99 | 16GB Amazon Kindle Colorsoft Kids eReader (Various) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-29T04:33:02.037708Z",
@@ -86353,14 +86377,6 @@
  },
  {
   "source": "slickdeals",
-  "raw_title": "[SnS, AC] $16.10* | 60-Count Garden of Life Organics Women's Once Daily Multivitamin at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-19T05:35:43.295881Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
   "raw_title": "$215: Milwaukee 2863-20 M18 FUEL ONE-KEY 18V Lithium-Ion Brushless Cordless 1/2 in. Impact Wrench with Friction Ring (Tool-Only) at Woot!",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-19T05:35:43.295881Z",
@@ -133293,22 +133309,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T04:43:13.911865Z",
   "code": "lookup_failed",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Flamingo Women's 5-Blade Razor w/ Handle & Blade Refill $5.45 w/ S&S + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-15T04:37:43.512478Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Sony DualSense Wireless Controller Marathon Limited Edition + NordVPN 1-Year Standard Subscription (Digital Download) $84 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T04:37:43.512478Z",
-  "code": "not_checked",
   "public": false
  }
 ]
