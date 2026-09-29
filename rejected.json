@@ -1,5 +1,29 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "[Prime]84 Pcs Tile Town Jurassic World Gate Escape Magnetic Tiles $14.49 + Free S&H w/ Prime or $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T22:37:04.620699Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Hefty 13.3-Gallon Kitchen Touch Top Trash Can 2-Pack for $17 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T22:37:04.620699Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Helinox White Lite Cot at REI for $219.97 with free shipping for members",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T22:37:04.620699Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "REI Co-op Men's Merino Wool Lightweight Hiking Crew Socks (Size S) for $9 + pickup",
   "reason": "Not evaluated",
@@ -132404,30 +132428,6 @@
   "raw_title": "Taylor Digital Kitchen Timer w/ Light, Sound & Vibration Alerts $5.75 + Free Shipping w/ Walmart+ or on $35+",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T22:42:24.018783Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "adidas Men's or Women's F50 League Indoor Soccer Shoes for $34 + free shipping w/ $49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T22:36:59.551337Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$9.12 get $5 Walmart Cash Limit 2 Dulcolax Stool Softener Laxative Liquid Gel Capsules, Docusate Sodium 100 mg, 50 Count",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T22:36:59.551337Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "14\" Round Farberware Build-a-Board Bamboo Charcuterie Board w/ Lid $17.10 + Free Shipping w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T22:36:59.551337Z",
   "code": "not_checked",
   "public": false
  }
