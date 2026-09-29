@@ -1,5 +1,69 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Belifu 4-in-1 36-Mode 20-Intensity 3.8\" Display TENS EMS Unit Muscle Stimulator $23.99",
+  "reason": "Posted at $23.99, but Amazon showed $53.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T21:15:23.793001Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Bissell PowerForce Helix Bagless Upright Vacuum for $60 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T21:15:23.793001Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Red Shed 5 ft. Boo LED Web Halloween String Lights with 8 Settings, $5.99, Tractor Supply Company",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T21:15:23.793001Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Swiffer Heavy Duty Duster Kit and Refill Pack $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T21:09:44.879543Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Hawke & Co. Ember Shield Zip-up Tactical Hoodies 2-Pack $29.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T21:09:44.879543Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Round Trip Minneapolis to Denver Nonstop Airfares $64.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T21:09:44.879543Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Halloween Idea Costco Members In-Warehouse Price $22.49 Full-Sized M&M's, Snickers and More Chocolate Candy Bars, Variety Pack, 30-count",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T21:09:44.879543Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Red Shed battery powered halloween lights, $4.49, free pickup, Tractor Supply Company",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T21:09:44.879543Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "SMEG 50's Style Drip Coffee Machine 10-cup $149.99",
   "reason": "Not evaluated",
@@ -51637,14 +51701,6 @@
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-24T08:13:44.432603Z",
   "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Belifu 4-in-1 36-Mode 20-Intensity 3.8\" Display TENS EMS Unit Muscle Stimulator $23.99",
-  "reason": "Posted at $23.99, but Amazon showed $53.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-24T08:13:44.432603Z",
-  "code": "price_mismatch",
   "public": true
  },
  {
@@ -132644,118 +132700,6 @@
   "raw_title": "Vinotemp 51-Bottle Wine Cooler $599.99 free shipping Costco.com",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T21:16:15.612286Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "YMMV - LEGO Super Mario: Mario Kart – Wario & King Boo Building Toy for Kids - Buildable Car Toys W/Drifting, 72038, $27.96 w/coupon @ Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-15T21:10:51.426071Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Tablet Pillow Stand $22.79",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T21:10:51.426071Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Ekouaer Family Christmas Pajamas Matching Sets with Print Tops and Pants $12.27",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T21:10:51.426071Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Aochuan Smart XE 3-Axis Foldable Gimbal Stabilizer for Smartphones $23.39",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T21:10:51.426071Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Ecoflow Delta 3 Classic Portable Power Station w/ Solar Charge Cable for $499 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T21:10:51.426071Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Vesteel Stainless Steel Mixing Bowls w/ Lids Set of 5 for $18 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T21:10:51.426071Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Seventh Generation Dish Soap 6-Pack Only $10 Shipped on Amazon (Cheaper Than Prime Day!)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T21:10:51.426071Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Disney’s Zootopia 2 Two Pack - 3 inch Two Figure Pack of Nick Wilde & Nibbles Maplestick $2.74",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T21:10:51.426071Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Lenovo Chromebook 14\" Touchscreen Laptop 64GB Storage $319.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T21:05:26.994154Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Ekouaer Silk Pajama $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T21:05:26.994154Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Halloween Costume and Clothing at Fanatics: Up to 70% off + free shipping w/ $39",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T21:05:26.994154Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "12-Night Egypt & Greece Flight, Hotel, and Cruise Vacation for From $7,198 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T21:05:26.994154Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Nike Air Force 1 '07 Women's Shoes, Light British Tan/Hemp/Metallic Gold/Sail, $67.97, FS, Nike",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T21:05:26.994154Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "PUMA Bmw M Motorsport Vis2k Lace Up Mens White Sneakers Casual Shoes - $35.96 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T21:05:26.994154Z",
   "code": "not_checked",
   "public": false
  }
