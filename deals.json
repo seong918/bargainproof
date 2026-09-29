@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "6acb4364858d",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20075742-apple-magic-keyboard-folio-ipad-keyboard-and-case-for-ipad-a16-and-10th-generation-150?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
+  "title": "Apple Magic Keyboard Folio: iPad Keyboard and case for iPad (A16 and 10th Generation)",
+  "raw_title": "Apple Magic Keyboard Folio: iPad Keyboard and case for iPad (A16 and 10th Generation)$150",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0BJLFH8RC",
+  "deal_total_cents": 15000,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 15000,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 15000,
+  "amazon_url": "https://www.amazon.com/dp/B0BJLFH8RC",
+  "amazon_checked_at": "2026-09-29T18:10:28.693621Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0BJLFH8RC",
+  "image_url": null,
+  "published_at": "2026-09-29T18:10:24.592313Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "278cf83c824f",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20075724-roborock-qrevo-edge-2-robot-vacuum-and-mop-25-000pa-3-14-ultra-slim-849-99?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
