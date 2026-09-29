@@ -1,6 +1,318 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "12-LED Glocusent Rechargeable Book Reading Light w/ Adjustable Color Temp & Brightness (White, Dark Blue or Purple) $5.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T17:20:02.737561Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$178* | 123-gal Rubbermaid Decorative Outdoor Storage Cabinet (brown) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T17:20:02.737561Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$25.98* | Anker 622 Portable 5,000mAh MagSafe Foldable Power Bank w/ Stand & Side USB-C at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T17:20:02.737561Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$21.95* | Bandai Gundam Deathscythe Hell HGAC 1/144 Scale Model Kit at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T17:20:02.737561Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$14.99* | Bluey: Awesome Advent Calendar Book Bundle (Hardcover) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T17:20:02.737561Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$71.99* | 736-Pc LEGO Creator 3 in 1 Haunted Mansion Building Toy at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T17:20:02.737561Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$498* | Bosch 300 Series Fully Automatic Espresso and Coffee Machine at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T17:20:02.737561Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "RYOBI ONE+ 18V Cordless 5 in. Random Orbit Sander with 2.0 Ah Battery and Charger Kit $79.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T17:20:02.737561Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Round Trip San Jose CA - Long Beach CA Nonstop Airfares on Southwest Airlines $117.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T17:20:02.737561Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LEGO Icons Williams Racing FW14B & Nigel Mansell Model Car Set 799 piece $47.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T17:20:02.737561Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "TWO Palmolive Dish Soap 20oz Bottles Only $1.68 After CVS Rewards (84¢ Each)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T17:20:02.737561Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DEATH STRANDING DIRECTOR'S CUT (PC Game) $7.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T17:20:02.737561Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Round Trip Minneapolis - Denver or Vice Versa $64 Nonstop Airfares on Frontier Airlines BE (Limited Travel November - February 2027)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T17:20:02.737561Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$11.39 ac AMAZON Skeleton Bones Motorcycle Gloves for Men Women Touchscreen",
+  "reason": "Posted at $11.39, but Amazon showed $17.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T17:14:28.326109Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Refurb Sony WH-1000XM5 Wireless Noise Canceling Headphones $149.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T17:14:28.326109Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Kärcher K1800PS Electric Pressure Washer $129.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T17:14:28.326109Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Apple MacBook Pro 14.2\" M5 Pro 64GB RAM 2TB SSD $3,499.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T17:14:28.326109Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Refurb: Sony ULT WEAR WHULT900N/H Wireless Noise Canceling Bluetooth Headphones $69.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T17:14:28.326109Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "GO! Essentia Ionized Alkaline Water 12-Pack Only $3.68 Shipped on Amazon (Reg. $14)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T17:14:28.326109Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$22.95 FS Ace of Bricks on Ebay: Lego 71010 Series 14 Monster Minifigures Halloween - Skeleton Guy (SEALED)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T17:14:28.326109Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Energizer Max AA Alkaline Batteries (48-Pack) $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T17:14:28.326109Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "COSLUS 300ml Cordless Portable Rechargeable Water Dental Flosser $7.99 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T17:08:52.921310Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "BougeRV JuiceGo 240Wh Portable Power Station (Pure Sine Wave) $113.50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T17:08:52.921310Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Samsung 34\" Odyssey G85SD 3440x1440 175Hz OLED Curved Monitor (EDU/EPP Deal) $599.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T17:08:52.921310Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "CVS Photo Custom Mugs Promo Code Deal for $8 + free shipping on qualifying orders",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T17:08:52.921310Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Eyliden Toilet Brush Set with 40 Refills for $11 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T17:08:52.921310Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CyberPowerPC Gamer Xtreme Gaming Desktop - Intel Core Ultra 5 225F - GeForce RTX 5060 - 32GB DDR5 RAM - 1TB SSD - Windows 11 $1099.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T17:08:52.921310Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "TARGET PICK UP: Swiffer Heavy Duty Duster Kit and Refill Pack $22.99 ac, get $10 Target Gift Card",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T17:08:52.921310Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Toro 60V Flex-Force 10Ah Lithium-Ion Battery (66810) $169 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T17:08:52.921310Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC] $10.77* | 3 × 6' KabelDirekt 8K/4K High Speed HDMI Cable (Black/Blue) ($3.59 each) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T17:03:19.022874Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "1000 LM Rechargeable Work Light 2x180° Adjustable Slim Magnetic Flashlight $20.09 AC",
+  "reason": "Posted at $20.09, but Amazon showed $24.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T17:03:19.022874Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Gaiatop 0.6\" Ultra-Slim Rechargeable Electric Hand Warmer (2-Pack) $8.99",
+  "reason": "Posted at $8.99, but Amazon showed $14.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T17:03:19.022874Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Baseus Picogo 140W Smart Display 4-Port USB-C Charger $45.99",
+  "reason": "Posted at $45.99, but Amazon showed $65.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T17:03:19.022874Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Samsung 27\" Odyssey G50SF 1440p 180Hz QD-OLED Monitor (EPP/EDU Deal) $296.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T17:03:19.022874Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Halloween Welcome Garden Flag $4.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T17:03:19.022874Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Furinno JAYA 5-Tier Bookshelf Espresso $29.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T17:03:19.022874Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Fish Oil Omega-3 Supplements Small Softgels 1440mg 180Count Easy to Swallow\\nHigh EPA & DHA Fish Oil for Men & Women, Brain, Heart & Eye Health - $7.49 AC",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T17:03:19.022874Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Floral Kitchen Mats 2 Piece Set, Anti Fatigue Water-Absorbent Floor Rugs - $18.39 AC",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T17:03:19.022874Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nike Men's Nike Pre Montreal '17 Shoes (Cargo Khaki/Iced Jade/Summit White/Cobblestone, Sizes: 7-15) $54.97 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T17:03:19.022874Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$11.99* | BANZAI: Bump N' Bounce Body Bumpers, A Game of Bumping & Bopping at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-29T16:57:43.080198Z",
@@ -132268,294 +132580,6 @@
   "raw_title": "7-11 App $10 off $15 Pickup or Delivery",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T17:24:19.871826Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[NEW, Prime] $9.99 | TECH DECK Spongebob Sk8shop Bonus Pack Customizable Fingerboards Set at Amazon",
-  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-15T17:18:56.517427Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[Prime] $3.49* | Ms. Rachel Tummy Time Interactive Activity Bus Folding Play Mat w/ Baby Mirror at Amazon",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-15T17:18:56.517427Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[Prime] $2.99 | 6\" DC Comics Mr. Terrific Epic Strike Action Figure at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-15T17:18:56.517427Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "2 Fl Oz (Pack of 1) B BEWORTHS Sea Moss Liquid Drops with Black Seed Oil, Ashwagandha, Soursop $12.47",
-  "reason": "Posted at $12.47, but Amazon showed $19.98 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-15T17:18:56.517427Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Soothfeel Men's Quick Dry Lightweight Stretch Golf Pants with Pockets $17.54",
-  "reason": "Posted at $17.54, but Amazon showed $26.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-15T17:18:56.517427Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Insta360 X6 Standard Bundle 8K 50fps 140min Battery $612.40",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T17:18:56.517427Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "ROKR 449-PCS Dream Gift Factory Wooden 3D Puzzle $33.54",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T17:18:56.517427Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "IRIS 12.9-Quart Buckle Up Storage Bin, 6-Pack for $20 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T17:18:56.517427Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Sterilite 27-Gallon Storage Bins w/ Snap-On Lids 6-Pack for $48 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T17:18:56.517427Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Jordan Tote Bag (Natural Canvas) $15.97 + Free Shipping on $49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T17:18:56.517427Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "AROMA 1.5L / 6-Cup Electric Tea Kettle $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T17:18:56.517427Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Audible Prime Day: 4-Month Standard Trial for $0.99/mo",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T17:18:56.517427Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon ~ Mini Portable Sound Machine, 30 Sounds, 12 Color Night Lights $9.99",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-15T17:13:32.410753Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[AC] $86.85* | Dakine 365 Carry-On Roller LT 40L, Lightweight Travel Luggage, Carbon Heather at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-15T17:13:32.410753Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "ZEALOT S89 250W IPX6 Bluetooth Boombox 48000mAh TWS RGB Outdoor Speaker $159.50",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T17:13:32.410753Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Women's Vans Authentic Check Casual Shoes $30.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T17:13:32.410753Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "GL.iNet GL-BE3600 Slate 7 Wi-Fi 7 Travel Router VPN Touchscreen $107.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T17:13:32.410753Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Harley-Davidson Women Bateman 4\" Metal Footwear Leather (Black, Size 6~11) $49.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T17:13:32.410753Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Amazon Essentials Women's Lightweight Water Resistant Packable Hooded Puffer Coat $17.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T17:13:32.410753Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Active Enzyme Laundry Booster and Odor Remover 2-lb. Bag for $20 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T17:13:32.410753Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "XXL Noah & Paw Collapsible Travel Dog Crate w/ Pet Mat & 2 Storage Pockets (Various Colors) $88.70 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T17:13:32.410753Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$48.99 | Gothic 1 Remake (PlayStation 5) at Amazon",
-  "reason": "Posted at $48.99, but Amazon showed $45.82 when we checked — the post is stale",
-  "rejected_at": "2026-09-15T17:08:09.385897Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "KUHL Women's Wander Half-Zip Hooded Top $26.83",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T17:08:09.385897Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "KINGROON 10KG PLA Filament 1.75mm 10 Rolls Black $54.05",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T17:08:09.385897Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "DJI Osmo Nano Standard Combo 128GB Wearable Camera $301.70",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T17:08:09.385897Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Nike Women's Reactx Rejuven8 Slide Sandals $22.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T17:08:09.385897Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Head Shaver for Bald Men – 7D Floating rotary shaver, 5-in-1 Electric Razor for men with Magnetic Detachable Heads $20 AC",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T17:08:09.385897Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "TCL 55\" QM51L Series QD-Mini LED QLED 4K UHD HDR Smart Google TV (New 2026) - Local Dimming Pro, Halo Control System, High Brightness Pro~$398 @ Walmart~Free Shipping!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T17:08:09.385897Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Round Trip San Francisco to Barcelona Spain $554 Airfares on British Airways/American Airlines BE (Travel November - April 2027)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T17:08:09.385897Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[NEW] $22.49 | REVLON Perfect Match Hot Styler Heated Styling Brush, 1.75\" Barrel at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
-  "rejected_at": "2026-09-15T17:02:44.351110Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Reef Women's Cushion Vista Higher Sandals $24.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T17:02:44.351110Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Fjallraven 1960 Logo Langtradarkeps Trucker Hat S/M $11.83",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T17:02:44.351110Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Cert. Refurb: Creality Space Pi X4L Filament Dryer 4 Spool 3D Printer Dry Box $76.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T17:02:44.351110Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Hanes Men's Covered Waistband Boxer Briefs Super Value 10-Pack for $24 + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T17:02:44.351110Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "HP OmniBook 3 Ultra 5 16\" Touch Laptop for $480 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T17:02:44.351110Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Waterproof Mini Electric Shaver Just $9.99 on Amazon (Reg. $20)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T17:02:44.351110Z",
   "code": "not_checked",
   "public": false
  }
