@@ -1,5 +1,38 @@
 [
  {
+  "deal_id": "00197f368067",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20073369-prime-2-pack-150-sheet-amazon-basics-2-ply-flex-sheets-paper-towels-2-15-w-s-s-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "2-Pack 150-Sheet Amazon Basics 2-Ply Flex-Sheets Paper Towels w/ S&S",
+  "raw_title": "Prime: 2-Pack 150-Sheet Amazon Basics 2-Ply Flex-Sheets Paper Towels $2.15 w/ S&S + Free Shipping",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 215,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "sns",
+   "prime",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-29T11:15:55.184812Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "8a0b32a787b2",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20073780-casio-edifice-48mm-men-s-quartz-date-indicator-sapphire-crystal-wrist-watch-efb-108d-7av-90-free-s-h-at-amazon?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
