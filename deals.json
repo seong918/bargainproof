@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "f05dbff239d1",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20076276-5-count-1-59-oz-larabar-peanut-almond-protein-bars-lemon-3-21-w-s-s-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "5-Count 1.59-Oz Larabar Peanut & Almond Protein Bars (Lemon) w/ S&S + or on",
+  "raw_title": "5-Count 1.59-Oz Larabar Peanut & Almond Protein Bars (Lemon) $3.21 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 321,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "sns",
+   "prime"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-29T22:31:48.037140Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "b575e596a71f",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20074722-sns-ac-2-18-25-oz-stardrops-the-pink-stuff-miracle-toilet-gel-cleaner-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
