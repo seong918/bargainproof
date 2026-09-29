@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "2-Pack Zebra Pen F-301 Compact Retractable Ballpoint Pen (Black, 0.7mm) $4.36 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+3) to pass without a price check — needs multi-pack, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T12:17:39.615712Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "443 Pcs LEGO DREAMZzz Mateo’s Fire Chameleon Kids Toy (71492) $24.74 + + Free S&H at ebay",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:17:39.615712Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nike Women's Court Vision Low Shoes (Black/Black/White) $47.98 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:17:39.615712Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "GRACE KARIN Women's Boho Floral Button Down Fall Dressy Blouses Brown XXL $7.5",
   "reason": "Posted at $7.50, but Amazon showed $14.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-29T12:12:05.498523Z",
@@ -133388,54 +133412,6 @@
   "raw_title": "Costco Members - LeBron James Autographed Los Angeles Lakers Game-Used Brown Nike Shoes vs. Philadelphia 76ers with \"Prime Year 21\" Inscription $69.999.99 $69999.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T12:19:30.229499Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "TACVASEN Women's Long Sleeve Sun Protection Shirts UPF 80+ Workout Tops $9.99",
-  "reason": "Posted at $9.99, but Amazon showed $19.98 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-15T12:14:04.089772Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ZEALOT S89 250W IPX6 Bluetooth Boombox 48000mAh TWS RGB Outdoor Speaker $159.50 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:14:04.089772Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "DJI Osmo Nano Standard Combo 128GB Wearable Camera $301.70 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:14:04.089772Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ANENJI 3KW Hybrid Solar Inverter 3KW 110V/120VAC WIFI MPPT Off Grid $156.90 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:14:04.089772Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Insta360 X6 Standard Bundle 8K 50fps 140min Battery $612.40 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:14:04.089772Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$30 FINISH LINE Women's Vans Authentic Check Casual Shoes (fs at $75 or pick up where stock exists)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:14:04.089772Z",
   "code": "not_checked",
   "public": false
  }

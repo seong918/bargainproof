@@ -1,5 +1,38 @@
 [
  {
+  "deal_id": "bede6dbf0e34",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20073312-prime-sns-ac-19-74-100-count-solimo-medium-roast-coffee-pods-donut-style-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "100-Count Solimo Medium Roast Coffee Pods (Donut Style)",
+  "raw_title": "[Prime, SnS, AC] $19.74* | 100-Count Solimo Medium Roast Coffee Pods (Donut Style) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1974,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns",
+   "prime"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-29T12:17:39.615712Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "68e194d5f6c8",
   "source": "techbargains",
   "source_url": "https://www.amazon.com/gp/product/B0FMS854MN/ref=ox_sc_act_image_1?smid=ATVPDKIKX0DER&psc=1",
