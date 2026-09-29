@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "2-Pack Hi Clasmix Men's or Women's Merino Wool Cushioned Crew Hiking Socks (Black & White) $8.99, More + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T09:42:14.848288Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Funism Naruto Shippuden Blind Box Action Figure for $11 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T09:42:14.848288Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "REFURBISHED Citizen Promaster Dive Sea Date Eco-Drive Blue Watch 37 MM EO2028-06L $140",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T09:42:14.848288Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "REFURBISHED Citizen Eco-Drive Chandler Men's Calendar Black Dial Green 37mm Watch BM8180-03E $92",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T09:42:14.848288Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "REFURBISHED Citizen Men's Sport Military Date Eco-Drive Silver Watch 40MM AW1571-76L $122",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-29T09:36:48.061228Z",
@@ -133836,38 +133868,6 @@
   "raw_title": "Cordless Battery-Powered Pressure Washer for $90 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T09:44:10.686734Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[Prime] PINSPARK Men's 1/4-Zip Golf Pullover (various) $9 + Free Shipping",
-  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-15T09:38:59.432591Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "MediAcous Rechargeable LED Egg Night Light w/ Charging Base $9.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-15T09:38:59.432591Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Byliable 37\"x19\"x18\" Portable Lightweight Folding Camping Chair $19.49",
-  "reason": "Posted at $19.49, but Amazon showed $38.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-15T09:38:59.432591Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Vasagle LED Coffee Bar Cabinet w/ Power Outlets for $45 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T09:38:59.432591Z",
   "code": "not_checked",
   "public": false
  }
