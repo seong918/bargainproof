@@ -1,6 +1,142 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "24-Pack Granicell 1100mAh NiMH Rechargeable AAA Batteries $11.24 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs multi-pack, Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T14:26:43.195587Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Emerson Retro Portable Bluetooth Speaker w/ AM/FM Radio $17.69 & More + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T14:26:43.195587Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GTPOFFICE Big and Tall Office Chair Wide Seat & Armrests, Leather Executive Gaming Chair High Back,Soft Yet Supportive Resilient Foam $139.99",
+  "reason": "Posted at $139.99, but Amazon showed $169.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T14:26:43.195587Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "MuaMelop 7-Piece Patio Furniture Cushions Set, Replacement Outdoor Cushions for 4-Seat Patio Sectional $49.99",
+  "reason": "Posted at $49.99, but Amazon showed $99.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T14:26:43.195587Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Tempx Nyn 8-Second Adult & Kid Digital Thermometer $2.83",
+  "reason": "Posted at $2.83, but Amazon showed $3.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T14:26:43.195587Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Ewaiira 9.8\" Stainless Steel Sink Caddy $11.99",
+  "reason": "Posted at $11.99, but Amazon showed $19.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T14:26:43.195587Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Amazon Brand Solimo Donut Style Medium Roast Coffee Pods (100-Count) $20.09",
+  "reason": "Posted at $20.09, but Amazon showed $28.20 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T14:26:43.195587Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "SONGMICS Ergonomic Saddle Stool with Wheels $36.79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T14:26:43.195587Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "TuyLuxe IP65 Solar Pathway Lights w/ Retro Filament Bulb Design 8-Pack $25.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T14:26:43.195587Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "SONGMICS Umbrella Stand 7.7 x 7.7 x 21.7 Inches $25.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T14:26:43.195587Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Gosect Large Quilted Floral Cosmetic Bag $10.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T14:26:43.195587Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Boys Christmas Sweaters Pullover $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T14:26:43.195587Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "VASAGLE Bar Cart with Wheels $47.56",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T14:26:43.195587Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "SONGMICS Lockable Jewelry Cabinet Armoire with Mirror, Wall-Mounted $47.51",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T14:26:43.195587Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "JIFFY Peanut Butter 16-Pack 16.3oz $29.10",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T14:26:43.195587Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Popeyes Build Your Own Bundle for $20",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T14:26:43.195587Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ANSI Portable Outdoor Projector 4K Support with TOF Real-TimeNative 1080P Home Movie Projector $99.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T14:26:43.195587Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Garden Decor Hummingbird Solar Lanterns Outdoor Waterproof $7.98",
   "reason": "Posted at $7.98, but Amazon showed $15.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-29T14:21:07.407179Z",
@@ -133492,54 +133628,6 @@
   "raw_title": "Pawingcat Moving Bird Interactive Cat Toy with Catnip Toys $11.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T14:31:32.914248Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "3D Contoured Sleep Mask with Earplug Keeper, $3.51 w/ coupon and code",
-  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-15T14:26:08.725085Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Sofirn SP35T 3800lm Tactical LED Flashlight, 3800 Max Lumens, USB-C Rechargeable, 21700 Battery, free s&h; $20.67",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T14:26:08.725085Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$16.99 | 2-Pk Motorola T110 Talkabout 16-Mile FRS Two-Way Radios at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T14:26:08.725085Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "1TB Centon MP 1TB Internal Solid State Drive $99.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T14:26:08.725085Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "RVPOZWER 300W N-Type Monocrystalline Solar Panel 25% Efficiency $90 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T14:26:08.725085Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Round Trip New York - Kauai Hawaii (The Garden Isle) or Vice Versa $435 Airfares on Alaska/Hawaiian Airlines BE (Travel October - March 2027)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T14:26:08.725085Z",
   "code": "not_checked",
   "public": false
  }
