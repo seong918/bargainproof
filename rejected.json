@@ -1,6 +1,118 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "DAZONGE 25PCS Halloween Magnetic Stickers Bat Garage Door Decorations $6.99",
+  "reason": "Posted at $6.99, but Amazon showed $13.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T15:56:15.676891Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Goldfish 6.6oz Flavor Blasted Xtra Cheddar Cheese Crackers $1.66",
+  "reason": "Posted at $1.66, but Amazon showed $2.22 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T15:56:15.676891Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Antaha 1.2lbs 11000Pa USB-C Rechargeable Cordless Handheld Vacuum $14.49",
+  "reason": "Posted at $14.49, but Amazon showed $28.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T15:56:15.676891Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Balivsa Womens Tops Waffle Knit V-Neck Long Sleeve T-shirts Button Down with Pockets Tunic - $6.49 AC",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T15:56:15.676891Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$10.97: Blow-Up Vampire Bat Yard Inflatable, Black and Purple, 3.5', Halloween by Way To Celebrate at Walmart",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T15:56:15.676891Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$6.48 BJs Wholesale: Skittles Gummies Gummy Candy Variety Pack, Bulk Box, 9 ct.37.8 oz",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T15:56:15.676891Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Round Trip Seattle to Jakarta Indonesia $709 Airfares on Korean Air BE with 1 Free Checked Bag (Travel November - April 2027)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T15:56:15.676891Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$10.99 acs BJs Wholesale (In club or Pick up - free for select members) Oreo Fall Treats Orange Creme Sandwich Cookies, Glow In The Dark Packaging, Snack Packs, 40 ct./1.02 oz.",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T15:56:15.676891Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2 Pack Solar Lanterns Outdoor Waterproof - $14.49 after coupon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T15:56:15.676891Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Steel Titanium-Coated Bypass Pruning Shears w/ 3/4\" Cut Capacity $9.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T15:50:36.773284Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$6.39 AMAZON JOYIN 100 Pcs 8\" Glow sticks Bulk Party Pack, Neon Glow in the Dark Party Supplies, Light Up Necklaces and Bracelets with Connectors for Halloween,",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T15:50:36.773284Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Prison on Fire 1 & 2 (4K UHD) $31.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T15:50:36.773284Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Fake Lottery Scratch Tickets Prank Gag Gift for $5 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T15:50:36.773284Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$11.99 acs BJs WHOLESALE In Club or Pick up (Free for Select Members) 2.8lbs Butterfinger, Crunch, 100 Grand, Kinder & More Variety Candy, 140 ct.",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T15:50:36.773284Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "VEEKTOMX 10000mAh Mini Power Bank, 22.5W Fast Charger for iPhone Android $9.99 AC + Free Shipping",
   "reason": "Posted at $9.99, but Amazon showed $29.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-29T15:45:02.418396Z",
@@ -133078,141 +133190,5 @@
   "rejected_at": "2026-09-15T15:57:50.635054Z",
   "code": "duplicate",
   "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "The Big Red One Blu Ray $8.49 Amazon.com",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-15T15:52:27.882412Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Yuhuo 3-Mode 4-Level Heat 4000mAh Rechargeable Battery Cordless Heating Pad Lower Back Massager $16.41",
-  "reason": "Posted at $16.41, but Amazon showed $54.47 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-15T15:52:27.882412Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Batman Ninja vs. Yakuza League Blu-ray + Digital HD $8.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T15:52:27.882412Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "The Indispensable Calvin and Hobbes: A Calvin and Hobbes Treasury (Volume 11) Kindle eBook $1.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T15:52:27.882412Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Google Pixel 11 Unlocked Smartphone Gemini 256GB $844.71",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T15:52:27.882412Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Numi Organic Gunpowder Green Tea, 100 Green Tea Bags $19.80",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T15:52:27.882412Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "TCL Class S55LR Series 55\" 4K HDR LED UHD Smart Roku TV for $268 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T15:52:27.882412Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Seventh Generation Dishwasher Detergent Packs 40-Count Just $7 Shipped on Amazon (Reg. $15)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T15:52:27.882412Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Teva Men's Grandview Max Vent Hiking Boot - $81.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T15:52:27.882412Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "(120 Capsules) Berberine Supplement HCl 500mg with Ceylon Cinnamon for Metabolism Support $15.95",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T15:52:27.882412Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "3M Performance Plus Duct Tape 8979, 1.88x25 yard $12.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T15:52:27.882412Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Teva Men's Hurricane Daybreaker Mid Hiking Boot - $74.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T15:52:27.882412Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Target Has Intex Brand Air Mattresses On Clearance. Prices Start At $23.99. Available For Pickup And Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T15:52:27.882412Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Men's Linen Cargo Shorts for 2 for $10 + $18 shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T15:47:05.018405Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Serta Leighton Mid-Back Memory Foam Home Office Desk Chair w/ Chrome Nailheads (Stoneware Beige) $64.99 + Free Shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T15:47:05.018405Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "4-Pack: JoyJolt 22oz Triple Insulated Water Bottle with Included Flip & Sport Straw Lids (Blue or Pink) $19.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T15:47:05.018405Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "CUSHIONAIRE Lute Genuine Suede Leather Slip On Clogs for Women Indoor and Outdoor Cushioned Footbed, Multiple Colors - $49 + Free Shipping $49.9",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T15:47:05.018405Z",
-  "code": "not_checked",
-  "public": false
  }
 ]

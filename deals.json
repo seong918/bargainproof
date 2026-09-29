@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "77ad2bd330d3",
+  "source": "techbargains",
+  "source_url": "https://www.amazon.com/gp/product/B08F4YX8MK/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+  "title": "Bestmassage Full Body Electric Shiatsu Massage Chair Recliner w/ Foot Rollers",
+  "raw_title": "Bestmassage Full Body Electric Shiatsu Massage Chair Recliner w/ Foot Rollers $499.99",
+  "merchant": "amazon",
+  "buy_url": "https://www.amazon.com/gp/product/B08F4YX8MK/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+  "deal_total_cents": 49999,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 49999,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 49999,
+  "amazon_url": "https://www.amazon.com/dp/B08F4YX8MK",
+  "amazon_checked_at": "2026-09-29T15:56:27.914944Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": null,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B08F4YX8MK",
+  "image_url": null,
+  "published_at": "2026-09-29T15:56:15.676891Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "e5cd795dddf7",
   "source": "techbargains",
   "source_url": "https://www.amazon.com/gp/product/B009W28UQI/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
