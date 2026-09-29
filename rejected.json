@@ -1,5 +1,29 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "All-Clad HA1® Nonstick, 2-Piece Fry Pan Set, Induction Ready $69.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T10:47:48.611411Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "7-Eleven Large Coffee for $1",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T10:47:48.611411Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Cincom Cordless Air Compression Recovery System for $450 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T10:47:48.611411Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Milwaukee 150-lb. Capacity Foldup Hand Truck for $38 + free shipping",
   "reason": "Not evaluated",
@@ -133796,22 +133820,6 @@
   "raw_title": "Somndeep Contactless Smart Sleep Tracker for $100 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T10:49:59.748515Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "1Mii B04 Bluetooth 5.4 Car Adapter $8.50 + Free Shipping w/ Prime or orders $35+",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-15T10:44:34.504715Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Taco Bell Naked Chicken Chalupa + Medium Drink for $3",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T10:44:34.504715Z",
   "code": "not_checked",
   "public": false
  }
