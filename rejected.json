@@ -1,5 +1,29 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Milwaukee 150-lb. Capacity Foldup Hand Truck for $38 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T10:42:11.563112Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Phomemo D422S Bluetooth Shipping Label Printer for $260 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T10:42:11.563112Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Ozark Trail Men's Classic Fit Windbreaker Jacket with Hood $10.35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T10:42:11.563112Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "45\" Lewis & Wayne Metal Freestanding Bird Bath & Garden Trellis (Floral Butterfly) $10.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
@@ -133788,14 +133812,6 @@
   "raw_title": "Taco Bell Naked Chicken Chalupa + Medium Drink for $3",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T10:44:34.504715Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "iZEEKER 4K Dash Cam Front and Rear Inside 3 Channel $52.19",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T10:39:09.773961Z",
   "code": "not_checked",
   "public": false
  }
