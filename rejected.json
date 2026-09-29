@@ -1,5 +1,53 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Berberine Supplement Drops with Ceylon Cinnamon, Milk Thistle, Bitter Melon $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $17.55 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T13:13:44.058216Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Katerk 28000RPM 6-Speed Cordless Rotary Tool Kit with 70x Accessories $19.99",
+  "reason": "Posted at $19.99, but Amazon showed $39.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T13:13:44.058216Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "CORE Equipment 6 Person Instant Cabin Tent $199.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T13:13:44.058216Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "18\"x30\" Dancing Skeleton with Glow in the Dark Eyes Bone Parlour Halloween Coir Doormat $13.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T13:13:44.058216Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nike Men's Downshifter 14 Road Running Shoes (Black/Dark Smoke Grey/Iron Grey/Metallic Dark Grey, Sizes: 6-14) $49.97 + Free Shipping on $50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T13:13:44.058216Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Costco Members Halloween Candy $19.99 in club only HERSHEY'S Full Size Candy Bars Variety Pack, Milk Chocolate Candy, 30 pk.",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T13:13:44.058216Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Vornado VH204 Indoor Heater (Alabaster) $14.99",
   "reason": "Not evaluated",
@@ -133613,38 +133661,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T13:18:04.258168Z",
   "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "SwissGear Energie Expandable Hardside 24\" Spinner Luggage (Black) $54",
-  "reason": "Posted at $54.00, but Amazon showed $54.49 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-15T13:12:40.738973Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "The Unofficial Ghibli Cookbook for $24 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T13:12:40.738973Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Autel 2026 MaxiIM KM100/KM100X Key Fob Programmer: 60s Key Generation, OBD IMMO Learning $243 + Free S/H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T13:12:40.738973Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Trophy Tracker Men's Coastal Fish Structured 6-Panel Microfiber Stretch Mesh Back Cap (S/M) $4.19 + Free S&H w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T13:12:40.738973Z",
-  "code": "not_checked",
   "public": false
  }
 ]
