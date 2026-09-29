@@ -1,6 +1,94 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Solar 4500V Bug Zapper w/ 10W Solar Panel & 4000mAh Battery $24.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T17:36:51.456064Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "BLACK+DECKER Gel Lumbar Cushions 2-Pack $24.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T17:36:51.456064Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "SONGMICS Collage Picture Frames, Set of 10 $19.16",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T17:36:51.456064Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Shark Wandvac WV200 Cord-Free Handheld Vacuum $37.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T17:36:51.456064Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "OUKITEL WP500 5G Ultra Thermal Imaging Rugged Phone 12GB/1TB $699.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T17:36:51.456064Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Lifetime Microsoft Office 2024 for 2 PCs (Windows, Digital Delivery) + 10 Excel Templates Bundle $10",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T17:36:51.456064Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Sam's Club 1-Year Membership $25.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T17:31:13.584761Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Squier Sonic Stratocaster Electric Guitar Pack w/ Fender Frontman 10G Amp for $280 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T17:31:13.584761Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Carhartt Men's Sawyer Camo Hoodie (Oat Milk) $34.99 + Free Shipping on $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T17:31:13.584761Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Posh Tech Silicone Apple Watch Replacement Band (Various Colors) from $1.38 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T17:31:13.584761Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$1.99 | Tokyo Express: A Novel by Seicho Matsumoto (Kindle ebook)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T17:31:13.584761Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "6\" Fiskars Kids Super Scissors w/ PowerCut Technology (Blue) $2.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-29T17:25:38.986674Z",
@@ -15778,14 +15866,6 @@
  {
   "source": "dealcatcher",
   "raw_title": "YMMV | Weber Instant Read Thermometer (In-Store Only) $6.75",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-28T12:19:47.517277Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Sam's Club 1-Year Membership $25.00",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-28T12:19:47.517277Z",
   "code": "not_checked",
@@ -132404,142 +132484,6 @@
   "raw_title": "Tribesigns Corner Shelf, Modern 5-Tier Wall Corner Bookshelf $69.75",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T17:40:24.260973Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "SUZUME 24-Piece 180° Flex-Head 72-Tooth Ratcheting Wrench Set w/ Organizer (Metric & SAE) $58.73",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T17:35:02.327559Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Retro Aviator Sunglasses $8.50",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T17:35:02.327559Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "FNTCASE for iPhone 18 Pro Max/ 17 Pro Max Case $14.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T17:35:02.327559Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Zahler Chapter Six Apple Cider Vinegar Gummies 60-Count $0.98",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T17:35:02.327559Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Color Wow Dream Coat Shiny Hair Anti-Frizz Supernatural Spray 1.7-Oz $6.65",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T17:35:02.327559Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "ZMISHIBO 20in RGB Low Profile 6-Speed Ceiling Fan w/ Light $60.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T17:35:02.327559Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "M MAELREG Men's Dry-Fit Brushed Performance 1/4-Zip Golf Pullover (S-3XL) $17.67",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T17:35:02.327559Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "RXBAR Protein Bars, Blueberry, 12-Count $15.95",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T17:35:02.327559Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Metal Earth Marvel Deadpool 3D Metal Model Kit for $7 + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T17:35:02.327559Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Turn a $2 Bag of Beans into Easy Charro Beans for Meal Prep!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T17:35:02.327559Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "CLINIQUE by Clinique , Moisture Surge 100H Auto-Replenishing Hydrator --125ml/4.2oz $42.11",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T17:35:02.327559Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[Prime] $4.49 | 11-Piece Vida the Vet Clinic Treehouse Playset w/ 2 Action Figures, Furniture & Accessories at Amazon",
-  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-15T17:29:41.504530Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[Prime] $1.49* | Unicorn Academy: Ava Doll & Color-Change Leaf Stall Playset w/ 15 Accessories at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-15T17:29:41.504530Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Dreame Aqua Plus Bone Conduction Headphones, Open-Ear Headphones, IP68 $59.99",
-  "reason": "Posted at $59.99, but Amazon showed $79.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-15T17:29:41.504530Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "TACVASEN Women's Long Sleeve Sun Protection Shirts UPF 80+ $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T17:29:41.504530Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "*HOT* Otterbox Phone Cases from $3.99 Shipped (+ $10 Off for New Customers)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T17:29:41.504530Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Costway Patio Black Fabric Loveseat with Built-in Tempered Glass Table $83 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T17:29:41.504530Z",
   "code": "not_checked",
   "public": false
  }
