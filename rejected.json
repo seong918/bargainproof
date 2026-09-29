@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$45 | 572-Piece LEGO Disney: Moana 2 - Kakamora Barge (43258, 2025) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T20:07:56.859800Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Samsung 32\" Odyssey G55C 1440p 165Hz 1ms HDR10 1000R Curved VA Gaming Monitor (EDU/EPP Deal) $179.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T20:07:56.859800Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Citizen Zenshin Three-Hand x Hypebeast $312.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T20:07:56.859800Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "DJI Osmo Action 5 Pro Adventure Combo (Certified Refurbished) $359.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T20:07:56.859800Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Middle-earth: The Shadow Bundle $6.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T20:07:56.859800Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Reebok Men’s Insulated Softshell Athletic-Inspired Style Winter Jacket $34.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T20:07:56.859800Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$94.80 | Lacoste Men's Classic Laptop Pocket Backpack, Black, One Size at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-29T20:02:21.049985Z",
@@ -132572,38 +132620,6 @@
   "raw_title": "Chesley Water Resistant Tall Round Toe Zippered Boots $35.98 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T20:11:25.798017Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[Prime] $79.99 | 2-Pack Blink Solaris 2K+ (newest model) at Amazon",
-  "reason": "Community score too low (+2) to pass without a price check — needs multi-pack, Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-15T20:06:01.446799Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "iWALK LinkPod Plus 13500mAh PD 20W Portable Charger $24.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T20:06:01.446799Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "bubly Sparkling Water 8-Pack Only $3 Shipped on Amazon",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T20:06:01.446799Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Visible Wireless $480 off iPhone 18 Pro and Max (FOR EXISTING CUSTOMERS TOO! thru monthly credits) $719",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T20:06:01.446799Z",
   "code": "not_checked",
   "public": false
  }
