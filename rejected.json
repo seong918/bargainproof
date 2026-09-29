@@ -1,5 +1,45 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Cartoon Face Sticker Decal 4-Pack: 69 cents + free shipping w/ $25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T11:04:40.976660Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Holland America Line 10-Night Alaska Cruise & Denali Tour for From $3,888 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T11:04:40.976660Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bulova super Seville $486.5",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T11:04:40.976660Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "1600 DPI Memzuoix 2.4G Wireless Vertical Ergonomic Mouse (Pink) $9.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T10:53:24.029111Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon Resale (Used - Like New) All-Clad HA1® Nonstick, 2-Piece Fry Pan Set, Induction Ready $45.49",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T10:53:24.029111Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
   "source": "slickdeals",
   "raw_title": "All-Clad HA1® Nonstick, 2-Piece Fry Pan Set, Induction Ready $69.99",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
@@ -133685,142 +133725,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T11:05:45.944882Z",
   "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$22.91 - $31.29 Amazon Skechers Men’s Zinger 2.0 The Arwen Retro Court Shoes (size 10.5, 11.5 and 13 only)",
-  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-15T11:00:35.338441Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Bedsure HeatX Heated Duvet Insert $44.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T11:00:35.338441Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "9-Inch Thermal Laminator Machine with 30 Sheets $21.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T11:00:35.338441Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "11-Night China & Hong Kong Flight, Hotel, and Tour Vacation for From $2,998 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T11:00:35.338441Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Fanatics Free Shipping Promo Code: Free Shipping w/ $39+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T11:00:35.338441Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Open Box: WOLFBOX MF50 Electric Air Duster-Mini Blower Turbo Fan for PC, Toys and Car $19 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T11:00:35.338441Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$10.99 | Amazon Essentials Women Classic-fit Polar Vest at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T11:00:35.338441Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$14.99 | Amazon Essentials Men Mid-weight Puffer Vest at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T11:00:35.338441Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$16.99 | 4-Pack 30ml Pet Corrector Dog Trainer, Help Stop Unwanted Behavior at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T11:00:35.338441Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Uber - Two $50 eGift Cards $80",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T11:00:35.338441Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "COWSAR 3.2 Cu.Ft Mini Fridge with Freezer $118.79",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T10:55:24.383190Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Portable Handheld Fan $5.93",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T10:55:24.383190Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "PATIOPIA Swaying Solar Halloween Lights 4-Pack 40 LED $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T10:55:24.383190Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Watches Flash Sale at Macy's: 50% to 70% off + free shipping w/ $39",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T10:55:24.383190Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "5kg 1.75mm ELEGOO 3D Printer Filament: Rapid PTEG/PLA/PLA+ from $38 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T10:55:24.383190Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Barbie Malibu Pop-Up Play Tent w/ Peek Through Window $12.62 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+3) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-15T10:49:59.748515Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Somndeep Contactless Smart Sleep Tracker for $100 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T10:49:59.748515Z",
-  "code": "not_checked",
   "public": false
  }
 ]
