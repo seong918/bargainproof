@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "d53a3bac6060",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20072682-yaberauto-car-battery-jump-starter-5500a-portable-car-jump-starter-battery-pack-10-0l-gas-9-0l-diesel-12v-car-battery-jump-starter-portable-jump-box-with-jumper-cables-33-22?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
+  "title": "YaberAuto Car Battery Jump Starter 5500A Portable Car Jump Starter Battery Pack (10.0L Gas/9.0L Diesel), 12V Car Battery Jump Starter Portable, Jump Box with Jumper Cables",
+  "raw_title": "YaberAuto Car Battery Jump Starter 5500A Portable Car Jump Starter Battery Pack (10.0L Gas/9.0L Diesel), 12V Car Battery Jump Starter Portable, Jump Box with Jumper Cables $33.22",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0FNCXKC43",
+  "deal_total_cents": 3322,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 4679,
+  "amazon_coupon_cents": 1357,
+  "amazon_effective_cents": 3322,
+  "amazon_url": "https://www.amazon.com/dp/B0FNCXKC43",
+  "amazon_checked_at": "2026-09-29T02:35:08.462348Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": -1,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0FNCXKC43",
+  "image_url": null,
+  "published_at": "2026-09-29T02:35:04.179274Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "91abf7ac12f9",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20072655-boss-dd-8-digital-delay-guitar-effects-pedal-168-88?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",

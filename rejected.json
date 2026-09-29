@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "WOLFBOX MF60 Cordless Electric Air Duster w/ 3-Speed & 110,000 RPM $28.79 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T02:35:04.179274Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "medium cotton crew neck undershirt, 3 Pack, $5.67",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T02:35:04.179274Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bosch 18V 1/2\" Brushless Cordless Drill/Driver Kit w/ Battery & Charger $59.00 + Free Store Pickup at Lowe's or Free Shipping on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T02:35:04.179274Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ainfox 10' Offset Cantilever Patio Umbrella w/ 360° Rotation & 5-Level Tilt (Gray) $89.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T02:35:04.179274Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$329.99 + Free Shipping | Powerhorse® Full Trash 2\" Water Pump Extended Run 183 GPM (750126)",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-29T02:29:28.084247Z",
@@ -133020,30 +133052,6 @@
   "raw_title": "14.17\" to 23.62\" PanPanPal Expandable Under-Cabinet Pot & Pan Organizer w/ 10 Adjustable Dividers (Black) $13.19 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-15T02:38:59.835771Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – PXBNIUYA 108-LED Fairy Tree Lamp - $12.99–$29.99 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-15T02:33:29.173327Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – Parlovable Women's Memory Foam House Slippers - $7.49–$12.49 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-15T02:33:29.173327Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Facecozy Arm Warmers for Women, Long Fingerless Gloves with Thumb Hole $4.99",
-  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
-  "rejected_at": "2026-09-15T02:33:29.173327Z",
   "code": "low_score",
   "public": true
  }
