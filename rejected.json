@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Amazon – O-Maraco 72-Pack Christmas Gift Tags - $2.99 w/ Code",
+  "reason": "Community score too low (+2) to pass without a price check — needs multi-pack, promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T01:27:44.406158Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – YOUDENOVA 2-Pack Wall Hat Organizers - $7.49 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T01:27:44.406158Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Coostar Men's Slip-On Canvas Loafers - $27.99 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T01:27:44.406158Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Uineer Wireless Vertical Ergonomic Mouse - $13.50 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T01:27:44.406158Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "X-thud Men's Quick Dry Long Sleeve Hoodie (Navy Blue or Black) $4.89 (30% Off) + Free Shipping w/ Prime",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T01:27:44.406158Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Nike Men's V5 Runner Shoes for $49 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T01:27:44.406158Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon – Fezodo Gold Initial Ring - $3.99 w/ Code",
   "reason": "Community score too low (+0) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-29T01:22:07.741464Z",
@@ -132876,30 +132924,6 @@
   "raw_title": "Ozark Trail Men's Relaxed-Fit Swim Trunks (Select Colors) from $4.16 + Free Shipping w/ Walmart+ or on $35+",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T01:33:00.057080Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Bed Rail Bumpers for Toddlers, U-Shaped 3 Ft Kid Bed Bumpers, Gray $17.99",
-  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
-  "rejected_at": "2026-09-15T01:27:28.180041Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "70.9\" Auto Face Tracking Tripod 360° Rotation w/Light for iPhone & Android,No App Needed,w/ Remote Control $24.99",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-15T01:27:28.180041Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Ozark Trail 50F Rectangular Sleeping Bag (33\" x 75\") $12.97 + Free Shipping w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T01:27:28.180041Z",
   "code": "not_checked",
   "public": false
  }
