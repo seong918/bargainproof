@@ -1,6 +1,102 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$49.99* | Corsair Sabre v2 PRO Ultralight FPS Wireless Gaming Mouse at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T12:34:25.309289Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Vigrue 3-in-1 140A 110V Flux Core/Stick/Lift MIG Welding Machine with Welding Mask & Gloves $69.99",
+  "reason": "Posted at $69.99, but Amazon showed $99.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T12:34:25.309289Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ekouaer Long Sleeve Knit Ribbed Lounge Set $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:34:25.309289Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "RVPOZWER 200W Solar Panel $64.10",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:34:25.309289Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Marvmys Women's Wide Leg Cotton Pants $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:34:25.309289Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ekouaer 2 Piece Women Silk Pajama Sets $11.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:34:25.309289Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Chinese Jacket Women Mandarin Collar $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:34:25.309289Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Round Trip New Orleans to Dallas Nonstop Airfares on Southwest Airlines BE $117.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:34:25.309289Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "US Mint 1968 S to 2009 Complete 42-Year Proof Set Collection for $540 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:34:25.309289Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Tangkula 8 FT Halloween Animated Standing Skeleton Grim Reaper with Sickle, $59.84, Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:34:25.309289Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$34.19: Yexmas 9FT Halloween Inflatable with TRICKS Sign & Pumpkins, LED Lights at Walmart.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:34:25.309289Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Sunny Health & Fitness Smart Row-N-Ride Squat Assist Trainer (NO. 077SMART) $49.99 + Free Shipping w/ Prime or $6 Fee per Order",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:34:25.309289Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "3-Speed Wolfbox MF60 Electric Compressed Air Duster w/ 5 Nozzles $29 + Free S&H $28.99",
   "reason": "Community score too low (+-2) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-29T12:28:49.346341Z",
@@ -45275,14 +45371,6 @@
   "source": "techbargains",
   "raw_title": "Belifu 4-in-1 36-Mode 20-Intensity 3.8\" Display TENS EMS Unit Muscle Stimulator $23.99",
   "reason": "Posted at $23.99, but Amazon showed $53.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-24T08:13:44.432603Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Vigrue 3-in-1 140A 110V Flux Core/Stick/Lift MIG Welding Machine with Welding Mask & Gloves $69.99",
-  "reason": "Posted at $69.99, but Amazon showed $99.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-24T08:13:44.432603Z",
   "code": "price_mismatch",
   "public": true
@@ -133348,94 +133436,6 @@
   "raw_title": "Flashforge AD5X Multi-Color 3D Printer w/ Auto Leveling for $210 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T12:35:44.515161Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Dr. Martens Womens Amaayah Hi Leather Bex Riding Boots Butterscotch - $99.99 + Free Shipping",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-15T12:30:21.202113Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Dockers Men's Bardwell Athletic Sneakers $29.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:30:21.202113Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Logitech MX Keys S Combo Wireless Keyboard & Mouse w/ Palm Rest $143.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:30:21.202113Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Certified Refurbished Ninja CFP105 DualBrew Hot & Iced Coffee Maker $70.83",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:30:21.202113Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Hugo Boss Sunglasses (Various Styles) $38.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:30:21.202113Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Member’s Mark Women’s Shacket $13.98",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:30:21.202113Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Benebone Wishbone Dental Chew 2-Pack Small $12.79",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:30:21.202113Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "L.L.Bean Men's Bean's Down Hooded Colorblock Jacket $84.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:30:21.202113Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "T-Mobile Tuesdays: Win $5,000! ~ 9/22/26",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:30:21.202113Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "AOVOPRO AP07 350W 36V 10.5Ah Electric Scooter 19mph 23mile Range Double Shock $151 + Free S/H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:30:21.202113Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Nike Women's Reactx Rejuven8 Slide Sandals (Blue) $22.97 + Free Shipping on $49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:30:21.202113Z",
   "code": "not_checked",
   "public": false
  }
