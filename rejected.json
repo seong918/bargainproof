@@ -1,5 +1,77 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "VEEKTOMX 10000mAh Mini Power Bank, 22.5W Fast Charger for iPhone Android $9.99 AC + Free Shipping",
+  "reason": "Posted at $9.99, but Amazon showed $29.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T15:45:02.418396Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Xroam Self Adhesive Linen Fabric Repair Tape Kit, 4\"x79\" Upholstery Tape (Various Colors) STARTING at $3.99 AC",
+  "reason": "Posted at $3.99, but Amazon showed $7.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T15:45:02.418396Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Tecrun 8-in-1 Pain Relief Flat & High Arch Support Plantar Fasciitis Insole $10.98",
+  "reason": "Posted at $10.98, but Amazon showed $21.97 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T15:45:02.418396Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Humble Bundle Indie Fears Bundle for From $13",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T15:45:02.418396Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Amazon Basics Sandwich Bags 100-Count Box Only $2 Shipped",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T15:45:02.418396Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CVLIFE Fillet Knife with Leather Sheath, 7.2 Sharp 10Cr15Mov Steel Blade - $19.49 AC",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T15:45:02.418396Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$34.99: Firstness 2.4GHz RC Halloween Pumpkin Spider Car, 360° Rotation, LED Lights, Ages 3+ at Walmart.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T15:45:02.418396Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Travel Esstentials - Cruise Approved Power Strip with 5ft Retractable Cord - $9.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T15:45:02.418396Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$80 BJs Wholesale Disney Stitch Halloween Color Changing Light Up Hut Set with Music, 9 Pc",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T15:45:02.418396Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Monopoly Batman Edition Board Game for $11 w/ Prime + free shipping",
   "reason": "Not evaluated",
@@ -133140,78 +133212,6 @@
   "raw_title": "CUSHIONAIRE Lute Genuine Suede Leather Slip On Clogs for Women Indoor and Outdoor Cushioned Footbed, Multiple Colors - $49 + Free Shipping $49.9",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T15:47:05.018405Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Furshus 120L Dual-Compartment Laundry Hamper w/ Wheels & Removable Liner (Gray) $22.14 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-15T15:41:40.230863Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Desloc K120 15000mAh Rechargeable Battery Fingerprint Keypad WiFi Smart Lock $89.99",
-  "reason": "Posted at $89.99, but Amazon showed $179.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-15T15:41:40.230863Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Roborock Qrevo Pro Robot Vacuum 7000Pa Hot Water Mop Washing Certified Refurbished $312.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T15:41:40.230863Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Tiny Love Tiny Rockers Toddler Accordion Toy $8.24",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T15:41:40.230863Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "The North Face Women's Osito Lux Jacket $49.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T15:41:40.230863Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Linenspa Ventilated Gel Memory Foam Bed Pillow for $5 + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T15:41:40.230863Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Baskin-Robbins Mix & Match Deals for 3 for $15 + shipping varies",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T15:41:40.230863Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Bruno Marc Men's KnitFlex SmartCraft+ Wingtip Mesh Oxford Sneakers $25.99 Shipped",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T15:41:40.230863Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Carcassonne Board Game $14.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T15:41:40.230863Z",
   "code": "not_checked",
   "public": false
  }
