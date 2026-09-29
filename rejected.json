@@ -1,6 +1,110 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[NEW] $22.03 | Master Lock ProSeries 4-Digit Combination Padlock, Brass Lock 1177D at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T18:04:49.420683Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Progresso Pitmaster Steak & Potato with Roasted Vegetables Soup, 18.5 oz x 2~$3.71 After Multibuy & S&S @ Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T18:04:49.420683Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$79.95* | LEGO Star Wars: SMART Play Millennium Falcon at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T18:04:49.420683Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Abominable 4K + [Blu-ray] + Digital $9.94 Amazon.com",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T18:04:49.420683Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Geek Lighting Men's Sherpa Lined Flannel Shirt Jacket $19.99",
+  "reason": "Posted at $19.99, but Amazon showed $39.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T18:04:49.420683Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "PrinStory Women's Lightweight Soft 3/4 Sleeve Bathrobe $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T18:04:49.420683Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Bona Spray Mop Air - Includes Multi-Surface Floor Cleaner Concentrate and Microfiber Pad $14.24",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T18:04:49.420683Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Gaialoop Fishing Tool Kit 7-Piece $14.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T18:04:49.420683Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Nike Men's or Women's Pre Montreal '17 Shoes for $55 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T18:04:49.420683Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M18 18-Volt Lithium-Ion Cordless Combo Kit (8-Tool) with (2) Batteries Charger $649",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T18:04:49.420683Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Trudeau Nesting Serving Bowls, 2-piece $25.99 Free Shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T18:04:49.420683Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Travelzoo Members] Fully Renovated Row NYC Up To 55% (Rates From $105), Reduced Destination Fee, Free Citi Bike Day Pass & More",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T18:04:49.420683Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Greenworks PowerAll 24V 12\" String Trimmer & Handheld Blower Combo Kit $99.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T18:04:49.420683Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Ekouaer Lounge Sets for Women Long Sleeve Waffle Knit Womens Pajama Sets $12.99",
   "reason": "Posted at $12.99, but Amazon showed $21.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-29T17:59:14.896725Z",
@@ -113081,14 +113185,6 @@
  },
  {
   "source": "techbargains",
-  "raw_title": "Geek Lighting Men's Sherpa Lined Flannel Shirt Jacket $19.99",
-  "reason": "Posted at $19.99, but Amazon showed $39.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-17T13:46:56.629485Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
   "raw_title": "NewGf 350ml 12oz Stainless Steel Milk Frothing Pitcher $12.49",
   "reason": "Posted at $12.49, but Amazon showed $24.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-17T13:46:56.629485Z",
@@ -132212,78 +132308,6 @@
   "raw_title": "TWO Rao’s Soups Just $6.60 Shipped on Amazon",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T18:07:19.733137Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "EagleStone Moveable Dinosaur Shooting Toys with 2 Air Pump Guns, 48 Balls $17.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T18:01:56.517913Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Yaak 12\" Queen Memory Foam Mattress $155.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T18:01:56.517913Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "11-Night China & Thailand Flight, Hotel, and Tour Vacation for From $3,398 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T18:01:56.517913Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Sterilite 18-Gallon Tote for $5 + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T18:01:56.517913Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Active Mold Stain Remover Gel Cleaner 7-oz. for $11 via Sub & Save + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T18:01:56.517913Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Nintendo Joy-Con (L)/(R) Pastel Purple/Pastel Green Controller Set for $63 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T18:01:56.517913Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Roborock Q7 M5+ Self-Empty Robot Vacuum Cleaner, 10000Pa - Certified Refurbished $191.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T18:01:56.517913Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "NOAH & PAW Dog Car Seat Carrier w/ Harness Clip & Orthopedic Foam $29.99 + Free Shipping w/ Prime or $6 Fee per Order",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T18:01:56.517913Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Gyroor Adjustable Stand Hammock $51.06",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T18:01:56.517913Z",
   "code": "not_checked",
   "public": false
  }
