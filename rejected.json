@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[Prime] $5.99* | 12-Ct Aidea XL Non-Scratch Natural Dish Scrub Sponges at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T19:28:43.922283Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $4.99* | Play-Doh 14-Day Advent/ Countdown Calendar w/ 26 Accessories & 17 Colors at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T19:28:43.922283Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Prime: 30-Count Amazon Basic Care All Day Allergy Cetirizine Hydrochloride Tablets (10 mg) $2.01 w/ S&S + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T19:28:43.922283Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime, SnS] $8.94 | 3-Pk 85-Count Amazon Basics Disinfecting Wipes (Lemon & Fresh Scent) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T19:28:43.922283Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Tughlax Super Bright Rechargeable LED Flashlights (3-Pack) $14.99",
+  "reason": "Posted at $14.99, but Amazon showed $29.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T19:28:43.922283Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Women’s Cropped Puffer Vest Just $19.80 on Amazon (Reg. $37)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T19:28:43.922283Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Halloween Costumes - Black Witch Hat $2.39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T19:28:43.922283Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[Prime, SnS, AC] $5.96* | 4-Pk 500-Ct Amazon Basics Double-Tipped Cotton Swabs at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Prime-only price, clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-29T19:23:08.129173Z",
@@ -132332,70 +132388,6 @@
   "raw_title": "MCQ Wooden Headboard and Metal Platform Bed Frame No Box Spring Needed $38.3 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T19:33:38.176250Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[Prime] $10.72* | The Calvin and Hobbes Portable Compendium Set 2 (Paperback) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-15T19:28:14.138704Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[Prime] $16.55* | Teenage Mutant Ninja Turtles: The Ultimate Collection: Vol. 2 (Paperback) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-15T19:28:14.138704Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$49.99: TP-Link BE9300 PCIe WiFi 7 Card for Desktop PC|Tri-Band, High-Gain Antenna at Amazon",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-15T19:28:14.138704Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[Prime] $17.99* | Shomextol Freestanding Metal Garden Hose Holder w/ 100' Capacity & 4 Ground Spikes at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-15T19:28:14.138704Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Fluidmaster Pro Series Toilet Fill Valve for $12 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T19:28:14.138704Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Women’s Thermal Underwear Set Just $8.58 on Amazon (Reg. $36)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T19:28:14.138704Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "GYROOR Adjustable Stand Hammock 600lb Capacity with Storage Bag $48.8 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T19:28:14.138704Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Joyfy 6.2 FT Long Purple Octopus Head Halloween Inflatable $29.28",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T19:28:14.138704Z",
   "code": "not_checked",
   "public": false
  }
