@@ -1,6 +1,126 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "939-Piece LEGO Icons Botanical Collection Wildflower Bouquet Building Set $47.95 + Free Shipping",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T21:54:25.207003Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "505-Pc LEGO Dreamzzz Nightmare Scorpion Digger Building Set $34.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T21:54:25.207003Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "FUN Slime Advent Calendar Just $14 on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T21:54:25.207003Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Citizen Men's 42mm Two-Tone Stainless Steel Bracelet Watch (Blue Dial) $102.00 + Free Store Pickup at Macy's or Free Shipping on $39+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T21:54:25.207003Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Citizen 41mm Men's Quartz Watch w/ Gold-Tone Case & Brown Croc-Embossed Leather Strap (#BF2003-25A) $102.00 + Free Store Pickup at Macy's or Free Shipping on $39+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T21:54:25.207003Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M18 18-Volt Lithium-Ion Cordless Electric Portable Inflator w/ (2) FORGE 8.0 Ah Batteries & Charger $449",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T21:48:46.827522Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Great Value Evaporated Milk 12-oz. Can 4-Pack for $4 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T21:43:07.597731Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "768-Piece LEGO Horizon Adventures Aloy & Varl vs. Shell-Walker & Sawtooth $29.49 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T21:37:48.692175Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Great Value Pizza Sauce 15-oz. Can 12-Pack for $11 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T21:37:48.692175Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ozark Trail Men's Hooded Rain Jacket for $10 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T21:32:13.976888Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Orgain Creatine Powder Only $11.96 Shipped on Amazon (Reg. $20)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T21:32:13.976888Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SteelSeries Prime Mini Wireless FPS Esports Gaming Mouse $10",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T21:32:13.976888Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Red Shed 16 in. LED Horse Skull Candy Bowl Halloween Animatronic, $29.99, Tractor Supply",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T21:32:13.976888Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Roland RP750 Digital Piano Bundle $1399.99 Free shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T21:32:13.976888Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "The Home Depot 2 gal. Orange Halloween Bucket, $2.88, Free shipping, Home Depot",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T21:32:13.976888Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Dyson Cool CF1 Adjustable Bladeless Fan $199.99 + $9.99 Shipping Costco.com",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-29T21:26:38.086729Z",
@@ -132341,294 +132461,6 @@
   "reason": "Same deal was already posted from another source",
   "rejected_at": "2026-09-15T21:59:32.174225Z",
   "code": "duplicate",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Eagles Football Blanket $24.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T21:54:08.172834Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Clear Crossbody Purse $18.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T21:54:08.172834Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "5FT Halloween Inflatable Pumpkin Outdoor Decoration $29.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T21:54:08.172834Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Rechargeable Halloween Pumpkin Lanterns 2-Pack $19.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T21:54:08.172834Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Crest 3D White Advanced Toothpaste, Radiant Mint, 2-pack $7.12",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T21:54:08.172834Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Wyze Auto-Lock Bolt Fingerprint Keyless Entry Smart Deadbolt w/ Backlit Keypad for $72 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T21:54:08.172834Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "MSI Cyborg 15 Core 7 240H 15.6\" Gaming Laptop w/ NVIDIA GeForce RTX 5050 for $1,349 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T21:54:08.172834Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Kool-Aid Jammers 30-Count Pack Only $5.79 Shipped on Amazon",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T21:54:08.172834Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Gillette Custom Plus3 Disposable Razors Sensitive, 30-count $25.99 Free Shipping Costco.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T21:54:08.172834Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "YNMV! LEGO Super Mario: Mario Kart Baby Peach & Grand Prix Set Home Circuit - Nintendo Toy Building Set for Kids - Collectible Toy - 72036, $44.79 w/ coupon @ Amazon!",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-15T21:48:42.606315Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Y2K Full Zip Up Hoodie Women Fall Jackets Casual Thin Coat Cute Sweatshirts $17.31",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T21:48:42.606315Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "34\" Extra Long Foldable Wagon with All-Terrain Wheels $32.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T21:48:42.606315Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Wyze Cam v4 for $40 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T21:48:42.606315Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "100-Pack 6\" WAENLIR Galvanized Steel U-Type Garden Staples Landscape Stakes $9.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-15T21:48:42.606315Z",
-  "code": "duplicate",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "151-Piece LEGO Star Wars Clone Shock Trooper Mech Building Toy $11.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-15T21:43:16.659585Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "594-Pc LEGO Star Wars Rebel U-Wing Starfighter Building Set $55.99 + Free Shipping",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-15T21:43:16.659585Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "HOVERAir X1 Drone Black/White Combo $209.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T21:43:16.659585Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Smart Dust Detection Cordless Stick Vacuum Cleaner $69.59",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T21:43:16.659585Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "KKI Window Cleaning Robot X3 $89.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T21:43:16.659585Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Yaak 12 Inch Queen Memory Foam Mattress $155.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T21:43:16.659585Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Houseda 32\" Smart Portable TV $440.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T21:43:16.659585Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "DESLOC B200 Fingerprint Smart Lock w/ App Control $39.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T21:43:16.659585Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Boean Active Noise Cancelling Bluetooth 6.0 Wireless Over Ear Headphones $44.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T21:43:16.659585Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Open Top Self Cleaning Litter Box for Multiple Large Cats $119.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T21:43:16.659585Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Athletic Works Men's Banded Jogger Slip-On Sneakers for $12 + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T21:43:16.659585Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Furinno Turn-N-Tube 4-Tier Multipurpose Printer Stand for $23 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T21:43:16.659585Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Rubbermaid Glass Food Storage 10-Piece Set Just $28.49 on Target.com (Reg. $55)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T21:43:16.659585Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Insignia 3.7 Cu. Ft. High Efficiency Top Loading Washing Machine (White) $399.99 + Free Pickup",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T21:43:16.659585Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Ninja BlendBOSS Tumbler Blender with (2) 26oz Tumblers and Straws $89.99 + $8,99 Shipping Green or Orange Costco.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T21:43:16.659585Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Furinno Furniture Deals at Amazon for From $16 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T21:37:53.167702Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "X-Sense Wi-Fi Radon Detector for $80 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T21:37:53.167702Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Target Pop Music CDs & Vinyl Sale: Up to 30% off + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T21:37:53.167702Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Travel Backpack w/ Packing Cubes Just $25.89 Shipped on Amazon (Reg. $40)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T21:32:28.645636Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "(Certified Refurbished) Dreame L40 Ultra Robot Vacuum & Mop w/ 11,000Pa Suction $215.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T21:32:28.645636Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "12\" Garvee Cordless String Trimmer w/ 2x 2.0Ah Batteries & 8-Pack Spools $27.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-15T21:27:04.256948Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$12.74 | Hello Kitty Open Face PopSockets Stand for Smartphones and Tablets PopSockets PopGrip for MagSafe at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-15T21:27:04.256948Z",
-  "code": "low_score",
   "public": true
  }
 ]
