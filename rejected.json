@@ -1,6 +1,78 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Mophie 3-in-1 Travel Charger with MagSafe Compatible w/Apple Devices $25 + Free S&H w/ Prime or $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T18:55:10.833707Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "6-Pack 16.9-Oz vitaminwater enhanced flavored Water Beverage (Power-C Dragonfruit) 2 for $10 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs multi-pack, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T18:55:10.833707Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Story of Seasons: Grand Bazaar (Nintendo Switch) $23.92 + Free Shipping w/ Prime or on orders over $35",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T18:55:10.833707Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Laapee BF868 650CFM Cordless Electric Leaf Blower $38.49",
+  "reason": "Posted at $38.49, but Amazon showed $69.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T18:55:10.833707Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "JusArt 9\"x12\" Cold Press Watercolor Paper Pad (20-Sheet) $3.99",
+  "reason": "Posted at $3.99, but Amazon showed $7.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T18:55:10.833707Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Amazon Basics All Purpose Cleaner 2-Pack 32-Oz $5.57",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T18:55:10.833707Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "UorMe 15W Fast Wireless Phone Charging Station with 18W QC3.0 Wall Charger Adapter $7.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T18:55:10.833707Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "2026 Bowman Football Factory Sealed Hobby Jumbo Box for $520 App-Only + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T18:55:10.833707Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Christmas Character Mug & Plush Gift Sets from $8.97 on Walmart.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T18:55:10.833707Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "TALIX Laptop Power Bank, 20000mAh Portable Charger with 190W Total Output $49.99",
   "reason": "Posted at $49.99, but Amazon showed $89.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-29T18:49:36.823108Z",
@@ -132364,62 +132436,6 @@
   "raw_title": "YMMV Ollie's In-Store Firman Factory Refurbished Inverter Generator, Tri-Fuel, 9400W Starting / 7500W Running $699.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T18:55:52.563110Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Zerex Multi-Vehicle 50/50 Ready To Use Antifreeze/Coolant 1 Gallon $1.75",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T18:50:28.344370Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Birkenstock Women's Arizona Stealth Buckle EVA Sandals Purple or Green $28.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T18:50:28.344370Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Birkenstock Women's Madrid Big Buckle EVA Sandals $27.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T18:50:28.344370Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Saucony Unisex Grid X Ultra S Shoes $90.95",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T18:50:28.344370Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Toro Flex-Force 60V 15\" Straight Shaft Battery String Trimmer (Tool Only) for $50 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T18:50:28.344370Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Multi-Charging Cable 2-Pack Just $5 on Amazon (Charge 3 Devices w/ ONE Cable!)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T18:50:28.344370Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Lenovo Slim 7 (cert refurb) i7-1360P 14\" 2.8k 16GB/1TB $495",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T18:50:28.344370Z",
   "code": "not_checked",
   "public": false
  }
