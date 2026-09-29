@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "9d6f508a9f96",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20072637-6-pack-3-4-x-1000-scotch-magic-tape-w-desktop-dispenser-10-43-free-shipping-w-prime-walmart-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "6-Pack 3/4\" x 1000\" Scotch Magic Tape w/ Desktop Dispenser + , Walmart+ or on",
+  "raw_title": "6-Pack 3/4\" x 1000\" Scotch Magic Tape w/ Desktop Dispenser $10.43 + Free Shipping w/ Prime, Walmart+ or on $35+",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1043,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "prime",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 6,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-29T04:33:02.037708Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "0ae3db1869a5",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20071371-prinstory-women-s-lightweight-soft-3-4-sleeve-bathrobe-9-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",

@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$209.99 | 16GB Amazon Kindle Colorsoft Kids eReader (Various) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T04:33:02.037708Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CRAFTSMAN V20 7-1/4-in 20-volt Single Bevel Sliding Compound Cordless Miter Saw ( Battery Included ) | CMCS714M1 $179",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T04:33:02.037708Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "CRAFTSMAN V20 Brushless RP 20-volt max 1-in SDS-plus Variable Speed Cordless Rotary Hammer Drill one_size in Red | CMCH234B $89",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T04:33:02.037708Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "5.5-Qt Parmedu Enameled Cast Iron Dutch (Indigo Blue or Pink) $23.99 + Free Shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T04:33:02.037708Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "SAMSUNG 34\" ViewFinity S50GC Series Ultra-WQHD Monitor, 100Hz, 5ms (LS34C502GANXZA) $209.99",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-29T04:27:25.552434Z",
@@ -133278,13 +133310,5 @@
   "rejected_at": "2026-09-15T04:37:43.512478Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "BOSGAME E5 Mini PC: Ryzen 5400U, 8GB DDR4, 256GB SSD, Win 11 Pro $186.99",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-15T04:32:12.258096Z",
-  "code": "duplicate",
-  "public": true
  }
 ]
