@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "b6160e919888",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20074173-pre-order-10-52-three-bags-amazon-fresh-just-bright-whole-bean-coffee-light-roast-12-ounce-36-oz-total-prime-only?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "PRE ORDER! Three Bags Amazon Fresh Just Bright Whole Bean Coffee, Light Roast, 12 Ounce (36 oz total) PRIME",
+  "raw_title": "PRE ORDER! $10.52 Three Bags Amazon Fresh Just Bright Whole Bean Coffee, Light Roast, 12 Ounce (36 oz total) PRIME ONLY",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1052,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "prime"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-29T16:01:49.232058Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "77ad2bd330d3",
   "source": "techbargains",
   "source_url": "https://www.amazon.com/gp/product/B08F4YX8MK/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
