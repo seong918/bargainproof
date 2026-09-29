@@ -1,5 +1,61 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "GRACE KARIN Women's Boho Floral Button Down Fall Dressy Blouses Brown XXL $7.5",
+  "reason": "Posted at $7.50, but Amazon showed $14.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T12:12:05.498523Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "14-Night Thailand Flight, Hotel, and Tour Vacation for From $4,652 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:06:26.925218Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Toodour Halloween Projector Lights Outdoor, Double Head Dynamic Halloween Lights Projector with Timer, Waterproof White Ghost Decorations Light for Indoor Outdoor, $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:06:26.925218Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$9.99 | SteelSeries Prime+ Wired Esports FPS Gaming Mouse w/ RGB Lighting at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:06:26.925218Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Inflatable Jabberin' Jack 5 Foot Tall Talking Animated Pumpkin with 56 Inch HD Screen and Built in Projector + Speaker Includes 80 Minutes of Content, $69.99, Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:06:26.925218Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "10-in-1 Professional Manicure Set: 68 cents + free shipping w/ $25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:00:48.333563Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SwissGear Sion Softside Expandable Spinner Luggage Durable Lightweight Travel Suitcase, Evergreen, Carry-On $62.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:00:48.333563Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Stainless Steel Mini Shovel Spoon 4-Pack: 66 cents + free shipping w/ $25",
   "reason": "Not evaluated",
@@ -133381,94 +133437,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T12:14:04.089772Z",
   "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "HOVERAir X1 Drone with Camera, Follow-me Drone with Self-Flying Mode $209.3",
-  "reason": "Posted at $209.30, but Amazon showed $299.00 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-15T12:08:39.071446Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Amazon Essentials Men's Regular-Fit Chambray Shirt for from $8.58 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:08:39.071446Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ECO-WORTHY 2Pack 12V 280Ah Metal Case LiFePO4 Battery Bluetooth BMS $548.90 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:08:39.071446Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "KINGROON 10KG PLA Filament 1.75mm 10 Rolls 3D Printer Filament Black $58.70 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:08:39.071446Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Fandango at Home: Lionsgate Horror Vault 5 Digital Movies for $10",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:08:39.071446Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$153 FS Walmart by GOOLOO Discovery 300 PRO Power Station: 230Wh Solar Generator with 300W AC Output, 12V DC, and Multiple USB Ports,",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:08:39.071446Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Amazon Essentials Men's Casual Stretch Chino Pants for from $11 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:03:21.605266Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "20-Night China & Hong Kong Flight, Hotel, Tour, and Cruise Vacation for From $5,598 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:03:21.605266Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Inmeilifus Men's Steampunk Tailcoat Frock Coat for $21 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:03:21.605266Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Banana Republic Factory Clearance Sale: Extra 50% Off + free shipping w/ $50",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:03:21.605266Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Airhas Men's Barefoot Zero Drop Breathable Gym Shoes for $19.60 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:03:21.605266Z",
-  "code": "no_signal",
   "public": false
  }
 ]
