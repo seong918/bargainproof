@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "d4caa96b0630",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20072583-1917-blu-ray-digital-8-19-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "1917 (Blu-ray + Digital) + or on",
+  "raw_title": "1917 (Blu-ray + Digital) $8.19 + Free Shipping w/ Prime or on $35+",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 819,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "prime"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-29T11:32:44.415372Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "9783ac8d2e06",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20073741-10-99-three-days-grace-vinyl-at-amazon?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
