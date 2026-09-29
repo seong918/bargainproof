@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Samsung 34' Odyssey G5 Ultra-Wide Gaming Monitor with 1000R Curved Screen 165Hz, 1ms $249.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T00:09:27.668231Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Motorola Moto g - 2026 | Unlocked | Made for US 4/128GB | 50MP Camera, various colors $249.99",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T00:09:27.668231Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "BOSS DD-8 Digital Delay Guitar Effects Pedal for $169 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T00:09:27.668231Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$1.18 Pick Up Walmart Vampire Hot Garlic Chicken Instant Ramen Noodles in Blood Colored Broth, Limited Edition, 2.75 oz NISSIN",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T00:09:27.668231Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Supco CR87HTC Celsius High Temperature Circular Chart Recorder, 6\" Chart Diameter, 110-120V Voltage $437.5",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-29T00:03:51.447656Z",
@@ -132812,22 +132844,6 @@
   "raw_title": "Lenovo 27-inch 2560 x 1440 (QHD) 100Hz, Speakers, USB-C Monitor (L27h-4A)- $145.35",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T00:10:22.968212Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Prime Members UGREEN HiTune Max5c Hybrid ANC Wireless Over Ear Headphones $29.99 & More + Free Shipping",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-15T00:04:52.321364Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "SwissGear Energie Expandable Hardside Checked Luggage for $54 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T00:04:52.321364Z",
   "code": "not_checked",
   "public": false
  }
