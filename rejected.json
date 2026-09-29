@@ -1,6 +1,86 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Rubies Skeleton Gloves for Kids, Boy's One Pack $6.93",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T09:03:03.861943Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Prime Members SUPVAN E11 Keyboard and Bluetooth Label Maker Machine with 4 Rolls of Labels $17.99 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T09:03:03.861943Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Songmics 16-Gallon Dual Compartment Trash Can for $98 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T09:03:03.861943Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "12-Night Spain & Portugal Hotel & Tour Vacation for From $4,348 for 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T09:03:03.861943Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "eBay Trading Card Game Deals for From $11 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T09:03:03.861943Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Men's Comfort 100% Cotton Hooded Henley for 2 for $14 + $18 shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T09:03:03.861943Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Criminal Minds: The Complete Series (2005) (Digital HD TV Show) $19.99 via AppleTV",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T09:03:03.861943Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "20-Pack 9\"x12\" UPGREY Double-Sided Mini Dry Erase Lapboards w/ 24 Pens, 24 Erasers & 24 Pen Clips $19.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs multi-pack, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T08:57:25.746305Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "CoolHair Bikini Electric Shaver and Trimmer for $12 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T08:57:25.746305Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ecoeve 49-Foot Permanent Outdoor RGB+IC Smart String Lights for $48 w/ Prime + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T08:57:25.746305Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[Prime] BEDELITE King Fleece Comforter Set (Light Grey) $16.80 + Free Shipping",
   "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-29T08:51:48.670462Z",
@@ -133692,54 +133772,6 @@
   "raw_title": "with 2 batteries, SENIX - X2 20V Max* Cordless Combo Kit, String Trimmer, Leaf Blower & Hedge Trimmer (2.0Ah, 4.0Ah Batteries, & Charger Included), $99, FS, Best Buy",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T09:07:55.790680Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "roborock H60 Hub Ultra-N Cordless Stick Vacuum with Auto-Empty Dock, 210AW $299.99",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-15T09:02:41.846788Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "SAILARY Louvered Pergola 12' x 16' with Waterproof Curtains, Outdoor Aluminum Pergola with Reinforced Steel Roof, Heavy-Duty Hardtop Gazebo, Privacy Shaded Shelter, Gray $1295.19",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-15T09:02:41.846788Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$23.99* | 24-oz Owala FreeSip Twist Stainless Steel Water Bottle (various) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-15T08:57:31.532316Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "DuroMax XP9500iH 9,500-Watt Portable Dual Fuel Inverter Generator for $1,499 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T08:57:31.532316Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Samsung Bespoke AI Jet Lite Cordless Stick Vacuum w/ All-in-One Clean Station for $500 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T08:52:18.968127Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Aura Rainbow Titanium Bismuth Quartz Crystal Mineral Specimen Decor for $20 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T08:52:18.968127Z",
   "code": "not_checked",
   "public": false
  }
