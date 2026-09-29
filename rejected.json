@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "682-Piece LEGO City: Construction - Bulldozer (60466, 2025) $51.99 + Free Shipping",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T21:59:56.116101Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "287-Pc LEGO Speed Champions McLaren W1 Race Car Toy (77257) $22.49 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T21:59:56.116101Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] Tara Toys Minecraft 3-in-1 Craft Activity Set (Pixel Art, Pour N Paint & Design A Vinyl) $9.99 + Free Shipping",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T21:59:56.116101Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "654-Piece LEGO Star Wars: A New Hope Tantive IV (75376) $55.99 + Free Shipping",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T21:59:56.116101Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "LEGO Technic Dodge Viper GTS-R for $40 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T21:59:56.116101Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "939-Piece LEGO Icons Botanical Collection Wildflower Bouquet Building Set $47.95 + Free Shipping",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-29T21:54:25.207003Z",
@@ -132446,21 +132486,5 @@
   "rejected_at": "2026-09-15T22:04:55.075576Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "BOGO X20 Pruning Saw Kit - Buy 1 Get 1 Free In Any Color (Remanufactured) $49.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T21:59:32.174225Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "LOHAS 3D Animal Plug-In LED Night Light w/ Dusk-to-Dawn Sensor (8-Color RGB + 3000K Soft White, Various) $4.99 or 2 for $8.99 ($4.50 each) + Free Shipping w/ Prime or on $35+",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-15T21:59:32.174225Z",
-  "code": "duplicate",
-  "public": true
  }
 ]
