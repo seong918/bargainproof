@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Brach's Halloween Classic Candy Corn, Trick or Treat Individually Wrapped Pouches, 30 oz, 60 Ct - $14.24 w/S&S",
+  "reason": "Community score too low (+3) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T23:26:26.734303Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$5.69 for 365 by Whole Foods Market Organic All Purpose Flour, 80 Ounce with S&S",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T23:26:26.734303Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Disney Baby Lovey Halloween Security Blanket for $7 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T23:26:26.734303Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$12.65 30-Count SKINNYPOP Original Gluten Free Popcorn Bags, .65 oz with S&S",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T23:20:57.332231Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $3.99 | Bluey Game Hide and Seek Figure, Articulated at Amazon",
+  "reason": "Community score too low (+4) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-29T23:20:57.332231Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "The Descent $5.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T23:20:57.332231Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "REI Co-op Women's Sahara Shade Hoodie Sun Shirt w/ UPF 50+ (Various Colors) $29.83 + Free Store Pick-Up at REI or FS on $60+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T23:20:57.332231Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[SnS] $9.92 | 3-Pack 7.23-Oz Quaker Large Rice Cakes (Chocolate) at Amazon ($3.31 each)",
   "reason": "Community score too low (+2) to pass without a price check — needs multi-pack, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-29T23:15:20.167591Z",
@@ -132316,54 +132372,6 @@
   "raw_title": "GIGABYTE X870 AORUS ELITE WIFI 7 + AMD Ryzen 7 9800X3D + Cooler Master Elite Liquid 240 CPU AIO Cooler $569.99 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T23:29:29.779811Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "DEWALT TSTAK Deep Toolbox with Long Handle (DWST17814) $34.97 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-15T23:25:01.275281Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Sharpie 12-Count Fine Point Permanent Markers for $7.54 w/ Subscribe & Save + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T23:25:01.275281Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Keen Men's Targhee III Slip-On Shoes for $67 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T23:25:01.275281Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Keen Men's Jasper Zionic Sneakers for $60 + free shipping w/ $60",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T23:19:48.395541Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Costco Members: 3.38-oz Azzaro The Most Wanted Parfum $49.99 + Free S&H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T23:19:48.395541Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Greenworks 60V 780 CFM Cordless Leaf Blower with 4.0Ah Battery and Charger + Free S/H - $178 (45% off after discount code)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T23:19:48.395541Z",
   "code": "not_checked",
   "public": false
  }
