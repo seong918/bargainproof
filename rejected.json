@@ -1,5 +1,85 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$10 ac AMAZON 7x16ft Halloween Garage Door Cover, Large Banner for 2-Car Garage Door",
+  "reason": "Posted at $10.00, but Amazon showed $19.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T16:46:33.551772Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – BGment 84\" Chenille Floral Curtains, 2 Panels - $11.69–$21.99 at Checkout",
+  "reason": "Posted at $11.69, but Amazon showed $23.39 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T16:46:33.551772Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Sharpie Fine Point Metallic Permanent Markers (36-Count) $21.84",
+  "reason": "Posted at $21.84, but Amazon showed $22.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T16:46:33.551772Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "6-Pack Mr. Pen Stainless Steel Ruler Set (6\", 8\", 10\", 12\", 14\" & 16\") $7.95 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T16:46:33.551772Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Dual Power Portable Air Compressor for $55 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T16:40:56.755192Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Samsung EPP/EDU] 27\" Odyssey OLED G8 (G81SF) 4K 240Hz G-Sync Compatible Gaming Monitor $649.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T16:40:56.755192Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "10/1, Home Depot holiday sweater bundle, includes $50 gift card and more, $29.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T16:40:56.755192Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Samsung EPP/EDU] 32\" Samsung The MovingStyle Essential 4K UHD Smart Monitor w/ Adjustable Rolling Stand $449.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T16:40:56.755192Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Round Trip Philadelphia to Chennai India $766 Airfares on Qatar Airways BE with 2 Free Checked Bags",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T16:40:56.755192Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Samsung EPP & EDU: 49\" Odyssey OLED Dual QHD 5120x1440 144Hz Curved Monitor $680 + Free S/H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T16:40:56.755192Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Dazonge Halloween Waterproof Bat Magnetic Stickers (25-Piece) $6.99",
   "reason": "Posted at $6.99, but Amazon showed $13.99 when we checked — the deal is probably over",
@@ -77272,14 +77352,6 @@
   "public": false
  },
  {
-  "source": "slickdeals",
-  "raw_title": "Amazon – BGment 84\" Chenille Floral Curtains, 2 Panels - $11.69–$21.99 at Checkout",
-  "reason": "Posted at $11.69, but Amazon showed $23.39 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-21T15:37:38.383474Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
   "source": "techbargains",
   "raw_title": "Apple Watch Series 12 GPS 42mm Smartwatch $389 | 46mm $439",
   "reason": "Posted at $439.00, but Amazon showed $389.99 when we checked — the post is stale",
@@ -132508,198 +132580,6 @@
   "raw_title": "Wood Mid-Century Modern Console Table for Entryway $152.09",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T16:51:56.581161Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Columbia Women's PFG Boatside Slip-On Boat Shoe Dark Stone/Marine Light $24.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T16:46:32.914490Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "HOVERAir X1 Drone with Camera for $209.30 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T16:46:32.914490Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$18ac FS Walmart+ Women Shoes Wide Slip on Walking Shoes Diabetic Friendly 6-11.5 Wide (color choice)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T16:46:32.914490Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Fanflix Get Batman: Knightfall Part 1 UHD for $17.99 plus 2 more for $17.99 plus extra 10% Off with code SEPTSAVINGS",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T16:46:32.914490Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ProSupps 24g Whey Protein Powder Made with Ghirardelli Cocoa, Rich Chocolate, 5.16 lbs $53.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T16:46:32.914490Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "KIRUNDO Women's Long Sleeve Boho Floral Flowy Fall Maxi Dress (Various) $18.27 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-15T16:41:09.199379Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Pagani Design PD-1728 Luxury Ice Blue Automatic Mechanical Wristwatch $64.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T16:41:09.199379Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "DJI Osmo Pocket 3 Vlogging Camera 4K/120fps 2-Inch Rotatable Screen $282.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T16:41:09.199379Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "OBX Electric Scooter 350W 36V 5.2Ah 18 MPH 8.5\" Solid Tires UL2272 $104.30",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T16:41:09.199379Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Women’s Hobo-Style Shoulder Bag Just $11.87 on Amazon (Reg. $23)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T16:41:09.199379Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$33 FS Walmart+ Goodyear Men's Teton Steel Toe Low Work Shoes (wide widths too)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T16:41:09.199379Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$37 FS Walmart Goodyear Men's Teton Steel Toe Outdoor Hiker Work Boots, Wide Available",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T16:41:09.199379Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Dearfoams Cozy Comfort Women's Mary Jane Ballerina Slippers ( 2 Colors Available) $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T16:41:09.199379Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "3.4-Oz Versace Pour Homme Dylan Blue Eau de Toilette Spray $47.36 + Free Shipping",
-  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-15T16:35:44.499188Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "VIPCOO VC-H3 Electric Dirt Bike 3500W 48V 23Ah Fat Tire $690.30",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T16:35:44.499188Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Lululemon Airing Easy Short-Sleeve Shirt $39.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T16:35:44.499188Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Adidas Women Superstar II Shoes (3 Colors) $36.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T16:35:44.499188Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "OtterBox Samsung Galaxy S26 Profile Series Case - Pink Awakening $4.96",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T16:35:44.499188Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Anker 167.5W Max 3-Port Ultra-Compact USB C Car Charger for $34 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T16:35:44.499188Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Great Value 52-Count Dry Sweeping Cloth Refills for $8 + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T16:35:44.499188Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "These $9.88 Walmart Character Sleepwear Sets Double As Halloween Costumes!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T16:35:44.499188Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "This One Simple Check Helped a Reader Find $50,000!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T16:35:44.499188Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Joyspun Women's Faux Fur Thong Slippers ( sizes 6,7 Available in Blue) ( size 6 available in Mink) $2.33",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T16:35:44.499188Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Men’s Soccer Fan Slippers-USA, Brazil, Argentina, Spain, & Mexico $3",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T16:35:44.499188Z",
   "code": "not_checked",
   "public": false
  }
