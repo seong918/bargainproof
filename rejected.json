@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "3-Speed Wolfbox MF60 Electric Compressed Air Duster w/ 5 Nozzles $29 + Free S&H $28.99",
+  "reason": "Community score too low (+-2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T12:28:49.346341Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Scallop Waffle Knit Sweatshirt $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:28:49.346341Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Corduroy Long Sleeve Henley Shirts for Men $12.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:28:49.346341Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Men's Waffle Knit Long Sleeve T-Shirt $13.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:28:49.346341Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Miracle-Gro All Purpose Garden Soil 0.75 cu ft $2.50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:28:49.346341Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Crayola Globbles Fidget Toy 6-Pack Only $8.99 Shipped for Prime Members",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:28:49.346341Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Tangkula 7 FT Halloween Animated Standing Scarecrow with Light-up Eyes, $45.10, Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:28:49.346341Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Tangkula 5.3 FT Animated Halloween Standing Pumpkin Scarecrow with Shovel, $43.69, Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T12:28:49.346341Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Women’s Long Sleeve V-Neck Top $6.50 – Casual Button Blouse, Loose Fit Tunic for Fall",
   "reason": "Posted at $6.50, but Amazon showed $12.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-29T12:23:14.850528Z",
@@ -133372,70 +133436,6 @@
   "raw_title": "Nike Women's Reactx Rejuven8 Slide Sandals (Blue) $22.97 + Free Shipping on $49",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T12:30:21.202113Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Wolverine Women's Piper 6\" Composite Toe Work Boots $55.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:24:55.632323Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Converse Adult Day One Trainer Sneakers $25.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:24:55.632323Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "SwissGear 7272 Energie Expandable Hardside 24\" Spinner Luggage for $54 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:24:55.632323Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Inflatable Sumo Costume for $20 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:24:55.632323Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "DJI Osmo Pocket 3 1\" CMOS Gimbal Camera for $279 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:24:55.632323Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Reef Women's Cushion Vista Higher Sandals (Black or Natural) $24.97 + Free Shipping on $49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:24:55.632323Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "10x 1KG Creality PETG / Refill 3D Printer Filament $73.35 + free s/h (Mix and Match Colors)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:24:55.632323Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon Essentials Women's Lightweight Water Resistant Packable Hooded Puffer Coat (Various) $17.99 + Free Shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T12:24:55.632323Z",
   "code": "not_checked",
   "public": false
  }
