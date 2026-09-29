@@ -1,5 +1,61 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Mrclexi 4-in-1 Heated Neck Massage Pillow $29.99",
+  "reason": "Posted at $29.99, but Amazon showed $41.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T15:17:04.610174Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "WeValor 10' Adjustable 5-Prong Base String Light Poles (4-Pack) $16.61",
+  "reason": "Posted at $16.61, but Amazon showed $33.23 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-29T15:17:04.610174Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Scotts Turf Builder WinterGuard Fall Lawn Food 32.3-lb. Bag for $40 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T15:17:04.610174Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Launch CRP123I V3.0 Elite OBD2 Scanner for $124 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T15:17:04.610174Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "JOYROOM 175W Super Fast Car Charger - $12.49 AC",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T15:17:04.610174Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "47.24\" W Bay Isle Home Bar Cabinet w/ Woven Rattan Doors (Black) $89.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T15:17:04.610174Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Butterfly Wind Spinners Outdoor $8.04 after coupon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T15:17:04.610174Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Magnetic Dryer Vent Connector Kit for $38 + free shipping",
   "reason": "Not evaluated",
@@ -133308,70 +133364,6 @@
   "raw_title": "Insta360 X4 8K 360° Action Camera Travel Kit w/ Selfie Stick & Extra Battery $401.96",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T15:20:05.386098Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "FWERDG Soft Cozy Waterproof Dog Blanket for Large Dogs, Grey, 50\"x60\" $17.49",
-  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
-  "rejected_at": "2026-09-15T15:14:40.326825Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Capture Card for Nintendo Switch with 4K Pass-Through, USB3.0 1080P 60FPS HDMI Video Cam Link Game Capture for Streaming, Work with Xbox PS4 PS5 PC DSLR $19.99",
-  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
-  "rejected_at": "2026-09-15T15:14:40.326825Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Round Trip Chicago to Rome Italy Airfares on Icelandair BE $487.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T15:14:40.326825Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "2026 Topps Chrome Tennis Factory Sealed Value Box for $30 + free shipping w/ $39",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T15:14:40.326825Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Amazon Essentials Men's Gym Shorts 2-Pack for from $7.63 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T15:14:40.326825Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "BISSELL ProHeat 2X Revolution Pet Pro Upright Deep Cleaner $198 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T15:14:40.326825Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Pre-Order UGREEN HomeAgent- Up to 50% Off $899",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T15:14:40.326825Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "4-Piece 5-Seater Outdoor Patio Sofa w/ Coffee Table (Gray) $523.10 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T15:14:40.326825Z",
   "code": "not_checked",
   "public": false
  }
