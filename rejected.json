@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Terrifier 2 (Steelbook) [4K UHD] $17.96 Amazon.com",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-29T00:15:03.433956Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Nike Women's Air Max Invigor Shoes for $46 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T00:15:03.433956Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Great Value Cut Green Beans, 14.5 oz Can & More~$0.50 @ Walmart~Free Pickup Or Delivery With Walmart+ $35 Orders",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-29T00:15:03.433956Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Samsung 34' Odyssey G5 Ultra-Wide Gaming Monitor with 1000R Curved Screen 165Hz, 1ms $249.99",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-29T00:09:27.668231Z",
@@ -132836,14 +132860,6 @@
   "raw_title": "Sansui 27\" 1080p 240Hz FreeSync LED Curved Monitor for $136 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-15T00:15:54.017015Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Lenovo 27-inch 2560 x 1440 (QHD) 100Hz, Speakers, USB-C Monitor (L27h-4A)- $145.35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-15T00:10:22.968212Z",
   "code": "not_checked",
   "public": false
  }
