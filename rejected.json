@@ -132390,21 +132390,5 @@
   "rejected_at": "2026-09-16T23:12:05.310607Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "215-Piece LEGO Star Wars Clone Trooper & Battle Droid Battle (75372) $20.00 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-16T23:06:40.575811Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Prime Cuts 10-Cigar Sampler~$24.99 @ Cigar Page~Free Shipping!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T23:06:40.575811Z",
-  "code": "not_checked",
-  "public": false
  }
 ]

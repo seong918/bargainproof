@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "7205b2361561",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20080494-amazon-grocery-parsley-flakes-0-4-oz-0-82-with-s-s-amazon-buy-4-save-more?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
+  "title": "Amazon Grocery, Parsley Flakes, 0.4 Oz~ With S&S @ Amazon~Buy 4 & Save More!",
+  "raw_title": "Amazon Grocery, Parsley Flakes, 0.4 Oz~$0.82 With S&S @ Amazon~Buy 4 & Save More!",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 82,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-30T23:07:28.032886Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "58951b9e8c19",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20079252-amazon-gayhay-women-s-fleece-lined-leggings-w-pockets-14-99-w-code-deal?utm_source=rss&utm_content=ht&utm_medium=RSS2",
