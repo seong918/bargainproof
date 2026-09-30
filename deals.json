@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "1c3a553cd689",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20079051-amazon-7-outlet-metal-power-strip-w-6-cord-10-79-14-24-w-code?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "Amazon – 7-Outlet Metal Power Strip w/ 6' Cord - – w/ Code",
+  "raw_title": "Amazon – 7-Outlet Metal Power Strip w/ 6' Cord - $10.79–$14.24 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0GJ8L1PH4",
+  "deal_total_cents": 1079,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 1799,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1799,
+  "amazon_url": "https://www.amazon.com/dp/B0GJ8L1PH4",
+  "amazon_checked_at": "2026-09-30T20:54:12.119141Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 6,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0GJ8L1PH4",
+  "image_url": null,
+  "published_at": "2026-09-30T20:54:07.840743Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "10a4bbc7ccf3",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20078364-prime-26-63-winix-true-hepa-h-washable-aoc-carbon-filter-for-5500-2-air-purifier-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",

@@ -1,5 +1,37 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Mainstays 5-Cup Drip Coffee Maker for $9 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T20:54:07.840743Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Dyce First to Worst Couples Connection Party Game for $20 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T20:54:07.840743Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "WALMART $4.84-$4.94 get $2 Walmart Cash Select Finish Rinse Aid, DWasher Cleaner or Pods or Tablets at link LIMIT 1 total",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T20:54:07.840743Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Blackhawk CZ Gear Bag (Black) $32 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T20:54:07.840743Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Natrogix 600W 18Kpa Portable Carpet Cleaner Machine $57.94",
   "reason": "Posted at $57.94, but Amazon showed $74.99 when we checked — the deal is probably over",
@@ -132580,38 +132612,6 @@
   "raw_title": "(HURRY) 75% Off Energizer Batteries @ Lowes $5.62 + Free In-Store Pickup at Lowes",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-16T20:57:43.245573Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "MenoSupp 10ft USB-A to Apple MFi Lightning Cable (3-Pack) $3.99",
-  "reason": "Posted at $3.99, but Amazon showed $7.97 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-16T20:52:17.641411Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "hip2save",
-  "raw_title": "Walmart Has REAL Cashmere Sweaters from $34!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T20:52:17.641411Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "2 pack, Super Mario Bros Bundle Pack Short Sleeve Graphic Tee, $8.99, Walmart",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T20:52:17.641411Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "iHerb: 50% Off California Gold Nutrition LactoBif Probiotics, From $7.25 + Free Shipping $30+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T20:52:17.641411Z",
   "code": "not_checked",
   "public": false
  }
