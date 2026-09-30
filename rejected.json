@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[Prime]$219.99: Shark Navigator Robot Vacuum, 30-Day Self-Emptying Base, White, AV2110S at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T02:57:53.353292Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$41.99* | 732-Pc LEGO Technic Chevrolet Corvette Stingray Building Set at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-30T02:57:53.353292Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$1.24* | 7-Oz Renuzit Adjustables After the Rain at Amazon",
+  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-30T02:57:53.353292Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ruaozz 4-Piece Stretch Jacquard Recliner Chair Cover (Taupe) $9.35 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T02:57:53.353292Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$6.54 S&S PRIME ONLY Amazon Basics Wet Mopping Cloth Refills, Multi-Surface Floor Cleaning, Fresh Scent, Low Streak, Disposable, 24 Count (Fits Swiffer) Buy 4, save more",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T02:57:53.353292Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "15-Pack AXE Body Spray Deodorant & Anti-Perspirant $32.79 ($2.18 Ea) + Free Shipping w/ Prime or $6 Fee per Order",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T02:57:53.353292Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "4 piece Halloween pajamas (Mickey mouse, nightmare before Christmas) -$13.99 @ Costco",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T02:57:53.353292Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$31.87 PRIME ONLY Amazon Basics Sturdy Portable 2-Door Top-Load Hard-Sided Pet Travel Carrier with Secure Ventilation, Handle, Front & Top Entry",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-30T02:52:15.202519Z",
@@ -132580,166 +132636,6 @@
   "raw_title": "Paw Patrol Toddler Boys Clogs Size 5 $4.1",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-16T02:59:36.303029Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – GIANTEX 46” Oval Wood Coffee Table - $132.99 w/ Prime",
-  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-16T02:54:12.961327Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – SWISSWELL Men’s Lightweight Waterproof Rain Jacket - $11.96 w/ Code",
-  "reason": "Community score too low (+2) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-16T02:54:12.961327Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – LOMON Women’s Sherpa-Lined Hooded Plaid Shacket - $19.99 w/ Code + Coupon",
-  "reason": "Community score too low (+2) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-16T02:54:12.961327Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Samsung 49\" Odyssey G9 Series DQHD 1000R Curved Gaming Monitor 1ms(GtG) 240Hz $899.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T02:54:12.961327Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Samsung Galaxy Z Flip8 Unlocked Android Smartphone 256GB $1,049.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T02:54:12.961327Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Samsung Galaxy Z Fold8 Ultra Unlocked Android Smartphone 256GB $1,799.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T02:54:12.961327Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "GEARWRENCH 30-Piece 12 Point Ratcheting Combination SAE/Metric Wrench Set $188.16",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T02:54:12.961327Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "CRAFTSMAN 12 Days of CRAFTSMAN Advent Calendar $64.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T02:54:12.961327Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "GEARWRENCH 1/2\" Electronic Torque Wrench (30-340 Nm) $167.98",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T02:54:12.961327Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "dreame Aqua10 Ultra Roller Robot Vacuum and Mop with AquaRoll Mopping $749.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T02:54:12.961327Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Tissot Chemin des Tourelles Powermatic 80 39mm $437.50",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T02:54:12.961327Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Sony BRAVIA 6 48 Inch OLED 4K HDR Smart Google TV $1,098.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T02:54:12.961327Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "AOC 23.8\" 1080p 260Hz IPS Gaming Monitor $97.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T02:54:12.961327Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Samsung Galaxy Z Fold8 Ultra 512GB Unlocked Android Smartphone $1,999.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T02:54:12.961327Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "LEGO Duplo 58-Piece 3in1 Animals on Wheels $23.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T02:54:12.961327Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "GEARWRENCH 2 Pc. Indexing Pry Bar Set, 8\" & 16\" $43.90",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T02:54:12.961327Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Chane 753 three-way AUDIOPHILE Tower speaker, 3x 8\" woofers + compression driver tweeter $699",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T02:54:12.961327Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Jurassic World Toddler Boys Casual Black Clogs with Back Strap $6.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T02:54:12.961327Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Weekend Academy Girls Tulle Ballet Flats $5.35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T02:54:12.961327Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "CAALOGT Cordless Dimmable LED Crystal Table Lamps with Touch & Remote Control, RGB Light for Living Room, Bedroom $9.98",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T02:54:12.961327Z",
   "code": "not_checked",
   "public": false
  }
