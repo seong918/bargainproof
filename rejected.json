@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$3.64 or less S&S PRIME ONLY Amazon Grocery, Chopped Walnuts, 8 Oz Buy 4 and save more",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T00:48:10.524076Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$7.87 FS WALMART+ Frito Lay Minis Fright Night Halloween Pack (Doritos and Cheetos) Snacks, 0.375 oz, 30 Count",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T00:48:10.524076Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$1.50 S&S or less Amazon Prime Only- Happy Belly 10 ct Drink Mix Singles, Strawberry with Caffeine, 1.1 ounce (Pack of 1) Buy 4, save more",
   "reason": "Community score too low (+0) to pass without a price check — needs multi-pack, Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-30T00:42:33.821022Z",
@@ -132549,38 +132565,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-16T00:50:20.761125Z",
   "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Retro Aviator Sunglasses $8.50 - Shipping is free w/ Prime or on $35+ orders.",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-16T00:44:58.210137Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Select Accounts: 60-Count Zahler Chapter Six Apple Cider Vinegar Gummies $0.98 w/ S&S",
-  "reason": "Community score too low (+-1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-16T00:44:58.210137Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "TUBBZ: Ghost - Cardinal Copia Rubber Duck Collectible First Edition 3.5\" $15.03",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T00:44:58.210137Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "ClearSpace Heavy Duty Moving Bag 6-Pack for $15 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T00:44:58.210137Z",
-  "code": "no_signal",
   "public": false
  }
 ]
