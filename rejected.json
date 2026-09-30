@@ -1,5 +1,309 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Owala FreeSip Insulated Stainless Steel Water Bottle with Straw (40oz) $24.35",
+  "reason": "Posted at $24.35, but Amazon showed $29.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-30T12:45:14.415014Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "BOSCH ITT10202 2-Pack 2 In. Torx #10 Impact Tough Screwdriving Power Bits $2.36",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:45:14.415014Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "NFL Philadelphia Eagles Logo and Helmet 2-Pack Yard Sign Set $16.39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:45:14.415014Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$12.99* | Platypus Platy 2-Liter Ultralight Collapsible Backpacking Water Bottle at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-30T12:45:14.415014Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Costway 71\" 3-in-1 Outdoor Acacia Wood Loveseat Bench w/ Slatted Seat $95.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:39:56.123210Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Mossy Oak Men's Reversible Beanie 2-Pack $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:39:56.123210Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Kobalt 4V Max 1/4\" Cordless Screwdriver $19.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:39:56.123210Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Aluminum RFID Blocking Credit Card Holder: 51 cents + free shipping w/ $25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:39:56.123210Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Godinger Dublin Crystal Standing Napkin Holder for $18 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:39:56.123210Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Dog Car Seat Belt w/ Headrest Restraint: 69 cents + free shipping w/ $25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:39:56.123210Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Jackery Explorer 5000 Plus 7200W 5040Wh LiFePO4 Power Station $2424 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:39:56.123210Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HAPPRUN Native 1080P Projector $42.46 + Free Shipping",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-30T12:34:37.218912Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Monster Energy Zero Ultra Sugar Free Energy Drink (16oz, 15-Pack) $18.99",
+  "reason": "Posted at $18.99, but Amazon showed $26.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-30T12:34:37.218912Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Red Shed 23 in. LED Scarecrow Groundbreaker Halloween Animatronic with Sound $37.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:34:37.218912Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Lenovo Tab Plus Gen 2 12.1-inch $256.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:34:37.218912Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Red Shed 5 ft. Boo LED Web Halloween String Lights $5.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:34:37.218912Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Red Shed 4 ft. Battery Powered Indoor LED Bat Halloween String Lights $4.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:34:37.218912Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "7-ft Artificial Flocked Christmas Tree $44.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:34:37.218912Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Laura Geller Made to Multitask Powder Palette Simply Sunkissed $7.20",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:34:37.218912Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "REI Co-op Women's Sahara Shade Hoodie Sun Shirt w/ UPF 50+ $29.83",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:34:37.218912Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "16-Foot Reusable Cord Management Kit: 58 cents + free shipping w/ $25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:34:37.218912Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Amazon Beauty Advent Calendar Only $109 Shipped ($525 Value) | Includes 19 Full-Size Products",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:34:37.218912Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Tiny Lowe’s Vest + Tiny Tools?! This Elf on the Shelf Set Is Only $12.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:34:37.218912Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Moza Racing R5 Direct Drive Sim Racing Bundle w/ 5.5Nm Wheelbase, Steering Wheel & Pedals (Black) $349.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:34:37.218912Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GRACE KARIN Womens Business Casual Tops, Long Sleeve Work Satin Blouses $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $19.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-30T12:29:17.617692Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Nike ACG Five Towers Men's UPF 40+ Dri-FIT UV Running Jacket $51.83",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:29:17.617692Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Turtle Beach Atlas 200 Playstation Wired Gaming Headset (3.5mm, White) $34.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:29:17.617692Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Hotpoint 6.9-Cu Ft Convertible Chest Freezer/Refrigerator $189.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:29:17.617692Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Patagonia Airshed Pro Women's Pullover (Wispy Green) $71.83",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:29:17.617692Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Halloween Cookie Cutter 3-Piece Set: 75 cents + free shipping w/ $25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:29:17.617692Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Godinger Dublin Crystal Biscuit Barrel Jar for $16 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:29:17.617692Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Toothbrush Head Cover 4-Pack: 63 cents + free shipping w/ $25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:29:17.617692Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "USB-Powered Mini Night Light: 88 cents + free shipping w/ $25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:29:17.617692Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "7\" x 14\" Hearth & Hand w/ Magnolia Acacia Wood Wall Mounted Display Box (2-Shelf) $24.49 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:29:17.617692Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "7-Night Mediterranean and Adriatic Cruise, Roundtrip from Rome $1,144.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:24:00.828020Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Men's Sports Belt: 98 cents + free shipping w/ $25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:24:00.828020Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Upcoming: Home Depot Holiday Sweater w/ Tools and $50 Gift Card for $30 on October 1",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:24:00.828020Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Samsung 43\" M7 (M70F) 4K UHD Smart Monitor $269.99 + Free Shipping w/ Prime or $6 Fee per Order",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:24:00.828020Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Old Navy Men's Solid Baselayer Tights $5.97",
   "reason": "Not evaluated",
@@ -90648,14 +90952,6 @@
   "public": false
  },
  {
-  "source": "slickdeals",
-  "raw_title": "HAPPRUN Native 1080P Projector $42.46 + Free Shipping",
-  "reason": "Community score too low (+-2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-21T08:24:51.775897Z",
-  "code": "low_score",
-  "public": true
- },
- {
   "source": "dealnews",
   "raw_title": "Men's Long Sleeve Quick Dry T-Shirt 7-Pack for $30 w/ Prime + free shipping",
   "reason": "Not evaluated",
@@ -132612,366 +132908,6 @@
   "raw_title": "Joyfy 17\" Halloween Graveyard Foam Headstones $15.24",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-16T12:46:02.613986Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Cambivo Breathable 3D Knit Elbow Brace Compression Sleeve (2-Pack) $5.99",
-  "reason": "Posted at $5.99, but Amazon showed $9.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-16T12:40:40.291026Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Linkind E12 500-Lumen Candelabra Color Smart Bulbs (2-Pack) $9.99",
-  "reason": "Posted at $9.99, but Amazon showed $33.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-16T12:40:40.291026Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "CRLKSSJX Moving Sand Art Lamp $19.98",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:40:40.291026Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Fanttik O11 Pro 3-3/8 Inch Mini Cordless Circular Saw $90.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:40:40.291026Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "100-Piece Christmas Stickers & Games $3.23",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:40:40.291026Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Lefant M3 Max Robot Vacuum and Mop with 20000Pa Suction $199.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:40:40.291026Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Varsity Stripe Wide Leg Two Piece Lounge Sets $13.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:40:40.291026Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Half Zip Pullover Fleece Quarter Zipper Hoodies $12.24",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:40:40.291026Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Renogy 50W 12V Monocrystalline Solar Panel for $20 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:40:40.291026Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Energizer Connect Smart 2K Wired Video Doorbell & Chime w/ 2-Way Audio & Night Vision (Black) $40 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:40:40.291026Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Ekouaer Womens 2 Piece Lounge/PJ's Sets $11.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:35:15.648540Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "WIHOLL Women’s V Neck Long Sleeve Tunic Tops $6.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:35:15.648540Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "WIHOLL Womens Sweaters $7.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:35:15.648540Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Two Piece Lounge Sets $13.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:35:15.648540Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Ekouaer Long Sleeve Soft Pajamas Sets $13.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:35:15.648540Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Suede Kids Clogs $15.59",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:35:15.648540Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Women'S Open Front Ruffle Peplum Jackets $16.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:35:15.648540Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Western Boho Fringe Trim Raw Edge Shirts $4.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:35:15.648540Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Women Long Zip Up Hoodie Stand Up Collar Windbreaker Jacket $8.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:35:15.648540Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Emotional Support Plush Footballs for Preorder for $17 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:35:15.648540Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Ryobi #11 Quick Change Hobby Knife w/ Offset Scissors $14.97 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:35:15.648540Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Osboo Electric Scooter for Adults 550W Peak 36V 7.5Ah Motor 19-Mile Range $118 + Free S/H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:35:15.648540Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "The Fall of Númenor: And Other Tales from the Second Age of Middle-earth Hardcover $16.61",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:35:15.648540Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "2-Pack CAMBIVO Knee Braces w/ Gel Pad (Black, All Sizes) $13.99 + Free Shipping w/ Prime or over $35",
-  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-16T12:29:50.259787Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Men's Cargo Sweatpants with Pockets $10.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:29:50.259787Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Crewneck V Neck Oversized Leopard Sweatshirt $14.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:29:50.259787Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Mock Neck Oversized Hoodies $12.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:29:50.259787Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Long Sleeve Waffle Quarter-Zip Polo Pullover $13.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:29:50.259787Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Autel MaxiCOM Bidirectional Bluetooth OBD2 Scanner for $254 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:29:50.259787Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Pressure Washer Nozzle 7-Pack for $7 + free shipping w/ $25",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:29:50.259787Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$7.99 | Untitled Goose Game (Nintendo Switch Digital Download)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:29:50.259787Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Macy's Toys Sale (Various - VTech, Barbie, Melissa & Doug, Lego, Fisher Price , Discovery Kids etc.) from $9.89 & More + Free Pickup at Macys or Free Shipping on $39+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:29:50.259787Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Long Plaid Fuzzy Fleece Jacket $13.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:24:26.704278Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Provence Weeklong River Cruise Package, Lyon to Arles $4,601.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:24:26.704278Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Schylling NeeDoh Squishmas Advent Calendar for $30 by invite + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:24:26.704278Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "MLB Vintage Apparel Deals at Fanatics: Up to 70% off + free shipping w/ $39",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:24:26.704278Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "3-Outlet Extender for $3 + free shipping w/ $25",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:24:26.704278Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "MOSFiATA Camping Hammock 550lb $18.14",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:24:26.704278Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Coros Pace Pro Smartwatch Gray $250",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:24:26.704278Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$12.97 ac FS WALMART+ by MountFTV: TV Wall Mount 360°Rotation Bracket for 13-42 Inch TVs and Monitors, Supports Up to 44 lbs, Swivel Tilt Extension with Articulating Arms,",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:24:26.704278Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[Prime, SnS] $4.25 | 4-Pack Amazon Essentials Women's Seamless No Show Thong Panties at Amazon",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-16T12:24:26.704278Z",
-  "code": "duplicate",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Deyeek Men's Cargo Pants Wide Leg Workout Sweat Pants with Pockets Casual $10.99",
-  "reason": "Posted at $10.99, but Amazon showed $19.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-16T12:19:02.825038Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "2-in-1 Light-Blocking Oil Sprayer for $3 + free shipping w/ $25",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:19:02.825038Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$3.49 | Gunbrella (Nintendo Switch Digital Download)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:19:02.825038Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "24-Oz Stanley Stay-Hot Camp Mug (Star Shine) $17.50 + Free Shipping on $49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:19:02.825038Z",
   "code": "not_checked",
   "public": false
  }
