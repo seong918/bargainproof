@@ -1,5 +1,45 @@
 [
  {
+  "source": "dealcatcher",
+  "raw_title": "24-Night Tahiti and Hawaii Cruise, Vancouver to Auckland $2,569.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T11:20:08.059840Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Piece Ekouaer Women's Satin Short Sleeve Pajama Set (Various Colors) $11 + Free Shipping w/ Prime",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T11:14:44.389071Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Fresmol Rechargeable Cordless Electric Air Duster $19.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T11:14:44.389071Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$23.09: BANDAI SPIRITS Bandai 2378866 AT-ST 1/48 Star Wars at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T11:14:44.389071Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Lenovo Tab Plus Gen 2 12.1\" 2560x1600 Android 16 Tablet (8GB/128GB) $256.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T11:14:44.389071Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Goodstoworld Men's Hawaiian Fake Muscle Graphic Shirt for $13 + free shipping w/ Prime",
   "reason": "Not evaluated",
@@ -132868,54 +132908,6 @@
   "raw_title": "Fanatics Free Shipping Promo Code: Free Shipping w/ $39+ + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-16T11:24:55.464206Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Rechargeable Camping Light for $10 + free shipping w/ $25",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T11:19:32.669972Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Harry Potter Mini Howler: Record Your Own Message! Book for $10 w/ Prime + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T11:19:32.669972Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "30-Oz Stanley Quencher H2.0 FlowState Tumbler (Various) $20 + Free Pickup at Dick's",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T11:19:32.669972Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ORICO M.2 NVMe SSD Enclosure, USB 3.1 Gen 2 (10 Gbps) PCIe External Adapter NVMe Case for 2230/2242/2260/2280 M.2 SSD up to 8TB, UASP Supported - M2PV $10.5",
-  "reason": "Posted at $10.50, but Amazon showed $13.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-16T11:14:20.854172Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "On Men's Cloudrunner 3 Max Running Shoes (White) $89.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T11:14:20.854172Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "40-Oz Stanley Quencher ProTour Flip Straw Water Bottle (Various) $22.50 + Free PU at Dick's",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T11:14:20.854172Z",
   "code": "not_checked",
   "public": false
  }

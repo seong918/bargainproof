@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "2a0823c3acc4",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20077701-8-chef-craft-classic-sturdy-whisk-3-14-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "8\" Chef Craft Classic Sturdy Whisk + or on orders over",
+  "raw_title": "8\" Chef Craft Classic Sturdy Whisk $3.14 + Free Shipping w/ Prime or on orders over $35",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 314,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "prime"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-30T11:20:08.059840Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "8a7344bf8eb5",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20077488-avidlove-women-s-v-neck-lingerie-nightgown-various-colors-6-49-free-shipping-w-prime?utm_source=rss&utm_content=ht&utm_medium=RSS2",
