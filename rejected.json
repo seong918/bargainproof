@@ -1,5 +1,29 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Lucero LC100 Classical Guitar for $140 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T18:44:48.779888Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Dyson Airstrait Wet-to-Dry Straightener with Omega Hydrating Hair Oil $379.99 + $9.99 Shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T18:44:48.779888Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "5-Book Fancy Nancy Collector's Quintet Boxed Book Set $5.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-30T18:44:48.779888Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Ethos Ceramic Car Wash Shampoo w/ SiO₂ Hydrophobic Protection (Pineapple) $10.70 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
@@ -132534,37 +132558,5 @@
   "rejected_at": "2026-09-16T18:47:29.528228Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "*NEW* Honey Smoked Salmon Stackers 3-Pack Just $7.87 at Sam’s Club",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T18:42:05.099065Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Plackers Gum Defense Infused with Coconut Oil Floss Picks, 75-count, 6-pack $9.99 free shipping Costco.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T18:42:05.099065Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Metroid Prime 4 (Switch Physical) $35 Best Buy",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T18:42:05.099065Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – BEYYON Rechargeable Hand Warmers, 2-Pack - $9.99 w/ Code",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-16T18:42:05.099065Z",
-  "code": "duplicate",
-  "public": true
  }
 ]
