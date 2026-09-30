@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$13.10 or less S&S PRIME ONLY Amazon Basics Triple Action Dishwasher Pacs, Fresh Scent, 90 Count Buy 4, save more promo",
+  "reason": "Community score too low (+0) to pass without a price check — needs multi-pack, Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T03:09:08.088601Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "790-Piece LEGO Classic Large Creative Brick Box Building Kit $33.49 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+3) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T03:09:08.088601Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[NEW, Prime] $11.19 | Renegade Game Studios The Fox in The Forest Card Game at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T03:09:08.088601Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "YMMV - Best Buy Open Box (Good) Microsoft Surface Pro (11th Ed) Snapdragon X Plus - 16GB Memory - 256GB SSD - Platinum $396.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T03:09:08.088601Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Jordan Women's Flight Court SE Sneaker $41 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T03:09:08.088601Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[Prime] $8.99 | Dutch Blitz Expansion Pack - 4 New Card Colors - 160 Cards for 4 Players at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-30T03:03:30.523518Z",
@@ -132612,38 +132652,6 @@
   "raw_title": "Stitch Toddler Boys Slide Sandals $3.12+",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-16T03:10:22.760032Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – JACKETOWN Men’s Sherpa-Lined Flannel Hoodie Jacket - $19.99 w/ Code",
-  "reason": "Community score too low (+0) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-16T03:04:57.695517Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Fortnite Little & Big Boys Slip On Slide Sandals $6.33",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T03:04:57.695517Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$299.99 BEST BUY Insignia™ - 65\" Class F50 Series LED 4K UHD Smart Fire TV",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T03:04:57.695517Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Diablo 4 FREE Trial $12.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T03:04:57.695517Z",
   "code": "not_checked",
   "public": false
  }
