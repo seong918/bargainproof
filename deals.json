@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "b5df4eae82fd",
+  "source": "techbargains",
+  "source_url": "https://www.amazon.com/gp/product/B00451UL8G/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+  "title": "Energizer MAX 3000mAh AAA Alkaline Batteries (4-Pack)",
+  "raw_title": "Energizer MAX 3000mAh AAA Alkaline Batteries (4-Pack) $2.29",
+  "merchant": "amazon",
+  "buy_url": "https://www.amazon.com/gp/product/B00451UL8G/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+  "deal_total_cents": 229,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "qty"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 229,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 229,
+  "amazon_url": "https://www.amazon.com/dp/B00451UL8G",
+  "amazon_checked_at": "2026-09-30T07:50:23.238087Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": null,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B00451UL8G",
+  "image_url": null,
+  "published_at": "2026-09-30T07:50:19.130151Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "50dde017bfb3",
   "source": "techbargains",
   "source_url": "https://www.amazon.com/gp/product/B0GGH3VPVL/ref=ox_sc_act_title_1?smid=A2C3SMXXIDC93V&th=1",

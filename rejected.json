@@ -1,5 +1,37 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Carhartt Station Medium Tool Pouch (Carhartt Brown) $17.14 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T07:50:19.130151Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] Hasbro Marvel Legends Series Werewolf By Night 6\" Action Figure $17.49 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T07:50:19.130151Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "54\" x 108\" Disposable Plastic Table Cloth 8-Pack for $3.59 via Sub. & Save + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T07:50:19.130151Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Ayovoch Memory Foam Giant Comfy Corduroy Bean Bag with Washable Cover $55.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T07:50:19.130151Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Orgain 5g Creatine Monohydrate Micronized Powder (17.64oz, 100-Servings) $11.96",
   "reason": "Posted at $11.96, but Amazon showed $12.59 when we checked — the deal is probably over",
@@ -132797,30 +132829,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-16T07:50:21.099566Z",
   "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "De'Longhi Coffee Care Kit, Essential Coffee Machine Maintenance Products, Suitable for Machines with filters, DLSC306, Black $30.95",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-16T07:44:57.648281Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Chesona Lightweight USB-C Rechargeable Keyboard Case with Bluetooth for iPads $29.99",
-  "reason": "Posted at $29.99, but Amazon showed $59.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-16T07:44:57.648281Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Vasagle 3-Tier Side Table with Charging Station for $20 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T07:44:57.648281Z",
-  "code": "no_signal",
   "public": false
  }
 ]
