@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[Prime] $8.99 | Dutch Blitz Expansion Pack - 4 New Card Colors - 160 Cards for 4 Players at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T03:03:30.523518Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $9.99 | Stonemaier Games: Viticulture: Moor Visitors Expansion at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T03:03:30.523518Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$9.66 S&S or less PRIME ONLY Amazon Basics 39 Gallon 40 count Lawn & Leaf Heavy Duty Drawstring Trash Bags, buy 4, save more promo",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T03:03:30.523518Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$1.80 PRIME ONLY S&S Coffee Filters for 8-12 Cup Coffee Makers, White, 200 Count, buy 4, save 10% more promo",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T03:03:30.523518Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime]$169.99: Ninja® CREAMi® 7-in-1 Ice Cream Maker, Ice Cream, Gelato & more, NC299AMZ at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T03:03:30.523518Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$39.68 or less S&S PRIME ONLY Amazon Brand - Wag Wholesome Grains Dry Dog Food with Salmon and Brown Rice, 30 lb Bag",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T03:03:30.523518Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[Prime]$219.99: Shark Navigator Robot Vacuum, 30-Day Self-Emptying Base, White, AV2110S at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-30T02:57:53.353292Z",
@@ -132596,46 +132644,6 @@
   "raw_title": "Diablo 4 FREE Trial $12.49",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-16T03:04:57.695517Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – SMALLRT 11-in-1 Desk Clamp Power Strip w/ 40W USB-C - $26.99 w/ Code",
-  "reason": "Community score too low (+0) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-16T02:59:36.303029Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "20-Pc BEWOS Stainless Steel Flatware Set (Service for 4) $10 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-16T02:59:36.303029Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas men Supernova Ease Shoes $35 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T02:59:36.303029Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "4 pack Energizer 2032 batteries $3.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T02:59:36.303029Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Paw Patrol Toddler Boys Clogs Size 5 $4.1",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T02:59:36.303029Z",
   "code": "not_checked",
   "public": false
  }
