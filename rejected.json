@@ -1,5 +1,29 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$10.49 | Victoria Flower - Orchid by Maison Alhambra for Women - 3.4 oz EDP Spray at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-30T23:12:50.665553Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Mecale Folding Work Platform Scaffolding for $85 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T23:12:50.665553Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Reebok Men's Match Prime V2 Court Lifestyle Sneakers for $30 + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T23:12:50.665553Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Refurb Apple iPad 10.9\" 64GB Wi-Fi Tablet (2022) for $295 + free shipping",
   "reason": "Not evaluated",
@@ -132356,38 +132380,6 @@
   "raw_title": "Up to 75% Off Select Threshold Comforter Sets (Various): Twin/Twin XL Washed Waffle Weave Comforter & Sham Set (Camel) $19.75 & More + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-16T23:17:31.935325Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Fjällräven 1960 Logo Långtradarkeps Hat for $12 + free shipping w/ $60",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T23:12:05.310607Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "NordicTrack T10 Treadmill for $999 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T23:12:05.310607Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Smash Pack: Monte Nica by AJ vs Cinco Decadas - 10 Cigars~$59 @ Cigar Page~Free Shipping!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T23:12:05.310607Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ADIDAS X COCA-COLA SAMBA OG SHOES - Men's and Women's $55",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T23:12:05.310607Z",
   "code": "not_checked",
   "public": false
  }
