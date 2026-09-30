@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "015d59df4369",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20078871-sns-0-50-14-5-oz-amazon-fresh-cut-green-beans-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "14.5-Oz Amazon Fresh Cut Green Beans",
+  "raw_title": "[SnS] $0.50* | 14.5-Oz Amazon Fresh Cut Green Beans at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 50,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "sns"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-30T19:07:18.449280Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "f9bea5b23e64",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20078433-sns-ac-11-48-12-pk-4-oz-lenny-larry-s-protein-cookie-birthday-cake-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
