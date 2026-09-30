@@ -1,6 +1,150 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$14.99: GUND Baby Princess Castle 5-Piece Sensory Plush Toy Playset",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-30T14:54:15.734206Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "3.3' iVANKY up to 120Gbps / 240W PD Intel Certified Thunderbolt 5 Cable $19 + Free Shipping w/ Prime",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T14:54:15.734206Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Golf Rangefinder with Slope 1500 Yards | Laser Range Finder $29.99 AC + Free Shipping",
+  "reason": "Posted at $29.99, but Amazon showed $59.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-30T14:54:15.734206Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Chaya Premium 39\" Electric Padded Guitar Gig Bag $69.99",
+  "reason": "Posted at $69.99, but Amazon showed $139.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-30T14:54:15.734206Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "iZeeker iD320 4K WiFi 3.19\" Display Dash Cam with 1080p Rear & Cabin Cams $47.99",
+  "reason": "Posted at $47.99, but Amazon showed $49.19 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-30T14:54:15.734206Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Berberine Supplement Drops with Ceylon Cinnamon, Milk Thistle, Bitter Melon $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T14:54:15.734206Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Mesh Beach Bag for $5 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T14:54:15.734206Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "The North Face Surge Commuter 15\" Laptop Backpack for $60 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T14:54:15.734206Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Resale] Lenovo ThinkStation P3 Tiny, Intel Core i9-14900 vPro, Windows 11 Pro 64, 16GB RAM, 512GB SSD & NVIDIA T1000 8GB Graphics Card (Used - Like New) at Amazon $1456.65",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-30T14:48:38.363349Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "WIWIGO 79\"x83\" Water-Repellent Beach Blanket (Blue Flower) $9.06",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T14:48:38.363349Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Monster Persona SE ANC Active Noise Cancelling Headphones $39.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T14:48:38.363349Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Owala FreeSip 32-Oz Stainless Steel Water Bottle $19.68",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T14:48:38.363349Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Outdoor Timer Outlet Waterproof 2 Grounded Outlets $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T14:48:38.363349Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Glow in the Dark Acrylic Paint Set - 10 Colors $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T14:48:38.363349Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Monster S310 Portable Bluetooth Speaker 30W $34.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T14:48:38.363349Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Brightown 39' 100-LED Solar Rope Lights (Warm White) $4.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T14:48:38.363349Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Gorilla Grip Patented Fitted Bed Sheet Holders for Corners 4-Pack for $14 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T14:48:38.363349Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "2nd-Gen Ring 1080p Indoor Cam (2023) for $25 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T14:48:38.363349Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "15-Count 0.5-Oz YumEarth Organic Giggles Chewy Candy Snack Packs $7.97 w/ S&S + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-30T14:43:03.847940Z",
@@ -132372,214 +132516,6 @@
   "raw_title": "HEEYCEM 10 Inch Ice Mist Desktop Fan, Humidifying Cooling Fan $14.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-16T14:54:30.695637Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "AMZ PRIME DEAL $29.16 Amazon Essentials Women's Lace-Up Combat Ankle Boots with Side Zipper, Lug Sole (BROWN)",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-16T14:49:04.833319Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "GEARWRENCH 30 Piece 12 Pt SAE/mm Ratcheting Combination Wrench Set| 86702 $188.16",
-  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-16T14:49:04.833319Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "GEARWRENCH 27 Piece Large Chrome Punch & Chisel Set | 82306 $138",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-16T14:49:04.833319Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "PRIME DEAL $14.96-$16 Size/Color Options Amazon Essentials Women's Loafer Flat",
-  "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-16T14:49:04.833319Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Deyeek Men's Lightweight Open Bottom Baggy Cargo Sweatpants (Various Sizes) $10.99",
-  "reason": "Posted at $10.99, but Amazon showed $19.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-16T14:49:04.833319Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Welch's 0.8oz Berries N Cherries Fruit Snacks (40-Count) $3.49",
-  "reason": "Posted at $3.49, but Amazon showed $6.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-16T14:49:04.833319Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Pepperidge Farm Farmhouse Thin and Crispy Dark Chocolate Chip Cookies (6.9oz, 14 Cookies) $2.48",
-  "reason": "Posted at $2.48, but Amazon showed $3.62 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-16T14:49:04.833319Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Halloween Corduroy Blazer Jackets $36.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T14:49:04.833319Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Berrcom Insect Sting and Bite Relief Device USB-C $13.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T14:49:04.833319Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Christmas Squishies Advent Calendar 2026 $18.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T14:49:04.833319Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Nerf Super Soaker Mega Dunk-Fill 33.9-Oz Pump-Action Water Blaster $11 + Free Shipping w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T14:49:04.833319Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Nike Men's Downshifter 14 Road Running Shoes (4 Colors) $49.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T14:49:04.833319Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Nerf Super Soaker Mini Dunk-Fill 3.4-Oz Water Blaster $4.47 + Free Shipping w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T14:49:04.833319Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Nerf Super Soaker Minecraft Turtle Water Blaster $11.88 + Free Shipping w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T14:49:04.833319Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Shark Navigator Lift-Away Upright Vacuum, Pet Friendly, Bristle Brushroll, NV380 Teal $118",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T14:49:04.833319Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[Open-Box] ASUS ROG Xbox Ally Handheld: 7\" FHD 120Hz, Ryzen Z2 A, 16GB RAM, 512GB SSD from $462 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T14:49:04.833319Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "2D Small Santa Christmas Ornament $6.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T14:43:38.022688Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Women Elastic Waist Ankle Trousers $12.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T14:43:38.022688Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Strapless Tube Top Stretchy Non-Slip Backless Crop Top $5.88",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T14:43:38.022688Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Mock Neck Fleece Oversized Pullover Sweatshirt $11.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T14:43:38.022688Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Polka Dot Coat $16.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T14:43:38.022688Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "3D Moving Sand Art Lamp $19.98",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T14:43:38.022688Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Zwilling XL Mystery Box for $150 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T14:43:38.022688Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Zwilling German Knife Sale: Up to 58% off + free shipping w/ $79",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T14:43:38.022688Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Old Navy Baby & Toddler Pajamas Just $6 (Includes Fall & Halloween Styles)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T14:43:38.022688Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "GOG Digital PC Games: Ruined King: A League of Legends Story $7.49; The Planet Crafter $12; Kena: Bridge of Spirits $20 & More",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T14:43:38.022688Z",
   "code": "not_checked",
   "public": false
  }

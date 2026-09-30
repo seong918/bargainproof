@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "06ba20cfd35a",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20078406-prime-100-count-amazon-basics-extra-strength-acetaminophen-pm-caplets-4-78-w-s-s-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "100-Count Amazon Basics Extra Strength Acetaminophen PM Caplets w/ S&S",
+  "raw_title": "[Prime] 100-Count Amazon Basics Extra Strength Acetaminophen PM Caplets $4.78 w/ S&S + Free Shipping",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 478,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "sns",
+   "prime"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-30T14:54:15.734206Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "4a7d841c3f23",
   "source": "techbargains",
   "source_url": "https://www.amazon.com/gp/product/B0GMPVKDWS/ref=ox_sc_act_image_1?smid=A2NZXCP1D8DIIH&psc=1",
