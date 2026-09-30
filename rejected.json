@@ -1,5 +1,61 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Teenage Mutant Ninja Turtles x Naruto (Paperback) $9.27 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T15:33:34.192217Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "TIDETREK 11'/11'6\" x 33\"/34\" x 6\" Inflatable SUP Paddle Board, Extra-Wide, Stable Stand-Up Paddle Board with Premium Full Accessory Set $99",
+  "reason": "Posted at $99.00, but Amazon showed $199.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-30T15:33:34.192217Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LED Work Light Compatible with DeWalt 20V Battery, 14800LM 148W $15.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T15:33:34.192217Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "PSIER Bone Conduction Headphones IPX8 Waterproof $39.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T15:33:34.192217Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Minetom Inflatable LED T Rex Dinosaur Costume Adult $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T15:33:34.192217Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Extreme YMMV; Open-Box Excellent] KEF Q1 Meta Bookshelf Speakers (Pair; Walnut) $289.99 + Free Store Pickup",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T15:33:34.192217Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Samsung 43\" M70F 4K 3840 x 2160 60Hz Smart Monitor $279.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T15:33:34.192217Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Sriboo 3-in-1 Foldable Wireless Magnetic Charger Stand $9.13",
   "reason": "Posted at $9.13, but Amazon showed $23.39 when we checked — the deal is probably over",
@@ -132252,54 +132308,6 @@
   "raw_title": "12-Pack: Amos Peelerz Peelable Mango Gummies (4.25oz) $12 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-16T15:37:53.877347Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – OMOTON TP06-E Magnetic iPhone Tripod - $17.49 w/ Code",
-  "reason": "Community score too low (+-1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-16T15:32:28.296926Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Xeitin 400ml Capacity Waterless Essential Oil Diffuser $25.64",
-  "reason": "Posted at $25.64, but Amazon showed $51.28 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-16T15:32:28.296926Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "DICK'S Sporting Goods Fan Shop Jersey Sale: Up to 85% off + free shipping w/ $49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T15:32:28.296926Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Ludatido 80-Pint Energy Star Dehumidifier for $150 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T15:32:28.296926Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Plackers Floss Picks 90-Count Only $1.81 on Amazon",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T15:32:28.296926Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Adidas women GAZELLE BOLD Shoes in Semi Flash Red - $31 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T15:32:28.296926Z",
   "code": "not_checked",
   "public": false
  }
