@@ -1,6 +1,150 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "12 Ounce Bag Goldfish Pretzel Crackers - $2.67 AC & S&S - YMMV",
+  "reason": "Community score too low (+3) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T10:41:07.535494Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Hanes Men's EcoSmart Fleece Sweatshirt for $8 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T10:41:07.535494Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Converse Men's Chuck Patch T-Shirt (Black, Large) $6.39 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T10:35:30.235575Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Etac Turner PRO Patient Transfer Aid, Standing Pivot Sit to Stand $389.98",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-30T10:35:30.235575Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "3M DBI-SALA ExoFit STRATA Comfort Construction Safety Harness, Large $581.95",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-30T10:35:30.235575Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Prime Members: Set of 18 SONGMICS Foldable Fabric Drawer Organizers $19.20",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T10:35:30.235575Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Shop Fox Knife Belt Sander/Buffer W1843 $625",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-30T10:35:30.235575Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Hi Clasmix Merino Wool Cushioned Thermal Crew Boot Socks (2-Pair) $8.99",
+  "reason": "Posted at $8.99, but Amazon showed $14.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-30T10:35:30.235575Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Owala 24oz FreeSip Insulated Stainless Steel Water Bottle $18.26",
+  "reason": "Posted at $18.26, but Amazon showed $22.49 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-30T10:35:30.235575Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "1996 Star Wars Darth Vader Edition 23k Gold Card Complete Set of 9 (Graded Gem-Mint 10) for $90 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T10:35:30.235575Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$72.99: ANTLER Soft Stripe Medium Checked Luggage, Sand Yellow, 27.2\", 74-88L at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T10:35:30.235575Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Men's Comfort Straight Leg Drawstring Sweatpants for 2 for $12 + $18 shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T10:29:53.531152Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Yealink AVoIP Decoder $902.52",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-30T10:24:16.731382Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "WZRELB 10KW 36V Pure Sine Wave Inverter,36 Volt DC to AC 120V 240V Split Phase Power Inverter,20KW Surge,4 AC Outlets,2*AC Hardwire Terminal,16.6ft LCD Remote Panel $1802.44",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-30T10:24:16.731382Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Encool 40oz Leakproof Insulated Dual-Sip Water Bottle $8.99",
+  "reason": "Posted at $8.99, but Amazon showed $22.22 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-30T10:24:16.731382Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Mikolo Power Rack Cage, Weight Rack with Cable Crossover Machine, Multi-Function Squat Rack with J Hooks, Dip Bars and Landmine for Home Gym Red $405.39 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T10:24:16.731382Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LG gram Pro 17\" Touch Laptop, Intel Core Ultra 7 355, 32GB RAM, 1TB SSD $2199",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-30T10:18:39.389339Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "LarpGears Latex Cry Baby Full Head Halloween Mask for $10 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T10:18:39.389339Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Hotor Large Foldable Travel Tote Bag w/ Pouch (Black) $9.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+3) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-30T10:13:03.332392Z",
@@ -132844,150 +132988,6 @@
   "raw_title": "LEGO Flash Sale at Macy's: Up to 40% off + free shipping w/ $39",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-16T10:42:39.946191Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "ClearSpace Heavy Duty Moving Bags 8-Pack for $18 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T10:37:16.378397Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "HUGE YMMV Samsung Galaxy Watch Ultra 2 for $293.20 after Ultra 2024 trade-in and 5% discount code on EPP or Veterans or work discount stores",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T10:37:16.378397Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Men’s PFG Slack Tide Camp Shirt $25.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T10:37:16.378397Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Pextian Hot Dog Vendor Duo Halloween Costume for $20 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T10:32:00.010464Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "LEGO 2026 Advent Calendar Deals at Macy's: 20% to 30% off + free shipping w/ $39",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T10:32:00.010464Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Van Halen - Live: Right Here, Right Now 3LP $65.89",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T10:32:00.010464Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Lucklike W210 7000A 150PSI 21800mAh Portable Car Battery Jump Starter $43.99",
-  "reason": "Posted at $43.99, but Amazon showed $49.59 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-16T10:26:40.913075Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Walmart Top 100+ Halloween Costumes Sale for From $9.97 + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T10:26:40.913075Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "YMMV: Van Halen - Live In New Haven, CT, 1986 $19.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T10:26:40.913075Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Puma Womens Suede XL Putty Shoes, Warm White(Size 6.5~10) $31.20 + Free S&H at ebay",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T10:26:40.913075Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "T808 Mini Bluetooth Wireless Keyboard w/ Centered Touchpad $18.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-16T10:26:40.913075Z",
-  "code": "duplicate",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "2-Pack 50' Addlon G40 LED Outdoor String Lights $19.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+-1) to pass without a price check — needs multi-pack, Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-16T10:21:17.764269Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "2-Pack 8-Oz John Frieda Ultrafiller+ Thickening Shampoo & Conditioner Set $15.07 w/ S&S + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, multi-pack, Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-16T10:21:17.764269Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "34\" Ciokea 3-Shelf Folding Metal Outdoor Grill Cart w/ Locking Wheels $68.89 + Free Shipping",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-16T10:21:17.764269Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$749.95* | Samsung Galaxy S25 Ultra 5G, 512GB + 12GB RAM, Unlocked (Renewed) at Amazon",
-  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-16T10:21:17.764269Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Macy's 100 Days Until Christmas Sale: Up to 80% off + free shipping w/ $39",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T10:21:17.764269Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Axth 25-in-1 Pro Precision Screwdriver Kit with Pry Set $5.99",
-  "reason": "Posted at $5.99, but Amazon showed $9.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-16T10:15:55.089498Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$14.99: Farberware Bamboo Cutting Board w/ Clear Locking Lid (11\"x14\" ) at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T10:15:55.089498Z",
   "code": "not_checked",
   "public": false
  }
