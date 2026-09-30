@@ -1,6 +1,126 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$39.99: GreenLife 3.5QT Ceramic Nonstick Slow Cooker, Cooktop/Oven Safe, Turquoise",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-30T13:07:23.702916Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Godinger Hershey Kiss Crystal Candy Dish for $18 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T13:07:23.702916Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Meal-Prep Game Changer: Portable Salad Pod 2-Pack Only $28 Shipped on QVC",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T13:07:23.702916Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Borderlands 4 (Physical, Xbox Series X) $24.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T13:07:23.702916Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ryobi ONE+ HP 18V Brushless Cordless Transfer Pump (Tool-Only) $139.00 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T13:07:23.702916Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "iLive 2.0 29\" HD Soundbar with Bluetooth, ITB037BO $19",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T13:07:23.702916Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DEWALT 3-in-1 Impact Ready Bit Holder (DWA3HLDFT) $8.16 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T13:01:45.141590Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Terrifier 3 (Limited Edition) 4K UHD + Blu Ray $43.49 Amazon.com",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-30T13:01:45.141590Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ekouaer Women's 2 Piece Set Ruched Side Lounge Set with Pockets $10.59",
+  "reason": "Posted at $10.59, but Amazon showed $19.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-30T13:01:45.141590Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Passau 4-in-1 12H Induction Bluetooth Speaker with Phone Stand & RGB Light $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $19.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-30T13:01:45.141590Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $18.49: Zojirushi SM-VH60-XA GoCafe Insulated Stainless Steel Mug, 20-Ounce (.60 liter) at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T12:56:06.195419Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "NARWAL S30 Pro Wet Dry Vacuum Cleaner, 20000Pa, Self Cleaning $379.99",
+  "reason": "Posted at $379.99, but Amazon showed $549.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-30T12:56:06.195419Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Toyota Parts Online 25% off + Free shipping up to $75",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:56:06.195419Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Columbia Men's Tree Flag Graphic T-Shirt (Steel, Sizes: S-XXL) $7.93 + Free Store Pickup at Macy's or Free Shipping on $39+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:56:06.195419Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "A Plague Tale: Innocence (DRM-Free) PC Digital Download - $3.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:56:06.195419Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[AC] Wiha 6inch Adjustable Wrench $16.91 + Free S&H w/ Prime or $35+",
   "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, clip coupon, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-30T12:50:31.252654Z",
@@ -132628,278 +132748,6 @@
   "raw_title": "Yexmas 10ft Halloween Inflatable Pumpkins Outdoor Decor with Black Cat Tombstone and Spectre,Built-in LED Lights,for Halloween Party,Yard,Garden,Lawn $39.95",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-16T13:07:37.571690Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "EUARNE Red Light Therapy for Face, 324 LEDs FDA Cleared $51.99",
-  "reason": "Posted at $51.99, but Amazon showed $103.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-16T13:02:13.219628Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "YITAMOTOR Soft Roll Up Truck Bed Cover $192.79",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T13:02:13.219628Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "YITAMOTOR LED Headlights Compatible with Dodge Rams $198.39",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T13:02:13.219628Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "OEDRO Running Boards for 2019-2025 Chevy Silverado/GMC Sierra $149.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T13:02:13.219628Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Soccer Lover Mom Shirt $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T13:02:13.219628Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "V Neck Mimi/Grandma Life T-Shirt $8.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T13:02:13.219628Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "7-Night Portugal Flight, Hotel, and Tour Vacation for From $3,098 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T13:02:13.219628Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Air Fryer Baking Ramekin 4-Pack for $2 + free shipping w/ $25",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T13:02:13.219628Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Ecarke 220W Portable Power Inverter for DeWALT 20V Battery for $21 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T13:02:13.219628Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "DJI Osmo Nano Standard Combo (64GB) Wearable Camera $256 + Free S/H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T13:02:13.219628Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "VTOMAN X4 2500A Jump Starter with 150PSI Air Compressor, Portable 12V Jump Box for 8.5L Gas/6L Diesel Engines $29.99 + Free Shipping w/Walmart+ or $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T13:02:13.219628Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "24 Pieces Melissa & Doug Beauty Kiosk Wooden Vending Machine Salon Play Set $26.39 + Free S&H w/ Prime or $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T13:02:13.219628Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Eastpak Tranverz M – 78L Large Wheeled Luggage Black $55",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T13:02:13.219628Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "M Maelreg Dry Fit Performance Moisture Wicking Collared Golf Polo Shirt $9.97",
-  "reason": "Posted at $9.97, but Amazon showed $19.95 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-16T12:56:50.360602Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Halloween Light Up Ghost Outdoor Decoration 2-Pack 5 FT $19.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:56:50.360602Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "16.4 ft 255 LED Halloween Giant Spider Web Lights Set $21.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:56:50.360602Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Brillo Basics Estracell No Scratch Scrub Sponge 2 Count $0.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:56:50.360602Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Halloween 7x16ft Garage Door Cover $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:56:50.360602Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "40FT Solar String Lights Outdoor Waterproof Warm White $4.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:56:50.360602Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "(New Cust) JanSport 26L Cross Town Backpack – 12″ Classic Daypack, Navy $7.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:56:50.360602Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Monster Open Ear Bluetooth Earbuds with ENC Noise Canceling $29.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:56:50.360602Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Ecarke Cordless Fuel Transfer Pump for $45 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:56:50.360602Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Certified Refurbished | Google Pixel Fold Unlocked Android 5G 256GB Smartphone $329 + Free S/H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:56:50.360602Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "VASAGLE Over the Toilet Storage Cabinet 31.1''W $72.23",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:51:26.400978Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "SONGMICS 2 Pack 5-Tier Over-the-Door Organizer $25.59",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:51:26.400978Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Amazon Essential Unisex Kids Socks 14-Pairs $4.82",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:51:26.400978Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Toshiba 65\" 4K UHD QLED Smart Fire TV with Native 165Hz $1,297.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:51:26.400978Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "WoodWick Magnolia Birch Scented Candle, Crackling Wick, 21.5oz $17.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:51:26.400978Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Chelmon Faux Leather Hobo Shoulder Bag (Black) $11.87",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:51:26.400978Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "OMEN by HP 23.8\" 1920x1080 FHD 165Hz IPS Gaming Monitor $89.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:51:26.400978Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Citizen Men's Promaster Dive Automatic 3-Hand Stainless Steel Watch 41mm $375.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:51:26.400978Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Samsung Galaxy S25 Ultra 5G, 512GB + 12GB RAM, Unlocked (Renewed) $749.95",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:51:26.400978Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Aoxun 8 x 8-Foot Heavy Duty Gazebo w/ Curtain & Mosquito Netting for $164 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:51:26.400978Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Walmart Fall Beauty Finds from $4.97 + The Blush Hack You Need to Try!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:51:26.400978Z",
   "code": "not_checked",
   "public": false
  }
