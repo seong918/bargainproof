@@ -1,5 +1,133 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Clown in a Cornfield (Steelbook) 4K UHD $20.39 Amazon.com",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-30T18:50:26.443967Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "All In Motion Men's Heavy Twill Stretch Pants $17.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T18:50:26.443967Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Monopoly Star Wars Heroes vs. Villains Nintendo Switch 2 $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T18:50:26.443967Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ryobi ONE+ HP 18V Brushless Cordless Compact 1/2 in 4 Mode Impact Wrench with 4.0 Ah Battery $139.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T18:50:26.443967Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ryobi USB Lithium Cordless 550 Lumens Rechargeable Inspection Flashlight Kit with Clamp Fan $39.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T18:50:26.443967Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ryobi ONE+ 18V Cordless Hybrid WHISPER SERIES 9 in. Oscillating Fan with ONE+ 18V 4.0 Ah Battery $139.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T18:50:26.443967Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Lisen 240W 10-Foot USB-C to USB-C Charging Cable for $10 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T18:50:26.443967Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "DiscountMags Home & Garden Magazine Sale for From $5.50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T18:50:26.443967Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ludwig Raw Brass 6.5\" x 14\" Snare Drum for $699 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T18:50:26.443967Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Craftsman 48\" Level Tool for $14 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T18:50:26.443967Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Carhartt x '47 Hats Deals at Fanatics for From $30 + shipping varies",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T18:50:26.443967Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Koda Outdoor LED Wall Lantern $49.99 Black, Bronze or White free shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T18:50:26.443967Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "48-Oz Magic Bullet Pitcher Combo Blender Set (2 Colors) $35.99 + Free Shipping on $49+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T18:50:26.443967Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Squishmallows Original Micromallows Ferris Wheel Display Set - Includes 22 Micromallows - $22.49 + free ship w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T18:50:26.443967Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Rubies The Wizard of Oz: Dorothy Costume for Kids, Girl's Medium - $14.99 + free ship w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T18:50:26.443967Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "BLACK+DECKER Construction Dress Up Trunk for Kids - $12.74 + free ship w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T18:50:26.443967Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Lucero LC100 Classical Guitar for $140 + free shipping",
   "reason": "Not evaluated",
@@ -132516,46 +132644,6 @@
   "raw_title": "Women’s Seamless Thong Panties Multi-Packs from $4 Shipped on Amazon",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-16T18:52:56.154107Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "CXK Bone Conduction Headphones Bluetooth 6.0 Open Ear Wireless with Mic $23.79",
-  "reason": "Posted at $23.79, but Amazon showed $29.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-16T18:47:29.528228Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Sur La Table Anniversary Sale: Up to 50% off + free shipping w/ $75",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T18:47:29.528228Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Kobalt 24-Volt 6\" Battery Chainsaw w/ 2 Ah Battery & Charger for $99 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T18:47:29.528228Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Supvan G15M Mini Portable Label Maker Machine w/ Heat Shrink Tube Bundle for $51 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T18:47:29.528228Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Top Treasures Christmas Village Library $28.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T18:47:29.528228Z",
   "code": "not_checked",
   "public": false
  }
