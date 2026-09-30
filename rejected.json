@@ -1,6 +1,126 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS, AC] $18.76* | 12-Pack 11-Oz La Colombe Coffee (Oatmilk Vanilla Latte) at Amazon ($1.56 each)",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T19:18:31.208663Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS] $19.69* | 4-Pack 25.4-Oz Torani Syrup Variety Pack at Amazon ($4.92 each)",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T19:18:31.208663Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $11.96* | 2-Pack 9-Oz Jack Link's Beef Jerky (Original) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T19:18:31.208663Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $126.34* | 10-Pc Calphalon Classic Stainless Steel Cookware Set at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T19:18:31.208663Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $9.86 | 18-Oz Peet's Coffee Dark Roast Whole Bean Coffee (Major Dickason's) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T19:18:31.208663Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $19.16 | 50-Count Starbucks by Nespresso Medium Roast Coffee (House Blend) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T19:18:31.208663Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $19.13* | 4-Pk 32-Oz Bob's Red Mill Gluten Free Organic Old Fashioned Rolled Oats at Amazon ($4.78 each)",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T19:18:31.208663Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$27.57* | Casio Vintage Stainless Steel Bracelet 39mm Watch w/ LED Illumination & Stopwatch at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-30T19:18:31.208663Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Lisen 5000mAh Wireless Ultra Slim Portable MagSafe Power Bank $13.29",
+  "reason": "Posted at $13.29, but Amazon showed $19.97 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-30T19:18:31.208663Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Duracell Coppertop AA Batteries, 24 Count, 12-Year Shelf Life $20.77",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T19:18:31.208663Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Mighty Patch Hero Cosmetics Original Nighttime Acne Pimple Patches, 36 Ct $11.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T19:18:31.208663Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "TCL 60 XE NXTPAPER 5G 6.8\" 128GB Unlocked Android Phone for $180 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T19:18:31.208663Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "J.Crew Factory Women's Matching Sets Deals: Up to 50% off + Extra 20% off + free shipping w/ $99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T19:18:31.208663Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Topgolf Holiday Party Deals Include 50% Off Game Play + FREE $15 Bonus Cards & MORE",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T19:18:31.208663Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Adidas Men's Superstar II Low Top Sneakers $36.97 + Free Pickup at Dick's Sporting Goods",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T19:18:31.208663Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$32.97* | 42.5mm Casio Men's Diver Style Stainless Steel Watch (Blue Dial) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-30T19:12:54.232459Z",
@@ -132540,46 +132660,6 @@
   "raw_title": "iBUYPOWER Y40 Gaming PC Desktop: Ryzen 7 9800X3D, RX 9070XT, 32GB DDR5, 1TB SSD $2099",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-16T19:19:58.743257Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "990-Pc LEGO City: Airplane, Service Truck, & Hovercraft Mix & Match Remix (60505) $56.23 + Free Shipping",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-16T19:14:33.685130Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Active Garbage Disposal Cleaner Deodorizer 24-Pack for $16 via Sub & Save + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T19:14:33.685130Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Simzlife 44 Lbs. Daily Nugget Ice Maker Countertop $168.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T19:14:33.685130Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "OtterBox Defender Series case for Samsung Galaxy Tab A9+ $12.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T19:14:33.685130Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Xerjoff Naxos Eau de Parfum, 3.4 fl oz $149.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T19:14:33.685130Z",
   "code": "not_checked",
   "public": false
  }
