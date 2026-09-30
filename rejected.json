@@ -1,5 +1,229 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Prime Members: Tangkula 2-Person Acacia Wooden Outdoor Bench (800Lb Capacity) $73.71",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T12:02:50.148318Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Smart Scale with Full Body Composition Analysis $45.99 w/ coupon and code",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-30T12:02:50.148318Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Tolaccea 30L 15.6\" Dual Tech Storage Travel Backpack $44.99",
+  "reason": "Posted at $44.99, but Amazon showed $89.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-30T12:02:50.148318Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Haunted Hill Farm 5.9-Ft. Magician Halloween Animatronic $103.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:02:50.148318Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Hotor Large Foldable Travel Tote Bag w/ Pouch (Black) $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:02:50.148318Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "12L Hotor Insulated Lunch Bag Cooler $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:02:50.148318Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Haunted Hill Farm 7.2-Ft. Upside Down Clown Halloween Animatronic $103.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:02:50.148318Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Haunted Hill Farm 3-Ft. LED Metal Witch & Cat Halloween Decoration $39.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:02:50.148318Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Haunted Hill Farm 5.5-Ft. Double Face Bride Halloween Animatronic $55.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:02:50.148318Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Haunted Hill Farm 5.7-Ft. Clown Courier Halloween Animatronic $71.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:02:50.148318Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Blink Mini 2K+ Plug-in Home & Pet Indoor Security Camera with 2K Video Resolution $15.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:02:50.148318Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Renuzit Adjustables After the Rain 7-Oz $1.37",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:02:50.148318Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Amazon Basics Flushable Wipes, Fragrance Free, 126 Count (3 Packs of 42) $3.71",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:02:50.148318Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "KitchenAid Artisan 5-Qt Tilt Head Stand Mixer $379.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:02:50.148318Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ninja CREAMi 7-in-1 Ice Cream Maker NC299AMZ $169.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:02:50.148318Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Progresso Rich & Hearty Lasagna-Style Soup w/ Italian Sausage 18.5-Oz $1.58",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:02:50.148318Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "ZALVEX Slim RFID Blocking Leather Credit Card Holder Wallet $8.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:02:50.148318Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Haunted Hill Farm 2.8-Ft. Scary Crawling Zombie Halloween Animatronic $63.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:02:50.148318Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Haunted Hill Farm 3-Ft. Tombstone Skeleton with Drum Halloween Animatronic $39.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:02:50.148318Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Haunted Hill Farm 6.1-Ft. Witch with Pumpkin Man Halloween Animatronic $95.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:02:50.148318Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "CHEFMAN Multifunctional Digital Air Fryer+ Rotisserie, Dehydrator, Convection Oven, 17 Touch Screen Presets, XL 10L $69.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:02:50.148318Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Comfort Spaces 3-Piece Twin Cotton Percale Sheet Set (Good Vibes Grey) $12.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:02:50.148318Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Beautyrest Cotton Blend Quilted Heated Mattress Pad w/ 5-Setting Controller Twin XL $33.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T12:02:50.148318Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[S&S] NYX PROFESSIONAL MAKEUP Fat Oil Fragrance Mist Perfume in Juicy Boo, Citrus Scented Long Lasting Hair & Body Spray, Mango & Musk Notes, Vegan & Cruelty Free, 2.7 fl oz $4.95",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T11:57:32.454373Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men Essentials Fleece Hoodie from $18 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T11:57:32.454373Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Heated Knee Massager, 3 Heat & Vibration Settings for Knee, Shoulder, and Elbow, $22.54 w/ coupon and code",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-30T11:52:14.183910Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "GameStop Pokemon Collectibles Deals: Up to $20 off + free shipping w/ $79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T11:52:14.183910Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "GameStop Marvel Collectibles Deals: Up to 66% off + free shipping w/ $79",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-30T11:52:14.183910Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "techbargains",
   "raw_title": "Lisen 4-in-1 84W Retractable USB-C Cable Car Charger $11.28",
   "reason": "Posted at $11.28, but Amazon showed $16.99 when we checked — the deal is probably over",
@@ -132652,222 +132876,6 @@
   "raw_title": "30-Oz Stanley IceFlow 2.0 Flip Straw Tumbler (2 Colors) $17.50 + Free Pickup at Dick's",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-16T12:08:13.754486Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "10-Night Ecuador & Galapagos Flight, Hotel, and Tour Vacation for From $3,798 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:02:47.792800Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "TJ Maxx Fall Clearance Deals: Up to 80% off + free shipping w/ $89",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:02:47.792800Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "GOOLOO 160PSI Tire Inflator Portable Air Compressor w/ 7500mAh Battery $19.99 + Free Shipping w/ W+ or over $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T12:02:47.792800Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Twenty One Pilots \"Breach\" Vinyl LP + MP3 Album $22.52",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T11:57:23.487483Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "SONGMICS Spin Mop & Bucket Set w/ Pedal Wringer & 4x Microfiber Pads $33.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T11:57:23.487483Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "3-Piece Prodigy Fractal Disc Golf Starter Set (159g or 170g) $32.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T11:57:23.487483Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Magic: The Gathering Marvel Super Heroes Commander Deck - Avengers Assemble (100-Card Deck + Accessories) $54.18",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T11:57:23.487483Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "NZXT H9 Flow RGB Dual-Chamber ATX Mid-Tower PC Case (White) $129.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T11:57:23.487483Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "JET 10-Inch 1 HP 115V 1Ph Benchtop Drum Sander $694.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T11:57:23.487483Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Iron Maiden \"Powerslave\" Zippo $19.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T11:57:23.487483Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Eddie Bauer Reversible Plaid Throw Blanket 50\" x 70\" $13.83",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T11:57:23.487483Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Dune: Deluxe Hardcover Edition $16.18",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T11:57:23.487483Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "The North Face Men's Venture 2 Raincoat Jacket $91.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T11:57:23.487483Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "ECOVACS DEEBOT T80S Omni Robot Vacuum and Mop 24800Pa $478.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T11:57:23.487483Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Bambu Lab P1S Combo 3D Printer and AMS $499.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T11:57:23.487483Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "J.Crew Factory Clearance: Up to 70% off + extra 60% off + free shipping w/ $99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T11:57:23.487483Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Nike x NFL Rivalries Collection at Fanatics: Up to 78% off + free shipping w/ $39",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T11:57:23.487483Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$18 FS WOOT PRIME BONTEC Full Motion TV Wall Mountfor 23-70 Inch TVs, Swivel Tilt Dual Arms",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T11:57:23.487483Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$17.99 FS WOOT PRIME JARGOU Foldable 3 in 1 Charging Station for Apple (Phone, Watch, etc)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T11:57:23.487483Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$17.99 FS PRIME WOOT LISEN Suction Phone Mount for Car, [Ultra Suction & Less Fuss] Car Phone Holder",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T11:57:23.487483Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "KIRUNDO Women's Lightweight Midi Empire Waist Long Sleeve Fall Dress w/ Pockets (Various) from $13.74 + Free Shipping w/ Prime or on $35+",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-16T11:57:23.487483Z",
-  "code": "duplicate",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "The Sect (Special Edition) [4K Ultra HD + Blu-ray] $22.49 Amazon.com",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-16T11:51:57.667472Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Nike Men's Structure Plus Running Shoes (White/Black/Volt) $75.97 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T11:51:57.667472Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Nazano 5\" Magnifying Glass with Built-in Light $11.39",
-  "reason": "Posted at $11.39, but Amazon showed $18.98 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-16T11:46:33.697340Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "115 In1 Precision Screwdriver Set for $3 + free shipping w/ $25",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T11:46:33.697340Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Adhesive Wall Hook 10-Pack for $1 + free shipping w/ $25",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T11:46:33.697340Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "RoboSeal Rechargeable Mason Jar Vacuum Sealer Kit with 10 Lids $19.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T11:46:33.697340Z",
   "code": "not_checked",
   "public": false
  }
