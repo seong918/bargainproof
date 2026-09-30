@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "100104188943",
+  "source": "techbargains",
+  "source_url": "https://www.amazon.com/gp/product/B0FMYTJ93W/ref=ox_sc_act_image_1?smid=ATVPDKIKX0DER&psc=1",
+  "title": "LEGO Speed Champions Audi R26 F1 Race Car Toy Building Kit (215-Pieces)",
+  "raw_title": "LEGO Speed Champions Audi R26 F1 Race Car Toy Building Kit (215-Pieces) $18.69",
+  "merchant": "amazon",
+  "buy_url": "https://www.amazon.com/gp/product/B0FMYTJ93W/ref=ox_sc_act_image_1?smid=ATVPDKIKX0DER&psc=1",
+  "deal_total_cents": 1869,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 1869,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1869,
+  "amazon_url": "https://www.amazon.com/dp/B0FMYTJ93W",
+  "amazon_checked_at": "2026-09-30T18:39:21.537067Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": null,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0FMYTJ93W",
+  "image_url": null,
+  "published_at": "2026-09-30T18:39:13.441695Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "c23f7f9def3f",
   "source": "techbargains",
   "source_url": "https://www.amazon.com/gp/product/B000J2KEGY/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
