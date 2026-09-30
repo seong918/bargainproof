@@ -1,5 +1,45 @@
 [
  {
+  "source": "dealcatcher",
+  "raw_title": "The North Face Surge Men's Laptop Backpack (Timber Tan) $59.83",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T20:03:29.648837Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "VEVOR Wall Mounted Garden Hose Reel 150ft $95.13",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T20:03:29.648837Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Rip Van Wafels Stroopwafel 12-Count Just $9.58 Shipped on Amazon (Reg. $14)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T20:03:29.648837Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DEWALT 12-in 15-Amp Dual Bevel Sliding Compound Corded Miter Saw Stainless Steel one_size | DWS779 $399",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T20:03:29.648837Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$7.60 | Beats USB-C to USB-C Woven Cable (1.5 m, 5 ft) - Bolt Black at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-30T20:03:29.648837Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$22.99* | NVIDIA Shield TV Remote w/ Voice Search, Backlit Buttons & IR Blaster at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
@@ -132676,142 +132716,6 @@
   "raw_title": "Guess Men's Analog Watch for $120 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-16T20:08:49.960716Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Ceoutdoor Men's Flannel Sherpa Plaid Winter Zip Up Hoodie $19.99",
-  "reason": "Posted at $19.99, but Amazon showed $42.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-16T20:03:24.315713Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "6-Night Bora Bora Overwater Bungalow Vacation with Flights for From $9,990 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T20:03:24.315713Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Sonoma Goods For Life Men's Straight-Fit Flexwear Jeans for $16 + free shipping w/ $49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T20:03:24.315713Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Women’s Slipper Boots Only $15.97 on Amazon (Reg. $32)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T20:03:24.315713Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "LEGO The Incredibles (PC Digital Download) $1.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T20:03:24.315713Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Google Pixel Watch 5 41mm LTE $399.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T19:57:57.184895Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Unisex Small Crossbody Bag $2.29",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T19:57:57.184895Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Iron Flask Kids' 14-Oz Double Wall Insulated Water Bottle w/ Straw Lid $6.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T19:57:57.184895Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "TCL 85 Inch 4K UHD SQD-Mini LED 144Hz $5,997.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T19:57:57.184895Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Apron Maven Complete Sourdough Starter Kit w/ Glass Jar, Digital Scale & Silicone Spatula $18.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T19:57:57.184895Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "4 Pack Roku TV Remote $9.53",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T19:57:57.184895Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Star Ocean: The Second Story R (PS5) $25.08",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T19:57:57.184895Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "12.6\" x 8\" Titanium Cutting Board $4.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T19:57:57.184895Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "The Maps of Middle-earth: The Essential Maps of J.R.R. Tolkien's Fantasy Realm (Hardcover) $14.18",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T19:57:57.184895Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Roku TV Remote Control 2-Pack $12.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T19:57:57.184895Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Harry’s Plus Razor with 9 Blade Cartridges for $17 via Sub & Save + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T19:57:57.184895Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Men's Outerwear Sale at Kohl's for From $19 + free shipping w/ $49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T19:57:57.184895Z",
   "code": "not_checked",
   "public": false
  }
