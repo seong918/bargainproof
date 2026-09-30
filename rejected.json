@@ -1,6 +1,54 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$31.87 PRIME ONLY Amazon Basics Sturdy Portable 2-Door Top-Load Hard-Sided Pet Travel Carrier with Secure Ventilation, Handle, Front & Top Entry",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T02:52:15.202519Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$9.79* | Casio fx-300ES PLUS 2nd Edition Scientific Calculator at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-30T02:52:15.202519Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$11.15 or less S&S PRIME ONLY Amazon Basics 30 Gallon Flextra Strength Multipurpose Drawstring Trash Bags, part of buy 4, save more promo",
+  "reason": "Community score too low (+0) to pass without a price check — needs multi-pack, Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T02:52:15.202519Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$22.59 S&S or less PRIME ONLY Amazon Basics ClearLax, Polyethylene Glycol 3350 Powder for Solution, Osmotic Laxative, Unflavored, 1.11 Pound (Pack of 3)",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T02:52:15.202519Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$12.60 S&S PRIME ONLY Amazon Grocery, Walnut Halves & Pieces, 40 Oz (Previously Happy Belly, Packaging May Vary), Buy 4 items, save 10% more",
+  "reason": "Community score too low (+0) to pass without a price check — needs multi-pack, Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T02:52:15.202519Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Saucony Women's Triumph RFG Road-Running Shoes $79.87",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T02:52:15.202519Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$8.71 S&S or less PRIME ONLY Amazon Basics Heavy Duty Aluminum Foil for Cooking, Grilling, Food Storage, Roasting, 125 Sq Ft Buy4, save 10% more",
   "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-30T02:46:38.358736Z",
@@ -132692,38 +132740,6 @@
   "raw_title": "CAALOGT Cordless Dimmable LED Crystal Table Lamps with Touch & Remote Control, RGB Light for Living Room, Bedroom $9.98",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-16T02:54:12.961327Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – 2-Pack 21” Silicone Stove Gap Covers - $4.99 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, multi-pack, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-16T02:48:50.285533Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Against The Storm (PlayStation 5) $17.65 + Free S&H w/ Prime or $35+",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-16T02:48:50.285533Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – SWISSWELL Men’s Hooded Flannel Shirt Jacket - $9.99–$19.99 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-16T02:48:50.285533Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Carter's Child of Mine Baby Clogs $6.48",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T02:48:50.285533Z",
   "code": "not_checked",
   "public": false
  }
