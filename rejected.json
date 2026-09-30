@@ -1,5 +1,29 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Reolink 16-Channel 8-Dome Camera 4TB 4K Surveillance System for $1,119.99 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T07:55:51.995391Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ever Advanced 11.5-Foot Pop Up Gazebo Screen House Tent for $150 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T07:55:51.995391Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Reolink 16-Channel 8-Camera 4K 4TB PoE Security Camera System for $1,077.99 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T07:55:51.995391Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Carhartt Station Medium Tool Pouch (Carhartt Brown) $17.14 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
@@ -132757,78 +132781,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-16T08:01:06.170379Z",
   "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[Prime] $17.58 | The Complete Maus: A Survivor's Tale (Hardcover) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-16T07:55:44.336284Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Viaky Adjustable 0-6mm Magnetic Cord Holder (3-Pack) $4.99",
-  "reason": "Posted at $4.99, but Amazon showed $9.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-16T07:55:44.336284Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Santiny Women's Athletic Workout Tank Top for $7 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T07:55:44.336284Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "$25 Lobster Gram Gift Card for $21 + email delivery",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T07:55:44.336284Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "CyberPower UPS & Surge Protector Sale at Woot for Deals from $15 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T07:55:44.336284Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Asus Vivobook 17 Core 7 150U 17.3\" Laptop for $830 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T07:55:44.336284Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Thundarr the Barbarian Complete Series $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T07:55:44.336284Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "TCL 98” QM9k $2999",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T07:55:44.336284Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Walmart Precious Metals and Coins Flash Sale for Deals from $8 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T07:50:21.099566Z",
-  "code": "not_checked",
   "public": false
  }
 ]
