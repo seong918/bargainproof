@@ -1,5 +1,53 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Lisen 4-in-1 84W Retractable USB-C Cable Car Charger $11.28",
+  "reason": "Posted at $11.28, but Amazon showed $16.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-30T11:41:40.699932Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "M Maelreg Short Sleeve Moisture Wicking Collared Golf Polo Shirt $9.97",
+  "reason": "Posted at $9.97, but Amazon showed $19.95 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-30T11:41:40.699932Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Barnes & Noble Severin Films Sale: 50% off + free shipping w/ $60",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T11:41:40.699932Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Barnes & Noble Horror DVD, Blu-ray & 4K Sale: 40% off + free shipping w/ $60",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T11:41:40.699932Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "100FT RUMCU LIFE 100FT Orange Purple Halloween Lights - $11.99 @ Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-30T11:36:22.957230Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "PHIXERO PhiPlug Travel Power Strip 7 in 1 45W GaN Flat Plug Blue $14.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-30T11:31:05.807501Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
   "source": "dealnews",
   "raw_title": "Haawooky Fake Padded Belly Suit for $15.30 + free shipping w/ Prime",
   "reason": "Not evaluated",
@@ -132820,70 +132868,6 @@
   "raw_title": "RoboSeal Rechargeable Mason Jar Vacuum Sealer Kit with 10 Lids $19.97",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-16T11:46:33.697340Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Solar Deck Lights 8-Pack for $15, or $13 for new customers + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T11:41:10.770000Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Men's Dry Fit T-Shirt 6-Pack for $17 + free shipping w/ $25",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T11:41:10.770000Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Men's Foldable Quick-Dry Baseball Cap for $3.40 + free shipping w/ $25",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T11:35:45.023650Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "6-Day Europe Holiday Market Cruise from Budapest to Vienna $3,204.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T11:30:20.911708Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Dick's Sporting Goods One-Day Sale: Up to 82% off + free shipping w/ $49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T11:30:20.911708Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "FED Fitness Smart Body Scale for $130 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T11:30:20.911708Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Lowe's Labor Day Refrigerator Deals: Up to 45% off, ending today + free delivery & installation w/ $996",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T11:30:20.911708Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Yoma 350W Cordless Vacuum Cleaner for $60 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T11:30:20.911708Z",
   "code": "not_checked",
   "public": false
  }
