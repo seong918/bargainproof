@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Haunted Hill Farm 5.9-Ft. Decapitated Vampire Holding Head Animatronic $135.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-30T09:56:14.645377Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Haunted Hill Farm 5.9-Ft. Reaper with Ghost Halloween Animatronic $95.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-30T09:56:14.645377Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Haunted Hill Farm 5.7-Ft. Triple Zombie Boys Halloween Animatronic $63.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-30T09:56:14.645377Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Haunted Hill Farm 6.1-Ft. Witch with Pumpkin Man Halloween Animatronic $95.99",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-30T09:50:38.602465Z",
@@ -132956,22 +132980,6 @@
   "raw_title": "Ugreen 5-in-1 100W USB C to 4K HDMI Hub $10.33",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-16T09:59:44.935175Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Fender Affinity Series Stratocaster Mustang Micro Pack, Laurel Fingerboard, Black, Gig Bag, HD9, US, CA, EU, AU, JP $499.99",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-16T09:54:20.333783Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Art3d Fluted Acoustic Wood Slat Wall Panel 2-Pack for $66 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T09:54:20.333783Z",
   "code": "not_checked",
   "public": false
  }

@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "f8fec3a6caf8",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20077863-sns-ac-3-53-12-oz-community-coffee-ground-coffee-breakfast-blend-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "12-Oz Community Coffee Ground Coffee (Breakfast Blend)",
+  "raw_title": "[SnS, AC] $3.53* | 12-Oz Community Coffee Ground Coffee (Breakfast Blend) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 353,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 6,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-30T09:56:14.645377Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "f8550622461c",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20077614-prime-50-count-amazon-basics-daily-pantiliner-regular-length-2-04-w-s-s-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
