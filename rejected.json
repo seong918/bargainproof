@@ -1,5 +1,21 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Dyce History Channel Stats & Facts Trivia Card Game for $14 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T21:10:59.281385Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nike Heritage Unisex Crossbody Bag (2 Colors) $18.00 + Free Store Pickup at Macy's or Free Shipping on $39+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T21:10:59.281385Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "AstroAI 27\" 4-IN-1 Detachable Scratch-Free Snow Brush & Ice Scrapers For Car Windshield $10.91",
   "reason": "Posted at $10.91, but Amazon showed $17.99 when we checked — the deal is probably over",
@@ -132604,38 +132620,6 @@
   "raw_title": "Brahma Men's Adan Steel Toe Work Shoes, Black, $31.23, Walmart",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-16T21:13:58.628112Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "DeWalt 10-Compartment Shallow Pro Small Parts Organizer for $15 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T21:08:33.450792Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Harry's Cooling Eye Kit for Men for $24 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T21:08:33.450792Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Creality PLA 3D Printer Filament for $24 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T21:08:33.450792Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Google Pixel Watch 5 LTE 41 mm for google Fi existing users via bill credits $250",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T21:08:33.450792Z",
   "code": "not_checked",
   "public": false
  }
