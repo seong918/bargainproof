@@ -132462,37 +132462,5 @@
   "rejected_at": "2026-09-16T22:56:16.347118Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Phantom Breaker: Battle Grounds Ultimate(Nintendo Switch) $24.99 + Free S&H w/ Prime or $35+",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-16T22:51:04.784974Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Nike Men's Structure Plus Running Shoes for $76 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T22:51:04.784974Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Ryobi ONE+ 18V 1/2\" Cordless Impact Wrench (Tool Only) $79.00 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T22:51:04.784974Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Carhartt Men's Odessa Ball Cap $8.98 Carhartt Brown",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T22:51:04.784974Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
