@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "39' Brightown 100-LED Solar Rope Lights (Warm White) $4.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T09:12:03.279318Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Haunted Hill Farm 7.2-Ft. Upside Down Clown Halloween Animatronic $103.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-30T09:12:03.279318Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Haunted Hill Farm 7.2-Ft. Stilt Walker Halloween Animatronic $63.96",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-30T09:12:03.279318Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Brach's 30oz Halloween Classic Candy Corn Treat Pack (60-Count) $14.24",
+  "reason": "Posted at $14.24, but Amazon showed $14.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-30T09:12:03.279318Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ecarke Cordless Fuel Transfer Pump for $40 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T09:12:03.279318Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Cantu Shea Butter for Natural Hair Sulfate-Free Cleansing Cream Shampoo, 13.5 Ounce, $1.99, FS Prime, Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T09:12:03.279318Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Lenovo T215 15.6\" Laptop Shoulder Bag (Black) $10.46 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T09:12:03.279318Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "15.5 oz Andis 12750 Cool Care Plus 5-in-1 Clipper Spray, $1.99, FS Prime, Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T09:12:03.279318Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Haunted Hill Farm 3.9-Ft. Rising Head Creepy Girl Halloween Animatronic $47.99",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-30T09:06:42.150657Z",
@@ -132796,22 +132860,6 @@
   "raw_title": "Roku Smart Home Smart Light Strip SE 16.4 ft with 16 Million Color Options, White Light Option, and Custom Presets, $11.50, Walmart",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-16T09:16:39.153321Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Acer 20W Dual USB-C Charger Block & Cable 3-Pack for $10 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T09:11:14.031382Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "8lb, ProsourceFit Exercise Weighted Training Vest, $9.99, FS Prime, Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T09:11:14.031382Z",
   "code": "not_checked",
   "public": false
  }
