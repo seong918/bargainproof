@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$1.50 S&S or less Amazon Prime Only- Happy Belly 10 ct Drink Mix Singles, Strawberry with Caffeine, 1.1 ounce (Pack of 1) Buy 4, save more",
+  "reason": "Community score too low (+0) to pass without a price check — needs multi-pack, Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T00:42:33.821022Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "4/$8.33 S&S or less PRIME ONLY 365 by Whole Foods Market, Organic Tomato Basil Pasta Sauce, 25 Ounce ($2.33 for 1)",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T00:42:33.821022Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[S&S] Pure Protein 12 bars chocolate peanut butter gluten free $12.9",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T00:42:33.821022Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Dick's Sporting Goods Water Bottle Sale: Up to 40% off + free shipping w/ $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T00:42:33.821022Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "3rd-Gen. Amazon Fire TV Cube for $90 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T00:42:33.821022Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Patagonia Airshed Pro Women's Pullover (Wispy Green) $71.83 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T00:42:33.821022Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ReoLink RLN4E (Compact 6-Channel NVR with 4 Built-In PoE Ports and Local AI Video Search) $112",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T00:42:33.821022Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nike ACG Five Towers Men's UPF 40+ Dri-FIT UV Running Jacket $51.83 + Free Store Pick-Up at REI or FS on $60+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T00:42:33.821022Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[Prime] $359* | MOVA P50 Ultra Robot Vacuum & Mop Combo w/ 19,000 Pa Suction, Auto Empty, Mop Washing & Refill at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-30T00:36:57.102586Z",
@@ -132517,30 +132581,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-16T00:44:58.210137Z",
   "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Hello Kitty Toddler Girls Sandal Clog - $6.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T00:39:34.539131Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Bluey Toddler Boys Soccer Print Slip On Sandal Clog - $6.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T00:39:34.539131Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$9.99 Sale for MobLand: Season 1",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T00:39:34.539131Z",
-  "code": "not_checked",
   "public": false
  }
 ]
