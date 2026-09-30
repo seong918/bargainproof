@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "1529b3a39fc9",
+  "source": "techbargains",
+  "source_url": "https://www.amazon.com/gp/product/B099KLNM24/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
+  "title": "Kasa KP401 Outdoor 15A/1875W Wi-Fi Outlet Smart Plug",
+  "raw_title": "Kasa KP401 Outdoor 15A/1875W Wi-Fi Outlet Smart Plug $12.99",
+  "merchant": "amazon",
+  "buy_url": "https://www.amazon.com/gp/product/B099KLNM24/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
+  "deal_total_cents": 1299,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 1299,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1299,
+  "amazon_url": "https://www.amazon.com/dp/B099KLNM24",
+  "amazon_checked_at": "2026-09-30T16:35:25.647638Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": null,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B099KLNM24",
+  "image_url": null,
+  "published_at": "2026-09-30T16:35:20.980573Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "a55da0f864f6",
   "source": "techbargains",
   "source_url": "https://www.amazon.com/gp/product/B018N7YZL6/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
