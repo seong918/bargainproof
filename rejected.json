@@ -1,5 +1,37 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Sofirn SF26 2000-Lumens 3162' USB-C Rechargeable Tactical Flashlight $38.49",
+  "reason": "Posted at $38.49, but Amazon showed $54.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-30T08:50:40.996395Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HIMOON Memory Foam Pillow Standard Size with Washable Pillow Cover, Cooling Pillow Slow Rebound Comfort Bed Pillow 2 Pack for Back, Stomach & Side Sleepers $13",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T08:50:40.996395Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Sennheiser HD 600 Open-Back Dynamic Wired Headphones $229.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T08:50:40.996395Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "AIRTOK AP2801 Pet Air Purifier for Large Rooms up to 2240 Ft² w/ True HEPA & Activated Carbon Filter $49.99 + Free Shipping",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-30T08:45:23.450888Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Prime: LOTTS Stackable Wire Pantry Baskets (2 Pack) $15.99 + Free Shipping",
   "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
@@ -132726,45 +132758,5 @@
   "rejected_at": "2026-09-16T08:55:02.248491Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Outland Blu Ray $8.99 Amazon.com",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-16T08:49:38.471609Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "PetOde 31.5\" Dryer Vent Cleaner Vacuum Attachment with Brush $7.49",
-  "reason": "Posted at $7.49, but Amazon showed $9.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-16T08:49:38.471609Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Roman AE Nummus Emperor Licinius I (308-324 AD) Ch XF NGC Coin for $75 + free shipping w/ $199",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T08:49:38.471609Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "The White Queen + The White Princess: The Complete Mini Series (Digital HD TV Show) $4.99 via AppleTV",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T08:49:38.471609Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "LONTEK 15% Auto Incline Folding Treadmill w/ 3 LED Screens & 7.2 MPH Max Speed $158.39 + Free Shipping",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-16T08:44:13.665190Z",
-  "code": "low_score",
-  "public": true
  }
 ]

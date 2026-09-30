@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "d471f6abf617",
+  "source": "techbargains",
+  "source_url": "https://www.amazon.com/gp/product/B0B38KRTV6/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
+  "title": "De'Longhi Magnifica Evo 7-Recipe Automatic Frother Espresso Machine",
+  "raw_title": "De'Longhi Magnifica Evo 7-Recipe Automatic Frother Espresso Machine $599.95",
+  "merchant": "amazon",
+  "buy_url": "https://www.amazon.com/gp/product/B0B38KRTV6/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
+  "deal_total_cents": 59995,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 59995,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 59995,
+  "amazon_url": "https://www.amazon.com/dp/B0B38KRTV6",
+  "amazon_checked_at": "2026-09-30T08:50:45.044286Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": null,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0B38KRTV6",
+  "image_url": null,
+  "published_at": "2026-09-30T08:50:40.996395Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "4a7af1fa7729",
   "source": "techbargains",
   "source_url": "https://www.amazon.com/gp/product/B09B7SB46R/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
