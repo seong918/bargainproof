@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[Prime] 10L Bagsmart Insulated Lunch Bag Cooler w/ Shoulder Strap (Dark Pink) $9.99 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T09:17:19.014804Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Haunted Hill Farm 3-Ft. LED Metal Witch & Cat Halloween Decoration $39.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-30T09:17:19.014804Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Haunted Hill Farm 5.7-Ft. Clown Courier Halloween Animatronic $71.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-30T09:17:19.014804Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Hisense 55\" U6 Pro Series Mini‑LED ULED 4K UHD 144Hz HDR Gaming AI Smart Fire TV (55U6SF Pro, 2026) $549",
+  "reason": "Posted at $549.00, but Amazon showed $549.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-30T09:17:19.014804Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "39' Brightown 100-LED Solar Rope Lights (Warm White) $4.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-30T09:12:03.279318Z",
@@ -132821,46 +132853,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-16T09:22:02.337035Z",
   "code": "no_signal",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Weqoee 5-in-1 7D Magnetic Detachable Heads Electric Razor $14.39",
-  "reason": "Posted at $14.39, but Amazon showed $34.39 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-16T09:16:39.153321Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Medieval Collectibles Complete Outfits Clothing Sale for From $60 + shipping varies",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T09:16:39.153321Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Yamaha TRUE X BAR 50A Soundbar w/ Dolby Atmos & Wireless Subwoofer for $200 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T09:16:39.153321Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Soothfeel Men's 7\" Lightweight Casual Golf Shorts for $10 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T09:16:39.153321Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Roku Smart Home Smart Light Strip SE 16.4 ft with 16 Million Color Options, White Light Option, and Custom Presets, $11.50, Walmart",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T09:16:39.153321Z",
-  "code": "not_checked",
   "public": false
  }
 ]
