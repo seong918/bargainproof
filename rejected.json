@@ -1,6 +1,54 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "REI Arc'teryx Jacket Deals: Up to 60% off + free shipping w/ $100",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T20:59:44.646188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "NEW Doritos Protein Chips 5.2 oz Multipack any flavor $5.98, get $3 Walmart Cash Limit 5",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T20:59:44.646188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Hoka Project Transport Unisex Shoes (3 Colors, Sizes: 4.5-11.5) $87.99 + Free Shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T20:59:44.646188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "NUTELLA 13oz Peanut Spread $4.47, get $2 Walmart Cash Limit 5 (FS WMT+ or pick up)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T20:59:44.646188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Adidas Men's Adilette Comfort Slides (Sandals) on sale $14 via Adidas | eBay",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T20:59:44.646188Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GoPro MAX2 - Waterproof 360 + Traditional Action Camera with Touch Screen, Spherical 8K Video, 29MP 360 Photos, Easy Replaceable Lenses, HyperSmooth Stabilization, for $299",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-30T20:59:44.646188Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "dealnews",
   "raw_title": "Mainstays 5-Cup Drip Coffee Maker for $9 + free shipping w/ $35",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-30T20:54:07.840743Z",
@@ -132580,38 +132628,6 @@
   "raw_title": "Harry's Original Razor with Blade Cartridge for $5 via Sub & Save + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-16T21:03:08.417127Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Bass Creek Outfitters Men's Performance Work Hoodie for $6 + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T20:57:43.245573Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Pepperidge Farm Cookies Just $3 Shipped on Amazon (Includes Milanos and Chessmen!)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T20:57:43.245573Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Nike Book 2 SE 'The Phoenix' Basketball Shoes $53.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T20:57:43.245573Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "(HURRY) 75% Off Energizer Batteries @ Lowes $5.62 + Free In-Store Pickup at Lowes",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T20:57:43.245573Z",
   "code": "not_checked",
   "public": false
  }
