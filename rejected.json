@@ -1,6 +1,86 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$32.97* | 42.5mm Casio Men's Diver Style Stainless Steel Watch (Blue Dial) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-30T19:12:54.232459Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $18.47 | 172-Count 10\" Dixie Ultra Large Heavy Duty Paper Plates at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T19:12:54.232459Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$32.49 | Split Fiction (PlayStation 5) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-30T19:12:54.232459Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "WORKPRO 4-Piece 1/4\" Hex Quick-Release Magnetic Drill Bit Extension Set (2-3/8\", 4\", 6\", 12\") $12.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T19:12:54.232459Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$53.97* | Casio 44mm MDV106 Unisex Analog Watch (Blue) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-30T19:12:54.232459Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "10-Pack 2\" PH2 Magnetic Phillips Impact Driver Bits (S2 Steel) $5.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs multi-pack, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T19:12:54.232459Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $25.99 | 4-Pack 46-Oz Corelle Chip Resistant Glass Meal Bowls at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T19:12:54.232459Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$132.99* | 1TB Verbatim USB-C 3.2 Gen 2 Pocket Solid State Drive at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-30T19:12:54.232459Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "J.Crew Factory Sale: 40% to 70% off Everything + free shipping w/ $99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T19:12:54.232459Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "8\" Alfani Tech Shorts (Wall Street) $8.16 + Free Store Pickup at Macy's or Free Shipping on $39+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T19:12:54.232459Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$359.99* | Moza R5 Racing Simulator Bundle w/ 5.5Nm Direct Drive Wheel & Anti-Slip Pedals at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-30T19:07:18.449280Z",
@@ -132502,29 +132582,5 @@
   "rejected_at": "2026-09-16T19:14:33.685130Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "JBL Tune 730BT - Wireless Over-Ear Headphones (various colors) $59.95",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-16T19:09:09.894145Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Renewed: Samsung Galaxy S25 Ultra, 512GB/1000GB, (various colors) - Unlocked, from $749.95",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-16T19:09:09.894145Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "HOVERAir X1 1080p HDR Camera Foldable Mini Drone (Combo Plus) with Dual Batteries $119.60",
-  "reason": "Posted at $119.60, but Amazon showed $299.00 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-16T19:09:09.894145Z",
-  "code": "price_mismatch",
-  "public": true
  }
 ]
