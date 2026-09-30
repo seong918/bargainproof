@@ -1,5 +1,53 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "685-Piece LEGO Friends Travel Boat Adventure Building Kit $52.99 + Free Shipping",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-30T21:27:52.154889Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas Men's Tech Response 3.0 Golf Shoes for $28 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T21:27:52.154889Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Samsung Odyssey G51F 32\" 1440p HDR 180Hz Gaming Monitor for $200 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T21:27:52.154889Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Marvel Toddler or Kids' Spiderman Costumes (Various) $15 + Free Store Pickup at Target or FS on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T21:27:52.154889Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Timberland Women's Stone Street Mary Jane Platform Shoes (Light Beige Suede) $55.00 + Free Store Pickup at Macy's or Free Shipping on $39+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T21:27:52.154889Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "4x Tide Free & Gentle Liquid Laundry Detergent, 100 Loads, 132 flat $37.32 AC S&S FS",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-30T21:27:52.154889Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "dealnews",
   "raw_title": "REI Co-op Men's Ruckpack 40 Pack for $55 + free shipping w/ $60",
   "reason": "Not evaluated",
