@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$44.80 | The Transformers UK Compendium Book One (Paperback) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-30T23:46:04.309207Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ridgid 18V Brushless Cordless 2-Tool Combo Kit w/ Jig Saw & Router (Tools Only) for $179 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T23:46:04.309207Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Hallmark Friends TV show Frame Christmas Ornament, $6.34, FS Prime Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T23:46:04.309207Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$53.45 | Timex Unisex Q LCA 35mm Watch - Gray Strap Digital Dial Gray Case at Amazon",
   "reason": "Community score too low (+4) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-30T23:40:29.250040Z",
