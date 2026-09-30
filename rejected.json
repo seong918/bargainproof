@@ -1,6 +1,214 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Greenworks 60V 17in Push Lawn Mower, 4.0 Ah Battery and Charger $279.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-30T03:59:48.744322Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Merach Twister Arm Trainer & Exerciser (22-440lbs) $26 + Free S&H",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-30T03:59:48.744322Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "TIECTOWN 2026 Upgrade 16-Inch 15.5A Electric Dethatcher & Scarifier, Green $149.97",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-30T03:59:48.744322Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Kaelynne Leaf Blower Cordless, 20V Electric Leaf Blower with 2 X 6.0Ah Batteries and Charger $44.99",
+  "reason": "Posted at $44.99, but Amazon showed $99.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-30T03:59:48.744322Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Odorless Aged Black Garlic Extract 700mg, Aged Black Garlic Supplements $6.74",
+  "reason": "Posted at $6.74, but Amazon showed $26.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-09-30T03:59:48.744322Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DreamCloud Foundation Bundle $548",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T03:59:48.744322Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "8-Count 1.44-Oz Quaker Organic Instant Oatmeal (Maple & Brown Sugar) $1.91 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-09-30T03:59:48.744322Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$9.88* | 168-Pc LEGO Seasonal: Christmas Snowman Ornaments at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-30T03:54:10.098775Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Vive Care 6\" x 10-Yard Transparent Film Dressing Roll $4.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T03:48:32.267275Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "5\" Westcott Titanium Bonded Non-Stick Fabric Scissors $3.50",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-30T03:48:32.267275Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "360mm GAMDIAS CHIONE P5-360 AIO Liquid CPU Cooler w/ 3.4\" LCD $59.99 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-30T03:42:57.615721Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] Hasbro Gaming Connect 4 Kids' Game $7.49 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T03:42:57.615721Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Magnetic Phone Mount Holder for Gym w/ N52 Strong Magnet MPT-03 360° Rotation, For iPhone 12-17 & Android $15.50",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-30T03:42:57.615721Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Tool Ryobi USB Lithium Combo Kit w/ Clamp Fan, Inflator, 2x 2.0Ah Batteries & Charging Cables $59.94 + Free Store Pickup at Home Depot",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T03:37:18.907935Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC] $52.49 | Redragon RGPS-850W 850 Watt 80+ Gold Fully Modular PSU, ATX 3.1 & PCIe 5.1 at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-30T03:31:40.886683Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Stanley Quencher Boot and Straw Cover Cap $4.00 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T03:31:40.886683Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "The Witcher 3: Wild Hunt  Remastered",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T03:31:40.886683Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon Fire TV Stick 2nd Gen HD 8GB Streaming Device w/ Alexa Voice Remote (2026) $15.99 + Free Store Pickup at Best Buy",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T03:31:40.886683Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "M&M's, Snickers, Twix & Milky Way Chocolate Halloween Candy Variety Pack - 200 Ct bag - $23.87 after Walmart cash",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T03:31:40.886683Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $19.99 | Guess Who? Pokémon Edition Game | 48 Pokémon at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T03:26:02.622698Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $16.99 | Operation Bluey Edition Board Game for Kids (Amazon Exclusive) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T03:26:02.622698Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $16.99 | Hungry Hungry Hippos: Teenage Mutant Ninja Turtles Edition Game (Amazon Exclusive) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T03:26:02.622698Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $9.49 | Transformers Playskool Heroes Rescue Bots Medix The Doc-Bot, Action Figure (Amazon Exclusive) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T03:26:02.622698Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "3-Pk Kaliyadi Men's Polarized UV400 Rectangle Sunglasses (various) from $10.19 + Free Shipping w/ Prime or orders $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs multi-pack, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T03:20:24.441281Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$8.53 or less S&S PRIME ONLY Amazon Basics Dishwasher Rinse Aid Liquid, , 32 Fl Oz, 1-Pack",
+  "reason": "Community score too low (+0) to pass without a price check — needs multi-pack, Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T03:20:24.441281Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "6pcs 16\" Joyfy Full Body Poseable Skeleton Halloween Decorations - $15.99 @ Walmart",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T03:20:24.441281Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$13.10 or less S&S PRIME ONLY Amazon Basics Triple Action Dishwasher Pacs, Fresh Scent, 90 Count Buy 4, save more promo",
   "reason": "Community score too low (+0) to pass without a price check — needs multi-pack, Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-30T03:09:08.088601Z",
@@ -62075,14 +62283,6 @@
   "source": "slickdeals",
   "raw_title": "ShellHome 30W Magnetic Jobsite Portable Bluetooth Speaker w/ Hook (Yellow) $13.96 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-23T14:29:00.997974Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Greenworks 60V 17in Push Lawn Mower, 4.0 Ah Battery and Charger $279.99",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-23T14:29:00.997974Z",
   "code": "low_score",
   "public": true
@@ -132324,334 +132524,6 @@
   "raw_title": "Company Cotton™ Nature's Bouquet Classic Smooth Sateen Shower Curtain - Cream Multi $18.97",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-16T04:04:00.430873Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – Pudolla Men’s Cotton Yoga Sweatpants w/ Pockets - $18.71 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-16T03:58:36.655667Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – G Gradual Women’s High-Waisted Joggers w/ Pockets - $16.49 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-16T03:58:36.655667Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – 24” Insulated BBQ Meat Resting Blanket - $12.99 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-16T03:58:36.655667Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Samsung Galaxy Z Flip8 Unlocked Android Smartphone, 256GB Cream $1049.99",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-16T03:58:36.655667Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Arvo Centerset Bathroom Faucet, Brushed Nickel 2-Handle Bathroom Faucet, Bathroom Sink Faucet, Brushed Nickel 3-Hole Bathroom Faucet $88.73 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T03:58:36.655667Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Heather Taylor Home Flower Holiday Stocking $12.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T03:58:36.655667Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – SANTINY Women’s Athletic Workout Tank Top - $14.99–$16.99 w/ Code $8.5",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-16T03:53:16.281908Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Samsung Galaxy Z Fold8 Ultra Unlocked Android Smartphone, 256GB Violet Shadow or Graphite $1799.99",
-  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-16T03:53:16.281908Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Snaptain SP350 Mini Drone for kids and Beginners with Remote Controller Blue $9.99 at Best Buy",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T03:53:16.281908Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – Permanent-Mount 1000A Supercapacitor Jump Starter - $119.995–$219.995 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-16T03:47:52.680584Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – TONYNOL 8-Pc Impact Socket Adapter & Reducer Set - $17.27 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-16T03:47:52.680584Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – Unywarse 50’ Metal Garden Hose w/ 10-Function Nozzle - $19.79 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-16T03:47:52.680584Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Samsung Galaxy Z Fold8 Ultra Unlocked Android Smartphone, 512GB Graphite or Violet Shadow or Cream $1999.99",
-  "reason": "Community score too low (+-2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-16T03:47:52.680584Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ROYY 14\" 1080P FHD IPS, 300-nits, Laptop Screen Extender $69.99",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-16T03:47:52.680584Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Samsung Galaxy Z Fold8 Unlocked Android Smartphone, 512GB Cream or Lavender $1849.99",
-  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-16T03:47:52.680584Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Company Cotton™ T-Shirt Soft Jersey Knit Stripe Yarn-Dyed Comforter Set - Blue Multi, Full $57.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T03:47:52.680584Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Rifle Paper Co. Climbing Vines Tablecloth - Green, 70 in. x 90 in. $28.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T03:47:52.680584Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "BOANV 8PCS 2800mAh Rechargeable AA Batteries with LED Lights Charger | Amazon Prime members only for $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T03:47:52.680584Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – Spider Transforming Remote Control Car - $13.79 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-16T03:42:31.335128Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Sony 48 Inch BRAVIA 6 OLED 4K HDR Smart Google TV with Gemini (K-48A60) $1098",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-16T03:42:31.335128Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "JBL - BAR 500 5.1ch Soundbar with Multibeam and Dolby Atmos $349.95",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T03:42:31.335128Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "John Carpenter (Director) - The Thing (Collector's Edition) [Blu-ray] $8.99 + Free S&H w/ Prime or $35+",
-  "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-16T03:37:06.936144Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "C4 Whey Protein, 25g of Protein, Hershey's Chocolate, 28 Servings $29.24 with 5% S&S $24.74 with 15%",
-  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-16T03:37:06.936144Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Samsung Galaxy Z Fold8 Unlocked Android Smartphone, 256GB Lavender or Cream $1649.99",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-16T03:37:06.936144Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Gardenia Mist Premium Smooth Wrinkle-Free Sateen Duvet Cover $53.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T03:37:06.936144Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – OMOTON TP06-E Magnetic iPhone Tripod - $12.49 w/ Code",
-  "reason": "Community score too low (+0) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-16T03:31:47.784846Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – 4.5kPa Rechargeable Air Pump w/ 4 Nozzles - $12.49 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-16T03:31:47.784846Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "30.1-Oz PAYDAY Snack Size Candy $13.13 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-16T03:31:47.784846Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Vivifying Dog Playpen Hanging Bag, 24.2L Large Capacity & 22LBS Load-Bearing $29.99",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-16T03:31:47.784846Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – COMITOK MOCA iPhone Camera Grip w/ Remote - $9.99 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-16T03:26:25.836203Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – PPLEE 3-Speed Cordless Spin Scrubber - $24.99–$29.99 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-16T03:26:25.836203Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "12-pack Essential Oil Foot Bath Bombs $5 @ Amazon",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-16T03:26:25.836203Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Tru Red 8.5x11\" Printer Paper 3-Ream Carton $16.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T03:26:25.836203Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Cars Toddler Boys Sandals $6.45",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T03:15:43.262602Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Disney Stitch Ladies Slide Slipper $3.23+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T03:15:43.262602Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – Men’s UPF 50+ Short-Sleeve Rash Guard Shirt - $6.99 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-16T03:10:22.760032Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Tapo Matter Smart Dimmer Switch, S505D, Single Pole, Need Neutral Wire $14.99",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-16T03:10:22.760032Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Freeman 3-Way Steel 1/4\" Air Manifold with Quick Connect Couplers $9.13",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-16T03:10:22.760032Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Diablo II: Resurrected™ – Infernal Edition $28 @ Battle.net",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T03:10:22.760032Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "BJ's Members $549.99 + up to $112 in Free Gasoline (up to 25 gals at $4.50 price) Hisense 75\" QD65SR Series Hi-QLED Quantum Dots 4K Smart Roku TV, AI Picture with 3-Years Warranty",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T03:10:22.760032Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Stitch Toddler Boys Slide Sandals $3.12+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T03:10:22.760032Z",
   "code": "not_checked",
   "public": false
  }
