@@ -1,5 +1,13 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "HP DeskJet 2952 Wireless All-in-One Color Inkjet Printer for $44 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T21:39:05.718060Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "124-Piece LEGO Creator 3 in 1 Turtle with a Water Lily Flower $7.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
@@ -132580,38 +132588,6 @@
   "raw_title": "NEW Minnidip Halloween Inflatables Just $15.99 on Target.com",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-16T21:41:06.252665Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "665-Piece LEGO Minecraft - The Creeper $31.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-16T21:35:41.126630Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Boahaus Modern Bar Cabinet for $51 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T21:35:41.126630Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "eufy Security eufyCam C37 2K Solar Wireless Outdoor Security Camera for $70 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T21:35:41.126630Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "AirPods 5 with Active Noise Cancellation $124.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T21:35:41.126630Z",
   "code": "not_checked",
   "public": false
  }
