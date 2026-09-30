@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "a55da0f864f6",
+  "source": "techbargains",
+  "source_url": "https://www.amazon.com/gp/product/B018N7YZL6/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
+  "title": "Energizer Max 20 Percent Longer 9V Battery",
+  "raw_title": "Energizer Max 20 Percent Longer 9V Battery $9.49",
+  "merchant": "amazon",
+  "buy_url": "https://www.amazon.com/gp/product/B018N7YZL6/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
+  "deal_total_cents": 949,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 949,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 949,
+  "amazon_url": "https://www.amazon.com/dp/B018N7YZL6",
+  "amazon_checked_at": "2026-09-30T16:24:25.199063Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": null,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B018N7YZL6",
+  "image_url": null,
+  "published_at": "2026-09-30T16:24:06.831907Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "b396378d3ca8",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20066124-turtle-beach-atlas-200-wired-multiplatform-gaming-headset-black-34-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
