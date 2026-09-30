@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[AC] $11.99* | 3-Pk Zesua Halloween Outdoor LED Dog Ghost Hanging Decor at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-30T23:29:40.927807Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Veryke 6-Foot Folding Bench for $55 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T23:29:40.927807Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $14.99* | Mossy Oak 16\" Heavy Duty Machete w/ Saw & Sheath at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T23:24:03.872489Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC] $48.91* | High Sierra Vacation Backpack (Large, Forest Green/Black) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-30T23:24:03.872489Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "MAGNA-TILES Spooky Travel Set Just $13.99 Shipped w/ Amazon Prime (Regularly $20)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T23:24:03.872489Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Magic Water Elf Kit Just $9.99 on Amazon (Reg. $20)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T23:24:03.872489Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Dockers Men's Bronson Oxford Shoes for $45 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T23:18:25.868586Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Merrell Men's Tempo Sol Hiking Sneaker (Dark Moss) $37.78 + Free Store Pickup at Nordstrom Rack or FS on $89+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T23:18:25.868586Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$10.49 | Victoria Flower - Orchid by Maison Alhambra for Women - 3.4 oz EDP Spray at Amazon",
   "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-30T23:12:50.665553Z",
@@ -132324,62 +132388,6 @@
   "raw_title": "DaKine Kids' Cubby 12L Backpack (Snow Day-White) $10 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-16T23:33:37.267954Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Hawke & Co. Men's Defender All-Season Jacket (L only) for $10 + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T23:28:21.381762Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Nike Youth Elemental 20L Backpack (Sail/Stadium Green) $18.97 + Free Shipping on $49+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T23:28:21.381762Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Blackstone Tool Caddy (Black) $27.99 + Free Store Pickup at Target or Free Shipping on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T23:22:56.276282Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "SKIL 12V/20V Brushless 4 in. Clamp Fan, Tool Only- lowest price ever $12.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T23:22:56.276282Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[AC] $26.98* | CRAFTSMAN OVERDRIVE 7-Piece Metric Wrench Set (CMMT87807) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-16T23:17:31.935325Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Fiskars 6\" Micro-Tip Pruning Scissors w/ Sheath $12.89 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-16T23:17:31.935325Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Up to 75% Off Select Threshold Comforter Sets (Various): Twin/Twin XL Washed Waffle Weave Comforter & Sham Set (Camel) $19.75 & More + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T23:17:31.935325Z",
   "code": "not_checked",
   "public": false
  }
