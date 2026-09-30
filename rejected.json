@@ -1,5 +1,13 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Haawooky Fake Padded Belly Suit for $15.30 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T11:25:39.330539Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "24-Night Tahiti and Hawaii Cruise, Vancouver to Auckland $2,569.00",
   "reason": "Not evaluated",
@@ -132876,38 +132884,6 @@
   "raw_title": "Yoma 350W Cordless Vacuum Cleaner for $60 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-16T11:30:20.911708Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Lowe's Soil Sale for Deals from $4 + pickup",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T11:24:55.464206Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Miracle Cleaning Cloth 10-Pack for $3 + free shipping w/ $25",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T11:24:55.464206Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "4-in-1 Grout & Corner Scrubber Brush for $3 + free shipping w/ $25",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T11:24:55.464206Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Fanatics Free Shipping Promo Code: Free Shipping w/ $39+ + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T11:24:55.464206Z",
   "code": "not_checked",
   "public": false
  }
