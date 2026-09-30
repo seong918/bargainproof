@@ -1,5 +1,29 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Refurb Apple iPad 10.9\" 64GB Wi-Fi Tablet (2022) for $295 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T23:02:11.577931Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Waterproof Dog Blankets from $5.99 on Amazon (Reg. $22)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T23:02:11.577931Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-pk 20-LED Lakeside Halloween Eyeball String Lights (Battery Operated) $5.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T23:02:11.577931Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "24\"X18\" Bedsure ComfyFleece Non-Slip Pet Self Heating Pad $12.64 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
@@ -132380,22 +132404,6 @@
   "raw_title": "Prime Cuts 10-Cigar Sampler~$24.99 @ Cigar Page~Free Shipping!",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-16T23:06:40.575811Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Say Goodbye to Messy Linen Closets! Bed Sheet Organizer Set Just $21.98 on Amazon",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T23:01:29.032102Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Anker 10,000mAh 22.5W Power Bank w/ Built-In USB-C Cable (Black) $25.99 + Free Store Pickup at Best Buy",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T23:01:29.032102Z",
   "code": "not_checked",
   "public": false
  }

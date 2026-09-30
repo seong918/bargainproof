@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "58951b9e8c19",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20079252-amazon-gayhay-women-s-fleece-lined-leggings-w-pockets-14-99-w-code-deal?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "Amazon – GAYHAY Women's Fleece-Lined Leggings w/ Pockets - w/ Code + Deal",
+  "raw_title": "Amazon – GAYHAY Women's Fleece-Lined Leggings w/ Pockets - $14.99 w/ Code + Deal",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0H6MV452G",
+  "deal_total_cents": 1499,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 1999,
+  "amazon_coupon_cents": 200,
+  "amazon_effective_cents": 1799,
+  "amazon_url": "https://www.amazon.com/dp/B0H6MV452G",
+  "amazon_checked_at": "2026-09-30T23:02:16.050137Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0H6MV452G",
+  "image_url": null,
+  "published_at": "2026-09-30T23:02:11.577931Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "919e8c9c44c2",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20080302-14-20-champion-powerblend-fleece-full-zip-hoodie-unbleached-cotton-3xl-big-tall-4xl-big-only-14-2?utm_source=rss&utm_content=ht&utm_medium=RSS2",
