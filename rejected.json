@@ -1,5 +1,13 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Costco Members: Shark CryoGlow Under-Eye Cooling Plus LED Anti-Aging and Skin Clearing Face Maskk w/ Charging Stand $270",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T22:12:56.382382Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "LEGO Creator 3-in-1 Turtle Building Set for $8 + free shipping w/ Prime",
   "reason": "Not evaluated",
@@ -132509,30 +132517,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-16T22:13:41.613500Z",
   "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "55-Piece StBernard Kids' Pocket Sized Basic First Aid Kit Blue $2.65, Purple $2.84 Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-16T22:08:16.387373Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[AC] $12.99 | Stbands Astronaut Galaxy Star Projector Night Light w/ Remote & 17 Modes at Amazon",
-  "reason": "Posted at $12.99, but Amazon showed $22.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-16T22:08:16.387373Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "King Arthur Organic Bread Flour 5-lb. Bag for $6 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T22:08:16.387373Z",
-  "code": "no_signal",
   "public": false
  }
 ]
