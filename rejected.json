@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS] $12.82* | 12-Pack 1.76-Oz Pure Protein Bars (Chocolate Salted Caramel) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T22:46:02.308784Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS] $11.86* | 6-Pack 3.5-Oz Nongshim Premium Noodle Soup (with Beef Bone Broth) at Amazon ($1.98 each)",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T22:46:02.308784Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas Men's or Women's Superstar II Shoes for $37 + free shipping w/ $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T22:46:02.308784Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Cyrico Pickleball Sling Backpack w/ Fence Hook & Water Bottle Holder $16.99 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T22:46:02.308784Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Tombstone Candy Corn Pizza Drop $1.31",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T22:46:02.308784Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[SnS] $5.69 | 4-Pack 4.83-Oz Nongshim Toomba Shin Ramyun (Spicy & Creamy) at Amazon ($1.42 each)",
   "reason": "Community score too low (+0) to pass without a price check — needs multi-pack, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-30T22:40:45.238901Z",
@@ -132452,38 +132492,6 @@
   "raw_title": "Carhartt Men's Odessa Ball Cap $8.98 Carhartt Brown",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-16T22:51:04.784974Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Fisher-Price Little People Disney Mickey & Minnie Musical Train $19.79",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T22:45:53.610805Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "LEGO Snowman Ornaments for $10 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T22:45:53.610805Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "LG UA7500 Series 55 Inch 4K UHD LED AI Smart TV 55UA7500~$298 @ Walmart~Free Shipping Or Pickup!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T22:45:53.610805Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Joyfy 6 FT Tall Haunted Castle Halloween Inflatable Haunted Castle Decoration $30.7",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T22:45:53.610805Z",
   "code": "not_checked",
   "public": false
  }
