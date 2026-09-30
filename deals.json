@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "c599062eb00d",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20078523-bob-ross-by-the-numbers-canvas-painting-kit-6-65-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "Bob Ross by the Numbers Canvas Painting Kit + or on",
+  "raw_title": "Bob Ross by the Numbers Canvas Painting Kit $6.65 + Free Shipping w/ Prime or on $35+",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 665,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "prime"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-09-30T18:11:04.565294Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "0f5757c0a71c",
   "source": "techbargains",
   "source_url": "https://www.amazon.com/gp/product/B0G2F6BZPT/ref=ox_sc_act_image_1?smid=ATVPDKIKX0DER&psc=1",
