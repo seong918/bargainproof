@@ -1,6 +1,78 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$2.36 | BOSCH ITT10202 2-Pack 2 In. Torx #10 Impact Tough Screwdriving Power Bits at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-09-30T19:40:59.292121Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "OHO Sunshine Sport Smart Sunglasses w/ Bluetooth (Black) $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T19:40:59.292121Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Vevmon Cotton Underwear for Women High Waisted Soft Ladies Panties 5 Pack $14.24",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T19:40:59.292121Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "SONGMICS 98.4\"x59.1\" 660 lb Double Hammock w/ Hanging Straps $16.27",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T19:40:59.292121Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Arctic Fox Semi-Permanent Hair Color for $14 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T19:40:59.292121Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "TCL TAB 10 Gen 4 10.1\" Android Tablet for $170 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T19:40:59.292121Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Merrell Women's Await Adventure Semi-Cropped Graphic Hoody for $16 + free shipping w/ $75",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T19:40:59.292121Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$7.99: Wingspan @ Steam",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T19:40:59.292121Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SILENT HILL 2 (PC Game) $19.89",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T19:40:59.292121Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$3.59* | 2-Pack 8ml MDDRUIQI Refillable Portable Perfume Atomizer Bottle (Black) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-30T19:35:23.252625Z",
@@ -132662,45 +132734,5 @@
   "rejected_at": "2026-09-16T19:41:41.711114Z",
   "code": "price_mismatch",
   "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "TCL 85 Inch Class X11L | SQD-Mini LED | 85X11L, 2026 Model | 144HZ Ultimate Brightness & Contrast Dolby Vision $5997.99",
-  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-16T19:36:15.329251Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Harry's Black Lip Balm for Men for $7 via Sub & Save + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T19:36:15.329251Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Belk Big Brand Deals: Up to 50% off + free shipping w/ $99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T19:36:15.329251Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Simple Modern Halloween Tumblers Just $22.49 on Amazon (Reg. $45)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T19:36:15.329251Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "HAMILTON Khaki Navy Scuba 37mm White Dial Unisex Quartz Watch $367",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T19:36:15.329251Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
