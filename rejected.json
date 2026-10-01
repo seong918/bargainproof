@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Neliang 24-Day Fishing Lure Advent Calendar 2026 $19.98 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T15:13:06.742151Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Star Wars The Blueprints: Designs & Artwork from the Skywalker Saga $23.67 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T15:13:06.742151Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Uineer 4-Adjustable DPI 6-Button Wireless Ergonomic Vertical Mouse $11.99",
+  "reason": "Posted at $11.99, but Amazon showed $20.39 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-01T15:13:06.742151Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Novelty Big Man Apron $4.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T15:13:06.742151Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Calvin Klein Women's Bubble Lamb Organizational Satchel $74.75",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T15:13:06.742151Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Blink Mini 2K+ Indoor Security Camera 2-Pack $15.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T15:13:06.742151Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "HotHands Hand Warmers 10-Count Only $1.88 Shipped on Amazon (Reg. $10)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T15:13:06.742151Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "MSI Codex Z2 Gaming Desktop (Cert. Refurb): Ryzen 5 8400F, RTX 5060, 16GB DDR5, 1TB SSD $899",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T15:13:06.742151Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "3-Pack Amazon Essentials Men's Cushioned Low Cut Running Socks (Size 13-15) $3.06 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+-1) to pass without a price check — needs multi-pack, Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-10-01T15:07:34.325277Z",
@@ -131572,54 +131636,6 @@
   "raw_title": "Skil CB5196B-11 20V Lithium Battery & Charger Starter Kit $34.73",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T15:17:31.354358Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Ayura Retractable Garden Hose Reel 1/2 Inch x 100 ft,Automatic Slow Rewind System $63.99",
-  "reason": "Posted at $63.99, but Amazon showed $79.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-17T15:12:10.483185Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "973-Piece LEGO Technic Volvo L120 Electric Wheel Loader $97.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T15:12:10.483185Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "PGYOB 99.9Wh Portable Power Station $30.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T15:12:10.483185Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Highland Dunes Allurine 18\" W HIPS Plastic Outdoor Side Table for $61 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T15:12:10.483185Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$20 AUTOZONE Pick Up (CLEARANCE) Ymmv on stock Quaker State Full Synthetic 5W-20, 5W-30 Motor Oil 5 Quart 550046194",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T15:12:10.483185Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Graco Jumpstart 4-in-1 Activity Bouncer (Wren) $85.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T15:12:10.483185Z",
   "code": "not_checked",
   "public": false
  }
