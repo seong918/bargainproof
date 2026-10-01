@@ -1,6 +1,102 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Esabel.C Mens Golf Shirt Zipper Polo $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $19.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-01T14:01:13.716749Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Esabel.C Men's Print Golf Shirt Breeze Polo Shirt $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $19.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-01T14:01:13.716749Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "ByteWave Bone Conduction Pillow Speaker Bluetooth 5.3 $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T14:01:13.716749Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "VEVOR Farm Fence 47 x 984 in 2 x 4 in Mesh 2.1mm Galvanized Steel Wire $59.57",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T14:01:13.716749Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "FDJ Remote Control Transform Toys Car $14.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T14:01:13.716749Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Pipishell Slim Storage Cart with Wheels - 4 Tier Brown $21.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T14:01:13.716749Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Osprey Arcane Roll Top Travel Backpack 24L (Earth Pediment Grey Block) $39.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T14:01:13.716749Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Contour Airlines Flight Muscle Shoals AL to Dallas with 1 Checked Bag $149.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T14:01:13.716749Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Wegear 140W 4-Port GaN USB-C Wall Charger with Cable for $33 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T14:01:13.716749Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Hyper Tough Folding Lock-Back Utility Knife, 7-Inch $3.84",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T14:01:13.716749Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GOOLOO A5 Jump Starter with Air Compressor, 4000A Portable Jump Box - $84.96 AC",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T14:01:13.716749Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "VIPCOO VC-H3 Electric Dirt Bike 3500W 48V 23Ah Electric Motorcycle Fat Tire $677 + Free Shipping $677.2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T14:01:13.716749Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "12 Colored Rainbow Pencils $3.49",
   "reason": "Posted at $3.49, but Amazon showed $6.99 when we checked — the deal is probably over",
   "rejected_at": "2026-10-01T13:55:43.011536Z",
@@ -131692,78 +131788,6 @@
   "raw_title": "Round Trip Chicago to Reykjavik Iceland $389 Nonstop Airfares on Icelandair BE (Travel November 2026 - February 2027)",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T14:03:05.551170Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Rocoren 400W 10-Port USB-C Charging Station for Multiple Devices with 6 Cables $18.49",
-  "reason": "Posted at $18.49, but Amazon showed $36.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-17T13:57:43.597999Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Camel Crown Men's Waterproof Fleece Lined Snow Jacket $22.99",
-  "reason": "Posted at $22.99, but Amazon showed $45.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-17T13:57:43.597999Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Shark Navigator Lift-Away Upright Vacuum NV380 Teal $118.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T13:57:43.597999Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Kobalt 24-Volt 2-Pack 4.0 Ah Lithium-ion Battery $99.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T13:57:43.597999Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "DJI Power 1000 V2 1,024Wh Portable Power Station for $420 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T13:57:43.597999Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Sweetlove 12\" Gel Memory Foam Hybrid Pocket Spring Mattress In A Box Medium Firm Motion Isolation $123.4 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T13:57:43.597999Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Levoit Tower Fan for Bedroom, 28ft/s Fans that Blow Cold Air, 28dB Quiet $54.92",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T13:57:43.597999Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Walmart – NULAS 6-Piece Colorful Kitchen Knife Set w/ Covers - $10.01 w/ Code",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T13:57:43.597999Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "DTTZH F6S (Black) Electric Bike for Adults 2000W Peak 48V 25Ah, 20x4 inch All-Terrain Tires, up to 40mph, Full Suspension, integrated headlight + taillight $595 + Free S/H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T13:57:43.597999Z",
   "code": "not_checked",
   "public": false
  }
