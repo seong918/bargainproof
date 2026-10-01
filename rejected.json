@@ -1,6 +1,102 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Texas Instruments TI-84 Evo Graphing Calculator (White) $83.88 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-01T18:15:43.074337Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Implimage 50' Smart Outdoor RGB Color Changing String Lights (8-Pack) $14.99",
+  "reason": "Posted at $14.99, but Amazon showed $29.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-01T18:15:43.074337Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Wiselifetech 50-in-1 Multi Precision Bits Magnetic Ratchet Screwdriver Set $16.79",
+  "reason": "Posted at $16.79, but Amazon showed $23.79 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-01T18:15:43.074337Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Rezrog",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T18:15:43.074337Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Urban Empire",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T18:15:43.074337Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ninja Professional Blender $79.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T18:15:43.074337Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Disney Princess Dress Up Trunk Deluxe 21-Piece Costume Set $25.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T18:15:43.074337Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Philips Sonicare 4200 Rechargeable Electric Toothbrush $39.96",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T18:15:43.074337Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Gretsch Electromatic LTD Flame Okoume Broadkaster w/ Bigsby for $980 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T18:15:43.074337Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Try Tombstone’s NEW Candy Corn Pizza for Just $1.31 on 10/2!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T18:15:43.074337Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Round Trip Detroit - Dallas or Vice Versa $139 Nonstop Airfares on Delta Air Lines BE (Travel October - February 2027)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T18:15:43.074337Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Marmot Limelght 3P Tent $129.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T18:15:43.074337Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Adidas Alliance Drawstring Sackpack (Black) $13.18 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+3) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-10-01T18:10:12.163328Z",
@@ -131388,62 +131484,6 @@
   "raw_title": "Shake Shack $5 Cheeseburger with any purchase 9/18 National Cheeseburger Day only",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T18:15:46.811178Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Secret Files 3",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T18:10:19.729181Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Adidas Men's JABBAR LO Shoe Black $33.75",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T18:10:19.729181Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "DC/Batman 8-Game Universe Bundle (PC/Steam Digital Download) $12.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T18:10:19.729181Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Adidas Men's Grand Court 3.0 Shoes (Light Brown / Off White / Chalky Brown) $31.50",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T18:10:19.729181Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Kaluns 5 Pcs Silicone Spatula Set $8.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T18:10:19.729181Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "adidas Men's Questar 4 Running Shoes for $34 + Free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T18:10:19.729181Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Solar Power Bank Portable Charger Only $46.99 Shipped on Amazon (Reg. $130)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T18:10:19.729181Z",
   "code": "not_checked",
   "public": false
  }
