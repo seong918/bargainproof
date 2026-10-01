@@ -1,5 +1,21 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Arc'teryx Men's Norvan Windshell Hoody Jacket for $110 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T22:58:07.874460Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Express Water NSF Certified Reverse Osmosis Water Filter System $96",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T22:58:07.874460Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$16.49: Avatar: Frontiers of Pandora @ Steam (From The Ashes Edition $21.99)",
   "reason": "Not evaluated",
@@ -131797,14 +131813,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T23:03:10.829638Z",
   "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "2 Pairs of Magnetic Holding Hands Socks for $13 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T22:57:45.778532Z",
-  "code": "no_signal",
   "public": false
  }
 ]
