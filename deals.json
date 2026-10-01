@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "3b24e0d0e984",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20082813-sns-ac-9-65-38-count-hefty-39-gallon-strong-lawn-leaf-trash-bags-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "38-Count Hefty 39 Gallon Strong Lawn & Leaf Trash Bags",
+  "raw_title": "[SnS, AC] $9.65 | 38-Count Hefty 39 Gallon Strong Lawn & Leaf Trash Bags at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 965,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-10-01T15:18:38.947197Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "dc68dda1b431",
   "source": "techbargains",
   "source_url": "https://www.amazon.com/gp/product/B0CH3P9K1X/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
