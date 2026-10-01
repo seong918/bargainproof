@@ -1,5 +1,21 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Pet Nun Costume for $9 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T10:16:07.994819Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "9\" Wireless CarPlay Android Auto Screen with Dash Cam, $43.99, FS Prime, Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T10:16:07.994819Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "605-Pc Lumibricks Cyberpunk Future Bus 2-in-1 LED Light Building Bricks Set $23.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
@@ -132189,22 +132205,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T10:16:52.097884Z",
   "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Nintendo Switch Pro Wireless Controller for $56 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T10:11:28.580198Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Camelsports Men's 3-in-1 Waterproof Ski Jacket for $25 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T10:11:28.580198Z",
-  "code": "no_signal",
   "public": false
  }
 ]
