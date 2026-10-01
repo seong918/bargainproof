@@ -1,6 +1,14 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Thames & Kosmos EXIT: The Game - Adventures on Catan $11.99 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T02:28:13.361404Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[Open Box] 10000mAh Mophie 30W Power Bank $17.84 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-10-01T02:22:38.047476Z",
@@ -132132,30 +132140,6 @@
   "raw_title": "Little Tikes Easy Store Jr. Play Table with Umbrella - Target $33.59",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T02:32:25.468348Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "3-Piece English Laundry Devour Eau de Parfum Gift Set for Him $19.59 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-17T02:27:02.316961Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "LEHOM 3 Tier Rolling Cart, Metal Rolling Utility Cart with Lockable Wheels $23.99",
-  "reason": "Posted at $23.99, but Amazon showed $39.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-17T02:27:02.316961Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "BJs Receive a $25 coupon when you spend $100+ (or a $50 coupon when you spend $200+) P and G Products",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T02:27:02.316961Z",
   "code": "not_checked",
   "public": false
  }
