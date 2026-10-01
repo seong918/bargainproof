@@ -1,6 +1,54 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "Chamberlain myQ Secure View 3-in-1 Smart Lock w/ 2K Video Doorbell for $143 w/ Prime + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T08:14:58.744260Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bruno - Digital HD $8",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T08:14:58.744260Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Frigidaire Gallery 36\" 28-cu. ft. French Door Refrigerator for $1,900 in cart + shipping varies",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T08:09:22.748860Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$1.99 | Foucault's Pendulum (Kindle eBook) by Umberto Eco",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T08:09:22.748860Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Greenworks 40V 12 in Cordless String Trimmer, 2.0 Ah Battery and Charger $89.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T08:09:22.748860Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "290-Pc LEGO Disney Princess Advent Calendar 2026 Building Set (43298) $35 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T08:09:22.748860Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
   "raw_title": "Lickable Cat Treats Variety 20-Pack for $8.99 via Sub. & Save + free shipping w/ Prime",
   "reason": "Not evaluated",
   "rejected_at": "2026-10-01T08:03:48.293273Z",
@@ -131973,14 +132021,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T08:18:35.850383Z",
   "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Refurb Shark Robot Vacuum Deals at Woot for from $80 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T08:13:11.883194Z",
-  "code": "no_signal",
   "public": false
  }
 ]
