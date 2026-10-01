@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "a5cd761a1c29",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20078763-jack-link-s-original-beef-jerky-multipack-2-pack-9-oz-w-35-off-coupon-and-s-s-ymmv-11-96?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "Jack Link's Original Beef Jerky Multipack - (2 Pack) 9 oz w/ 35% off coupon and S&S",
+  "raw_title": "Jack Link's Original Beef Jerky Multipack - (2 Pack) 9 oz w/ 35% off coupon and S&S (YMMV) $11.96",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B07JLT9FK9",
+  "deal_total_cents": 1196,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "sns"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 1994,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1994,
+  "amazon_url": "https://www.amazon.com/dp/B07JLT9FK9",
+  "amazon_checked_at": "2026-10-01T01:43:39.334097Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B07JLT9FK9",
+  "image_url": null,
+  "published_at": "2026-10-01T01:43:34.574790Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "65c1e90ccba4",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20080992-valerion-visionmaster-max-lightning-deal-for-3-144?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
