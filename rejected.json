@@ -1,5 +1,141 @@
 [
  {
+  "source": "dealcatcher",
+  "raw_title": "Halloween Decoration Floating Candle with Wand Magic LED Flickering - 20PCs $23.96",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T12:38:15.533817Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "OdoBan Ready-to-Use Disinfectant and Odor Eliminator 3-Pack 32oz (Lavender) $9.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T12:38:15.533817Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Halloween Lighted Garden Flag, Ghost Yard Decor, 12x18 In $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T12:38:15.533817Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Zebra Pen F-301 Compact Retractable Ballpoint Pen 2-Pack (Black, 0.7mm) $4.36",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T12:38:15.533817Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ankle Brace with Self-Adjusting Side Pads, [Slim Fit & Flex Support] Ankle Stabilizer Support - $16.99 after coupon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T12:38:15.533817Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "AND1 Boys' Zesty Mid-Top Athletic Sneakers (Multi) $9.97 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T12:38:15.533817Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Hotor Tactical Molle Toiletry Bag (Black or Green) $14.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T12:32:40.670094Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "iSinbox Dual-Mode Stand 4K Input HDR10+ Short Throw Projector $129.99",
+  "reason": "Posted at $129.99, but Amazon showed $299.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-01T12:32:40.670094Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Amazon Haul Haul-oween Flash Sale: Deals from 31 cents + free shipping w/ $25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T12:32:40.670094Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Vevor 3\" Rise Rubber Threshold Ramp, 35.6\" Wide Wheelchair Doorway Ramp for $43 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T12:32:40.670094Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Pack Linkind A21 Smart 1600Lm LED Bulbs w/ Matter Compatibility & Color Changing (Multicolor) $13 + $6 Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T12:32:40.670094Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] 24-Pack Play-Doh Dinosaur & Dragon Egg Hunt Modeling Compound Eggs $9.99 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — needs multi-pack, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T12:27:07.143642Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Charms Blow Pops Box of 100 $13.97 Prime Ship or at $35 Amazon (cheaper than Sams and Costco)",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T12:27:07.143642Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Cadrali Solar Smart Bird Feeder with 3K Camera for $36 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T12:27:07.143642Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Life Size Michael Myers Cardboard Cutout for $46 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T12:27:07.143642Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Champion Sports Rechargeable Digital Hand Pump for $14 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T12:27:07.143642Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Better Homes & Gardens Bubble Throw Just $24.96 on Walmart.com (Anthro Look For Less)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T12:27:07.143642Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "[Prime] Little Live Pets Ouchies Hazel the Poodle Interactive Walking Plush Puppy Toy w/ Carrier & Accessories $29.99 + Free Shipping",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
@@ -131556,222 +131692,6 @@
   "raw_title": "Dockers Men's Curtis Casual Lace-Up Sneakers, Brown, $18.19, Macy's",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T12:42:28.351204Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Women’s Smart Watch $20.99 – 1.83\" Display, Call/Answer, 110+ Sports Modes, 2 Bands",
-  "reason": "Posted at $20.99, but Amazon showed $70.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-17T12:37:04.267422Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Sweatsuits/Track Suits 2 Piece $17.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T12:37:04.267422Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Bomber Jacket Light Zip Up with Pockets $14.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T12:37:04.267422Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Gold Playing Cards for $1 + free shipping w/ $25",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T12:37:04.267422Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "GL.iNet GL-BE3600 Slate 7 Wi-Fi 7 Travel Router for $106 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T12:37:04.267422Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Dockers Men's McCoy Casual Round-Toe Sneakers, $18.19, Macy's",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T12:37:04.267422Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Dockers Men's Estes Wax Casual Sneakers, $18.19, Macy's",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T12:37:04.267422Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas Women's Advantage Base 2.0 Shoes (2 Colors) $24.75",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T12:37:04.267422Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$99 FS WALMART Safety 1st Grow and Go Sprint All-in-One Convertible Car Seat (color choice)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T12:37:04.267422Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Club Room Men's Mahtt Sneakers, 5 colors, $17.49, Macy's",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T12:37:04.267422Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Women's Textured V-Neck Cap Sleeve Top $5.54",
-  "reason": "Posted at $5.54, but Amazon showed $11.09 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-17T12:31:43.278045Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "6 Pcs Faux Silk Peony Artificial Flowers $14.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T12:31:43.278045Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Hontafe Under Cabinet Lighting 58 LED RGB $19.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T12:31:43.278045Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Monster 40W Portable Bluetooth Speaker $38.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T12:31:43.278045Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Cordless Weed Wacker & Weed Eater 2x4.0Ah Batteries $80.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T12:31:43.278045Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Electric Wire Welding Fixture for $1 + free shipping w/ $25",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T12:31:43.278045Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "USB C Adapter Kit for $2 + free shipping w/ $25",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T12:31:43.278045Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$15 WALMART Women's Avia Gel Running Sneakers in sizes 11, 7.5 and 8",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T12:31:43.278045Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$2.95 S&S Q Snyder's of Hanover Sourdough Nibblers Pretzels, 16 Oz",
-  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-17T12:26:23.855351Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Acebeam TAC AA 2.0 900-Lumen Ultra Long Range Tactical EDC Flashlight $23.08",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T12:26:23.855351Z",
-  "code": "lookup_failed",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Christmas Gnome Crewneck Long Sleeve Tops $11.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T12:26:23.855351Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "adidas Men's Fall Shoe Deals for From $15, sneakers from $27 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T12:26:23.855351Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Stainless Steel NB1100 Deburring Tool Kit for $1 + free shipping w/ $25",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T12:26:23.855351Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Nike NFL Salute to Service Deals at Fanatics: Up to 66% off + free shipping w/ $39",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T12:26:23.855351Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Firebat R3 AMD Ryzen 3 4300U Mini PC for $215 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T12:26:23.855351Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas Adult Germany Track Jacket $48",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T12:26:23.855351Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Sorel Women's ONA Ave Slip-On Sneaker, 3 colors, $24.99, FS Prime, Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T12:26:23.855351Z",
   "code": "not_checked",
   "public": false
  }
