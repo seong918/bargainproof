@@ -1,5 +1,29 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Bruno Marc WaveFlex CoreLux Men's Casual Dress Shoes (2 colors) $25.83 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T01:49:08.558931Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$19.99 | Lodge Pre-Seasoned Cast Iron Lid, Replacement Skillet Cover, 10.25 Inches at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-01T01:49:08.558931Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Walgreens BOGO for $1 on select Halloween candy bags",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T01:49:08.558931Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Chevrolet Men's Camo Fleece Jogger Pants for $8 + free shipping w/ $35",
   "reason": "Not evaluated",
@@ -132332,14 +132356,6 @@
   "raw_title": "Vizio 4.1 Dolby Atmos Wireless Soundbar w/ Subwoofer for $101 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T01:49:12.352436Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "7-Eleven Bring Your Own Cup Day: $1.99 Slurpee Drinks",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T01:43:45.324094Z",
   "code": "not_checked",
   "public": false
  }
