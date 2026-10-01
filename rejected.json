@@ -1,5 +1,101 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Gaiatop Menstrual Heating Pad, Cordless, 5000mAh Rechargeable $11.99 AC",
+  "reason": "Posted at $11.99, but Amazon showed $19.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-01T14:23:26.861764Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Pixel Panda Men's Lightweight Touchscreen Control Anti-Slip Hiking Gloves $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $17.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-01T14:23:26.861764Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Asbest 10' Adjustable Basketball Hoop Outdoor with 44\"/48\" Backboard $119.99",
+  "reason": "Posted at $119.99, but Amazon showed $199.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-01T14:23:26.861764Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Phomemo 241BT 4x6\" 203DPI 66ppm Bluetooth Wireless Thermal Label Printer $49.99",
+  "reason": "Posted at $49.99, but Amazon showed $69.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-01T14:23:26.861764Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Wheel & Tire Brush Set - 2 Pack $11.89",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T14:23:26.861764Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Polo Stretch Shirts $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T14:23:26.861764Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Adidas men Ultimate365 Tour CLIMAPROOF+ Anorak Jacket $110.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T14:23:26.861764Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Comforter Sets Sale $16.79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T14:23:26.861764Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Adidas Essentials Fleece Hoodie $18.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T14:23:26.861764Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "CITIZEN H-Link 42mm Black Dial Men's Solar Powered Quartz Eco-Drive Watch $144.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T14:23:26.861764Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Arc'teryx Men's Beta GORE-TEX 3-Layer Jacket (2 Colors) $249.83 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T14:23:26.861764Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "UPlee GS3 14\" Folding Electric Bike 48V 8AH 500W 25km/h $147 + Free Shipping $146.6",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T14:23:26.861764Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Doritos Protein Chips 5.2 oz Multipack + $3 Walmart Cash $5.98",
   "reason": "Not evaluated",
@@ -131700,126 +131796,6 @@
   "raw_title": "Prime: Katerk Cordless Hot Glue Gun with 50 Mini Glue Sticks 30s Fast Heating Auto Shut-Off from $12.46 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T14:24:36.321140Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Lisen Steel Gooseneck Adjustable Phone Holder Desk Mount $14.98 + Free S&H w/ Prime",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-17T14:19:15.261708Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Talix X7 Bluetooth 6.0 Water Resistant Open Ear Clip-On Earbuds $15.99",
-  "reason": "Posted at $15.99, but Amazon showed $29.74 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-17T14:19:15.261708Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Xroam 16.4ft x 1in Non-Abrasive Rubber Grip Tape (Hexagon) $3.49",
-  "reason": "Posted at $3.49, but Amazon showed $7.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-17T14:19:15.261708Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "ProsourceFit Exercise Weighted Training Vest 8lb $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T14:19:15.261708Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Quest Nutrition Ready To Drink Protein Shake Chocolate Non-Caffeinated 44 fl oz/4ct $6.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T14:19:15.261708Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Tone Fitness Black Weighted Vest, 12 Lbs $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T14:19:15.261708Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Taskstar Battery Powered Backpack Sprayer 4.2 Gallon $39.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T14:19:15.261708Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "SEESII Fuel Transfer Pump 1x4.0Ah Battery Auto-Stop Nozzle Cordless Pump Kit $80.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T14:19:15.261708Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Vivitar 4K Dual Sensor Dashcam with AI and Smart Alerts $49.98",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T14:19:15.261708Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "RARE Savings on Nike Air Force 1 Shoes | Popular Styles from $44.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T14:19:15.261708Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Round Trip Austin TX - Oahu Hawaii or Vice Versa $393 Airfares on Alaska/Hawaiian Airlines BE (Travel January - February 2027)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T14:19:15.261708Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Walmart – NULAS 27-Piece Griddle Accessories Kit - $23.49 w/ Code",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T14:19:15.261708Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Women's Madden Girl Georgiie Shoes from $19.60 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T14:19:15.261708Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Prime: Aaoyun Portable Charger Power Bank 20000mAh 22.5W PD Fast Charging $13.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T14:19:15.261708Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Prime: InnoGear 6 Pcs 27.36\" Faux Peonies Artificial Flowers for Vase $13.49 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T14:19:15.261708Z",
   "code": "not_checked",
   "public": false
  }
