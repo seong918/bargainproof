@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[Prime] FoxMind Match Madness Family Board Game $14.99 + Free Shipping",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T13:05:54.697401Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bosch 8-Piece 2\" Impact Tough Square Power Bits w/ Clip (CCSSQV208) $7.25 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T13:05:54.697401Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nongshim Shin Ramyun Toomba Noodles Square Bowl, Creamy Korean Mac and Cheese Style Noodles, 3.73 oz (Pack of 6) $5.9",
+  "reason": "Posted at $5.90, but Amazon showed $6.25 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-01T13:05:54.697401Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Yottoy Cordless Counter Weighted Skipping Ropes with LCD Display $5.85",
+  "reason": "Posted at $5.85, but Amazon showed $11.71 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-01T13:05:54.697401Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Midea 5,000 BTU Window Air Conditioner for $158 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T13:05:54.697401Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "FREE Carl’s Jr. Churro Shake w/ $1 Purchase – Today ONLY!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T13:05:54.697401Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Certified Refurbished 6-in-1 1800W Ninja Crispi Pro $199 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T13:05:54.697401Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Ozark Trail Men's Comfortable Fit Light Insulated Nylon Zip Jacket $12.37",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T13:05:54.697401Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "LEGO Disney Lucky & Penny 101 Dalmatians Puppies Building Set (43271) $19.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-10-01T13:00:23.384990Z",
@@ -627,14 +691,6 @@
   "source": "slickdeals",
   "raw_title": "4\" DEWALT Cable Twist Wire Wheel (DW4930) $10.90 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-10-01T11:32:37.700703Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Bosch 8-Piece 2\" Impact Tough Square Power Bits w/ Clip (CCSSQV208) $7.25 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+3) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-10-01T11:32:37.700703Z",
   "code": "low_score",
   "public": true
@@ -131604,38 +131660,6 @@
   "raw_title": "*HOT* Up to 85% Off Swimwear on Walmart.com | Prices from $1.96",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T13:09:18.794717Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "3 pack, Armor All Ultra Shine Car Wash and Car Wax, $14.16, Amazon $14.15",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-17T13:03:53.035520Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Windstar 10-Night Canary Islands & Madeira Cruise for From $6,740 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T13:03:53.035520Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Greenworks 2500-PSI 2-GPM Cold Water Electric Pressure washer with 5 Spray Tips one_size | GPW2500 $199",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T13:03:53.035520Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Keds Women's Scout Boot III Sp Twill Lace Up Boots (Green) $24.95 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T13:03:53.035520Z",
   "code": "not_checked",
   "public": false
  }
