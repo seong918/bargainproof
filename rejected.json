@@ -1,6 +1,14 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$4.98 Blue Buffalo Halloween Dog Treats or Dog Biscuits PETSMART PICK UP Part of Buy 4, get 40% off",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T06:23:12.485722Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Megamaster 3-Burner Propane Gas Grill $98 @ Home Depot (Online)",
   "reason": "Not evaluated",
   "rejected_at": "2026-10-01T05:55:16.497351Z",
@@ -132206,45 +132214,5 @@
   "rejected_at": "2026-09-17T06:25:02.590205Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – OUKEMAX Polarized Sports Sunglasses, 3-Pack - $12.99–$14.99 w/ Code",
-  "reason": "Community score too low (+0) to pass without a price check — needs promo code, multi-pack, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-17T06:19:37.990717Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$5.54 S&S CLIP Q French's Stone Ground Dijon Mustard, 32 oz - One 32 Ounce Container",
-  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-17T06:19:37.990717Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas Men's Lite Racer Adapt 7.0 Wide Shoes (2 Colors) $28",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T06:19:37.990717Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – IvyBess AI Smart Stuffed Animal - $55.99 w/ Code",
-  "reason": "Community score too low (+0) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-17T06:14:12.040341Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$11.24 S&S CLIP Q YMMV Cameron's Coffee Roasted Ground Coffee Bag, Flavored, Vanilla Hazelnut, 32 Ounce",
-  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-17T06:14:12.040341Z",
-  "code": "low_score",
-  "public": true
  }
 ]
