@@ -1,6 +1,78 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$8.66 S&S AMZ Airheads Full-Size Candy Bars, Assorted Taffy Variety Pack, 60 Count Box",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T17:25:55.721647Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[NEW, Prime] $45.49 | Super7 ULTIMATES! Toho HeiSei Godzilla - 8\" Toho Godzilla Action Figure with Accessories at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T17:25:55.721647Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$15* | Hot Wheels Toy Story 5 Superstar Speeders Hi-Tech Buzz Lightyear's Star Command Adventure Track Set at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-01T17:25:55.721647Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "MOKiN 3-in-1 10000mAh USB-C 40W Foldable Plug Power Bank $13.49",
+  "reason": "Posted at $13.49, but Amazon showed $26.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-01T17:25:55.721647Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Fanta Strawberry Soda Pop 12-fl. oz. Fridge Pack Cans 12-Pack for $6 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T17:25:55.721647Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Busy Bar Customizable Pixel LED Display and Productivity Tool for $159.20 + $15 shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T17:25:55.721647Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Mack's 50-Pair Ultra Soft Foam Earplugs for $10 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T17:25:55.721647Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Fast & Furious 1967 Chevrolet El Camino 1:24 Scale RC Radio Control Car for $10 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T17:25:55.721647Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "T-fal Dual Window Infrared Air Fryer 7.3QT, Dual Heating $79.99 free shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T17:25:55.721647Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$19.99 | Ring Bridge (Newest Model) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-10-01T17:20:23.116421Z",
@@ -131596,62 +131668,6 @@
   "raw_title": "Anker 140W 4-Port GaN USB-C Charger Block w/ Smart Display & Touch Controls $56",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T17:27:01.898363Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "COSLUS ADA Accepted C20 Water Dental Flosser Pick, Professional Set Black, $7.99, Amazon",
-  "reason": "Posted at $7.99, but Amazon showed $35.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-17T17:21:36.790308Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Crocs Adult Baya Lined Clogs $30.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T17:21:36.790308Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "6-Piece Horsepower Waterproof Power Scrubber Gold Edition $19.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T17:21:36.790308Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Roxy Riviera Women's Sandals (Black) $16.80",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T17:21:36.790308Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Baby Trial Kit for $20 + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T17:21:36.790308Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "First Alert Precision Detection, 10-year Battery Smoke and Carbon Monoxide Alarm, 2-pack $64.99 Free Shipping Costco.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T17:21:36.790308Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "First Alert Rechargeable Heavy Duty Fire Extinguisher UL Rated 3-A:40-BC $29.99 Free Shipping Costco.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T17:21:36.790308Z",
   "code": "not_checked",
   "public": false
  }
