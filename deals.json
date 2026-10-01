@@ -1,5 +1,38 @@
 [
  {
+  "deal_id": "842d05a32c39",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20082276-sns-ac-6-34-3-pk-3-2-oz-colgate-optic-white-advanced-hydrogen-peroxide-toothpaste-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "3-pk 3.2-oz Colgate Optic White Advanced Hydrogen Peroxide Toothpaste",
+  "raw_title": "[SnS, AC] $6.34* | 3-pk 3.2-oz Colgate Optic White Advanced Hydrogen Peroxide Toothpaste at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 634,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-10-01T09:48:26.149451Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "20fc1a3b7424",
   "source": "techbargains",
   "source_url": "https://www.amazon.com/gp/product/B0FLK21B27/ref=ox_sc_act_title_1?smid=A33I1DOPZM7RMJ&th=1",
