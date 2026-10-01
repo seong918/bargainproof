@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Adidas men's ultraboost 5x $86.4",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T00:36:27.060247Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "men's adizero evo sl shoes (Color: cloud white / royal blue / pure ruby) (Size: 13) $76.48",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T00:36:27.060247Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "men's university of washington adizero evo sl shoes (Size: 13) $55.45",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T00:36:27.060247Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$13.98 | CRAFTSMAN 30-ft Tape Measure with Fraction Markings, Retractable (CMHT37445S) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-10-01T00:30:52.589298Z",
@@ -132462,13 +132486,5 @@
   "rejected_at": "2026-09-17T00:38:40.822783Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[Pre-Order] KPop Demon Hunters - The Criterion Collection (4K UHD) $34.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-17T00:33:16.455087Z",
-  "code": "duplicate",
-  "public": true
  }
 ]
