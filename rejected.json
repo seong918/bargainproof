@@ -1,5 +1,45 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Hutt 6500Pa Suction Dual-Stage 14-Sensors Window Cleaner Robot $217.09",
+  "reason": "Posted at $217.09, but Amazon showed $283.89 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-01T12:43:48.094904Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Fanatics Free Shipping Promo Code: Free Shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T12:43:48.094904Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Gorilla Grip Cushioned Kitchen Mats 2-Pack for $17 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T12:43:48.094904Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "JUSTFASHIONNOW Sleeveless Tank Tops for Women V Neck Tshirts Shirts Cute Summer Tops Dressy Casual Blouses Trendy 2026 - $3.98 - $3.99 AC",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T12:43:48.094904Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "11\" Disney Lilo & Stitch Tropical Women's Mini Backpack (Tan) $13.48 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T12:43:48.094904Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Halloween Decoration Floating Candle with Wand Magic LED Flickering - 20PCs $23.96",
   "reason": "Not evaluated",
@@ -131676,22 +131716,6 @@
   "raw_title": "$15 FS PRIME WOOT (Android/iPhone) BOSILLEY Magnetic Car Phone Holder for Dashboard, MagSafe Car Mount, Nano Gel Suction Car Phone Mount, Foldable Automotive Dashboard Phone Holder",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T12:47:51.585448Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas Women's Galaxy 7 Running Shoes (Purple Tint / Aurora Black / Cloud White) $27.6",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T12:42:28.351204Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Dockers Men's Curtis Casual Lace-Up Sneakers, Brown, $18.19, Macy's",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T12:42:28.351204Z",
   "code": "not_checked",
   "public": false
  }
