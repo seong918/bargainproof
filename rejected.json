@@ -1,5 +1,77 @@
 [
  {
+  "source": "dealcatcher",
+  "raw_title": "Ninja Professional Plus 72-Oz 1200W Blender DUO w/ Auto-iQ $99.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T16:52:37.655959Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "MARSHALLS Halloween Wipe Clean 60 x 84 Reusable Table Cloth $8.50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T16:52:37.655959Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Marshalls 22\" Disney Minnie Mouse Witch Greeter $12.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T16:52:37.655959Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "DISNEY Minnie Witch Appetizer Plates 4-Pack $13.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T16:52:37.655959Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Perry Ellis Water Resistant Solar Powered Men's Watch $22.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T16:52:37.655959Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Eddie Bauer Women's CirrusLite Down Hooded Jacket for $75 + free shipping w/ $99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T16:52:37.655959Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Oris ProPilot X Titanium Gray Dial Automatic Watch $2899 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T16:52:37.655959Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Fractal Design Define R5 Black Silent ATX Midtower Computer Case $107.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T16:52:37.655959Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Eddie Bauer Men's CirrusLite Down Hooded Jacket for $75 + free shipping w/ $99",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-10-01T16:52:37.655959Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "slickdeals",
   "raw_title": "[S&S] $23.69: Jarrow FemDophilus Probiotics, 60 Capsules",
   "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
@@ -131452,78 +131524,6 @@
   "raw_title": "Rowenta Pro Steam Iron $49.99 Free Shipping Costco.com",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T16:54:33.232779Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Calvin Klein Ryor White $31.5",
-  "reason": "Posted at $31.50, but Amazon showed $30.59 when we checked — the post is stale",
-  "rejected_at": "2026-09-17T16:49:10.599527Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Gold Armour XL Double Camping Hammock with Tree Straps $18.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T16:49:10.599527Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "LeapFrog Spin & Change Apple Shape Sorter w/ 10 Shape Blocks $9.22",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T16:49:10.599527Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "204 PCS Glow Halloween Tattoos for Kids with Mystery Prize Box $3.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T16:49:10.599527Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "MenoSupp 3-Pack 10' MFi Certified Lightning Cable (Pink, Green and Blue) $3.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T16:49:10.599527Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Macy's Best of the Season Shoe Deals: Up to 60% off + free shipping w/ $39",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T16:49:10.599527Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "DJI Osmo Pocket 3 Vlogging Camera Live Stream Bundle for $480 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T16:49:10.599527Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Coravin Timeless Three 4-piece Wine Preservation System $149.99 Free Shipping Costco.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T16:49:10.599527Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "1-Pack Multipet 5\" Mirror Belly Animal Assortment Cat Toy $1.49 + Free Shipping w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T16:49:10.599527Z",
   "code": "not_checked",
   "public": false
  }
