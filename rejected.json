@@ -1,6 +1,110 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[Prime] 43\" Amazon Ember 4-Series 4K UHD HDR10+ Smart TV w/ Fire TV & Alexa Remote $199.99 + Free Shipping",
+  "reason": "Community score too low (+3) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T13:22:28.485298Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Arlo Essential Indoor Wireless 2K Security Camera (3rd Gen) Plug-In Powered with Automated Privacy Shield: 1-Camera $21; 2-Cameras $33 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T13:22:28.485298Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Mary Shelley's Frankenstein Special Edition (4K UHD) $24.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T13:22:28.485298Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "L Lohas 30/60-Lumen Dual Mode 3000K Warm White Motion Sensor Night Light (2-Pack) $6.79",
+  "reason": "Posted at $6.79, but Amazon showed $9.97 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-01T13:22:28.485298Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Coofandy Men's Hooded Waffle Knit Hoodie (Various Styles) $14.99",
+  "reason": "Posted at $14.99, but Amazon showed $24.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-01T13:22:28.485298Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Lisen 6.6' 240W USB-C to USB-C Cable (2-Pack) $6.99",
+  "reason": "Posted at $6.99, but Amazon showed $8.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-01T13:22:28.485298Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Kexmo UPF 50+ Sun Protection Fishing Hat with Neck Flap $11.49",
+  "reason": "Posted at $11.49, but Amazon showed $22.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-01T13:22:28.485298Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Portable Slim Sound Bar Wireless Bluetooth Speaker $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T13:22:28.485298Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Portable Carpet Upholstery Cleaner $49.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T13:22:28.485298Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "NIIMBOT D110 Bluetooth Mini Label Maker w/tape $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T13:22:28.485298Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "MERONTE Air Purifier for Large Room 1690 Sq Ft $49.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T13:22:28.485298Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2 for $2 - Sprite Soda Soft Drink and others, 1.25L Bottle, 42.2 fl oz $1",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T13:22:28.485298Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Dometic 17L Insulated Cooler Backpack $89.99 + Free Shipping w/ Prime or $6 Fee per Order",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T13:22:28.485298Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "28\" Ugly Stik Carbon Ice Light Spinning Ice Fishing Rod $16.16 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-10-01T13:16:56.285891Z",
@@ -131652,54 +131756,6 @@
   "raw_title": "Gaialoop Fishing Tool Kit, 7-Piece Fillet Knife, Pliers, Scissors & Gripper $ 14.98 @Amazon $14.98",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T13:25:26.355750Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "BEVA CAP02 Tire Inflator Portable Air Compressor, Fast Inflation Bike Pump with Digital Pressure Gauge and LED Light, 150PSI Portable Air Pump $14.99",
-  "reason": "Posted at $14.99, but Amazon showed $24.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-17T13:20:04.274272Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Ecarke Cordless Cut Off Tool Compatible with DeWalt 20V Battery,3\" Circular Saw Brushless Motor with Blades $47.84",
-  "reason": "Posted at $47.84, but Amazon showed $54.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-17T13:20:04.274272Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "adidas Men's Runfalcon 6 Wide Shoes for $29 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T13:20:04.274272Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Freestanding Fence-Style Garden Hose Holder for $18 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T13:20:04.274272Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "DYU M26 1000W Peak 26\" Electric Bike for $237 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T13:20:04.274272Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Pagani Design Men's Sports Multifunctional Quartz Watch Sapphire Stainless Steel Chronograph $58 + Free S/H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T13:20:04.274272Z",
   "code": "not_checked",
   "public": false
  }
