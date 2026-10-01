@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "5e0ceaa690b9",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20081031-dewalt-dw8424-4-1-2-x-045-thin-cutting-wheel-7-8-arbor-1-53-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "DEWALT DW8424 4-1/2\" x .045\" Thin Cutting Wheel (7/8\" Arbor) + or on",
+  "raw_title": "DEWALT DW8424 4-1/2\" x .045\" Thin Cutting Wheel (7/8\" Arbor) $1.53 + Free Shipping w/ Prime or on $35+",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 153,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "prime"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-10-01T03:24:10.433156Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "8f72e0e37646",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20081208-clear-thinking-turning-ordinary-moments-into-extraordinary-results-ebook-2?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
