@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$13.98 | CRAFTSMAN 30-ft Tape Measure with Fraction Markings, Retractable (CMHT37445S) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-01T00:30:52.589298Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "DSG Ultimate Backpack 5.0 for $9 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T00:30:52.589298Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Adidas men's adizero evo sl shoes (Color: Color — silver metallic / iron metallic / halo s) (Size: 13) $54",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T00:30:52.589298Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Adidas men's adilette comfort slides $13.2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T00:30:52.589298Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "108 Full Size Air Heads Blue Raspberry Candy Bars $29.97 shipped Oriental Trading",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T00:30:52.589298Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "men's adissage 360rec slides (Size 4, 5) $12",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T00:30:52.589298Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "men's adissage slides (Size 7, 11, 12, 13) $12.6",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T00:30:52.589298Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$14.68 Sams Club Pick Up AirHeads Variety Pack, 0.55 oz., 90 pk.",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T00:30:52.589298Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[Prime] Zojirushi Classic Bento Stainless Vacuum Lunch Jar 670ml (Black) $49.49 + Free Shipping",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-10-01T00:25:16.773236Z",
@@ -132406,21 +132470,5 @@
   "rejected_at": "2026-09-17T00:33:16.455087Z",
   "code": "duplicate",
   "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Seniny Windproof Automatic Travel Umbrella for $10 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T00:27:50.963458Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Anthony Bourdain: Parts Unknown (Complete Series) $39.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T00:27:50.963458Z",
-  "code": "not_checked",
-  "public": false
  }
 ]

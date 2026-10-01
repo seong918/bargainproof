@@ -1,5 +1,38 @@
 [
  {
+  "deal_id": "a904a97b4322",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20080710-sns-ac-10-02-6-pack-10-oz-method-foaming-hand-wash-waterfall-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "6-Pack 10-Oz Method Foaming Hand Wash (Waterfall)",
+  "raw_title": "[SnS, AC] $10.02* | 6-Pack 10-Oz Method Foaming Hand Wash (Waterfall) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1002,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-10-01T00:30:52.589298Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "13cf8b2d4a20",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20080812-amazon-essentials-men-s-super-soft-modal-fabric-brief-pack-of-5-5-29?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
