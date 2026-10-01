@@ -1,6 +1,38 @@
 [
  {
   "source": "techbargains",
+  "raw_title": "Seyxicnor 100' 60 RGBCW+IC LED Permanent Outdoor Lights Pro String Light $89.99",
+  "reason": "Posted at $89.99, but Amazon showed $129.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-01T17:53:37.520271Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "C4 Sport Ripped Arctic Snow Cone Pre-Workout 20-Serving Powder for $19 w/ Sub & Save + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T17:53:37.520271Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "PUR Aspartame-Free Chewing Gum 55-Piece Package for $1.00 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T17:53:37.520271Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "10' Ainfox Solar LED Outdoor Patio Umbrella w/ Tilt & Crank (No Base, Various Colors) $36 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T17:53:37.520271Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
   "raw_title": "EverPlus 800lbs Home Security Child Proof Front Door Lock $6.49",
   "reason": "Posted at $6.49, but Amazon showed $9.98 when we checked — the deal is probably over",
   "rejected_at": "2026-10-01T17:48:07.565594Z",
@@ -131612,78 +131644,6 @@
   "raw_title": "Travel Backpack Only $25 on Target.com (Reg. $50) | It’s the Perfect Carry-On!",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T17:54:05.554081Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS, AC] $9.16 | 2 × 6-Pack 16.9-Oz Gold Peak Diet Tea (Zero Sugar Sweet Tea) ($4.58 each) at Amazon (76.3￠ each)",
-  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, multi-pack, clip coupon, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-17T17:48:41.917456Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "ThermoMaven Rechargeable Salt & Pepper Grinder Set 110ml $20.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T17:48:41.917456Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Metroid Ravenous Nintendo Switch 2 $59.88",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T17:48:41.917456Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Soothfeel Women's High Rise Straight Leg Yoga Dress Pants $16.79",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T17:48:41.917456Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "ORICO 128GB USB C Flash Drive 150MB/S $14.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T17:48:41.917456Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Nature's Way Rest & Restore Melatonin-Free Sleep Supplement 30-Count Capsules $5.87",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T17:48:41.917456Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Snackles Halloween Plush Toys Just $9.99 on Kohls.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T17:48:41.917456Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Astercook Large Bamboo Cutting Board for Kitchen | Natural Bamboo Cutting Board, 16 x 12 Inch, with Juice Groove and Handle for Kitchen Prep and Serving: Home & Kitchen $7.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T17:48:41.917456Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Supernova rise 3 running shoes $77",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T17:48:41.917456Z",
   "code": "not_checked",
   "public": false
  }
