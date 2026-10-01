@@ -1,6 +1,166 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Megamaster 3-Burner Propane Gas Grill $98 @ Home Depot (Online)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T05:55:16.497351Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] 24-Day Furby Minis Advent Calendar $13.99 + Free Shipping",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T05:49:41.830720Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$9.99: Ello 22 oz Cooper Water Bottle with Straw(Coral) at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T05:49:41.830720Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nike Men's Air Force 1 '07 LV8 Shoes (Various Colors) Starting at $69.97 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T05:49:41.830720Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ace Hardware AC 25% one reg piced item up to $50 or $12.50 off any over $50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T05:49:41.830720Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$299.99 Pick up Ace Hardware Blackstone Original 2 Burner Liquid Propane Outdoor Griddle Black",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T05:49:41.830720Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$12.99: Elite Gourmet Ets740 BPA-Free 40-Watt Electric Citrus Juicer Cones at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T05:44:05.994621Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Best Buy Essentials 10W Magnetic Wireless Charger for MagSafe & Qi Devices (White) $5.99 + Free Store Pickup at Best Buy",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T05:44:05.994621Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$19.99: Elite Gourmet 2-Slice Toaster Oven Aluminum,Glass,Plastic Black at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T05:44:05.994621Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Grad-A Refurb: Apple MacBook Air: 13\", M1, 8GB RAM, 256GB SSD $431.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T05:44:05.994621Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$99 FS ACE REWARDS Craftsman V20 CMCHT810C1 20 in. 20 V Battery Hedge Trimmer Kit (Battery & Charger)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T05:44:05.994621Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$19.70 | Rain Man (2-Disc Anniversary Edition) [4K Ultra HD + Blu-ray] at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-01T05:38:29.227410Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS] $39.57 | 24-Pack 4.25-Oz Underwood Deviled Ham Spread at Amazon ($1.65 each)",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T05:38:29.227410Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee M12 REDLITHIUM HIGH OUTPUT XC 5.0Ah Battery, 2-Pack $158",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T05:38:29.227410Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$129 FS ACE REWARDS DeWalt 20V MAX 1/2 in. Brushed Cordless Compact Drill Kit (Battery & Charger)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T05:38:29.227410Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$10 ACE PICK UP Ace Premium Wild Bird Food 20 lb",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T05:38:29.227410Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "YMMV - Ninja CRISPi DualZone 2-Basket Glass Air Fryer - $180",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T05:38:29.227410Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$13.49: Apple Watch Sport Band (42mm) - White - Extra Large (MR282AM/A) at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T05:32:53.502291Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$14.99 Snoop Dogg - Missionary - VINYL LP Best Buy",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T05:32:53.502291Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$13.49: Apple Watch Sport Band (40mm) - Regular (MTPH2AM/A) at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T05:32:53.502291Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$1.97 Pick Up Walmart or $35 delivery: Great Value Classic Candy Corn 12 oz Bag With Real Honey",
   "reason": "Not evaluated",
   "rejected_at": "2026-10-01T05:27:18.672895Z",
@@ -132109,94 +132269,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T06:08:47.267532Z",
   "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas Men's Daily 4.0 Shoes (3 Colors) $28",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T06:03:23.937456Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "3.8L MateeyLife Anti-Splash Dog Water Non-Slip Dispenser $11.19 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-17T05:57:59.122902Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Expert Grill Refillable Butane Utility Lighter (Red) $0.97 & More + Free Shipping w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T05:57:59.122902Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas Men's Galaxy 7 Running Shoes (2 Colors) from $24",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T05:57:59.122902Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas Men's Lite Racer 4.0 Shoes (Various) $22",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T05:52:34.499381Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "RYOBI Hand Vacuum Accessory Kit w/ Crevice Tool, Floor Nozzle, Dust Brush & Flexible Hose $19.97 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T05:52:34.499381Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Mate Fruit Bars Variety Pack (40 Pack) - 100% Natural Real Fruit Snacks for Adults and Kids, $31.34",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-17T05:47:08.299468Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[Prime] Merach 3D Rocking Mini Stair Stepper w/ LCD Display (Black) $39.99 + Free Shipping",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-17T05:41:43.719342Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Elmer's Glue Stick 2pk 6G Disappearing Purple $0.5",
-  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-17T05:36:20.047314Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Countertop Self-Cleaning Ice Maker for $60 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T05:36:20.047314Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "2nd-Gen. Apple AirTag for $24, or 4 for $89 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T05:30:53.985156Z",
-  "code": "no_signal",
   "public": false
  }
 ]
