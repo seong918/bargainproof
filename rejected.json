@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$121.96* | 2-Pack DEWALT 20V MAX XR POWERPACK 4Ah Lithium-Ion Batteries (DCB2104-2) at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-01T07:30:21.838294Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HENYU 1500-Yard Golf Rangefinder w/ Slope & Pinsensor Technology $27.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+3) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T07:24:45.603832Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[S&S, YMMV] Tootsie Roll Child's Play Candy Favorites (Dots, Tootsie Rolls, Tootsie Pops) 5lb Bag - $12.49",
   "reason": "Community score too low (+3) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-10-01T07:19:11.412152Z",
@@ -131965,78 +131981,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T07:35:24.836867Z",
   "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Cottonelle XL Flushable Wet Wipes - 1 Flip-Top Pack, 45 Total Flushable Wipes~$3.49 @ Amazon",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-17T07:29:59.933881Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[Prime] 8-Pack 25.2\" ELECLINK Solar LED Pathway Lights $25.19 + Free Shipping",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-17T07:29:59.933881Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Craftsman 3-Piece Set Nail Set for $8 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T07:29:59.933881Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Men's 45L Expandable Carry-On Travel Bag for $15 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T07:29:59.933881Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "SCC SC1026 Radial Chain Cable Traction Tire Chain, Silver, Set of 2 $7.06",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T07:29:59.933881Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Shark Wandvac Cordless Handheld Vacuum w/ 2 Tools (Various Colors) $49.98 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T07:29:59.933881Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Zity Men's Collared Moisture Wicking Golf Polo Shirt $8.99",
-  "reason": "Posted at $8.99, but Amazon showed $17.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-17T07:24:36.094571Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Zyntrazy 1.25\" x 1.41\" Mini Stock & Crypto Ticker, Weather Digital Clock $20.99",
-  "reason": "Posted at $20.99, but Amazon showed $35.68 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-17T07:24:36.094571Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Refurb Amazon Kindle Paperwhite 32GB (2021) for $52 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T07:24:36.094571Z",
-  "code": "no_signal",
   "public": false
  }
 ]
