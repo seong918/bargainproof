@@ -1,5 +1,29 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "JOYIN Halloween Hanging Light up Ghost, 47” White Ghosts with Blue LED Light and Timer Halloween Hanging Decoration, $11.69, FS Prime",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T21:23:57.077852Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Karl Home 48\" Raised Garden Bed w/ Trellis Planter Box for $40 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T21:23:57.077852Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Dashpass Members - Thursday Trivia Answers - $5 off $12 delivery - 10/1/2026 $8",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T21:23:57.077852Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Nike Women's Pro Mid-Rise 3\" Bike Shorts for $16 + free shipping w/ $49",
   "reason": "Not evaluated",
