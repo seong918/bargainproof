@@ -1,5 +1,109 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$4.22 ac AMAZON FS PRIME Blue Buffalo Boo Bars Pumpkin & Cinnamon Dog Biscuits, 11 oz",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T18:26:44.856780Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Noah & Paw 20\"X15\"X8\" Waterproof Orthopedic Memory Foam XS Dog Bed $28.89",
+  "reason": "Posted at $28.89, but Amazon showed $33.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-01T18:26:44.856780Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Encool 26oz Leakproof Insulated Dual-Sip Water Bottle $7.79",
+  "reason": "Posted at $7.79, but Amazon showed $15.59 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-01T18:26:44.856780Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Etherium",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T18:26:44.856780Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Blink Outdoor XR+ and Wired Doorbell 2K+ 2 Camera System $69.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T18:26:44.856780Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Charms Blow Pops Box of 100 $13.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T18:26:44.856780Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Goplus 5-Drawer Rolling Tool Cabinet with Detachable Top Toolbox $121.54",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T18:26:44.856780Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "DreamWorks Dragons Trial of Flame Torch Tower Playset $5.20",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T18:26:44.856780Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Victoria's Secret Cotton Logo Thong Panties 4-Pack $12.25",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T18:26:44.856780Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "DEWALT 4-1/2\" General Purpose Metal Grinding Wheel $2.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T18:26:44.856780Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "New Elf on the Shelf Accessories Now at Walmart | Fun Finds from $4!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T18:26:44.856780Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "MotoFloor Modular Self Draining Garage Floor Tiles $99.99 Black or Gray free Shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T18:26:44.856780Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Victoria's Secret Women's Logo Cotton Hiphugger Panties 4-Pack $12.25",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-10-01T18:26:44.856780Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Tummy Control Shapewear Shorts $8.00",
   "reason": "Not evaluated",
@@ -131276,78 +131380,6 @@
   "raw_title": "Amolife Queen Size Upholstered Platform Bed Frame with Adjustable Velvet Headboard $133.89",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T18:32:02.580272Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Adidas Women's Advantage Base 2.0 Shoes $24.75",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T18:26:36.478388Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Birkenstock Women's Papillio Boston Chunky Platform Clogs (Beige) $61.98",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T18:26:36.478388Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Adidas Women's Galaxy 7 Running Shoes (Purple Tint / Aurora Black / Cloud White) $27.60",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T18:26:36.478388Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Club Room Men's Mahtt Sneakers $17.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T18:26:36.478388Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Adidas Women's Hoops Mid Classic Shoes Size 5-11 $31.50",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T18:26:36.478388Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "HEAD Extreme Elite Fiberglass Pickleball Paddle for $25 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T18:26:36.478388Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Summer’s Eve Cleansing Wash Only $2.47 Shipped on Amazon",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T18:26:36.478388Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Azzaro The Most Wanted Intense EDT 3.38oz $59.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T18:26:36.478388Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Deer Stags Valencia Men's Oxford Dress Shoes - $27 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T18:26:36.478388Z",
   "code": "not_checked",
   "public": false
  }
