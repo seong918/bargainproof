@@ -1,5 +1,37 @@
 [
  {
+  "source": "dealcatcher",
+  "raw_title": "National Tree Company 20ft Inflatable Halloween Black Cat $214.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T11:05:42.818984Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Cuisinart CPT-122 2-Slice Compact Plastic Toaster $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T11:05:42.818984Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Goodfellow & Co Men's Comfort Wear Knit Blazer for $11 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T11:05:42.818984Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Certified Refurb Hisense 8,000 BTU DOE Smart Portable Air Conditioner for $200 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T11:00:07.083181Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Amazon Essentials XL Nylon Duffel Bag for $13 + free shipping w/ Prime",
   "reason": "Not evaluated",
@@ -131972,86 +132004,6 @@
   "raw_title": "adidas Men's Cloudfoam Cuxxion Sock Shoes (3 Colors) $31.5",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T11:10:46.498965Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$2.99 | How to Stay Alive in the Woods: A Complete Guide to Food, Shelter and Self-Preservation Anywhere (eBook) by Bradford Angier",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-17T11:05:24.214491Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Gooloo G7 3000A 12000mAh Supersafe Car Jump Starter with 45W USB-C Cable $31.49",
-  "reason": "Posted at $31.49, but Amazon showed $62.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-17T11:05:24.214491Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Windstar 10-Night Tahiti Cruise with Flights for From $11,974 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T11:05:24.214491Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "REI Outlet Promo Code for Up to 66% off + extra $30 off $150 for members + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T11:05:24.214491Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Lefant M330 Pro LiDAR Robot Vacuum and Mop for $134 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T11:05:24.214491Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas Men's Hoops Classic Shoes (Cloud White / Cloud White / Grey Two) $29.25",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T11:05:24.214491Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "REI Co-op Lifetime Membership: Free w/ $50 Purchase + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T11:00:00.575462Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Floopi Men’s Microsuede Moccasin Slipper with Bow (Pick Color & Size) - $18.99 @ Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T11:00:00.575462Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Aootek 120-LED Outdoor Waterproof Solar Motion Sensor Lights (6-Pack) $15.49",
-  "reason": "Posted at $15.49, but Amazon showed $30.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-17T10:54:38.792374Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Macy's Best of the Season Fragrance Deals: Extra 15% off + free shipping w/ $39",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T10:54:38.792374Z",
   "code": "not_checked",
   "public": false
  }
