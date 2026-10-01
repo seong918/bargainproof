@@ -1,6 +1,134 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS, AC] $25.46 | 3-Count Philips Norelco OneBlade 360 Blades (QP430/80) at Amazon ($8.49 each)",
+  "reason": "Community score too low (+1) to pass without a price check — needs clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T19:33:03.947278Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $52.23* | Belkin 3-in-1 MagSafe-Compatible iPhone Charger (White) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T19:33:03.947278Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "VocVoi Titanium pans for cooking,12\" Nonstick pro frying cookware $29.99",
+  "reason": "Posted at $29.99, but Amazon showed $139.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-01T19:33:03.947278Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "OHLUX Bistro String Lights Outdoor, 60FT Deck Lights with 32 Shatterproof ST38 Vintage Edison Bulbs $16.5",
+  "reason": "Posted at $16.50, but Amazon showed $32.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-01T19:33:03.947278Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "LIMBO",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T19:33:03.947278Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Full Metal Furies",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T19:33:03.947278Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Possessor(s)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T19:33:03.947278Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Yoku's Island Express",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T19:33:03.947278Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Tomb Raider: Anniversary",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T19:33:03.947278Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Roguebook",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T19:33:03.947278Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Stories Untold",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T19:33:03.947278Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ecarke 2.5-Gal. Cordless Wet Dry Vacuum for DeWalt 20V Battery for $85 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T19:33:03.947278Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Nike Men's ACG Vault Dri-Fit Top for $28 + free shipping w/ $60",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T19:33:03.947278Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Upstand Plus 48” Adjustable Height Desk with Charging Station $319.99 Brown, Gray or White Free Shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T19:33:03.947278Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SteamVR Autumn Sale Megathread: The Forest $4.19; The Solus Project $8; Half-Life: Alyx $15 & More",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T19:33:03.947278Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$11.99: Supermarket Simulator @ Steam",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T19:33:03.947278Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "4-Pairs BONANGEL Women's Halloween Novelty Crew Socks - $4.99 @ Amazon",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-10-01T19:27:32.065483Z",
@@ -131710,53 +131838,5 @@
   "rejected_at": "2026-09-17T19:37:08.364455Z",
   "code": "duplicate",
   "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "CAMEL CROWN Men's Ski Snow Jacket Waterproof Winter Snow Coat Windproof Warm Fleece Lining Hooded Parka Rain Jacket Black/Grey L $22.99",
-  "reason": "Posted at $22.99, but Amazon showed $45.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-17T19:31:42.535151Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Baseus MC1 Pro Open Ear Earbuds $37.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T19:31:42.535151Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Cordless Window Vacuum Squeegees for From $32 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T19:31:42.535151Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Wicker 2-Piece Patio Conversation Set Only $174.50 Shipped on Lowes.com (Reg. $698)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T19:31:42.535151Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Dri Duck Men's Crossroad Long-Sleeve Shirt (Various Colors Sm to 4XL) $17 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T19:31:42.535151Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "20\" x 30\" Custom Photo Puzzle - $12.49 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T19:31:42.535151Z",
-  "code": "not_checked",
-  "public": false
  }
 ]

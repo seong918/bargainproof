@@ -1,5 +1,38 @@
 [
  {
+  "deal_id": "00d5012c53a8",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20082234-sns-ac-11-40-8-pack-16-1-oz-campbell-s-chunky-healthy-request-soup-chicken-noodle-at-amazon-1-43-each?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "8-Pack 16.1-Oz Campbell's Chunky Healthy Request Soup (Chicken Noodle) at Amazon",
+  "raw_title": "[SnS, AC] $11.40 | 8-Pack 16.1-Oz Campbell's Chunky Healthy Request Soup (Chicken Noodle) at Amazon ($1.43 each)",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1140,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-10-01T19:33:03.947278Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "f50468b856f1",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20084934-139-bosch-gbh18v-22n-18v-brushless-sds-plus-bulldog-3-4-rotary-hammer-bare-tool-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
