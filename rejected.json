@@ -1,6 +1,46 @@
 [
  {
   "source": "techbargains",
+  "raw_title": "Lefant M3 Max 20,000Pa 200RPM Spinning Robot Vacuum and Auto Mop $175",
+  "reason": "Posted at $175.00, but Amazon showed $599.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-01T08:31:45.117065Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "JandCase 360° Roatable Halloween Ghost & Pumpkin LED Night Light $8.49",
+  "reason": "Posted at $8.49, but Amazon showed $16.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-01T08:31:45.117065Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "L Lohas LED Motion Sensor Night Light for $10 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T08:31:45.117065Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Samsung 4.5-Cu. Ft. HE Front Load Washer with Self-Clean+ for $693 in cart + shipping varies",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T08:26:08.077844Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "V/H/S 4 Film Collection (94, 99, 85, and Beyond) Digital HD $12",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T08:26:08.077844Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
   "raw_title": "Booms Fishing Long Nose Hook Remover Pliers $5.99",
   "reason": "Posted at $5.99, but Amazon showed $9.99 when we checked — the deal is probably over",
   "rejected_at": "2026-10-01T08:20:33.301351Z",
@@ -131988,46 +132028,6 @@
   "raw_title": "Apple MacBook Pro 14\" MGDU4LL/A Apple M5 Max 18-Core CPU; 36GB Unified Memory; 2TB Solid State Drive; 32-Core GPU $3299.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T08:34:37.484936Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "$1050 in Delta Air Lines Gift Cards for $1,000 + email delivery",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T08:29:16.812178Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "LeapFrog Spin & Change Apple Shape Sorter w/ 10 Shape Blocks $8.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-17T08:23:57.129389Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Comfyinlove Ergonomic Memory Foam Leg Pillow with Strap $9.59",
-  "reason": "Posted at $9.59, but Amazon showed $15.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-17T08:23:57.129389Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "6-Pack Fab Totes 60L Foldable Clothes/Blanket Storage Bags $11.99 + Free Shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T08:23:57.129389Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "3-Piece Takywep Bar Table and Chairs Set $59.99 + Free Shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T08:23:57.129389Z",
   "code": "not_checked",
   "public": false
  }
