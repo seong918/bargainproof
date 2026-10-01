@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "cd27200c3ae8",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20082312-8-49-sonic-the-hedgehog-2-4k-uhd-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "Sonic The Hedgehog 2 [4K UHD]",
+  "raw_title": "$8.49 | Sonic The Hedgehog 2 [4K UHD] at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 849,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-10-01T12:16:10.557468Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "5b45b56654dc",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20082300-8-49-scream-2022-4k-uhd-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
