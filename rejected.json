@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Select Accts[S&S,AC] 48 Oz Pompeian Smooth Extra Virgin Olive Oil $8.18 + Free S&H w/ Prime or $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T01:21:09.479251Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "10 pack EXTRA Gum Spearmint, Polar Ice, or Peppermint Sugarfree Chewing Gum Bulk, 15 Count [S&S] $6.15",
+  "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T01:21:09.479251Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "KAMRUI P2 Mini PC: AMD Ryzen Embedded R2544, 8GB DDR4, 256GB SSD, Radeon Vega 8, Windows 11 Pro – $184",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T01:21:09.479251Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DeWalt 135,000 BTU Forced Air Kerosene Torpedo Space Heater (Black) $339.19 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T01:21:09.479251Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Cole Haan Men's 2.Zerogrand Lightweight Stitchlite Oxford (Black/Black, Black/Ivory) $54.97 + Free Shipping",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-10-01T01:15:34.830001Z",
@@ -132278,13 +132310,5 @@
   "rejected_at": "2026-09-17T01:22:02.403236Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "VTech KidiBeats Kids Drum Set, Orange $13.79 + Free S&H w/ Prime or $35+",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-17T01:16:37.078734Z",
-  "code": "low_score",
-  "public": true
  }
 ]
