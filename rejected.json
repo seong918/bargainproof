@@ -1,6 +1,22 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "adidas Men's Ultimate365 Elevated Pullover Golf Hoodie for $19 + free shipping w/ $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T21:34:59.124569Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$12.79* | 194-Pc LEGO City Burger Truck Toy Building Set (60404) at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-10-01T21:34:59.124569Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "dealnews",
   "raw_title": "Fanatics NBA Sale: Up to 85% off + free shipping w/ $39",
   "reason": "Not evaluated",
   "rejected_at": "2026-10-01T21:29:27.573150Z",
@@ -131940,30 +131956,6 @@
   "raw_title": "ECO-WORTHY 12KW Hybrid Inverter + 6 Pack 48V 100AH Lithium Battery System $6849.99 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T21:36:25.764610Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "SereneLife 8,000 BTU Portable Air Conditioner | AC, Dehumidifier & Fan $199.9",
-  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-17T21:30:59.863343Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Brahma Men's Cargo Pants for $16 + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T21:30:59.863343Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "COZEWARE 18K BTU 2-Zone 23 SEER2 MultiCoze Pro Series Mini Split AC (9K+9K) $1020 + Free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T21:30:59.863343Z",
   "code": "not_checked",
   "public": false
  }
