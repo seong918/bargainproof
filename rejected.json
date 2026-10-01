@@ -1,5 +1,53 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Haokande 3-in-1 6' Long Multi Charging Cable (2-Pack) $5.39",
+  "reason": "Posted at $5.39, but Amazon showed $8.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-01T07:41:31.206369Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Dewalt 10-Compartment Shallow Pro Small Parts Organizer $14.88",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T07:41:31.206369Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "379-Piece LEGO Creator Fierce Shark w/ a Treasure Chest Building Toy (31381) $28 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T07:41:31.206369Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Fisher-Price Big Little Feelings Bedtime Routine Kit $15.49 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T07:35:55.841510Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "G Gradual Women's Tall Sweatpants for $20 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T07:35:55.841510Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "G Gradual Boys' Long Sleeve Thermal Compression Shirt for $12 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T07:35:55.841510Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$121.96* | 2-Pack DEWALT 20V MAX XR POWERPACK 4Ah Lithium-Ion Batteries (DCB2104-2) at Amazon",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
@@ -119985,14 +120033,6 @@
  },
  {
   "source": "slickdeals",
-  "raw_title": "379-Piece LEGO Creator Fierce Shark w/ a Treasure Chest Building Toy (31381) $28 + Free Shipping w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T06:10:33.294621Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
   "raw_title": "$9.99 sale for Central Intelligence: The Agency - Season 1",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-18T06:10:33.294621Z",
@@ -131884,102 +131924,6 @@
   "raw_title": "GreenPan Electric Non-Dairy Milk Maker and Blender (2 Colors) $47.49 Shipped",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T07:46:10.611944Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Michael Kors Men's Outlet Deals: Up to 78% off + free shipping w/ $75",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T07:40:46.943977Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Waterfall Eco Dynamic 195/50R15 82V Passenger Tire for $37 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T07:40:46.943977Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "SWISSGEAR Cascade Hardside Carry On Spinner Wheels Suitcase - Gray + Free S/H $64.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T07:40:46.943977Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "QVC New Customers: GreenPan 10-in-1 Digital 6-Cup Nonstick Multi-Cooker w/ Glass Lid (Various Colors) $59.98 + $5.50 for Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T07:40:46.943977Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Glowserve Disposable Plastic Cutlery Sets (Gold or Silver): 153-Piece from $8.49 or 306-Piece from $13.49 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-17T07:35:24.836867Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "24K Gold Eye Masks for Dark Circles and Puffines 70 PCS - $9.09 + Free shipping w/ Prime or on $35",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-17T07:35:24.836867Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Swandream Standard Size 3-Chamber Goose Feather and Down Bed Pillow (2-Set) $32.99",
-  "reason": "Posted at $32.99, but Amazon showed $65.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-17T07:35:24.836867Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Pepperidge Farm Milano 7oz White Chocolate Strawberry Flavored Cookies $2.98",
-  "reason": "Posted at $2.98, but Amazon showed $3.18 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-17T07:35:24.836867Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Zwilling Fall Savings: Up to 58% off + free shipping w/ $79",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T07:35:24.836867Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Technician's Choice 1-Gallon Ceramic Detail Spray for $26 via Sub & Save + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T07:35:24.836867Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "KingChii 4500W Inverter Generator Gas Powered, CO Sensor, ECO Mode, 30A RV Ready Outlet $289.95",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T07:35:24.836867Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "SWISSGEAR Energie Hardside Carry On Spinner Wheels Suitcase - Green + Free S/H $53.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T07:35:24.836867Z",
   "code": "not_checked",
   "public": false
  }
