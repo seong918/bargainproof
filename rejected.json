@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$23.99* | 1707-Pc MEGA Squid Game The Staircase Building Toy Set w/ Motion at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-01T04:48:11.017470Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Makes Women's Backpack Purse (Various Colors) $14.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T04:48:11.017470Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ReoLink Duo 3 WiFi 16MP UHD 180° Panoramic Plug-in Wi-Fi Security Camera (2-Pack) $301",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T04:48:11.017470Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Renogy 1000W Pure Sine Wave Inverter (12V DC to 120V AC) $98.79 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T04:48:11.017470Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Herschel Supply Co. Heritage Pack 24L Backpack w/ 15-16\" Laptop Sleeve (Black/Tan) $35.83 at REI Co-op w/ Free Store Pickup",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T04:48:11.017470Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "4 Film Favorites: Action Thrillers (Blu-ray) $11.59 Walmart.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T04:48:11.017470Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "BJs Wholesale $9.49 ac 2.65lb bag, 70 count Snickers Fun Size Chocolate Caramel Candy Bars, Value Pack",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T04:48:11.017470Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Jackery Explorer 500 v2 512Wh 500W Portable Power Station $217.36 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-10-01T04:42:36.995363Z",
@@ -132172,54 +132228,6 @@
   "raw_title": "High Sierra Outburst Backpack $21.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T04:53:00.655483Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – AlpsWolf Rechargeable High-Lumen Spotlight - $22.99–$39.99 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-17T04:47:37.237405Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – DAXIANG Girls' Halter Sequin Party Dress - $14.84 w/ Code",
-  "reason": "Community score too low (+3) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-17T04:47:37.237405Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – DAXIANG Girls' Sequin A-Line Skirt w/ Built-In Shorts - $14.29 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-17T04:47:37.237405Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – PGYOB 27,000mAh Portable Power Bank / Power Station - $28.99 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-17T04:47:37.237405Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "VTech Sort and Discover Activity Wagon Toy (Red or Pink) $20.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-17T04:47:37.237405Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Refurbished BLUETTI Elite 300 2400W 3014Wh Portable Power Station $899",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T04:47:37.237405Z",
   "code": "not_checked",
   "public": false
  }

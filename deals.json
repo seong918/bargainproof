@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "b3f673bc0028",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20080725-4-1-80-s-s-prime-only-amazon-grocery-cut-green-beans-14-5-oz-previously-amazon-fresh-packaging-may-vary?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "4/ S&S PRIME ONLY Amazon Grocery, Cut Green Beans, 14.5 Oz (Previously Amazon Fresh, Packaging May Vary)",
+  "raw_title": "4/$1.80 S&S PRIME ONLY Amazon Grocery, Cut Green Beans, 14.5 Oz (Previously Amazon Fresh, Packaging May Vary)",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0BZJP9YMN",
+  "deal_total_cents": 180,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "sns",
+   "prime"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 53,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 53,
+  "amazon_url": "https://www.amazon.com/dp/B0BZJP9YMN",
+  "amazon_checked_at": "2026-10-01T04:48:15.729287Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0BZJP9YMN",
+  "image_url": null,
+  "published_at": "2026-10-01T04:48:11.017470Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "7818c2e94aa4",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20080206-wavlink-4-bay-3-5-2-5-sata-hdd-ssd-enclosure-w-10gbps-usb-c-3-2-4k-hdmi-94-79-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
