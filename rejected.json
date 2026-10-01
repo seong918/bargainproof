@@ -1,6 +1,22 @@
 [
  {
   "source": "techbargains",
+  "raw_title": "Orico 5-Bay Hard Drive USB 3.2 Gen 2 Aluminum HDD Enclosure (Support 330TB Daisy-Chain) $149.99",
+  "reason": "Posted at $149.99, but Amazon showed $249.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-01T10:32:49.828619Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$579.99 | ASUS Prime Radeon™ RX 9070 12GB GRE EVO OC Edition Graphics Card (PCIe 5.0, HDMI/DP 2.1, 2.5-Slot Design)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T10:32:49.828619Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
   "raw_title": "Tuyluxe 800mAh Waterproof Flickering Solar Lights (4-Pack) $20.99",
   "reason": "Posted at $20.99, but Amazon showed $39.99 when we checked — the deal is probably over",
   "rejected_at": "2026-10-01T10:21:41.880268Z",
@@ -132100,38 +132116,6 @@
   "raw_title": "$28.5: adidas Women's Response 2 Running Shoes(Bliss Pink, Size 5 ~ 9.5) at adidas",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T10:33:05.157672Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Pepperidge Farm 6.9oz Farmhouse Thin & Crispy Toffee Chocolate Cookies $3.39",
-  "reason": "Posted at $3.39, but Amazon showed $3.62 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-17T10:27:42.285531Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Traeger Grills Timberline Wood Pellet Grill for $760 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T10:27:42.285531Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Bose Ultra Open Earbuds - Refurbished LIKE NEW 1 YEAR BOSE WARRANTY $159",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T10:27:42.285531Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Cinnamoroll Womens Molded Platform Slides (Sizes 8 & 9) - $3.50 @ Walmart",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T10:27:42.285531Z",
   "code": "not_checked",
   "public": false
  }
