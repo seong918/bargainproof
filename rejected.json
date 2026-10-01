@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Ekouaer Satin Pajamas for Women Silk Pjs Long Sleeve Lounge Set with Ruffle $10.99",
+  "reason": "Posted at $10.99, but Amazon showed $24.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-01T15:29:42.166704Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ekouaer 2 Pack Womens Pajama Set Short Sleeve Top and Printed Pants Soft Pj $17.99",
+  "reason": "Posted at $17.99, but Amazon showed $34.19 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-01T15:29:42.166704Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "GAOKASE 4-Pack Stackable Wire Storage Baskets $19.29",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T15:29:42.166704Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Amazon Basics 30 Gallon Flextra Strength Multipurpose Drawstring Trash Bags $8.21",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T15:29:42.166704Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Nuwave Bravo XL Pro 30-Qt. Air Fryer Toaster Oven for $160 w/ Prime + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T15:29:42.166704Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ANNKE 12MP 16CH NVR, POE no HDD at Temu.com $163.58",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T15:29:42.166704Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "9-Piece Crestlive Products Extendable Aluminum Rectangle Wicker Patio Dining Set w/ 8 Beige Cushioned Chairs $539.99 + Free Store Pickup at Lowe's",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T15:29:42.166704Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "GTPLAYER Big&Tall Ergonomic Gaming Chair, Wide Spring Seat, Linkage Armrest,Earth BLK $139.99",
   "reason": "Posted at $139.99, but Amazon showed $149.98 when we checked — the deal is probably over",
   "rejected_at": "2026-10-01T15:24:11.123749Z",
@@ -131556,70 +131612,6 @@
   "raw_title": "$40.5: adidas Men's Duramo Speed 2 Running Shoes(White, Size 7~14, no 13.5) at adidas",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T15:33:36.605189Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Monoki Small Waterproof Travel First Aid Kit $6.29",
-  "reason": "Posted at $6.29, but Amazon showed $8.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-17T15:28:14.276860Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Razer Tartarus V2 Left-Handed Gaming Keypad, 32 Programmable Keys $40.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T15:28:14.276860Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "LEGO Super Mario: Mario Kart Baby Peach & Grand Prix Set Home Circuit - Nintendo Toy Building Set for Kids - Collectible Toy - 72036 $63.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T15:28:14.276860Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Linkind ST19 Dimmable Tunable White Smart LED Edison E26 Bulbs 4-Count $17.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T15:28:14.276860Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "LEVEL8 - Adventure Carry-On 20 Inch Travel Bag $315 AC + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T15:28:14.276860Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "+11% Menard's rebate, Bristol 5 light chandelier, $11.22",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T15:28:14.276860Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Softsoap Hand Soap 50 oz Refill Bottle + $2 WMCB $5.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T15:28:14.276860Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Ridgid Pneumatic 21-Degree 3-1/2\" Round Head Framing Nailer $179.00 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T15:28:14.276860Z",
   "code": "not_checked",
   "public": false
  }
