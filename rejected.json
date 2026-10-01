@@ -1,6 +1,86 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "28\" Ugly Stik Carbon Ice Light Spinning Ice Fishing Rod $16.16 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T13:16:56.285891Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Metal Outdoor Privacy Screen Panels with Stand $75.59",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T13:16:56.285891Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Vesgantti 100\" L-Shaped Faux Leather Sectional Couch $299.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T13:16:56.285891Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Fleece Hooded Long Sleeve Pullover Tops $11.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T13:16:56.285891Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Long Sleeve Corduroy Jacket with Pockets $16.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T13:16:56.285891Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Sweatshirt Half Zip Ruffle Long Sleeve Mini Dresses $18.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T13:16:56.285891Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Gorilla Grip LED Tactical Flashlight for $10 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T13:16:56.285891Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Omron 5 Series Bluetooth Upper Arm Blood Pressure Monitor (BP7255) $48.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T13:16:56.285891Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nike ACG Vault Dri-FIT Men's Top (Blue) $27.83 + Free Pickup at REI",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T13:16:56.285891Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "6-Tier Adjustable Steel Garage Shelving Unit w/ Wheels (Silver) $76.89 + Free Store Pickup at Home Depot",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T13:16:56.285891Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Cadrali Solar Smart Bird Feeder with 3K Camera $36",
   "reason": "Posted at $36.00, but Amazon showed $59.99 when we checked — the deal is probably over",
   "rejected_at": "2026-10-01T13:11:25.936798Z",
@@ -131622,53 +131702,5 @@
   "rejected_at": "2026-09-17T13:20:04.274272Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Parker (Blu-ray) $5.00 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-17T13:14:42.769180Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Pektaco 3.2L Stainless Steel Multi-Layer Filtration Pet Drinking Fountain $17.09",
-  "reason": "Posted at $17.09, but Amazon showed $34.19 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-17T13:14:42.769180Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "adidas Men's Daily 4.0 Shoes for $27 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T13:14:42.769180Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "iGPSPORT BiNavi 3.5in Touchscreen GPS Bike Navigation System 32GB 35 hr Battery Life $153 + Free S/H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T13:14:42.769180Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "5x 1kg ELEGOO Wood PLA 3D Printer Filament (Mix Color Bundle) $56.99 + free s/h AC",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T13:14:42.769180Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "24-Piece Bluey: The Most Amazing Advent Calendar Book Bundle $12.96 + Free Shipping w/ Prime or on $35+",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-17T13:14:42.769180Z",
-  "code": "duplicate",
-  "public": true
  }
 ]
