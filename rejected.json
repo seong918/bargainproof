@@ -1,5 +1,13 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "DYU M26 1000W (Peak) 26in Mountain Electric Bike 45mph 7-Speed Shimano Gears $256 + Free S/H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T11:27:20.777411Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Mona Lisa Renaissance Women's Halloween Costume for $17 + free shipping w/ Prime",
   "reason": "Not evaluated",
@@ -132134,45 +132142,5 @@
   "rejected_at": "2026-09-17T11:32:20.614996Z",
   "code": "duplicate",
   "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$22.03: Calvin Klein Men's Slim Fit Non-Iron Herringbone Point Collar Dress Shirt, Black, 17.5\" Neck 36\"-37\" Sleeve",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-17T11:26:56.543395Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$13.79: VTech Musical Rhymes Book, Red",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-17T11:26:56.543395Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Hooded Dog Raincoat Halloween Costume w/ Red Balloon for $7 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T11:26:56.543395Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "2nd-Gen. Arlo Essential Indoor HD Security Camera for $10 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T11:26:56.543395Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "New Google Fi Customers: Pixel 11 Pro Fold $1599 Upfront + Get $800 Back via 24-Mo Bill Credits (Effectively $799)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T11:26:56.543395Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
