@@ -1,6 +1,86 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Five Nights at Freddy's 2 (Blu-ray + Digital) $11.99 + Free S&H w/ Prime or $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T22:30:24.878901Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$5.94 | Yellowstone - Special Edition at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-01T22:30:24.878901Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$8.49 | Pet Sematary [4K UHD] at Amazon",
+  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-01T22:30:24.878901Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Milwaukee M18 18-Volt Lithium-Ion Cordless 8-Tool Combo Kit for $649 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T22:30:24.878901Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Halloween & Fall Decor at Tractor Supply Co.: Up to 60% off + free shipping w/ $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T22:24:51.485306Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Eskute V100 Electric Bike 1500W Peak 28MPH 48V 13Ah 16\"x4\" Fat Tire 7-Speed Dual Suspension black $377 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T22:24:51.485306Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $16.99 | 24-Pack 11.15-Oz San Pellegrino Italian Sparkling Drink (Strawberry Crema) at Amazon (70.8￠ each)",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T22:19:18.989926Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$8.81 | Officemate 2 Hole Punch - 30 Sheet Capacity, Black at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-01T22:19:18.989926Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Delta Lacey Spotshield 4\" Centerset 2-Handle Bathroom Sink Faucet for $100 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T22:19:18.989926Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Viva Paper Towels 16-Pack Only $30.42 Shipped on Amazon (Equals 50 Regular Rolls!)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T22:19:18.989926Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "6 Pk 11Oz Rust-Oleum Stops Rust Metallic Spray Paint, Vintage Dark Copper $5.98 + Free S&H w/ Prime or $35+",
   "reason": "Community score too low (+-2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-10-01T22:13:46.897438Z",
@@ -131708,78 +131788,6 @@
   "raw_title": "Adidas kids SAMBAE Shoes Sizes 4.5-6 - $24.60 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T22:30:36.740754Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS, AC] $20.48 | 3 × 0.5-Oz Olay Regenerist Nourishing Treatment, Lip Balm ($6.83 each) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, multi-pack, clip coupon, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-17T22:25:11.985497Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Amazon Basics RFID-Blocking Passport Wallet for $7 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T22:25:11.985497Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Macy’s 25 Days of Beauty Advent Calendar Just $63.75 Shipped ($300 Value!)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T22:25:11.985497Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "PUMA X Cheetos Suede Lace Up Youth Boys Orange Sneakers Casual Shoes 39885401 $27.95",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T22:25:11.985497Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Garmin Venu 3 45mm Premium Fitness Smartwatch for $292 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T22:19:47.087922Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Greenworks 24V Cordless Plumbing Drain Auger / Snake (23-FT / 560 RPM) For Unclogging Sinks, Shower Drains, Toilets 2.0 ah battery and charger included $74.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T22:19:47.087922Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Amazon Basics Heavy Duty Thick PVC Trim-to-Fit Car Floor Mats for $25 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T22:14:23.612802Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "iVANKY 0.3\" Ultra Slim 5000mAh MagSafe Portable Power Bank $11.50 + Free Shipping w/ Walmart + or orders $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T22:14:23.612802Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "YMMV 5qt 0w-20 Royal Purple for $19.95",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T22:14:23.612802Z",
   "code": "not_checked",
   "public": false
  }

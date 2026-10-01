@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "929ab460ae47",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20085387-amazon-friskies-gravy-swirlers-3-15lb-bag-3-41-w-coupon-and-10-ss?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "Amazon ~ Friskies Gravy Swirlers 3.15lb bag w/coupon and 10% SS",
+  "raw_title": "Amazon ~ Friskies Gravy Swirlers 3.15lb bag $3.41 w/coupon and 10% SS",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 341,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-10-01T22:30:24.878901Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "8fe13cc906d3",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20085651-brooks-men-s-ghost-max-3-neutral-running-walking-shoe-black-navy-acid-lime-10-5-medium-94-95?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
