@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[Open Box] 10000mAh Mophie 30W Power Bank $17.84 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T02:22:38.047476Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GTPLAYER Gaming Chair,Office Chair with Pocket Spring Lumbar Support, Ergonomic Comfortable Wide Office Desk $129.99",
+  "reason": "Posted at $129.99, but Amazon showed $259.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-01T02:17:01.805997Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$10.85 | Arctic Monkeys: Favourite Worst Nightmare (Audio CD w/ AutoRip MP3) at Amazon",
   "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-10-01T02:11:26.860695Z",
@@ -132140,54 +132156,6 @@
   "raw_title": "BJs Receive a $25 coupon when you spend $100+ (or a $50 coupon when you spend $200+) P and G Products",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T02:27:02.316961Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Brooks Men’s Cascadia 19 GTX Waterproof Mountain Trail Running Shoe $109.95",
-  "reason": "Posted at $109.95, but Amazon showed $129.95 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-17T02:21:37.215639Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Carthartt Women's Haslett Moc Toe Canvas Chukka (Black) - $59.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T02:21:37.215639Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "(Set of 12) Osfvn Pumpkin Decor White, Harvest Thanksgiving Fall Decoration $8.99",
-  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-17T02:16:11.589561Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon - Portable Back Heating Pad Lower Back Massager, 3 Heat & 3 Vibration, 3H Runtime Portable Wireless Lumbar Belt - $34.99",
-  "reason": "Posted at $34.99, but Amazon showed $69.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-17T02:16:11.589561Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Keen Men's Pittsburgh Waterproof Steel Toe Work Boots - $109.97 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T02:16:11.589561Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "FLASHFORGE Adventurer 5M/5M Pro 3D Printer 600mm/s High-Speed FDM 3D Printer $199",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T02:16:11.589561Z",
   "code": "not_checked",
   "public": false
  }
