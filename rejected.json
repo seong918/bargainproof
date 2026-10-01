@@ -1,6 +1,142 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Batman v Superman: Dawn of Justice (4K UHD + Blu-ray) $14.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T18:43:18.391786Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "SWISSGEAR Cecil 18\" Backpack w/ 16\" Laptop Pocket $29.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T18:43:18.391786Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Hanes Men’s Ultimate Tank Top 7-Pack $19.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T18:43:18.391786Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Men's Adidas Adissage 360REC Slides (Size 4, 5) $12.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T18:43:18.391786Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Amazon Essentials 100 Cotton Rounds $1.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T18:43:18.391786Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Adidas Men's Adilette Comfort Slides $13.20",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T18:43:18.391786Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Men's Adilette Aqua Slides Size 12, 13 $6.60",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T18:43:18.391786Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Minute Maid Lemonade Fridge Pack Cans 12-Pack $5.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T18:43:18.391786Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Apple AirTag (1st Generation) 4-Pack $62.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T18:43:18.391786Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Baseus 10000mAh Picogo Qi2 15W Certified Magsafe Portable Charger w/ 27W USB-C Output $26.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T18:43:18.391786Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Cottonelle Fresh Feel Flushable Wet Wipes 332 Count $9.47",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T18:43:18.391786Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Woot Graphic T-Shirts Sale for $1 for New Customers + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T18:43:18.391786Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "C4 Energy + Aminos Jolly Rancher Cherry 30-Serving Powder for $19 via Sub & Save + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T18:43:18.391786Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Swiffer Wet Mopping Cloths 72-Count Just $18 Shipped on Amazon (Reg. $30)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T18:43:18.391786Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Wren Zero Gravity Power Leather Recliner with Power Headrest $499.99 Free Shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T18:43:18.391786Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "allen + roth B46305J-BSN Satin Nickel Single Ball-End Coat & Hat Hook (Satin Nickel) $2.61 + Free Store Pickup at Lowe's or Free Shipping on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T18:43:18.391786Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Men's Adidas Adissage Slides $12.60",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-10-01T18:43:18.391786Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Aluminum EDC Pocket Flashlight $14.99",
   "reason": "Posted at $14.99, but Amazon showed $29.99 when we checked — the deal is probably over",
   "rejected_at": "2026-10-01T18:37:48.506817Z",
@@ -131260,94 +131396,6 @@
   "raw_title": "Graco Tranzitions 3-in-1 Harness Booster Car Seat, Proof, Black $111.98",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T18:48:20.384436Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "KPop Demon Hunters Vinyl Amazon Exclusive Violet LP $22.07",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T18:42:52.519511Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Lisen Cell Phone Holder A-Pink $6.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T18:42:52.519511Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "KNKA Air Purifiers for Home Bedroom Up to 1,695 Ft² in 1 Hr, APH4000 $119.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T18:42:52.519511Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Deyeek Men's Sweatpants Open Bottom Baggy with Pockets $10.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T18:42:52.519511Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "roborock F25 Steam Series Wet Dry Vacuum Mop, 356°F Cordless Steam Cleaner $399.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T18:42:52.519511Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "CITIZEN Men's Eco-Drive Black Panther 42mm Stainless Steel AW1858-03W $315.55",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T18:42:52.519511Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Monopoly Star Wars Heroes vs. Villains (Nintendo Switch 2) $21.68",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T18:42:52.519511Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Orbit B-hyve XR 8-Zone WiFi Smart Sprinkler Timer & Irrigation Controller $108.43",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T18:42:52.519511Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "30ct Physician's CHOICE Probiotics 60 Billion CFU - 10 Strains + Organic Prebiotics $12.81",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T18:42:52.519511Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Goplus Inflatable Kayak 2-Person Kayak for $120 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T18:42:52.519511Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Pokémon TCG 30th Celebration Elite Trainer Box for $83 w/ invite + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T18:42:52.519511Z",
   "code": "not_checked",
   "public": false
  }
