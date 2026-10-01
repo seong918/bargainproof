@@ -1,5 +1,37 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Booms Fishing Long Nose Hook Remover Pliers $5.99",
+  "reason": "Posted at $5.99, but Amazon showed $9.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-01T08:20:33.301351Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas Finger Crossbody Bag for $19 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T08:20:33.301351Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Hiicam 4K Mini Body Camera w/ 1.5\" Screen for $86 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T08:20:33.301351Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Leprechaun 8 movie digital collection $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T08:20:33.301351Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Chamberlain myQ Secure View 3-in-1 Smart Lock w/ 2K Video Doorbell for $143 w/ Prime + free shipping",
   "reason": "Not evaluated",
@@ -131996,30 +132028,6 @@
   "raw_title": "3-Piece Takywep Bar Table and Chairs Set $59.99 + Free Shipping w/ Prime",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T08:23:57.129389Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Refurb Woojer Vest 4 Haptic Gaming Vest for $250 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T08:18:35.850383Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Garvee 10-Frame Complete Beehive Kit for $118 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T08:18:35.850383Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "HP Omnibook 5: 16\" FHD+ IPS, Ryzen AI 7 350, 16GB LPDDR5, 512GB SSD $699",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T08:18:35.850383Z",
   "code": "not_checked",
   "public": false
  }
