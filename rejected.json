@@ -1,6 +1,254 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[Prime] $47.49* | 15.6\" AOC 16T20 FHD 60Hz IPS Portable Monitor at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T19:10:54.557319Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $19.99 | Corsair MM Anti-Fray Cloth Gaming Mouse Pad – Black at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T19:10:54.557319Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $93.09* | Honeywell 7 Day Programmable Wi-Fi Smart Color Thermostat at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T19:10:54.557319Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $189.90* | Tineco Floor ONE S5 Smart Cordless Wet Dry Vacuum Cleaner & Mop (Blue) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T19:10:54.557319Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $34.99 | 755-Piece LEGO Creator: 3 in 1 - Majestic Tiger (31129, 2022) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T19:10:54.557319Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $62.99 | 639-Piece LEGO Harry Potter - Privet Drive: Aunt Marge's Visit (76451, 2025) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T19:10:54.557319Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $76.99 | 1084-Piece LEGO Fortnite - Klombo (77077, 2025) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T19:10:54.557319Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $62.99 | 764-Piece LEGO Harry Potter: Deathly Hallows - Luna Lovegood's House (76467, 2026) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T19:10:54.557319Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $34.99* | 378-Pc LEGO Disney 101 Dalmatians Cruella De Vil's Car Building Set at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T19:10:54.557319Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $218.49 | 27\" AOC Q27G3XMN 2560x1440 180Hz 1ms VA Mini-LED Backlit Gaming Monitor at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T19:10:54.557319Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $332.49* | 27\" AOC AGON PRO AG276QZD2 2560x1440 OLED 240Hz 0.03ms Gaming Monitor at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T19:10:54.557319Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HTM Shiatsu Foot Massager with Heat for Neuropathy & Plantar Fasciitis $37.48",
+  "reason": "Posted at $37.48, but Amazon showed $62.47 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-01T19:10:54.557319Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Portal 2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T19:10:54.557319Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Europa Universalis IV",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T19:10:54.557319Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Detroit: Become Human",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T19:10:54.557319Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Darkest Dungeon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T19:10:54.557319Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Solasta: Crown of the Magister",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T19:10:54.557319Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Total War: WARHAMMER III",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T19:10:54.557319Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Control Ultimate Edition",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T19:10:54.557319Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Dying Light",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T19:10:54.557319Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "The Ascent",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T19:10:54.557319Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Middle-earth: Shadow of War",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T19:10:54.557319Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "The Elder Scrolls V: Skyrim Special Edition",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T19:10:54.557319Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "$50 Uber + Uber Eats eGift Card $45.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T19:10:54.557319Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "REOLINK RLK16-811B8-A 16-Channel Smart 4K PoE NVR System with 4TB HDD $1,078.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T19:10:54.557319Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Sansui G-Series 27\" Curved FHD VA 200Hz LED AMD Free-Sync Gaming Monitor $115.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T19:10:54.557319Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Nike Men's or Women's Total 90 Indoor Soccer Shoes for $45 + free shipping w/ $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T19:10:54.557319Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "iSpring 6-stage Alkaline Reverse Osmosis Water Filtration System and Faucet $149.99 Free Shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T19:10:54.557319Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "KINGROON 10KG PETG Filament $51.35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T19:10:54.557319Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Anbernic RG Rotate Aurora Silver Metal $90.83 w/ Coupon (AliExpress)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T19:10:54.557319Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Opus Tactical 22L Tac Pack 600D Backpack $25 + Free S/H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T19:10:54.557319Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "OARKIEV Garden Retractable Hose Reel, 1/2 Inch x 150 ft Wall Mounted Garden Hose Reel $99.99",
   "reason": "Posted at $99.99, but Amazon showed $199.99 when we checked — the deal is probably over",
   "rejected_at": "2026-10-01T19:05:25.173823Z",
@@ -2066,14 +2314,6 @@
  {
   "source": "dealnews",
   "raw_title": "Polo Ralph Lauren Men's Classic-Fit Cotton Boxer Briefs 6-Pack for $48 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-10-01T16:58:10.905829Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Anbernic RG Rotate Aurora Silver Metal $90.83 w/ Coupon (AliExpress)",
   "reason": "Not evaluated",
   "rejected_at": "2026-10-01T16:58:10.905829Z",
   "code": "not_checked",
@@ -131308,94 +131548,6 @@
   "raw_title": "3-PACK Outdoor Beanie Hats (Kryptek, Realtree, Chevy) $12 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T19:15:29.111541Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS, AC] $51.61* | 3 × 57-Count Cascade Platinum Plus Dishwasher Pods ($17.20 each) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, multi-pack, clip coupon, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-17T19:10:03.215785Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Women Long Sleeve Dress $9.65",
-  "reason": "Posted at $9.65, but Amazon showed $25.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-17T19:10:03.215785Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Nanezan Portable Disposable Outdoor Fly Traps (9-Pack) $11.99",
-  "reason": "Posted at $11.99, but Amazon showed $26.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-17T19:10:03.215785Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "CRAFTSMAN V20 20V Cordless Variable Speed Belt Sander w/ Dust Port (Tool Only) $49.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T19:10:03.215785Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Smash Pack: Monte Nica by AJ vs Cinco Decadas - 10 Cigars $59.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T19:10:03.215785Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Prime Cuts 10-Cigar Sampler $24.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T19:10:03.215785Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Patagonia Black Hole Pack 25L $76.83",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T19:10:03.215785Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Adjustable Chicken Harness w/ Leash & Diaper Bag for $17 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T19:10:03.215785Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Gorilla Grip Traffic Guard 72\" x 48\" Heavy Duty Indoor Outdoor Door Mat for $56 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T19:10:03.215785Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Marama Ergonomic Leather Office Chair w/ Flip-Up Armrests (Black) $58.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T19:10:03.215785Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$39 USD/year for Windscribe Pro + YMMV 1 month free pro for a friend",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T19:10:03.215785Z",
   "code": "not_checked",
   "public": false
  }
