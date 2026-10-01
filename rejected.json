@@ -1,5 +1,45 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Greenworks 60V 16\" Brushless Cordless Battery String Trimmer (Attachment Capable) 4.0 ah battery, (1) 3a charger, shoulder strap + Free S/H $161.5",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T07:58:14.489282Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "280-Pc LEGO Lucky Cat Building Toy (40813) $20 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T07:58:14.489282Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Greenworks 60V Hybrid 1800 PSI 1.1 GPM Cold Water Pressure Washer (Tool Only) + Free S/H $161.5",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T07:58:14.489282Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "M Maelreg Short Sleeve Print Collared Golf Polo Shirt $12.97",
+  "reason": "Posted at $12.97, but Amazon showed $19.95 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-01T07:52:39.291050Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Greenworks 60V 610 CFM Cordless Battery Leaf Blower w/ 2.5Ah Battery & Charger $119",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T07:52:39.291050Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Refurbished Ray-Ban Meta Gen 1 Glasses for From $179 + free shipping",
   "reason": "Not evaluated",
@@ -131886,29 +131926,5 @@
   "rejected_at": "2026-09-17T08:13:11.883194Z",
   "code": "no_signal",
   "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Happy Belly French Dark Roast Coffee (Compatible with Keurig 2.0 K-Cup Brewers, 24-Count) $5.18",
-  "reason": "Posted at $5.18, but Amazon showed $0.19 when we checked — the post is stale",
-  "rejected_at": "2026-09-17T07:56:59.254195Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Cunard 48-Night Britain, Mediterranean & Norwegian Fjords Cruise for From $19,998 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T07:56:59.254195Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "12-Pack Solar LED Pathway Lights w/ 2 Lighting Modes $34.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-17T07:51:34.095778Z",
-  "code": "low_score",
-  "public": true
  }
 ]
