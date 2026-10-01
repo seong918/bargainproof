@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "4\" DEWALT Cable Twist Wire Wheel (DW4930) $10.90 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T11:32:37.700703Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bosch 8-Piece 2\" Impact Tough Square Power Bits w/ Clip (CCSSQV208) $7.25 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+3) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T11:32:37.700703Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Spooktacular Creations Realistic Banana Adult Halloween Costume for From $18 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T11:32:37.700703Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "AOVOPRO 8.5in LADPED LP07 Electric Scooter 350W 36V 10.5ah 19mph Black $120 + Free S/H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T11:32:37.700703Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ESV The Biggest Story Holy Bible for Kids (Hardcover): Children's Bible for Ages 6–12 $11",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T11:32:37.700703Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "DYU M26 1000W (Peak) 26in Mountain Electric Bike 45mph 7-Speed Shimano Gears $256 + Free S/H",
   "reason": "Not evaluated",
   "rejected_at": "2026-10-01T11:27:20.777411Z",
@@ -132102,45 +132142,5 @@
   "rejected_at": "2026-09-17T11:37:46.230914Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$16.79: LeapFrog Prep for Preschool Activity Book",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-17T11:32:20.614996Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[S&S] $34.48: Smartfood Popcorn, White Cheddar, 1 Ounce (Pack of 64)",
-  "reason": "Community score too low (+-2) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-17T11:32:20.614996Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Nike Best of the Season Deals at Macy's: Up to 60% off + extra 30% off + free shipping w/ $39",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T11:32:20.614996Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas Men's Ultradream DNA Shoes (Core Black / Core Black / Cloud White) $33.75",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T11:32:20.614996Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "from $6.71* | Hanes Men's EcoSmart Fleece Pullover Hooded Sweatshirt (Various) at Amazon",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-17T11:32:20.614996Z",
-  "code": "duplicate",
-  "public": true
  }
 ]
