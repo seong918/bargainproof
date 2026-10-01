@@ -1,5 +1,29 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$13.62 or less PRIME ONLY S&S Amazon Basics Maxi Strength Mucus DM (generic MUCINEX), Expectorant and Cough Suppressant Extended-Release , 42 Count (",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T01:09:59.601717Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "3-Pack Green Toys Recycle Truck Plush & Airplane Board Book Bundle Set $13.65 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs multi-pack, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T01:09:59.601717Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Darkest Dungeon 2 (Physical, PS5) $22.49 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T01:09:59.601717Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "cheapshark",
   "raw_title": "A Story About My Uncle",
   "reason": "Not evaluated",
@@ -132244,22 +132268,6 @@
   "raw_title": "$59.50 FS Get $10 KOHLS CASH Men's Nike Court Vision Low Sneakers sizes 9.5-13 (exc 12.5)",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T01:11:11.668169Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$5.37 AMAZON FNTCASE for Galaxy A17/A16 5G Phone Case: Dual Layer Samsung A17 5G Cover (BLACK)",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-17T01:05:46.247244Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "hip2save",
-  "raw_title": "MAREE Under Eye Balm Just $7.98 Shipped on Amazon (Reg. $20)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T01:05:46.247244Z",
   "code": "not_checked",
   "public": false
  }
