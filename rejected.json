@@ -1,6 +1,110 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[Prime] $34.99 | Belkin MagSafe 3 in 1 Wireless Charging Pad, Fast Charger (Renewed) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T19:44:09.933842Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $29.99 | CORSAIR RS140 ARGB 140mm PWM Fans – Dual Pack – Black at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T19:44:09.933842Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $11.05 | 8-Pack 42-Count Cottonelle Fresh Feel Flushable Wet Wipes (Fresh Feel) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T19:44:09.933842Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Dungeon Siege",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T19:44:09.933842Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Tramontina Professional 12-Inch Ceramic Non Stick Large Frying Pan $29.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T19:44:09.933842Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Fanatics MLB Clearance Sale: Up to 75% off + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T19:44:09.933842Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nike Men's Air VaporMax Plus Shoes (Black/Anthracite/White/Bright Crimson) $121.97 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T19:44:09.933842Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "EUHOMY Jet SE Nugget Ice Maker, 35 lbs $149.99 Free Shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T19:44:09.933842Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$13.47* | 10\" Fiskars Easy Action Bent Handle Titanium Craft Scissors at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-01T19:38:34.763276Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "TheKorva Chaise Lounge Cushions Outdoor, 72\"x21\"x3\", Navy Blue $23.99",
+  "reason": "Posted at $23.99, but Amazon showed $35.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-01T19:38:34.763276Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Metal 72\" x 40\" Garage Storage Rack for $37 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T19:38:34.763276Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "WUBEN Multi-Color Magnetic EDC G5 Flashlight 400 Lumen USB-C Rechargeable Keychain $12.3",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T19:38:34.763276Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Lifesmart TM55 PowerTouch Treadmill $599.99 Free Shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T19:38:34.763276Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[SnS, AC] $25.46 | 3-Count Philips Norelco OneBlade 360 Blades (QP430/80) at Amazon ($8.49 each)",
   "reason": "Community score too low (+1) to pass without a price check — needs clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-10-01T19:33:03.947278Z",
@@ -131620,222 +131724,6 @@
   "raw_title": "Tom Clancy's Splinter Cell",
   "reason": "Same deal was already posted from another source",
   "rejected_at": "2026-09-17T19:47:59.665514Z",
-  "code": "duplicate",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Snyder's of Hanover Cheddar Cheese Flavored Pretzel Pieces, 11.25 Oz $2.72",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T19:42:33.832560Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Metroid Prime 4: Beyond (Nintendo Switch Physical) $34.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T19:42:33.832560Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Armor All Ultra Shine Car Wash and Car Wax 3-Pack $14.15",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T19:42:33.832560Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Snyder's of Hanover Honey Mustard & Onion Flavored Pretzel Pieces, 11.25 Oz $3.09",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T19:42:33.832560Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Stbands Astronaut Galaxy Star Projector Night Light w/ Remote & 17 Modes $12.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T19:42:33.832560Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Jet-Puffed Mini Marshmallows Just $1 Shipped on Amazon",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T19:42:33.832560Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "ENDLESS Legend 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T19:37:08.364455Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Tom Clancy's The Division 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T19:37:08.364455Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Deus Ex: Mankind Divided",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T19:37:08.364455Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Watch_Dogs 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T19:37:08.364455Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Steep",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T19:37:08.364455Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Immortals Fenyx Rising",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T19:37:08.364455Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Watch_Dogs",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T19:37:08.364455Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Riders Republic",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T19:37:08.364455Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "For Honor",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T19:37:08.364455Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Crypt of the NecroDancer",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T19:37:08.364455Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "The Quarry",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T19:37:08.364455Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Assassins Creed Origins",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T19:37:08.364455Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "DRAGON BALL FighterZ",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T19:37:08.364455Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Far Cry 6",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T19:37:08.364455Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Assassins Creed Brotherhood",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T19:37:08.364455Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Far Cry 3",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T19:37:08.364455Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Pepperidge Farm Tahoe Crispy White Chocolate Macadamia Nut Cookies 7.2 oz Bag $3.62",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T19:37:08.364455Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Flamingo Razors for Women Lilac with Handle and Blade Refill $4.46",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T19:37:08.364455Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Seesii 21V 183-Piece Power Drill Tool Kit for $36 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T19:37:08.364455Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Duxot / Islander collab auto $135",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T19:37:08.364455Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Tom Clancys The Division",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-17T19:37:08.364455Z",
   "code": "duplicate",
   "public": true
  }
