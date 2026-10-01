@@ -1,5 +1,37 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "Heart-Shaped Ceramic Coffee Spoon Rest w/ Stainless Steel Spoon (White & Gold Spoon) $5.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T17:03:42.658909Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Murdoku Murder Mystery Logic Puzzle Books from $9.78 Shipped for Prime Members (Reg. $19)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T17:03:42.658909Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$154.99 | Samsung Galaxy Buds 4 Pro True Wireless Bluetooth Earbuds (International Model) at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T17:03:42.658909Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Hyperkin Captain+ Rumble Support N64/M64 Wired Hall Effect Gaming Controller $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T17:03:42.658909Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Halloween Pumpkin Socks $4.90",
   "reason": "Not evaluated",
@@ -131420,54 +131452,6 @@
   "raw_title": "Tribesigns Corner Shelf 7-Tier Industrial Corner Bookshelf Freestanding Display Shelf $91.5 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T17:05:22.206547Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Bedsure Pintuck Pinch Pleat 7-Piece Queen Comforter Bed-in-a-Bag for $57 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T16:59:58.056921Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Super Duper Extra Deluxe Essential Handbook (Pokémon) Paperback for $13 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T16:59:58.056921Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Rolling Shop Stool with Backrest for $60 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T16:59:58.056921Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "HAGOO Sturdy 4-Shelf Garage Storage Unit Supports Up to 2240 Pounds $42.8 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T16:59:58.056921Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Round Trip Detroit to Barcelona Spain $556-$561 Airfares on Delta Air Lines BE (Travel October 2026 - April 2027)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T16:59:58.056921Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Bellevue Luxury 11 oz. Glass Candle, Set of 4 $25.99 free shipping Costco.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T16:59:58.056921Z",
   "code": "not_checked",
   "public": false
  }
