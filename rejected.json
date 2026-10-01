@@ -1,6 +1,22 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "GOAT USA Men's or Women's OG Hooded Sweatshirt for $10 + free shipping w/ $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T21:40:31.893302Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "LEGO Technic Mercedes-AMG F1 W14 E Performance Pull-Back Car Toy, Vehicle Building Set for Boys and Girls, Mercedes Race Car Toy Model, Gift for Kids Ages 7 and Up $17.59",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T21:40:31.893302Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
   "raw_title": "adidas Men's Ultimate365 Elevated Pullover Golf Hoodie for $19 + free shipping w/ $49",
   "reason": "Not evaluated",
   "rejected_at": "2026-10-01T21:34:59.124569Z",
@@ -131916,46 +131932,6 @@
   "raw_title": "Big Buford for $3 at Checkers and Rallys",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T21:41:51.216191Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$8.99 | Justice League: Crisis on Infinite Earths, Part Three (Blu-ray + Digital HD) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
-  "rejected_at": "2026-09-17T21:36:25.764610Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "cheapshark",
-  "raw_title": "Company of Heroes: Opposing Fronts",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T21:36:25.764610Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Verizon Shine Rewards: $5 Ulta Beauty eGift Card",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T21:36:25.764610Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Costco $5 shop card - enroll in auto renewal",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T21:36:25.764610Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ECO-WORTHY 12KW Hybrid Inverter + 6 Pack 48V 100AH Lithium Battery System $6849.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T21:36:25.764610Z",
   "code": "not_checked",
   "public": false
  }
