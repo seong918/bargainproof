@@ -1,6 +1,102 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "1L The North Face Terra Lumbar Fanny Pack (Opal Frost/Pearl Stone) $17.98 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T13:39:04.548306Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Open Box] DJI Osmo 360 Camera Standard Combo 1-Inch 360°Imaging Native 8K Video 105GB Storage $280.70 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T13:39:04.548306Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Jetboil Zip Cooking System $82.49 + Free Shipping - Sportsman's Warehouse",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T13:39:04.548306Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GOOLOO A3 12V 3000A Portable Jump Starter with Air Compressor - $62.99 AC",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T13:39:04.548306Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Uskeyvision 69\" Extendable 360-Rotable Magnetic Phone Tripod $7.12",
+  "reason": "Posted at $7.12, but Amazon showed $22.62 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-01T13:33:30.979317Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Ekouaer Men's Long Sleeve Lightweight Johns Set Winter Base Layer Top and Bottom $11.99",
+  "reason": "Posted at $11.99, but Amazon showed $19.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-01T13:33:30.979317Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Ujpfeo Portable Memory Foam Knee Pillow $14.43",
+  "reason": "Posted at $14.43, but Amazon showed $28.86 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-01T13:33:30.979317Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Badland 3 Ton Offroad Jack (Begins 10/1) $249.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T13:33:30.979317Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "3-Pack 75L Laundry Basket, Collapsible Laundry Hampers, Gray - $11.69 after coupon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T13:33:30.979317Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Dollar General B&M $27.60acs 3 x Hershey Assorted Chocolate Snack Size Candy Bag, 20.5 oz (61.5 oz total)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T13:33:30.979317Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas Men's Trefoil Essentials Crew Sweatshirt (Wonder White/White, Sizes: S-XXL) $15.60 + $4.95 Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T13:33:30.979317Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "vivianly Knee High Boots for Women Fold Over Boots - $23.99 AC",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T13:33:30.979317Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "DEWALT 4-1/2\" General Purpose Metal Grinding Wheel (DW4523) $2.98 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-10-01T13:27:58.657041Z",
@@ -131580,190 +131676,6 @@
   "raw_title": "Comforter Sets from $13 on Amazon (Reg. $39)",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T13:41:34.982320Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "828 Pcs LEGO Wednesday Thing’s Apartment Building Toy(76785) $53.99 + Free S&H at Amazon",
-  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
-  "rejected_at": "2026-09-17T13:36:12.260079Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Lefant M330 Pro Robot Vacuum and Mop 6000Pa Suction Smart Mapping Self-Emptying Gray $89.99 + Free Shipping",
-  "reason": "Posted at $89.99, but Amazon showed $199.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-17T13:36:12.260079Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Grepro 130W 20000mAh Aluminum Alloy Smart Display Laptop Power Bank $34.99",
-  "reason": "Posted at $34.99, but Amazon showed $49.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-17T13:36:12.260079Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "ECO-WORTHY 200W Flexible HJT Solar Panel 2-Pack (18V, ETFE, 18BB, 25% High Efficiency) $192.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T13:36:12.260079Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Invicta Men's 47630 Pro Diver Quartz Chronograph Black Dial Watch $68.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T13:36:12.260079Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Carhartt Men's Waterproof 10\" Soft Toe Wellington Wedge Boot $110.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T13:36:12.260079Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "ZoRhael Foot-Stimulating Massage Mat with Remote for $11 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T13:36:12.260079Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Foldable Electric Bicycle 500W peak 48V 15Ah 14 in Pneumatic Tires 8 Shock Absorbers 15.5 mph $185",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T13:36:12.260079Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Walmart+: Mingdaln Smartwatch Gift Set with 7 Bands, Pink $17.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T13:36:12.260079Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Tom Petty - Finding Wildflowers (Alternate Versions)(2 LP) $28.5",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T13:36:12.260079Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Rechargeable Led Red Light Therapy Mask for Face, 7-1 Colors $19.99",
-  "reason": "Posted at $19.99, but Amazon showed $39.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-17T13:30:49.267848Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "GEMIU Mini Compact Crossbody Bags $11.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T13:30:49.267848Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Creality CFS Multi Color 3D Printer Filament System $139.30",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T13:30:49.267848Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Vacuum Sealer Machine with 10 Vacuum Bags & Built-in Cutter $19.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T13:30:49.267848Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Dog Birthday Party Supplies Dog Birthday Bandana Cute Tutu Skirt $7.19",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T13:30:49.267848Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Oraolo Shock Pro 80W Bluetooth Speaker $59.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T13:30:49.267848Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Autel MaxiIM KM100/KM100X Key Fob Programmer $243.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T13:30:49.267848Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Birkenstock Arizona Women's Leather Sandals (Pink) $69.83",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T13:30:49.267848Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Squishmallows Advent Calendar Only $39.99 Shipped on Amazon (Reg. $70)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T13:30:49.267848Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "20 Inch Kids Bike Children Bicycle for Boys Girls Ages 8-12 Years Old MTB Mountain Bike 7 Speed $97.20 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T13:30:49.267848Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "DOEL 2026 New Smart Self-Cleaning Cat Litter Box 65L Large Space Automatic Cat Toilet $116.40 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T13:30:49.267848Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Humsienk 12V 314Ah LiFePO4 Battery 4019Wh 100A BMS Low-Temp Protection $213.90 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T13:30:49.267848Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "W-King X10 Bluetooth Speaker 120W Max Portable Loud Speakers IPX6 Waterproof $71.60 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T13:30:49.267848Z",
   "code": "not_checked",
   "public": false
  }
