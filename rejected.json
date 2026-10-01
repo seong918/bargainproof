@@ -1,5 +1,101 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$2.99 | John Dies at the End (eBook) by Jason Pargin, David Wong",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-01T20:56:19.869164Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Vicks PainQuil Max Strength 1000mg Acetaminophen Pain Relief LiquiCaps 100-Count $9.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T20:56:19.869164Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Adidas Women's Optimé Essentials Full-Length Stash Pocket Leggings $10.20",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T20:56:19.869164Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Kobalt Mini 4.5-in Diagonal Cutting Pliers $3.42",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T20:56:19.869164Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "23-Pair Christmas Earrings Set $10.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T20:56:19.869164Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "High Sierra Vacation Backpack Large Forest Green/Black $48.33",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T20:56:19.869164Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Chocolate Assorted Individually Wrapped Candy Variety Pack, 5 lb $27.96",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T20:56:19.869164Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "TIECTOWN 16-Inch 15.5A Electric Dethatcher & Scarifier $149.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T20:56:19.869164Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "TuyLuxe Solar Flickering Flame Outdoor Hanging Lanterns 4-Pack $20.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T20:56:19.869164Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Joseph Abboud Men's Hybrid Wingtip Suede Oxfords for $25 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T20:56:19.869164Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Predator 14,500 Tri-Fuel Generator 9/3/26 Cali Compliant $1100",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T20:56:19.869164Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "3 for $33: 4K UHD Blu-rays (New Selection) at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-10-01T20:56:19.869164Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "TILUCK 10-Pc Measuring Cups & Spoons Set $4.79",
   "reason": "Not evaluated",
@@ -131884,126 +131980,6 @@
   "raw_title": "Lowe's 5 Gallon(s) Igloo Blue Insulated Beverage cooler | 00042274 $27.98",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T20:58:26.213321Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Athlefit Women's Slip On Suede Clogs with Back Strap $18.14",
-  "reason": "Posted at $18.14, but Amazon showed $32.98 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-17T20:53:01.499143Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Green Toys Seaplane $11.30",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T20:53:01.499143Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Pyle Solid Wood 4/4 Full Size Violin Fiddle Set w/ Accessory Kit $58.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T20:53:01.499143Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Disguise Kid's Transformers Bumblebee Muscle Costume (Large) $15.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T20:53:01.499143Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Anker USB C to USB C Cable 100W (2-Pack, 6 ft, Black) $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T20:53:01.499143Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Zojirushi EC-YTC100XB 10-Cup Coffee Maker $168.74",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T20:53:01.499143Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "VEVOR Retractable Air Hose Reel 1/2 IN x 50 FT $73.08",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T20:53:01.499143Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "33,000ft Women's Waterproof Long Rain Coats with Hood $55.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T20:53:01.499143Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Finger Toothbrush Wipes for Dogs or Cats, 60 Count $15.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T20:53:01.499143Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Cosybay Double-Sided Cold Tech Fabric Cooling Comforter (Full/Queen, Grey) $19.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T20:53:01.499143Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Vevor 9.8-Foot Yurt Canvas Bell Tent with Stove Jack for $181 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T20:53:01.499143Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Nike Men's or Women's Book 2 SE 'The Phoenix' Basketball Shoes for $54 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T20:53:01.499143Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "How Cute Is This New TAL Water Bottle w/ Scarf Bow?! (+ Under $15 at Walmart!)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T20:53:01.499143Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Greenworks 60V 16 in Cordless String Trimmer, 2.5 Ah Battery $147.62",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T20:53:01.499143Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "r7 7800x3d cpu $299.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T20:53:01.499143Z",
   "code": "not_checked",
   "public": false
  }
