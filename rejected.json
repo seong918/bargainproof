@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$1.97 Pick Up Walmart or $35 delivery: Great Value Classic Candy Corn 12 oz Bag With Real Honey",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T05:27:18.672895Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Secura Multifunction Air Fryer Steam Oven, 13 Quart Compact Oven $45",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T05:27:18.672895Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "FitVille Men's EasyWalk Slip-On V2 Wide Width Dress Shoes $28.91 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T05:21:42.917831Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "RYOBI ONE+ 18V Telescoping Power Scrubber w/ VORTEX Power Scrubber (Tools Only) $99 + Free S&H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T05:16:06.719564Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$1.99 | Dawn by Octavia E. Butler (Kindle ebook)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T05:16:06.719564Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$17.99 | Official Apple Watch 41mm S/M Band Strap (Leather Link) at Woot!",
   "reason": "Not evaluated",
   "rejected_at": "2026-10-01T05:10:32.160156Z",
@@ -132157,110 +132197,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T05:30:53.985156Z",
   "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Huffy Vertis 27.5\" Electric Mountain Bike for $520 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T05:25:31.012007Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Amazon Basics Rubber Hex 20-lb. Dumbbell for $22 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T05:25:31.012007Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Batman and Superman: Battle of the Super Sons (Blu-ray) $8.49 Amazon.com",
-  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-17T05:20:05.739685Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "VTech Drill & Learn Toolbox (2 Colors) $16.79 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-17T05:20:05.739685Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "EGO Power+ 8\" Lawn Edger Attachment & Multi-Head System Power Head - ME0820 $197.1",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-17T05:20:05.739685Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$17.99* | WORX 11' Gutter Cleaning Kit for WORX Blower Vacs at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T05:14:39.691176Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$79.99 | Shark Matrix 2-in-1 Robot Vacuum & Mop (Factory Reconditioned) at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T05:14:39.691176Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Saucony Peregrine 15 GTX Men's/Women’s Shoes - $102.99 + free ship w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T05:14:39.691176Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "School Supplies: 2-Count up&up Purple Glue Sticks $0.25, 15-Pack BIC Cristal Xtra Bold Ballpoint Pens $1.99, More + Free Store Pick-Up at Target or FS on $35+ $0.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T05:14:39.691176Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$37.99 | 1000ct 4MIL Black Nitrile Gloves at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T05:14:39.691176Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas Men's Lite Racer Adapt 7.0 Shoes (Cloud White/Core Black) $28.00 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T05:14:39.691176Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Bose - SoundLink Plus Portable Bluetooth Speaker with Powerful Sound & Deep Bass - Black $199 Bestbuy.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T05:14:39.691176Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Saucony Endorphin Pro 4 Men's Shoes (Iceberg/Carbon) Sizes 7-10, $154.99 + free shipping with Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T05:14:39.691176Z",
-  "code": "not_checked",
   "public": false
  }
 ]
