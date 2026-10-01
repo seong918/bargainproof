@@ -1,6 +1,310 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Jackery HomePower 3600 Plus 3580Wh 3600W Portable Power Station w/ 102W Fast Charger $1129.62 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T04:14:37.271198Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "1000W ASRock SL-1000GW 80+ Gold Full Modular Desktop Power Supply ((White) $92 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T04:14:37.271198Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "L.iNet Dual Band WiFi 7 2.5G (Beryl 7) Portable Mini Travel Router $82 + Free S/H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T04:14:37.271198Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$3.98 Sams Club Cheetos Bag of Bones White Cheddar Flavored Cheese Snacks, 14 oz.",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T04:14:37.271198Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$10.78 Sams Club Ind. Wrapped 32 count Little Debbie Fall Pumpkin Delights Soft Cookies, 1.2 oz.",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T04:14:37.271198Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – BOSTANTEN Women's Wide-Width Suede Clogs - $13.99 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T04:09:02.336186Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "(2 Pack) Gaiatop Rechargeable Hand Warmers, 3-Level Electric Hand Warmer $9",
+  "reason": "Posted at $9.00, but Amazon showed $16.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-01T04:09:02.336186Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "GL.iNet GL-BE3600 (Slate 7) Wi-Fi 7 Travel Router $91 + Free S/H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T04:09:02.336186Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$13.98 Sams Club Frito Lay Mini Treat Size Halloween Snacks Mix Variety Pack, 0.5 oz., 60 pk.",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T04:09:02.336186Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Sovol Filament Dryer SH02 $41, Filament Dryer 4 $83 + Free S/H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T04:09:02.336186Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Baseus Bowie MH1 Adaptive Active Noise Cancelling Headphones (Frosted Gray) $22.56+ Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T04:09:02.336186Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$35.99: Avowed Premium Edition @ Steam (Standard $29.99)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T04:09:02.336186Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "3840WH ECO-WORTHY 12V 314AH LiFePO4 Lithium Battery w/ Bluetooth & More $296 + Free S/H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T04:09:02.336186Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "195W ECO-WORTHY N-Type 18BB Bifacial Monocrystalline Solar Panel $80 + Free S/H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T04:09:02.336186Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$19.99: Squad - Fireteam Edition @ Steam (Base $19.99, Commander $23.99)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T04:09:02.336186Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Monoki Compact Waterproof First Aid Kit - $7.49 w/ Code",
+  "reason": "Community score too low (+0) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T04:03:25.521955Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Walifrey Women's Wide-Leg Yoga Pants w/ Pockets - $5.99–$8.99 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T04:03:25.521955Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – TILUCK 10-Pc Measuring Cups & Spoons Set - $4.79–$5.39 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T04:03:25.521955Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Select Accounts] 2-Pack Harry's Cooling Eye Stick Refills $5.50 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs multi-pack, Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T04:03:25.521955Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "64GB DJI Osmo Nano 4K Wearable Action Camera (Standard Combo) $244 + Free S/H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T04:03:25.521955Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Nomadix 2L Recycled Nylon Fanny Pack (Black or Teal) $10.83 at REI Co-op w/ Free Store Pickup",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T04:03:25.521955Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Herschel Supply Co. Heritage Crossbody Bag (Woodland Camo) $10.83 at REI Co-op w/ Free Store Pickup",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T04:03:25.521955Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – ZONSTVYS 2-in-1 Talking Flash Cards & 7\" LCD Writing Board - $8.99 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T03:57:49.270742Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – 23-Pair Christmas Earrings Set - $10.99 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T03:57:49.270742Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "REI Co-op Ruckpack Waist Pack (Iron Oxide) $10.83 + Free Store Pickup",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T03:57:49.270742Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ROCKBROS 20 Inch Folding Bike Lightweight and Portable $262.5 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T03:57:49.270742Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "40-Ounce Stanley Quencher ProTour Flip Straw Tumbler (Various Colors) $22.50 + Free Shipping on $49+ $55",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T03:52:13.724151Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – 24-Pack Pink Ribbon Breast Cancer Awareness Pins - $3.49 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T03:46:36.374919Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Skirfy Kids Inflatable Refrigerator Halloween Costume - $17.99 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T03:46:36.374919Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "30-Ounce Stanley Quencher H2.0 FlowState Tumbler (Various Colors) $20.00 + Free Shipping on $49+ $50",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T03:46:36.374919Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – arboleaf 8-Electrode Smart Body Composition Scale - $47.59 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T03:40:59.772228Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – JUSTFASHIONNOW Women's Striped 2-Pc Pajama Set - $16.19–$19.79 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T03:40:59.772228Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$31.42* | SONGMICS Closet Wardrobe, Portable Closet, Clothes Storage Organizer at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-01T03:40:59.772228Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – AOUNQ 12-Pack Solar Pumpkin Halloween Lights - $22.99 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T03:40:59.772228Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Charmount 300-Count 10\" Disposable Paper Plates - $24.99 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T03:35:23.117058Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "FIXTECH 47\" Standard 1\" Curl Bar w/ Collars (220-Lb Capacity, Black) $18.98 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T03:35:23.117058Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "BaBylissPro x Tomb45 SilverFX Wireless Charging T-Blade Hair Trimmer $139.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T03:35:23.117058Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Samsonite EcoDiver Large Laptop Backpack (Yellow) $149.99 + Free Shipping at Bloomingdale's (reg. $310)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T03:29:45.996478Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon – GAOKASE 4-Pack Stackable Wire Storage Baskets - $19.29 w/ Code",
   "reason": "Community score too low (+3) to pass without a price check — needs multi-pack, promo code, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-10-01T03:24:10.433156Z",
@@ -77569,14 +77873,6 @@
  },
  {
   "source": "slickdeals",
-  "raw_title": "Amazon – BOSTANTEN Women's Wide-Width Suede Clogs - $13.99 w/ Code",
-  "reason": "Community score too low (+0) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-23T03:33:45.465765Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
   "raw_title": "Amazon – Soothfeel Women's Fleece-Lined Straight-Leg Yoga Pants - $19.94 w/ Code",
   "reason": "Community score too low (+0) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-23T03:33:45.465765Z",
@@ -131974,125 +132270,5 @@
   "rejected_at": "2026-09-17T04:15:07.026976Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "6-Ct Four Candies 4-in-1 Multicolor 0.5mm Gel Ink Pens $5.84 & More w/ S&S + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-17T04:09:43.640286Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "15kPa, 500W DR.PREPARE Mattress Vacuum Cleaner, Corded Bed Vacuum, UV-C & Heat $42.99",
-  "reason": "Posted at $42.99, but Amazon showed $85.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-17T04:09:43.640286Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – GrnOas.E 150-PSI Cordless Tire Inflator - $34.99 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-17T04:04:19.434402Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "HOVERAir X1 PROMAX Standard, 8K Action Flying Camera, Foldable Follow Drone $489.3",
-  "reason": "Posted at $489.30, but Amazon showed $699.00 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-17T04:04:19.434402Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – Osfvn 14\" Artificial Red Berry Stems, 12-Pack - $7.79 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, multi-pack, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-17T03:58:54.506231Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "MSI - NVIDIA GeForce RTX 5060 8G VENTUS 3X OC 8GB GDDR7 PCI Express Gen 5 Graphics Card $375.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T03:58:54.506231Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "2-Pack SZPOWER 4500LM Solar Outdoor Lights w/ Motion Sensors $15 @ Amazon",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-17T03:53:30.710920Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Bacgnyer Backpack Cooler Insulated Leakproof Waterproof 30L Cooler Bag $15.99",
-  "reason": "Posted at $15.99, but Amazon showed $39.98 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-17T03:53:30.710920Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "3 or 4-Piece Joyfulife Canvas Stripe 17.7\" Backpack Set (Various) from $8.49 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-17T03:48:06.567774Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "JEDIA Ultrasonic Retainer Cleaner Machine $14 @ Amazon",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-17T03:48:06.567774Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Prime: 6-Pack Aootek 120-LED Solar Motion Sensor Lights (White or Black) from $15.49 + Free Shipping",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-17T03:42:43.691046Z",
-  "code": "duplicate",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "6-Count Linkind A19 Dimmable LED Light Bulbs (60W Equivalent, 4000K Cool White, 840 Lumens) $8.99 ($1.50 each) + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-17T03:37:18.567013Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Beown 20 Head Massage Gun Deep Tissue, Muscle Massager w/ 3 Modes & 30 Intensity Levels for Legs, Waist, Back, Neck, Portable Percussion Massage Gun for Pain Relief $30.99 $61.98",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T03:37:18.567013Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Outdoor Faucet Covers for Winter, Outside Garden Faucet Socks for Freeze Protection, 2 Pack, Black $4",
-  "reason": "Posted at $4.00, but Amazon showed $7.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-17T03:31:53.831440Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "MERACH Infinity Hoop Arm Trainer $20 @ Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-17T03:26:29.942013Z",
-  "code": "low_score",
-  "public": true
  }
 ]
