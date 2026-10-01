@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "ff0b2bb5fd7b",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20081772-sns-6-84-24-pack-3-oz-nissin-top-ramen-noodle-soup-soy-sauce-at-amazon-28-5-each?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "24-Pack 3-Oz NISSIN Top Ramen Noodle Soup (Soy Sauce) at Amazon (28.5￠ each)",
+  "raw_title": "[SnS] $6.84 | 24-Pack 3-Oz NISSIN Top Ramen Noodle Soup (Soy Sauce) at Amazon (28.5￠ each)",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 684,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-10-01T06:12:02.949762Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "3faf64d2d762",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20080908-happy-belly-k-cups-24-pack-for-5-17?utm_source=rss&utm_content=ht&utm_medium=RSS2",
