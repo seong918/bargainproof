@@ -1,6 +1,150 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$99.98* | Klein Tools MODbox Folding Work Bench at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-01T00:19:41.437428Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "IASEAHK Patio Chair Cushions, 19\" x 19\" x 3\" Outdoor Chair Cushions Set of 4 STARTING at $19.99 AC (Various Colors)",
+  "reason": "Posted at $19.99, but Amazon showed $45.59 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-01T00:19:41.437428Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Milwaukee 8-20 AWG Dipped Grip Wire Stripper & Cutter for $17 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T00:19:41.437428Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$34.99* | SteelSeries Apex 3 TKL Wired Membrane RGB Mechanical Gaming Keyboard (White) at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-01T00:14:04.601530Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "kids' estro 19 shorts (Small) $4.2",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T00:14:04.601530Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "men's adilette aqua slides (Size 12, 13) $6.6",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T00:14:04.601530Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Silver Buffalo Sanrio Hello Kitty Halloween, Ceramic Cookie Jar, Bamboo Lid, $11.99, FS Prime, Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T00:14:04.601530Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Rubber Chicken Slingshot 20-Pack for $7 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T00:08:28.430136Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[NEW] $36.21 | Husqvarna 18 Inch Chainsaw Bar, 3/8\" mini Pitch, .050'' Gauge, 62 Drive Links, Chainsaw Accessories for 350i Battery Chainsaw at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-01T00:02:51.370431Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $7.20 | 3-Pack 1.36-Oz sodastream bubly Drops (Cherry) at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — needs multi-pack, clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T00:02:51.370431Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "LEGO Ideas Wallace & Gromit Building Set 21371 $99.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T00:02:51.370431Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Pokémon #72154 Iconic Trainer Moments Poké Ball $299.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T00:02:51.370431Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "12 Pieces Halloween Dog Costumes, $11.99, FS Prime, Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T00:02:51.370431Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Canon PIXMA TS6520 Wireless All-In-One Color Inkjet Printer $79 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T00:02:51.370431Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "6-Pack 10-Oz Tasty Bite Organic Madras Lentils Ready-to-Eat Entree $12.74 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs multi-pack, Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-09-30T23:57:14.177282Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Fluidmaster Pro Series Toilet Fill Valve for $12 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T23:57:14.177282Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Insignia 25W USB-C Compact Wall Charger $5 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T23:57:14.177282Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Silver Buffalo Pokemon Gastly Evolutions Grid Stainless Steel Tumbler, 30oz $14.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-09-30T23:57:14.177282Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$44.80 | The Transformers UK Compendium Book One (Paperback) at Amazon",
   "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-30T23:46:04.309207Z",
@@ -132284,126 +132428,6 @@
   "raw_title": "10 pc Milwaukee SAWZALL Wood/ Metal Cutting recip Saw Blade + 5 pc TORCH blades, $18.97, FS, Home Depot + more",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T00:22:24.641719Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Wonder Powdered Mini Donuts, Shareable Powdered Donuts, 10 oz Bag $0.99",
-  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
-  "rejected_at": "2026-09-17T00:16:57.067972Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Taylor Digital Timer for $6 + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T00:16:57.067972Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "VIZIO 4.1 Soundbar with Dolby Atmos, Wireless Surround Speakers & Compact Subwoofer - $100.08",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T00:16:57.067972Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Beautiful by Drew Barrymore 10-Cup Food Processor w/ Accessories for $54 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T00:11:30.665225Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Apple 14-Inch MacBook Pro Laptop with M5 Pro Chip, 15-Core CPU, 16-Core GPU, $1741",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T00:11:30.665225Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[Prime] $10.38 | Amazon Collection 14k Gold-Filled Letter Charm Pendant Necklace at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-17T00:06:04.407136Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Conair Lift & Define Detangling Hair Pick Combs 3-Pack for $1 + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T00:06:04.407136Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[NEW, SnS, AC] $31.85 | 4 × 25-Oz Milk-Bone Soft & Chewy Dog Treats (Chicken) ($7.97 each) at Amazon",
-  "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, multi-pack, clip coupon, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-17T00:00:40.361907Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "4-Pack 11-Oz Muscle Milk 26g Protein Shake (Various Flavors) + $3 Walmart Cash $7.98 w/ Free Shipping w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T00:00:40.361907Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Patagonia Black Hole Pack - 25L $77 and 32L $89 $76.83",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T00:00:40.361907Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "YMMV- Pokemon Pokopia Digital $31",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T00:00:40.361907Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "The Game of Life Board Game $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T23:55:13.197495Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Electric 4200PSI Power Washer for $70 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T23:55:13.197495Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Fuggler Vacay Vibes Sir-Splodge-A-Lot for $3 + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T23:55:13.197495Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Bright STW Aero Road Bike (Carbon frame, carbon wheels, + Shimano 105/Ultegra Di2/Dura Ace Di2) $1769",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-16T23:55:13.197495Z",
   "code": "not_checked",
   "public": false
  }
