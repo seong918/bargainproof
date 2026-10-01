@@ -1,5 +1,93 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Nike Women's Pro Mid-Rise 3\" Bike Shorts for $16 + free shipping w/ $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T21:18:26.373044Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Fanatics NHL Sale: Up to 85% off + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T21:18:26.373044Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "YMMV, must pickup, 3 pc IRWIN MAX Assorted x Tri-flute bit Drill Bit, $2.98, Lowe's",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T21:18:26.373044Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Kobalt 228-Piece Household Tool Set w/ Hard Case (Blue) $129.00 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T21:18:26.373044Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS] $12.15* | 32-Pk 0.6-Oz Blue Diamond Almonds (Lightly Salted) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T21:12:52.828927Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Style Selections 12\" x 3\" x 2\" Freestanding Plastic Utensil Drawer Organizer Bin $1.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T21:12:52.828927Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "NEMO Stargaze Evo-X Folding Reclining Camp Chair $99.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T21:12:52.828927Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Nike ACG Vault Dri-FIT Long-Sleeve Top $27.83",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T21:12:52.828927Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Nike Women's NikeCourt Dri-Fit Advantage Tennis Shirt for $11 + free shipping w/ $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T21:12:52.828927Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "9FT Green Witch Moon Halloween Inflatables Outdoor Decorations, with stool and LED lights, $44.99, Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T21:12:52.828927Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Hisense UR8 RGB MiniLED 4K 180Hz HDR Smart Google TV (2026): 55\" $900; 65\" $1200 & More+ Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T21:12:52.828927Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "[SnS, AC] $2.57* | 6-Pack 3-Oz Blue Buffalo Wilderness Kitten Food (Variety Pack- Chicken & Salmon) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
@@ -131862,77 +131950,5 @@
   "rejected_at": "2026-09-17T21:25:34.390973Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Retractable Gap Dust Cleaner w/ 2 Microfiber Cloths for $11 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T21:14:40.981478Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Up to 75% Off Walmart Kids Shoes (Styles from $1.99!)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T21:14:40.981478Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Epiphone Les Paul Modern Pro Electric Guitar (4-Colors) $499 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T21:14:40.981478Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "38% off, DOYLE Professional Wire Stripper and Cutter for $7.99, Harbor Freight",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T21:14:40.981478Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "44% off, Harbor Freight, PITTSBURGH 24 in. General-Purpose Tire Iron for $5,",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T21:14:40.981478Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "New Balance Men's or Women's ABZORB 2000 Shoes for $77 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T21:09:15.453473Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Noah Kahan Stick Season Vinyl LP Record for $28 + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T21:09:15.453473Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Harbor Freight coupon, FRANKLIN 150 lb. Capacity Foldable Hand Truck, $29.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T21:09:15.453473Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Leitz Ergo Adjustable Laptop Stand for 13\"-17\" Laptops (Grey) $4.85 + Free Shipping w/ Prime or on $35+",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-17T21:09:15.453473Z",
-  "code": "duplicate",
-  "public": true
  }
 ]
