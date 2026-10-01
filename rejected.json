@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[NEW] $30.54 | Redragon M913 Impact Elite Wireless Gaming Mouse at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-01T11:48:57.404141Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[NEW] $25.94 | Cuisinart CGL-330 Grilluminate Expanding LED Grill Light at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-01T11:48:57.404141Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "47.2\" Lerliuo Thickened Top Rattan Center Table w/ Open Storage Shelf $44.99 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-01T11:48:57.404141Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Vevor Fireproof Document Box w/ Lock for $22 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T11:48:57.404141Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "20FT Red Spider Car Halloween Inflatables Outdoor Decorations Built-in LEDs, $99.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T11:48:57.404141Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "15FT Red Spider Car Halloween Inflatables Outdoor Decorations Built-in LEDs, $49.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T11:48:57.404141Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Terrosor T5 14\" 560W Motor 48V 10.4AH Folding Electric Bicycle 20mph 25-32 mile Range$163 + Free S/H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T11:48:57.404141Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$99.99* | ARRMA RC 1/18 Granite GROM MEGA 380 Brushed 4X4 RTR Monster Truck w/ Battery & Charger at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-10-01T11:48:57.404141Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$14* | 2-Pk 1.5m Beats USB-A to USB-C or USB-C Charging Cables (Black) at Amazon",
   "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-10-01T11:43:27.575410Z",
@@ -132044,54 +132108,6 @@
   "raw_title": "Birkenstock Women's Papillio Boston Chunky Platform Clogs (Beige) $61.98 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T11:53:58.036588Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "WIHOLL Crewneck Sweatshirt Loose Fit Pullover $14.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T11:48:35.828839Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Sampeel Wide Leg Lounge Pants with Drawstring and Pockets $12.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T11:48:35.828839Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Crewneck Long Sleeve Sweatshirt $11.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T11:48:35.828839Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Ekouaer Womens Long Sleeve Lounge Set $11.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T11:48:35.828839Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Macy's Best of the Season Sectional Sofa Deals: Up to 78% off + extra 10% off + free delivery w/ $999",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T11:48:35.828839Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Open Box: LG 65” Class UA77 Series LED AI 4K UHD Smart webOS TV - $186.99 @ Best Buy",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T11:48:35.828839Z",
   "code": "not_checked",
   "public": false
  }
