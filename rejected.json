@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS, AC] $52.05* | 4 × 63-Count Tide Hygienic Clean Heavy 10x Duty Power PODS (Original) ($13.01 each) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T09:22:02.771193Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Rubie's womens Addams Family Animated Movie Morticia Adult Sized Costumes, As Shown, Small US $30.7",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-01T09:22:02.771193Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "YMMV Amazon Business only? - DESLOC C100 Keyless Entry Door Lock with Visual Display $16.99 with coupon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-01T09:22:02.771193Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Tuorl Qi2.2 25W MagSafe Wireless Car Charger Mount $19.99",
+  "reason": "Posted at $19.99, but Amazon showed $39.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-01T09:22:02.771193Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Refurb Apple AirPods Max Headphones for $315 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T09:22:02.771193Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$100: Newegg $100 Gift Card (Email Delivery) + $15.00 Promotional Gift Card",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T09:22:02.771193Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Litheli 20V Cordless Paint Sprayer w/ Battery, HVLP, $38.99, FS Prime, Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T09:22:02.771193Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Rubies Victorian Vampire Costume for Kids Girl's Small $25.47",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-10-01T09:16:29.391600Z",
@@ -132108,14 +132164,6 @@
   "raw_title": "Kohl's Sandals Deals: 40% off + free shipping w/ $49",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T09:23:01.973692Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "George Men's 100% Cotton Short Sleeve Slub Pocket Tee (Various, Sizes X-Small - Medium) from $2.21 + Free S&H w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T09:17:37.648670Z",
   "code": "not_checked",
   "public": false
  }
