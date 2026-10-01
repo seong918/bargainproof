@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Changenow 3-Splint Carpal Tunnel Wrist Brace (Black) $5.49 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T02:44:58.899608Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$20.99: Kinetic Sand Folding Sandbox Set, Moldable Play Sand Sensory Toys (Ages 3+)",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-01T02:44:58.899608Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men Trefoil Essentials Crew Sweatshirt $16 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T02:44:58.899608Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Novilla California King 3 Inch Cooling Gel Memory Foam Mattress Topper $56.09",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T02:44:58.899608Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Astercook Knife Set, 15-Piece Kitchen Knives Set with Built-in Sharpener, German Stainless Steel Knife Block Sets with Anti-Rust Coating & PP Ergonomic Handle $35.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-10-01T02:39:23.342715Z",
@@ -132100,30 +132132,6 @@
   "raw_title": "Sony WH-1000XM6 Noise Cancelling Headphones (Sand Pink, Refurbished) - $200 at Secondipity via eBay",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T02:48:38.839330Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Multi Buy Discount: 2 x 18-oz Bubba HERO Vacuum-Insulated Stainless Steel Travel Mug w/ Handle (Gunmetal) $22.99 ($11.50 Each) + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, multi-pack, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-17T02:43:12.891490Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Shapewear Tummy Control Shorts for Women, High Waisted Shapewear Shorts $7.99",
-  "reason": "Posted at $7.99, but Amazon showed $17.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-17T02:43:12.891490Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "2-Pack ECO-WORTHY 200W Flexible HJT Solar Panel (18V, ETFE, 18BB, 25% High Efficiency) $192 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T02:43:12.891490Z",
   "code": "not_checked",
   "public": false
  }
