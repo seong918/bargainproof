@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "7502749134c2",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20084136-amazon-jogrytece-2-pack-5-ft-4-in-2-multi-charging-cables-7-41-w-code?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "Amazon – Jogrytece 2-Pack 5-Ft 4-in-2 Multi Charging Cables - w/ Code",
+  "raw_title": "Amazon – Jogrytece 2-Pack 5-Ft 4-in-2 Multi Charging Cables - $7.41 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0F8N92BVJ",
+  "deal_total_cents": 741,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 1399,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 1399,
+  "amazon_url": "https://www.amazon.com/dp/B0F8N92BVJ",
+  "amazon_checked_at": "2026-10-01T20:34:23.110344Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0F8N92BVJ",
+  "image_url": null,
+  "published_at": "2026-10-01T20:34:16.172908Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "09d0e6b9ba23",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20084550-typhur-sync-gold-lite-wireless-meat-thermometer-black-25-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",

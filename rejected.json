@@ -1,6 +1,246 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$213.72 | CITIZEN Men's Eco-Drive Stormtrooper 44mm Stainless Stee (AW1659-00W) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-01T20:34:16.172908Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "(2 Pack) Gaiatop Hand Warmers Rechargeable, Cute Cat Paw Design $8.99",
+  "reason": "Posted at $8.99, but Amazon showed $14.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-01T20:34:16.172908Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Tea Cup Glass Coffee Enamels Mug $4.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T20:34:16.172908Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Fanatics College Apparel & Gear Sale: Up to 85% off + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T20:34:16.172908Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Paisley & Gray Men's Modern Fit Windowpane Suit for $60 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T20:34:16.172908Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Upgrade Your Sleep: Coop Sleep Goods Cooling Adjustable Pillow from $48 Shipped (Reg. $109)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T20:34:16.172908Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "4 Film Favorites: Kevin Costner (DVD) $10.24 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T20:28:42.065819Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "(2 Pack) Gaiatop 3 Heat Levels Rechargeable Hand Warmers, Magnetic, Avocado $9.89",
+  "reason": "Posted at $9.89, but Amazon showed $14.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-01T20:28:42.065819Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Colgate Optic White Advanced Hydrogen Peroxide Icy Fresh Flavor Toothpaste (3.2oz, 3-Pack) $6.34",
+  "reason": "Posted at $6.34, but Amazon showed $6.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-01T20:28:42.065819Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "The Swapper",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T20:28:42.065819Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Dropsy",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T20:28:42.065819Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Campbell’s Chunky Healthy Request Chicken Noodle Soup 16.1 oz Can 8-Pack $12.11",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T20:28:42.065819Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Bruno Marc Men's Slip-On Casual Dress Sneakers $24.69",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T20:28:42.065819Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "DEWALT 20V MAX XR POWERPACK 4Ah Lithium-Ion Batteries 2-Pack $129.90",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T20:28:42.065819Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Joseph Abboud Men's Straight Fit Comfort Stretch Jeans for $15 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T20:28:42.065819Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas Men's Ultimate365 Elevated Pullover Golf Hoodie (Tangerine) $18.97 + Free Shipping on $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T20:28:42.065819Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Blink Outdoor 4 Floodlight Camera -Wireless smart security camera, 700 lumens, two-year battery life, enhanced motion detection, Sync Module Core $40",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T20:28:42.065819Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Arc'teryx Women's Squamish Hoody Jacket (Shincha Yellow) $99.83 & More + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T20:28:42.065819Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $71.14 | Coleman Heritage Big & Tall 10°F Flannel Sleeping Bag at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T20:23:06.680059Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "FLYRUIT Apple Find My Bluetooth Tracker Tags 4-Count $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T20:23:06.680059Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "sodastream bubly Drops 3-Pack 1.36-Oz (Cherry) $7.20",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T20:23:06.680059Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "IASEAHK Patio Chair Cushions 19\" x 19\" x 3\" Set of 4 $19.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T20:23:06.680059Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Christmas 5’x7′ Washable Area Rug Just $45 on SamsClub.com (3 Cute Styles!)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T20:23:06.680059Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "KA-15T Laminate Mahogany Tenor Ukulele $70",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T20:23:06.680059Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "HP Victus (Refurb): 15.6\" FHD IPS 144Hz, i5-13420H, RTX 4050, 16GB DDR5, 512GB SSD $750",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T20:23:06.680059Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$19.99: Tempest Rising @ Steam (Gold $35.19)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T20:23:06.680059Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$59.95 | Hamilton Beach 3-in-1 Electric Indoor Grill + Griddle w/ Reversible Nonstick Plates & 2 Adjustable Cooking Zones at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-01T20:17:31.173298Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Fanttik Y10 Pro 1\" Cordless Electric Pruning Shears w/ Brushless Motor $65.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T20:17:31.173298Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Fanttik O11 Pro 3-3/8\" Brushless Cordless Mini Circular Saw $85.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T20:17:31.173298Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "MERACH Adjustable Dumbbells 8-22.5lbs $60.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T20:17:31.173298Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[NEW] $29.95 | Tramontina Professional 12-Inch Ceramic Non Stick Large Frying Pan at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-10-01T20:11:58.262252Z",
@@ -131524,134 +131764,6 @@
   "raw_title": "Spruce & Spring Galatea Solid Wood Side Chair for $154 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T20:36:47.943193Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS] $7.69 | 6-Count Amazon Basics A19 LED Light Bulbs, 100W Equivalent, 15W, E26 Standard Base, Daylight White 5000K, Non-Dimmable at Amazon",
-  "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-17T20:31:22.691593Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Gorilla Grip 4-Sided Stainless Steel Cheese Grater for $13 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T20:31:22.691593Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Kool-Aid Ghoul-Aid 10-Pack Just $2 Shipped on Amazon (Glow-in-the-Dark Pouches!)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T20:31:22.691593Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "15 count 11oz $11.97 PREMIER PROTEIN Shakes at SAMS CLUB (all flavors at link) pick up or FS at $50 for PLUS",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T20:31:22.691593Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "LEGO Creator 3-in-1 Exotic Parrot Building Set (31136) $15.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-17T20:25:57.941031Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Active Pet Laundry Detergent 2-lb. Container for $15 via Sub & Save + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T20:25:57.941031Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Snyder's of Hanover 11.25oz Cheddar Cheese Flavored Pretzel $2.72",
-  "reason": "Posted at $2.72, but Amazon showed $2.90 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-17T20:20:31.971634Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Amazon Basics Window Squeegee with Handle $5.58",
-  "reason": "Posted at $5.58, but Amazon showed $5.87 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-17T20:20:31.971634Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Vevor Commercial Under Counter & Freestanding Ice Maker Machine for $268 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T20:20:31.971634Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Gorilla Grip Garlic Peeler & Press Set for $14 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T20:20:31.971634Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Craftsman V20 20V Variable Speed Belt Sander (Tool Only) for $49 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T20:20:31.971634Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Squier Sonic Stratocaster Limited-Edition Electric Guitar for $175 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T20:20:31.971634Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "NEW Lowe’s Autumn Scent Candle Just $12.98 Shipped for Rewards Members (Early Access)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T20:20:31.971634Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Greenworks 24-volt 22-in Battery Hedge Trimmer- HT24B04 (tool only) $59.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T20:20:31.971634Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "20L Lovevook Women's Backpack w/ 15.6\" Laptop Compartment (Beige and Black) $13.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-17T20:20:31.971634Z",
-  "code": "duplicate",
-  "public": true
- },
- {
-  "source": "hip2save",
-  "raw_title": "Stretchy Skeleton Toys 36-Count Only $7.49 on Amazon (Fun Trick-or-Treat Item)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T20:15:06.265572Z",
   "code": "not_checked",
   "public": false
  }
