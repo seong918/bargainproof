@@ -1,5 +1,13 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$16.49: Avatar: Frontiers of Pandora @ Steam (From The Ashes Edition $21.99)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T22:52:36.749143Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "The North Face Terra Lumbar 1L Fanny Pack for $18 + free shipping",
   "reason": "Not evaluated",
@@ -131797,22 +131805,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T22:57:45.778532Z",
   "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Coleman 4-Person Cabin Camping Tent w/ Instant Setup for $133 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T22:52:20.400740Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Tommy Hilfiger Men's Modern-Fit Linen-Blend Windowpane Sport Coat for $50 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T22:52:20.400740Z",
-  "code": "not_checked",
   "public": false
  }
 ]
