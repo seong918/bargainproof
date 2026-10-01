@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Cole Haan Men's 2.Zerogrand Lightweight Stitchlite Oxford (Black/Black, Black/Ivory) $54.97 + Free Shipping",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-01T01:15:34.830001Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$6ac AMAZON Pumpkin Carving Kit Tools Halloween, TRAALL Professional Heavy Duty Carving Set, Stainless Steel Sculpting Tool Carving Knife for Halloween Decoration",
+  "reason": "Posted at $6.00, but Amazon showed $10.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-01T01:15:34.830001Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Alfani Men's 8\" Tech Shorts for $8 + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T01:15:34.830001Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Jet Puffed Halloween Fall Candy Corn Marshmallow, 8oz - $1.39 @ Target",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T01:15:34.830001Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$13.62 or less PRIME ONLY S&S Amazon Basics Maxi Strength Mucus DM (generic MUCINEX), Expectorant and Cough Suppressant Extended-Release , 42 Count (",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-10-01T01:09:59.601717Z",
@@ -132254,21 +132286,5 @@
   "rejected_at": "2026-09-17T01:16:37.078734Z",
   "code": "low_score",
   "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Peanuts Flying Ace Remote Control Toy for $6 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T01:11:11.668169Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$59.50 FS Get $10 KOHLS CASH Men's Nike Court Vision Low Sneakers sizes 9.5-13 (exc 12.5)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T01:11:11.668169Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
