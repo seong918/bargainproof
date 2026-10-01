@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "ec23ffcd3ac0",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20082174-sns-ac-18-06-6-count-5-oz-cholula-hot-sauce-gift-set-variety-pack-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "6-Count 5-Oz Cholula Hot Sauce Gift Set (Variety Pack)",
+  "raw_title": "[SnS, AC] $18.06* | 6-Count 5-Oz Cholula Hot Sauce Gift Set (Variety Pack) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1806,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-10-01T13:27:58.657041Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "531cfd474ecb",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20082810-9-99-11-22-63-dvd-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
