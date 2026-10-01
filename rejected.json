@@ -1,5 +1,85 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "The North Face Terra Lumbar 1L Fanny Pack for $18 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T22:47:03.622484Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Samsung M70H Series 65\" 4K HDR Mini LED UHD Smart TV for $430 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T22:47:03.622484Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "12-Pack Uni-Ball One 0.7mm Medium Point Retractable Gel Pens, Black $9.98 ($0.83 Each) + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-10-01T22:47:03.622484Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Magnetic Storage Bins 2-Pack $17.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T22:41:29.249711Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "DeWalt 12\" 15A Double-Bevel Sliding Compound Miter Saw for $399 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T22:41:29.249711Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "REI Co-op Ruckpack Waist Pack for $11 + free shipping w/ $60",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T22:41:29.249711Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "1500W Pelonis Oscillating Ceramic Space Heater w/ Programmable Thermostat (Grey) $19.78 + Free Shipping w/ Prime or $6 Fee per Order",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T22:41:29.249711Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Blue Bloods: The Twelfth Season(DVD) $5.94 + Free S&H w/ Prime or $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-01T22:35:56.136835Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$11.04 | Star Trek: Discovery - Seasons 1-3 (Blu-ray) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-01T22:35:56.136835Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ThinkRider XXPRO Direct Drive Smart Bike Trainer 2500W 25% Gradient Zwift and MyWhoosh Compatible $268 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T22:35:56.136835Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Five Nights at Freddy's 2 (Blu-ray + Digital) $11.99 + Free S&H w/ Prime or $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
@@ -131732,62 +131812,6 @@
   "raw_title": "Tommy Hilfiger Men's Modern-Fit Linen-Blend Windowpane Sport Coat for $50 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-17T22:52:20.400740Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$2.99 | Wilmington's Lie: The Murderous Coup of 1898 and the Rise of White Supremacy (eBook) by David Zucchino",
-  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-17T22:36:01.518004Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "KAMRUI E3B Mini PC: Ryzen 7 7730U, 16GB RAM, 1TB SSD $446.4",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-17T22:36:01.518004Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Amazon Essentials Men's Lightweight Packable Puffer Vest for $9.99 w/ Prime + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T22:36:01.518004Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Adidas women's SAMBA Shoes (Night Indigo or Semi Screaming Green) - $43.20 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T22:36:01.518004Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Mystery Ranch Bridger 45 L Backpack ($150 + Free Shipping)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T22:36:01.518004Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Dove Deodorant Deals at Target: $3 off w/ Target Circle + free shipping w/ $35",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T22:30:36.740754Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Adidas kids SAMBAE Shoes Sizes 4.5-6 - $24.60 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T22:30:36.740754Z",
   "code": "not_checked",
   "public": false
  }
