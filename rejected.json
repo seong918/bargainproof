@@ -1,5 +1,37 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Refurbished Ray-Ban Meta Gen 1 Glasses for From $179 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T07:47:04.561893Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Hot Wheels Superstar Speeders Hi-Tech Buzz Lightyear's Star Command Adventure Track Set $15 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T07:47:04.561893Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "283-Pc LEGO Creator 3 in 1 Fierce Dinosaur Building Toy (31379) $15.95 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T07:47:04.561893Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "124-Pc LEGO Creator 3 in 1 Turtle w/ a Water Lily Flower (31377) $8.02 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-01T07:47:04.561893Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Haokande 3-in-1 6' Long Multi Charging Cable (2-Pack) $5.39",
   "reason": "Posted at $5.39, but Amazon showed $8.99 when we checked — the deal is probably over",
@@ -89832,14 +89864,6 @@
   "public": true
  },
  {
-  "source": "dealnews",
-  "raw_title": "Refurbished Ray-Ban Meta Gen 1 Glasses for From $179 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-22T04:32:48.692731Z",
-  "code": "not_checked",
-  "public": false
- },
- {
   "source": "slickdeals",
   "raw_title": "Vera Bradley Women's Outlet Harry Potter Cotton Large Hipster Crossbody Bag Honeydukes $27.3",
   "reason": "Not evaluated",
@@ -131886,45 +131910,5 @@
   "rejected_at": "2026-09-17T07:51:34.095778Z",
   "code": "low_score",
   "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Vollyc 150PSI 4-Mode Portable Air Compressor Car Tire Inflator $10.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T07:46:10.611944Z",
-  "code": "lookup_failed",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Cooncxen 60W USB C Super Fast Charger Block (2-Pack) with 10' Cable Cord $13.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T07:46:10.611944Z",
-  "code": "lookup_failed",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Trakiom Inflatable Ultralight Camping Pillow with Carabiner $11.19",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T07:46:10.611944Z",
-  "code": "lookup_failed",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Refurb Amazon Kindle Scribe w/ Premium Pen for from $150 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T07:46:10.611944Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "GreenPan Electric Non-Dairy Milk Maker and Blender (2 Colors) $47.49 Shipped",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-17T07:46:10.611944Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
