@@ -1,6 +1,86 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "3-Pack 6-Ounce Colgate Maximum Strength Whitening Toothpaste (Spearmint) $8.97 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs multi-pack, Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-02T15:52:25.465100Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "YOLEO Adjustable Weight Bench for Home Gym, ASTM-Certified 827LBS, 98% Pre-Assembled, Foldable Gym Bench with 84 Positions Incline Decline Flat, Wider Seat $59.39",
+  "reason": "Posted at $59.39, but Amazon showed $89.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-02T15:52:25.465100Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Waitbird Multi-Purpose Steam Cleaner 4.5Bar 300°F $100.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T15:52:25.465100Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Nongshim Vegan Shin Green Ramyun 16-Pack $21.12",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T15:52:25.465100Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Samsonite EcoDiver 17.3\" Laptop Backpack $115.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T15:52:25.465100Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "DeWalt Retractable Utility Knife for $10 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T15:52:25.465100Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Champop Champagne Bottle Opener for $6 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T15:52:25.465100Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Men's Waffle Knit Hooded Henley for 2 for $12 + $18 shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T15:52:25.465100Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$72.99 | 27\" Amazon Basics 165Hz 1080p 1ms IPS FreeSync Gaming Monitor at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T15:52:25.465100Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "21-Speed 27.5\" Electric Mountain Bike $280",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T15:52:25.465100Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Gyroor H40 Kids Electric Scooter 180W 10MPH LED Lights Ages 6-12 Silvery $90",
   "reason": "Posted at $90.00, but Amazon showed $159.99 when we checked — the deal is probably over",
   "rejected_at": "2026-10-02T15:46:51.857523Z",
@@ -129900,134 +129980,6 @@
   "raw_title": "Nike Youth Boxy 13L Backpack (Doll/University Red/White) $17.61 + Free Shipping on $49+",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-18T15:52:42.557921Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Vans Women's Ashwood Hi Decon High Top Shoe $19.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T15:47:19.504998Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Dockers Men's McCoy Casual Round-Toe Sneakers $18.19",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T15:47:19.504998Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Floopi Men’s Microsuede Moccasin Slipper with Bow $18.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T15:47:19.504998Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "SWISSGEAR Energie Hardside Medium 24-inch Checked Spinner Suitcase $54.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T15:47:19.504998Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Sorel Women's ONA Ave Slip-On Sneaker $24.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T15:47:19.504998Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "32 Degrees Men's Microlux Heavy Puffer Jacket $19.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T15:47:19.504998Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "32 Degrees Men's Luxe Flex Sweatpant $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T15:47:19.504998Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "ASICS Women's NOVABLAST 5 Running Shoes Bluebell/Lilac Hint $91.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T15:47:19.504998Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "EcoLock Rock & Mulch Glue for Landscaping 1-Gallon for $18 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T15:47:19.504998Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "FYTOO Eyewear Sale: Enjoy 20% off for a limited time + free shipping w/ $69",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T15:47:19.504998Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Viral Halloween Candy Bowl Blow Molds Are Back & Just $29.97 at Walmart",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T15:47:19.504998Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Adidas Men's Essentials 3-Stripes Fleece Hoodie (Pure Ruby/Black) $15.60 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T15:47:19.504998Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "20 x 47 in Tractor Supply Vinyl Anti-Fatigue Mat, $10, Tractor Supply",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T15:47:19.504998Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Blackstone Limited Edition 28 in. Patriotic Griddle with Spatulas and Cover, $249.99, free pickup, Tractor Supply Company",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T15:47:19.504998Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Blackstone 2472 36 in. Omnivore Griddle, $249.99, Tractor Supply Company",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T15:47:19.504998Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Fab Totes 21.65\"x13.78\"x12.4\" Clothes Storage Bins with Lids (6-Pack) $11.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T15:47:19.504998Z",
   "code": "not_checked",
   "public": false
  }
