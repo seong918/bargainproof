@@ -1,6 +1,22 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "17 Stories Livia Queen Platform Bed Frame w/ Charging Station & LED Light for $254 + free 2-day shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T22:10:07.734603Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Kate Kasin Women's Short Sleeve V-Neck Collared Knit Polo Sweater (S-XXL, Various Colors) from $9.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-10-02T22:10:07.734603Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "dealnews",
   "raw_title": "Inbox Zero Ergonomic Mesh Commercial Use Office Task Chair for $48 + free 1-day shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-10-02T22:04:35.013428Z",
@@ -129854,13 +129870,5 @@
   "rejected_at": "2026-09-18T22:10:19.421214Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "NORACORA Women's V-Neck Short Sleeve Top – $5.49 $5.5",
-  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
-  "rejected_at": "2026-09-18T22:04:57.251242Z",
-  "code": "low_score",
-  "public": true
  }
 ]
