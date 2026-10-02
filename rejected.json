@@ -1,6 +1,142 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[SnS, AC] $8.83 | 12-Oz Intelligentsia Light Roast Ground Coffee (House Blend) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-02T19:34:24.361730Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Core Power 14oz Chocolate Elite High Protein Shake (12-Pack) $33.58",
+  "reason": "Posted at $33.58, but Amazon showed $47.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-02T19:34:24.361730Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "DEWALT TOUGH GRIP Screwdriver Bit Set 120-Piece $29.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T19:34:24.361730Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "DEWALT 20-Volt Lithium-ion Battery Charger $149.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T19:34:24.361730Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Joyfy 7-Foot Pumpkin w/ Witch's Cat Halloween Inflatable for $40 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T19:34:24.361730Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Craftsman V20 20V 2-Tool Power Tool Combo Kit w/ Battery & Charger for $79 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T19:34:24.361730Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Flamingo Disposable Dermaplane Razors, 10-count $14.99 Free Shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T19:34:24.361730Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Mainstays 3-Piece Waffle Comforter Set (Full/Queen or King, Various Colors) $20 + Free S&H w/ Walmart+ or $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T19:34:24.361730Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "MANSCAPED The Chairman Pro Essentials Kit, Electric Foil Face Shaver $99.99 free shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T19:34:24.361730Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "10 Pcs Nilight 6.3\" Amber Rectangle Side Marker Light, White Lens $14.96 + Free S&H w/ Prime or $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-02T19:28:49.395170Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Vancasso 6.5\" Polished Ceramic Butter Dish with Lid $13.49",
+  "reason": "Posted at $13.49, but Amazon showed $22.49 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-02T19:28:49.395170Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Samsung 65\" 4K 165Hz Micro RGB R95H Vision AI Smart TV (EDU/EPP Deal) $1,890.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T19:28:49.395170Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "DEWALT 20V MAX XR Brushless Cordless 1/2 in. Drill/Driver Kit with 6.0 Ah FLEXVOLT Battery $199.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T19:28:49.395170Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Craftsman V20 3Ah Advanced Battery Starter Kit for $129 w/ free tool worth up to $199 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T19:28:49.395170Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Open-Box Keystone 26\" Wall Sleeve for Through-the-Wall Air Conditioners $24",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T19:28:49.395170Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Dyson HushJet Compact Pure Control Air Purifier $279.99 + $9.99 shipping Costco.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T19:28:49.395170Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "OLIGHT BatonUltra EDC Flashlight Rechargeable, Bright Pocket Flash Light $79.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T19:28:49.395170Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$509.31 | Square Register (2nd Generation) - Powered by POS + 10% Back w/ Prime Visa Card at Amazon",
   "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-10-02T19:23:16.742423Z",
@@ -45026,14 +45162,6 @@
  {
   "source": "dealnews",
   "raw_title": "Victoria's Secret Big Fall Sale: Up to 85% off + extra 25% off in cart + free shipping w/ $50",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-28T19:39:42.112312Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Craftsman V20 20V 2-Tool Power Tool Combo Kit w/ Battery & Charger for $79 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-28T19:39:42.112312Z",
   "code": "not_checked",
@@ -129564,54 +129692,6 @@
   "raw_title": "Google Pixel Watch 4 $230",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-18T19:44:53.084864Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$219.99* | Makita XJP03Z 18V LXT Lithium-Ion Cordless Plate Joiner at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
-  "rejected_at": "2026-09-18T19:34:02.711492Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS, AC] $37.30 | 5 × 2-Pack 5.5-Oz Tom's of Maine Fluoride-Free Antiplaque & Whitening Natural Toothpaste (Peppermint) ($7.46 each) at Amazon ($3.73 each)",
-  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, multi-pack, clip coupon, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-18T19:34:02.711492Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$4.50 ac AMAZON Apple Watch Charger 3 in 1 Multi Charging Cable 4FT Apple MFi Magnetic",
-  "reason": "Posted at $4.50, but Amazon showed $8.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-18T19:34:02.711492Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Fusion Select Halloween Trick or Treat Candy Lollipops 30-Count $3.79",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T19:28:36.652540Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "StepTastic High Arch Support Inserts for Men & Women 220+ LBS $12.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T19:28:36.652540Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "MeatStick WiFi Travel Pack $19.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T19:28:36.652540Z",
   "code": "not_checked",
   "public": false
  }
