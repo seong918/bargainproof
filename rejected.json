@@ -1,6 +1,22 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "Random Pokemon Japanese Booster 4-Pack for $13 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T11:31:26.840972Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Cuisinart Griddler 5-in-1 Indoor Grill, Griddle & Panini Press + $10 Kohl's Cash $71.99 + Free Shipping $99.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T11:31:26.840972Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
   "raw_title": "Open-box Unlocked Google Pixel 10a 128GB Phone for $380 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-10-02T11:26:00.924227Z",
@@ -131390,29 +131406,5 @@
   "rejected_at": "2026-09-18T11:36:10.785504Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "The North Face Jester Everyday Laptop Backpack for $50 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T11:31:02.378766Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Levi's Flash Sale for Up to 70% off + extra $50 to $100 off over $150 + free shipping w/ $75",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T11:31:02.378766Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "3-Piece Bedsure Queen Size Reversible Floral Comforter Set (Sage Green) $17.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-18T11:31:02.378766Z",
-  "code": "duplicate",
-  "public": true
  }
 ]
