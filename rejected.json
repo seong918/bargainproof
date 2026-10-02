@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Prime Members: 2-Cam Arlo Essential 2K Outdoor Pan Tilt Zoom Security Cameras $59 + Free Shipping",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-02T06:10:14.402125Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$30.42 S&S 25% off Q (YMMV) Viva Signature Cloth Paper Towels, 16 Family Triple, 141 Sheets per Roll = 50 Regular",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-02T06:10:14.402125Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Tom & Jerry: The Complete Cinemascope Cartoon Collection (Blu Ray) $19.47 Amazon.com",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-10-02T05:53:36.500090Z",
@@ -131572,30 +131588,6 @@
   "raw_title": "$9.99 sale for Central Intelligence: The Agency - Season 1",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-18T06:10:33.294621Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[Prime] Spin Master DC Comics Teen Titans Go! Kitchen Chaos Playset w/ Beast Boy & Cyborg Figures $4.99 + Free Shipping",
-  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-18T05:59:42.538906Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "JOCMIC Girl's Athletic Sleeveless Tennis Dress w/ Shorts $11.49 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-18T05:59:42.538906Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas men Ultraboost 1.0 Shoes (Core Black / Core Black / Beam Green), size 7, 7.5, and 8 only - $43.20 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T05:59:42.538906Z",
   "code": "not_checked",
   "public": false
  }

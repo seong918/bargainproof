@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "76e0f902166d",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20086683-dell-24-se2426h-1920x1080-fhd-ips-144hz-monitor-89-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "Dell 24\" SE2426H 1920x1080 FHD IPS 144Hz Monitor",
+  "raw_title": "Dell 24\" SE2426H 1920x1080 FHD IPS 144Hz Monitor $89.99 + Free Shipping",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 8999,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-10-02T06:10:14.402125Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "1923d7db2b5c",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20085354-last-shift-blu-ray-9-36-amazon-com?utm_source=rss&utm_content=ht&utm_medium=RSS2",
