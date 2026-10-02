@@ -1,5 +1,125 @@
 [
  {
+  "source": "dealcatcher",
+  "raw_title": "Brooks Women’s Trace 4 Running Shoes $84.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T16:31:30.645891Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Samsung M70H Series 75\" 4K Tizen Smart TV (EDU/EPP Deal) $483.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T16:31:30.645891Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Walifrey Women's Capri Joggers w/ Pockets - $5.49 w/ Code",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T16:31:30.645891Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Anti Slip Rubber Grip Tape - $6.99 AC",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T16:31:30.645891Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "AstroAI 27\" 2-in-1 Scratch-Free Snow Brush & Ice Scraper (2-Pack) $11.39",
+  "reason": "Posted at $11.39, but Amazon showed $21.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-02T16:25:54.233471Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Fanttik Z10 Pro 6\" Cordless Hedge Trimmer $25.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T16:25:54.233471Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Merrell Men's Agility Peak 5 Trek SE Sneakers for $70 + free shipping w/ $100",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T16:25:54.233471Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Starfield Premium Edition (Steam Key) $36.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T16:25:54.233471Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Screaming Aztec Death Whistle $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T16:25:54.233471Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Grand patio 5-Piece Outdoor Furniture Set, 4 Seats Wicker Sofa Conversation Set with Thick Cushions and Coffee Table, for Backyard, Balcony, Garden (Beige) $539.99",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-02T16:20:19.682142Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – LAMIT 2-Panel Velvet Room-Darkening Curtains - $11.99–$26.49",
+  "reason": "Posted at $11.99, but Amazon showed $23.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-02T16:20:19.682142Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "OHAYO Portable Wireless Outdoor Bluetooth Speaker 24W IPX6 Waterproof $11.24",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T16:20:19.682142Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Rattan TV Stand $79.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T16:20:19.682142Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Teenage Mutant Ninja Turtles Splintered Fate: Platinum Edition $14.09, Gold Edition $12 (Nintendo Switch Digital Download)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T16:20:19.682142Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "NEW! La Victoria Chipolte or Jalapeno Shelf Stable Sauces $3, get $1.50 Walmart Cash, LIMIT 5!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T16:20:19.682142Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "AstroAI H2 Pro Auto Shut-Off Tire Inflator Portable Air Compressor $22.49",
   "reason": "Posted at $22.49, but Amazon showed $44.99 when we checked — the deal is probably over",
@@ -129564,238 +129684,6 @@
   "raw_title": "Capri Sun 10-Pack Just $2 Shipped on Amazon (Great for Lunch Boxes)",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-18T16:35:42.431445Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "KUGUAOK Polarized Aviator Sunglasses for Women Sporty Style Running Sun Glasses $10.78",
-  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
-  "rejected_at": "2026-09-18T16:30:18.678849Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Snyder's of Hanover Mini Pretzels & Pretzel Sticks Variety Pack 20-Count $7.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T16:30:18.678849Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Cionum 2-Pack 60W USB-C Chargers w/ 6' Cables $13.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T16:30:18.678849Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Victrix Pro FS-12 Fight Stick Arcade Controller $200.20",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T16:30:18.678849Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$250 Tractor Supply PICK UP ONLY Blackstone 2472 36 in. Omnivore Griddle",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T16:30:18.678849Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "MERACH Stair Stepper Machine $60 + Free S/H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T16:30:18.678849Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "VAESIDA Hat Organizer for Baseball Caps, 4 Pack Hat Storage Box, Holds up to 56 Caps $22.79",
-  "reason": "Posted at $22.79, but Amazon showed $37.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-18T16:24:58.360732Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "VOLLYC Cordless Electric Spin Scrubber, IPX8 Waterproof, 7 Brush Heads $34.49",
-  "reason": "Posted at $34.49, but Amazon showed $49.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-18T16:24:58.360732Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon - 2-Pack Kids Swim Goggles with Nose Cover Anti-Shattered No-Leak 3-15 - $8.79",
-  "reason": "Posted at $8.79, but Amazon showed $19.79 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-18T16:24:58.360732Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "SKG H7 Ultra Deep Tissue Kneading Cordless Shiatsu Neck Massager $38.99",
-  "reason": "Posted at $38.99, but Amazon showed $44.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-18T16:24:58.360732Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Tntor 18\" BBQ Bristle Free Grill Brush with Scraper $8.66",
-  "reason": "Posted at $8.66, but Amazon showed $16.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-18T16:24:58.360732Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Maamgic Men's 2-in-1 7\" Quick Dry Zipper Pockets Swim Trunks $11.99",
-  "reason": "Posted at $11.99, but Amazon showed $25.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-18T16:24:58.360732Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Nintendo Sound Clock: Alarmo $76.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T16:24:58.360732Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Amiibos Sale $13.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T16:24:58.360732Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "RT Direct Flights San Francisco (SFO) to Honolulu (HNL) on Alaska Airlines $185.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T16:24:58.360732Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Metallica: Kill 'Em All 2016 Remastered Album (Audio CD w/ AutoRip MP3) $5.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T16:24:58.360732Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Flip 7: Liquid Death Edition $7.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T16:24:58.360732Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "New Balance Men's 608 V5 Casual Comfort Cross Trainer, White/Navy $59.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T16:24:58.360732Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Heymiss Women's 3/4-Sleeve V-Neck Tunic Top $5.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T16:24:58.360732Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Lee Men's Spencer Sneaker Boot $30.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T16:24:58.360732Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "X-Men by Jed MacKay Vol. 1: Homecoming (Issues: 1-6, 2024) $8.66",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T16:24:58.360732Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Kiss Of The Spider Woman (2025 Original Soundtrack) Vinyl LP + MP3 Album $13.92",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T16:24:58.360732Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Levoit Tower Fan for Bedroom 28ft/s $54.92",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T16:24:58.360732Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "ComfiLife Adjustable Height Memory Foam Foot Rest $34.19",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T16:24:58.360732Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Magic: The Gathering The Hobbit Bundle $59.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T16:24:58.360732Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Klein Tools 44306 FLICKBLADE 2-in-1 Folding Utility Knife and Scraper with Built-In Blade Storage $17.98",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T16:24:58.360732Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "MERACH 14FT Outdoor Trampoline w/ Enclosure Net $200 + Free S/H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T16:24:58.360732Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "UPGO 42\" 5-Drawer Fluted Dresser $65 + Free S/H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T16:24:58.360732Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "SucceBuy Vehicle Awning Retractable Car Side Awning With Waterproof Storage Bag $70.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T16:19:34.285013Z",
   "code": "not_checked",
   "public": false
  }
