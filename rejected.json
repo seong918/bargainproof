@@ -1,5 +1,77 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $94.95 | TOSHIBA 10-in-1 Convection Toaster Oven, 6-Slice Countertop Oven, 1500W at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-02T20:13:16.623292Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$203.63* | Philips Baristina Automatic Espresso Machine & Milk Frother Bundle (Black) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-02T20:13:16.623292Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "12-Oz Intelligentsia Light Roast Ground Coffee (House Blend) $8.83",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T20:13:16.623292Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Pace Chunky Salsa 64-Oz (Medium) $5.55",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T20:13:16.623292Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Bedsure XL Orthopedic Oval Bolster Dog Bed 42\" $47.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T20:13:16.623292Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "4-Port USB-C to USB-A 3.0 Hub Multiport Adapter $2.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T20:13:16.623292Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Softsoap Aquarium Liquid Hand Soap Refill 50-Oz $3.69",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T20:13:16.623292Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "WOW World of Watersports Ace Racing 1-Person Towable Ski Tube $46.19 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T20:13:16.623292Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$1699 Plus $100 Rebate Free Delivery GE 27 cu. ft. French Door Refrigerator in Fingerprint resistant, stainless with Internal Dispenser Home Depot",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T20:13:16.623292Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Hershey's Assorted Halloween Candy Bulk Variety Pack 70 pieces $10.27",
   "reason": "Not evaluated",
@@ -129828,46 +129900,6 @@
   "raw_title": "2-Pack 2.3-Oz Laneige Water Sleeping Mask EX $32.79 ($16.39 Each) + Free Shipping w/ Prime or $6 Fee per Order",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-18T20:17:15.562231Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$84.99 | Greenworks PowerAll 24V Cordless Brushless 1/2\" 400 in-lbs Drill/Driver at Amazon",
-  "reason": "Community score too low (+2) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
-  "rejected_at": "2026-09-18T20:11:50.663742Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS] $24.70* | Estée Lauder Double Wear Stay-in-Place Foundation Makeup at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-18T20:11:50.663742Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "SHINE WELL Leg Massager with Heat and Compression for Circulation, 3 Heat 3 Modes 3 Intensities for Pain Relief and Swelling $65",
-  "reason": "Posted at $65.00, but Amazon showed $169.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-18T20:11:50.663742Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "hip2save",
-  "raw_title": "NEW Elf on the Shelf Marvel & Disney Accessories Starting at Just $10.95",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T20:11:50.663742Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Certified Refurbished WYZE Outdoor Floodlight Security Camera Pro w/ 2.5K HD 3000LM LED & 180° Wide View (White) $64 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T20:11:50.663742Z",
   "code": "not_checked",
   "public": false
  }

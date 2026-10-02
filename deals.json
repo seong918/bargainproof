@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "ca2b26e7dc05",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20089143-amazon-gosect-large-floral-makeup-toiletry-bag-5-99-w-code?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "Amazon – Gosect Large Floral Makeup & Toiletry Bag - w/ Code",
+  "raw_title": "Amazon – Gosect Large Floral Makeup & Toiletry Bag - $5.99 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0CSYRRHN5",
+  "deal_total_cents": 599,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 999,
+  "amazon_coupon_cents": 50,
+  "amazon_effective_cents": 949,
+  "amazon_url": "https://www.amazon.com/dp/B0CSYRRHN5",
+  "amazon_checked_at": "2026-10-02T20:13:21.354337Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0CSYRRHN5",
+  "image_url": null,
+  "published_at": "2026-10-02T20:13:16.623292Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "4ba8b2010416",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20089620-1-99-steelheart-the-reckoners-book-1-ebook-by-brandon-sanderson?utm_source=rss&utm_content=ht&utm_medium=RSS2",
