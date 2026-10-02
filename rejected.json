@@ -1,5 +1,109 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "ABS Cyclone Aqua Core i7-14700F GeForce RTX 5070 Gaming Desktop PC for $1,600 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T08:45:13.071317Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SoundPEATS Clip1 Open-Ear Clip-On Earbuds w/ Dolby Audio & LDAC (Black) $34.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-02T08:39:39.609458Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Breville BOV900BSS Smart Oven Air Fryer Pro, Brushed Stainless Steel $319.95 at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-02T08:39:39.609458Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men WORKOUT ESSENTIALS BASE T-SHIRT (size:2XL) $10 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T08:39:39.609458Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "510-Piece LEGO Classic Cool Creative Box Building Toy Set $22.49 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T08:34:14.527964Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ASUS TUF Gaming A620AM-PLUS WiFi AMD A620A mATX Motherboard $170",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-02T08:28:58.095178Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC] $15.93 | Dastardly and Muttley in Their Flying Machines: The Complete Series (Blu-ray) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-02T08:28:58.095178Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Minisforum DEG1 Oculink External GPU Docking Station for $99 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T08:28:58.095178Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Haven The Complete Series 78 episodes appletv $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T08:28:58.095178Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $249.99 | Shark Clean & Empty Cordless Stick Vacuum, 40-Min Runtime, Blue, BU3523 at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-02T08:23:23.490208Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "$100 Sony PlayStation Store Gift Card for $90 + email delivery",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T08:23:23.490208Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Dntorx Over-the-Door Foldable Drying Rack 2-Pack for $14 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T08:23:23.490208Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "14\" HP OmniBook 3 1920x1200 OLED Laptop w/ Snapdragon X, 8GB RAM & 256GB SSD (Nouvelle Silver) $449.99 + Free Store Pickup at Best Buy",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T08:23:23.490208Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "[Prime] $6.99 | Nerf N Series N1 Darts, Includes 100 Darts, Compatible Only with Nerf N Series Blasters (Amazon Exclusive) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
@@ -131604,78 +131708,6 @@
   "raw_title": "adidas women Superstar II Shoes (3 Colors) from $28.8",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-18T08:46:15.182763Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Lenovo T215 15.6\" Laptop Shoulder Bag for $11 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T08:41:05.327614Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Greenworks 24V Brushless 1\" Cordless Jig Saw (3,000 SPM / 4 Settings / LED Light), 4.0Ah USB Battery and Charger Included $79.99",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-18T08:35:54.235170Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Orgsta T001-Plus 4\"x6\" Thermal Shipping Label Printer $34.99",
-  "reason": "Posted at $34.99, but Amazon showed $69.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-18T08:35:54.235170Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Casio G-Shock Men's Dual Display Resin Strap Watch (DW9052-1V) $59.92",
-  "reason": "Posted at $59.92, but Amazon showed $59.29 when we checked — the post is stale",
-  "rejected_at": "2026-09-18T08:35:54.235170Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "iLiving 12\" Wall Mounted Shutter Exhaust Vent Fan for $57 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T08:35:54.235170Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas women Samba Shoes (Night Indigo / Night Indigo / Off White) $28.8",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T08:35:54.235170Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Soothfeel Women's Lightweight LS Workout Top (various) $9.85 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-18T08:30:41.223251Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "The North Face Berkeley Crossbody Bag with Adjustable Strap $23.50",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T08:25:29.627947Z",
-  "code": "lookup_failed",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas women Barreda Decode Shoes (Cloud White / Core Black / Grey Two) $19.2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T08:20:16.916338Z",
   "code": "not_checked",
   "public": false
  }
