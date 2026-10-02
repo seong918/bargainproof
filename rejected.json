@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "The North Face Men's Quest Mono Waterproof Jacket (Ember Soil) $83.27 + Free Shipping on $49+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T03:56:57.480172Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Adidas Men's Trefoil Essentials Woven Cargo Pants (Cardboard) $20.67 + Free Store Pickup at Dick's Sporting Goods or Free Shipping on $49+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T03:56:57.480172Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC]Amazon Basics 24-in-1 Multi-Position Push Up Board (Black) $14.08 + Free S&H w/ Prime or $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-10-02T03:56:57.480172Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Prime：MOVA X4 Pro Wet Dry Vacuum Cleaner 20000Pa Cordless Vacuum Mop with Hot Water Mopping $295.99 + Free Shipping",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-02T03:51:24.765174Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Lvsenlin 350ml Mini Electric Garlic Chopper $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $19.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-02T03:51:24.765174Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2-Pack Milwaukee 7\" Rafter Square $19.97 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T03:51:24.765174Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Champion Power Equipment 3\" Gas-Powered Semi-Trash Water Transfer Pump w/ Hose & Wheel Kit $449.65 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T03:51:24.765174Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "8-Oz NADAMOO Leather Recoloring Balm & Repair Kit (Dark Brown) $8.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-10-02T03:40:20.806752Z",
@@ -131309,54 +131365,6 @@
   "reason": "Posted at $18.49, but Amazon showed $36.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-18T04:05:43.242638Z",
   "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[Prime] 4-Pc 42-Oz vancasso Bohemian Large Ceramic Pasta Bowls $25.79 + Free Shipping",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-18T03:54:53.965232Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$15.98* | Klein Tools 44321 Folding Utility Compact EDC Hawkbill Pocket Knife (Orange) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-18T03:49:27.834916Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "616-Piece LEGO Star Wars: Helmet Collection - Jango Fett Helmet $55.99 + Free Shipping",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-18T03:49:27.834916Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Great Clips Austin area - $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T03:44:01.203962Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Biopharma Scientific NanoGreens Superfood Greens Powder (Green Apple) $45",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T03:44:01.203962Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "2-Pack Extra-Fine Mesh Stainless Steel Loose Leaf Tea Infuser w/ Lid $4.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-18T03:44:01.203962Z",
-  "code": "duplicate",
   "public": true
  }
 ]

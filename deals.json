@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "f1c6c6789c85",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20086572-ac-amazon-basics-24-in-1-multi-position-push-up-board-black-14-08-free-s-h-w-prime-or-35?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
+  "title": "Amazon Basics 24-in-1 Multi-Position Push Up Board (Black) + or",
+  "raw_title": "[AC]Amazon Basics 24-in-1 Multi-Position Push Up Board (Black) $14.08 + Free S&H w/ Prime or $35+",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0DQS9VKYZ",
+  "deal_total_cents": 1408,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "coupon",
+   "prime"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 1994,
+  "amazon_coupon_cents": 586,
+  "amazon_effective_cents": 1408,
+  "amazon_url": "https://www.amazon.com/dp/B0DQS9VKYZ",
+  "amazon_checked_at": "2026-10-02T03:57:01.369782Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0DQS9VKYZ",
+  "image_url": null,
+  "published_at": "2026-10-02T03:56:57.480172Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "87ff539635e8",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20085978-slipknot-5-the-gray-chapter-vinyl-lp-18-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
