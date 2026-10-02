@@ -1,6 +1,78 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "5/$20.60 a/$10 off Non Carbonated-Caffeine Free Minute Maid Lemonade, 12 Oz, Pack Of 12 AMAZON",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-02T04:58:01.180876Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Klein Tools Electronic Stud Finder one_size in Orange | ESF100 $23.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T04:58:01.180876Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "AppleTV (MA) - One Battle After Another - $4.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T04:58:01.180876Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$48.71: Updated Ford OEM 5.4L 3V Phaser Repair Kit - Phaser Sprockets, Tensioners, Guides, Chains 18pc kit at Woot!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T04:52:25.553807Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon – Stouchi Apple Find My Trackable Metal Wallet - $11.99 w/ Code",
+  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-02T04:46:50.682354Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[S&S] Scott 1000 Trusted Clean Toilet Paper, 32 Rolls, 1000 Sheets per Roll $23",
+  "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-02T04:46:50.682354Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$20.60ac 5 x 12count FANTA HALLOWEEN Ghoulish Jack O'Lantern Orange Halloween Soda @Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-02T04:46:50.682354Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Fanttik NEX S2 Pro Cordless Electric Screwdriver Set w/ 20-Piece Bits & Case (Space Grey) $59.99 + Free Shipping",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-02T04:46:50.682354Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Men's Superman Blue Poster Graphic T-Shirt $4.76 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T04:46:50.682354Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Amazon – Novomins Magnesium Glycinate Gummies, 120 Count - $14.99 w/ Code",
   "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-10-02T04:41:18.635285Z",
@@ -131532,22 +131604,6 @@
   "raw_title": "38\" x 84\" Sjuznng Magnetic Screen Door Mesh w/ 50 Magnets $11.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-09-18T05:00:01.223675Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Ordovibe 48-Pocket Over the Door Mesh Shoe Organizer (Gray) $9.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-18T04:54:35.272247Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Lifewit Medium Lunch Bag, Insulated Lunch Box, Soft Cooler Cooling Tote for Adult Men Women, Black 12-Can (9L) $7.98",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-18T04:43:41.920146Z",
   "code": "low_score",
   "public": true
  }
