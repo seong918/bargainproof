@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[S&S] $5.40: TheraTears Extra Dry Eye Therapy Lubricating Eye Drops, 0.5 Fl Oz",
+  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-02T06:37:56.714156Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $14.99 | 14.5-Oz Yankee Candle Scented 3-Wick Candle at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-02T06:32:22.210541Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "90-Count iMATCHME Vital Beets 1800mg Beet Root Capsules $8.09 w/ S&S + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-10-02T06:26:49.658649Z",
@@ -77113,14 +77129,6 @@
  },
  {
   "source": "slickdeals",
-  "raw_title": "[Prime] $14.99 | 14.5-Oz Yankee Candle Scented 3-Wick Candle at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-24T08:08:13.159190Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
   "raw_title": "DreamFair F10 1080P Native 4K-Support Smart Projector $99.39 + Free Shipping",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-24T08:08:13.159190Z",
@@ -131580,22 +131588,6 @@
   "raw_title": "Wobbly Life (Nintendo Switch or PS5) $20 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-18T06:43:10.051254Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "100-Piece FUNNYB&G Kids' Rainbow Scratch Paper Art Kit w/ Wooden Stylus & Drawing Stencils $4.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-18T06:37:44.350268Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "70-Sheet Pen+Gear 1 Subject Notebooks (Various) $0.35 + Free Shipping w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T06:26:50.898051Z",
   "code": "not_checked",
   "public": false
  }
