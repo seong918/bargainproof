@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$7.99 | Sinners (DVD) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-02T00:53:58.169103Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$9.99 | Sinners (Blu-ray + Digital) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-02T00:53:58.169103Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Everspace",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T00:53:58.169103Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "A Minecraft Movie: Original Soundtrack (Vinyl + MP3) $7.69 + Free Shipping w/ Prime or on $35+",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-10-02T00:53:58.169103Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "100 Caplets Vanquish Extra Strength, Acetaminophen, Aspirin, Caffeine $7.30 + Free S&H w/ Prime or $35+",
   "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-10-02T00:48:26.457587Z",
@@ -131500,38 +131532,6 @@
   "raw_title": "adidas men Purechill Shoes (2 Colors) $27",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-18T00:56:20.421782Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$12.91 AMAZON WORKPRO 2-Pack Garden Pruning Shears, 8\" Bypass & 6.25\" Straight Shears",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-18T00:50:54.060707Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Teenage Mutant Ninja Turtles: The Last Ronin Hardcover Book for $12 w/ Prime + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T00:50:54.060707Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$20.40: adidas women VL Court 3.0 Shoes(lce Gold Met./ Core Black/ Off White, Size 5~11) at ebay",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T00:50:54.060707Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas men Lite Racer Adapt 7.0 Wide Shoes (2 Colors) from $23.4",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T00:50:54.060707Z",
   "code": "not_checked",
   "public": false
  }
