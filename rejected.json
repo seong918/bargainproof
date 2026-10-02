@@ -1,5 +1,85 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Sharpie S-Gel Pens 4-Pack for $5 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T00:20:42.618502Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Way To Celebrate Toddler Halloween Pullover and Jogger Set, Sizes 12M-5T (4 designs) - $9.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T00:20:42.618502Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Martha Stewart Ryder 6-Piece Mesh Metal Desktop Organizer Set for $36 w/ Prime + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T00:15:09.885213Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Windows 11 Pro + Microsoft Office Professional 2024 + AppCrypt (Digital Lifetime Keys) $14.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T00:15:09.885213Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "KINGROON 10KG Silk PLA Filament Mix-color Set $78.24",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T00:15:09.885213Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $99.01 | The Complete Calvin and Hobbes (3-Book Box Set, Hardcover) at Amazon",
+  "reason": "Community score too low (+4) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-02T00:09:37.321688Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DEWALT 20V MAX XR Lithium-Ion Brushless Cordless 1/2 in. Drill/Driver Kit with 6.0 Ah FLEXVOLT Battery, Charger and Kitbag, $199, FS, Home Depotr",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T00:09:37.321688Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "with 5ah battery, DEWALT 1/2-in 20-volt max Variable Speed Brushless Cordless Hammer Drill, $149, Lowe's",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T00:09:37.321688Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "BJs Wellsley Farms Ten Lbs Fresh 90% Lean Ground Beef $34.xx after 42% off Digital Coupon ex 10/30 (approx $3.45 lb)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T00:09:37.321688Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Tool only, DEWALT 20-volt Max 3/8-in Keyless Right Angle Cordless Drill, $99, Lowe's",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T00:09:37.321688Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "DEWALT 20V MAX XR Brushless 4-Tool Combo Kit with POWERSTACK Compact Battery, 5.0Ah Battery, Charger and Tool Bag, $399, lowe's",
   "reason": "Not evaluated",
@@ -131606,141 +131686,5 @@
   "rejected_at": "2026-09-18T00:24:06.661550Z",
   "code": "duplicate",
   "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Innqoo 22.6\" Modern Ceramic Bedside Lamps Set of 2, Lamps for Bedroom,White $29.58",
-  "reason": "Community score too low (+4) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-18T00:18:53.503337Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS, AC] $4.45* | 6-Oz Cetaphil Advanced Radiance Cream with Shea Butter at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, clip coupon, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-18T00:18:53.503337Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Plymax Cordless Leaf Blower, 800,000 RPM Electric Handheld Blower, Leaf Blower Cordless with 2×4.0Ah Batteries & Charger,Snow Blowers with 2-Nozzles $59.98",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-18T00:18:53.503337Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Hanycony Surge Protector Power Strip for $10 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T00:18:53.503337Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "OtterBox 20W Fast Charging USB-C Wall Charger for $6, 2 for $10, or 3 for $12 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T00:18:53.503337Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$81.40 AC ADIDAS on Ebay adidas women Terrex Free Hiker 2.0 Gore-Tex Hiking Shoes",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T00:18:53.503337Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Garmin vivofit jr 3 Kid's Fitness Tracker (Peach Leopard) $40 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T00:18:53.503337Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$35.40 FS EBAY ADIDAS ac adidas men Cloudfoam Cuxxion Sock Shoes",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T00:18:53.503337Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$21.40 AC FS EBAY ADIDAS adidas men Lite Racer 4.0 Shoes",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T00:18:53.503337Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Electric Scooter, 350W Motor, Up to 12 Miles Long Range, 8.5\" Solid Tires, 265 lbs Max Load, Lightweight Foldable E Scooter with Dual Braking System & App $139.98",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-18T00:13:30.501844Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Douglas Touring A/S 205/55R16 91H All-Season Tire for $64 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T00:13:30.501844Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Mikolo Smith Machine Home Gym, 2200 lbs Power Rack Cage with Cable Crossover, Weight Bar, 360° Landmine, Barbell Holders and Other Attachments $759.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T00:13:30.501844Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[AC] $109.25* | Cooler Master MasterHUB Freeform 2.0 Modular Platform Creator Kit at Amazon",
-  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-18T00:08:06.002325Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Dr. Martens Womens Amaayah Hi Leather Bex Riding Boots Butterscotch Size 6 $114.99 + Free Shipping",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-18T00:08:06.002325Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[AC] $249.99* | Roborock F25 XT Wet Dry Cordless Vacuum Cleaner at Amazon",
-  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-18T00:08:06.002325Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "TCL - 75\" QM9K Series 4K UHD HDR QD-Mini LED Smart TV with Google TV (2025) $1199.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T00:08:06.002325Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas Men's Samba Barstool Spikeless Golf Shoes (Sizes 11.5 - 15, Cloud White / Collegiate Green / Silver Green) $49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T00:08:06.002325Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
