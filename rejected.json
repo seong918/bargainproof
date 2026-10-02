@@ -1,5 +1,61 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$1.99 | Prison Ramen: Recipes and Stories from Behind Bars (eBook) by Gustavo Alvarez",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-02T09:01:49.741066Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Amazon Basics Quick-Dry Oversize Bath Towel 2-Pack for $13 via Sub. & Save + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T09:01:49.741066Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Amazon Basics Glass Cleaner 32-oz. Bottle 2-Pack for $4.16 w/ Prime + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T09:01:49.741066Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "8-Oz Kate Blanc Cosmetics Hypochlorous Acid Spray for Face & Body $6.29 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+3) to pass without a price check — needs Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-02T08:50:44.370509Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "wiselifetech 8\" SK5 Bypass Pruning Shears for $10 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T08:50:44.370509Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Groundspeed Voyager HP All Season 225/45ZR17 94W Passenger Tire for $54 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T08:50:44.370509Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas men Designed for Training Full-Zip Track Jacket $26 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T08:50:44.370509Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "ABS Cyclone Aqua Core i7-14700F GeForce RTX 5070 Gaming Desktop PC for $1,600 + free shipping",
   "reason": "Not evaluated",
@@ -131644,70 +131700,6 @@
   "raw_title": "adidas Men's Terrex Eastrail 3 Mid Climaproof Hiking Shoes (sizes from 10) for $49 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-18T09:06:53.178837Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Seabourn 14-Night Sea of Japan & Plum Blossoms Cruise for From $16,470 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T09:01:46.067735Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "adidas Men's Cloudfoam Cuxxion Sock Shoes for $29 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T09:01:46.067735Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "adidas Men's Fall Shoe Deals for From $14, sneakers from $25 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T08:56:37.281138Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas women Adizero SL2 Shoes (Limited Sizes, 2 Colors) from $31.2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T08:51:26.441886Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Fanttik S1 APEX Deluxe Edition Electric Screwdriver Set $49.99 + Free Shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T08:51:26.441886Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Graco Travel Dome Lux Pack 'n Play Playard (Various Colors) $175.99 + Free Shipping",
-  "reason": "Community score too low (+3) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-18T08:46:15.182763Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Vevor 10\" 900CFM Wall Mounted Exhaust Fan with Variable Speed Controller $34.48",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T08:46:15.182763Z",
-  "code": "lookup_failed",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas women Superstar II Shoes (3 Colors) from $28.8",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T08:46:15.182763Z",
   "code": "not_checked",
   "public": false
  }
