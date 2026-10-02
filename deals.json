@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "3a1c3372bdf1",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20089245-amazon-mpatiby-5-4-in-1-usb-c-multi-charging-cable-4-49-4-99-w-code?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "Amazon – MPATIBY 5' 4-in-1 USB-C Multi Charging Cable - – w/ Code",
+  "raw_title": "Amazon – MPATIBY 5' 4-in-1 USB-C Multi Charging Cable - $4.49–$4.99 w/ Code",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0DT3X1296",
+  "deal_total_cents": 449,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "code"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": 899,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 899,
+  "amazon_url": "https://www.amazon.com/dp/B0DT3X1296",
+  "amazon_checked_at": "2026-10-02T21:48:01.344833Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 6,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0DT3X1296",
+  "image_url": null,
+  "published_at": "2026-10-02T21:47:56.300416Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "13f7640fdb32",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20089299-prime-28-86-belkin-5-port-up-to-100w-pd-usb-c-hub-w-4k-hdmi-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
