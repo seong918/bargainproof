@@ -1,5 +1,77 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Household Essentials at Amazon for $15 off $50 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T09:23:08.585709Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "9\" Wireless Carplay & Android Auto Screen for Car for $60 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T09:23:08.585709Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Disney Dreams Collection by Thomas Kinkade Studios 2027 Wall Calendar for $9.96 w/ Prime + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T09:23:08.585709Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "YMMV Burberry Hero Parfum 6.7 Oz Refill - Last Act/Clearance @ Nordstrom Rack & is only available at select stores - Pickup in store only! $65.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T09:17:53.686627Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "DeWalt Flextorq Right Angle Drill Attachment for $25 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T09:12:40.506081Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Thule EnRoute 21L Backpack for $63 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T09:12:40.506081Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Charms Mini Pops 400-Pack for $12 via Sub. & Save + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T09:12:40.506081Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "JandCase Night Light 12-Pack for $34 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T09:07:19.843287Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Sunmthink 10x12-Foot Outdoor Retractable Pergola for $170 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T09:07:19.843287Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$1.99 | Prison Ramen: Recipes and Stories from Behind Bars (eBook) by Gustavo Alvarez",
   "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
@@ -131614,93 +131686,5 @@
   "rejected_at": "2026-09-18T09:33:05.075862Z",
   "code": "low_score",
   "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Dbfit AP2410 HEPA Air Purifier with Washable Nylon Pre-Filter Air Purifier (Up to 2180 sq ft) $59.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T09:22:25.355189Z",
-  "code": "lookup_failed",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Prime Members: Murder She Wrote Complete Series [HD Digital] $15@ Amazon Prime Video -APP-",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T09:22:25.355189Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Motorola - razr ultra 2025 512GB (Unlocked) - PANTONE Rio Red $699.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T09:22:25.355189Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "adidas Women's Cloudfoam Flex Slounge Shoes for $25 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T09:17:13.857139Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Motorola - razr ultra 2025 512GB (Unlocked) - PANTONE Rio Red Refurbished - Excellent $569.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T09:17:13.857139Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Msi Pro Max 271QPX14G 27\" 2560x1440 144Hz QD-OLED Monitor $319.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T09:12:04.959214Z",
-  "code": "lookup_failed",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Rakuii 5\" Display Night Vision Wireless Baby Car Camera with Strap Mount $69.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T09:12:04.959214Z",
-  "code": "lookup_failed",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "adidas Men's Daily 4.0 Shoes for $25 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T09:12:04.959214Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Lenovo H210 Gaming Headset $25.37 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T09:12:04.959214Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "GORILLA GRIP® XL 4-Sided Stainless Steel BPA-Free Cheese Grater, Black, $12.58, Amazon",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-18T09:06:53.178837Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "adidas Men's Terrex Eastrail 3 Mid Climaproof Hiking Shoes (sizes from 10) for $49 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T09:06:53.178837Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
