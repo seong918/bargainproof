@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "280 Pcs LEGO Lucky Cat Building Toys (40813) $20 + Free S&H w/ Prime or $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-02T02:06:05.049306Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "The 'Burbs [Blu-ray] $6.99 Amazon.com",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-02T02:06:05.049306Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Costco: Aqara Smart Lock U400, with M100 Hub, and 2 Batteries - $259.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T02:06:05.049306Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Beetlejuice Beetlejuice (2024) (Blu-ray) $9.99 + Free S&H w/ Prime or $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-02T02:00:30.435257Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS] $8.35* | 2-Pk 200-Ct Sugar In The Raw Turbinado Cane Sugar Packets at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-02T02:00:30.435257Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Silver Buffalo Pokemon Eevee Evolutions, Charmander and Gengar 30oz Tumbler $14.98",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-02T02:00:30.435257Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Mallrats (Arrow Standard Special Edition) [Blu-ray] $19.99 Amazon.com",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-02T02:00:30.435257Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$2.77 or less PRIME ONLY S&S Amazon Basics Plastic Food Wrap, BPA Free, Microwavable, 200 Sq Ft, Pack of 1 plus Buy 4/save 10% Promo",
   "reason": "Community score too low (+0) to pass without a price check — needs multi-pack, Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-10-02T01:54:57.804771Z",
@@ -66825,14 +66881,6 @@
  },
  {
   "source": "slickdeals",
-  "raw_title": "[SnS] $8.35* | 2-Pk 200-Ct Sugar In The Raw Turbinado Cane Sugar Packets at Amazon",
-  "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-25T01:59:40.138783Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
   "raw_title": "Pokemon Mega Evolution 5 Pitch Black Elite Trainer Box, 9 Booster Packs, Zarude $68.08",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-25T01:59:40.138783Z",
@@ -131462,29 +131510,5 @@
   "rejected_at": "2026-09-18T02:06:39.081981Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "20-Count 0.92-Oz Snyder's of Hanover Mini Pretzels & Pretzel Sticks Variety Pack $7.49 w/ S&S + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-18T02:01:14.295124Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "GT100 Electric Motorcycle $5699",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T02:01:14.295124Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$30 AMAZON Lee Men's Spencer Sneaker Boot sizes 6.5-13 Mens",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-18T01:55:46.640473Z",
-  "code": "low_score",
-  "public": true
  }
 ]
