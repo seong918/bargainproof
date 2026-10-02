@@ -1,6 +1,70 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Halloween Pajamas Women 2 Piece Halloween Spooky Lounge Set - $9.99 @ Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-02T13:18:18.455609Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Woot Our Favorite Shirts Sale $1.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T13:18:18.455609Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Jelly Cubes In Stock & Under $5 on Walmart.com (Looks & Feels Like NeeDoh!)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T13:18:18.455609Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DYU C3 Folding E-bike 500W 36V 7.8Ah 20mph UL2849 $157.70 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T13:18:18.455609Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Flashforge AD5X 3D Printer Multi-Color High-Speed Auto-Leveling System $217 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T13:18:18.455609Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "KINGROOM 10KG PETG 1.75mm 3D Printer Filament Bundle Black $59.80 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T13:18:18.455609Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Shark Vertex Pet Powered Lift-Away Upright Vacuum (Hawaiian Grey) $299.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T13:18:18.455609Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "2 for $25 4K UHD Movies Amazon.com",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-10-02T13:18:18.455609Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Likeny Beard Bib Beard Apron $3.49",
   "reason": "Posted at $3.49, but Amazon showed $6.99 when we checked — the deal is probably over",
   "rejected_at": "2026-10-02T13:13:06.572528Z",
@@ -130764,94 +130828,6 @@
   "raw_title": "PUMA King Pro Soccer Cleats (3 colors) from $49.95 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-18T13:21:45.380139Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$3 S&S 40% off Q Efferdent Denture Cleaner Tablets, Minty Fresh & Clean, 126 Count",
-  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-18T13:16:24.620550Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$3.98 S&S 40% off Q Debrox Earwax Removal Aid, 0.5 oz Earwax Removal Drops",
-  "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-18T13:16:24.620550Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "COSYGLOW Travel Makeup Mirror with Light, Portable Hexagon Vanity Mirror $6.99",
-  "reason": "Posted at $6.99, but Amazon showed $9.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-18T13:16:24.620550Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Suzume Portable Metric and SAE Flex Head Ratcheting Wrench Set (24-Piece) $58.73",
-  "reason": "Posted at $58.73, but Amazon showed $97.88 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-18T13:16:24.620550Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Adidas men Purechill Shoes $18.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T13:16:24.620550Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Adidas Men's Lite Racer Adapt 7.0 Shoes Cloud White/Core Black $21.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T13:16:24.620550Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "NFL Teams Adjustable Hat $7.65",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T13:16:24.620550Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Runfalcon 6 CLOUDFOAM Running Shoes $30.10",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T13:16:24.620550Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Google Pixel Watch 5 41mm LTE Smartwatch (Matte Black / Obsidian) $422.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T13:16:24.620550Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "PUMA All Pro Nitro Gold Rush Basketball Men's Gold Sneakers Athletic Shoes (Select - $59.95 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T13:16:24.620550Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Brooks Men's Hyperion Max 3 Running Shoes (2 Colors) $95.54 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T13:16:24.620550Z",
   "code": "not_checked",
   "public": false
  }

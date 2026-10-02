@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "bf181efe8f8e",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20088165-2-for-25-4k-uhd-movies-amazon-com?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
+  "title": "2 for 4K UHD Movies Amazon.com",
+  "raw_title": "2 for $25 4K UHD Movies Amazon.com",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 2500,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 9,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-10-02T13:18:18.455609Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "0ea09a934adf",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20088204-51-96-swissgear-1900-31l-scansmart-laptop-backpack-fits-most-17-inch-laptops-heather-grey-at-amazon?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
