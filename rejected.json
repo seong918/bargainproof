@@ -1,5 +1,29 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Wireless Android Auto Adapter for $7 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T09:49:24.249517Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Lot of 41 Assorted Collectible Vintage Marvel Comic Books for $396 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T09:49:24.249517Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Pre-Owned Assorted Lot of 74 Vintage LaserDiscs Classic Movies Collection for $720 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T09:49:24.249517Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$14.99 | Masters of the Universe Origins 200X Roboto Deluxe Action Figure at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
@@ -131660,54 +131684,6 @@
   "raw_title": "Mobile 1 Full Synthetic Motor Oil 6 pack - Quarts - Various Weights $34.98",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-18T09:54:35.605800Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[Prime] SEESII 12GPM Cordless Diesel/Kerosene Fuel Transfer Pump Kit w/ 4.0Ah Battery & Auto-Stop Nozzle $80.99 + Free Shipping",
-  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-18T09:49:13.332531Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Kitsure Shoe Rack - Non-Woven Shoe Rack Shelf, 27.5\" Wide - 3 Tier, Black $9.97 @ Amazon",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T09:49:13.332531Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Anyking 14\" 16:9 FHD 1080P Laptop Dual Screen Extender $60.41",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T09:43:52.544211Z",
-  "code": "lookup_failed",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "HP OmniBook X Flip Ryzen AI 5 430 16\" Laptop PC for $650 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T09:43:52.544211Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Apple iPhone 18 Pro 256GB for Verizon w/ iPad, Watch & $200 Verizon GC: From $0/mo. w/ trade-in & Unlimited Ultimate Plan + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T09:43:52.544211Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Lenovo Yoga 7i 2-in-1 16-inch 2K Touchscreen Laptop for $800 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T09:43:52.544211Z",
   "code": "not_checked",
   "public": false
  }

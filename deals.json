@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "dfd373ba335d",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20087184-sns-ac-8-99-18-oz-peet-s-coffee-dark-roast-ground-coffee-major-dickason-s-blend-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "18-Oz Peet's Coffee Dark Roast Ground Coffee (Major Dickason's Blend)",
+  "raw_title": "[SnS, AC] $8.99 | 18-Oz Peet's Coffee Dark Roast Ground Coffee (Major Dickason's Blend) at Amazon",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 899,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "coupon",
+   "sns"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-10-02T09:49:24.249517Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "21525d29dda8",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20087373-17-56-wrangler-20-astral-hardside-carry-on-luggage-black-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
