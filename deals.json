@@ -1,5 +1,38 @@
 [
  {
+  "deal_id": "ddf95637d1ea",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20086779-prime-members-2-pack-54-x30-amazon-basics-cotton-bath-towels-lake-blue-13-43-w-s-s-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "2-Pack 54\"x30\" Amazon Basics Cotton Bath Towels (Lake Blue) w/ S&S",
+  "raw_title": "Prime Members: 2-Pack 54\"x30\" Amazon Basics Cotton Bath Towels (Lake Blue) $13.43 w/ S&S + Free Shipping",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1343,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "sns",
+   "prime",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-10-02T07:44:27.124959Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "43985641cf23",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20087241-sns-ac-5-65-3-pack-12-oz-oxiclean-max-force-laundry-stain-remover-spray-at-amazon-1-88-each?utm_source=rss&utm_content=ht&utm_medium=RSS2",

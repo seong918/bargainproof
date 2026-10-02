@@ -1,6 +1,46 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Bring It On 7-Movie Collection [Blu-ray + Digital] $30.61 Amazon.com",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-02T07:44:27.124959Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] 2-Pack OREiN Matter Smart A19 RGBTW Color Changing LED Light Bulbs w/ Remote $10.99 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — needs multi-pack, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-02T07:44:27.124959Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[AC] $27.99* | 4.8' Hanging Swing Ghost Halloween Outdoor Decoration at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-02T07:44:27.124959Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Jack Link's Teriyaki Beef Tender Bites 8-oz. Bag for $7.57 via Sub. & Save + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T07:44:27.124959Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Mars Full Size Chocolate Candy Bars, Variety Pack, 30 pk. - $22.48 @ Sam's Club",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T07:44:27.124959Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "ILIFE V2 Robot Vacuum Cleaner (White) $69 + Free Shipping",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-10-02T07:38:55.462710Z",
@@ -131572,54 +131612,6 @@
   "raw_title": "Skechers Men's Uno - Suited On Air Memory Foam Sneakers - $34",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-18T07:48:15.384757Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Spin Master Hard to Get Secret Word Clue Card Party Game $4.92 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+3) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-18T07:42:55.783481Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "EUGENIO DERBEZ triple feature HD appletv $7.99 $7.96",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T07:42:55.783481Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$11.99 | 2-Pack Rechargeable Electric Toothbrushes 8 Brush Heads at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T07:42:55.783481Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Skechers Men's Summits Comfort Slip-On Lifestyle Sneakers - $34",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T07:42:55.783481Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$10.39 | Beurer Bluetooth Non-Contact Infrared Thermometer, XL Illuminated Display, 60 Memory Spaces, FT95 at Woot!",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T07:42:55.783481Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "VIZIO 4.1 30\" Soundbar with Dolby Atmos, Wireless Surround Speakers & Compact Subwoofer $100.80",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T07:42:55.783481Z",
   "code": "not_checked",
   "public": false
  }
