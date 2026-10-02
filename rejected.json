@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "2-Pack Gaiatop Rechargeable Hand Warmers w/ Magnetic Split Design & 3 Heat Levels (Orange Dog) $8.99 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs multi-pack, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-02T06:15:45.042713Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Swamp Thing Unrated + Theatrical Cut Collector's Edition Blu Ray $14.38 Amazon.com",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-10-02T06:15:45.042713Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Prime Members: 2-Cam Arlo Essential 2K Outdoor Pan Tilt Zoom Security Cameras $59 + Free Shipping",
   "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-10-02T06:10:14.402125Z",
@@ -131580,14 +131596,6 @@
   "raw_title": "124-Pc LEGO Creator 3 in 1 Turtle w/ a Water Lily Flower (31377) $8 + Free Shipping w/ Walmart+ or on $35+",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-18T06:15:58.837046Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$9.99 sale for Central Intelligence: The Agency - Season 1",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T06:10:33.294621Z",
   "code": "not_checked",
   "public": false
  }
