@@ -1,5 +1,69 @@
 [
  {
+  "source": "dealcatcher",
+  "raw_title": "OKELUX Women's 2 Piece Matching Workout Lounge Set with Pockets $18.48",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T18:11:09.193688Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Redaw Basketball Net Replacement 2-Pack $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T18:11:09.193688Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Soothfeel Men’s Long-Sleeve Quick-Dry Workout Shirt $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T18:11:09.193688Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Hanes Originals Men's Stretch Cotton Dyed Tank 3-Pack for $7 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T18:11:09.193688Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Target Patio & Garden Clearance: Up to 35% off + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T18:11:09.193688Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Olight BatonUltra Rechargeable EDC Flashlight for $80 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T18:11:09.193688Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Mountain Dew, 6-Can Mini Personal Fridge Cooler, MIS134MD, Green $24.38",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T18:11:09.193688Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Athletic Works Men's and Big Men's Mesh Shorts, 7\" Inseam, Sizes S-5XL $3.04",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T18:11:09.193688Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$89.99* | Marshall Major V On-Ear Wireless Bluetooth Headphones at Amazon",
   "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
@@ -129700,46 +129764,6 @@
   "raw_title": "2-Pack Foster Grant Purple Square Women's Reading Glasses $2.89 + Free Shipping w/ Walmart+ or on $35+",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-18T18:13:02.757375Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "from $40.60* | 4-Pk Sunlu Shiny Silk PLA+ 1kg Spool 3D Printer Filament Bundle at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-18T18:07:39.265272Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "VitBoost Magnesium Glycinate 500mg Sleep Support Capsules 120-Count $7.96",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T18:07:39.265272Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Spindrift Sparkling Water 20-Pack 12-Oz (4 Flavor Original Variety Pack) $9.62",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T18:07:39.265272Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "UNARK Upright Christmas Tree Storage Bag for 6'-7.5' Trees $29.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T18:07:39.265272Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Franklin Sports MLB Anti-Tip Adjustable Kids Batting Tee (23\"-33\") $6 + Free Shipping w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T18:07:39.265272Z",
   "code": "not_checked",
   "public": false
  }
