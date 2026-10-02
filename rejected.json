@@ -1,5 +1,61 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Lisen 3-in-1 Retractable 3.7' 480Mbps Multicharging Cable $5.99",
+  "reason": "Posted at $5.99, but Amazon showed $9.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-02T13:34:02.381104Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "MoAcey 5000mAh Heated Vibration Cordless Lower Back Massager $32.99",
+  "reason": "Posted at $32.99, but Amazon showed $54.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-02T13:34:02.381104Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Jogrytece 3-in-2 Multi Charging Cable with iWatch Charger $7.99",
+  "reason": "Posted at $7.99, but Amazon showed $15.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-02T13:34:02.381104Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "VitaUp Men’s 20-In-1 Vitamins 90-Count Only $12.96 Shipped on Amazon (Reg. $28)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T13:34:02.381104Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Oftery 12-Piece DIY Christmas Pearl Diamond Painting Ornament Kit for $13 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T13:28:48.305952Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "1571-Piece LEGO Harry Potter Sorcerer's Stone Collectors' Edition Building Set (76466) $117.44 plus taxes",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T13:28:48.305952Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DJI Osmo Pocket 4 1\" CMOS 4K/240fps 3-Axis Gimbal 107GB $445.50 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T13:28:48.305952Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "20\" Bug Checkered Nylon Women's Laptop Tote Bag (Silver) $13.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
@@ -130540,214 +130596,6 @@
   "raw_title": "JHK LED Bathroom Vanity Mirror Front Light Backlit Memory Function Tempered Glass $44.40 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-18T13:38:02.169860Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "BAGSMART Travel Toiletry Bag $15.67",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T13:32:36.118251Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Adidas Galaxy 7 Running Shoes $18.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T13:32:36.118251Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "BAGSMART Quilted with Insulated Pocket Tote Bag $17.93",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T13:32:36.118251Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "LIGHT FLIGHT Travel Toiletry Bag $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T13:32:36.118251Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "CVLIFE CCW Sling Bag $25.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T13:32:36.118251Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "CVLIFE Thermoformed Carbon Pickleball Paddle $23.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T13:32:36.118251Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Adidas Men's Barreda Decode Shoes $19.20",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T13:32:36.118251Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "CYSRALFC 2.4-inch 1080p High-Definition Dash cam $20.98",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T13:32:36.118251Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "6-Pocket Roll-Up Tool Bag Organizer (Army Green) $14.03",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T13:32:36.118251Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Dove Men All Star Comfort Dry Spray Antiperspirant 3.8 oz $4.59",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T13:32:36.118251Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "adidas Men's Runfalcon 5 Running Shoes for $27 + Free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T13:32:36.118251Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Brooks Men's Ghost Max 3 Running Shoes (Primer Grey or Coconut/Navy) $80.07 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T13:32:36.118251Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Skullcandy Jib Wired In-Ear Earbuds w/ Inline Microphone & 3.5mm AUX (Black or Red $7.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-18T13:27:13.109279Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "The Lost Boys (DVD) $7.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+4) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-18T13:27:13.109279Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "SKG 200mmHg Air Compression Cordless Rechargeable Calf and Foot Massager $449.99",
-  "reason": "Posted at $449.99, but Amazon showed $499.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-18T13:27:13.109279Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Monster N-Lite 203 AirLinks Bluetooth 5.3 Waterproof Wireless Earbuds $19.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T13:27:13.109279Z",
-  "code": "lookup_failed",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Maelstrom 50L Hiking Backpack with Rain Cover $39.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T13:27:13.109279Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "NTONPOWER Travel Power Strip with USB Ports $9.89",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T13:27:13.109279Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Dogcheer Dog Winter Coat with Harness Built in $15.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T13:27:13.109279Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Solar Halloween Eyeball Lights 6 Pack $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T13:27:13.109279Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Smart Scale for Body Weight 8-Electrode Dual-Frequency $45.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T13:27:13.109279Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "3D Contoured Sleep Mask with Earplug Keeper $3.51",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T13:27:13.109279Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Keurig K-Mini Mate Single Serve K-Cup Pod Coffee Maker $59.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T13:27:13.109279Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Adidas Men RUN 70s 2.0 Shoes $27.60",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T13:27:13.109279Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Outdoor LED String Lights for From $32 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T13:27:13.109279Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "PUMA King Pro Soccer Cleats Men's Red Sneakers Athletic Shoe - $59.95 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T13:27:13.109279Z",
   "code": "not_checked",
   "public": false
  }
