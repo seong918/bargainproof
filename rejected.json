@@ -1,5 +1,85 @@
 [
  {
+  "source": "dealcatcher",
+  "raw_title": "Zip Up Hoodies Oversized Sweatshirts $12.59",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T12:47:00.687859Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Velvet Button Down Shirts $14.29",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T12:47:00.687859Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Dyce \"Drink IF\" Adult Drinking Game w/ After Dark Expansion Set for $26 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T12:47:00.687859Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Apparel & Accessories Deals on eBay Live for Deals from $1",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T12:47:00.687859Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ball Regular Mouth Quart 32-Oz. Glass Mason Jar with Lids and Bands, 12-Count $15",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T12:47:00.687859Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$50 FS Walmart by JOYIN Joyfy 8.5 FT Halloween Inflatable Rooftop Skeleton with Built-in LED,Blow Up",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T12:47:00.687859Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$18.59 FS Walmart+ by Joyin 4.5 FT Halloween Inflatable Outdoor Scary Flying Ghost Broke Out from Window with Built-in LED Blow Up Inflatable",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T12:47:00.687859Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Bosch 18V Brushless SDS-plus Bulldog 3/4\" Rotary Hammer (Bare Tool) $139.00",
+  "reason": "Out of stock on Amazon when we checked",
+  "rejected_at": "2026-10-02T12:41:47.008550Z",
+  "code": "amazon_oos",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ECO-WORTHY 12V 314AH LiFePO4 Lithium Deep Cycle Battery w/ 200Amp BMS, Bluetooth SOC LED Indicators $293 + Free S/H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T12:41:47.008550Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$31.80: Joyfy 9FT Halloween Inflatable Alien, Built-in LED Lights, Outdoor Yard Decor at Walmart.com",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T12:41:47.008550Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$16.36: Elegant Comfort 6-Piece Sheet Set, 1500 Thread Count Egyptian Quality, King, Eggplant/Purple",
   "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
@@ -130660,174 +130740,6 @@
   "raw_title": "Mould King Technical Motorized Excavator Building Block Set, Model #13112 (MOC-2513) $93 + Free S/H",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-18T12:49:55.729455Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "techbargains",
-  "raw_title": "Umay 25mm Dual Slide 350lbs 16-Level Magnetic Resistance Rowing Machine $131.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T12:44:40.702518Z",
-  "code": "lookup_failed",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "The Drop Women Jessi Side-zip Block Heel Boot $7.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T12:44:40.702518Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "OtterBox iPhone 16 Symmetry Series Cactus Leather Case $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T12:44:40.702518Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "OtterBox Samsung Galaxy S25 Defender Series XT Clear $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T12:44:40.702518Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Tech21 EvoPro Case for iPhone 17 Air $4.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T12:44:40.702518Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Metroid Prime 4: Beyond $41.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T12:44:40.702518Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "OtterBox Samsung Galaxy S25 and S24 Defender Series $5.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T12:44:40.702518Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Juicy Couture Heritage Zip Front Hoodie (Medium) $40.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T12:44:40.702518Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Apple Watch Series 12 GPS 42mm Smartwatch for $390 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T12:44:40.702518Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Brooks Men's Hyperion 3 Running Shoes (2 Colors) $70.04 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T12:44:40.702518Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Rebecca Minkoff Strawberry Bag Charm $16.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T12:39:21.623404Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Tag Heuer Sport Smartwatch 45mm $949.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T12:39:21.623404Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "SuperHandy GUO137 SuperHandy Trailer Dolly $559.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T12:39:21.623404Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "AXOR Citterio Modern 2-Handle 16\" Wide Roman Tub Filler $1,943.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T12:39:21.623404Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Santa's Workshop Inc. 40\" Iron Flamingo $51.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T12:39:21.623404Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Kondras 22’’ Touch Control Table Lamps Set of 2, Gold $51.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T12:39:21.623404Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Hugo Boss EDT Spray Green, 6.7 oz $51.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T12:39:21.623404Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Squishmallows Original 24in Sydney Teal $51.69",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T12:39:21.623404Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "200\" Spider Web w/ 59\" Giant Decoration for $10 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T12:39:21.623404Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$56.53 FS To Store MACYS Dockers Men's Tobias Rugged Lace-Up Boots sizes 7-13 M WIDTH",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T12:39:21.623404Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$56.53 FS MACYS Rewards Dockers Men's Dylan Rugged Casual Chelsea Slip-On Boots sizes 7-13 Black, Brown 10-13 M Width",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T12:39:21.623404Z",
   "code": "not_checked",
   "public": false
  }
