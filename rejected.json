@@ -1,6 +1,22 @@
 [
  {
   "source": "dealnews",
+  "raw_title": "Reebok Men's or Women's Lifestyle Club C 85 Vintage Sneaker for $70 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T23:54:41.716091Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Target - Ember Mug 2 14oz Temperature Control Smart Mug (various colors) $45 in store only YMMV",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T23:54:41.716091Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
   "raw_title": "Gap Factory Men's GapFlex Essential Khakis for $22 in cart + free shipping w/ $50",
   "reason": "Not evaluated",
   "rejected_at": "2026-10-02T23:49:12.323989Z",
@@ -129757,22 +129773,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-18T23:58:24.424358Z",
   "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$7.26* | 2-Pounds Kinetic Play Sand w/ 5 Tools & Reusable Storage at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
-  "rejected_at": "2026-09-18T23:53:01.100422Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Bluey's Quest for the Gold Pen Nintendo Switch Game for $30 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T23:53:01.100422Z",
-  "code": "no_signal",
   "public": false
  }
 ]
