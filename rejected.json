@@ -1,5 +1,61 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "AstroAI H2 Pro Auto Shut-Off Tire Inflator Portable Air Compressor $22.49",
+  "reason": "Posted at $22.49, but Amazon showed $44.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-02T16:14:46.296263Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Breville Barista Touch Espresso Maker $799.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T16:14:46.296263Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Breville Barista Express Impress Espresso Machine $649.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T16:14:46.296263Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Fanttik Fold V10 APEX Pivot Cordless Handheld Car Vacuum for $90 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T16:14:46.296263Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "26\" x 18\" Washer & Dryer Top Mat for $10 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T16:14:46.296263Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Progresso 18.5oz Canned Soups, $1.98 ea, buy 4 get $1 Walmart Cash ($1.73 net per can) over 24 flavors at link!!",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T16:14:46.296263Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "The North Face Base Camp Travel Canister (Blue) $23.98 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T16:14:46.296263Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Hamilton Beach 3-in-1 Electric Indoor Grill + Griddle w/ Reversible Nonstick Plates & 2 Adjustable Cooking Zones $56.95",
   "reason": "Not evaluated",
@@ -129740,78 +129796,6 @@
   "raw_title": "SucceBuy Vehicle Awning Retractable Car Side Awning With Waterproof Storage Bag $70.00",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-18T16:19:34.285013Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Teenage Mutant Ninja Turtles: The Last Ronin: Lost Years (Hardcover) $15.19 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-18T16:14:12.092586Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "FIT KING Air Compression Leg and Foot Massager with Heat for Circulation $50",
-  "reason": "Posted at $50.00, but Amazon showed $119.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-18T16:14:12.092586Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Adidas Men's Supernova Rise 3 Running Shoes $64.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T16:14:12.092586Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Round Trip Chicago to Reykjavik Iceland Nonstop Airfares on Icelandair $389.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T16:14:12.092586Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Nine West Qazz Women's Sandals $25.50",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T16:14:12.092586Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Sweetlove 12\" Gel Memory Foam Hybrid Pocket Spring Mattress In A Box Medium Firm Motion Isolation $119.39",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T16:14:12.092586Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Aospence 9-Quart Knee Cold Therapy Machine for $84 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T16:14:12.092586Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Cvrpaor Smart Digital Kitchen Timer for $10 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T16:14:12.092586Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Reebok Men's City Ride Running Sneakers (Black/White) $35 + Free Pickup at Macys or Free Shipping on $39+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T16:14:12.092586Z",
   "code": "not_checked",
   "public": false
  }
