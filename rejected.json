@@ -1,6 +1,142 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[Prime] $23.70 | Hamilton Beach 6-Speed Electric Hand Mixer With Easy Clean Beaters at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-02T19:01:06.329420Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Legacy Disney's Winnie the Pooh Halloween Reusable XL Tote Bag $2.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T19:01:06.329420Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Adidas Essentials 3-Stripes Fleece Pants $14.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T19:01:06.329420Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Wireless Auto Adapter for Android 11 and Above $6.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T19:01:06.329420Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Adidas Women's Streettalk $23.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T19:01:06.329420Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Eastpak One Adjustable Strap Crossbody Bag $11.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T19:01:06.329420Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Cuisinart Griddler 5-in-1 Indoor Grill $71.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T19:01:06.329420Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Burberry Hero Parfum 6.7 Oz Refill $65.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T19:01:06.329420Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Adidas Men Creator Beanie $11.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T19:01:06.329420Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Avanti Bi-Metal Reciprocating Saw Blade Set (13-Piece) $9.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T19:01:06.329420Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Under Armour Men's Charged Edge Training Shoes $41.97",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T19:01:06.329420Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Motorola Moto g 2026 Unlocked $254.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T19:01:06.329420Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Adidas Men Tech Response 3.0 Golf Shoes $28.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T19:01:06.329420Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Hansleep Full White Fleece Blanket for $22 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T19:01:06.329420Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "LEGO Star Wars Executor Super Star Destroyer w/ Darth Vader's Lightsaber for $800 + Free Lightsaber + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T19:01:06.329420Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Estée Lauder Revitalizing Supreme+ Youth Power Eye Cream w/ Hyaluronic Acid $46.80 + Free Store Pickup at Macy's or Free Shipping on $39+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T19:01:06.329420Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas Men's 3-Stripes Full-Zip Puffer Jacket Sm to XXXL - Black $39.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T19:01:06.329420Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[SnS] $3.05* | 5-Ct 1.59-Oz Larabar Peanut & Almond Protein Bars (Lemon) at Amazon",
   "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-10-02T18:55:33.241778Z",
@@ -75049,14 +75185,6 @@
  },
  {
   "source": "slickdeals",
-  "raw_title": "adidas Men's 3-Stripes Full-Zip Puffer Jacket Sm to XXXL - Black $39.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-24T22:31:24.585322Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
   "raw_title": "$13 AC AMAZON Tilswall Cordless Hot Glue Gun W106s with Rechargeable 2Ah Blue",
   "reason": "Posted at $13.00, but Amazon showed $17.99 when we checked — the deal is probably over",
   "rejected_at": "2026-09-24T22:25:53.426320Z",
@@ -129548,54 +129676,6 @@
   "raw_title": "(YMMV) OFF! Backyard & Deep Woods DEET Insect Repellent Spray, Zevo repellant lotion, others., In-store clearance @ Walmart starting at $3",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-18T19:01:39.825381Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Adidas Women's Adizero SL2 Shoes $34.80",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T18:56:16.971656Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Totes Men's Double Buckle Adjustable Slides $16.09",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T18:56:16.971656Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Estée Lauder Double Wear Stay-in-Place Foundation Makeup $24.70",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T18:56:16.971656Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Indoor Herb Garden Kit 33-Piece $22.19",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T18:56:16.971656Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Replacement for Brother P-Touch TZe-231 Label Tape 10-Pack $13.42",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T18:56:16.971656Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "PAGANI DESIGN V3 40mm Luxury GMT Automatic Mechanical Watches blue red 3 $89.4 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T18:56:16.971656Z",
   "code": "not_checked",
   "public": false
  }
