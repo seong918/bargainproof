@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "90-Count iMATCHME Vital Beets 1800mg Beet Root Capsules $8.09 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-02T06:26:49.658649Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$111.74* | Microsoft Xbox Elite Series 2 Core Wireless Gaming Controller (White) at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-10-02T06:26:49.658649Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "2-Pack Gaiatop Rechargeable Hand Warmers w/ Magnetic Split Design & 3 Heat Levels (Orange Dog) $8.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs multi-pack, Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-10-02T06:15:45.042713Z",
