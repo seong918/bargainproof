@@ -1,5 +1,38 @@
 [
  {
+  "deal_id": "a9f20d7bcba2",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20086788-prime-members-2-pack-32-oz-amazon-basics-streak-free-glass-cleaner-3-95-w-s-s-free-shipping?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
+  "title": "2-Pack 32-Oz Amazon Basics Streak-Free Glass Cleaner w/ S&S",
+  "raw_title": "Prime Members: 2-Pack 32-Oz Amazon Basics Streak-Free Glass Cleaner $3.95 w/ S&S + Free Shipping",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 395,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "sns",
+   "prime",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-10-02T04:41:18.635285Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "15cfae39b42c",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20086566-53-89-techni-mobili-sit-to-stand-rolling-adjustable-storage-medical-laptop-computer-cart-chocolate-b005?utm_source=rss&utm_content=ht&utm_medium=RSS2",
