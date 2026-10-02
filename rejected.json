@@ -1,6 +1,54 @@
 [
  {
   "source": "dealcatcher",
+  "raw_title": "Hershey's Assorted Halloween Candy Bulk Variety Pack 70 pieces $10.27",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T20:07:43.281821Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Tillamook Country Smoker Real Hardwood Smoked Sausages, Original Beef 15.2-Oz $12.74",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T20:07:43.281821Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Home Decorators Collection Terryn 31\" Bath Vanity w/ Top for $539 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T20:07:43.281821Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Refurb Arlo Essential Security Camera 2K Wireless Security Camera for $24 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T20:07:43.281821Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "AppleTV - Death Note: Complete Series (English) - $8.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T20:07:43.281821Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Haunted Living 5.9-ft Lighted Motion Activated Rotton Candy Girl Halloween Animatronic Lowes.com - $209",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T20:07:43.281821Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
   "raw_title": "DEWALT 20V MAX XR Brushless 4-Tool Combo Kit with POWERSTACK Compact Battery, 5.0Ah Battery $399.00",
   "reason": "Not evaluated",
   "rejected_at": "2026-10-02T20:02:10.719391Z",
@@ -129821,30 +129869,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-18T20:11:50.663742Z",
   "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Oceania 12-Night Caribbean Cruise for From $8,050 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T20:06:28.756819Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Hyper Bicycles 26\" Men's Electric Cruiser E-Bike for $398 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T20:06:28.756819Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "C4 Original Pre Workout Powder for $23 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T20:06:28.756819Z",
-  "code": "no_signal",
   "public": false
  }
 ]
