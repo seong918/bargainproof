@@ -1,6 +1,14 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[NEW] $59.99 | DEWALT Portable Air Mover, 276W 3 Speed Floor Fan, Utility Blower Fan at Amazon",
+  "reason": "Same deal was already posted from another source",
+  "rejected_at": "2026-10-02T23:16:59.437607Z",
+  "code": "duplicate",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "$39.98* | Acer Prime 3-in-1 MagSafe Wireless Charging Station (for iPhone, Apple Watch, AirPods) at Amazon",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-10-02T23:11:26.175229Z",
@@ -129772,14 +129780,6 @@
   "raw_title": "with 2 batteries, WORX 20V 12\" 2-in-1 Cordless String Trimmer & Electric Lawn Edger, WG163, $79.99, Amazon",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-18T23:20:39.784856Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "WORX 20V 12\" 2-in-1 Cordless String Trimmer & Electric Lawn Edger for $80 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T23:15:15.741567Z",
   "code": "not_checked",
   "public": false
  }
