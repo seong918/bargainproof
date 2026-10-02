@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "92c54e45b838",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20085501-sns-12-68-4-pk-22-oz-bob-s-red-mill-organic-quick-cooking-steel-cut-oats-at-amazon-3-17-each?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "4-Pk 22-Oz Bob's Red Mill Organic Quick Cooking Steel Cut Oats at Amazon",
+  "raw_title": "[SnS] $12.68* | 4-Pk 22-Oz Bob's Red Mill Organic Quick Cooking Steel Cut Oats at Amazon ($3.17 each)",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 1268,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "sns",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-10-02T00:59:29.602819Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "08af1ddfc767",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20086221-a-minecraft-movie-original-soundtrack-vinyl-mp3-7-69-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
