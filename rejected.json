@@ -1,5 +1,101 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "15 Zone Heated Vest for Men, $49.99 w/ coupon and code",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-02T15:24:33.343174Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "The Syndrome [Blu-ray] $6.96 Amazon.com",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-02T15:24:33.343174Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon - Gydom Kids Smart Watch, Birthday Gift Toy for Girls and Boys Ages 4-12 - $22.99",
+  "reason": "Posted at $22.99, but Amazon showed $39.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-02T15:24:33.343174Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Nongshim Shin Ramyun Bowl Noodles, Spicy Korean Signature Instant Ramyun, Rich Beef Flavored Broth Microwaveable Bowl, 3.03 oz (Pack of 12) $10.80",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T15:24:33.343174Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "AKYEN 5-Tier A-Frame Dumbbell Rack Stand (480-Lb Capacity) $44.84",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T15:24:33.343174Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Friskies Gravy Swirlers 3.15lb Bag $3.41",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T15:24:33.343174Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Home Depot 2-Gal. Orange Halloween Bucket for $3 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T15:24:33.343174Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Soothfeel Men's Long Sleeve Athletic Workout Shirt for $10 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T15:24:33.343174Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "JHK 40x24\" Adjustable Height Sit-Stand Desk for $48 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T15:24:33.343174Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "WD Green™ SN350 NVMe 1TB SSD - M.2 2280 $131.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T15:24:33.343174Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ASUS GeForce RTX 5090 PCI Express 5 32GB GDDR7 Gaming Graphics Card, 2437 MHz Core, 28000 MHz, Multicolored (TUF-RTX5090-32G-G) $4267.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T15:24:33.343174Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ECO-WORTHY 10KW 48V Off-grid Inverter 120V/220V Split Phase 200A Charger UL1741 $1280 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T15:24:33.343174Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealcatcher",
   "raw_title": "Balivsa Womens Waffle Knit V-Neck Long Sleeve T-shirts Button Down with Pockets Tunic $6.49",
   "reason": "Not evaluated",
@@ -129980,78 +130076,6 @@
   "raw_title": "42mm Glycine Combat Field Black Dial Men's Automatic Watches $379 + Free S/H",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-18T15:25:46.807432Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "TOZO A1 Wireless In-Ear Earbuds w/ Bluetooth 5.3 & ENC Microphone (Black) $13.96 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-18T15:20:23.602194Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Tribesigns 5 Tiers Tall Indoor Plant Stand 70.9 inches $75.39",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T15:20:23.602194Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Mystery Ranch Bridger 45L Backpack $150.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T15:20:23.602194Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "FRANKLIN 150 lb. Capacity Foldable Hand Truck $29.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T15:20:23.602194Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Skechers Men's Haymar 46mm Analog Watch w/ Blue Dial & Silver Metal Bracelet $29.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T15:20:23.602194Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Padilla Fumas 24-Cigar Sampler for $39 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T15:20:23.602194Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "5lbs Ice Breakers Ice Cubes (Sugar Free Gum - Raspberry) $20 + Free S/H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T15:20:23.602194Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Journey - Frontiers 40th Anniversary - VINYL LP $14.99 Best Buy",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T15:20:23.602194Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "24L Nike Aura Backpack (Blue) $17.61 + Free Shipping on $49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T15:20:23.602194Z",
   "code": "not_checked",
   "public": false
  }
