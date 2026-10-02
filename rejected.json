@@ -1,5 +1,69 @@
 [
  {
+  "source": "dealcatcher",
+  "raw_title": "DEWALT 20V MAX XR Brushless 4-Tool Combo Kit with POWERSTACK Compact Battery, 5.0Ah Battery $399.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T20:02:10.719391Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "DEWALT 20-volt MAX 2-Tool Brushless Power Tool Combo Kit with 2 5Ah Batteries $249.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T20:02:10.719391Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Cook’s Essentials Reusable Silicone Baking Mats 6-Pack $6.89",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T20:02:10.719391Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Nvkrvks Fire Starter 64-Count $7.19",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T20:02:10.719391Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Samsung 32\" The Movingstyle Essential 4K UHD Smart Monitor $484.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T20:02:10.719391Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Hanes Women's Slub Jersey Full Zip Hoodie for $17 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T20:02:10.719391Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Haunted Living 6-ft Motion Activated Ice Scream Skeleton Animatronic Lowes.com - $188",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T20:02:10.719391Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "ASRock Challenger AMD Radeon RX 9070 XT 16GB GDDR6 PCIe 5.0 Graphics Card $739.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T20:02:10.719391Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "$249.99 | Marshall Stanmore III Bluetooth Home Speaker at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
@@ -22637,14 +22701,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-30T19:07:18.449280Z",
   "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ASRock Challenger AMD Radeon RX 9070 XT 16GB GDDR6 PCIe 5.0 Graphics Card $739.99 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-30T19:07:18.449280Z",
-  "code": "not_checked",
   "public": false
  },
  {
@@ -129789,38 +129845,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-18T20:06:28.756819Z",
   "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS] $11.87 | Clinique Almost Lipstick Tinted Lip Balm (Pink Honey) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-18T20:01:04.397699Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "WISHBETY 4K Night Vision Goggles for Adult,5000mAh Night Vision Binoculars $44.99",
-  "reason": "Posted at $44.99, but Amazon showed $89.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-18T20:01:04.397699Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$10 Target GiftCard with $100 One4all gift card purchase",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T20:01:04.397699Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "24 Batteries, 6 Packs of 4 Batteries) Duracell Rechargeable AA Batteries - Long-lasting Power, All-Purpose Pre-Charged Battery $44.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T20:01:04.397699Z",
-  "code": "not_checked",
   "public": false
  }
 ]
