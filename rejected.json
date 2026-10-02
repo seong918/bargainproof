@@ -1,5 +1,29 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Boss Katana Gen 3 100W 1x12 Limited-Edition Guitar Combo Amplifier for $400 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T21:36:49.055519Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "TCL QM6K Series 50\" 4K HDR QD-Mini LED UHD Smart Google TV for $498 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T21:31:14.693585Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "The Battle Royale - Battle Royale: The Complete Collection - BLU-RAY $17.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T21:25:39.586248Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Costco - Neutrogena Hydro Boost Body Gel Cream, 16 fl oz, 2-pack $4.97 in store only YMMV",
   "reason": "Not evaluated",
@@ -129892,102 +129916,6 @@
   "raw_title": "TCL 98\" Q6 Class 4K UHD HDR QLED Smart TV with Google TV - Select Locations $999.91",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-18T21:37:57.177250Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[NEW] $30.45 | ESTWING Gad Pry Bar, 18\" Geologist Prying Tool, GP-18 at Amazon",
-  "reason": "Community score too low (+2) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
-  "rejected_at": "2026-09-18T21:32:32.520805Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[NEW] $99.50 | DERMAFLASH LUXE+ Sonic Dermaplaning Tool for Face Peach Fuzz Removal, Anti-Aging and Exfoliation at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
-  "rejected_at": "2026-09-18T21:32:32.520805Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ACEMAGIC X3 Mini Gaming PC Ryzen 7 H 255 Radeon 780M 16GB 1TB Windows11 Pro $575",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-18T21:32:32.520805Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Waterdrop Gravity-Fed Water Filtration System for $100 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T21:27:09.237953Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Duratech Super-Thin SAE 8-Piece Open End Wrench Set for $24 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T21:27:09.237953Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Greenworks 24V 15\" Brushless Cordless Battery String Trimmer (1) 6.0 ah battery, (1) 65w usb-c fast charger + Free S/H $119",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T21:27:09.237953Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Costco: Star Wars Asmodee Unlimited Gift Box (includes 8 booster packs) for $34.99 (in-warehouse)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T21:27:09.237953Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Greenworks 1900 PSI 1.2 GPM Cold Water Electric Pressure Washer + Free S/H $119",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T21:27:09.237953Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS] $13.30* | 0.27-Oz Too Faced Better Than Sex Volumizing Mascara (Black) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-18T21:21:47.335570Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "hip2save",
-  "raw_title": "Hurry! Popular LEGO Friends Dollhouse Suitcase from $39.98 Shipped (Ends Tonight!)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T21:21:47.335570Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Greenworks 40V Cordless Battery Inflator (Tool Only) $42.5",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T21:21:47.335570Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Refurbished: AOC C27G4HX 27\" VA Panel Curved Gaming Monitor FHD 1920x1080 200Hz $78.39 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T21:21:47.335570Z",
   "code": "not_checked",
   "public": false
  }
