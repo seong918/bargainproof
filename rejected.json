@@ -1,5 +1,37 @@
 [
  {
+  "source": "dealcatcher",
+  "raw_title": "VEVOR 44\" Garage Creeper 300 lbs Capacity $46.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T17:10:10.828281Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Shiatsu Foot Massager with Heat for $43 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T17:10:10.828281Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Waterproof Phone Pouch 2-Pack Just $4.50 on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T17:10:10.828281Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "17\" Wrangler Rodeo Sport Denim Backpack (Blue or Gray) $11.60 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T17:10:10.828281Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Amazon Grocery 8oz Chopped Walnuts $2.93",
   "reason": "Posted at $2.93, but Amazon showed $3.09 when we checked — the deal is probably over",
@@ -129685,70 +129717,6 @@
   "reason": "Not evaluated",
   "rejected_at": "2026-09-18T17:13:31.249586Z",
   "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Huggies Simply Clean Unscented Baby Wipes 704 Count $12.66",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:08:06.956494Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Solar Halloween Firework Garden Lights Outdoor, Green, 4 Pack $14.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:08:06.956494Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Samsonite Better Than Basics Weekender Duffle $69.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:08:06.956494Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Connect 4 Frenzy Game $7.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:08:06.956494Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Lefant M310 Ultra Robot Vacuum and Mop for $70 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:08:06.956494Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Oceania 15-Night Miami to Los Angeles Cruise for From $12,494 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:08:06.956494Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Sol de Janeiro Jet Set 3-Piece Body Care Kits Only $27 Shipped on Amazon ($40 Value)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:08:06.956494Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Adidas Men's Tiro 26 Competition All Weather Jacket. (2 Colors) $30.00 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:08:06.956494Z",
-  "code": "not_checked",
   "public": false
  }
 ]
