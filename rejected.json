@@ -1,6 +1,22 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "KUCHEY 140PCS Halloween Window Clings Decor $2.99 + Free S&H w/ Prime or $35+",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-02T03:23:42.668228Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$78 | THE NORTH FACE Women's Junction Insulated Jacket (Black, Medium) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-02T03:23:42.668228Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "(prime) 2-Pack SZPOWER 6000LM Solar Outdoor Lights w/ Motion Sensors & Remote Control $18 + Free S/H",
   "reason": "Community score too low (+0) to pass without a price check — needs multi-pack, Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-10-02T03:12:39.906587Z",
@@ -131372,38 +131388,6 @@
   "raw_title": "adidas men Tech Response 3.0 Golf Shoes $25.2",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-18T03:27:49.127216Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon - Smlau Kids Bubble Machine - $11.99 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-18T03:22:25.182485Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon - luvamia Women's 2-Piece Vest & Wide-Leg Pant Suit - $27.99 w/ Code",
-  "reason": "Community score too low (+1) to pass without a price check — needs promo code, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-18T03:22:25.182485Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ZKpilse 4000A Portable Car Jump Starter w/ 150 PSI Air Compressor & Flashlight $29.69 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-18T03:22:25.182485Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "3-Pack ASUS ZenWiFi BE14000 Tri-Band Wi-Fi 7 Mesh System (Refurbished) $500 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T03:22:25.182485Z",
   "code": "not_checked",
   "public": false
  }
