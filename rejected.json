@@ -1,5 +1,109 @@
 [
  {
+  "source": "techbargains",
+  "raw_title": "Capapro 4-in-1 12V 150PSI Inflator Jump Starter with 4000A Air Compressor $28.99",
+  "reason": "Posted at $28.99, but Amazon showed $52.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-02T14:45:32.740051Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Aikeec Golf Practice Hitting Net with 5-Layer Polyester Mesh & Target Cloth $125.59",
+  "reason": "Posted at $125.59, but Amazon showed $156.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-02T14:45:32.740051Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Sixthgu 20000mAh 200W 3-Port Laptop Power Bank $64.99",
+  "reason": "Posted at $64.99, but Amazon showed $129.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-02T14:45:32.740051Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "roborock F25 ALT Wet Dry Vacuum Mop Combo with Self-Propelled Assist Wheels $229.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T14:45:32.740051Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "roborock F25 Combo Wet Dry Vacuum Cleaner $313.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T14:45:32.740051Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Blink Outdoor 4 and Wired Doorbell 2K+ 5 Cameras $104.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T14:45:32.740051Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Viva Signature Cloth Paper Towels, 12 Family Triple Rolls $23.79",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T14:45:32.740051Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Blue Buffalo Blue Bits Plus Mobility + Immune Soft Dog Treats 3.5oz $2.24",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T14:45:32.740051Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "adidas Men's Hats Deals for From $11 + Free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T14:45:32.740051Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Tillamook Country Smoker Zero Sugar Smoked Sausage Sticks 36-Pack for $12 via Sub. & Save + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T14:45:32.740051Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Woodstock Men's Beacon Genuine Leather Comfort Clog Sandal $15",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T14:45:32.740051Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Starts 10/04] Apple AirPods Pro 3 Wireless Active Noise Cancelling Earbuds $199.99 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T14:45:32.740051Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "onn 65\" Class 4K UHD Powered by VIZIO Smart Television, 65S4V4 $258",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T14:45:32.740051Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "Campbell's Chunky Soup, Chili Mac, 18.8 Oz Can~$1.58 After Coupon & S&S @ Amazon",
   "reason": "Community score too low (+2) to pass without a price check — needs clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
@@ -129918,61 +130022,5 @@
   "rejected_at": "2026-09-18T14:47:56.703964Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Shoe Protector Spray $8.49 – Waterproof & Stain Repellent for Sneakers, Suede & Canvas",
-  "reason": "Posted at $8.49, but Amazon showed $16.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-18T14:42:32.684619Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Vicks PainQuil PM Max Strength Pain Relief + Sleep Aid LiquiCaps, 100 Count $10.47",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T14:42:32.684619Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Temptations MixUps Crunchy Cat Treats, Surfer's Delight, 16 oz | Tuna, Shrimp & Salmon flavors, under 2 calories per treat, 100% complete & balanced for adult cats, resealable stay-fresh tub $7.57",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T14:42:32.684619Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Temptations Creamy Puree Lickable Cat Treats, Seafood Variety, 24 Count $11.19",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T14:42:32.684619Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "GZJ 8-in-1 Foldable Pilates Reformer for $50 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T14:42:32.684619Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Baseus 60W Enjoyment Pro USB-C Car Charger w/ Retractable Type-C Cable (Black) $5.99 + Free Store Pickup at Best Buy",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T14:42:32.684619Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[AC] $44.09* | 3-Piece Tramontina Pro Series Forged Kitchen Knife Starter Set (Black/Steel) at Amazon",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-18T14:42:32.684619Z",
-  "code": "duplicate",
-  "public": true
  }
 ]
