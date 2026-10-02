@@ -1,5 +1,53 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "$39.98* | Acer Prime 3-in-1 MagSafe Wireless Charging Station (for iPhone, Apple Watch, AirPods) at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-02T23:11:26.175229Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$19.00 | Him 4K Collector's Edition: SteelBook (4K Ultra HD + Blu-ray + Digital 4K) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-02T23:11:26.175229Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] $18.16* | 8-Qt Ecolution Stainless Steel Stock Pot w/ Glass Lid at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-02T23:11:26.175229Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ace Ventura: Pet Detective Collector's Edition 4K Ultra HD + Blu-ray for $20 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T23:11:26.175229Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Dewalt ATOMIC 20V MAX Lithium-Ion Cordless Die Grinder with Paddle Switch with 4.0 Ah and 5.0 Ah Batteries and Charger $229",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T23:11:26.175229Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Dewalt ATOMIC 20V MAX Lithium-Ion Cordless Brushless 3 in. Cut-Off Tool with 4.0 Ah and 5.0 Ah Batteries and Charger $229",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T23:11:26.175229Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "Top Gun 4K UHD + Blu-ray + Digital for $8 + free shipping w/ Prime",
   "reason": "Not evaluated",
@@ -129732,14 +129780,6 @@
   "raw_title": "WORX 20V 12\" 2-in-1 Cordless String Trimmer & Electric Lawn Edger for $80 + free shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-18T23:15:15.741567Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "CRAFTSMAN V20 Advanced 3Ah Battery Starter Kit and Charger + Free Brushless Tool Of Choice (11 Choices)$129",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T23:09:52.078676Z",
   "code": "not_checked",
   "public": false
  }
