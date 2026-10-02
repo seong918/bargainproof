@@ -1,5 +1,37 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "120-Count Sports Research Omega-3 Wild Alaskan Cod Liver Oil Softgels $13.47 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T22:21:16.396127Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Jamo Speakers: 2x S 809 + 2x S 803 + 2x S 8 + S 81 + S 810 $399 + Free S&H",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T22:21:16.396127Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Ebern Designs Double Wide Standard Bookcase for $168 + free 1-day shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T22:15:41.116603Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Greenworks 24V Cordless 135 CFM Leaf Blower w/ 2Ah Battery & Charger, $40, free shipping, ebay",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T22:15:41.116603Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "dealnews",
   "raw_title": "17 Stories Livia Queen Platform Bed Frame w/ Charging Station & LED Light for $254 + free 2-day shipping",
   "reason": "Not evaluated",
@@ -129780,94 +129812,6 @@
   "raw_title": "2-Pack Cardinal Gates in Brass, Black, or Satin/Nickel Child Proof Door Guardian $27.19",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-18T22:26:34.515509Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$59.99* | Logitech Keys-to-Go Bluetooth Keyboard for iPhone, iPad, Mac - Off-White at Amazon",
-  "reason": "Community score too low (+-1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
-  "rejected_at": "2026-09-18T22:21:08.006508Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$5.13 | Kwikset Singapore Dummy Door Handle + 15% Back w/ Prime Visa Card at Amazon",
-  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-18T22:21:08.006508Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "HP Envy 6165 Wireless AI-Enabled All-in-One Inkjet Printer for $80 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T22:21:08.006508Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Greenworks 24V Drill & Impact Driver 2x2Ah Battery, 4Ah Battery, Charger $199.99 free shipping Costco.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T22:21:08.006508Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Energy Take Classic 5.1 Channel Home Theater System $179 + Free S/H",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T22:21:08.006508Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "LEGO Botanicals Water Lilies Or Floral Perfume Bottle Set from $23.98 Shipped (Reg. $34)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T22:15:43.669342Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "LG 77\" Class - OLED evo AI C6H Series - 4K Smart TV $1899",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T22:15:43.669342Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Wells Lamont Men's HydraHyde Leather Work Gloves, 6-pair $37.99 Free Shipping Costco.com",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T22:15:43.669342Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "ShopRite Supermarkets 9/20-9/26: Purchase $100 in One4all Favorites GC get a $15 Grocery Voucher valid 9/27-10/3",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T22:15:43.669342Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Dr Pepper & Cream Zero Sugar 12-Pack for $6 + pickup",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T22:10:19.421214Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Ecarke 5.5\" Aluminum Alloy 90° Corner Clamps for Woodworking 4-Pack for $38 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T22:10:19.421214Z",
   "code": "not_checked",
   "public": false
  }
