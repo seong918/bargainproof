@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[Prime] $89.99 | TOSHIBA Microwave Oven, 0.9 Cu.Ft, 900W, Stainless Steel at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-02T20:18:49.117011Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Uni-Ball 207 0.7mm Medium Point Gel Pens 8-Count (Black) $5.69",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T20:18:49.117011Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Shameless Pets Soft-Baked Dog Treats Blueberried Treasure 6-Oz $2.36",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T20:18:49.117011Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Mana MTV Unplugged Vinyl Record for $28 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T20:18:49.117011Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[Prime] $94.95 | TOSHIBA 10-in-1 Convection Toaster Oven, 6-Slice Countertop Oven, 1500W at Amazon",
   "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-10-02T20:13:16.623292Z",
@@ -81833,14 +81865,6 @@
  },
  {
   "source": "dealcatcher",
-  "raw_title": "Uni-Ball 207 0.7mm Medium Point Gel Pens 8-Count (Black) $5.69",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-24T13:44:56.947610Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
   "raw_title": "Lenovo Yoga Tab Plus Gen 2 $840.00",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-24T13:44:56.947610Z",
@@ -129868,38 +129892,6 @@
   "raw_title": "TCL 115QM7K 115 inch Class QM7K Series 4K UHD QD-Mini LED Smart Google TV $9999.99",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-18T20:22:36.832666Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "C4 Ripped Sport Pre Workout Powder 30 Servings for $20 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T20:17:15.562231Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Target One4all Gift Card Deals for $10 Target GiftCard + email delivery",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T20:17:15.562231Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Certified Refurbished: Hisense PX3-PRO 4K UHD Triple Laser Home Theater UST Projector (Up to 150\") $1610 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T20:17:15.562231Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "2-Pack 2.3-Oz Laneige Water Sleeping Mask EX $32.79 ($16.39 Each) + Free Shipping w/ Prime or $6 Fee per Order",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T20:17:15.562231Z",
   "code": "not_checked",
   "public": false
  }
