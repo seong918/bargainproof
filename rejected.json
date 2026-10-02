@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "[Prime] Ninja SP101 8-in-1 XL Digital Air Fry Countertop Oven (Silver) $159.99 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-02T02:22:46.948213Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[Prime] Amazon Basics Heavy Duty Stapler w/ 1000 Staples (White) $7.79 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-02T02:22:46.948213Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$31.99* | 15″ Lodge Pre-Seasoned Cast Iron Pizza Pan at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-02T02:17:12.116793Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "280 Pcs LEGO Lucky Cat Building Toys (40813) $20 + Free S&H w/ Prime or $35+",
   "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-10-02T02:06:05.049306Z",
@@ -131468,22 +131492,6 @@
   "raw_title": "ZMISHIBO Low Profile 19.7in Black 6-Speed Ceiling Fan w/ Lights + Remote $39.95 + Free S/H",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-09-18T02:22:56.946414Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "300-Ct Contac Allergy Relief Tablets, Loratadine 10 mg Antihistamine $8.95 w/ Prime s/h",
-  "reason": "Community score too low (+-1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-18T02:17:32.332988Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Soothfeel Women's High Rise Straight Leg Yoga Dress Pants (various) $16.79 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-18T02:12:06.281124Z",
   "code": "low_score",
   "public": true
  }
