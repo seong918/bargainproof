@@ -1,5 +1,165 @@
 [
  {
+  "source": "slickdeals",
+  "raw_title": "[AC] $32.95 | 4-Pack 270-Piece LEGO Creator: 3 in 1 - Flatbed Truck with Helicopter (31146, 2024) at Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-02T17:32:19.199131Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Yamaha True X bar 50A Sound Bar with Dolby Atmos Wireless Subwoofer $229.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T17:32:19.199131Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Marvel Toddler or Kids' Spiderman Costumes (Various) $15.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T17:32:19.199131Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Baby 2-Piece Halloween Glow-in-the-Dark Skeleton PJs $9.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T17:32:19.199131Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Men's Cologne Flash Sale at Macy's: Up to 50% off + free shipping w/ $39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T17:32:19.199131Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "40\"x 24\" JHK Height Adjustable Electric Standing Desk (Bamboo Wood Color) $51.15",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T17:32:19.199131Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Looney Tunes Collectors Choice: Volume 4 Blu Ray $9.49 Amazon.com",
+  "reason": "Community score too low (+2) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-02T17:26:46.919111Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Nongshim 4.58oz Shin Gold Gourmet Instant Ramen Noodles (16-Pack) $25.41",
+  "reason": "Posted at $25.41, but Amazon showed $26.90 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-02T17:26:46.919111Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Kitchen Elite 7QT Slow Cooker $29.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T17:26:46.919111Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Coway Airmega Mighty2 AP-1512N $188.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T17:26:46.919111Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Dove Beauty Bath & Body Care Deals at Target: Buy 1, get 2nd for 25% off + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T17:26:46.919111Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Wolverine Men's Rev UltraSpring DuraShocks Vent CarbonMax Work Boot for $90 + free shipping w/ $75",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T17:26:46.919111Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "PUMA Men's CloudSpun Tech ¼ Zip Top (Mint) $18.97 + Free Shipping on $49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T17:26:46.919111Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$14ac AMAZON LISEN 15W Magsafe Car Mount Charger Magnetic Wireless Car Charger, Suction Phone Mount, Vacuum Magnetic Holder",
+  "reason": "Posted at $14.00, but Amazon showed $26.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-02T17:21:13.154712Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$40 ac FS AMAZON VOSOCO Karaoke Machine, Bluetooth Speaker with 2 Wireless Mics for Adults",
+  "reason": "Posted at $40.00, but Amazon showed $76.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-02T17:21:13.154712Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "RAW Nutrition Pre-workout Powder (Stim or Non-Stim) 3-Pack $29.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T17:21:13.154712Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Hearth & Hand w/ Magnolia Acacia Wood Wall Mounted Display Box (2-Shelf) $24.49",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T17:21:13.154712Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Target Halloween Toys & Games Sale: Up to 40% off + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T17:21:13.154712Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Wayfair Mattresses & More Sale: Up to 50% off + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T17:21:13.154712Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Reusable Gift Bags & Tags 36-Piece Set from $37.48 Shipped (Over $135 Value)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T17:21:13.154712Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "techbargains",
   "raw_title": "Campbell's Chunky Healthy Request Chicken Noodle Soup (16.1oz, 8-Pack) $8.81",
   "reason": "Posted at $8.81, but Amazon showed $11.53 when we checked — the deal is probably over",
@@ -129556,174 +129716,6 @@
   "raw_title": "Today Only El Pollo Loco Friday Drop Free Original Pollo Bowl with $15 Purchase Valid 09/18 Only for Rewards Members",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-18T17:35:14.068922Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Essentia Ionized Alkaline Water, 9.5+ pH, 12 x 1L $9.90",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:29:49.647705Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Bedsure 100% Cotton Muslin Blanket Beige Throw XL $14.84",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:29:49.647705Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Snyder's of Hanover Sticks Pretzels 16 Oz $2.89",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:29:49.647705Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "DenTek Floss Picks Advanced Clean Plaque Remover 150 Count $2.29",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:29:49.647705Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "48 Pockets Over the Door Shoe Organizer $9.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:29:49.647705Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "The Pink Stuff Miracle Toilet Cleaner Only $2 Shipped on Amazon (Reg. $6)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:29:49.647705Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas Men's Runfalcon 5 Running Shoes (Cloud White / Core Black / Grey Four) $27.3",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:29:49.647705Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "NECKUP Advanced Airbag Neck Stretcher $10.50 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:29:49.647705Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "25 Universal Studios Digital Action movies $25.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:29:49.647705Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Bedsure Mellow Marshmallow Bedding $18.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:24:24.574234Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Amazon Basics 100W 4-Port GaN Wall Charger $60.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:24:24.574234Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Under Armour Men's Ignite Pro Flip Flops $19.86",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:24:24.574234Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Lipton Peach Iced Tea 16.9 Fl Oz Bottles (12-Pack) $6.45",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:24:24.574234Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Women’s Plus Size Pajama Sets from $10.98 (Reg. $25)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:24:24.574234Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[SnS] $8.22* | 3-Pk 12.5-Oz MRS. MEYER'S CLEAN DAY Liquid Hand Soap (Geranium) at Amazon",
-  "reason": "Community score too low (+2) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-18T17:18:57.848737Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Shark AV2511AE AI Ultra Robot Vacuum $299.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:18:57.848737Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "2-Pack 5W Solar Panel Charger (2nd Gen) for Ring Stick Up Cam & Spotlight Cam $14.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:18:57.848737Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Amazon Basics A19 LED Light Bulbs 6-Count, 100W Equivalent, 5000K $7.69",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:18:57.848737Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Waterproof Plastic Outdoor Garbage Can with Drip Tray and Lid, 32 Gallon $50.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:18:57.848737Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Makita XLC07Z 18V LXT Lithium-Ion Handheld Canister Vacuum, Tool Only $142.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:18:57.848737Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Round Trip Denver - Phoenix or Vice Versa $88 Nonstop Airfares on Frontier Airlines BE (Travel October - November 2026)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:18:57.848737Z",
   "code": "not_checked",
   "public": false
  }
