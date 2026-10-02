@@ -1,6 +1,102 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Halloween Advent Calendar 2026, Mini Ghost Party Favors for Kids - $8.99 @ Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-02T13:02:40.180101Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Amazon - Lefant M310 Ultra Robot Vacuum & Mop $70.38",
+  "reason": "Posted at $70.38, but Amazon showed $169.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-02T13:02:40.180101Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "Campbell's Chunky Healthy Request Chicken Noodle Soup (16.1oz, 8-Pack) $10.85",
+  "reason": "Posted at $10.85, but Amazon showed $11.53 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-02T13:02:40.180101Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "NIIMBOT N1 Label Maker with Tape $11.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T13:02:40.180101Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Heaflex Dog Training Electric Collar, IPX8 Waterproof 3300FT $27.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T13:02:40.180101Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Heated Jackets USB Rechargeable $40.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T13:02:40.180101Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Land Guard Mobile Galvanized Raised Garden Bed for $25 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T13:02:40.180101Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Open-Box Keystone 26\" Wall Sleeve for Through-the-Wall Air Conditioners for $24 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T13:02:40.180101Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Vera Bradley East West Tote for $16 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T13:02:40.180101Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Milwaukee SHOCKWAVE Impact-Duty 2-In-1 Alloy Steel Magnetic Nut Driver Set (2-Piece) with 5-Piece Hex Bit Holder with Carabiner, $18.47, FS, Home Depot",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T13:02:40.180101Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Open-Box: DJI Air 3S Fly More Combo, RC-N3 + F/S $966.33",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T13:02:40.180101Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "KTC H27S5C 27\" Curved Gaming Monitor $110.51",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T13:02:40.180101Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[Prime] Taygeer 16.8\" TSA-Approved Carry On Travel Backpack (Pink) $19.99 + Free Shipping",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-10-02T12:57:27.842880Z",
@@ -93616,14 +93712,6 @@
   "public": false
  },
  {
-  "source": "slickdeals",
-  "raw_title": "Milwaukee SHOCKWAVE Impact-Duty 2-In-1 Alloy Steel Magnetic Nut Driver Set (2-Piece) with 5-Piece Hex Bit Holder with Carabiner, $18.47, FS, Home Depot",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-22T21:34:34.268227Z",
-  "code": "not_checked",
-  "public": false
- },
- {
   "source": "techbargains",
   "raw_title": "Wolfbox 20W 4.5kPa Megaflow Mini Portable Air Pump with Nozzles $12.99",
   "reason": "Posted at $12.99, but Amazon showed $21.99 when we checked — the deal is probably over",
@@ -130652,102 +130740,6 @@
   "raw_title": "PUMA Transport Running Men's Grey Sneakers Athletic Shoes - $24.95 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-18T13:05:59.359876Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Fanttik G9 Handy Cordless Electric Spin Scrubber with 5 Brush Heads and 2500mAh Battery $35.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T13:00:41.008431Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Adidas Men's Climacool Shoes (3 Colors) $54.60",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T13:00:41.008431Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Carter’s Boy’s Big Fan of Mommy Football Outfit 2-Piece Set $11.76",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T13:00:41.008431Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Microsoft Surface Laptop 5 13.5\" 2.5GHz/16GB/256GB $379.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T13:00:41.008431Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Oceania 14-Night Lisbon to Rome Cruise for From $9,720 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T13:00:41.008431Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Apple Watch Ultra 4 GPS + Cellular 49mm Smartwatch at Amazon for $799 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T13:00:41.008431Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Apple Watch Series 12 GPS 46mm Smartwatch for $440 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T13:00:41.008431Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Osaki OS-4000XT 2D L-Track Zero Gravity Massage Chair (3 Colors) $999 + Free Delivery",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T13:00:41.008431Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Adidas Women's Gazelle Indoor Shoes (Earth Strata, Sizes: 8-11) $28.80 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T13:00:41.008431Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "PUMA Clyde Embd Nyc Flagship Lace Up Men's White Sneakers Casual Shoes (Select Sizes) - $29.95",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T13:00:41.008431Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "YMMV $184 Best Buy Motorola - moto g stylus 5G 2024 256GB (Unlocked) - Caramel Latte - Open Box - Excellent",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T13:00:41.008431Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Sperry Saltwater Quilted Round Toe Duck Rain Men's Blue Casual Boots (Sz 9+) - $24.95 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T13:00:41.008431Z",
   "code": "not_checked",
   "public": false
  }
