@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Pfaltzgraff Painted Poppies 16-Piece Stoneware Dinnerware Set $49.98",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-02T07:00:08.275549Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bissell Pet Hair Eraser DualBrush HEPA Upright Vacuum (42946) $169.99 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-02T06:54:34.852198Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Sports Research® Whey Protein Isolate Powder Dutch Chocolate, 5.42lb Bag $80.95",
+  "reason": "Posted at $80.95, but Amazon showed $89.95 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-02T06:49:02.230790Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Sonic Origins Plus (PS5) $15 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T06:49:02.230790Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[S&S] $5.40: TheraTears Extra Dry Eye Therapy Lubricating Eye Drops, 0.5 Fl Oz",
   "reason": "Community score too low (+0) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-10-02T06:37:56.714156Z",
@@ -131524,70 +131556,6 @@
   "raw_title": "$14.99 sale for Star Trek: Voyager - The Complete Series",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-18T07:04:56.491014Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Dyson PencilVac Fluffy Cordless Vacuum $199",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T06:59:30.098300Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Lenovo T215 15.6\" Laptop Shoulder Bag (Black) $10.49 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T06:59:30.098300Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Infinity NADO S6 Advanced Pack Blazing War Bear Attack Type Metal Glowing Spinning Battle Top Set w/ Sword Launcher $13.49 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-18T06:48:36.326594Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Costco Members - ECCO Men's Soft 7 Leather Sneaker (black or brown) - $69.97 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T06:48:36.326594Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Costco Members - Saucony Men's Kinvara 16 Shoe (black or green) - $69.99 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T06:48:36.326594Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Costco Members - Kensie Women's Strap Sandal (black or beige) - $7.97 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T06:48:36.326594Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Costco Members - Anne Klein Women's Sandal - $9.97 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T06:48:36.326594Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Wobbly Life (Nintendo Switch or PS5) $20 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T06:43:10.051254Z",
   "code": "not_checked",
   "public": false
  }
