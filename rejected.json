@@ -1,6 +1,30 @@
 [
  {
   "source": "dealcatcher",
+  "raw_title": "ILIFE A30 Pro Robot Vacuum & Mop w/ Self-Empty Base $159.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T21:08:54.104785Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "MULWARK 17pcs Folding Allen Wrench Set 2-Pack $11.39",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T21:08:54.104785Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Vasque Women's St. Elias GORE-TEX Leather Hiking Boots (Taupe) $69.99 + Free Store Pickup at REI $69.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T21:08:54.104785Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
   "raw_title": "Tolkien Illustration Hardcover Edition The Hobbit $83.00",
   "reason": "Not evaluated",
   "rejected_at": "2026-10-02T21:03:21.298691Z",
@@ -129988,38 +130012,6 @@
   "raw_title": "Ecoflow River 3 Max Plus (River 3 Plus with eb600 add on battery) $285.06 plus tax, free ship, Temu",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-18T21:11:00.906007Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[NEW] $19.99 | Taylor Swift: 1989 (Taylor's Version) (2 LP) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
-  "rejected_at": "2026-09-18T21:05:37.114794Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Insulin Peptide Cooler Travel Case for Vial, Up to 40% Off $8.3",
-  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
-  "rejected_at": "2026-09-18T21:05:37.114794Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Oceania 14-Night Caribbean Cruise for From $9,750 for 2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T21:05:37.114794Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Women's Plush Robe with Pockets for $40 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T21:05:37.114794Z",
   "code": "not_checked",
   "public": false
  }
