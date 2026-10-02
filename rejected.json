@@ -1,6 +1,30 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "GLORIOUS Gaming Model D 2 PRO Wireless Gaming Mouse - $49.95",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-02T23:28:05.717723Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "DKNY Men's Modern-Fit Nested Fall Suit for $120 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T23:28:05.717723Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "DAZONGE Halloween Decor, 3 Set Primitive Halloween Ghosts on Wooden Stand $5.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T23:22:32.814252Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[NEW] $59.99 | DEWALT Portable Air Mover, 276W 3 Speed Floor Fan, Utility Blower Fan at Amazon",
   "reason": "Same deal was already posted from another source",
   "rejected_at": "2026-10-02T23:16:59.437607Z",
@@ -129748,38 +129772,6 @@
   "raw_title": "YMMV - Sander's Caramels, BJ's Club, $5.00",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-18T23:31:24.164629Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Waterdrop 10UA Under Sink Water Filter System, NSF/ANSI 42 Certified 1 Year, $37.99, Amazon",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T23:26:02.163757Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "CRAFTSMAN 2000 Series 41-in W x 24.74-in H x 16.32-in D Steel Tool Chest ( Black or Red) | CMST98269BK $259",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T23:26:02.163757Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$27.82* | DC Batman/Superman: World's Finest: The Deluxe Edition Vol. 1 (Hardcover Book) at Amazon",
-  "reason": "Community score too low (+2) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
-  "rejected_at": "2026-09-18T23:20:39.784856Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "with 2 batteries, WORX 20V 12\" 2-in-1 Cordless String Trimmer & Electric Lawn Edger, WG163, $79.99, Amazon",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T23:20:39.784856Z",
   "code": "not_checked",
   "public": false
  }

@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "bcce4e465f34",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20089446-8-pack-gerber-baby-no-scratch-mittens-gray-heather-0-3-months-3-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "8-Pack Gerber Baby No-Scratch Mittens (Gray Heather, 0-3 Months) + or on",
+  "raw_title": "8-Pack Gerber Baby No-Scratch Mittens (Gray Heather, 0-3 Months) $3.99 + Free Shipping w/ Prime or on $35+",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 399,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "prime",
+   "qty"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-10-02T23:28:05.717723Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "d4813777adfc",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20090580-new-59-99-dewalt-portable-air-mover-276w-3-speed-floor-fan-utility-blower-fan-at-amazon?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
