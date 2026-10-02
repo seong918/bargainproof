@@ -1,5 +1,36 @@
 [
  {
+  "deal_id": "b4eed7a76d76",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20090547-the-game-of-life-hello-kitty-and-friends-board-game-collect-apples-and-buy-bows-on-the-way-to-the-ultimate-party-31-49?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
+  "title": "The Game of Life: Hello Kitty and Friends Board Game, Collect Apples and Buy Bows on The Way to The Ultimate Party",
+  "raw_title": "The Game of Life: Hello Kitty and Friends Board Game, Collect Apples and Buy Bows on The Way to The Ultimate Party $31.49",
+  "merchant": "amazon.com",
+  "buy_url": "https://www.amazon.com/dp/B0CSTFL2FD",
+  "deal_total_cents": 3149,
+  "shipping_cents": null,
+  "shipping_known": false,
+  "conditions": [
+   "none"
+  ],
+  "verdict": "confirmed",
+  "amazon_price_cents": 3149,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": 3149,
+  "amazon_url": "https://www.amazon.com/dp/B0CSTFL2FD",
+  "amazon_checked_at": "2026-10-02T22:26:53.994141Z",
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 0,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": "B0CSTFL2FD",
+  "image_url": null,
+  "published_at": "2026-10-02T22:26:49.752487Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "6cbf3b6fb293",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20089785-prime-cuktech-10000mah-magnetic-power-bank-with-built-in-usb-c-cable-17-49-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
