@@ -1,5 +1,29 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Inbox Zero Ergonomic Mesh Commercial Use Office Task Chair for $48 + free 1-day shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T22:04:35.013428Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Kobalt Ultimate Output 24 -Volt 4ah battery, pickup only, $35, Lowe's",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T22:04:35.013428Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "EF ECOFLOW DELTA 3 MAX Plus with Extra Battery, 4096Wh, 3000W Max Output $1946.55",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T22:04:35.013428Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "2 for $4.49 Scrub Daddy or Scrub Mommy",
   "reason": "Not evaluated",
@@ -129838,29 +129862,5 @@
   "rejected_at": "2026-09-18T22:04:57.251242Z",
   "code": "low_score",
   "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Golf Rangefinder with Slope 1500 Yards – $29.99",
-  "reason": "Community score too low (+0) to pass without a price check — we couldn't fetch the Amazon page · watched for 12h",
-  "rejected_at": "2026-09-18T21:59:34.203177Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Gaming Chair w/ Footrest & Lumbar Support for $85 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T21:59:34.203177Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Superman 2025 (4K Ultra HD + Digital) [UHD] $16.99 plus extra 15% Off for new Gruv Accounts with code FIRSTGRUV15",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T21:59:34.203177Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
