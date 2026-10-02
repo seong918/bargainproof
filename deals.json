@@ -1,5 +1,37 @@
 [
  {
+  "deal_id": "3d21a37de0b3",
+  "source": "slickdeals",
+  "source_url": "https://slickdeals.net/f/20084946-60-count-imatchme-vital-beets-30-1-beet-root-gummies-7-19-w-s-s-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "title": "60-Count iMATCHME Vital Beets 30:1 Beet Root Gummies w/ S&S + or on",
+  "raw_title": "60-Count iMATCHME Vital Beets 30:1 Beet Root Gummies $7.19 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "merchant": "amazon.com",
+  "buy_url": null,
+  "deal_total_cents": 719,
+  "shipping_cents": 0,
+  "shipping_known": true,
+  "conditions": [
+   "sns",
+   "prime"
+  ],
+  "verdict": "community",
+  "amazon_price_cents": null,
+  "amazon_coupon_cents": null,
+  "amazon_effective_cents": null,
+  "amazon_url": null,
+  "amazon_checked_at": null,
+  "gap_cents": null,
+  "discount_pct": null,
+  "thumb_score": 5,
+  "price_via": "asin",
+  "amazon_match_title": null,
+  "match_similarity": null,
+  "asin": null,
+  "image_url": null,
+  "published_at": "2026-10-02T01:27:11.086145Z",
+  "withdrawal_reason": null
+ },
+ {
   "deal_id": "d80b0d9085cd",
   "source": "slickdeals",
   "source_url": "https://slickdeals.net/f/20086041-5500a-vtoman-v10-max-portable-jump-starter-w-100w-bi-directional-fast-charger-39-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",

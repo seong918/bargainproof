@@ -1,5 +1,21 @@
 [
  {
+  "source": "dealnews",
+  "raw_title": "Marvel Lights 'N' Sounds Spidey Activity Plane Ride-On Toy for $25 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T01:27:11.086145Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Hyper Tough 262-Piece Mechanics Tool Set for $98 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T01:27:11.086145Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
   "source": "slickdeals",
   "raw_title": "4-Pack AmazonBasics 2400mAh NiMH Rechargeable AA Batteries $4.99 + Free Shipping w/ Prime or $6 Fee per Order",
   "reason": "Not evaluated",
@@ -131460,46 +131476,6 @@
   "raw_title": "Halloween Mini Bubble Wands 24-Pack Only $5.89 Shipped for Prime Members",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-18T01:34:06.652108Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[Prime] $8.65 | The Little Prince (Hardcover) at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-18T01:23:14.489103Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[Prime] $14.82 | The Complete Brambly Hedge (Hardcover) at Amazon",
-  "reason": "Community score too low (+2) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-18T01:23:14.489103Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$30: adidas men SL 72 RS SHOES(Size 4.5~6.5) at ebay",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T01:23:14.489103Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "15-Amp 3-1/4 HP Makita Corded Plunge Router & 6.5-Amp Corded Variable Speed Top Handle Jigsaw w/ Case $339 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T01:23:14.489103Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Dyson V15 Detect Total Clean Extra $399.97 - YMMV",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T01:23:14.489103Z",
   "code": "not_checked",
   "public": false
  }
