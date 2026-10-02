@@ -1,6 +1,102 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "$2.77 or less PRIME ONLY S&S Amazon Basics Plastic Food Wrap, BPA Free, Microwavable, 200 Sq Ft, Pack of 1 plus Buy 4/save 10% Promo",
+  "reason": "Community score too low (+0) to pass without a price check — needs multi-pack, Prime-only price, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-02T01:54:57.804771Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SWEDISH FISH Mini Soft & Chewy Gummy Halloween Candy, 22 ct~2.89 After Coupon @ Amazon $2.89",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-02T01:49:23.149061Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Hyperkin Captain+ Wired Hall Effect Controller for N64/M64 for $19 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T01:49:23.149061Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Marvel's Spider-Man Kids' Integrated Halloween Costume for $15 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T01:49:23.149061Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "24\" VIGRUE 4000 PSI 2-in-1 Undercarriage Pressure Washer & Water Broom Attachment w/ 7 Nozzles & 3 Extension Wands $34.99 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-02T01:43:49.158362Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "KINIKORA Swicy Instant Rabokki Cup 2-Pack, Korean Tteokbokki & Ramen [BOGO + 10% off with S+S] $7.19",
+  "reason": "Posted at $7.19, but Amazon showed $7.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-02T01:43:49.158362Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Insignia 45W Compact Wall Charging Kit for $15 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T01:43:49.158362Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Ozark Trail Men's Softshell Jacket w/ Hood (Green Lichen) $13.16 + Free Shipping w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T01:43:49.158362Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Fanttik Textra 11 Apex 150W Cordless Portable Spot Carpet & Upholstery Cleaner $139.99 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-02T01:38:14.522559Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "cheapshark",
+  "raw_title": "Frozen Synapse",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T01:38:14.522559Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Hisense 55M7SR M7 MiniLED Series 55\" 4K UHD Smart Roku TV for $340 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T01:38:14.522559Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$999.99 FS BEST BUY TCL - 65\" Class QM9K Series 4K UHD HDR QD-Mini LED Smart TV with Google TV (2025)",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T01:38:14.522559Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Fanttik Flip G10 Nano HomeCare Electric Spin Scrubber $29.99 + Free Shipping w/ Prime or on $35+",
   "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
   "rejected_at": "2026-10-02T01:32:42.078760Z",
@@ -131390,109 +131486,5 @@
   "rejected_at": "2026-09-18T01:55:46.640473Z",
   "code": "low_score",
   "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon – HMDecor 8-Pack Solar Pathway Lights - $20.99 w/ Code",
-  "reason": "Community score too low (+2) to pass without a price check — needs promo code, multi-pack, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-18T01:50:23.188461Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Black Crowes - Shake Your Money Maker (2020 Remaster)[LP] $19.99",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-18T01:44:57.789309Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "15.6\" 1080P IPS Laptop Screen Extender, Travel Thin Triple Portable Monitor $159.99",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-18T01:44:57.789309Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Homestyles General Line Mobile Kitchen Cart with Stainless Steel Top and Drop Leaf $128.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T01:44:57.789309Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Sorel Women's ONA Ave Slip-On Sneakers for $25 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T01:44:57.789309Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Prime: OxyEnergy Milk Thistle Liver Support Supplement 90 Vegetarian Capsules with 80% Silymarin $19.56 + Free Shipping",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-18T01:39:32.030810Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[Prime] $6.99 | Spin Master Games Harry Potter Serpents & Staircases Classic Game at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-18T01:39:32.030810Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[Prime] $4.49 | Spin Master Games Bluey Beat the Parents Board Game at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-18T01:39:32.030810Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "ASICS Men's Gel-1130 Running Sneakers for $74 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T01:39:32.030810Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas men ADIDAS X COCA-COLA SUPERSTAR II SHOES (2 Colors) from $61.2",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T01:39:32.030810Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon: Tripp Lite 18 AWG C14 to C13 Power Extension Cord (Red, 3 ft) $5.99 (Reg $10.45, ~43% Off) + FS w/ Prime",
-  "reason": "Community score too low (+1) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-18T01:34:06.652108Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "dealnews",
-  "raw_title": "Back & Body Hurts Happy Birthday Candle for $13 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T01:34:06.652108Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Halloween Mini Bubble Wands 24-Pack Only $5.89 Shipped for Prime Members",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T01:34:06.652108Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
