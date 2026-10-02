@@ -1,6 +1,62 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "(prime) 2-Pack SZPOWER 6000LM Solar Outdoor Lights w/ Motion Sensors & Remote Control $18 + Free S/H",
+  "reason": "Community score too low (+0) to pass without a price check — needs multi-pack, Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-02T03:12:39.906587Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Fanttik Y10 Pro 1\" Cordless Electric Pruning Shears w/ Brushless Motor $65.99 + Free Shipping",
+  "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-02T03:12:39.906587Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "MERACH Adjustable Dumbbells 8-22.5lbs) $60 + Free S/H",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-02T03:12:39.906587Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$78 | THE NORTH FACE Men's Apex Bionic 3 Windproof Vest at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-02T03:12:39.906587Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "G Gradual Men's Long-Sleeve Quarter-Zip Running Shirt (Various) $13.91 + Free Shipping w/ Prime or on $35+",
+  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-02T03:12:39.906587Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$78 | Men's Junction Insulated Jacket (Small) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-02T03:12:39.906587Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "FIT KING Leg Compression Massager for Circulation and Pain Edema Relief $39",
+  "reason": "Posted at $39.00, but Amazon showed $84.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-02T03:12:39.906587Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Fanttik R11 Pro 160W Cordless Brushless Mini Reciprocating Saw $65.99 + Free Shipping",
   "reason": "Community score too low (+-1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-10-02T03:07:08.391625Z",
@@ -131388,30 +131444,6 @@
   "raw_title": "Adidas women's adidas by Stella McCartney Solarglide Shoes (3 colors) - $75.60 + Free Shipping",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-18T03:16:58.923821Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "[S&S] Lunakai USA Made Hair Growth Supplement for Women, 90 Capsules $12.32",
-  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-18T03:11:34.546281Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Imagine Dragons \"Loom\" (Translucent Coke Bottle Green Vinyl LP) $14.99 + Free Shipping w/ Prime or on $35+",
-  "reason": "Community score too low (+0) to pass without a price check — needs Prime-only price, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-18T03:11:34.546281Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "adidas women Galaxy 7 Running Shoes (Onix / Glow Purple / Aurora Onix) $18",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T03:11:34.546281Z",
   "code": "not_checked",
   "public": false
  }
