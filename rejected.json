@@ -1,6 +1,246 @@
 [
  {
   "source": "dealcatcher",
+  "raw_title": "Speed Stick Aluminum Free Men's Deodorant 4-Pack 3-Oz $6.73",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T17:54:32.120166Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "AYURA 100-Ft Retractable Garden Hose Reel $63.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T17:54:32.120166Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Target Oreo Cookies Deal for 2 for $9 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T17:54:32.120166Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Sam’s Club Holiday Cozy Knit Throws Just $24.96 | Christmas Tree, Snowman & More",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T17:54:32.120166Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Tommy Hilfiger Men's Modern-Fit Linen-Blend Windowpane Sport Coat (Blue) $29.99 + Free Store Pickup at Macy's or Free Shipping on $39+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T17:54:32.120166Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "4 Pcs Stackable Wire Baskets,Pantry bin,14.57\"L x 7.09\"W x 5.12\"H $22.74",
+  "reason": "Posted at $22.74, but Amazon showed $34.98 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-02T17:48:57.769390Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Schick Xtreme 3 Sensitive 3-Blade Disposable Razors for Men, 12 Count $9.95",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T17:48:57.769390Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Papillon D’or Wear Your Wings Winter Coat $27.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T17:48:57.769390Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Papillon D’or Wear Your Wings Winter Coat $24.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T17:48:57.769390Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Garden Hose 100FT Non-Expanding Lightweight Flexible $21.59",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T17:48:57.769390Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "YOTTOY Cordless Ball-Weighted Counter Jump Rope w/ LCD Display $4.74",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T17:48:57.769390Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "iMATCHME Saw Palmetto with Pumpkin Seed Extract Prostate Health for Men $9.44",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T17:48:57.769390Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Aveeno Daily Moisturizing Face Lotion, Fragrance-Free, 5 oz $2.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T17:48:57.769390Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "ThermoMaven Propane Blow Torch w/ One-Touch Max Fire $23.90",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T17:48:57.769390Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Beats Studio Pro Wireless Headphones for $149 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T17:48:57.769390Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Hoka Men's Solimar Running Shoes (Black/White, Sizes: 7-11.5) $75.99 + Free Shipping w/ Prime or $6 Fee per Order",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T17:48:57.769390Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Bosch 18V Brushless 1/4\" Hex Screwgun (GTB18V-45N, Bare Tool) $119.00 + Free Shipping",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-02T17:43:23.801394Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS, AC] $5.59* | 2-Pk 5.1-Oz Colgate Total Whitening Toothpaste (Mint) at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs multi-pack, clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-02T17:43:23.801394Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$189.99 | Marshall Acton III Bluetooth Stereo Home Speaker System at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-02T17:43:23.801394Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "adidas Men's Microfiber Boxer Briefs (3-Pack) Performance Stretch Moisture-Wicking Underwear, Black/Onix Grey/Black, L $17.28",
+  "reason": "Posted at $17.28, but Amazon showed $18.00 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-02T17:43:23.801394Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Surge Protector Outlet Extender with Rotating Plug, Multi Plug Wall Outlet $9.99",
+  "reason": "Posted at $9.99, but Amazon showed $11.39 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-02T17:43:23.801394Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "techbargains",
+  "raw_title": "AstroAI Windproof Thermal Fleece Balaclava Ski Mask $6.49",
+  "reason": "Posted at $6.49, but Amazon showed $9.99 when we checked — the deal is probably over",
+  "rejected_at": "2026-10-02T17:43:23.801394Z",
+  "code": "price_mismatch",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Schwinn Loop Adult Folding Bike 20-inch Wheels $299.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T17:43:23.801394Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "10 Pack Seamless G-string Thongs for Women Underwear No Show Thong Panties $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T17:43:23.801394Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "DEWALT Drill Bit Holder Extension, Impact Ready, 6-Inch $8.98",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T17:43:23.801394Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Samsung 85-Inch 4K Neo QLED Mini LED Smart TV $2,247.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T17:43:23.801394Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Target Native Body Care Deals: Buy 1, get 2nd for 50% off + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T17:43:23.801394Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Mountain Dew 6-Can Mini Personal Fridge Cooler for $24 + free shipping w/ $35",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T17:43:23.801394Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "hip2save",
+  "raw_title": "Sharpie Permanent Markers 12-Pack Just $6.83 Shipped on Amazon",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T17:43:23.801394Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Air Jordan MVP 92 Shoes (Black/Gamma Blue) $56.97 + Free Shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T17:43:23.801394Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
   "raw_title": "YITAHOME 4-in-1 Lift Top Convertible Coffee Table with Drawers, Black Top $94.76",
   "reason": "Not evaluated",
   "rejected_at": "2026-10-02T17:37:52.547666Z",
@@ -129452,214 +129692,6 @@
   "raw_title": "4-Qt 2-Pc Tramontina Mesa Enameled Cast Iron Multipurpose Bread Oven (2 Colors) $8",
   "reason": "Not evaluated",
   "rejected_at": "2026-09-18T17:56:48.458284Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Coostar Mens Slip On Walking Shoes Cushioning Running Tennis Sneakers $29.69",
-  "reason": "Posted at $29.69, but Amazon showed $53.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-18T17:51:24.682513Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Seventh Generation EasyDose Laundry Detergent 23.1-Oz (Clean Scent) $5.38",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:51:24.682513Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Coostar Men's Slip-On Canvas Loafers for $30 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:51:24.682513Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Bestway SleepSupport Premium Queen 20\" Air Mattress w/ Built-In Pump for $57 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:51:24.682513Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Victoria's Secret Big Fall Sale Panties Deal for 5 for $20 + Free Shipping w/ $100",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:51:24.682513Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "hip2save",
-  "raw_title": "Stock Your Closet w/ Target’s Basic Tees Starting at Just $4.50",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:51:24.682513Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Round Trip New Jersey to Athens Greece $490-$494 Airfares on SAS Scandinavian Airlines BE (Travel December - March 2027)",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:51:24.682513Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Milwaukee M18 FUEL 18V 4-1/2\"/5\" Variable Speed Slide Switch Brushless Cordless Angle Grinder w/ 6.0Ah Battery $279.00 + Free Shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:51:24.682513Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "4.5-Quart The Cellar 9.5\" Stainless Steel Colander $7.69 + Free Store Pickup at Macy's or Free Shipping on $39+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:51:24.682513Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Range Kleen Half-Sheet Silicone Baking Mat (11.6\" x 16.5\") $3.09 + Free Shipping w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:51:24.682513Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$79.99* | Greenworks 40V Cordless 135 CFM Leaf Blower w/ 2.0 Ah Battery & Charger at Amazon",
-  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-18T17:46:01.548250Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "DEWALT 20V MAX XR Brushless Cordless 1/2 in. Drill/Driver (Tool Only) (DCD801B) $95.56",
-  "reason": "Posted at $95.56, but Amazon showed $130.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-18T17:46:01.548250Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "HMDecor 8-Pack Solar Pathway Lights $20.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:46:01.548250Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Lotus Biscoff Sandwich Cookies (Biscoff Cream) 9-Pack $17.36",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:46:01.548250Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Honeywell HEPA Air Purifier Filter Replacement Kit for HPA300, HPA3300, HPA5300, HPA8350 series (Value Combo Pack Includes 3 HEPA R & 4 A Carbon Pre-Cut Pre-Filters) $60.90",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:46:01.548250Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "The Doctor's BrushPicks Interdental Brushes & Dental Picks 275 Count $2.81",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:46:01.548250Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Victoria's Secret Big Fall Sale: Up to 50% off + Free Shipping w/ $100",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:46:01.548250Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "House of Marley Get Together 2 Mini 20W Portable Bluetooth Speaker (Brown) $19.97 + Free Shipping w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:46:01.548250Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Men's Sneakers (Dockers, Club Room, Reebok etc, Various Sizes): Dockers Men's Ignite Sneakers $20.99 & More + Free Pickup at Macys or Free Shipping on $39+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:46:01.548250Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "AstroAI 26\" Telescoping Windshield Cleaner & Car Interior Detailing Kit w/ 4 Microfiber Pads $10.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:40:37.804889Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Bread Squishy Toy $7.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:40:37.804889Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "3 ft Life Size Human Skeleton $19.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:40:37.804889Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "eFlooky 4.9\" Mini Portable Desk Fan w/ 3 Speeds, LED Light & Rechargeable Battery $6.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:40:37.804889Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Berkley Jensen Maximum Strength Famotidine 20mg Acid Reducer Tablets 2-Pack 125-Count (250 Tablets) $9.49",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:40:37.804889Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Coostar Men's Slip-On Walking Sneakers for $30 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:40:37.804889Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "VIZIO 4.1-Channel 30\" Soundbar System w/ Dolby Atmos, Wireless Surround Speakers & Wireless Subwoofer (SV410XW-0905) $33.60 + Free Shipping w/ Walmart+ or on $35+",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T17:40:37.804889Z",
   "code": "not_checked",
   "public": false
  }
