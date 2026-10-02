@@ -1,6 +1,86 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "Campbell's Chunky Soup, Chili Mac, 18.8 Oz Can~$1.58 After Coupon & S&S @ Amazon",
+  "reason": "Community score too low (+2) to pass without a price check — needs clip coupon, Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-02T14:39:57.886498Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "SpaceAid Toy Storage Organizer with 6 Shelves and 12 Bins, Bookshelf/Bookcase, Kids Bin Shelf, Toys Box for Playroom Organization for Bedroom & Room Decor, White, 52.3\" W $77.97",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-02T14:39:57.886498Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Adidas Men's Adilette Comfort Slides $14.00",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T14:39:57.886498Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Ninja Flip Toaster Oven & Air Fryer 8-in-1 Stainless Steel SP151 $149.94",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T14:39:57.886498Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealcatcher",
+  "raw_title": "Esabel.C Mens Golf Shirt Zipper Polo $9.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T14:39:57.886498Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Gyroor H40 Kids 180W Electric Scooter for $90 + free shipping",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T14:39:57.886498Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "OxiClean Max Force Laundry Stain Treater Spray 3-Pack for $5.65 via Sub. & Save + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T14:39:57.886498Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "Pokemon TCG 30th Celebration Mewtwo Card: Free w/ $15 Purchase",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T14:39:57.886498Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "3-Pack Hanes Originals Men's Dyed Stretch Cotton Tank (White/Tan/Black, Sizes S-3XL) $6.77 + Free S&H w/ Walmart+ or on $35+",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T14:39:57.886498Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "Pre-order Nintendo Switch 2 Console - The Legend of Zelda 40th Anniversary Edition at Walmart- $519.99",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-02T14:39:57.886498Z",
+  "code": "not_checked",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "Hershey's Assorted Halloween Candy Bulk Variety Pack 70 pieces, 16.89 oz x 2~$15.54 After Multibuy @ Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-10-02T14:34:24.645767Z",
@@ -129894,133 +129974,5 @@
   "rejected_at": "2026-09-18T14:42:32.684619Z",
   "code": "duplicate",
   "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "$9.90 S&S Q Essentia Ionized Alkaline Water, 9.5+ pH, 99.9% Pure, 12 x 1L",
-  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, multi-pack, which we can't reproduce automatically · watched for 12h",
-  "rejected_at": "2026-09-18T14:37:20.414200Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Snyder's of Hanover Sticks Pretzels, 16 Oz~$2.90 After Coupon @ Amazon",
-  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
-  "rejected_at": "2026-09-18T14:37:20.414200Z",
-  "code": "low_score",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Bedsure 25\"x35\" Lightweight Small Dogs Cooling Blanket $8.46",
-  "reason": "Posted at $8.46, but Amazon showed $15.39 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-18T14:37:20.414200Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "techbargains",
-  "raw_title": "Freehill 6-Zone Heating Men's Heated Puffer Vest (Built for -22°F Work) $95.99",
-  "reason": "Posted at $95.99, but Amazon showed $135.99 when we checked — the deal is probably over",
-  "rejected_at": "2026-09-18T14:37:20.414200Z",
-  "code": "price_mismatch",
-  "public": true
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Lavazza House Blend Perfetto Whole Bean Coffee 12oz Bag, Medium Roast, Full-bodied, Intensity 3/5, 100% Arabica, Ideal for Drip Brewers, (Pack of 1) - Package May Vary $6.59",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T14:37:20.414200Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "CTOLITY 2048Wh 2400W Peak 4800W Portable Power Station $519.00",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T14:37:20.414200Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "TICONN 6 Pack Extra Large Moving Bags Heavy Duty with Zippers & Carrying Handles, Durable Storage Bags Moving Boxes for Closet Organizers and Storage (6 Pack, Blue) $22.94",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T14:37:20.414200Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "belVita Breakfast Bars Biscuits, Blueberry, 30 Packs $12.59",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T14:37:20.414200Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Bissell CrossWave HydroSteam Deluxe 3-in-1 Steam Mop, 3515G $279.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T14:37:20.414200Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Pop-Tarts Toaster Pastries, Breakfast Foods, Kids Snacks, Value Pack, Frosted Strawberry (4 Boxes, 64 Pop-Tarts) $13.19",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T14:37:20.414200Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Men's Calvin Klein Acre Black Walking Sneakers Casual Shoes CMACRE Size 12 $42.75",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T14:37:20.414200Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "Shark FlexStyle, Air Multi-Styler & Drying System $199.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T14:37:20.414200Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "On Men's Cloudsurfer Max Running Shoes (Pelican/Limelight) $83.97",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T14:37:20.414200Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealcatcher",
-  "raw_title": "WYBOT C1 Cordless Robotic Pool Vacuum for Inground Pools, Professional | 4-in-1 Robotic Pool Cleaner for Above Ground Pool, 160 Mins Runtime, APP Countrol, Smart Navigation with Powerful Suction $399.98",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T14:37:20.414200Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Nesugar G3 Pro Smart Handheld Clothes Steamer for $20 + free shipping w/ Prime",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T14:37:20.414200Z",
-  "code": "no_signal",
-  "public": false
- },
- {
-  "source": "dealnews",
-  "raw_title": "Morrerfresh Air Ionizer for $20 + free shipping",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-18T14:37:20.414200Z",
-  "code": "not_checked",
-  "public": false
  }
 ]
