@@ -1,6 +1,38 @@
 [
  {
   "source": "slickdeals",
+  "raw_title": "10 Pack Seamless G-string Thongs for Women Underwear No Show Thong Panties $9.99",
+  "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-03T00:22:00.935540Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "[SnS] $8.54 | Real Techniques Miracle Complexion Sponge, 4 Pack, Makeup Blending Sponges at Amazon",
+  "reason": "Community score too low (+1) to pass without a price check — needs Subscribe & Save, which we can't reproduce automatically · watched for 12h",
+  "rejected_at": "2026-10-03T00:22:00.935540Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "slickdeals",
+  "raw_title": "$60 | Wüsthof Urban Farmer 8\" Chef's Knife, Brown at Amazon",
+  "reason": "Community score too low (+0) to pass without a price check — we didn't get to price-check it · watched for 12h",
+  "rejected_at": "2026-10-03T00:22:00.935540Z",
+  "code": "low_score",
+  "public": true
+ },
+ {
+  "source": "dealnews",
+  "raw_title": "4-Piece All-Weather Car Floor Mats for $20 + free shipping w/ Prime",
+  "reason": "Not evaluated",
+  "rejected_at": "2026-10-03T00:22:00.935540Z",
+  "code": "no_signal",
+  "public": false
+ },
+ {
+  "source": "slickdeals",
   "raw_title": "[AC] $27.84 | 3 × 4-Pack 4.6-Oz Colgate 2-in-1 Whitening With Stain Lifters Toothpaste ($9.28 each) at Amazon",
   "reason": "Community score too low (+1) to pass without a price check — we didn't get to price-check it · watched for 12h",
   "rejected_at": "2026-10-03T00:11:10.145259Z",
@@ -129766,21 +129798,5 @@
   "rejected_at": "2026-09-19T00:25:25.090605Z",
   "code": "not_checked",
   "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Women's Memory Foam Fuzzy Slippers Fluffy Plush Indoor Outdoor Non-Slip Thin Sole Winter House Shoes Black, size 5-6 Women's $4.99",
-  "reason": "Not evaluated",
-  "rejected_at": "2026-09-19T00:20:01.060299Z",
-  "code": "not_checked",
-  "public": false
- },
- {
-  "source": "slickdeals",
-  "raw_title": "Amazon Grocery, Diced Tomatoes, No Salt Added, 14.5 Oz x 4~$2.93 With Multibuy & S&S @ Amazon",
-  "reason": "Same deal was already posted from another source",
-  "rejected_at": "2026-09-19T00:20:01.060299Z",
-  "code": "duplicate",
-  "public": true
  }
 ]
